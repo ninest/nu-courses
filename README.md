@@ -1,6 +1,8 @@
 # NU Course API
 
-> Functions to get NU courses
+> Functions to get NU course information
+
+This project is meant to get course data for [ninest/husker](https://github.com/ninest/husker).
 
 ## Build Setup
 
