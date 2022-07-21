@@ -1,4 +1,4 @@
-# NU Course API
+# NU Course
 
 > Functions to get NU course information
 
