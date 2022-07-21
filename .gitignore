@@ -38,3 +38,4 @@ cli/tests/.test_coverage/
 .vscode
 
 raw/
+playground.ts

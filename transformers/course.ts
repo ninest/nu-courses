@@ -1,4 +1,4 @@
-import { Course, NUPath, nuPathMap } from "../types.ts";
+import { Course, NUPath, nuPathMap } from "../banner/types.ts";
 
 // Transform API response course
 export const transformCourse = (course: any): Course => {
@@ -25,5 +25,7 @@ export const transformCourse = (course: any): Course => {
     scheduleType: course.scheduleTypeDescription,
     credits: course.creditHourLow,
     nuPath,
+
+    _termCode: course.term,
   };
 };

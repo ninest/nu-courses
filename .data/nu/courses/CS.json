@@ -1,0 +1,1039 @@
+[
+  {
+    "referenceNumber": "10877",
+    "subject": "CS",
+    "number": "1100",
+    "title": "Computer Science and Its Applications",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "AD"
+    ],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "14001",
+    "subject": "CS",
+    "number": "1101",
+    "title": "Lab for CS 1100",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19153",
+    "subject": "CS",
+    "number": "1200",
+    "title": "First Year Seminar",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19155",
+    "subject": "CS",
+    "number": "1210",
+    "title": "Professional Development for Khoury Co-op",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20303",
+    "subject": "CS",
+    "number": "2800",
+    "title": "Logic and Computation",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "14632",
+    "subject": "CS",
+    "number": "2810",
+    "title": "Mathematics of Data Models",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "AD",
+      "FQ"
+    ],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19188",
+    "subject": "CS",
+    "number": "3540",
+    "title": "Game Programming",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "12656",
+    "subject": "CS",
+    "number": "3650",
+    "title": "Computer Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20956",
+    "subject": "CS",
+    "number": "3700",
+    "title": "Networks and Distributed Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "14004",
+    "subject": "CS",
+    "number": "3950",
+    "title": "Introduction to Computer Science Research",
+    "scheduleType": "Seminar",
+    "credits": 2,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "11560",
+    "subject": "CS",
+    "number": "4100",
+    "title": "Artificial Intelligence",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "12726",
+    "subject": "CS",
+    "number": "4120",
+    "title": "Natural Language Processing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "14169",
+    "subject": "CS",
+    "number": "4180",
+    "title": "Reinforcement Learning",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "16230",
+    "subject": "CS",
+    "number": "4410",
+    "title": "Compilers",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19191",
+    "subject": "CS",
+    "number": "4500",
+    "title": "Software Development",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "WI"
+    ],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19697",
+    "subject": "CS",
+    "number": "4530",
+    "title": "Fundamentals of Software Engineering",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "WI"
+    ],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "12971",
+    "subject": "CS",
+    "number": "4550",
+    "title": "Web Development",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "14241",
+    "subject": "CS",
+    "number": "4700",
+    "title": "Network Fundamentals",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "14170",
+    "subject": "CS",
+    "number": "4810",
+    "title": "Advanced Algorithms",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "16232",
+    "subject": "CS",
+    "number": "4820",
+    "title": "Computer-Aided Reasoning",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE"
+    ],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "14005",
+    "subject": "CS",
+    "number": "4950",
+    "title": "Machine Learn Research Seminar",
+    "scheduleType": "Seminar",
+    "credits": 1,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20817",
+    "subject": "CS",
+    "number": "4973",
+    "title": "Natl Lang Proces for Robotics ",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19975",
+    "subject": "CS",
+    "number": "5001",
+    "title": "Intensive Foundations of Computer Science",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20063",
+    "subject": "CS",
+    "number": "5003",
+    "title": "Recitation for CS 5001",
+    "scheduleType": "Recitation/Discussion",
+    "credits": 0,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20066",
+    "subject": "CS",
+    "number": "5004",
+    "title": "Object-Oriented Design",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20214",
+    "subject": "CS",
+    "number": "5005",
+    "title": "Recitation for CS 5004",
+    "scheduleType": "Recitation/Discussion",
+    "credits": 0,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20068",
+    "subject": "CS",
+    "number": "5008",
+    "title": "Data Structures, Algorithms, and Their Applications within Computer Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20069",
+    "subject": "CS",
+    "number": "5009",
+    "title": "Recitation for CS 5008",
+    "scheduleType": "Recitation/Discussion",
+    "credits": 0,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20728",
+    "subject": "CS",
+    "number": "5010",
+    "title": "Programming Design Paradigm",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20729",
+    "subject": "CS",
+    "number": "5011",
+    "title": "Recitation for CS 5010",
+    "scheduleType": "Recitation/Discussion",
+    "credits": 0,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20064",
+    "subject": "CS",
+    "number": "5100",
+    "title": "Foundations of Artificial Intelligence",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "16914",
+    "subject": "CS",
+    "number": "5170",
+    "title": "Artificial Intelligence for Human-Computer Interaction",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "13987",
+    "subject": "CS",
+    "number": "5180",
+    "title": "Reinforcement Learning and Sequential Decision Making",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20005",
+    "subject": "CS",
+    "number": "5330",
+    "title": "Pattern Recognition and Computer Vision",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19982",
+    "subject": "CS",
+    "number": "5400",
+    "title": "Principles of Programming Language",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20076",
+    "subject": "CS",
+    "number": "5500",
+    "title": "Foundations of Software Engineering",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "WI"
+    ],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20332",
+    "subject": "CS",
+    "number": "5600",
+    "title": "Computer Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20007",
+    "subject": "CS",
+    "number": "5700",
+    "title": "Fundamentals of Computer Networking",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20941",
+    "subject": "CS",
+    "number": "5800",
+    "title": "Algorithms",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "FQ"
+    ],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "21052",
+    "subject": "CS",
+    "number": "6120",
+    "title": "Natural Language Processing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20937",
+    "subject": "CS",
+    "number": "6140",
+    "title": "Machine Learning",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20010",
+    "subject": "CS",
+    "number": "6200",
+    "title": "Information Retrieval",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20938",
+    "subject": "CS",
+    "number": "6220",
+    "title": "Data Mining Techniques",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20011",
+    "subject": "CS",
+    "number": "6240",
+    "title": "Large-Scale Parallel Data Processing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19888",
+    "subject": "CS",
+    "number": "6350",
+    "title": "Empirical Research Methods",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "16236",
+    "subject": "CS",
+    "number": "6410",
+    "title": "Compilers",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20261",
+    "subject": "CS",
+    "number": "6650",
+    "title": "Building Scalable Distributed Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19202",
+    "subject": "CS",
+    "number": "7150",
+    "title": "Deep Learning",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20230",
+    "subject": "CS",
+    "number": "7180",
+    "title": "Special Topics in Artificial Intelligence",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19203",
+    "subject": "CS",
+    "number": "7200",
+    "title": "Statistical Methods for Computer Science",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19808",
+    "subject": "CS",
+    "number": "7290",
+    "title": "Special Topics in Data Science",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20650",
+    "subject": "CS",
+    "number": "7295",
+    "title": "SpTp: Data Vis for ML",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19204",
+    "subject": "CS",
+    "number": "7340",
+    "title": "Theory and Methods in Human Computer Interaction",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "17228",
+    "subject": "CS",
+    "number": "7485",
+    "title": "Special Topics in Formal Methods",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19205",
+    "subject": "CS",
+    "number": "7610",
+    "title": "Foundations of Distributed Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19206",
+    "subject": "CS",
+    "number": "7670",
+    "title": "Seminar in Computer Systems",
+    "scheduleType": "Seminar",
+    "credits": 2,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "21031",
+    "subject": "CS",
+    "number": "7675",
+    "title": "Master&#39;s Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "19207",
+    "subject": "CS",
+    "number": "7800",
+    "title": "Advanced Algorithms",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20928",
+    "subject": "CS",
+    "number": "7880",
+    "title": "Special Topics in Theoretical Computer Science",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20758",
+    "subject": "CS",
+    "number": "7930",
+    "title": "Effective Scientific Writing in Computer Science",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20313",
+    "subject": "CS",
+    "number": "7980",
+    "title": "Capstone",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "20663",
+    "subject": "CS",
+    "number": "7990",
+    "title": "Thesis",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202310"
+  },
+  {
+    "referenceNumber": "60976",
+    "subject": "CS",
+    "number": "4910",
+    "title": "Computer Graphics Spec. Topics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202260"
+  },
+  {
+    "referenceNumber": "61434",
+    "subject": "CS",
+    "number": "5340",
+    "title": "Computer/Human Interaction",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202260"
+  },
+  {
+    "referenceNumber": "61531",
+    "subject": "CS",
+    "number": "5965",
+    "title": "Engaging with Industry Partners for Rising Professionals",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "nuPath": [],
+    "_termCode": "202260"
+  },
+  {
+    "referenceNumber": "61306",
+    "subject": "CS",
+    "number": "7380",
+    "title": "Special Topics in Graphics/Image Processing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202260"
+  },
+  {
+    "referenceNumber": "40542",
+    "subject": "CS",
+    "number": "1800",
+    "title": "Discrete Structures",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "FQ"
+    ],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "40543",
+    "subject": "CS",
+    "number": "1802",
+    "title": "Seminar for CS 1800",
+    "scheduleType": "Seminar",
+    "credits": 1,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "40459",
+    "subject": "CS",
+    "number": "2500",
+    "title": "Fundamentals of Computer Science 1",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "FQ",
+      "ND"
+    ],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "40293",
+    "subject": "CS",
+    "number": "2501",
+    "title": "Lab for CS 2500",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "40107",
+    "subject": "CS",
+    "number": "2510",
+    "title": "Fundamentals of Computer Science 2",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "AD",
+      "ND"
+    ],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "40245",
+    "subject": "CS",
+    "number": "2511",
+    "title": "Lab for CS 2510",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41552",
+    "subject": "CS",
+    "number": "3000",
+    "title": "Algorithms and Data",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "FQ"
+    ],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41555",
+    "subject": "CS",
+    "number": "3001",
+    "title": "Recitation for CS 3000",
+    "scheduleType": "Recitation/Discussion",
+    "credits": 0,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41740",
+    "subject": "CS",
+    "number": "3200",
+    "title": "Database Design",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "AD"
+    ],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41137",
+    "subject": "CS",
+    "number": "3500",
+    "title": "Object-Oriented Design",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "AD",
+      "ND"
+    ],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41567",
+    "subject": "CS",
+    "number": "3501",
+    "title": "Lab for CS 3500",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "40967",
+    "subject": "CS",
+    "number": "3520",
+    "title": "Programming in C++",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "40675",
+    "subject": "CS",
+    "number": "3800",
+    "title": "Theory of Computation",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "40968",
+    "subject": "CS",
+    "number": "4300",
+    "title": "Computer Graphics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41568",
+    "subject": "CS",
+    "number": "4400",
+    "title": "Programming Languages",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41569",
+    "subject": "CS",
+    "number": "4520",
+    "title": "Mobile Application Development",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41574",
+    "subject": "CS",
+    "number": "5002",
+    "title": "Discrete Structures",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41575",
+    "subject": "CS",
+    "number": "5200",
+    "title": "Database Management Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "AD",
+      "FQ"
+    ],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "40969",
+    "subject": "CS",
+    "number": "5310",
+    "title": "Computer Graphics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41576",
+    "subject": "CS",
+    "number": "5520",
+    "title": "Mobile Application Development",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41655",
+    "subject": "CS",
+    "number": "5610",
+    "title": "Web Development",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41956",
+    "subject": "CS",
+    "number": "5976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 2,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41728",
+    "subject": "CS",
+    "number": "6620",
+    "title": "Fundamentals of Cloud Computing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41729",
+    "subject": "CS",
+    "number": "6760",
+    "title": "Privacy, Security, and Usability",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41990",
+    "subject": "CS",
+    "number": "6954",
+    "title": "Co-op Work Experience - Half-Time",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41948",
+    "subject": "CS",
+    "number": "6964",
+    "title": "Co-op Work Experience",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41977",
+    "subject": "CS",
+    "number": "8674",
+    "title": "Master&amp;#8217;s Project",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41960",
+    "subject": "CS",
+    "number": "8949",
+    "title": "Research Work Experience",
+    "scheduleType": "Off-campus instruction",
+    "credits": 0,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41995",
+    "subject": "CS",
+    "number": "8982",
+    "title": "Readings",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41973",
+    "subject": "CS",
+    "number": "8986",
+    "title": "Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41916",
+    "subject": "CS",
+    "number": "9991",
+    "title": "Dissertation Term 2",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "_termCode": "202240"
+  },
+  {
+    "referenceNumber": "41738",
+    "subject": "CS",
+    "number": "9996",
+    "title": "Dissertation Continuation",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "_termCode": "202240"
+  }
+]

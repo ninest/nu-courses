@@ -1,45 +1,42 @@
-import { getCoursesForTerm } from "./course.ts";
-import { writeJSON } from "./file.ts";
-import { getAllSubjects } from "./subject.ts";
-import { getTerms } from "./term.ts";
+import { getCoursesForTerm, searchPost } from "./banner/course.ts";
+import { getAllSubjects } from "./banner/subject.ts";
+import { getTerms } from "./banner/term.ts";
+import { Course } from "./banner/types.ts";
 import { transformCourse } from "./transformers/course.ts";
-import { Course } from "./types.ts";
+import { writeJSON } from "./util/file.ts";
 
-const { terms, cookie } = await getTerms({ noTerms: 9 });
-await writeJSON("./data/terms.json", terms);
-console.log("Found terms");
+const { cookie } = await getTerms({ noTerms: 1 });
+// await writeJSON("./data/terms.json", terms);
+// console.log("Found terms");
 
-const subjects = await getAllSubjects(terms);
+// Only use Fall 2022
+const fallTerm = {
+  code: "202310",
+  description: "Fall 2022 Semester",
+};
+
+const subjects = await getAllSubjects([fallTerm]);
 await writeJSON("./data/subjects.json", subjects);
 console.log("Found subjects");
 
-// For now, only look for CS Fall 22 courses
-for await (const subject of [{ code: "CS" }]) {
-  console.log(`Finding ${subject.code} courses ...`);
+// Create the object
+const fetchedCourses: Record<string, Course[]> = {};
+subjects.forEach((subject) => (fetchedCourses[subject.code] = []));
 
-  const courses: Course[] = [];
-  for await (const term of [{ code: "202310" }]) {
-    console.log(`${subject.code} ${term.code}`);
+for await (const subject of subjects) {
+  console.log(`Starting ${subject.code}`);
 
-    // We don't care about the terms; we only care about "courses", not section
-    const coursesForTerm = await getCoursesForTerm(
-      cookie,
-      term.code,
-      subject.code
-    );
-    if (coursesForTerm) {
-      courses.push(...coursesForTerm);
-    }
-  }
-
-  const transformedCourses = courses.map(transformCourse);
-
-  // remove duplicates
-  const courseNumbers = transformedCourses.map((course) => course.number);
-  const uniqueCourses = transformedCourses.filter(
-    (course, index) => !courseNumbers.includes(course.number, index + 1)
+  await searchPost(cookie, fallTerm.code);
+  const coursesForTerm = await getCoursesForTerm(
+    cookie,
+    fallTerm.code,
+    subject.code
   );
 
-  await writeJSON(`./data/courses/${subject.code}.json`, uniqueCourses);
-  console.log(`Found ${subject.code} courses`);
+  // fetchedCourses[subject.code].push(...coursesForTerm);
+  writeJSON(
+    `./data/courses/${subject.code}.json`,
+    coursesForTerm.map(transformCourse)
+  );
+  console.log(`Finished ${subject.code}`);
 }
