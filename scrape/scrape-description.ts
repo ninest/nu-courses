@@ -35,5 +35,5 @@ for await (const [index, subject] of subjects!.entries()) {
     coursesWithDescriptions
   );
 
-  console.log(`${index + 1}/${noSubjects} subjects done`);
+  console.log(`${index + 1}/${noSubjects} ${subject.code} done`);
 }
