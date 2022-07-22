@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "fetch:subjects": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-subjects.ts",
+    "fetch:courses": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-courses.ts",
+    "fetch:descriptions": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-description.ts"
+  },
+  "importMap": "./import_map.json"
+}
