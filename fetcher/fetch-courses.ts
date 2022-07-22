@@ -1,10 +1,10 @@
-import { getCoursesForTerm, searchPost } from "/banner/course.ts";
-import { getTerms } from "/banner/term.ts";
-import { Course, Subject } from "/banner/types.ts";
-import { transformCourse } from "/transformers/course.ts";
-import { dedupAndMerge } from "/util/dedup-merge.ts";
-import { readJSON, writeJSON } from "/util/file.ts";
-import { FOLDER_PATH, TERMS } from "/fetcher/constants.ts";
+import { getCoursesForTerm, searchPost } from "@/banner/course.ts";
+import { getTerms } from "@/banner/term.ts";
+import { Course, Subject } from "@/banner/types.ts";
+import { transformCourse } from "@/transformers/course.ts";
+import { dedupAndMerge } from "@/util/dedup-merge.ts";
+import { readJSON, writeJSON } from "@/util/file.ts";
+import { FOLDER_PATH, TERMS } from "@/fetcher/constants.ts";
 
 const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
 

@@ -1,5 +1,5 @@
-import { Subject, Term } from "/banner/types.ts";
-import { dedup } from "/util/dedup.ts";
+import { Subject, Term } from "@/banner/types.ts";
+import { dedup } from "@/util/dedup.ts";
 
 // Requires terms to be passed in
 export const getAllSubjects = async (terms: Term[]): Promise<Subject[]> => {

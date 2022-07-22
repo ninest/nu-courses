@@ -1,4 +1,4 @@
-import { Course } from "/banner/types.ts";
+import { Course } from "@/banner/types.ts";
 
 export const searchPost = async (cookie: string, termCode: string) => {
   const form = new FormData();

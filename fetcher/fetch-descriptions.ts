@@ -1,7 +1,7 @@
-import { getCourseDescription } from "/banner/description.ts";
-import { Course, Subject } from "/banner/types.ts";
-import { FOLDER_PATH } from "/fetcher/constants.ts";
-import { readJSON, writeJSON } from "/util/file.ts";
+import { getCourseDescription } from "@/banner/description.ts";
+import { Course, Subject } from "@/banner/types.ts";
+import { FOLDER_PATH } from "@/fetcher/constants.ts";
+import { readJSON, writeJSON } from "@/util/file.ts";
 
 // We are assuming that the same course
 
