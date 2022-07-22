@@ -1,9 +1,9 @@
-import { getCoursesForTerm, searchPost } from "./banner/course.ts";
-import { getAllSubjects } from "./banner/subject.ts";
-import { getTerms } from "./banner/term.ts";
-import { Course } from "./banner/types.ts";
-import { transformCourse } from "./transformers/course.ts";
-import { writeJSON } from "./util/file.ts";
+import { getCoursesForTerm, searchPost } from "/banner/course.ts";
+import { getAllSubjects } from "/banner/subject.ts";
+import { getTerms } from "/banner/term.ts";
+import { Course } from "/banner/types.ts";
+import { transformCourse } from "/transformers/course.ts";
+import { writeJSON } from "/util/file.ts";
 
 const { cookie } = await getTerms({ noTerms: 1 });
 // await writeJSON("./data/terms.json", terms);

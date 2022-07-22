@@ -1,5 +1,4 @@
-import { getTerms } from "./term.ts";
-import { Course } from "./types.ts";
+import { Course } from "/banner/types.ts";
 
 export const searchPost = async (cookie: string, termCode: string) => {
   const form = new FormData();
@@ -15,7 +14,6 @@ export const searchPost = async (cookie: string, termCode: string) => {
       new URLSearchParams({ mode: "search" }),
     {
       method: "POST",
-      // @ts-ignore
       body: form,
       credentials: "include",
       headers: { cookie },

@@ -35,7 +35,7 @@ Note that the output folder (`.data/nu` in this example) should contain a folder
 To fetch all subjects, run 
 
 ```bash
-deno -A run ./scrape/scrape-subjects.ts
+deno task fetch:subjects
 ```
 
 This should create a file called `subjects.json` in the output folder path with a list of subjects containing a `code` and `description`:
@@ -59,7 +59,7 @@ This should create a file called `subjects.json` in the output folder path with 
 To fetch all courses under each subject, run
 
 ```bash
-deno -A run ./scrape/scrape-courses.ts
+deno task fetch:courses
 ```
 
 This will take a **long** time, so follow the progress through the logs. 
@@ -71,5 +71,5 @@ This will create a file for each subject in the `courses` folder in the output p
 To fetch all descriptions for courses, run
 
 ```bash
-deno -A run ./scrape/scrape-descriptions.ts
+deno task fetch:descriptions
 ```
