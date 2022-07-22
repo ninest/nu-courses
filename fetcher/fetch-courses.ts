@@ -33,10 +33,20 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
     );
   }
 
+  // Some sections have the required NUpath while others don't
+  const combinedNuPath = dedupAndMerge({
+    primaryKey: "number",
+    mergeKey: "nuPath",
+    items: courses,
+    type: "list",
+  });
+
+  // Merge terms and references
   const uniqueCourses = dedupAndMerge({
     primaryKey: "number",
     mergeKey: "_termReferenceMap",
-    items: courses,
+    items: combinedNuPath,
+    type: "object",
   });
 
   writeJSON(`${FOLDER_PATH}/courses/${subject.code}.json`, uniqueCourses);
