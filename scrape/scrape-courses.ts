@@ -2,7 +2,7 @@ import { getCoursesForTerm, searchPost } from "../banner/course.ts";
 import { getTerms } from "../banner/term.ts";
 import { Course, Subject } from "../banner/types.ts";
 import { transformCourse } from "../transformers/course.ts";
-import { dedup } from "../util/dedup.ts";
+import { dedupAndMerge } from "../util/dedup-merge.ts";
 import { readJSON, writeJSON } from "../util/file.ts";
 import { FOLDER_PATH, TERMS } from "./constants.ts";
 
@@ -33,7 +33,12 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
     );
   }
 
-  const uniqueCourses = dedup("number", courses);
+  const uniqueCourses = dedupAndMerge({
+    primaryKey: "number",
+    mergeKey: "_termReferenceMap",
+    items: courses,
+  });
+
   writeJSON(`${FOLDER_PATH}/courses/${subject.code}.json`, uniqueCourses);
 
   console.log(`${subjectIndex + 1}/${noSubjects} ${subject.code} done`);

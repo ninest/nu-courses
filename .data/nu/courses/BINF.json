@@ -1,1 +1,105 @@
-[{"referenceNumber":"20898","subject":"BINF","number":"6200","title":"Bioinformatics Programming","scheduleType":"Lecture","credits":4,"nuPath":[],"_termCode":"202310","description":"Focuses on the fundamental programming skills required in the bioinformatics industry. Focuses on Python and R as the main programming language used. Topics include string operations, file manipulation, regular expressions, object-oriented programming, data structures, testing, program design, and implementation. Includes substantial out-of-classroom assignments."},{"referenceNumber":"21015","subject":"BINF","number":"6308","title":"Bioinformatics Computational Methods 1","scheduleType":"Lecture","credits":4,"nuPath":[],"_termCode":"202310","description":"Offers the first semester of a two-semester sequence on the use of computers in bioinformatics research. Offers students an opportunity to work with current methods and computational algorithms used in contemporary sequence analysis. Teaches practical skills necessary to manage and mine the vast biological information being generated and housed in public databases. Emphasizes the use of Python as the primary computer language and requires students to learn and understand basic computer logic and syntax, including an introduction to scalars, arrays, hashes, decision statements, loops, subroutines, references, and regular expressions. A focus on fundamental skills, including the command line interface found in the Linux operating system, is designed to prepare students for second-semester applications."},{"referenceNumber":"12582","subject":"BINF","number":"6309","title":"Bioinformatics Computational Methods 2","scheduleType":"Lecture","credits":4,"nuPath":[],"_termCode":"202310","description":"Designed to build upon the core topics covered in BINF 6308, i.e., use of the computer as a tool for bioinformatics research. Builds upon the Python language fundamentals covered during the first semester but requires students to apply these fundamentals to a semester-long project. The project includes protein family analysis, multiple sequence analysis, phylogeny, and protein structure analysis. Additionally, students have an opportunity to learn to build, load, connect, and query custom MySQL databases, and parse command line flags."},{"referenceNumber":"14650","subject":"BINF","number":"6400","title":"Genomics in Bioinformatics","scheduleType":"Lecture","credits":4,"nuPath":[],"_termCode":"202310","description":"Introduces the field of genomics. With the completion of the Human Genome Project several years ago, there has been an explosion of genetic data collected. Focuses on the bioinformatics tools necessary to analyze large-scale genomic data. Covers topics such as phylogenetic trees, molecular evolution, gene expression profiling, heterogeneous genomic data, as well as next-generation sequencing (NGS) data."},{"referenceNumber":"14653","subject":"BINF","number":"6500","title":"Professional Development for Co-op","scheduleType":"Lecture","credits":0,"nuPath":[],"_termCode":"202310","description":"Introduces the cooperative education program. Offers students an opportunity to develop job-search and career-management skills; to assess their workplace skills, interests, and values and to discuss how they impact personal career choices; to prepare a professional resum&eacute;; and to learn proper interviewing techniques. Explores career paths, choices, professional behaviors, work culture, and career decision making."},{"referenceNumber":"61372","subject":"BINF","number":"6900","title":"Pre&ndash;Co-op Experience","scheduleType":"Off-campus instruction","credits":0,"nuPath":[],"_termCode":"202260","description":"Offers students an opportunity to gain necessary skills and practical experience in order to prepare for graduate co-op."},{"referenceNumber":"61283","subject":"BINF","number":"6954","title":"Co-op Work Experience - Half-Time","scheduleType":"Individual Instruction","credits":0,"nuPath":[],"_termCode":"202260","description":"Provides eligible students with an opportunity for work experience. May be repeated without limit."},{"referenceNumber":"61284","subject":"BINF","number":"6965","title":"Co-op Work Experience Abroad","scheduleType":"Individual Instruction","credits":0,"nuPath":[],"_termCode":"202260","description":"Offers eligible students an opportunity for work experience abroad. May be repeated without limit."},{"referenceNumber":"40448","subject":"BINF","number":"6964","title":"Co-op Work Experience","scheduleType":"Individual Instruction","credits":0,"nuPath":[],"_termCode":"202240","description":"Provides eligible students with an opportunity for work experience. May be repeated without limit."}]
+[
+  {
+    "subject": "BINF",
+    "number": "6200",
+    "title": "Bioinformatics Programming",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termReferenceMap": {
+      "202310": "20898"
+    }
+  },
+  {
+    "subject": "BINF",
+    "number": "6308",
+    "title": "Bioinformatics Computational Methods 1",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termReferenceMap": {
+      "202310": "21015"
+    }
+  },
+  {
+    "subject": "BINF",
+    "number": "6309",
+    "title": "Bioinformatics Computational Methods 2",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termReferenceMap": {
+      "202310": "12582"
+    }
+  },
+  {
+    "subject": "BINF",
+    "number": "6400",
+    "title": "Genomics in Bioinformatics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "_termReferenceMap": {
+      "202310": "14650"
+    }
+  },
+  {
+    "subject": "BINF",
+    "number": "6500",
+    "title": "Professional Development for Co-op",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "nuPath": [],
+    "_termReferenceMap": {
+      "202310": "14653"
+    }
+  },
+  {
+    "subject": "BINF",
+    "number": "6954",
+    "title": "Co-op Work Experience - Half-Time",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "_termReferenceMap": {
+      "202260": "61283",
+      "202310": "15188"
+    }
+  },
+  {
+    "subject": "BINF",
+    "number": "6964",
+    "title": "Co-op Work Experience",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "_termReferenceMap": {
+      "202240": "40448",
+      "202260": "61513",
+      "202310": "13210"
+    }
+  },
+  {
+    "subject": "BINF",
+    "number": "6965",
+    "title": "Co-op Work Experience Abroad",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "_termReferenceMap": {
+      "202260": "61284",
+      "202310": "13807"
+    }
+  },
+  {
+    "subject": "BINF",
+    "number": "6900",
+    "title": "Pre&ndash;Co-op Experience",
+    "scheduleType": "Off-campus instruction",
+    "credits": 0,
+    "nuPath": [],
+    "_termReferenceMap": {
+      "202260": "61372"
+    }
+  }
+]

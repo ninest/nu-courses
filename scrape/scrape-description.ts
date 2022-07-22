@@ -17,10 +17,12 @@ for await (const [index, subject] of subjects!.entries()) {
 
   const noCourses = courses?.length;
   for await (const [courseIndex, course] of courses!.entries()) {
-    const description = await getCourseDescription(
-      course._termCode,
-      course.referenceNumber
-    );
+    // Find the first term code along with the reference number
+    const termCode = Object.keys(course._termReferenceMap)[0];
+    const referenceNumber = course._termReferenceMap[termCode];
+
+    const description = await getCourseDescription(termCode, referenceNumber);
+
     coursesWithDescriptions.push({ ...course, description });
 
     console.log(

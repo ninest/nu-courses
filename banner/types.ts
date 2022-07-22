@@ -13,7 +13,6 @@ export interface Subject {
 
 export interface Course {
   // No term for courses. Terms are only required for sections
-  referenceNumber: string; // Required to get coreqs and prereqs
   subject: string;
   number: string;
   scheduleType: string;
@@ -22,7 +21,10 @@ export interface Course {
   nuPath: NUPath[];
   description?: string;
 
-  _termCode: string; // Used for fetching description
+  // Mapping of term code to reference number
+  _termReferenceMap: Record<string, string>;
+  // referenceNumber: string; // Required to get coreqs and prereqs
+  // _termCode: string; // Used for fetching description
 }
 
 export const nuPath = [

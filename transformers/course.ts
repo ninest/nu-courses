@@ -18,7 +18,6 @@ export const transformCourse = (course: any): Course => {
   });
 
   return {
-    referenceNumber: course.courseReferenceNumber,
     subject: course.subject,
     number: course.courseNumber,
     title: course.courseTitle,
@@ -26,6 +25,6 @@ export const transformCourse = (course: any): Course => {
     credits: course.creditHourLow,
     nuPath,
 
-    _termCode: course.term,
+    _termReferenceMap: { [course.term]: course.courseReferenceNumber },
   };
 };
