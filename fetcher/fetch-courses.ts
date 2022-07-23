@@ -33,7 +33,11 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
     transformedCourses.forEach((course) => {
       const previousCourse = previouslyFetchedCourses?.find((c) => c.number == course.number);
       if (previousCourse) {
-        courses.push(deepmerge(previousCourse, course));
+        const mergedCourse = deepmerge(previousCourse, course);
+        // This causes sections to get duplicates, so remove them
+        mergedCourse.sections = _.uniqBy(mergedCourse.sections, "crn");
+        // TODO: are CRNs repeated?
+        courses.push(mergedCourse)
       } else {
         // If it doesn't exist, push as normal
         courses.push(course);
