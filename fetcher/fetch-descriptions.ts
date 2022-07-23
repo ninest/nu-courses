@@ -4,6 +4,7 @@ import { FOLDER_PATH } from "@/fetcher/constants.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
 
 const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
+// const subjects = [{ code: "CS" }];
 
 const noSubjects = subjects?.length;
 for await (const [index, subject] of subjects!.entries()) {
@@ -11,17 +12,27 @@ for await (const [index, subject] of subjects!.entries()) {
     `${FOLDER_PATH}/courses/${subject.code}.json`
   );
 
-  const coursesWithDescriptions: Course[] = [];
-
   const noCourses = courses?.length;
   for await (const [courseIndex, course] of courses!.entries()) {
-    // Find the first term code along with the reference number
-    const termCode = Object.keys(course._termReferenceMap)[0];
-    const referenceNumber = course._termReferenceMap[termCode];
+    /* 
+    - Different sections (Like accelerated vs regular fundies) may have different descriptions 
+    - Start fetching descriptions of sections, and if two are the same, use that
+    - Accelerated section descriptions are not very informative, so use the default section description
+    TODO: what if the first two courses are both accelerated and the description is the same?
+    */
 
-    const description = await getCourseDescription(termCode, referenceNumber);
+    const sectionDescriptions: string[] = [];
 
-    coursesWithDescriptions.push({ ...course, description });
+    for (const section of course.sections) {
+      const description = await getCourseDescription(section.term, section.crn);
+
+      if (sectionDescriptions.includes(description)) {
+        course.description = description;
+        break;
+      }
+
+      sectionDescriptions.push(description);
+    }
 
     console.log(
       `${index + 1}/${noSubjects} : ${
@@ -30,10 +41,7 @@ for await (const [index, subject] of subjects!.entries()) {
     );
   }
 
-  writeJSON(
-    `${FOLDER_PATH}/courses/${subject.code}.json`,
-    coursesWithDescriptions
-  );
+  writeJSON(`${FOLDER_PATH}/courses/${subject.code}.json`, courses);
 
   console.log(`${index + 1}/${noSubjects} ${subject.code} done`);
 }

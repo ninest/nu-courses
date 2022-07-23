@@ -5,6 +5,7 @@ export const transformCourse = (course: any): Course => {
   const nuPath: NUPath[] = [];
 
   course.sectionAttributes.forEach((attribute: any) => {
+    // Handle nupath
     const description: string = attribute.description;
     if (description.includes("NUpath")) {
       const nuPathDescription = description.split("NUpath ")[1];
@@ -25,6 +26,11 @@ export const transformCourse = (course: any): Course => {
     credits: course.creditHourLow,
     nuPath,
 
-    _termReferenceMap: { [course.term]: course.courseReferenceNumber },
+    sections: [
+      {
+        term: course.term,
+        crn: course.courseReferenceNumber,
+      },
+    ],
   };
 };
