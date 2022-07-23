@@ -7,8 +7,8 @@ import { readJSON, writeJSON } from "@/util/file.ts";
 import { deepmerge } from "deepmergets";
 import _ from "lodash";
 
-const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
-// const subjects = [{ code: "CS" }];
+// const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
+const subjects = [{ code: "CS" }];
 
 // Get the cookie
 const { cookie } = await getTerms({ noTerms: 1 /* Can it always be one? */ });
@@ -19,8 +19,13 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
 
   // Get previous courses to merge in with, so no need to refetch descriptions/others after fetching courses
   const previouslyFetchedCourses = await readJSON<Course[]>(
-    `${FOLDER_PATH}/courses/${subject.code}.json`
+    `${FOLDER_PATH}/courses/${subject.code}.json`,
+    []
   );
+
+  if (previouslyFetchedCourses?.length == 0) {
+    console.log(`Fetching ${subject.code} courses for the first time`);
+  }
 
   const noTerms = TERMS?.length;
   for await (const [termIndex, term] of TERMS!.entries()) {
