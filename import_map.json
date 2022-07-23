@@ -1,5 +1,7 @@
 {
   "imports": {
-    "@/": "./"
+    "@/": "./",
+    "lodash": "https://cdn.skypack.dev/lodash-es@^4.17.15",
+    "deepmergets": "https://deno.land/x/deepmergets@v4.2.1/dist/deno/index.ts"
   }
 }

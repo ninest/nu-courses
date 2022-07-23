@@ -1,12 +1,14 @@
 import { getCoursesForTerm, searchPost } from "@/banner/course.ts";
 import { getTerms } from "@/banner/term.ts";
 import { Course, Subject } from "@/banner/types.ts";
-import { transformCourse } from "@/transformers/course.ts";
-import { dedupAndMerge } from "@/util/dedup-merge.ts";
-import { readJSON, writeJSON } from "@/util/file.ts";
 import { FOLDER_PATH, TERMS } from "@/fetcher/constants.ts";
+import { transformCourse } from "@/transformers/course.ts";
+import { readJSON, writeJSON } from "@/util/file.ts";
+import { deepmerge } from "deepmergets";
+import _ from "lodash";
 
 const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
+// const subjects = [{ code: "CS" }];
 
 // Get the cookie
 const { cookie } = await getTerms({ noTerms: 1 /* Can it always be one? */ });
@@ -33,21 +35,20 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
     );
   }
 
-  // Some sections have the required NUpath while others don't
-  const combinedNuPath = dedupAndMerge({
-    primaryKey: "number",
-    mergeKey: "nuPath",
-    items: courses,
-    type: "list",
-  });
+  /* 
+  - Some sections have required NUpath while others don't
+  - Descriptions between sections can be different (Fundies vs Fundies Acc), so we need to get all CRNs for each term
+  */
 
-  // Merge terms and references
-  const uniqueCourses = dedupAndMerge({
-    primaryKey: "number",
-    mergeKey: "_termReferenceMap",
-    items: combinedNuPath,
-    type: "object",
-  });
+  const courseNumberToCourses = _.groupBy(courses, "number");
+
+  const uniqueCourses: Course[] = Object.keys(courseNumberToCourses)
+    .map(
+      (courseNumber) =>
+        deepmerge(...courseNumberToCourses[courseNumber]) as Course
+    )
+    // Extra step: remove duplicates in NUpath list
+    .map((course: Course) => ({ ...course, nuPath: _.uniq(course.nuPath) }));
 
   writeJSON(`${FOLDER_PATH}/courses/${subject.code}.json`, uniqueCourses);
 
