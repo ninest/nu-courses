@@ -37,8 +37,9 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
 
         courses.push(mergedCourse);
       } else {
-        console.log(`${course.subject} ${course.number} is new!`);
-        
+        if (previouslyFetchedCourses?.length !== 0)
+          console.log(`${course.subject} ${course.number} is new!`);
+
         // If it doesn't exist, push as normal
         courses.push(course);
       }
