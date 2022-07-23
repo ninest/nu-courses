@@ -7,8 +7,8 @@ import { readJSON, writeJSON } from "@/util/file.ts";
 import { deepmerge } from "deepmergets";
 import _ from "lodash";
 
-// const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
-const subjects = [{ code: "CS" }];
+const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
+// const subjects = [{ code: "CS" }];
 
 // Get the cookie
 const { cookie } = await getTerms({ noTerms: 1 /* Can it always be one? */ });
@@ -34,11 +34,11 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
       const previousCourse = previouslyFetchedCourses?.find((c) => c.number == course.number);
       if (previousCourse) {
         const mergedCourse = deepmerge(previousCourse, course);
-        // This causes sections to get duplicates, so remove them
-        mergedCourse.sections = _.uniqBy(mergedCourse.sections, "crn");
-        // TODO: are CRNs repeated?
-        courses.push(mergedCourse)
+
+        courses.push(mergedCourse);
       } else {
+        console.log(`${course.subject} ${course.number} is new!`);
+        
         // If it doesn't exist, push as normal
         courses.push(course);
       }
@@ -58,7 +58,12 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
   const uniqueCourses: Course[] = Object.keys(courseNumberToCourses)
     .map((courseNumber) => deepmerge(...courseNumberToCourses[courseNumber]) as Course)
     // Extra step: remove duplicates in NUpath list
-    .map((course: Course) => ({ ...course, nuPath: _.uniq(course.nuPath) }));
+    .map((course: Course) => ({
+      ...course,
+      // TODO: are CRNs repeated?
+      sections: _.uniqBy(course.sections, "crn"),
+      nuPath: _.uniq(course.nuPath),
+    }));
 
   writeJSON(`${FOLDER_PATH}/courses/${subject.code}.json`, uniqueCourses);
 
