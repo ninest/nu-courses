@@ -15,6 +15,14 @@ for await (const [index, subject] of subjects!.entries()) {
 
   const noCourses = courses?.length;
   for await (const [courseIndex, course] of courses!.entries()) {
+    // If this course already has a description, no need to fetch it again
+    if (course.description) {
+      console.log(
+        `${index + 1}/${noSubjects} (skipped) : ${courseIndex + 1}/${noCourses} courses done`
+      );
+      continue;
+    }
+
     if (
       mayContainDifferentDescriptions({
         code: subject.code,
@@ -35,7 +43,7 @@ for await (const [index, subject] of subjects!.entries()) {
 
         if (sectionDescriptions.includes(description)) {
           course.description = description;
-          break;
+          break; // only breaks inner loop
         }
 
         sectionDescriptions.push(description);
