@@ -66,6 +66,8 @@ This will take a **long** time, so follow the progress through the logs.
 
 This will create a file for each subject in the `courses` folder in the output path. For example, there will be `courses/CS.json` containing a list of courses.
 
+Note that in fetching the courses, the data of the courses already fetched will be merged in with the "new" data from Banner's API. If the descriptions or requisites have already been fetched and `deno task fetch:courses` is run, `deno task fetch:descriptions` does not have to be run again.
+
 ### 4. Description
 
 To fetch all descriptions for courses, run
@@ -73,3 +75,16 @@ To fetch all descriptions for courses, run
 ```bash
 deno task fetch:descriptions
 ```
+
+This will check if a description exists for each course and fetch a description if not present.
+
+In `fetcher/constants.ts`, populate the following with courses that may have different descriptions across sections. For example:
+
+```ts
+export const COURSES_WITH_ALT_SECTIONS = [
+  { code: "CS", number: "2500" },
+  { code: "CS", number: "2510" },
+];
+```
+
+In this case, the descriptions of the first three sections are fetched, and the most common on is set as the main description. In the example for Fundies Accelerated, the accelerated section's description is not very useful, so the only the descriptions of the regular sections are saved.
