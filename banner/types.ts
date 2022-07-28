@@ -60,3 +60,8 @@ export const nuPathMap: Record<NUPath, string> = {
   EX: "Integration Experience",
   CE: "Capstone Experience",
 };
+
+export interface SectionInfo {
+  termCode: string;
+  crn: string;
+}

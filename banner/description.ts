@@ -1,10 +1,11 @@
+import { SectionInfo } from "./types.ts";
+
 export const getCourseDescription = async (
-  termCode: string,
-  courseReferenceNumber: string
+  sectionInfo: SectionInfo
 ): Promise<string> => {
   const formData = new FormData();
-  formData.append("term", termCode);
-  formData.append("courseReferenceNumber", courseReferenceNumber);
+  formData.append("term", sectionInfo.termCode);
+  formData.append("courseReferenceNumber", sectionInfo.crn);
 
   const descriptionResponse = await fetch(
     "https://nubanner.neu.edu/StudentRegistrationSsb/ssb/searchResults/getCourseDescription",
