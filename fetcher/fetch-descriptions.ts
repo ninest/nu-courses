@@ -9,7 +9,9 @@ const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
 
 const noSubjects = subjects?.length;
 for await (const [index, subject] of subjects!.entries()) {
-  const courses = await readJSON<Course[]>(`${FOLDER_PATH}/courses/${subject.code}.json`);
+  const courses = await readJSON<Course[]>(
+    `${FOLDER_PATH}/courses/${subject.code}.json`
+  );
 
   console.log(`${index + 1} ${subject.code}`);
 
@@ -18,7 +20,9 @@ for await (const [index, subject] of subjects!.entries()) {
     // If this course already has a description, no need to fetch it again
     if (course.description) {
       console.log(
-        `${index + 1}/${noSubjects} (skipped) : ${courseIndex + 1}/${noCourses} courses done`
+        `${index + 1}/${noSubjects} (skipped) : ${
+          courseIndex + 1
+        }/${noCourses} courses done`
       );
       continue;
     }
@@ -39,7 +43,7 @@ for await (const [index, subject] of subjects!.entries()) {
       const sectionDescriptions: string[] = [];
 
       for (const section of course.sections) {
-        const description = await getCourseDescription(section.term, section.crn);
+        const description = await getCourseDescription(section);
 
         if (sectionDescriptions.includes(description)) {
           course.description = description;
@@ -51,11 +55,15 @@ for await (const [index, subject] of subjects!.entries()) {
     } else {
       // Find the description of the first section only
       const { term, crn } = course.sections[0];
-      const description = await getCourseDescription(term, crn);
+      const description = await getCourseDescription({ term, crn });
       course.description = description;
     }
 
-    console.log(`${index + 1}/${noSubjects} : ${courseIndex + 1}/${noCourses} courses done`);
+    console.log(
+      `${index + 1}/${noSubjects} : ${
+        courseIndex + 1
+      }/${noCourses} courses done`
+    );
   }
 
   writeJSON(`${FOLDER_PATH}/courses/${subject.code}.json`, courses);

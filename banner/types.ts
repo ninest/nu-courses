@@ -21,6 +21,7 @@ export interface Course {
   nuPath: NUPath[];
 
   description?: string;
+  coreqs?: Coreq[];
 
   // This can change during the semester if a section is added
   sections: {
@@ -63,6 +64,6 @@ export const nuPathMap: Record<NUPath, string> = {
 };
 
 export interface SectionInfo {
-  termCode: string;
+  term: string;
   crn: string;
 }
