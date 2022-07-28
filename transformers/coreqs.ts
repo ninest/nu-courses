@@ -11,7 +11,7 @@ export const transformCoreqs = (html: string): Coreq[] => {
   const $tableBody = $table?.querySelector("tbody");
 
   // No table means there are no coreqs
-  if (!$tableBody) return []
+  if (!$tableBody) return [];
 
   const $rows = $tableBody?.querySelectorAll("tr");
   for (const $row of $rows!) {
@@ -22,7 +22,14 @@ export const transformCoreqs = (html: string): Coreq[] => {
       .map(($el: any) => $el.innerText)
       .filter(Boolean);
 
-    const [subjectDescription, courseNumber, courseName] = attributes;
+    let subjectDescription, courseNumber, _; // `_` is the variable for the unused value
+    if (attributes.length === 3) {
+      [subjectDescription, courseNumber, _] = attributes;
+    } else {
+      // The structure of the table returned is not always consistent
+      // https://jennydaman.gitlab.io/nubanned/dark.html#searchresults-corequisites
+      [_, subjectDescription, courseNumber] = attributes;
+    }
     coreqs.push({
       subject: subjectDescriptionFromCode(subjectDescription),
       number: courseNumber,

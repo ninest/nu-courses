@@ -18,7 +18,7 @@ for await (const [index, subject] of subjects!.entries()) {
   const noCourses = courses?.length;
   for await (const [courseIndex, course] of courses!.entries()) {
     // If the coreqs are already there, no need to fetch again
-    if (course.coreqs) {
+    if (course.coreqs && course.coreqs.length != 0) {
       console.log(
         `${index + 1}/${noSubjects} (skipped) : ${
           courseIndex + 1
@@ -30,8 +30,11 @@ for await (const [index, subject] of subjects!.entries()) {
     // Fetch coreq of first section only
     const firstSection = course.sections[0];
     const htmlCoreqs = await getCourseCoreqs(firstSection);
-    const coreqs = transformCoreqs(htmlCoreqs)
+    const coreqs = transformCoreqs(htmlCoreqs);
     course.coreqs = coreqs;
+
+    console.log(coreqs);
+    
 
     console.log(
       `${index + 1}/${noSubjects} : ${
