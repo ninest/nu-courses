@@ -28,6 +28,7 @@ export interface Course {
     crn: string; //description: string
   }[];
 }
+export type Coreq = Pick<Course, "subject" | "number">;
 
 export const nuPath = [
   "ND",

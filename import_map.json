@@ -2,6 +2,7 @@
   "imports": {
     "@/": "./",
     "lodash": "https://cdn.skypack.dev/lodash-es@^4.17.15",
-    "deepmergets": "https://deno.land/x/deepmergets@v4.2.1/dist/deno/index.ts"
+    "deepmergets": "https://deno.land/x/deepmergets@v4.2.1/dist/deno/index.ts",
+    "deno-dom": "https://deno.land/x/deno_dom@v0.1.33-alpha/deno-dom-wasm.ts"
   }
 }
