@@ -9,6 +9,10 @@ export const transformCoreqs = (html: string): Coreq[] => {
 
   const $table = new DOMParser().parseFromString(html, "text/html");
   const $tableBody = $table?.querySelector("tbody");
+
+  // No table means there are no coreqs
+  if (!$tableBody) return []
+
   const $rows = $tableBody?.querySelectorAll("tr");
   for (const $row of $rows!) {
     const colsList = Array.from($row.childNodes);
