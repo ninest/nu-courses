@@ -4,7 +4,7 @@ export const getCourseDescription = async (
   sectionInfo: SectionInfo
 ): Promise<string> => {
   const formData = new FormData();
-  formData.append("term", sectionInfo.termCode);
+  formData.append("term", sectionInfo.term);
   formData.append("courseReferenceNumber", sectionInfo.crn);
 
   const descriptionResponse = await fetch(
