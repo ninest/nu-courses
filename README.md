@@ -105,3 +105,34 @@ In this case, the descriptions of the first three sections are fetched, and the
 most common on is set as the main description. In the example for Fundies
 Accelerated, the accelerated section's description is not very useful, so the
 only the descriptions of the regular sections are saved.
+
+### 5. Requisites
+
+Pre- and co-requisites are lists of the following:
+
+```tsx
+type Requisite = Pick<Course, "subject" | "number">;
+// A list of prereqs or coreqs is of type Requisite[]
+```
+
+#### a. Co-requisites
+
+Run
+
+```bash
+deno task fetch:coreqs
+```
+
+If a course already has the `coreq` key and a list (which can be empty), it will skip that course as it means that the co-requisites for that course have already been fetched.
+
+#### b. Pre-requisites
+
+_Not ready yet_
+
+## Support
+
+If you have any suggestions, please open an issue or pull request with your changes.
+
+## License
+
+MIT
