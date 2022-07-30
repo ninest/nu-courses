@@ -20,7 +20,7 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
   // Get previous courses to merge in with, so no need to refetch descriptions/others after fetching courses
   const previouslyFetchedCourses = await readJSON<Course[]>(
     `${FOLDER_PATH}/courses/${subject.code}.json`,
-    []
+    [],
   );
 
   if (previouslyFetchedCourses?.length == 0) {
@@ -30,20 +30,27 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
   const noTerms = TERMS?.length;
   for await (const [termIndex, term] of TERMS!.entries()) {
     await searchPost(cookie, term.code);
-    const coursesForTerm = await getCoursesForTerm(cookie, term.code, subject.code);
+    const coursesForTerm = await getCoursesForTerm(
+      cookie,
+      term.code,
+      subject.code,
+    );
 
     const transformedCourses = coursesForTerm.map(transformCourse);
 
     // Merge and push transformedCourses to courses
     transformedCourses.forEach((course) => {
-      const previousCourse = previouslyFetchedCourses?.find((c) => c.number == course.number);
+      const previousCourse = previouslyFetchedCourses?.find((c) =>
+        c.number == course.number
+      );
       if (previousCourse) {
         const mergedCourse = deepmerge(previousCourse, course);
 
         courses.push(mergedCourse);
       } else {
-        if (previouslyFetchedCourses?.length !== 0)
+        if (previouslyFetchedCourses?.length !== 0) {
           console.log(`${course.subject} ${course.number} is new!`);
+        }
 
         // If it doesn't exist, push as normal
         courses.push(course);
@@ -51,10 +58,14 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
     });
     // courses.push(...coursesForTerm.map(transformCourse));
 
-    console.log(`${subjectIndex + 1}/${noSubjects} : ${termIndex + 1}/${noTerms} terms done`);
+    console.log(
+      `${subjectIndex + 1}/${noSubjects} : ${
+        termIndex + 1
+      }/${noTerms} terms done`,
+    );
   }
 
-  /* 
+  /*
   - Some sections have required NUpath while others don't
   - Descriptions between sections can be different (Fundies vs Fundies Acc), so we need to get all CRNs for each term
   */
@@ -62,7 +73,9 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
   const courseNumberToCourses = _.groupBy(courses, "number");
 
   const uniqueCourses: Course[] = Object.keys(courseNumberToCourses)
-    .map((courseNumber) => deepmerge(...courseNumberToCourses[courseNumber]) as Course)
+    .map((courseNumber) =>
+      deepmerge(...courseNumberToCourses[courseNumber]) as Course
+    )
     // Extra step: remove duplicates in NUpath list
     .map((course: Course) => ({
       ...course,

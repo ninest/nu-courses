@@ -17,7 +17,7 @@ export const searchPost = async (cookie: string, termCode: string) => {
       body: form,
       credentials: "include",
       headers: { cookie },
-    }
+    },
   );
 };
 
@@ -52,7 +52,7 @@ export const searchSections = async ({
     {
       credentials: "include",
       headers: { cookie },
-    }
+    },
   );
 
   const { data } = await searchResponse.json();
@@ -64,7 +64,7 @@ export const searchSections = async ({
 export const getCoursesForTerm = async (
   cookie: string,
   termCode: string,
-  subjectCode: string
+  subjectCode: string,
 ): Promise<Course[]> => {
   // Search for courses
   const url =

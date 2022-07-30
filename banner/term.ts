@@ -20,7 +20,7 @@ export const getTerms = async ({
         searchTerm: "",
         offset: "1",
         max: noTerms.toString(),
-      })
+      }),
   );
   const terms = await response.json();
 
@@ -35,7 +35,7 @@ export const getTerms = async ({
 };
 
 const parseCookie = (cookieText: string): string => {
-  /* 
+  /*
   Convert cookie from
   JSESSIONID=...; Path=/...; Secure; ..., nubanner-cookie=...;
   to
@@ -43,6 +43,7 @@ const parseCookie = (cookieText: string): string => {
   */
   const jssessionid = cookieText.split("JSESSIONID=")[1].split(";")[0];
   const nubannercookie = cookieText.split("nubanner-cookie=")[1].split(";")[0];
-  const cookieToSend = `JSESSIONID=${jssessionid}; nubanner-cookie=${nubannercookie};`;
+  const cookieToSend =
+    `JSESSIONID=${jssessionid}; nubanner-cookie=${nubannercookie};`;
   return cookieToSend;
 };

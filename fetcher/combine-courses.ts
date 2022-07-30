@@ -11,7 +11,7 @@ const allCourses: Course[] = [];
 for await (const subject of subjects!) {
   try {
     const courses = await readJSON<Course[]>(
-      `${FOLDER_PATH}/courses/${subject.code}.json`
+      `${FOLDER_PATH}/courses/${subject.code}.json`,
     )!;
     allCourses.push(...courses!);
   } catch {

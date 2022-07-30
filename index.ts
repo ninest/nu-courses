@@ -30,13 +30,13 @@ for await (const subject of subjects) {
   const coursesForTerm = await getCoursesForTerm(
     cookie,
     fallTerm.code,
-    subject.code
+    subject.code,
   );
 
   // fetchedCourses[subject.code].push(...coursesForTerm);
   writeJSON(
     `./data/courses/${subject.code}.json`,
-    coursesForTerm.map(transformCourse)
+    coursesForTerm.map(transformCourse),
   );
   console.log(`Finished ${subject.code}`);
 }

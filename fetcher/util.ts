@@ -5,6 +5,6 @@ export const mayContainDifferentDescriptions = (course: {
   number: string;
 }) => {
   return COURSES_WITH_ALT_SECTIONS.some(
-    (c) => c.code == course.code && c.number == course.number
+    (c) => c.code == course.code && c.number == course.number,
   );
 };

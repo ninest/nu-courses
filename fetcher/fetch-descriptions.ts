@@ -10,7 +10,7 @@ const subjects = [{ code: "CS" }];
 const noSubjects = subjects?.length;
 for await (const [index, subject] of subjects!.entries()) {
   const courses = await readJSON<Course[]>(
-    `${FOLDER_PATH}/courses/${subject.code}.json`
+    `${FOLDER_PATH}/courses/${subject.code}.json`,
   );
 
   console.log(`${index + 1} ${subject.code}`);
@@ -22,7 +22,7 @@ for await (const [index, subject] of subjects!.entries()) {
       console.log(
         `${index + 1}/${noSubjects} (skipped) : ${
           courseIndex + 1
-        }/${noCourses} courses done`
+        }/${noCourses} courses done`,
       );
       continue;
     }
@@ -33,8 +33,8 @@ for await (const [index, subject] of subjects!.entries()) {
         number: course.number,
       })
     ) {
-      /* 
-      - Different sections (Like accelerated vs regular fundies) may have different descriptions 
+      /*
+      - Different sections (Like accelerated vs regular fundies) may have different descriptions
       - Start fetching descriptions of sections, and if two are the same, use that
       - Accelerated section descriptions are not very informative, so use the default section description
       TODO: what if the first two courses are both accelerated and the description is the same?
@@ -62,7 +62,7 @@ for await (const [index, subject] of subjects!.entries()) {
     console.log(
       `${index + 1}/${noSubjects} : ${
         courseIndex + 1
-      }/${noCourses} courses done`
+      }/${noCourses} courses done`,
     );
   }
 

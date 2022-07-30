@@ -15,16 +15,16 @@ export const dedupAndMerge = <T>({
   for (const [index, item] of items.entries()) {
     // Check if item of primaryKey exists in unique
     const existingItemIndex = unique.findIndex(
-      (a) => a[primaryKey] == item[primaryKey]
+      (a) => a[primaryKey] == item[primaryKey],
     );
     if (existingItemIndex != -1) {
       // If so, just merge at the mergeKey
-      if (type == "object")
+      if (type == "object") {
         unique[existingItemIndex][mergeKey] = {
           ...unique[existingItemIndex][mergeKey],
           ...item[mergeKey],
         };
-      else {
+      } else {
         // TODO: fix TS, this causes duplicate items in the list
         unique[existingItemIndex][mergeKey] = [
           // @ts-ignore

@@ -21,7 +21,7 @@ export const getAllSubjects = async (terms: Term[]): Promise<Subject[]> => {
 export const getSubjects = async (term: string): Promise<Subject[]> => {
   // TODO: use URLSearchParams
   const response = await fetch(
-    `https://nubanner.neu.edu/StudentRegistrationSsb/ssb/classSearch/get_subject?searchTerm=&term=${term}&offset=1&max=400` // 400 to get all
+    `https://nubanner.neu.edu/StudentRegistrationSsb/ssb/classSearch/get_subject?searchTerm=&term=${term}&offset=1&max=400`, // 400 to get all
   );
   const terms = await response.json();
   return terms;

@@ -1,7 +1,7 @@
 import { SectionInfo } from "./types.ts";
 
 export const getCourseDescription = async (
-  sectionInfo: SectionInfo
+  sectionInfo: SectionInfo,
 ): Promise<string> => {
   const formData = new FormData();
   formData.append("term", sectionInfo.term);
@@ -9,7 +9,7 @@ export const getCourseDescription = async (
 
   const descriptionResponse = await fetch(
     "https://nubanner.neu.edu/StudentRegistrationSsb/ssb/searchResults/getCourseDescription",
-    { body: formData, method: "POST" }
+    { body: formData, method: "POST" },
   );
   const text = await descriptionResponse.text();
   return text.trim();
