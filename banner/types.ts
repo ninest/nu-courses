@@ -21,7 +21,7 @@ export interface Course {
   nuPath: NUPath[];
 
   description?: string;
-  coreqs?: Coreq[];
+  coreqs?: Requisite[];
 
   // This can change during the semester if a section is added
   sections: {
@@ -29,7 +29,7 @@ export interface Course {
     crn: string; //description: string
   }[];
 }
-export type Coreq = Pick<Course, "subject" | "number">;
+export type Requisite = Pick<Course, "subject" | "number">;
 
 // To be used in combine courses, only containing required data
 export type MinimizedCourse = Pick<Course, "subject" | "number" | "title">;
