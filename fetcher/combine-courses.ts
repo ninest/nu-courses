@@ -1,4 +1,4 @@
-import { Course, Subject } from "@/banner/types.ts";
+import { Course, MinimizedCourse, Subject } from "@/banner/types.ts";
 import { FOLDER_PATH } from "@/fetcher/constants.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
 
@@ -6,14 +6,18 @@ import { readJSON, writeJSON } from "@/util/file.ts";
 
 const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
 
-const allCourses: Course[] = [];
+const allCourses: MinimizedCourse[] = [];
 
 for await (const subject of subjects!) {
   try {
-    const courses = await readJSON<Course[]>(
-      `${FOLDER_PATH}/courses/${subject.code}.json`,
-    )!;
-    allCourses.push(...courses!);
+    const courses = await readJSON<Course[]>(`${FOLDER_PATH}/courses/${subject.code}.json`)!;
+    const minimizedCourses: MinimizedCourse[] =
+      courses?.map((course) => ({
+        subject: course.subject,
+        number: course.number,
+        title: course.title,
+      })) ?? [];
+    allCourses.push(...minimizedCourses);
   } catch {
     // TODO
   }

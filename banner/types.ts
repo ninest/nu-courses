@@ -31,6 +31,9 @@ export interface Course {
 }
 export type Coreq = Pick<Course, "subject" | "number">;
 
+// To be used in combine courses, only containing required data
+export type MinimizedCourse = Pick<Course, "subject" | "number" | "title">;
+
 export const nuPath = [
   "ND",
   "EI",
