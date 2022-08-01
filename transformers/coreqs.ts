@@ -1,11 +1,11 @@
-import { Coreq, Subject } from "@/banner/types.ts";
+import { Requisite, Subject } from "@/banner/types.ts";
 import { FOLDER_PATH } from "@/fetcher/constants.ts";
 import { readJSON } from "@/util/file.ts";
 import { DOMParser } from "deno-dom";
 
 // Transform HTML to list of coreqs
-export const transformCoreqs = (html: string): Coreq[] => {
-  const coreqs: Coreq[] = [];
+export const transformCoreqs = (html: string): Requisite[] => {
+  const coreqs: Requisite[] = [];
 
   const $table = new DOMParser().parseFromString(html, "text/html");
   const $tableBody = $table?.querySelector("tbody");
@@ -39,7 +39,6 @@ export const transformCoreqs = (html: string): Coreq[] => {
   return coreqs;
 };
 
-// TODO: move this to utils
 const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
 const subjectDescriptionFromCode = (description: string): string => {
   return subjects?.find((subject) => subject.description === description)
