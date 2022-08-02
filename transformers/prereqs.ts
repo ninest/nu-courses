@@ -1,6 +1,6 @@
 import { PrereqAndGroup, PrereqOrGroups, Requisite } from "@/types.ts";
 import { subjectDescriptionFromCode, subjectNames } from "@/read/subjects.ts";
-import { DOMParser } from "deno-dom";
+import { DOMParser, NodeList } from "deno-dom";
 
 // Transform HTML to list of prereqs groups
 export const transformPrereqs = (html: string): PrereqOrGroups => {
@@ -13,12 +13,13 @@ export const transformPrereqs = (html: string): PrereqOrGroups => {
   const prereqOrGroups: PrereqOrGroups = [];
   let previousConnector = null;
 
-  const $rows = $tableBody.querySelectorAll("tr");
+  let $rows = Array.from($tableBody.querySelectorAll("tr"));
+
+  if (!$rows[0].childNodes[9].innerText) $rows = $rows.slice(1, $rows.length);
+
   for (let i = 0; i < $rows.length; i++) {
     const $row = $rows[i];
-
     const colsList = Array.from($row.childNodes);
-
     const attributes = colsList.map(($el: any) => $el.innerText);
 
     // "And" / "Or"
@@ -48,6 +49,7 @@ export const transformPrereqs = (html: string): PrereqOrGroups => {
     }
 
     previousConnector = currentConnector;
+    console.log("\n\n");
   }
 
   return prereqOrGroups;

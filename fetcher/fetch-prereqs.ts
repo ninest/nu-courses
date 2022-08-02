@@ -15,8 +15,8 @@ for await (const [index, subject] of subjects!.entries()) {
 
   const noCourses = courses?.length;
   for await (const [courseIndex, course] of courses!.entries()) {
-    // If the coreqs are already there, no need to fetch again
-    if (course.coreqs) {
+    // If the prereqs are already there, no need to fetch again
+    if (course.prereqs) {
       console.log(
         `${index + 1}/${noSubjects} (skipped) : ${courseIndex + 1}/${noCourses} courses done`
       );
