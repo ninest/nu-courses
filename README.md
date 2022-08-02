@@ -12,21 +12,19 @@ Clone or fork the repository, then do the following.
 
 ### 1. Terms
 
-Then open `scrape/constants.ts`, and enter the output folder (`FOLDER_PATH`)
-terms you want to fetch (`TERMS`).
+Then open `scrape/constants.ts`, and enter the terms you want to fetch (`TERMS`).
 
-For example, if you want to fetch courses from only Fall 2022, into the folder
-`./data/nu`, The file should look like this:
+For example, if you want to fetch courses from only Fall 2022, the file should look like this:
 
 ```ts
-export const FOLDER_PATH = "./.data/nu";
-
 export const TERMS = [
   {
     code: "202310",
   },
 ];
 ```
+
+By default, the output folder is the `.data` folder.
 
 The `description` key in each term is optional, so `[{ code: "202310" }]` should
 also work.
@@ -105,6 +103,8 @@ In this case, the descriptions of the first three sections are fetched, and the
 most common on is set as the main description. In the example for Fundies
 Accelerated, the accelerated section's description is not very useful, so the
 only the descriptions of the regular sections are saved.
+
+See [#1](https://github.com/ninest/nu-courses/issues/1) for more information.
 
 ### 5. Requisites
 
