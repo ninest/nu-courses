@@ -4,8 +4,8 @@ import { transformPrereqs } from "@/transformers/prereqs.ts";
 import { Course, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
 
-// const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
-const subjects = [{ code: "CS" }];
+const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
+// const subjects = [{ code: "CS" }];
 
 const noSubjects = subjects?.length;
 for await (const [index, subject] of subjects!.entries()) {
@@ -15,7 +15,7 @@ for await (const [index, subject] of subjects!.entries()) {
 
   const noCourses = courses?.length;
   for await (const [courseIndex, course] of courses!.entries()) {
-    // If the prereqs are already there, no need to fetch again
+    If the prereqs are already there, no need to fetch again
     if (course.prereqs) {
       console.log(
         `${index + 1}/${noSubjects} (skipped) : ${courseIndex + 1}/${noCourses} courses done`
