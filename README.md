@@ -5,6 +5,24 @@
 This project is meant to get course data for
 [ninest/husker](https://github.com/ninest/husker).
 
+## Folders
+
+- `banner/`
+  - Contains all Banner-specific code for fetching terms, subjects, and courses
+  - Only contains functions that call the API and return data as is (`getAllSubjects`, `searchSections`, `getCourseCoreqs`)
+- `fetcher/`
+  - Contains functions to call Banner functions and write responses to JSON files
+  - Use transformer functions to map API responses to required data types
+  - Think of `constants.ts` as the entry point for the fetchers
+- `transformers/`
+  - Contains functions to map Banner API responses to required types
+- `read/`
+  - Contains utility functions to read data already fetched (data that's been fetched and is saved in one of the JSON files) 
+- `util/`
+  - Dump of (complex) utility functions used in one or more locations
+- `.data/`
+  - All output course data
+
 ## Build Setup
 
 First, [install Deno](https://deno.land/manual/getting_started/installation).
