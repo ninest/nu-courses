@@ -17,7 +17,7 @@ This project is meant to get course data for
 - `transformers/`
   - Contains functions to map Banner API responses to required types
 - `read/`
-  - Contains utility functions to read data already fetched (data that's been fetched and is saved in one of the JSON files) 
+  - Contains utility functions to read data already fetched (data that's been fetched and is saved in one of the JSON files)
 - `util/`
   - Dump of (complex) utility functions used in one or more locations
 - `.data/`
@@ -128,14 +128,14 @@ See [#1](https://github.com/ninest/nu-courses/issues/1) for more information.
 
 ### 5. Requisites
 
-Pre- and co-requisites are lists of the following:
+#### a. Co-requisites
+
+Co-requisites are lists of the following:
 
 ```tsx
 type Requisite = Pick<Course, "subject" | "number">;
-// A list of prereqs or coreqs is of type Requisite[]
+// A list of coreqs is of type Requisite[]
 ```
-
-#### a. Co-requisites
 
 Run
 
@@ -149,7 +149,19 @@ been fetched.
 
 #### b. Pre-requisites
 
-_Not ready yet_
+Pre-requisites are lists of
+
+```ts
+export type Prerequisite = "Or" | "And" | "(" | ")" | Requisite | string;
+```
+
+Run 
+
+```
+deno task fetch:prereqs
+```
+
+Similar to co-requisites, lists of pre-requisites already fetched won't be re-fetched.
 
 ## Support
 
