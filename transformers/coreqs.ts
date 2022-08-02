@@ -1,6 +1,5 @@
-import { Requisite, Subject } from "@/banner/types.ts";
-import { FOLDER_PATH } from "@/fetcher/constants.ts";
-import { readJSON } from "@/util/file.ts";
+import { Requisite } from "@/banner/types.ts";
+import { subjectDescriptionFromCode } from "@/read/subjects.ts";
 import { DOMParser } from "deno-dom";
 
 // Transform HTML to list of coreqs
@@ -37,10 +36,4 @@ export const transformCoreqs = (html: string): Requisite[] => {
   }
 
   return coreqs;
-};
-
-const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
-const subjectDescriptionFromCode = (description: string): string => {
-  return subjects?.find((subject) => subject.description === description)
-    ?.code!;
 };

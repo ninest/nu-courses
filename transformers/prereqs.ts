@@ -1,11 +1,9 @@
 import {
   PrereqAndGroup,
   PrereqOrGroups,
-  Requisite,
-  Subject,
+  Requisite
 } from "@/banner/types.ts";
-import { FOLDER_PATH } from "@/fetcher/constants.ts";
-import { readJSON } from "@/util/file.ts";
+import { subjectDescriptionFromCode, subjectNames } from "@/read/subjects.ts";
 import { DOMParser } from "deno-dom";
 
 // Transform HTML to list of prereqs groups
@@ -57,11 +55,4 @@ export const transformPrereqs = (html: string): PrereqOrGroups => {
   }
 
   return prereqOrGroups;
-};
-
-const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
-const subjectNames = subjects?.map((subject) => subject.description);
-const subjectDescriptionFromCode = (description: string): string => {
-  return subjects?.find((subject) => subject.description === description)
-    ?.code!;
 };
