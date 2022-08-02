@@ -12,9 +12,11 @@ Clone or fork the repository, then do the following.
 
 ### 1. Terms
 
-Then open `scrape/constants.ts`, and enter the terms you want to fetch (`TERMS`).
+Then open `scrape/constants.ts`, and enter the terms you want to fetch
+(`TERMS`).
 
-For example, if you want to fetch courses from only Fall 2022, the file should look like this:
+For example, if you want to fetch courses from only Fall 2022, the file should
+look like this:
 
 ```ts
 export const TERMS = [
