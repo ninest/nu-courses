@@ -1,6 +1,8 @@
 import { SectionInfo } from "./types.ts";
 
-export const getCourseCoreqs = async (sectionInfo: SectionInfo): Promise<string> => {
+export const getCourseCoreqs = async (
+  sectionInfo: SectionInfo,
+): Promise<string> => {
   const formData = new FormData();
   formData.append("term", sectionInfo.term);
   formData.append("courseReferenceNumber", sectionInfo.crn);

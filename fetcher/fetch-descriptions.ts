@@ -4,8 +4,8 @@ import { Course, Subject } from "@/banner/types.ts";
 import { FOLDER_PATH } from "@/fetcher/constants.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
 
-// const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
-const subjects = [{ code: "CS" }];
+const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
+// const subjects = [{ code: "CS" }];
 
 const noSubjects = subjects?.length;
 for await (const [index, subject] of subjects!.entries()) {

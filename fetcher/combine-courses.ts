@@ -10,13 +10,14 @@ const allCourses: MinimizedCourse[] = [];
 
 for await (const subject of subjects!) {
   try {
-    const courses = await readJSON<Course[]>(`${FOLDER_PATH}/courses/${subject.code}.json`)!;
-    const minimizedCourses: MinimizedCourse[] =
-      courses?.map((course) => ({
-        subject: course.subject,
-        number: course.number,
-        title: course.title,
-      })) ?? [];
+    const courses = await readJSON<Course[]>(
+      `${FOLDER_PATH}/courses/${subject.code}.json`,
+    )!;
+    const minimizedCourses: MinimizedCourse[] = courses?.map((course) => ({
+      subject: course.subject,
+      number: course.number,
+      title: course.title,
+    })) ?? [];
     allCourses.push(...minimizedCourses);
   } catch {
     // TODO

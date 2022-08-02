@@ -32,12 +32,12 @@ export interface Course {
 export type Requisite = Pick<Course, "subject" | "number">;
 
 // List of prereqs that are required (AND)
-export type PrereqAndGroup = Requisite[]
+export type PrereqAndGroup = Requisite[];
 
 // A list of a list of requisites
 // The inner list means both are required (AND)
 // the outer list means either of the inner lists are required (OR)
-export type PrereqOrGroups = PrereqAndGroup[]
+export type PrereqOrGroups = PrereqAndGroup[];
 // Example: [ [CS 1, CS 11], [DS 1, DS, 11] ]
 // Either CS 1 and CS 11 are required, or DS 1 and DS 11 are required
 

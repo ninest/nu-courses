@@ -2,7 +2,7 @@ import {
   PrereqAndGroup,
   PrereqOrGroups,
   Requisite,
-  Subject
+  Subject,
 } from "@/banner/types.ts";
 import { FOLDER_PATH } from "@/fetcher/constants.ts";
 import { readJSON } from "@/util/file.ts";
@@ -29,13 +29,12 @@ export const transformPrereqs = (html: string): PrereqOrGroups => {
 
     // "And" / "Or"
     const currentConnector = attributes[1];
-    
+
     if (subjectNames?.includes(attributes[9])) {
       const subject = subjectDescriptionFromCode(attributes[9]);
       const number = attributes[11];
       const course: Requisite = { subject, number };
       console.log(course);
-      
 
       if (i === 0) {
         // The first item in the list can be added to the first group directly

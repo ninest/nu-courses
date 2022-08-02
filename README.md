@@ -123,7 +123,9 @@ Run
 deno task fetch:coreqs
 ```
 
-If a course already has the `coreq` key and a list (which can be empty), it will skip that course as it means that the co-requisites for that course have already been fetched.
+If a course already has the `coreq` key and a list (which can be empty), it will
+skip that course as it means that the co-requisites for that course have already
+been fetched.
 
 #### b. Pre-requisites
 
@@ -131,7 +133,8 @@ _Not ready yet_
 
 ## Support
 
-If you have any suggestions, please open an issue or pull request with your changes.
+If you have any suggestions, please open an issue or pull request with your
+changes.
 
 ## License
 
