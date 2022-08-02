@@ -1,7 +1,7 @@
 import { getCoursesForTerm, searchPost } from "/banner/course.ts";
 import { getAllSubjects } from "/banner/subject.ts";
 import { getTerms } from "/banner/term.ts";
-import { Course } from "/banner/types.ts";
+import { Course } from "@/types.ts";
 import { transformCourse } from "/transformers/course.ts";
 import { writeJSON } from "/util/file.ts";
 

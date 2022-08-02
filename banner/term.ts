@@ -1,4 +1,4 @@
-import { Campus, Term } from "@/banner/types.ts";
+import { Campus, Term } from "@/types.ts";
 
 interface GetTerms {
   terms: Term[];

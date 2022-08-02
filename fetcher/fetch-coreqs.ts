@@ -1,8 +1,8 @@
-import { Course, Subject } from "@/banner/types.ts";
-import { FOLDER_PATH } from "@/fetcher/constants.ts";
-import { readJSON, writeJSON } from "@/util/file.ts";
 import { getCourseCoreqs } from "@/banner/coreqs.ts";
+import { FOLDER_PATH } from "@/fetcher/constants.ts";
 import { transformCoreqs } from "@/transformers/coreqs.ts";
+import { Course, Subject } from "@/types.ts";
+import { readJSON, writeJSON } from "@/util/file.ts";
 
 const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
 // const subjects = [{ code: "CS" }];

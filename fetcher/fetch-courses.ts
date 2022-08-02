@@ -1,8 +1,8 @@
 import { getCoursesForTerm, searchPost } from "@/banner/course.ts";
 import { getTerms } from "@/banner/term.ts";
-import { Course, Subject } from "@/banner/types.ts";
 import { FOLDER_PATH, TERMS } from "@/fetcher/constants.ts";
 import { transformCourse } from "@/transformers/course.ts";
+import { Course, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
 import { deepmerge } from "deepmergets";
 import _ from "lodash";

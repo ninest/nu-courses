@@ -1,6 +1,6 @@
-import { readJSON } from "@/util/file.ts";
-import { Subject } from "@/banner/types.ts";
 import { FOLDER_PATH } from "@/fetcher/constants.ts";
+import { Subject } from "@/types.ts";
+import { readJSON } from "@/util/file.ts";
 
 const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
 

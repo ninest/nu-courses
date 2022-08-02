@@ -1,4 +1,4 @@
-import { PrereqAndGroup, PrereqOrGroups, Requisite } from "@/banner/types.ts";
+import { PrereqAndGroup, PrereqOrGroups, Requisite } from "@/types.ts";
 import { subjectDescriptionFromCode, subjectNames } from "@/read/subjects.ts";
 import { DOMParser } from "deno-dom";
 

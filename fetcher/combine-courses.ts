@@ -1,5 +1,5 @@
-import { Course, MinimizedCourse, Subject } from "@/banner/types.ts";
 import { FOLDER_PATH } from "@/fetcher/constants.ts";
+import { Course, MinimizedCourse, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
 
 /* Combine all courses into a single file */

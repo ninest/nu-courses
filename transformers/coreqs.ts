@@ -1,4 +1,4 @@
-import { Requisite } from "@/banner/types.ts";
+import { Requisite } from "@/types.ts";
 import { subjectDescriptionFromCode } from "@/read/subjects.ts";
 import { DOMParser } from "deno-dom";
 

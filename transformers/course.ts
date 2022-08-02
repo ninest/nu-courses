@@ -1,4 +1,4 @@
-import { Course, NUPath, nuPathMap } from "@/banner/types.ts";
+import { Course, NUPath, nuPathMap } from "@/types.ts";
 
 // Transform API response course
 export const transformCourse = (course: any): Course => {

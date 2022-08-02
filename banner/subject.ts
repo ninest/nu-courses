@@ -1,4 +1,4 @@
-import { Subject, Term } from "@/banner/types.ts";
+import { Subject, Term } from "@/types.ts";
 import { dedup } from "@/util/dedup.ts";
 
 // Requires terms to be passed in
