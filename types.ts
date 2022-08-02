@@ -22,6 +22,7 @@ export interface Course {
 
   description?: string;
   coreqs?: Requisite[];
+  prereqs?: PrereqOrGroups;
 
   // This can change during the semester if a section is added
   sections: {

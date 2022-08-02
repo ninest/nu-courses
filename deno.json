@@ -4,6 +4,7 @@
     "fetch:courses": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-courses.ts",
     "fetch:descriptions": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-descriptions.ts",
     "fetch:coreqs": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-coreqs.ts",
+    "fetch:prereqs": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-prereqs.ts",
     "combine-courses": "deno run --allow-read --allow-write ./fetcher/combine-courses.ts"
   },
   "importMap": "./import_map.json"
