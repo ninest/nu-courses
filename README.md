@@ -155,6 +155,8 @@ Pre-requisites are lists of
 export type Prerequisite = "Or" | "And" | "(" | ")" | Requisite | string;
 ```
 
+See [#7](https://github.com/ninest/nu-courses/issues/7) for details on this format.
+
 Run 
 
 ```
