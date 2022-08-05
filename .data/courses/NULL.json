@@ -17,6 +17,7 @@
       { "term": "202240", "crn": "40747" }
     ],
     "description": "Intended for administrative use only.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   }
 ]

@@ -8,7 +8,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10904" }],
     "description": "Introduces students pursuing a major in the School of Architecture to the intellectual and extracurricular opportunities within the school and within the College of Arts, Media and Design. Exposes students to the cultural vibrancy of Boston with the goal of building networks to facilitate the creation of a vibrant and supportive learning community.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -23,7 +24,8 @@
       { "term": "202310", "crn": "20514" }
     ],
     "description": "Introduces students to architectural representation as a form of documentation, experimentation, and communication through a series of exercises in orthographic, axonometric, and perspectival projection as well as physical and digital modeling. Supports the development of an iterative design methodology by introducing students to the tools of representation. Includes theoretical lectures and workshops in analog and digital media.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -42,7 +44,8 @@
       { "term": "202260", "crn": "61003" }
     ],
     "description": "Introduces architectural design. Examines a number of approaches to spatial organization, massing, and envelope articulation through the analysis of pertinent case studies as well as through a series of fast-paced design exercises. Offers students an opportunity to develop a single design through a series of design studies that deal with issues of site planning, program, user input, and collective negotiation. Requires a portfolio demonstrating the student&rsquo;s representational abilities and iterative design process.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -61,7 +64,8 @@
       { "term": "202240", "crn": "40987" }
     ],
     "description": "Introduces students to architecture, as understood through buildings, cities, and landscapes from antiquity to the present. Studies important monuments in the global history of architecture, as well as tools for analyzing the built environment. Considers buildings in relation to their political, social, economic, and cultural context, and as expressions of diversity in human societies and cultural perspectives. Topics include the language of architecture, architectural drawings, the classical orders, the problem of ornament, construction techniques, materials, site,and the role of the patron. Develops students&#39; eye for composition in two and three dimensions, aesthetic discrimination of detail, ability to see buildings as part of a larger social and cultural fabric, and critical judgment in speaking and writing.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -82,7 +86,8 @@
       { "term": "202310", "crn": "15767" }
     ],
     "description": "Offers a small-group discussion format to cover material in ARCH 1310.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -93,7 +98,8 @@
     "nuPath": ["DD", "EI"],
     "sections": [{ "term": "202310", "crn": "13659" }],
     "description": "Introduces undergraduates at all levels to the importance of design thinking as a method of critical inquiry and creative expression. Class meetings include lectures and discussions on the power of design thinking to shape diverse facets of the natural and built environment&mdash;from cities and landscapes, to buildings and interiors, to the scale of the human body. In addition to class presentations, hands-on workshops introduce students to a range of tools and tactics for working creatively and iteratively through design and prototyping.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -115,7 +121,8 @@
       { "term": "202310", "crn": "19498" }
     ],
     "description": "Studies how to analyze, draw, and model the built environment. Students engage in issues of program, composition, type, and material. Offers students the opportunity to think conceptually about architectural design.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "ARCH", "number": "1120" }]
   },
   {
     "subject": "ARCH",
@@ -131,7 +138,8 @@
       { "term": "202310", "crn": "19499" }
     ],
     "description": "Introduces construction techniques and precise material realization of buildings as an integral part of architectural design thinking and processes. Uses historical and contemporary architectural precedents to explore the spatial and tectonic interrelationships of the primary constructional systems of wood, masonry, concrete, and steel. Uses a diverse mixture of student learning methods, including in-class lectures and student exercises; group discussions and guest lectures; textbook reading; and the production of construction models, drawings, and diagrams.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -142,7 +150,8 @@
     "nuPath": ["ND"],
     "sections": [{ "term": "202310", "crn": "13629" }],
     "description": "Introduces fundamentals of building technology and explores technology as means and manifestation of architecture in the world. Using a systems approach, studies the interactions among natural forces, material properties, technological capabilities, and human cultural values and the ways these relationships give rise to architecture. Considers a series of physical principles&amp;#8212;including gravity, moisture, heat, light, and air&amp;#8212;to reveal specific architectural possibilities and material responses. Explores the ways design shapes the interaction of materials and forces to provide for human safety, shelter, comfort, and delight through a combination of hands-on workshops, seminal readings, and design exercises.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -153,7 +162,8 @@
     "nuPath": ["IC", "SI", "WI"],
     "sections": [{ "term": "202310", "crn": "19500" }],
     "description": "Covers the development of the built environment in China from 1840 to the present. Emphasizes educational and professional shifts in architectural practice, political engagement in the design process, structural and technological transformation, conceptual background, and global impact.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -164,7 +174,8 @@
     "nuPath": ["IC", "SI", "WI"],
     "sections": [{ "term": "202310", "crn": "20526" }],
     "description": "Focuses on the history and theory of architecture and urban design in the nineteenth century. Emphasizes European architecture and urbanism and the ways in which European approaches to design shaped and were shaped by sustained cultural, political, and economic exchange with the Americas, Africa, and Asia. Major topics include the birth of the modern city and urban planning, capitalism and industrialization, new building typologies, infrastructure, urban parks and early suburbs, and new materials and technologies.",
-    "coreqs": [{ "subject": "ARCH", "number": "2331" }]
+    "coreqs": [{ "subject": "ARCH", "number": "2331" }],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -175,7 +186,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12241" }],
     "description": "Offers a small-group discussion format to cover material in ARCH 2330.",
-    "coreqs": [{ "subject": "ARCH", "number": "2330" }]
+    "coreqs": [{ "subject": "ARCH", "number": "2330" }],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -192,7 +204,8 @@
       { "term": "202310", "crn": "20109" }
     ],
     "description": "Covers a variety of topics in architectural history and theory. Taught by faculty according to their interests and expertise.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -209,7 +222,8 @@
       { "term": "202310", "crn": "19502" }
     ],
     "description": "Offers a studio course addressing the architectural and urbanistic consequences at the intersection of large-scale infrastructure and the contemporary city. Focuses on how to integrate buildings and neighborhoods with highways, rail lines, storm water management, bus, bike, parking, rivers, watersheds, and industrial networks.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -223,7 +237,8 @@
       { "term": "202310", "crn": "14671" }
     ],
     "description": "Interactions Between Art, Design and Architecture: This course examines the evolution of mutual influences and collaborations between modern art, architecture, media and design in the 20th Century. The course starts by providing a conceptual framework on the meanings of modern art and design, to look at different cases of collaboration, interaction or transdisciplinary work among these fields. Subjects to be covered include, among others, the emergence of international avantgardes and cosmopolitan architecture, the Independent Group, Cobra and Team X, Art Brut and Brutalism, the Situationist city, Land Art, Contemporary Media Art, Art and Politics, Exhibitions and Curatorial Practices.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -242,7 +257,12 @@
       { "term": "202310", "crn": "19503" }
     ],
     "description": "Offers an upper-level design studio that covers new studio topics, content, and studio instructors each semester. The studio instructors offer topical content that best aligns with their research and practice expertise, which provides students with the latest concepts in architectural design, theory, and research on a consistently updated and rotating basis. Students select their top choices of studio topics and instructors, giving them more flexibility in the areas for which they would like to focus their education. May be repeated twice for credit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ARCH", "number": "3170" },
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "ARCH",
@@ -253,7 +273,8 @@
     "nuPath": ["AD", "ND"],
     "sections": [{ "term": "202310", "crn": "10631" }],
     "description": "Explores the ways in which architectural form can create particular conditions of light and shadow; provide shelter from heat, cold, and rain; and incorporate systems that provide for water, electricity, and sanitation. Provides a series of simple and straightforward small-scale design projects.",
-    "coreqs": [{ "subject": "ARCH", "number": "5211" }]
+    "coreqs": [{ "subject": "ARCH", "number": "5211" }],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -264,7 +285,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12060" }],
     "description": "Offers a small-group discussion format to cover material in ARCH 5210.",
-    "coreqs": [{ "subject": "ARCH", "number": "5210" }]
+    "coreqs": [{ "subject": "ARCH", "number": "5210" }],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -278,7 +300,8 @@
       { "term": "202310", "crn": "20053" }
     ],
     "description": "Introduces the fundamental concepts of structural analysis and design for architecture. Examines the nature of forces and their effects on different types of structural elements; the structural properties of shapes and materials; and the selection, analysis, and design of efficient structural systems that resist the loads acting upon them. Uses historical and contemporary examples to illustrate how the changing context of architectural ideas drives structural form and the selection of structural systems. Includes field trips and student presentations of structural models and diagrams. Restricted to students in the architecture BS program and to students in the three-year MArch program.",
-    "coreqs": [{ "subject": "ARCH", "number": "5231" }]
+    "coreqs": [{ "subject": "ARCH", "number": "5231" }],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -296,7 +319,8 @@
       { "term": "202310", "crn": "19506" }
     ],
     "description": "Provides a small-group discussion format to cover examples from the material in ARCH 5230.",
-    "coreqs": [{ "subject": "ARCH", "number": "5230" }]
+    "coreqs": [{ "subject": "ARCH", "number": "5230" }],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -313,7 +337,8 @@
       { "term": "202310", "crn": "19507" }
     ],
     "description": "Encourages students to develop the connections between critical attitudes and techniques in design, through important historical texts. Offers a kind of &amp;#8220;great books&amp;#8221; approach to the integration of design and history, introducing the writings and seminal designs of Alberti, Palladio, Wright, Le Corbusier, Semper, Sitte, Rowe, Colquhoun, Moneo, Koolhaas, Rossi, Frampton, Venturi and Scott Brown, Scarpa, and Lynch.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -327,7 +352,8 @@
       { "term": "202310", "crn": "17522" }
     ],
     "description": "Presents students new to architecture with the fundamentals of three-dimensional thinking and spatial representation with a series of increasingly complex assignments. Offers students an opportunity to learn a wide variety of graphical software tools and then use these tools to complete their assignments. Covers freehand sketching and physical model building skills. This intensive course is taught as a hands-on design studio (with ample studio access outside class meetings).",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -341,7 +367,8 @@
       { "term": "202310", "crn": "11320" }
     ],
     "description": "Examines the state of architecture and urbanism in the two decades leading up to 2000. Explores contemporary issues in architectural theory and urban design. Examines a broad range of ideas affecting contemporary developments in architectural practice. Engages cultural and historical forces as well as contemporary criticism to define the nature of modernism, late modernism, postmodernism, and deconstruction. Case studies, analysis of theoretical models, and application of methods of history provide students with support for their own design work in studio and co-op experiences.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -355,7 +382,8 @@
       { "term": "202310", "crn": "19508" }
     ],
     "description": "Focuses on how architectural practice occurs and must be understood within a larger social context. The cultures-interests and objectives-of the constellation of participants in the bringing of a building to completion are dynamic, diverse, and complex, especially in an urban environment. Seeks to make sense of this broader social contract from within the perspective of professional design practice. As one of many participants in the process of bringing a building to completion, students review the roles, responsibilities, and interests of each contributor. Our task is to understand the obligations and constraints that constitute these relationships. Examines the products of design as manifestations of these relationships and situates them within a discourse of value-determined actions. Investigates normative and critical professional practices through selected readings and individual field research. Develops project case studies that provide examples of excellent design results achieved through the application of expert professional practices.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -370,6 +398,7 @@
       { "term": "202310", "crn": "11166" }
     ],
     "description": "Offers the research portion of a two-part graduate project focused on the complex issues facing the postindustrial landscape of the contemporary city. Examines in detail the design elements of everyday building types, such as office buildings, labs, parking garages, and retail spaces, with an eye toward creating new prototypes for urban architecture that are informed by the realities of contemporary market forces. Provides the foundation for the more speculative design proposals of ARCH 7140. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   }
 ]

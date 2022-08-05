@@ -11,7 +11,8 @@
       { "term": "202310", "crn": "11081" }
     ],
     "description": "Offers course work at the School of the Museum of Fine Arts. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "SMFA",
@@ -22,6 +23,7 @@
     "nuPath": ["CE"],
     "sections": [{ "term": "202310", "crn": "11556" }],
     "description": "Offers capstone course work at the School of the Museum of Fine Arts. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   }
 ]

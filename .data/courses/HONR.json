@@ -39,7 +39,8 @@
       { "term": "202310", "crn": "17170" }
     ],
     "description": "Offers students an opportunity to take full advantage of the University Honors Program and to create a sense of community within the first-year honors experience. Students explore the goals of the University Honors Program through a variety of experiential learning activities, including taking part in a theme-based living/learning community, learning through an interdisciplinary perspective, pursuing interests in research or creative endeavors, advancing global awareness, and contributing to civic engagement. This course is required for all first-year honors students.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "HONR",
@@ -60,7 +61,8 @@
       { "term": "202310", "crn": "19319" }
     ],
     "description": "Designed to provide an honors introductory-level experience. Draws upon an interdisciplinary perspective to expand individual knowledge and facilitate a deeper understanding of issues. Similar to a topics course, each section of the course offers a new and unique academic experience. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "HONR",
@@ -87,6 +89,7 @@
       { "term": "202240", "crn": "41572" }
     ],
     "description": "Designed to provide an honors intermediate-level experience. Draws upon an interdisciplinary perspective to expand individual knowledge and facilitate a more advanced understanding of issues. Emphasizes research and inquiry of urban, historical, or contemporary themes. May be repeated up to nine times.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   }
 ]

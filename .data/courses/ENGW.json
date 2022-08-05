@@ -19,7 +19,8 @@
       { "term": "202310", "crn": "20931" }
     ],
     "description": "Designed for students whose first or strongest language is not English. Parallels ENGW 1111 but focuses on the concerns of multilingual writers. Students study and practice writing in a workshop setting; read a range of texts in order to describe and evaluate the choices writers make and apply that knowledge to their own writing; explore how writing functions in a variety of academic, professional, and public contexts; and write for various purposes and audiences in multiple genres and media. Offers students an opportunity to learn how to conduct research using primary and secondary sources and to give and receive feedback, to revise their work, and to reflect on their growth as writers.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ENGW",
@@ -36,7 +37,8 @@
       { "term": "202310", "crn": "11628" }
     ],
     "description": "Offers students an opportunity to develop awareness of their rhetorical practices, engage with critical perspectives, and identify and employ effective research techniques in a workshop setting. Throughout the course, students give and receive feedback, revise their work, and reflect on their identities as writers.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ENGW",
@@ -135,7 +137,8 @@
       { "term": "202240", "crn": "40223" }
     ],
     "description": "Designed for students to study and practice writing in a workshop setting. Students read a range of texts in order to describe and evaluate the choices writers make and apply that knowledge to their own writing and explore how writing functions in a range of academic, professional, and public contexts. Offers students an opportunity to learn how to conduct research using primary and secondary sources; how to write for various purposes and audiences in multiple genres and media; and how to give and receive feedback, to revise their work, and to reflect on their growth as writers.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ENGW",
@@ -149,7 +152,8 @@
       { "term": "202310", "crn": "20575" }
     ],
     "description": "Covers special topics and novel approaches to teaching and practicing writing in a workshop setting. Explores how writing functions in a range of academic, professional, and public contexts. Offers students an opportunity to learn how to conduct research using primary and secondary sources; how to write for various purposes and audiences in multiple genres and media; and how to give and receive feedback, to revise their work, and to reflect on their growth as writers.\n\nIn Writing for Community, Collaboration, and Change students design a community engagement course sequence to be piloted in Spring. They will develop writing skills with real-world application in academic and professional settings. Students will arrange a community-course partnership and explore the ethical, theoretical, and strategic considerations in developing equitable partnerships. Communication and collaboration with community partners are central, and students will develop a deeper understanding of social justice issues in Boston, a toolkit for advocating for social change through writing, and experience with the logistics and ethics of creating community-campus partnerships. Students will be practicing meaningful, real-stakes writing. This course meets the same learning goals and University requirements as ENGW 1111.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ENGW",
@@ -164,7 +168,8 @@
       { "term": "202310", "crn": "20160" }
     ],
     "description": "Offers students an opportunity, in a workshop setting, to study and practice writing. Hands-on experience shapes the students&rsquo; practice of writing, and writing projects meet specific community needs. Students read a range of texts in order to describe and evaluate the choices writers make and apply that knowledge to their own writing. Covers how to conduct research using primary and secondary sources and apply that knowledge in service-learning-focused settings. Studies how to write for various purposes and audiences in multiple genres and media, how to give and receive feedback, how to revise work, and how to reflect on growth as a writer.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ENGW",
@@ -221,7 +226,8 @@
       { "term": "202240", "crn": "41745" }
     ],
     "description": "Offers writing instruction for students in the College of Engineering and the College of Computer and Information Science. Students practice and reflect on writing in professional, public, and academic genres&amp;#8212;such as technical reports, progress reports, proposals, instructions, presentations, and technical reviews&amp;#8212;relevant to technical professions and individual student goals. In a workshop setting, offers students an opportunity to evaluate a wide variety of sources and develop expertise in audience analysis, critical research, peer review, and revision.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ENGW",
@@ -232,7 +238,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "15126" }],
     "description": "Provides writing instruction for students in fields related to environmental studies. Students develop an in-depth analytic or recommendation report about a complex environmental concern related to their majors and/or their co-op or other personal or professional experiences. In a workshop setting, students evaluate scholarly and popular sources, practice a variety of professional and academic forms of writing and communication, and develop expertise in audience analysis, critical research, peer review, and revision. Writing is guided in stages from initial topic exploration and a formal proposal through drafts and progress reports to a final polished report, presented in a bound portfolio with a cover letter, an abstract, and other writing samples.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ENGW",
@@ -278,7 +285,8 @@
       { "term": "202240", "crn": "40582" }
     ],
     "description": "Offers writing instruction for students in the D&amp;#8217;Amore-McKim School of Business. Students practice and reflect on writing in professional, public, and academic genres&amp;#8212;such as proposals, recommendation reports, letters, presentations, and e-mails&amp;#8212;relevant for careers in business. In a workshop setting, offers students an opportunity to evaluate a wide variety of sources and develop expertise in audience analysis, critical research, peer review, and revision.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ENGW",
@@ -300,7 +308,8 @@
       { "term": "202240", "crn": "40248" }
     ],
     "description": "Offers writing instruction for students in the Bouv&amp;#233; College of Health Sciences. Students practice and reflect on writing in professional, public, and academic genres&amp;#8212;such as literature reviews, case studies, protocols, and care instructions&amp;#8212;relevant for careers in nursing, pharmacy, and other health professions. In a workshop setting, offers students an opportunity to evaluate a wide variety of sources and develop expertise in audience analysis, critical research, peer review, and revision.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ENGW",
@@ -333,7 +342,8 @@
       { "term": "202240", "crn": "40750" }
     ],
     "description": "Offers instruction in writing for students considering careers or advanced study in the physical or life sciences. By exploring research literature and reflecting on their own experiences, offers students an opportunity to identify issues of interest in their field and analyze how scientific texts make claims, invoke other scientific literature, offer evidence, and deploy key terms. Through analysis and imitation, exposes students to the challenges of the scientific project, such as the use of quantitative data and visual presentation of evidence. In a workshop setting, offers students an opportunity to evaluate a wide variety of sources and develop expertise in audience analysis, critical research, peer review, and revision.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ENGW",
@@ -352,7 +362,16 @@
       { "term": "202240", "crn": "41806" }
     ],
     "description": "Offers instruction in writing for students considering careers or advanced study in the social sciences. By exploring research literature and reflecting on their own experiences, offers students an opportunity to identify issues of interest and analyze how texts make claims, invoke other social science literature, offer evidence, and deploy key terms. Through analysis and imitation, exposes students to the challenges of the social science project, including the collection of data on human subjects and the ethical presentation of evidence. In a workshop setting, offers students an opportunity to evaluate a wide variety of sources and develop expertise in audience analysis, critical research, peer review, and revision.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" }
+    ]
   },
   {
     "subject": "ENGW",
@@ -363,7 +382,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16560" }],
     "description": "Offers instruction in writing for students considering careers or advanced study in the humanities. By exploring critical literature and reflecting on their own experiences, offers students an opportunity to identify issues of interest and analyze how texts make claims, invoke primary and secondary texts, offer evidence, and deploy key terms. Through analysis and imitation, exposes students to the challenges of the humanities project, including the framing of interpretive questions and the presentation of textual evidence. In a workshop setting, offers students an opportunity to evaluate a wide variety of sources and develop expertise in audience analysis, critical research, peer review, and revision.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ENGW",
@@ -377,7 +397,8 @@
       { "term": "202260", "crn": "60388" }
     ],
     "description": "Offers instruction in writing for students considering legal careers. Introduces students to legal reasoning and to the contexts, purposes, genres, audiences, and styles of legal writing. Emphasizes the role of writing and argument in U.S. legal culture. Using strategies drawn from rhetorical theory and criticism, students examine briefs, memoranda, opinions, and other legal texts to identify and describe techniques of analysis and persuasion. In a workshop setting, offers students an opportunity to evaluate a wide variety of sources and develop expertise in audience analysis, critical research, peer review, and revision.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ENGW",
@@ -397,7 +418,8 @@
       { "term": "202240", "crn": "41153" }
     ],
     "description": "Examines writing in the arts and in the fields of media and design. Explores writing for a range of public and professional audiences, including scholarly and critical. Emphasizes understanding different literacies: alphabetic, visual, musical, and sculptural. Genres might include critical reviews, grant writing, promotional pieces, interactive narratives, newspaper articles, and Web pages, among others. Offers students an opportunity for analysis, reflexive imitation, and creative interdisciplinary work.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ENGW",
@@ -440,6 +462,15 @@
       { "term": "202240", "crn": "40252" }
     ],
     "description": "Offers writing instruction for students interested in interdisciplinary study or who wish to explore multiple disciplines. Students practice and reflect on writing in professional, public, and academic genres relevant to their individual experiences and goals. In a workshop setting, offers students an opportunity to evaluate a wide variety of sources and to develop expertise in audience analysis, critical research, peer review, and revision.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
   }
 ]

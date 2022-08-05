@@ -8,7 +8,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10027" }],
     "description": "Introduces first-year political science majors to the discipline, the department, and the University as a whole; familiarizes students with the skills needed for success as a university student.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -25,7 +26,8 @@
       { "term": "202240", "crn": "41000" }
     ],
     "description": "Analyzes the system of politics and government in the United States. Topics include the philosophical basis, historical origins, design, and functioning of the Constitution as well as formal government institutions. Examines the influence of public opinion, political behavior and participation, parties, and interest groups.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -42,7 +44,8 @@
       { "term": "202240", "crn": "41426" }
     ],
     "description": "Presents a comparative study of political organization and behavior in a range of countries beyond the United States. Topics includes political culture, political economy, governing institutions, leadership, and political participation.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -59,7 +62,8 @@
       { "term": "202260", "crn": "60211" }
     ],
     "description": "Introduces a broad study of international relations, encompassing both theoretical perspectives and empirical knowledge. Reviews the role of states as well as international and nongovernmental organizations in dealing with security and war, terrorism, human rights, trade, globalization, and environmental protection, among other important contemporary issues.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -73,7 +77,8 @@
       { "term": "202240", "crn": "41427" }
     ],
     "description": "Examines the origins of the Holocaust, perpetrators and victims, and changing efforts to come to terms with this genocide. The Holocaust, the murder of 6 million Jews by Germans in Nazi-occupied Europe during World War II, is one of the crucial events of modern history. Investigates the uniqueness of the Holocaust relative to other acts of ethnic cleansing or genocide, including mass death in the New World and mass murder in Armenia, Bosnia, and Rwanda.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -92,7 +97,8 @@
       { "term": "202240", "crn": "40467" }
     ],
     "description": "Examines the philosophers of classical Greece, primarily Socrates, Plato, and Aristotle. These philosophers examined the nature of the material world, of the city, and of the person. The course takes up both the moral and political writings as well as the metaphysical writings. Devotes considerable attention to major works such as Plato&amp;#8217;s &lt;i&gt;Republic.&lt;/i&gt; Some time is given to early Greek philosophers, to the Sophists, and to later developments. Requires written analysis of philosophical texts. PHIL 2325 and POLS 2325 are cross-listed.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -103,7 +109,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13024" }],
     "description": "Introduces students to a range of authors who are considered to be most influential in shaping Western political thought and who remain highly relevant in informing contemporary political debate. Offers students an opportunity to think critically about some of the fundamental questions pertaining to political practice&amp;#8212;the nature of ideas, institutions, and processes and how to understand and evaluate them.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -114,7 +121,8 @@
     "nuPath": ["IC", "SI"],
     "sections": [{ "term": "202310", "crn": "13979" }],
     "description": "Analyzes interconnections between politics and film. Considering film as a political tool, includes such topics as political satire, propaganda, war, censorship, and nationalism. Case examples emphasize current events and contemporary issues.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -125,7 +133,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19552" }],
     "description": "Analyzes the political, administrative, economic, and social dynamics of urban areas. Highlights the diversity of political institutions and practices in American cities. Introduces key policy areas at the city level such as land use, economic development, and education.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -136,7 +145,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [{ "term": "202310", "crn": "19553" }],
     "description": "Introduces students to pressing urban issues: urban sprawl, poverty, education, transportation, economic development, and housing, through an intensive analysis of the Boston metropolitan area. The course is cotaught by university faculty and practitioners in government, community, and nonprofit organizations throughout the metropolitan area. Offers students the opportunity to analyze Boston data, go on outings to see development in progress, talk with urban practitioners about what they do, and conduct research on an urban issue of their choice.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -147,7 +157,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19554" }],
     "description": "Offers an overview of immigration politics from a comparative perspective. Examines the history of immigration to the United States and Europe, focusing on migration, naturalization, assimilation, and integration policies. Details the political processes that have led to different policies over time and across countries.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -163,7 +174,8 @@
       { "term": "202240", "crn": "40665" }
     ],
     "description": "Examines the range of research methods and designs used in political science, based on applying the logic of social scientific inquiry. Reviews experimental research, comparative methods, case studies, interviewing, surveys, program evaluation, and other topics relevant to the discipline, as well as questions related to the practice of research ethics. Course activities include intensive writing assignments by students. Requires prior completion of at least two of the following courses: POLS 1150, POLS 1155, and POLS 1160.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -178,7 +190,8 @@
       { "term": "202260", "crn": "60543" }
     ],
     "description": "Studies methods of quantitative analysis including descriptive statistics, hypothesis testing, cross-tabulation, analysis of variance, bivariate regression and correlation, and multiple regression. Examines how to generate and interpret statistical findings through use of Excel, SPSS, and/or other software programs. Uses examples from political behavior, public policy analysis, public opinion, comparative and international politics, and other areas of political and social-science inquiry to emphasize practical applications.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -189,7 +202,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [{ "term": "202310", "crn": "19524" }],
     "description": "Introduces key issues, themes, and debates in feminist transnational theory, practice, and activism in contemporary contexts and how it has changed under socioeconomic, political, and cultural processes of globalization. Examines differences among women relating to race, class, sexuality, national identity, and political economy in reckoning with possibilities for sustainable social justice. Students interrogate the relationship between the local and global; the production of knowledge in different regional spaces; the pragmatics of political mobilization; the varying contours of &amp;#8220;social justice&amp;#8221;; and other key issues. Offers students an opportunity to discuss the impact of globalization, neoliberalism, and state and intimate violence on gendered politics and relations and to contend with the politics of difference, to debate its challenges, and to imagine possible futures for transnational gender justice.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -200,7 +214,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14543" }],
     "description": "Introduces students to the art of political campaigning in primary or general elections. Utilizes a case-study format to approach various aspects of campaign strategy by analyzing successful and unsuccessful campaigns.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "POLS", "number": "1150" }]
   },
   {
     "subject": "POLS",
@@ -211,7 +226,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16488" }],
     "description": "Explores the structures, dynamics, and styles inherent in public policymaking within the U.S. Congress. Focuses on elections; representations of constituents&amp;#8217; interests; the roles that participants play: the president, interest groups, and others; and how all of this is affected by the structure of Congress and the process embedded in the legislative body.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -225,7 +241,8 @@
       { "term": "202240", "crn": "40258" }
     ],
     "description": "Analyzes the structure of and dynamics inherent in public policymaking and public administration in the United States. Introduces such concepts as problem definition, agenda development, policy formation, program implementation, and policy evaluation. Covers key issues in public administration including budgeting, personnel, and organizational design.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "POLS", "number": "1150" }]
   },
   {
     "subject": "POLS",
@@ -236,7 +253,8 @@
     "nuPath": [],
     "sections": [{ "term": "202260", "crn": "60544" }],
     "description": "Examines the politics and public policies of the movement for equality and social justice for lesbian, gay, bisexual, and transgender (LGBT) people in a wide range of state and federal policy areas such as same-sex marriage, military service, family adoption rights, and employment discrimination protection. Reviews the political history of LGBT communities and the treatment of LGBT people since the 1920s in the United States and globally. Analyzes the policy debates by considering voting behavior, trends in public opinion toward LGBT issues, and the political incorporation of LGBT people in the United States and around the world. Students who do not meet course prerequisites may seek permission of instructor.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -247,7 +265,8 @@
     "nuPath": [],
     "sections": [{ "term": "202260", "crn": "60545" }],
     "description": "Examines the sociological understanding of legal phenomena. Places special emphasis on the role of the law in cultural and social conflicts in American society.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -261,7 +280,8 @@
       { "term": "202310", "crn": "20865" }
     ],
     "description": "Addresses international political economy and how we can understand the phenomenon of globalization. Introduces the interaction between international politics and international economics in industrial countries and in developing countries. Covers several theoretical approaches to international political economy. Then analyzes some of the classic issue areas of international trade relations; foreign direct investment and outsourcing; the international monetary and financial system and the role of international institutions; debt and financial crises; and poverty and inequality. Concludes with analysis of how international political economy issues relate to governance, development, and the politics of economic reform.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "POLS", "number": "1160" }]
   },
   {
     "subject": "POLS",
@@ -272,7 +292,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14544" }],
     "description": "Introduces international law and how it redefines and shapes world politics. Offers students an opportunity to learn about the cornerstones of this area of the law: the state, organizations and their legal personality, diplomatic relations, treaties, extraterritorial jurisdiction, extradition, human rights and humanitarian law, the law of the sea trade/economic law, and international criminal law with a focus on the world courts. Considers the degree to which international law is pervasive in the life of individuals and states alike.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -283,7 +304,12 @@
     "nuPath": ["IC", "SI"],
     "sections": [{ "term": "202310", "crn": "19557" }],
     "description": "Explores contending theories of identity and nationalism&mdash;a powerful force in international and domestic politics. Examines topics such as the process of identity creation, the choice of national symbols, how group boundaries are established, the role of identity in conflict and state building, and the debate over nationalism&rsquo;s constructed or primordial nature. POLS 3418 and CLTR 3418 are cross-listed.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "POLS", "number": "1155" },
+      "Or",
+      { "subject": "POLS", "number": "1160" }
+    ]
   },
   {
     "subject": "POLS",
@@ -294,7 +320,12 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14545" }],
     "description": "Analyzes U.S. national security policy, with an emphasis on traditional and nontraditional threats, including threats from state and nonstate actors. Studies the national security policy process with special attention to developing countermeasures as well as resilience.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "POLS", "number": "1155" },
+      "Or",
+      { "subject": "POLS", "number": "1160" }
+    ]
   },
   {
     "subject": "POLS",
@@ -305,7 +336,14 @@
     "nuPath": [],
     "sections": [{ "term": "202260", "crn": "61245" }],
     "description": "Examines some of the core debates over terrorism and counterterrorism. Topics include what constitutes terrorism, why people become terrorists, which targets they attack, whether nuclear terrorism is a serious threat, the extent to which terrorism helps the perpetrators, and their motives. From there, the course introduces the student to viable counterterrorism strategies. Permission of instructor required for students who do not meet prerequisite.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "POLS", "number": "1150" },
+      "Or",
+      { "subject": "POLS", "number": "1155" },
+      "Or",
+      { "subject": "POLS", "number": "1160" }
+    ]
   },
   {
     "subject": "POLS",
@@ -316,7 +354,12 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14546" }],
     "description": "Examines the formulation and conduct of U.S. foreign and national security policy, with major emphasis on the period following the end of the Cold War.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "POLS", "number": "1150" },
+      "Or",
+      { "subject": "POLS", "number": "1160" }
+    ]
   },
   {
     "subject": "POLS",
@@ -327,7 +370,8 @@
     "nuPath": ["SI"],
     "sections": [{ "term": "202310", "crn": "19558" }],
     "description": "Examines political, economic, military, and ideological factors within the Arab states and Israel, inter-Arab politics, pan-Arabism, the Arab-Israeli conflict, and the great power rivalry in the region.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -338,7 +382,8 @@
     "nuPath": ["SI"],
     "sections": [{ "term": "202310", "crn": "16358" }],
     "description": "Uses U.S. Supreme Court decisions and other reading materials to analyze theoretical, structural, and substantive issues inherent in, and relevant to, the American constitutional system.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "POLS", "number": "1150" }]
   },
   {
     "subject": "POLS",
@@ -349,7 +394,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19559" }],
     "description": "Uses United States Supreme Court decisions and other reading material to examine the substantive and procedural guarantees of the Bill of Rights and the Fourteenth Amendment and their relation to a liberal democratic society.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "POLS", "number": "1150" }]
   },
   {
     "subject": "POLS",
@@ -363,7 +409,8 @@
       { "term": "202310", "crn": "16359" }
     ],
     "description": "Integrates and assesses the concepts and skills developed by students throughout the political science curriculum, including both experiential and classroom-based components. Requires extensive reflection by students on their various educational experiences as well as research projects involving individual and group presentations. Topics include contemporary political issues and relevant literature in the discipline of political science. Consideration is also given to career options for political science students. Required for political science majors and fulfills part of the experiential education requirement.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -374,7 +421,8 @@
     "nuPath": ["DD", "EX"],
     "sections": [{ "term": "202310", "crn": "12320" }],
     "description": "Introduces students to model simulations as a means of learning about international relations, diplomacy, and international organizations. Offers students an opportunity to conduct research and represent countries in current and historical simulations of the United Nations, U.N. organizations/agencies, regional international organizations, and joint cabinet crisis scenarios. Participating students have an opportunity to be selected for an off-campus competitive conference experience. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -385,7 +433,8 @@
     "nuPath": ["EX"],
     "sections": [{ "term": "202260", "crn": "61172" }],
     "description": "Gives students the opportunity to engage in a political or governmental internship under the supervision of a faculty member with departmental approval. Requires prior completion of 64 SH toward degree. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -402,7 +451,8 @@
       { "term": "202260", "crn": "61521" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
-    "coreqs": [{ "subject": "INSH", "number": "6864" }]
+    "coreqs": [{ "subject": "INSH", "number": "6864" }],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -413,7 +463,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19560" }],
     "description": "Focuses on major research approaches and corresponding academic literature in international relations.  Examines major fields of study, including international security, international regimes, international organizations, globalization, and international political economy.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -424,7 +475,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19561" }],
     "description": "Focuses on American political parties and includes analyses of party organizations and decision-making systems, leader/activist differences in policy and ideology, party reform, policy commitments, campaign finance, media, voting behavior, and an overview and assessment of contemporary elections and campaigns.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -435,7 +487,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19562" }],
     "description": "Offers an overview of the literature on social networks, with literature from political science, sociology, economics, and physics. Analyzes the underlying topology of networks and how we visualize and analyze network data. Key topics include small-world literature and the spread of information and disease. Students who do not meet course prerequisites may seek permission of instructor.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -446,7 +499,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19563" }],
     "description": "Examines the post-9/11 evolution of security and the new emphasis on bolstering societal, infrastructure, system, and network resilience. Emphasizes the complex organizational; jurisdictional (international, federal, state, and local); private-sector; and civil-society issues associated with managing the risk of terrorism, cyber-attacks, and naturally occurring disasters. Topics include policy development and implementation of critical infrastructure protection, cybersecurity, supply chain security, disaster management, and community resilience.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -457,7 +511,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19564" }],
     "description": "Examines the most important empirical and theoretical debates on counterterrorism.  Analyzes the motives and strategies of key actors in the development of approaches to counterterrorism.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -468,7 +523,8 @@
     "nuPath": [],
     "sections": [{ "term": "202240", "crn": "41741" }],
     "description": "Offers assigned reading under the supervision of a faculty member. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -482,7 +538,8 @@
       { "term": "202260", "crn": "61481" }
     ],
     "description": "Offers students an opportunity to complete a specialized research or applied project in political science or security studies as part of the master&rsquo;s degree. Designed to meet the specific learning and research interests of the student. Learning experience is based on activities that meet agreed-upon benchmarks with the instructor and may involve activities with government or nongovernment organizations.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -493,7 +550,8 @@
     "nuPath": [],
     "sections": [{ "term": "202260", "crn": "61058" }],
     "description": "Offers work experience (at least fifteen hours per week) that includes planning, research, policy development, and other administrative aspects in a government or nonprofit organization. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -504,7 +562,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13026" }],
     "description": "Offers the student the opportunity to prepare for the PhD qualifying exam under faculty supervision.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -515,7 +574,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20932" }],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -526,7 +586,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16364" }],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -537,7 +598,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13027" }],
     "description": "Offers dissertation supervision by individual members of the department.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -548,7 +610,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14963" }],
     "description": "Offers dissertation supervision by members of the department.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "POLS", "number": "9990" }]
   },
   {
     "subject": "POLS",
@@ -559,6 +622,7 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13028" }],
     "description": "Offers continued dissertation supervision by individual members of the department. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   }
 ]

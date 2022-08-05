@@ -8,6 +8,7 @@
     "nuPath": ["CE", "WI"],
     "sections": [{ "term": "202310", "crn": "11229" }],
     "description": "Offers students an opportunity to prepare an undergraduate thesis under faculty supervision.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   }
 ]

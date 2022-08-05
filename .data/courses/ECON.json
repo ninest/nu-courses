@@ -8,7 +8,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10460" }],
     "description": "Intended for freshmen in the College of Social Sciences and Humanities. Introduces freshmen to the liberal arts in general; familiarizes them with their major; helps them develop the academic skills necessary to succeed (analytical ability and critical thinking); provides grounding in the culture and values of the University community; and helps them develop interpersonal skills&amp;#8212;in short, familiarizes students with all skills needed to become a successful university student.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -36,7 +37,8 @@
       { "term": "202240", "crn": "40766" }
     ],
     "description": "Not open to freshmen.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -64,7 +66,8 @@
       { "term": "202240", "crn": "40579" }
     ],
     "description": "Not open to Freshmen.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -86,7 +89,8 @@
       { "term": "202310", "crn": "11386" }
     ],
     "description": "Required ONLY for students registered for ECON 1115 with PETER SIMON.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -112,7 +116,8 @@
       { "term": "202310", "crn": "17287" }
     ],
     "description": "Required ONLY for students registered for ECON 1116 with FRANCIS GEORGES.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -123,7 +128,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16366" }],
     "description": "Enables students to recognize the relevance of economics to health and medical care and apply economic reasoning to understand health-related issues better; to understand the mechanism of healthcare delivery in the United States within  broad social, political, and economic contexts; to explore the changing nature of health and medical care and its implications for medical practice, medical education and research, and health policy; and to analyze public policy in health and medical care from an economic perspective.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -137,7 +143,8 @@
       { "term": "202260", "crn": "60741" }
     ],
     "description": "Covers economic analysis of crime and the criminal justice system. Topics include theoretical and empirical analysis of the economic causes of criminal behavior, the social costs of crime and its prevention, and the design of enforcement policies.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -148,7 +155,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20213" }],
     "description": "Introduces inequality from an economic perspective. Studies how inequality relates to scarcity, appropriability, and inheritability. Discusses how taxation, economic growth, globalization, and technological progress affect inequality. Emphasizes the difference between inequality of economic outcomes and inequality of economic opportunity. Covers inequality in sectors such as housing, healthcare, labor market, and others. Discusses alternative empirical methods for measuring inequality, and presents economic policies designed to address it.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -162,7 +170,8 @@
       { "term": "202240", "crn": "40396" }
     ],
     "description": "Covers many of the contested economic issues that the United States faces as a nation&amp;#8212;the size of government, the national debt, the war on drugs, national healthcare, taxation, and many more. An important social system in any society is the economic system&amp;#8212;the allocation of scarce resources. In the large and complex economy of the United States, there is controversy over what goods and services are produced and how they are distributed. To understand the nature and causes of these issues requires a course where theory is a tool of analysis, not the focus. Economics is not value free. Attention is given to the role of ethics and how our moral values shape policy. Course topics vary from semester to semester.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -173,7 +182,8 @@
     "nuPath": ["SI"],
     "sections": [{ "term": "202310", "crn": "11976" }],
     "description": "Explores social and economic development around the world. Topics include income, poverty, inequality, human development, geography, growth, impact evaluation, health, education, financial markets, trade, and gender inequality. Analyzes four key elements of economic development: income, poverty, inequality, and human development. Offers students an opportunity to understand the determinants of economic growth. Focuses on major policy issues concerning health, education, credit, savings, gender differences, and globalization. Studies which interventions worked and which did not. Exposes students to readings and perspectives from several academic disciplines. Emphasizes one unifying methodological theme: the usefulness of empirical economic tools in assessing the arguments presented in debates about development.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -187,7 +197,8 @@
       { "term": "202240", "crn": "40893" }
     ],
     "description": "Studies the significance of behavioral assumptions on economic outcomes and social norms, specifically as these relate to the perceived value of resources and the broader ecosystem. Explores the importance of economic concepts such as externalities and elasticity in relation to a market-driven economy, price, and consumption behavior. Through the use of elementary life cycle analysis, introduces both the definition and responsibilities of the rational agent as these relate to the establishment of sustainable outcomes. Offers students an opportunity to articulate the relationship between economic growth and climate change and reconcile the historical relationship between social values and sustainable outcomes.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -198,7 +209,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19008" }],
     "description": "Covers selected topic matter in the field of microeconomics. The specific topic is chosen by the instructor. May be repeated up to three times.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -218,7 +230,8 @@
       { "term": "202240", "crn": "40242" }
     ],
     "description": "Presents several theoretical approaches to the study of short-run economic instability and long-run growth. Uses conceptual and mathematical tools to examine what economists believe to be the major determinants of fluctuations in employment and price level, as well as the rate of economic growth. Uses theoretical models to evaluate the operation and impact of various macroeconomic policy tools. Focuses on issues of social justice.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -240,7 +253,28 @@
       { "term": "202240", "crn": "40768" }
     ],
     "description": "Builds on ECON 1116. Examines the behavior of consumers and firms under several different market structures, including monopoly, oligopoly, monopolistic competition, and perfect competition. Covers sources of market failure, such as public goods, externalities, and information asymmetry. Exposes students to key analytical tools economists use to understand a wide range of social issues, including income inequality, poverty, and race. Uses calculus-based methods to extend students&rsquo; existing knowledge of microeconomics.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ECON", "number": "1116" },
+      "And",
+      "(",
+      { "subject": "MATH", "number": "1231" },
+      "Or",
+      { "subject": "MATH", "number": "1241" },
+      "Or",
+      { "subject": "MATH", "number": "1242" },
+      "Or",
+      { "subject": "MATH", "number": "1245" },
+      "Or",
+      { "subject": "MATH", "number": "1251" },
+      "Or",
+      { "subject": "MATH", "number": "1340" },
+      "Or",
+      { "subject": "MATH", "number": "1341" },
+      "Or",
+      { "subject": "MATH", "number": "1342" },
+      ")"
+    ]
   },
   {
     "subject": "ECON",
@@ -259,7 +293,8 @@
       { "term": "202240", "crn": "41824" }
     ],
     "description": "Discusses basic probability, descriptive statistics, estimation techniques, statistical hypotheses, sampling, analysis of variance, correlation, and regression analysis in the context of economics. Computer applications are an integral part of the course.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -277,7 +312,8 @@
       { "term": "202240", "crn": "40458" }
     ],
     "description": "Examines research methods used by practicing economists. Discusses typical problems from applied areas of economics including choice of modeling framework, problems of data collection, review of estimation techniques, interpretation of results, and development of static and dynamic adaptive policy models. A research paper utilizing computer applications is an integral part of the course.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -288,7 +324,12 @@
     "nuPath": ["SI"],
     "sections": [{ "term": "202310", "crn": "19011" }],
     "description": "Covers ideological biases in economics; the extent of global disparities around 1800; evolution of global disparities since 1800; evolution of international integration and international trading and monetary regimes, 1800&ndash;2000; theories explaining global disparities: classical, neoclassical, Marxian, neo-Marxian, and structuralist; import-substituting industrialization: Latin America, Asia, and Africa; international debt crises: nineteenth and twentieth centuries; the new global regime; structural adjustment: GATT (General Agreement on Tariffs and Trade) and WTO (World Trade Organization); and socialist interlude: a socialist experience and transition to capitalism.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ECON", "number": "1116" },
+      "Or",
+      { "subject": "ECON", "number": "1115" }
+    ]
   },
   {
     "subject": "ECON",
@@ -299,7 +340,8 @@
     "nuPath": ["SI"],
     "sections": [{ "term": "202310", "crn": "19012" }],
     "description": "Offers an overview of the rationale for and types of food policies in developing countries. Uses a food systems approach to cover economic and political dimensions of food policy. Emphasizes food security, nutrition, poverty alleviation, and environmental issues. Discusses and analyzes the dynamics of change in the role of government; food value chains; and institutions and governance and their implications for local, regional, and global food systems.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -313,7 +355,8 @@
       { "term": "202310", "crn": "19013" }
     ],
     "description": "Questions assumptions made in standard microeconomic utility-driven models, using insights from psychology and other social sciences. Examines behavior that departs from these assumptions and tests theories with data. Incorporates empirical evidence from a wide range of fields, including development economics, health economics, labor economics, industrial organization, and finance. Topics include deviations from standard models in terms of preferences (present bias, reference dependence, and social preferences); beliefs (projection bias); and decision making (cognition, attention, and framing); as well as market and policy reactions to such deviations.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -324,7 +367,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19014" }],
     "description": "Applies the tools of economics to environmental issues. Explores taxonomy of environmental effects; externalities; the commons problem; taxation, regulations, marketable permits, and property rights as a solution; measuring benefits of cleaner air and water, noise abatement, and recreational areas; global issues including tropical deforestation and acid rain; and the relevance of economics to the environmental debate.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -335,7 +379,8 @@
     "nuPath": ["FQ", "SI"],
     "sections": [{ "term": "202310", "crn": "16373" }],
     "description": "Focuses on how an understanding of the law is furthered by an awareness of the economic background against which it operates. Draws from economic principles, developing concepts such as efficiency, property rights, regulation, and income distribution. Uses mathematical notation to model the incentives created by various legal rules. Solutions to cost minimization and utility maximization problems reveal whether particular laws induce economic agents to act in a manner consistent with the social optimum. Applications of these ideas may include health and safety, the environment, the legal services and insurance industries, and zoning and land use, among others.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "ECON", "number": "1116" }]
   },
   {
     "subject": "ECON",
@@ -346,7 +391,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20295" }],
     "description": "Presents an overview of the economics of government and the role of public policy. Develops guidelines to determine which economic activities are best performed by government and which are not. Also examines the impact of tax policies on efficiency, economic growth, and equity. Topics include market failures, public choice, the personal income tax, the corporate tax, sales tax, and taxation of capital and wealth, and options for reform of the tax structure. Major spending programs such as social security and education and healthcare are analyzed.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -357,7 +403,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19016" }],
     "description": "Covers the nature and functions of money, credit, and financial markets in the modern international economy. Analyzes financial markets and institutions, central banking, and the effects of interest and foreign exchange rates on the real economy.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -368,7 +415,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19017" }],
     "description": "Explores the application of economic principles to the solution of managerial decision-making problems in areas such as demand estimation, cost estimation and control, pricing and marketing strategies, employee incentives, financing of capital investments, and responses to government regulation and taxation. Case studies and simulation models are typically used as pedagogical tools.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "ECON", "number": "1116" }]
   },
   {
     "subject": "ECON",
@@ -379,7 +427,8 @@
     "nuPath": ["SI", "WI"],
     "sections": [{ "term": "202310", "crn": "19018" }],
     "description": "Covers the economic history of the United States from the colonial period to the present. Includes studies of the development of major economic institutions and the effects of technological change. Examines economic reasons for the spread of an industrial market economy in the nineteenth century and the successes and failures of this economy in the twentieth century.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -393,7 +442,8 @@
       { "term": "202240", "crn": "40699" }
     ],
     "description": "Investigates what economics has to say about sports as an economic activity: what tools of economic analysis apply to sports, whether sports require different economic tools, what the evidence has to say about key questions. Focuses on professional team sports, although some attention is paid to college sports and to individual professional sports.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "ECON", "number": "1116" }]
   },
   {
     "subject": "ECON",
@@ -407,7 +457,22 @@
       { "term": "202260", "crn": "60742" }
     ],
     "description": "Traces the evolution of Western economic thought. Covers several important periods and schools of economic thought including mercantilism, physiocracy, classical, Marxist, neoclassical, and Keynesian. Emphasizes the relationship between historical changes in society and economic thought, focusing on changes in the types of questions economists ask and the analytical tools they use.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ECON", "number": "1115" },
+      "And",
+      { "subject": "ECON", "number": "1116" },
+      "And",
+      "(",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      ")"
+    ]
   },
   {
     "subject": "ECON",
@@ -418,7 +483,8 @@
     "nuPath": [],
     "sections": [{ "term": "202240", "crn": "41416" }],
     "description": "Addresses economic issues related to race, including the persistence of racial discrimination. Studies the social construction of race and the use of this construction to legitimize exploitation. Covers the economic modeling of discrimination and segregation, as well as the effect of these societal attributes on economic outcomes, and the complexity of racial equity and equality specific to reparations. Course materials rely on published research, film, and other media.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -429,7 +495,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14894" }],
     "description": "Covers selected topic matter in the field of microeconomics. The specific topic is chosen by the instructor. May be repeated up to five times.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "ECON", "number": "1116" }]
   },
   {
     "subject": "ECON",
@@ -440,7 +507,28 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19019" }],
     "description": "Introduces students to the theory of investments, including the principles of risk and return, the theory of portfolio selection, asset pricing models such as the capital asset pricing model (CAPM) and arbitrage pricing theory (APT), valuation of stocks, bond pricing and the term structure of interest rates, and options (what they are and how to use them). Geared toward nonbusiness majors who are interested in a rigorous course in finance.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "ECON", "number": "2315" },
+      "Or",
+      { "subject": "ECON", "number": "2316" },
+      ")",
+      "And",
+      "(",
+      { "subject": "ECON", "number": "2350" },
+      "Or",
+      { "subject": "MATH", "number": "2280" },
+      "Or",
+      { "subject": "MATH", "number": "3081" },
+      "Or",
+      { "subject": "MGSC", "number": "2301" },
+      "Or",
+      { "subject": "POLS", "number": "2400" },
+      "Or",
+      { "subject": "PSYC", "number": "2320" },
+      ")"
+    ]
   },
   {
     "subject": "ECON",
@@ -451,7 +539,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20196" }],
     "description": "Presents an analytic framework and empirical study of how the structure of industries and the conduct of sellers affect performance. Includes examples and case studies from both the &amp;#8220;old economy&amp;#8221; and the &amp;#8220;new economy.&amp;#8221; Examines antitrust as a public policy designed to promote better market performance.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "ECON", "number": "2316" }]
   },
   {
     "subject": "ECON",
@@ -469,7 +558,26 @@
       { "term": "202240", "crn": "40415" }
     ],
     "description": "Incorporates aspects of real-world and academic experiences of students into an analytical context, enabling students to demonstrate their ability to apply economic concepts, methodology, and data to economic issues and problems of personal and philosophical significance.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ECON", "number": "2315" },
+      "And",
+      { "subject": "ECON", "number": "2316" },
+      "And",
+      "(",
+      { "subject": "ECON", "number": "2350" },
+      "Or",
+      { "subject": "MATH", "number": "2280" },
+      "Or",
+      { "subject": "MATH", "number": "3081" },
+      "Or",
+      { "subject": "MGSC", "number": "2301" },
+      "Or",
+      { "subject": "POLS", "number": "2400" },
+      "Or",
+      { "subject": "PSYC", "number": "2320" },
+      ")"
+    ]
   },
   {
     "subject": "ECON",
@@ -483,7 +591,8 @@
       { "term": "202310", "crn": "17939" }
     ],
     "description": "Offers an intensive study of the statistical methods and techniques and mathematical fundamentals necessary for quantitative economics. Statistical topics include descriptive statistics, probability theory, fundamentals of estimation and hypothesis testing, and regression and correlation analysis. Mathematical topics include linear algebra and differential and integral calculus. Computer applications are an integral part of the course.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -494,7 +603,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10764" }],
     "description": "Presents a survey of microeconomic theory at the beginning graduate level. Topics include theories of the consumer, firm, and market (including input and output markets), welfare economics, and market failures. Includes applications of theory to public policy questions in such fields as industrial organization and public finance. Requires knowledge of undergraduate microeconomic theory.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -508,7 +618,8 @@
       { "term": "202310", "crn": "20304" }
     ],
     "description": "Examines theories of the short-run determination of output, employment, and prices, and long-run economic growth. Presents alternative macroeconomic models. Also consists of applied case study analysis of the theoretical models presented in class.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -522,7 +633,8 @@
       { "term": "202310", "crn": "19023" }
     ],
     "description": "Presents an application of microeconomic and macroeconomic theory, as well as quantitative methods, to a variety of social issues, both domestic and international. May be repeated without limit where topics are unique.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -533,7 +645,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19024" }],
     "description": "Explores primarily the role of agriculture in the evolving development context and the global economy. Reviews historical and current thinking on agriculture and development to offer students a theoretical and applied perspective on agricultural development and structural transformation in developing countries. Discusses current and emerging trends in agriculture, including agriculture&#39;s central role in rural poverty reduction; food security, health, and nutrition issues related to natural resource use; and global developments in agriculture trade and investment within the overall framework of the 2030 Agenda for Sustainable Development and the Sustainable Development Goals.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -544,7 +657,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16660" }],
     "description": "Covers the fundamental quantitative methods in economics. The first part of the course focuses on the role of mathematical models in economics, the applications of linear algebra, multivariate calculus, and static optimization theory. Studies statistics in the second part of the course, and offers students an opportunity to learn how to apply proper methods of empirical testing in economics. Additionally, introduces the statistical language R to equip students to complete most of the assignments in statistics. This is an advanced graduate course.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -555,7 +669,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19025" }],
     "description": "Develops basic models used by macroeconomists to study long-run economic growth with exogenous savings and endogenous saving decisions by optimizing households. Studies models incorporating endogenous technology improvements, including the model of increasing product variety and the model of Schumpeterian growth. In the second part of the course, basic models used by macroeconomist are developed to explain short-term fluctuations in aggregate economic variables. Develops a simple real business cycle model, which is subsequently enriched by relaxing assumptions of perfect competition on the production side and monetary neutrality. This is the first advanced graduate-level course introducing modern theories of the aggregate economy.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -572,7 +687,8 @@
       { "term": "202240", "crn": "41961" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -583,7 +699,8 @@
     "nuPath": [],
     "sections": [{ "term": "202260", "crn": "61558" }],
     "description": "Provides eligible students with an opportunity for work experience abroad. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -594,7 +711,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20232" }],
     "description": "Emphasizing recent empirical research in credit and insurance markets, this course will study how asymmetric information influences market outcomes and policy.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -605,7 +723,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14895" }],
     "description": "Introduces students to international finance and equips them with tools and methods to study and analyze international economic issues and problems. Topics include the foreign exchange market, balance of payments, international investment and banking, monetary and fiscal policy in an open economy, economic integration and monetary unification, the international monetary system, and optimum currency areas. Each student is required to write a short paper on a current problem in international finance.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -616,7 +735,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20300" }],
     "description": "Continues ECON 5110, building on its theories. Topics include game theory, economics of information, incentive theory, welfare economics, general equilibrium, and social choice theory.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -627,7 +747,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13529" }],
     "description": "Covers the theoretical and empirical issues surrounding current topics in the area of labor economics. Topics may vary each time the course is offered and may include discrimination, efficiency wage theory, labor legislation, life cycle analysis, and the use of microdata (panel studies, search behavior, intergenerational earnings mobility, and employment and training policies).",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -638,7 +759,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10587" }],
     "description": "Covers the three major facets of public policy toward business: antitrust, regulation, and privatization. Demonstrates how economic theory and evidence are brought to bear on practical questions of market failure and policies to remedy such failure. Topics include mergers, collusion and facilitating practices, predatory conduct, cost of service regulation, price caps and incentive regulation, deregulation, and public enterprise vs. privatization. Policies are analyzed for their rationale, techniques for implementation, and effects as measure in the context of actual experience in the United States and other countries.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "ECON", "number": "7771" }]
   },
   {
     "subject": "ECON",
@@ -649,7 +771,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20520" }],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May not be substituted for requirements leading to a BA or BS in economics. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -660,7 +783,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19028" }],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -671,7 +795,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10646" }],
     "description": "First of two consecutive semesters to meet the residency requirement of the doctoral program.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "ECON", "number": "9000" }]
   },
   {
     "subject": "ECON",
@@ -682,7 +807,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "17520" }],
     "description": "Offers dissertation supervision by members of the department.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -693,6 +819,7 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10806" }],
     "description": "Requires registration for those students who have completed the doctoral program&#39;s residency requirement, but who have not yet completed the dissertation.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   }
 ]

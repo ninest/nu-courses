@@ -14,7 +14,8 @@
       { "term": "202310", "crn": "18765" }
     ],
     "description": "Introduces first-year students to the major and the field of biology and to the professional and academic resources available to students at Northeastern University; acquaints students with their faculty, advisors, and fellow students; provides an initial orientation to undergraduate research, cooperative education, and other experiential learning options; helps develop the academic skills necessary to succeed; provides grounding in the culture and values of the university community; and assists in interpersonal skill development&amp;#8212;in short, familiarizes students with the resources and skills needed to become a successful university student.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -28,7 +29,8 @@
       { "term": "202310", "crn": "17229" }
     ],
     "description": "Introduces evolutionary principles, cellular structure and function, genetic transmission, energy pathways, and physiology. Covers current topics in biology and evaluates and discusses current scientific literature. Explores the interdisciplinary nature of biology. Offers students an opportunity to prepare for the topical inquiries in biology courses.",
-    "coreqs": [{ "subject": "BIOL", "number": "1108" }]
+    "coreqs": [{ "subject": "BIOL", "number": "1108" }],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -57,7 +59,8 @@
       { "term": "202310", "crn": "18001" }
     ],
     "description": "Accompanies BIOL1107. Includes various lab experiments that emphasize evolutionary principles, cellular structure and function, genetic transmission, energy pathways, and physiology.",
-    "coreqs": [{ "subject": "BIOL", "number": "1107" }]
+    "coreqs": [{ "subject": "BIOL", "number": "1107" }],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -77,7 +80,8 @@
       { "term": "202240", "crn": "41791" }
     ],
     "description": "Explores basic principles of biology with a focus on those features shared by all living organisms and seen through the lens of evolutionary theory. Through lectures, readings and discussion, offers students an opportunity to understand how the scientific method has been and is used to address biological questions. Central topics include recent advances in cell anatomy and physiology, including the interplay between organelles, membrane transport, and cell-signaling; energy transfer through cells and through the biosphere; cellular reproduction and cancer; heredity and human genetic disorders; and protein synthesis and biotechnology. Explores the societal implications of such topics as biopharmaceuticals, ocean acidification, climate change, human diseases, epigenetics, cancer, and cloning.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -117,7 +121,8 @@
       { "term": "202240", "crn": "41792" }
     ],
     "description": "Accompanies BIOL 1111. Offers students an opportunity to collect quantitative data through hands-on experimentation as well as simulations. Data is analyzed statistically and presented in written form.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -131,7 +136,16 @@
       { "term": "202240", "crn": "41725" }
     ],
     "description": "Continues BIOL 1111. Examines the evolution of structural and functional diversity of organisms; the integrative biology of multicellular organisms; and ecological relationships at the population, community, and ecosystem levels.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "BIOL", "number": "1101" },
+      "Or",
+      { "subject": "BIOL", "number": "1107" },
+      "Or",
+      { "subject": "BIOL", "number": "1111" },
+      "Or",
+      { "subject": "BIOL", "number": "1115" }
+    ]
   },
   {
     "subject": "BIOL",
@@ -148,7 +162,8 @@
       { "term": "202240", "crn": "41726" }
     ],
     "description": "Accompanies BIOL 1113. Covers topics from the course through various experiments.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "BIOL", "number": "1113" }]
   },
   {
     "subject": "BIOL",
@@ -159,7 +174,8 @@
     "nuPath": ["ND"],
     "sections": [{ "term": "202240", "crn": "40480" }],
     "description": "Introduces the unseen world of microorganisms. Students analyze how the growth and behavior of this diverse group of organisms affect many aspects of human society including agriculture and food preparation; drug development and manufacture; liquid and solid waste management; genetic engineering; geochemical cycles; and health and disease.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -174,7 +190,8 @@
       { "term": "202240", "crn": "40659" }
     ],
     "description": "Offers an overview of how biology weaves its way across a broad spectrum of complex societal issues. Introduces students to the biological mechanisms and processes responsible for genetic inheritance, energy transfer, evolution, and population dynamics, providing a framework within which students may critically interpret and discuss important biological information provided in public forums. Seeks to empower students to make informed choices at the policy and personal levels. Offers students an opportunity to acquire an understanding of the basic principles of biology and apply the scientific process to the analysis of contemporary issues. Using a thematic approach, covers a wide range of issues including the reemergence of plagues, biological weapons and security, the environment, and human health and wellness.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -185,7 +202,8 @@
     "nuPath": ["ND"],
     "sections": [{ "term": "202310", "crn": "14161" }],
     "description": "Introduces the structure and function of the human body. Emphasizes the principles of biological and physical science as they relate to life processes in health and disease.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -199,7 +217,8 @@
       { "term": "202260", "crn": "60540" }
     ],
     "description": "Studies sexual and reproductive function in the human male and female, that is, sexual development, coitus, fertilization, pregnancy, birth, and lactation. Discusses the methods of controlling fertility and sexually transmitted diseases. Analyzes factors affecting reproduction and sexuality in human population.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -210,7 +229,8 @@
     "nuPath": ["ER", "ND"],
     "sections": [{ "term": "202310", "crn": "14595" }],
     "description": "Designed to familiarize students with the basic process of human genome editing, including an overview of emerging technologies that enable this process. Explores both sides of the ongoing ethical debate, including the potential benefits and limitations of human genome editing, and ramifications for this clinical practice on society. Introduces the methodology for genetic editing, a historical overview of the science and clinical practice of gene editing, and a synopsis of the current regulatory status. Discusses the ethical implications of the utilization of genome editing in humans. Offers students an opportunity to evaluate the utilization of genetic editing to eradicate genetically inherited diseases, the potential to create designer babies, and the socioeconomic impacts of gene editing.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -225,7 +245,8 @@
       { "term": "202240", "crn": "41583" }
     ],
     "description": "Introduces students to integrated human anatomy and physiology. Focuses on structure and function of cells and tissues. Presents the anatomy and physiology of skin, bones, muscles, blood, and the nervous system.",
-    "coreqs": [{ "subject": "BIOL", "number": "2218" }]
+    "coreqs": [{ "subject": "BIOL", "number": "2218" }],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -251,7 +272,8 @@
       { "term": "202240", "crn": "41584" }
     ],
     "description": "Accompanies BIOL 2217. Covers topics from the course through various experiments.",
-    "coreqs": [{ "subject": "BIOL", "number": "2217" }]
+    "coreqs": [{ "subject": "BIOL", "number": "2217" }],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -265,7 +287,12 @@
       { "term": "202240", "crn": "41074" }
     ],
     "description": "Continues BIOL 2217. Presents the structure and function of the human endocrine, reproductive, cardiovascular, respiratory, urinary, and digestive systems as well as the regulation of metabolism and body temperature.",
-    "coreqs": [{ "subject": "BIOL", "number": "2220" }]
+    "coreqs": [{ "subject": "BIOL", "number": "2220" }],
+    "prereqs": [
+      { "subject": "BIOL", "number": "1117" },
+      "Or",
+      { "subject": "BIOL", "number": "2217" }
+    ]
   },
   {
     "subject": "BIOL",
@@ -281,7 +308,8 @@
       { "term": "202240", "crn": "41148" }
     ],
     "description": "Accompanies BIOL 2219. Covers topics from the course through various experiments.",
-    "coreqs": [{ "subject": "BIOL", "number": "2219" }]
+    "coreqs": [{ "subject": "BIOL", "number": "2219" }],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -303,7 +331,14 @@
       { "term": "202310", "crn": "18784" }
     ],
     "description": "Focuses on the latest developments in the field. Offers students an opportunity to explore both scientific practice and progress through readings, discussion, and projects and to expand and deepen their understanding of fundamental biological principles.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "BIOL", "number": "1101" },
+      "Or",
+      { "subject": "BIOL", "number": "1107" },
+      "Or",
+      { "subject": "BIOL", "number": "1111" }
+    ]
   },
   {
     "subject": "BIOL",
@@ -324,7 +359,30 @@
       { "term": "202240", "crn": "41457" }
     ],
     "description": "Focuses on mechanisms of inheritance, gene-genome structure and function, and developmental genetics and evolution. Examples are drawn from the broad spectrum of plants, animals, fungi, bacteria, and viruses. Topics and analytical approaches include transmission genetics, molecular biology and gene regulation, DNA molecular methods, quantitative and population genetics, bioinformatics, genomics, and proteomics.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "BIOL", "number": "1103" },
+      "Or",
+      { "subject": "BIOL", "number": "1113" },
+      "Or",
+      { "subject": "BIOL", "number": "1115" },
+      "Or",
+      { "subject": "BIOL", "number": "2297" },
+      "Or",
+      { "subject": "BIOL", "number": "2299" },
+      "Or",
+      "Or",
+      "Or",
+      "Or",
+      ")",
+      "And",
+      "(",
+      "Or",
+      "Or",
+      "Or",
+      ")"
+    ]
   },
   {
     "subject": "BIOL",
@@ -375,7 +433,8 @@
       { "term": "202240", "crn": "41462" }
     ],
     "description": "Accompanies BIOL 2301. Reinforces and extends concepts presented and practiced in the accompanying lecture course through the application of scientific investigation methods and data analysis.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "BIOL", "number": "2301" }]
   },
   {
     "subject": "BIOL",
@@ -406,7 +465,8 @@
       { "term": "202240", "crn": "40739" }
     ],
     "description": "Offers an inquiry-based, intensive laboratory experience in which students have an opportunity to design and conduct independent research projects, applying approaches and techniques used in cell and molecular biology. Offers students an opportunity to present their results in professional formats.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -420,7 +480,8 @@
       { "term": "202240", "crn": "41546" }
     ],
     "description": "Examines the general biology, life cycles, modes of transmission, and pathogenesis of major parasites on global human health. Explores a number of important diseases, along with the diverse protozoans, worms, and arthropods responsible for them.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -431,7 +492,8 @@
     "nuPath": ["ER"],
     "sections": [{ "term": "202310", "crn": "14609" }],
     "description": "Offers students an opportunity to explore ethical issues arising from biological research and emerging technologies, to learn to identify and critically analyze potential ethical implications of biological research, and to evaluate theory-based arguments while respectfully engaging with a diversity of perspectives. Using their knowledge of basic cellular and molecular science as a foundation, students have an opportunity to gain a deeper understanding of the biology of genome editing and other molecular and cellular biology-based technologies. Examines the history and ethical dialogue around genome editing as an in-depth example of an emerging technology with wide-ranging applications. Studies additional technologies with respect to research progress, international perspectives, and potential implications in the areas of security, environmental protection, and personal health.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -442,7 +504,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18769" }],
     "description": "Examines the morphology and phylogeny of the vertebrates.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -457,7 +520,20 @@
       { "term": "202240", "crn": "40580" }
     ],
     "description": "Introduces the cellular and molecular functioning of the nervous system, the organization of neurons into circuits, the processing of information, and the generation of motor output.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "BIOL", "number": "1103" },
+      "Or",
+      { "subject": "BIOL", "number": "1113" },
+      "Or",
+      { "subject": "BIOL", "number": "2297" },
+      "Or",
+      { "subject": "BIOL", "number": "2299" },
+      "Or",
+      "Or",
+      "Or",
+      { "subject": "PSYC", "number": "3458" }
+    ]
   },
   {
     "subject": "BIOL",
@@ -472,7 +548,8 @@
       { "term": "202240", "crn": "41464" }
     ],
     "description": "Examines selected topics in biology. Topics vary each semester. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "BIOL", "number": "2301" }]
   },
   {
     "subject": "BIOL",
@@ -486,7 +563,8 @@
       { "term": "202310", "crn": "19321" }
     ],
     "description": "Examines selected topics in cell and molecular biology. Topics vary each semester. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -500,7 +578,15 @@
       { "term": "202240", "crn": "41465" }
     ],
     "description": "Examines selected topics in organismal and population biology. Topics vary each semester. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "BIOL", "number": "1113" },
+      "Or",
+      { "subject": "BIOL", "number": "1115" },
+      "Or",
+      { "subject": "BIOL", "number": "2299" },
+      "Or"
+    ]
   },
   {
     "subject": "BIOL",
@@ -515,7 +601,8 @@
       { "term": "202240", "crn": "40662" }
     ],
     "description": "Examines selected topics in behavioral neuroscience. Topics vary each semester.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "BIOL", "number": "2301" }]
   },
   {
     "subject": "BIOL",
@@ -530,7 +617,20 @@
       { "term": "202310", "crn": "20769" }
     ],
     "description": "Introduces morphological, ecological, and biochemical consideration of representative groups of bacteria. Introduces virology and microbial genetics; host-parasite relationships, prokaryotes of medical significance; and physical and chemical controls of microbial growth.",
-    "coreqs": [{ "subject": "BIOL", "number": "3422" }]
+    "coreqs": [{ "subject": "BIOL", "number": "3422" }],
+    "prereqs": [
+      { "subject": "BIOL", "number": "2301" },
+      "And",
+      "(",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      ")"
+    ]
   },
   {
     "subject": "BIOL",
@@ -547,7 +647,8 @@
       { "term": "202310", "crn": "20770" }
     ],
     "description": "Accompanies BIOL 3421. Covers topics from the course through various experiments.",
-    "coreqs": [{ "subject": "BIOL", "number": "3421" }]
+    "coreqs": [{ "subject": "BIOL", "number": "3421" }],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -558,7 +659,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13126" }],
     "description": "Designed to familiarize students with fundamental principles in mammalian physiology. Emphasizes major organ systems integration. Where applicable, explores and uses human physiology to reinforce principles in physiology and build upon these principles by analyzing how major organ systems effectively network for proper organismal function. Initially covers the physiological principles of energy and metabolism in mammals, including human adaptation for basic energy requirements, and then delves into basics of membrane transport. Evaluates roles for organ systems integration in the respiratory, cardiovascular, gastrointestinal, hemopoietic, renal, and reproductive systems.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "BIOL", "number": "2301" }]
   },
   {
     "subject": "BIOL",
@@ -569,7 +671,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18773" }],
     "description": "Covers the cellular, molecular, and genetic processes that guide neural development. Focuses on how nerve cells are generated, patterned, and connected with one another to regulate animal behavior. Topics include cell differentiation, tissue patterning, neural plasticity, and cognitive development.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -580,7 +683,8 @@
     "nuPath": [],
     "sections": [{ "term": "202240", "crn": "41649" }],
     "description": "Introduces current trends in the field of reproductive sciences, spanning basic human reproduction, infertility, and potential horizons in medicine. Surveys topics in basic research that have the most promise to make an impact in the field of women&amp;#8217;s health. Emphasizes human health but includes animal models in the analysis.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -597,7 +701,8 @@
       { "term": "202240", "crn": "40483" }
     ],
     "description": "Covers structure and function of biomolecules, central concepts of bioenergetics and thermodynamics, enzyme kinetics and regulation, and metabolic pathways.",
-    "coreqs": [{ "subject": "BIOL", "number": "3612" }]
+    "coreqs": [{ "subject": "BIOL", "number": "3612" }],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -637,7 +742,8 @@
       { "term": "202240", "crn": "40599" }
     ],
     "description": "Accompanies BIOL 3611. Covers topics from the course through various experiments.",
-    "coreqs": [{ "subject": "BIOL", "number": "3611" }]
+    "coreqs": [{ "subject": "BIOL", "number": "3611" }],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -659,7 +765,14 @@
       { "term": "202240", "crn": "40583" }
     ],
     "description": "Integrates and assesses the concepts and skills obtained from the entire biology curriculum, including experiential and classroom-based components. Requires reflection by students on their various educational experiences, extensive research of scientific questions related to these experiences, and development of an original research proposal. Offers students an opportunity to hone communication skills through formal and informal presentations, class discussion, and critique.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGW", "number": "3307" },
+      "Or",
+      { "subject": "ENGW", "number": "3315" },
+      "Or",
+      { "subject": "ENGW", "number": "3302" }
+    ]
   },
   {
     "subject": "BIOL",
@@ -670,7 +783,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14149" }],
     "description": "Introduces the neuroanatomical and cognitive sequelae of brain aging and neurodegenerative disease. Covers molecular and cellular processes that damage neurons, animal models, and brain imaging. Explores higher-level manifestations of damage to, for example, memory, language, and reward systems.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -686,7 +800,8 @@
       { "term": "202240", "crn": "40466" }
     ],
     "description": "Integrates molecular biology and biochemistry in the cellular context. Focuses on the organization and function of eukaryotic cells, including the regulation of nuclear structure and gene expression, signal transduction, protein synthesis and growth, cellular energetics, the cytoskeleton and cell motility, cell division, and cell death. Emphasizes the scientific methodologies and approaches that underlie discovery in cell biology.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -697,7 +812,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18774" }],
     "description": "Explores the neurobiology of learning and memory from the level of the synapse up to the neural systems underlying emergent mnemonic function. Topics include the synaptic mechanisms underlying neural plasticity; the molecular basis of mnemonic processes; and the neural circuits serving distinct memory systems. In addition to lecture-based material, students utilize primary research and review articles from the current scientific literature to evaluate data and develop hypotheses via oral presentations and active discussions in the classroom. The overarching goal of the course is to provide a neurobiological perspective on how information is encoded, consolidated, and later retrieved and the significance of dysfunction in these processes associated with neurologic deficits and disease.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -708,7 +824,8 @@
     "nuPath": ["EX"],
     "sections": [{ "term": "202310", "crn": "20863" }],
     "description": "Offers independent laboratory research work on a chosen topic under the direction of members of the department. Course content depends on instructor. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -719,7 +836,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13064" }],
     "description": "Offers a series of colloquia in biological research by invited experts on current topics. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -730,7 +848,12 @@
     "nuPath": [],
     "sections": [{ "term": "202240", "crn": "40663" }],
     "description": "Designed to familiarize students with core biological processes associated with fertilization and early embryogenesis in humans, with an emphasis on clinical relevance. Covers fundamental aspects of female fertility and embryo development, including hormonal control of ovarian follicle growth and ovulation, fertilization, preimplantation embryonic development, implantation, and postimplantation embryonic development through gastrulation. Examines current parameters for determining egg and embryo quality. Additionally, discusses evolving stem-cell-based strategies for the treatment of female reproductive failure.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "BIOL", "number": "2301" },
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "BIOL",
@@ -741,7 +864,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19917" }],
     "description": "Expands upon material and concepts from BIOL 5301 by familiarizing students with development of the organ systems, culminating with the end of the fetal period and birth. Examines fundamental aspects of development for each major organ system, including the integumentary, skeletal, and muscular systems; limb development; the nervous system; neural crest development; sense organs; head and neck, digestive, and urogenital systems; and the cardiovascular system. Evaluates parameters for determining fetal developmental progress.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -752,7 +876,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18775" }],
     "description": "Explores the endocrine regulation of physiological systems, emphasizing current research. Lectures provide background, followed by analysis of primary literature and case studies. Topics include growth, reproduction, nutrient utilization, stress, and environmental endocrine disruption. Emphasizes humans but includes material on other animals, including invertebrates.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -763,7 +888,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18776" }],
     "description": "Illustrates imaging principles and techniques and their application to biological problems. Topics vary and may include microscopic and macroscopic approaches in areas such as cellular and neurobiology, ecology, and biochemistry.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -774,7 +900,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16036" }],
     "description": "Provides an overview of the structure and function of genes, proteins, and cells involved in the generation of the immune response. Emphasis is on molecular immunology and immunogenetics.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -785,7 +912,8 @@
     "nuPath": ["EI"],
     "sections": [{ "term": "202310", "crn": "14611" }],
     "description": "Presents a cellular approach to structure and function of the nervous system. Topics include neuronal anatomy, phylogeny of nervous systems, electrophysiology of membrane conductances, synaptic transmission, integration in nerve cells, neuronal networks, sensory systems, motor systems, sensory-motor integration, development and regeneration of neuronal connectivity, and fundamentals of neurotechnology for biomedics. Focuses on the development of these concepts from the primary research literature. A term project involves the design of a simple nervous system for a hypothetical animal.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -796,7 +924,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13070" }],
     "description": "Intended for those familiar with the basics of genetics, molecular and cellular biology, and biochemistry, all of which are required to appreciate the beauty, power, and importance of modern genomic approaches. Introduces the latest sequencing methods, array technology, genomic databases, whole genome analysis, functional genomics, and more.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -807,7 +936,12 @@
     "nuPath": ["WI"],
     "sections": [{ "term": "202310", "crn": "18778" }],
     "description": "Covers the recent scientific discoveries that have transformed our understanding of the process of aging. Examines in-depth the current understanding of the molecular mechanisms that control life span in model organisms, including yeast, worms, flies, and mice. Discusses dietary interventions and pharmacological approaches that extend the life span and delay the onset of age-related diseases. Covers potential applications of the new science of aging to improve human health. Requires students to read, discuss, present, and report on primary research papers from the literature.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "BIOL", "number": "2301" },
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "BIOL",
@@ -818,7 +952,20 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18779" }],
     "description": "Combines molecular biology, cell biology, pharmacology, and genetics to address the fundamental molecular properties of neurons and neuronal networks. At its core, the principles that govern the communication between cells of the nervous system are determined by their molecular components. The molecular landscape defines the individual properties of a neuron and the function of neuronal networks as a whole. Focuses on neuronal signaling through the function of ion channels and receptors, supramolecular mechanisms like synaptic transmission and axonal transport, and the molecular mechanisms that underlie biological networks and neural coding of information. Uses the fundamental understanding of molecular networks as a framework to explore the mechanisms that underlie neurological diseases and disorders. Discusses current treatments and therapies that rely on modulating neuronal signaling through molecular interactions.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "BIOL", "number": "2301" },
+      "And",
+      "(",
+      { "subject": "PSYC", "number": "3458" },
+      "Or",
+      { "subject": "BIOL", "number": "3405" },
+      ")",
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "BIOL",
@@ -829,7 +976,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18780" }],
     "description": "Studies the field of human motor control, or motor neuroscience. Offers students an opportunity to obtain a fundamental understanding of the processes underlying the acquisition and control of sensorimotor behavior. The systems approach connects a variety of disciplines ranging from neurophysiology, to engineering, to neurorehabilitation. Reviews a selection of approaches with emphasis on motor learning. Focuses on early behavioral approaches, more recent neurophysiological and imaging approaches, and rehabilitation. Discusses selected representative papers, including seminal historical papers and more recent studies reflecting the current discussion in the field.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -847,7 +995,8 @@
       { "term": "202240", "crn": "41582" }
     ],
     "description": "Integrates biochemistry and molecular biology in the cellular context. Includes the organization and replication of genomes, principles and methods for genetic manipulation, the regulation of gene expression, and the structure and function of organelles. Emphasizes protein synthesis, including translation, post-translational modifications, and translocations of proteins within the cells and secretion.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -858,7 +1007,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13078" }],
     "description": "Studies the structure and function of biomolecules, with an emphasis on proteins; enzyme catalysis; and cellular metabolism, with an emphasis on bioenergetics and carbohydrate/lipid.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -869,7 +1019,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13079" }],
     "description": "Integrates biochemistry and molecular biology in the cellular context. Emphasizes the organization and replication of genomes, the regulation of gene expression, the structure and function of organelles, and the mechanisms of signal transduction.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -884,7 +1035,8 @@
       { "term": "202310", "crn": "18782" }
     ],
     "description": "Discusses ethical issues relevant to research in the biological sciences. Requires student presentations.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -895,7 +1047,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14612" }],
     "description": "Provides in-depth discussion about fundamentally important cellular processes in prokaryotic systems&amp;#8212;such as replication, transcription, and translation&amp;#8212;and the corresponding regulatory mechanisms. Also discusses molecular mechanisms of gene regulation and bacterial pathogenesis, using selected examples and mechanisms of prokaryotic cell signaling, and advanced and high-throughput techniques used in prokaryotic molecular and cell biology.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -912,7 +1065,8 @@
       { "term": "202310", "crn": "12901" }
     ],
     "description": "Offers experience in biology research in a faculty research laboratory. Intended only for students who have not yet chosen a lab in which to carry out dissertation/thesis work.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -927,7 +1081,8 @@
       { "term": "202310", "crn": "11922" }
     ],
     "description": "Focuses on research methods and their application to a specific problem under the direction of a graduate faculty member. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -952,7 +1107,8 @@
       { "term": "202310", "crn": "13109" }
     ],
     "description": "Offers the student the opportunity to conduct full-time research. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -974,7 +1130,8 @@
       { "term": "202310", "crn": "14061" }
     ],
     "description": "Focuses on research methods and their application to a specific problem under the direction of a graduate faculty member. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOL",
@@ -999,7 +1156,8 @@
       { "term": "202310", "crn": "14062" }
     ],
     "description": "Offers theoretical and experimental research for the PhD degree.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "BIOL", "number": "9000" }]
   },
   {
     "subject": "BIOL",
@@ -1024,7 +1182,8 @@
       { "term": "202310", "crn": "15020" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "BIOL", "number": "9990" }]
   },
   {
     "subject": "BIOL",
@@ -1049,6 +1208,7 @@
       { "term": "202310", "crn": "14063" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   }
 ]

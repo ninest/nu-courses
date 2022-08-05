@@ -15,7 +15,8 @@
       { "term": "202240", "crn": "41807" }
     ],
     "description": "Introduces basic grammar, sentence patterns, and vocabulary of Japanese with emphasis on spoken Japanese. Includes an introduction to the hiragana and katakana syllabaries in the written component. Designed for students with no previous knowledge of Japanese.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "JPNS",
@@ -30,7 +31,8 @@
       { "term": "202240", "crn": "40221" }
     ],
     "description": "Continues JPNS 1101. Emphasizes the development of oral skills; secondary emphasis is on reading. Offers students the opportunity to learn basic grammatical patterns, expand vocabulary, and improve communication skills in modern Japanese. Includes the introduction to kanji characters in the written component.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "JPNS",
@@ -41,7 +43,12 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10058" }],
     "description": "Emphasizes further vocabulary building. Offers students an opportunity to master the fine points of grammar through written composition, prepared oral reports, and reading and discussion from contemporary Japanese materials.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "JPNS", "number": "1102" },
+      "Or",
+      { "subject": "JPNS", "number": "1302" }
+    ]
   },
   {
     "subject": "JPNS",
@@ -52,7 +59,12 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10040" }],
     "description": "Builds on JPNS 2101 and focuses on further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through written composition, prepared oral reports, and reading and discussion from contemporary Japanese materials.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "JPNS", "number": "2101" },
+      "Or",
+      { "subject": "JPNS", "number": "2301" }
+    ]
   },
   {
     "subject": "JPNS",
@@ -63,7 +75,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "11793" }],
     "description": "Continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "JPNS",
@@ -74,7 +87,12 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16878" }],
     "description": "Builds on JPNS 3101 and continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "JPNS", "number": "3101" },
+      "Or",
+      { "subject": "JPNS", "number": "3301" }
+    ]
   },
   {
     "subject": "JPNS",
@@ -85,6 +103,7 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "15127" }],
     "description": "Focuses on a unique aspect of the Japanese language. The specific topics are chosen to reflect current developments in the language and expressed student interests. Focuses on the use of the language for specific purposes or its use in specialized settings (e.g., media, business, health).",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   }
 ]

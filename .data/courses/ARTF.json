@@ -11,7 +11,8 @@
       { "term": "202310", "crn": "16428" }
     ],
     "description": "Introduces students to the intellectual and extracurricular opportunities within the Department of Art + Design and the College of Arts, Media and Design. Exposes students to the cultural vibrancy of Boston with the goal of building networks that facilitate a supportive learning community. Familiarizes students with their major and introduces them to the resources at the university and across the city to help them succeed academically. Provides grounding in the culture and values of the university community and seeks to help students develop interpersonal skills.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARTF",
@@ -32,7 +33,8 @@
       { "term": "202240", "crn": "40187" }
     ],
     "description": "Focuses on developing an understanding of the structure of object and figure through freehand drawing. Offers students an opportunity to explore a wide range of materials, including wash, charcoal, and pencil.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARTF",
@@ -48,7 +50,8 @@
       { "term": "202260", "crn": "60877" }
     ],
     "description": "Seeks to expand the student&amp;#8217;s knowledge and skills through a mark-making process. Offers students an opportunity to begin to understand the relationship between form and meaning while relating the drawing process to broader concepts of communication.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARTF",
@@ -82,7 +85,8 @@
       { "term": "202240", "crn": "41243" }
     ],
     "description": "Offers an opportunity to discover and research basic principles, language, and concepts inherent in two-dimensional visual systems. Offers students an opportunity to learn to think critically, analyze, and apply basic principles to design and art projects. In a studio workshop setting, three primary phases explore art, design, and photography.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARTF",
@@ -100,7 +104,8 @@
       { "term": "202240", "crn": "41255" }
     ],
     "description": "Introduces skills and software, such as Adobe Photoshop and Illustrator, used in creating and manipulating pixel- and vector-based images, in a technology workshop format.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ARTF",
@@ -118,7 +123,8 @@
       { "term": "202240", "crn": "41430" }
     ],
     "description": "Explores three-dimensional form. Examines principles including mass, volume, line, plane, and texture. Introduces basic materials and structure through constructing models and prototypes. Presents sequential exercises with simple eye/hand skills and form recognition. Explores complex projects that require an understanding of context, content, and developing original forms.",
-    "coreqs": [{ "subject": "ARTF", "number": "1125" }]
+    "coreqs": [{ "subject": "ARTF", "number": "1125" }],
+    "prereqs": []
   },
   {
     "subject": "ARTF",
@@ -136,7 +142,8 @@
       { "term": "202240", "crn": "41797" }
     ],
     "description": "Introduces skills and software used in creating 3D forms with the computer. Explores basics of 3D modeling, surfacing, lighting, and rendering in this technology workshop.",
-    "coreqs": [{ "subject": "ARTF", "number": "1124" }]
+    "coreqs": [{ "subject": "ARTF", "number": "1124" }],
+    "prereqs": []
   },
   {
     "subject": "ARTF",
@@ -157,7 +164,8 @@
       { "term": "202240", "crn": "41798" }
     ],
     "description": "Explores time-based art and design in an introductory lecture/studio format. Introduces formal, narrative, and alternative concepts for creative time-based communication. Assignments investigate video, animation, and a mixture of media in a screen based context.",
-    "coreqs": [{ "subject": "ARTF", "number": "2221" }]
+    "coreqs": [{ "subject": "ARTF", "number": "2221" }],
+    "prereqs": []
   },
   {
     "subject": "ARTF",
@@ -173,7 +181,8 @@
       { "term": "202240", "crn": "40997" }
     ],
     "description": "Introduces skills and software used in animating 2D and 3D images, graphics, and forms. Explores the basics of key framing, layering, parenting, 3D modeling, surfacing, and rigging in this technology workshop.",
-    "coreqs": [{ "subject": "ARTF", "number": "2220" }]
+    "coreqs": [{ "subject": "ARTF", "number": "2220" }],
+    "prereqs": [{ "subject": "ARTF", "number": "2220" }]
   },
   {
     "subject": "ARTF",
@@ -197,7 +206,8 @@
       { "term": "202240", "crn": "41128" }
     ],
     "description": "Explores the language of interactive experience as a compelling medium to communicate meaning. Examines how variables within the environment can change how we inhabit an experience physically, conceptually, and emotionally. Studies historical and contemporary examples of art and design projects designed as exchanges or experiences. Incorporates drawing as a means to understand the present and project potential future experiences.",
-    "coreqs": [{ "subject": "ARTF", "number": "2224" }]
+    "coreqs": [{ "subject": "ARTF", "number": "2224" }],
+    "prereqs": []
   },
   {
     "subject": "ARTF",
@@ -212,6 +222,7 @@
       { "term": "202240", "crn": "40489" }
     ],
     "description": "Introduces skills and software used in creating basic Web-based content. This technology workshop introduces software using HTML and style sheets such as Adobe Dreamweaver.",
-    "coreqs": [{ "subject": "ARTF", "number": "2223" }]
+    "coreqs": [{ "subject": "ARTF", "number": "2223" }],
+    "prereqs": [{ "subject": "ARTF", "number": "2223" }]
   }
 ]

@@ -8,7 +8,8 @@
     "nuPath": ["DD", "IC"],
     "sections": [{ "term": "202310", "crn": "19522" }],
     "description": "This course is cross-listed with SOCL 1102.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -22,7 +23,8 @@
       { "term": "202240", "crn": "41017" }
     ],
     "description": "Offers an interdisciplinary course introducing key themes in gender and sexuality studies. Offers students an opportunity to learn core concepts that inform our understanding of how gender and sexuality are socially constructed and are experienced in everyday life. Drawing on women&amp;#8217;s studies, queer studies, masculinity studies, and allied areas, the course analyzes gender, sexuality, and other dimensions of identity; explores critical issues of gender, sex, and power; and studies gendered/sexed identities in both national and transnational contexts. Topics include the gendered conceptions of love, sexuality, and violence; biological arguments about gender and sexuality; the social construction of sexuality and gender; intersections of gender, race, class, and sexuality; masculinities and femininities; theories of sexual difference; gender and the state; and gender and popular culture.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -33,7 +35,8 @@
     "nuPath": ["DD"],
     "sections": [{ "term": "202310", "crn": "19065" }],
     "description": "This class is crosslisted with AFAM and HIST 1225.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -44,7 +47,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [{ "term": "202310", "crn": "16288" }],
     "description": "This course is crosslisted with SOCL 1260.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -58,7 +62,8 @@
       { "term": "202240", "crn": "40704" }
     ],
     "description": "This course is crosslisted with PHIL 1271.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -75,7 +80,8 @@
       { "term": "202310", "crn": "20193" }
     ],
     "description": "This course is crosslised with COMM 2304.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -86,7 +92,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [{ "term": "202310", "crn": "19061" }],
     "description": "This course is cross-listed with AFRS 2325.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -97,7 +104,8 @@
     "nuPath": ["DD", "IC"],
     "sections": [{ "term": "202310", "crn": "20089" }],
     "description": "This course is crosslisted with HIST 2373.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -108,7 +116,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [{ "term": "202310", "crn": "18666" }],
     "description": "This course is crosslisted with INTL 2480.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [{ "subject": "INTL", "number": "1101" }]
   },
   {
     "subject": "WMNS",
@@ -119,7 +128,8 @@
     "nuPath": ["DD"],
     "sections": [{ "term": "202310", "crn": "12925" }],
     "description": "Crosslisted with HUSV 2800.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -130,7 +140,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [{ "term": "202310", "crn": "14878" }],
     "description": "This course is cross-listed with ANTH 3100 and POLS 3100.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -141,7 +152,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [{ "term": "202310", "crn": "19004" }],
     "description": "Crosslisted with CRIM 3110.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -152,7 +164,8 @@
     "nuPath": ["DD"],
     "sections": [{ "term": "202310", "crn": "20519" }],
     "description": "This course is crosslisted with MSCR 3392.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -163,7 +176,35 @@
     "nuPath": ["WI"],
     "sections": [{ "term": "202310", "crn": "21065" }],
     "description": "Considers the intersection of race, class, and gender in social structure, institutions, and people&amp;#8217;s lives. Utilizes an interdisciplinary approach to focus on the socially constructed nature of these concepts and how they shape and create meaning in individual lives. Difference with an emphasis on inequality and varying life chances is central for understanding our society and is central to our work. Requires a significant amount of reading. Class format is like a seminar; students are expected to participate, take responsibility, and write a paper. SOCL 4520 and WMNS 4520 are cross-listed.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "SOCL", "number": "1101" },
+      "Or",
+      { "subject": "ANTH", "number": "1101" },
+      "Or",
+      { "subject": "CRIM", "number": "1100" },
+      "Or",
+      { "subject": "HUSV", "number": "1101" },
+      "Or",
+      { "subject": "INTL", "number": "1101" },
+      "Or",
+      { "subject": "POLS", "number": "1140" },
+      "Or",
+      { "subject": "POLS", "number": "1160" },
+      "Or",
+      ")",
+      "And",
+      "(",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" },
+      ")"
+    ]
   },
   {
     "subject": "WMNS",
@@ -174,7 +215,8 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19523" }],
     "description": "Seeks to challenge and expand our understanding of the relationship between biological sex; gendered identities; and sexual &amp;#8220;preferences,&amp;#8221; practices, and life ways. This interdisciplinary course offers debates around sex, gender, sexuality, and the body that push beyond binary models reliant on a simple &amp;#8220;nature/culture&amp;#8221; distinction. Focuses on dynamic and variable aspects of sexuality, sex, and gender within and across cultures, representational forms, and historical periods, analyzing the circumstances in which they undergo significant challenge or transformation. Uses particular paradigmatic &amp;#8220;case studies&amp;#8221; to push hard at the boundaries of sex and gender and to dialogue around contesting conceptualizations of &amp;#8220;the body,&amp;#8221; &amp;#8220;sex,&amp;#8221; and &amp;#8220;gender,&amp;#8221; particularly as they circulate in specific discourses of feminism, queer theory, and poststructuralism; ethnic studies; critical race theory; and cultural studies.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -190,6 +232,7 @@
       { "term": "202240", "crn": "41828" }
     ],
     "description": "This course is taught on MIT&#39;s campus at the GCWS and follows MIT&#39;s schedule (meets Sept 8 - Dec 8). Dr. Eleanor Craig (Harvard) and Dr. Dana Miranda (UMass Boston) will be the instructors.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   }
 ]

@@ -41,7 +41,8 @@
       { "term": "202240", "crn": "40213" }
     ],
     "description": "Provides an overview of the actions and behaviors of people in organizations. Uses case studies, videos, experiential exercises, lectures, and discussions to explore the effects of individual, interpersonal, group, organizational, and cross-cultural factors on human behavior. Topics include groups and teams, motivation, leadership, organizational change, organizational culture, structure, conflict resolution, and communication. Both the underlying theories and principles of these topics, as well as their practical applications and implications for organizations, are covered.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "ORGB",
@@ -55,6 +56,7 @@
       { "term": "202310", "crn": "10916" }
     ],
     "description": "Does not count as credit for business majors. Counts as ORGB 3201 for business minors only.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   }
 ]

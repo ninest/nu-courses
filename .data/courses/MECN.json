@@ -18,7 +18,8 @@
       { "term": "202240", "crn": "40705" }
     ],
     "description": "Trains managers to understand the competitive implications of global economic policies, the business effects of technological change, and the commercial imperatives of alternative political systems at a macro level. At a micro level, it creates a framework for industry analysis in a global setting that combines economic analysis, competitive analysis, and business decision-making skills.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "MECN",
@@ -33,6 +34,7 @@
       { "term": "202310", "crn": "19689" }
     ],
     "description": "Examines the idea that building a sustainable business enterprise often involves correcting market failures. Examines the responsibilities of the business enterprise to society at large. Also explores the causes of and remedies for market failures, such as immigration, education, healthcare, climate change, and finance, and what these mean for governments, businesses, and individuals.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   }
 ]

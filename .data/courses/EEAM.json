@@ -16,7 +16,8 @@
       { "term": "202310", "crn": "20527" }
     ],
     "description": "Introduces students to the Cooperative Education Program and provides them with an opportunity to develop job-search and career-management skills. Offers students an opportunity to perform assessments of their workplace skills, interests, and values and discuss how they impact personal career choices. Students also have an opportunity to prepare a professional-style r&amp;#233;sum&amp;#233;, learn proper interviewing techniques, and gain an understanding of the opportunities available to them for co-op. Introduces career paths, choices, professional behaviors, work culture, and career decision making. Familiarizes students with workplace issues relative to their field of study and teaches them to use myNEU in the job-search and referral process. Presents co-op policies, procedures, and expectations of the Department of Cooperative Education and co-op employers.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "EEAM",
@@ -27,7 +28,8 @@
     "nuPath": [],
     "sections": [{ "term": "202260", "crn": "61578" }],
     "description": "Offers students an opportunity to gain experience in a field they would like to explore and receive internship credit. Students complete a one-hundred-hour internship during the semester, which they obtain prior to the course. Students attend group meetings and individual appointments with the instructor, maintain a weekly journal, and complete an evaluation of their internship experience.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "EEAM",
@@ -45,7 +47,8 @@
       { "term": "202260", "crn": "61608" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "EEAM",
@@ -67,7 +70,8 @@
       { "term": "202240", "crn": "41833" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "EEAM",
@@ -78,6 +82,7 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "15523" }],
     "description": "Provides eligible students with an opportunity for work experience abroad. May be repeated without limit.",
-    "coreqs": []
+    "coreqs": [],
+    "prereqs": []
   }
 ]
