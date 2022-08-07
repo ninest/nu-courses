@@ -72,3 +72,43 @@ export interface SectionInfo {
   term: string;
   crn: string;
 }
+
+// Contains professor and meeting times for a particular section
+export interface FacultyMeetingTime {
+  faculty: Professor[];
+  meetingTime: MeetingTime;
+}
+
+export interface Professor {
+  name: string;
+}
+
+export const daysOfWeek = [
+  "sunday",
+  "monday",
+  "tuesday",
+  "wednesday",
+  "thursday",
+  "friday",
+  "saturday",
+] as const;
+export type DayOfWeek = typeof daysOfWeek[number];
+
+export interface MeetingTime {
+  time: {
+    start: string;
+    end: string;
+  };
+  location: {
+    campus: {
+      code: string;
+      description: string;
+    };
+    building: {
+      code: string;
+      description: string;
+      room: string;
+    };
+  };
+  days: DayOfWeek[];
+}
