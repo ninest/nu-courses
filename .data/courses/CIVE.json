@@ -375,7 +375,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [{ "term": "202310", "crn": "19228" }],
-    "description": "Examines the biological, chemical, and physical interactions that shape our global environment. These interactions combine in the global biogeochemical cycles. Industrial emission of gases, use of fertilizers and plastics, and the expansion of cities are altering the biogeochemical cycling of the elements carbon, nitrogen, and phosphorus at rates unprecedented in the geological record. Uses lectures and the latest update to Chapter 6, &ldquo;Carbon and Other Biogeochemical Cycles,&rdquo; of the International Panel on Climate Change report to explore the main interactions between human activity, biogeochemical change, and climate. Discusses primary literature to delve deeper into these interactions.",
+    "description": "Examines the biological, chemical, and physical interactions that shape our global environment. These interactions combine in the global biogeochemical cycles. Industrial emission of gases, use of fertilizers and plastics, and the expansion of cities are altering the biogeochemical cycling of the elements carbon, nitrogen, and phosphorus at rates unprecedented in the geological record. Uses lectures and the latest update to Chapter 6, “Carbon and Other Biogeochemical Cycles,” of the International Panel on Climate Change report to explore the main interactions between human activity, biogeochemical change, and climate. Discusses primary literature to delve deeper into these interactions.",
     "coreqs": [],
     "prereqs": []
   },
@@ -429,7 +429,7 @@
       { "term": "202310", "crn": "14569" },
       { "term": "202310", "crn": "16926" }
     ],
-    "description": "Introduces the concept of resilience by exploring engineering concepts and perspectives to offer students an opportunity to develop the ability to be prepared for and adapt to challenging situations and scenarios&mdash;e.g., globalization, climate change, security threats, and natural disasters&mdash;on critical infrastructures and key resources. Topics include application of tools for infrastructure modeling and risk assessment; identification of natural and man-made hazards; management of disaster risks and communications; resilience design; and future challenges, policy, and novel approaches to advance resilience. Explores application to real-life examples through group projects. Requires one semester of undergraduate statistics.",
+    "description": "Introduces the concept of resilience by exploring engineering concepts and perspectives to offer students an opportunity to develop the ability to be prepared for and adapt to challenging situations and scenarios—e.g., globalization, climate change, security threats, and natural disasters—on critical infrastructures and key resources. Topics include application of tools for infrastructure modeling and risk assessment; identification of natural and man-made hazards; management of disaster risks and communications; resilience design; and future challenges, policy, and novel approaches to advance resilience. Explores application to real-life examples through group projects. Requires one semester of undergraduate statistics.",
     "coreqs": [],
     "prereqs": []
   },
@@ -697,7 +697,7 @@
       { "term": "202310", "crn": "15817" },
       { "term": "202310", "crn": "18381" }
     ],
-    "description": "Offers an individual effort consisting of laboratory and/or literature investigation and analysis of advanced design of a project in an area of civil engineering selected by student and adviser resulting in a definitive report. Requires a completed report seven years from the start of the master&amp;#8217;s program.",
+    "description": "Offers an individual effort consisting of laboratory and/or literature investigation and analysis of advanced design of a project in an area of civil engineering selected by student and adviser resulting in a definitive report. Requires a completed report seven years from the start of the master's program.",
     "coreqs": [],
     "prereqs": []
   },

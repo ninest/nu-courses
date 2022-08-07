@@ -82,7 +82,7 @@
       { "term": "202310", "crn": "12526" },
       { "term": "202310", "crn": "16695" }
     ],
-    "description": "Introduces wind energy and its applications. Integrates aerodynamics of wind turbine design with the structures needed to support them. Covers types of wind turbines, their components, and related analyses; airfoil aerodynamics; concepts of lift, drag, pitching moment, circulation, angle of attack, and stall; laminar and turbulent boundary layers and separation concepts; fundamental conservation equations; Bernoulli&amp;#8217;s, Euler&amp;#8217;s, and Navier-Stokes equations and their applications; Betz limit; computational fluid dynamics and its application for flow over typical airfoils; compressibility and elements of one-dimensional gas dynamics; wind resource; wind climatology and meteorological data; turbine tower and structural engineering aspects of turbines; vibration problems; aeroelastic phenomena in turbines; small wind turbines and vertical axis wind turbines; and introduces environmental and societal impacts and economic aspects.",
+    "description": "Introduces wind energy and its applications. Integrates aerodynamics of wind turbine design with the structures needed to support them. Covers types of wind turbines, their components, and related analyses; airfoil aerodynamics; concepts of lift, drag, pitching moment, circulation, angle of attack, and stall; laminar and turbulent boundary layers and separation concepts; fundamental conservation equations; Bernoulli's, Euler's, and Navier-Stokes equations and their applications; Betz limit; computational fluid dynamics and its application for flow over typical airfoils; compressibility and elements of one-dimensional gas dynamics; wind resource; wind climatology and meteorological data; turbine tower and structural engineering aspects of turbines; vibration problems; aeroelastic phenomena in turbines; small wind turbines and vertical axis wind turbines; and introduces environmental and societal impacts and economic aspects.",
     "coreqs": [],
     "prereqs": []
   },
@@ -121,7 +121,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13360" }],
-    "description": "Offers students an opportunity to develop and present a plan for the demonstration of a marketable technology product or prototype with an energy systems focus. Constitutes the first half of a thesis-scale project in technology commercialization. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student&amp;#8217;s technological and engineering depth and fostering the student&amp;#8217;s leadership development.",
+    "description": "Offers students an opportunity to develop and present a plan for the demonstration of a marketable technology product or prototype with an energy systems focus. Constitutes the first half of a thesis-scale project in technology commercialization. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student's technological and engineering depth and fostering the student's leadership development.",
     "coreqs": [],
     "prereqs": []
   }

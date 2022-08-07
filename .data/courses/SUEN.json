@@ -43,7 +43,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14150" }],
-    "description": "Offers a lecture- and discussion-based course focusing on research themes relevant to the MDes-SUEN graduate program curriculum. Topics are developed based upon instructor&amp;#8217;s research relative to particular urban, ecological, sociological, landscape architectural, or technical subjects. Exposes students to cutting-edge methods of research and practice in designed urban environments. May be repeated up to two times.",
+    "description": "Offers a lecture- and discussion-based course focusing on research themes relevant to the MDes-SUEN graduate program curriculum. Topics are developed based upon instructor's research relative to particular urban, ecological, sociological, landscape architectural, or technical subjects. Exposes students to cutting-edge methods of research and practice in designed urban environments. May be repeated up to two times.",
     "coreqs": [],
     "prereqs": []
   },
@@ -67,7 +67,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "11940" }],
-    "description": "Offers a workshop-based course as the first in a two-part sequence. Lectures, in-class exercises, and site-based investigation use case-study methods to document ecotechnologies operating in the built environment, with a focus on design and implementation metrics, material life cycle management, funding models, and aesthetic and cultural aspects. Potential topics include green roofs, green walls, bioswales, pervious pavements, constructed wetlands, &amp;#8220;complete streets&amp;#8221; elements, geosensor networks, alternative waste management, water detention and energy generation methods, and living infrastructure for coastal environments.",
+    "description": "Offers a workshop-based course as the first in a two-part sequence. Lectures, in-class exercises, and site-based investigation use case-study methods to document ecotechnologies operating in the built environment, with a focus on design and implementation metrics, material life cycle management, funding models, and aesthetic and cultural aspects. Potential topics include green roofs, green walls, bioswales, pervious pavements, constructed wetlands, &#8220;complete streets&#8221; elements, geosensor networks, alternative waste management, water detention and energy generation methods, and living infrastructure for coastal environments.",
     "coreqs": [],
     "prereqs": []
   },

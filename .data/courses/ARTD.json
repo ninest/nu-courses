@@ -7,7 +7,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16596" }],
-    "description": "Introduces three forms of immersive media&mdash;augmented reality, 360 video, and virtual reality&mdash;through engagement in content creation, the fundamentals of software tools, development methodologies, and production techniques. Offers students an opportunity to produce basic immersive sequences, read literature, play games, and experience contemporary projects that highlight the uniqueness of immersive media.",
+    "description": "Introduces three forms of immersive media—augmented reality, 360 video, and virtual reality—through engagement in content creation, the fundamentals of software tools, development methodologies, and production techniques. Offers students an opportunity to produce basic immersive sequences, read literature, play games, and experience contemporary projects that highlight the uniqueness of immersive media.",
     "coreqs": [],
     "prereqs": []
   },
@@ -199,7 +199,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20340" }],
-    "description": "Explores all areas of 3D game asset creation&amp;#8212;animation, modeling, shading, effects, and their integration. Working in small groups, students have an opportunity to learn how to construct animated assets that work efficiently within a game programming environment. Encourages students to specialize in at least one area of asset creation.",
+    "description": "Explores all areas of 3D game asset creation&#8212;animation, modeling, shading, effects, and their integration. Working in small groups, students have an opportunity to learn how to construct animated assets that work efficiently within a game programming environment. Encourages students to specialize in at least one area of asset creation.",
     "coreqs": [],
     "prereqs": [{ "subject": "ARTD", "number": "3470" }]
   },
@@ -267,7 +267,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19239" }],
-    "description": "Offers a studio/lab course in which students study the history of photographic processes and contemporary approaches of the medium while creating their own photographs in the darkroom. Explores 19-century techniques such as camera obscura, photograms, cyanotypes, tintypes, kalli-types, clich&eacute; verre, and others. Investigates the use of analog film photography and digital photography in combination with alternative processes. The structure of the course is designed to present exciting ways of thinking about technical questions, materials, subject matter, and aesthetic approaches through experimentation.",
+    "description": "Offers a studio/lab course in which students study the history of photographic processes and contemporary approaches of the medium while creating their own photographs in the darkroom. Explores 19-century techniques such as camera obscura, photograms, cyanotypes, tintypes, kalli-types, cliché verre, and others. Investigates the use of analog film photography and digital photography in combination with alternative processes. The structure of the course is designed to present exciting ways of thinking about technical questions, materials, subject matter, and aesthetic approaches through experimentation.",
     "coreqs": [],
     "prereqs": []
   }

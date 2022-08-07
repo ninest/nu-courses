@@ -22,7 +22,7 @@
       { "term": "202260", "crn": "61008" },
       { "term": "202260", "crn": "61009" }
     ],
-    "description": "Offers students an applied project setting in which to apply their curricular learning. Working with a sponsor, students refine an applied research topic, perform research, develop recommendations that are shared with a partner sponsor, and create a plan for implementing their recommendations. Seeks to benefit students with a curriculum that supports the development of key business communication skills, project and client management skills, and frameworks for business analysis. Offers students an opportunity to learn from sponsor feedback, review &#39;lessons learned,&#39; and incorporate suggestions from this review to improve and further develop their career development and professional plan.",
+    "description": "Offers students an applied project setting in which to apply their curricular learning. Working with a sponsor, students refine an applied research topic, perform research, develop recommendations that are shared with a partner sponsor, and create a plan for implementing their recommendations. Seeks to benefit students with a curriculum that supports the development of key business communication skills, project and client management skills, and frameworks for business analysis. Offers students an opportunity to learn from sponsor feedback, review 'lessons learned,' and incorporate suggestions from this review to improve and further develop their career development and professional plan.",
     "coreqs": [],
     "prereqs": []
   },
@@ -61,7 +61,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13892" }],
-    "description": "Introduces the fundamental techniques of quantitative data analysis, ranging from foundational skills&mdash;such as data description and visualization, probability, and statistics&mdash;to the workhorse of data analysis and regression, to more advanced topics&mdash;such as machine learning and networks. Emphasizes real-world data and applications using the R statistical computing language. Analyzing and understanding complex data has become an essential component of numerous fields: business and economics, health and medicine, marketing, public policy, computer science, engineering, and many more. Offers students an opportunity to finish the course ready to apply a wide variety of analytic methods to data problems, present their results to nonexperts, and progress to more advanced course work delving into the many topics introduced here.",
+    "description": "Introduces the fundamental techniques of quantitative data analysis, ranging from foundational skills—such as data description and visualization, probability, and statistics—to the workhorse of data analysis and regression, to more advanced topics—such as machine learning and networks. Emphasizes real-world data and applications using the R statistical computing language. Analyzing and understanding complex data has become an essential component of numerous fields: business and economics, health and medicine, marketing, public policy, computer science, engineering, and many more. Offers students an opportunity to finish the course ready to apply a wide variety of analytic methods to data problems, present their results to nonexperts, and progress to more advanced course work delving into the many topics introduced here.",
     "coreqs": [],
     "prereqs": []
   },
@@ -76,7 +76,7 @@
       { "term": "202310", "crn": "13891" },
       { "term": "202260", "crn": "61238" }
     ],
-    "description": "Introduces the systematic use of visualization techniques for supporting the discovery of new information as well as the effective presentation of known facts. Based on principles from art, graphic design, perceptual psychology, and rhetoric, offers students an opportunity to learn how to successfully choose appropriate visual languages for representing various kinds of data to support insights relevant to the user&rsquo;s goals. Covers visual data mining techniques and algorithms for supporting the knowledge-discovery process; principles of visual perception and color theory for revealing patterns in data, semiotics, and the epistemology of visual representation; narrative strategies for communicating and presenting information and evidence; and the critical evaluation and critique of data visualizations. Requires proficiency in R.",
+    "description": "Introduces the systematic use of visualization techniques for supporting the discovery of new information as well as the effective presentation of known facts. Based on principles from art, graphic design, perceptual psychology, and rhetoric, offers students an opportunity to learn how to successfully choose appropriate visual languages for representing various kinds of data to support insights relevant to the user’s goals. Covers visual data mining techniques and algorithms for supporting the knowledge-discovery process; principles of visual perception and color theory for revealing patterns in data, semiotics, and the epistemology of visual representation; narrative strategies for communicating and presenting information and evidence; and the critical evaluation and critique of data visualizations. Requires proficiency in R.",
     "coreqs": [],
     "prereqs": []
   },

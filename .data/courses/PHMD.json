@@ -11,7 +11,7 @@
       { "term": "202310", "crn": "10894" },
       { "term": "202310", "crn": "10895" }
     ],
-    "description": "Introduces the University, college, and health professions to enhance students&amp;#8217; understanding of self and the decisions they make academically and socially as members of the University&amp;#8217;s diverse, multicultural community. Offers students an opportunity to engage in group activities and individual assignments along with active participation in a learning community to help them adjust to life on an urban campus, develop a better understanding of the learning process, acquire essential academic skills, and make connections with the faculty and students in the college.",
+    "description": "Introduces the University, college, and health professions to enhance students' understanding of self and the decisions they make academically and socially as members of the University's diverse, multicultural community. Offers students an opportunity to engage in group activities and individual assignments along with active participation in a learning community to help them adjust to life on an urban campus, develop a better understanding of the learning process, acquire essential academic skills, and make connections with the faculty and students in the college.",
     "coreqs": [],
     "prereqs": []
   },
@@ -26,7 +26,7 @@
       { "term": "202310", "crn": "17418" },
       { "term": "202310", "crn": "17196" }
     ],
-    "description": "Seeks to prepare pharmacy students for their first introductory pharmacy practice experience (IPPE)/co-op. Introduces students to the policies, procedures, and expectations of the Cooperative Education Program. Offers students an opportunity to develop the skills needed to be successful in the preparation, activity, and reflection components of the pharmacy co-op program; to prepare their first r&amp;#233;sum&amp;#233;s; and to learn proper interviewing techniques. Exposes students to the various co-op opportunities available to them as well as potential career paths within the pharmacy profession. Covers workplace issues including diversity, sexual harassment, ethics, and confidence of information. Introduces students to the technical knowledge and skills required for their first pharmacy experiences in both community and institutional pharmacy practice and to drug information resources. Offers students an opportunity to develop basic communication skills to aid them in successful completion of their first IPPE.",
+    "description": "Seeks to prepare pharmacy students for their first introductory pharmacy practice experience (IPPE)/co-op. Introduces students to the policies, procedures, and expectations of the Cooperative Education Program. Offers students an opportunity to develop the skills needed to be successful in the preparation, activity, and reflection components of the pharmacy co-op program; to prepare their first r&#233;sum&#233;s; and to learn proper interviewing techniques. Exposes students to the various co-op opportunities available to them as well as potential career paths within the pharmacy profession. Covers workplace issues including diversity, sexual harassment, ethics, and confidence of information. Introduces students to the technical knowledge and skills required for their first pharmacy experiences in both community and institutional pharmacy practice and to drug information resources. Offers students an opportunity to develop basic communication skills to aid them in successful completion of their first IPPE.",
     "coreqs": [{ "subject": "PHMD", "number": "1202" }],
     "prereqs": []
   },
@@ -65,7 +65,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12662" }],
-    "description": "Examines the evolution of the American healthcare delivery system from the early forms of organized institutional healthcare through the dynamic, and increasingly integrated, delivery systems of the present. Explores the interactions of regulatory, economic, political, and social aspects of the healthcare system with particular emphasis on pharmacy practices. Compares current policies and proposals for health reform and pharmacy benefit coverage. Analyzes the impact and consequences of national and international actions in one era on the structure, function, and outcomes of healthcare and professional pharmacy practice in later years. Major emphases include factors affecting American population health, health disparities, and strategies, including pharmacy/pharmacists, to improve the nation&rsquo;s health.",
+    "description": "Examines the evolution of the American healthcare delivery system from the early forms of organized institutional healthcare through the dynamic, and increasingly integrated, delivery systems of the present. Explores the interactions of regulatory, economic, political, and social aspects of the healthcare system with particular emphasis on pharmacy practices. Compares current policies and proposals for health reform and pharmacy benefit coverage. Analyzes the impact and consequences of national and international actions in one era on the structure, function, and outcomes of healthcare and professional pharmacy practice in later years. Major emphases include factors affecting American population health, health disparities, and strategies, including pharmacy/pharmacists, to improve the nation’s health.",
     "coreqs": [],
     "prereqs": []
   },
@@ -101,7 +101,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "15328" }],
-    "description": "Exposes students to research skills and methods used by health system pharmacists when planning and conducting research. Builds on content from prior courses. Designed for students planning to pursue a career in a health system or the pharmaceutical industry. Focuses on discussion and application; taught by healthcare-system-based pharmacists actively involved in clinical research. Emphasizes the process used to generate robust research questions and research plans throughout. Uses practice statements/guidelines, published studies, patient databases, and faculty&#39;s current research projects to illustrate course topics.",
+    "description": "Exposes students to research skills and methods used by health system pharmacists when planning and conducting research. Builds on content from prior courses. Designed for students planning to pursue a career in a health system or the pharmaceutical industry. Focuses on discussion and application; taught by healthcare-system-based pharmacists actively involved in clinical research. Emphasizes the process used to generate robust research questions and research plans throughout. Uses practice statements/guidelines, published studies, patient databases, and faculty's current research projects to illustrate course topics.",
     "coreqs": [],
     "prereqs": [
       { "subject": "PHMD", "number": "3450" },
@@ -176,7 +176,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12926" }],
-    "description": "Focuses on the physiological and practical aspects of medication use in the elderly; healthcare delivery systems; the role of healthcare professionals in providing geriatric care; and the management of geriatric syndromes. Caring for the aging population requires a patient-centered approach that encompasses the patient&rsquo;s health goals, a complex psychosocial landscape, as well as the physiologic changes associated with aging. It is imperative for healthcare professionals to understand the interplay of these factors in order to appropriately assess, treat, and improve outcomes for the older adult population. Offers students an opportunity to utilize problem-based learning (PBL), where students work in groups to analyze patient cases, identify problems, and develop action plans to resolve problems.",
+    "description": "Focuses on the physiological and practical aspects of medication use in the elderly; healthcare delivery systems; the role of healthcare professionals in providing geriatric care; and the management of geriatric syndromes. Caring for the aging population requires a patient-centered approach that encompasses the patient’s health goals, a complex psychosocial landscape, as well as the physiologic changes associated with aging. It is imperative for healthcare professionals to understand the interplay of these factors in order to appropriately assess, treat, and improve outcomes for the older adult population. Offers students an opportunity to utilize problem-based learning (PBL), where students work in groups to analyze patient cases, identify problems, and develop action plans to resolve problems.",
     "coreqs": [],
     "prereqs": []
   },
@@ -230,7 +230,7 @@
       { "term": "202310", "crn": "20245" },
       { "term": "202310", "crn": "20398" }
     ],
-    "description": "Acts as a final integrator of the major, general education, and experiential aspects of the student&amp;#8217;s education. Expects students to demonstrate motivation and initiative and to work cooperatively with their faculty mentor, community partners, and fellow students (where applicable) in order to complete a comprehensive, high-quality scholarly work (e.g., a research project, educational project, administrative project, business plan, case report, or community-service learning project or professional manuscript) appropriate for dissemination to the university and professional community. The timeline for completion is set by the faculty mentor and agreed to by the individual or all members of the student group. May be repeated once.",
+    "description": "Acts as a final integrator of the major, general education, and experiential aspects of the student's education. Expects students to demonstrate motivation and initiative and to work cooperatively with their faculty mentor, community partners, and fellow students (where applicable) in order to complete a comprehensive, high-quality scholarly work (e.g., a research project, educational project, administrative project, business plan, case report, or community-service learning project or professional manuscript) appropriate for dissemination to the university and professional community. The timeline for completion is set by the faculty mentor and agreed to by the individual or all members of the student group. May be repeated once.",
     "coreqs": [],
     "prereqs": []
   },

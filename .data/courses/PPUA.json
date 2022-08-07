@@ -55,7 +55,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19699" }],
-    "description": "Examines the role of the participant as a fundamental aspect of most urban planning processes. Studies the range of strategies that contemporary urban planners employ to ensure buy-in from a project&rsquo;s stakeholders. Utilizes historical precedents to locate gaps between the &ldquo;plan then present&rdquo; model used in many planning processes and &quot;co-design&quot; processes that seek to redefine the role of the &ldquo;technical expert.&rdquo; Offers students an opportunity to develop a toolkit of engagement methods from varied models of participatory planning processes. Engages in project-based work that enlists these methods. Assesses the efficacy of these methods when identifying the right stakeholders and when determining when/how to bring stakeholder participation into a planning process.",
+    "description": "Examines the role of the participant as a fundamental aspect of most urban planning processes. Studies the range of strategies that contemporary urban planners employ to ensure buy-in from a project’s stakeholders. Utilizes historical precedents to locate gaps between the “plan then present” model used in many planning processes and \"co-design\" processes that seek to redefine the role of the “technical expert.” Offers students an opportunity to develop a toolkit of engagement methods from varied models of participatory planning processes. Engages in project-based work that enlists these methods. Assesses the efficacy of these methods when identifying the right stakeholders and when determining when/how to bring stakeholder participation into a planning process.",
     "coreqs": [],
     "prereqs": []
   },
@@ -191,7 +191,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12931" }],
-    "description": "Studies the evolution of urban science, looking at some seminal theories that seeded the field and the subsequent work they inspired, including the methodologies developed to examine them. For over a century, social scientists and policymakers have sought to better understand cities, asking important theoretical questions, such as: What is a neighborhood? How does a city grow? What is a city in the first place? Culminates in an examination of urban science in the digital age, exploring how modern technological trends, including &amp;#8220;big data,&amp;#8221; are posing new questions and offering new ways to answer them.",
+    "description": "Studies the evolution of urban science, looking at some seminal theories that seeded the field and the subsequent work they inspired, including the methodologies developed to examine them. For over a century, social scientists and policymakers have sought to better understand cities, asking important theoretical questions, such as: What is a neighborhood? How does a city grow? What is a city in the first place? Culminates in an examination of urban science in the digital age, exploring how modern technological trends, including &#8220;big data,&#8221; are posing new questions and offering new ways to answer them.",
     "coreqs": [],
     "prereqs": []
   },
@@ -359,7 +359,7 @@
       { "term": "202310", "crn": "17865" },
       { "term": "202310", "crn": "13985" }
     ],
-    "description": "Introduces students to concepts and approaches to analyzing significant factors and relationships in government agencies and public-oriented nongovernmental organizations as they function in their environments. Examines the legal and constitutional foundations of public administration, bureaucratic structure and administrative power, managerial accountability and ethics, human resource management, economics of organization, decision making, budgeting, implementation and &ldquo;street-level&rdquo; bureaucrats, and more recent developments in public administration such as performance management and public management networks.",
+    "description": "Introduces students to concepts and approaches to analyzing significant factors and relationships in government agencies and public-oriented nongovernmental organizations as they function in their environments. Examines the legal and constitutional foundations of public administration, bureaucratic structure and administrative power, managerial accountability and ethics, human resource management, economics of organization, decision making, budgeting, implementation and “street-level” bureaucrats, and more recent developments in public administration such as performance management and public management networks.",
     "coreqs": [],
     "prereqs": []
   },
@@ -376,7 +376,7 @@
       { "term": "202310", "crn": "20812" },
       { "term": "202310", "crn": "20773" }
     ],
-    "description": "Introduces the fundamentals of macroeconomics and microeconomics as well as the role of key economic institutions, such as the Federal Reserve. Includes analysis of government&amp;#8217;s role in a market economy and introduces methods of economic analysis.",
+    "description": "Introduces the fundamentals of macroeconomics and microeconomics as well as the role of key economic institutions, such as the Federal Reserve. Includes analysis of government's role in a market economy and introduces methods of economic analysis.",
     "coreqs": [],
     "prereqs": []
   },

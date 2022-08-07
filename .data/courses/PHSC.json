@@ -23,7 +23,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13675" }],
-    "description": "Offers students an opportunity to conduct laboratory research under the direct supervision of a laboratory mentor, generally a faculty member or laboratory director, gain experience in research techniques, and develop good laboratory practices as they learn about research topics under investigation in the laboratory of their choice. Students attend seminars, departmental events, and other activities relevant to the mentor&rsquo;s laboratory. The time commitment is at least eight hours a week. Mentor expectations and grading criteria are decided upon between the student and the mentor prior to the start of the rotation and must be approved by the course director. Students prepare a presentation that encompasses the research performed by the student that includes description, experimental design, data generated, data interpretation, and discussion of their research project.",
+    "description": "Offers students an opportunity to conduct laboratory research under the direct supervision of a laboratory mentor, generally a faculty member or laboratory director, gain experience in research techniques, and develop good laboratory practices as they learn about research topics under investigation in the laboratory of their choice. Students attend seminars, departmental events, and other activities relevant to the mentor’s laboratory. The time commitment is at least eight hours a week. Mentor expectations and grading criteria are decided upon between the student and the mentor prior to the start of the rotation and must be approved by the course director. Students prepare a presentation that encompasses the research performed by the student that includes description, experimental design, data generated, data interpretation, and discussion of their research project.",
     "coreqs": [],
     "prereqs": []
   },
@@ -175,7 +175,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12044" }],
-    "description": "Introduces and examines the goals, expectations, policies, and procedures of the Masters&amp;#8217; in Pharmaceutical Sciences internship program and professionalism in the field. Discusses the role and involvement of internship employers. Offers students an opportunity to develop job search and career management skills; assess their workplace skills, interests, and values; discuss how those qualities impact career decisions; prepare a professional resum&amp;#233;; and learn proper interviewing techniques. Issues of ethics and professionalism are designed to inform students of issues they will face in the pharmaceutical field. Content of this course is geared to students&amp;#8217; participation in the internship program and overall professional development in pharmaceutical sciences.",
+    "description": "Introduces and examines the goals, expectations, policies, and procedures of the Masters' in Pharmaceutical Sciences internship program and professionalism in the field. Discusses the role and involvement of internship employers. Offers students an opportunity to develop job search and career management skills; assess their workplace skills, interests, and values; discuss how those qualities impact career decisions; prepare a professional resum&#233;; and learn proper interviewing techniques. Issues of ethics and professionalism are designed to inform students of issues they will face in the pharmaceutical field. Content of this course is geared to students' participation in the internship program and overall professional development in pharmaceutical sciences.",
     "coreqs": [],
     "prereqs": []
   },
@@ -187,7 +187,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12691" }],
-    "description": "Studies important aspects of drug discovery and development with a focus on drug design. Covers basic organic medicinal chemistry concepts and seeks to build students&amp;#8217; skills in lead compound discovery, structure-activity relationship studies, and lead optimization strategies. Topics include the fundamentals of pharmacology, pharmacokinetics, and pharmacodynamics of therapeutic agents relevant to the drug-structure optimization. These skills often help develop a strong foundation in the concepts that govern the multidisciplinary process of drug discovery. Uses lectures and peer-reviewed seminar presentations to help students to incrementally increase their knowledge required to identify new, marketable therapeutic agents. Requires organic or medicinal chemistry at the undergraduate level.",
+    "description": "Studies important aspects of drug discovery and development with a focus on drug design. Covers basic organic medicinal chemistry concepts and seeks to build students' skills in lead compound discovery, structure-activity relationship studies, and lead optimization strategies. Topics include the fundamentals of pharmacology, pharmacokinetics, and pharmacodynamics of therapeutic agents relevant to the drug-structure optimization. These skills often help develop a strong foundation in the concepts that govern the multidisciplinary process of drug discovery. Uses lectures and peer-reviewed seminar presentations to help students to incrementally increase their knowledge required to identify new, marketable therapeutic agents. Requires organic or medicinal chemistry at the undergraduate level.",
     "coreqs": [],
     "prereqs": []
   },
@@ -348,7 +348,7 @@
       { "term": "202310", "crn": "18571" },
       { "term": "202310", "crn": "21047" }
     ],
-    "description": "Offers research/experimental work for master&amp;#8217;s thesis. Students may register twice. May be repeated once.",
+    "description": "Offers research/experimental work for master's thesis. Students may register twice. May be repeated once.",
     "coreqs": [],
     "prereqs": []
   },
@@ -360,7 +360,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18574" }],
-    "description": "Offers continued registration while student completes master&amp;#8217;s thesis or other research project to meet the research requirement in pharmaceutical science.",
+    "description": "Offers continued registration while student completes master's thesis or other research project to meet the research requirement in pharmaceutical science.",
     "coreqs": [],
     "prereqs": []
   },
@@ -396,7 +396,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10667" }],
-    "description": "Expects student to conduct full-time research in an adviser&amp;#8217;s laboratory. May be repeated without limit.",
+    "description": "Expects student to conduct full-time research in an adviser's laboratory. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },

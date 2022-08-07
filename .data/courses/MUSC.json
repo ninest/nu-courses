@@ -7,7 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10445" }],
-    "description": "Intended for freshmen in the College of Arts, Media and Design. Introduces freshmen to the liberal arts in general. Offers students an opportunity to become familiar with their major; to develop the academic skills necessary to succeed (analytical ability and critical thinking); grounding in the culture and values of the university community; and to develop interpersonal skills&amp;#8212;in short, to become familiar with all skills needed to become a successful university student.",
+    "description": "Intended for freshmen in the College of Arts, Media and Design. Introduces freshmen to the liberal arts in general. Offers students an opportunity to become familiar with their major; to develop the academic skills necessary to succeed (analytical ability and critical thinking); grounding in the culture and values of the university community; and to develop interpersonal skills&#8212;in short, to become familiar with all skills needed to become a successful university student.",
     "coreqs": [],
     "prereqs": []
   },
@@ -48,7 +48,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [{ "term": "202310", "crn": "11490" }],
-    "description": "Examines the evolution of the creative improvisational musical styles commonly called jazz, from its African-American roots to its status as one of America&amp;#8217;s classical musics and an internationally valued art form. Explores the contributions of African and European musical traditions and African-American spirituals, work songs, and blues. Examines major contributors and stylistic development and change through selected audio and audio-visual presentations. Also considers the sociocultural dynamics that have affected musical evolution and acceptance.",
+    "description": "Examines the evolution of the creative improvisational musical styles commonly called jazz, from its African-American roots to its status as one of America's classical musics and an internationally valued art form. Explores the contributions of African and European musical traditions and African-American spirituals, work songs, and blues. Examines major contributors and stylistic development and change through selected audio and audio-visual presentations. Also considers the sociocultural dynamics that have affected musical evolution and acceptance.",
     "coreqs": [],
     "prereqs": []
   },
@@ -96,7 +96,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [{ "term": "202310", "crn": "19900" }],
-    "description": "Offers students an opportunity to attend several performances of the Boston Symphony Orchestra (BSO) at Symphony Hall. Discusses each piece of music from a variety of perspectives, including the history of a given composer and his or her relationship to music history and the history of a given composition and its relevance to the symphonic repertoire. Analyzes program pieces in order to provide a deeper appreciation for their musical construction; however, no musical background is required to participate in this course&amp;#8212;it is designed for nonmusic majors and music majors alike. Requires students to purchase BSO College Cards (for a nominal fee) for the current BSO concert season.",
+    "description": "Offers students an opportunity to attend several performances of the Boston Symphony Orchestra (BSO) at Symphony Hall. Discusses each piece of music from a variety of perspectives, including the history of a given composer and his or her relationship to music history and the history of a given composition and its relevance to the symphonic repertoire. Analyzes program pieces in order to provide a deeper appreciation for their musical construction; however, no musical background is required to participate in this course&#8212;it is designed for nonmusic majors and music majors alike. Requires students to purchase BSO College Cards (for a nominal fee) for the current BSO concert season.",
     "coreqs": [],
     "prereqs": []
   },
@@ -108,7 +108,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [{ "term": "202310", "crn": "19634" }],
-    "description": "Focuses on singing techniques used in pop, rock, and jazz. Techniques taught, discussed, and applied in class include breathing, tone and vowel production, singing with power without strain, developing range, improvising, and creating one&amp;#8217;s own style. Offers students an opportunity to apply these techniques in class, learning through vocal demonstrations in class and through the study of recordings. Singers/songwriters are encouraged to enroll. All levels of singers are welcome; students who enroll should already have the ability to sing generally in tune.",
+    "description": "Focuses on singing techniques used in pop, rock, and jazz. Techniques taught, discussed, and applied in class include breathing, tone and vowel production, singing with power without strain, developing range, improvising, and creating one's own style. Offers students an opportunity to apply these techniques in class, learning through vocal demonstrations in class and through the study of recordings. Singers/songwriters are encouraged to enroll. All levels of singers are welcome; students who enroll should already have the ability to sing generally in tune.",
     "coreqs": [],
     "prereqs": []
   },
@@ -192,7 +192,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13045" }],
-    "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. &lt;i&gt;Prereq: Audition or permission of instructor.&lt;/i&gt; May be repeated without limit.",
+    "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. <i>Prereq: Audition or permission of instructor.</i> May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -216,7 +216,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13046" }],
-    "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. &lt;i&gt;Prereq: Audition or permission of instructor.&lt;/i&gt; May be repeated without limit.",
+    "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. <i>Prereq: Audition or permission of instructor.</i> May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -228,7 +228,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13047" }],
-    "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. &lt;i&gt;Prereq: Audition or permission of instructor.&lt;/i&gt; May be repeated without limit.",
+    "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. <i>Prereq: Audition or permission of instructor.</i> May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -240,7 +240,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10262" }],
-    "description": "Designed to serve both music majors and nonmajors, this is a performance/theory/history offering of the varied styles and techniques of performance in the jazz tradition of African-American music. Students are drawn from all segments of the University. Repertory is taken from the standard jazz literature as well as investigations of new works. Improvisational and interpretational technique are the core content of the course. Both the NU Jazz Ensemble and the NU Jazz Combo are represented together in this course. &lt;i&gt;Prereq: Audition or permission of instructor.&lt;/i&gt; May be repeated without limit.",
+    "description": "Designed to serve both music majors and nonmajors, this is a performance/theory/history offering of the varied styles and techniques of performance in the jazz tradition of African-American music. Students are drawn from all segments of the University. Repertory is taken from the standard jazz literature as well as investigations of new works. Improvisational and interpretational technique are the core content of the course. Both the NU Jazz Ensemble and the NU Jazz Combo are represented together in this course. <i>Prereq: Audition or permission of instructor.</i> May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -264,7 +264,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13133" }],
-    "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. &lt;i&gt;Prereq: Audition or permission of instructor.&lt;/i&gt; May be repeated without limit.",
+    "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. <i>Prereq: Audition or permission of instructor.</i> May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -292,7 +292,7 @@
       { "term": "202310", "crn": "14856" },
       { "term": "202310", "crn": "19638" }
     ],
-    "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. &lt;i&gt;Prereq: Audition or permission of instructor.&lt;/i&gt; May be repeated without limit.",
+    "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. <i>Prereq: Audition or permission of instructor.</i> May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -328,7 +328,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13052" }],
-    "description": "Offers students an opportunity to participate as performers in one or more ensembles under the direction of a faculty conductor. Focuses on instrumental rock, blues, funk, and jazz repertoire. &lt;i&gt;Prereq: Audition or permission of instructor.&lt;/i&gt; May be repeated up to eight times.",
+    "description": "Offers students an opportunity to participate as performers in one or more ensembles under the direction of a faculty conductor. Focuses on instrumental rock, blues, funk, and jazz repertoire. <i>Prereq: Audition or permission of instructor.</i> May be repeated up to eight times.",
     "coreqs": [],
     "prereqs": []
   },
@@ -368,7 +368,7 @@
     "credits": 4,
     "nuPath": ["EI", "IC", "WI"],
     "sections": [{ "term": "202310", "crn": "19640" }],
-    "description": "Explores the history of the genre of song through a set of examples that have had enormous impact and influence, songs that have &ldquo;made history.&rdquo; Using songs selected by the faculty based on their expertise, this course aims to identify the social, cultural, musical, and poetic threads that have woven their way through song repertories, influencing song composition from its origins to the present day. Establishes commonalities and trends in order to understand how &ldquo;song&rdquo; has taken on an important cultural status that is unique to a specific time and place and is widespread, linking various songs together.",
+    "description": "Explores the history of the genre of song through a set of examples that have had enormous impact and influence, songs that have “made history.” Using songs selected by the faculty based on their expertise, this course aims to identify the social, cultural, musical, and poetic threads that have woven their way through song repertories, influencing song composition from its origins to the present day. Establishes commonalities and trends in order to understand how “song” has taken on an important cultural status that is unique to a specific time and place and is widespread, linking various songs together.",
     "coreqs": [],
     "prereqs": []
   },
@@ -422,7 +422,7 @@
       { "term": "202310", "crn": "19644" },
       { "term": "202240", "crn": "40538" }
     ],
-    "description": "Offers an opportunity to learn to construct songs with forward motion and memorable &ldquo;hooks.&rdquo;Topics include time-proven song forms, melody writing, harmonic tools, lyric writing, collaboration, and production techniques. Emphasizes the craft of writing songs for use in film and television.",
+    "description": "Offers an opportunity to learn to construct songs with forward motion and memorable “hooks.”Topics include time-proven song forms, melody writing, harmonic tools, lyric writing, collaboration, and production techniques. Emphasizes the craft of writing songs for use in film and television.",
     "coreqs": [],
     "prereqs": []
   },
@@ -492,7 +492,7 @@
       { "term": "202310", "crn": "19664" },
       { "term": "202240", "crn": "41949" }
     ],
-    "description": "Offers preparation for and performance of a minirecital (twenty to thirty minutes of music) under the guidance of the student&amp;#8217;s primary instrumental or vocal instructor. Minirecitals are usually shared by more than one student. Students take MUSC 3410 in place of MUSC 4992.",
+    "description": "Offers preparation for and performance of a minirecital (twenty to thirty minutes of music) under the guidance of the student's primary instrumental or vocal instructor. Minirecitals are usually shared by more than one student. Students take MUSC 3410 in place of MUSC 4992.",
     "coreqs": [],
     "prereqs": []
   },
@@ -516,7 +516,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19666" }],
-    "description": "Offers preparation for and performance of a senior recital (forty to sixty minutes of music) under the guidance of the student&amp;#8217;s primary instrumental or vocal instructor.",
+    "description": "Offers preparation for and performance of a senior recital (forty to sixty minutes of music) under the guidance of the student's primary instrumental or vocal instructor.",
     "coreqs": [],
     "prereqs": [{ "subject": "MUSC", "number": "3410" }]
   },

@@ -1,4 +1,5 @@
 import { Course, NUPath, nuPathMap } from "@/types.ts";
+import { decodeHTML } from "@/util/decode-html.ts";
 
 // Transform API response course
 export const transformCourse = (course: any): Course => {
@@ -11,7 +12,7 @@ export const transformCourse = (course: any): Course => {
       const nuPathDescription = description.split("NUpath ")[1];
 
       const nuPathKey = Object.keys(nuPathMap).find(
-        (key) => nuPathMap[key as NUPath] === nuPathDescription,
+        (key) => nuPathMap[key as NUPath] === nuPathDescription
       ) as NUPath;
 
       if (nuPathKey) nuPath.push(nuPathKey);
@@ -21,7 +22,7 @@ export const transformCourse = (course: any): Course => {
   return {
     subject: course.subject,
     number: course.courseNumber,
-    title: course.courseTitle,
+    title: decodeHTML(course.courseTitle),
     scheduleType: course.scheduleTypeDescription,
     credits: course.creditHourLow,
     nuPath,

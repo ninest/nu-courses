@@ -53,7 +53,7 @@
       { "term": "202240", "crn": "40420" },
       { "term": "202240", "crn": "41815" }
     ],
-    "description": "Explores common design practices, principles, and vocabularies, introducing the design process as a method of inquiry and problem solving through studio projects. Emphasizes the importance of an awareness of audience and context in the creation of meaningful communications and experiences. Explores the practice of design as an iterative process, offering students an opportunity to obtain an understanding of the value of systems thinking and the importance of feedback and exchange as a means for assessing the quality of design&amp;#8217;s effectiveness in helping users achieve their goals.",
+    "description": "Explores common design practices, principles, and vocabularies, introducing the design process as a method of inquiry and problem solving through studio projects. Emphasizes the importance of an awareness of audience and context in the creation of meaningful communications and experiences. Explores the practice of design as an iterative process, offering students an opportunity to obtain an understanding of the value of systems thinking and the importance of feedback and exchange as a means for assessing the quality of design's effectiveness in helping users achieve their goals.",
     "coreqs": [],
     "prereqs": []
   },
@@ -236,7 +236,7 @@
       { "term": "202310", "crn": "15194" },
       { "term": "202240", "crn": "41434" }
     ],
-    "description": "Addresses the origins, significance, and consequence of identity and branding expressions, in diverse media, in terms of personal, cultural, and commercial values. Using design research and studio methods, a series of exercises explores expressions of individual and collective identity. Offers students an opportunity to work in teams to develop branding projects in a process designed to increase their capacity to create effective brand expressions and analyze semiotic significance and cultural and economic value. Critique of work and presentation of concepts of identity and brand seek to sharpen students&rsquo; skills and challenge their ideas about brand. External critique seeks to create valuable tests of bias and assumptions, while principles of managing attention and trust seek to build the ability to function as a brand steward in actual practice.",
+    "description": "Addresses the origins, significance, and consequence of identity and branding expressions, in diverse media, in terms of personal, cultural, and commercial values. Using design research and studio methods, a series of exercises explores expressions of individual and collective identity. Offers students an opportunity to work in teams to develop branding projects in a process designed to increase their capacity to create effective brand expressions and analyze semiotic significance and cultural and economic value. Critique of work and presentation of concepts of identity and brand seek to sharpen students’ skills and challenge their ideas about brand. External critique seeks to create valuable tests of bias and assumptions, while principles of managing attention and trust seek to build the ability to function as a brand steward in actual practice.",
     "coreqs": [],
     "prereqs": [{ "subject": "ARTG", "number": "2250" }]
   },
@@ -329,7 +329,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14322" }],
-    "description": "Offers students experience in the design of identity, information, persuasive messaging, and publication projects. Focuses on cross-platform (print, digital, and three-dimensional) manifestations&mdash;all based on a single area of content.",
+    "description": "Offers students experience in the design of identity, information, persuasive messaging, and publication projects. Focuses on cross-platform (print, digital, and three-dimensional) manifestations—all based on a single area of content.",
     "coreqs": [],
     "prereqs": [
       { "subject": "ARTG", "number": "3450" },
@@ -564,7 +564,7 @@
       { "term": "202310", "crn": "16908" },
       { "term": "202310", "crn": "19894" }
     ],
-    "description": "Extends the exploration of design principles and methods by starting the development of a design master thesis. Examines how to develop effective design interventions capable of enriching human experience in specific situations, sites, and in the context of comprehensive activities. Emphasizes a systems perspective in both research and design development&mdash;the relationships between diverse participant groups and communities as well as the complex implications and interrelations of interventions at multiple scales and dimensions. Continues the exploration of theories of information design a&shy;&shy;nd visualization. Offers students an opportunity to prototype functioning applications that advance their thesis projects.",
+    "description": "Extends the exploration of design principles and methods by starting the development of a design master thesis. Examines how to develop effective design interventions capable of enriching human experience in specific situations, sites, and in the context of comprehensive activities. Emphasizes a systems perspective in both research and design development—the relationships between diverse participant groups and communities as well as the complex implications and interrelations of interventions at multiple scales and dimensions. Continues the exploration of theories of information design a­­nd visualization. Offers students an opportunity to prototype functioning applications that advance their thesis projects.",
     "coreqs": [],
     "prereqs": []
   },
@@ -579,7 +579,7 @@
       { "term": "202310", "crn": "12027" },
       { "term": "202310", "crn": "20329" }
     ],
-    "description": "Examines emerging research and critical practices in design. Provides conceptual frameworks to formalize and iterate on students&rsquo; thesis topics. Presents and frames qualitative research methods for application in thesis research. Offers students an opportunity to develop the visual and verbal expression of the thesis through writing, discussion, presentation, and critique, resulting in a thesis proposal document and in a public presentation for faculty feedback.",
+    "description": "Examines emerging research and critical practices in design. Provides conceptual frameworks to formalize and iterate on students’ thesis topics. Presents and frames qualitative research methods for application in thesis research. Offers students an opportunity to develop the visual and verbal expression of the thesis through writing, discussion, presentation, and critique, resulting in a thesis proposal document and in a public presentation for faculty feedback.",
     "coreqs": [],
     "prereqs": []
   },

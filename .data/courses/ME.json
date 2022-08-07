@@ -211,7 +211,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19109" }],
-    "description": "Covers fundamental components and mechanisms of robotic systems and their multidisciplinary nature. Introduces the robot&rsquo;s kinematics, dynamics, and control. Presents a quick overview of forward and inverse kinematics, robot dynamics, as well as path planning and control techniques. Topics also include dynamic modeling and analysis of mechanically, electrically, and magnetically driven hydraulic and pneumatic drives; kinematics and motion analysis of linkages; as well as sensing technologies (e.g., position, linear and angular displacements, velocity and acceleration, force and torque sensors) used in robotic systems. Presents kinematics and control of automatic machinery and manufacturing processes, automatic assembly, and inspection robotic systems as representative examples.",
+    "description": "Covers fundamental components and mechanisms of robotic systems and their multidisciplinary nature. Introduces the robot’s kinematics, dynamics, and control. Presents a quick overview of forward and inverse kinematics, robot dynamics, as well as path planning and control techniques. Topics also include dynamic modeling and analysis of mechanically, electrically, and magnetically driven hydraulic and pneumatic drives; kinematics and motion analysis of linkages; as well as sensing technologies (e.g., position, linear and angular displacements, velocity and acceleration, force and torque sensors) used in robotic systems. Presents kinematics and control of automatic machinery and manufacturing processes, automatic assembly, and inspection robotic systems as representative examples.",
     "coreqs": [],
     "prereqs": []
   },
@@ -268,7 +268,7 @@
       { "term": "202240", "crn": "40106" },
       { "term": "202240", "crn": "41596" }
     ],
-    "description": "Studies fundamental principles in fluid mechanics. Topics include hydrostatics (pressure distribution, forces on submerged surfaces and buoyancy); Newton&amp;#8217;s law of viscosity; dimensional analysis; integral forms of basic laws (conservation of mass, momentum, and energy); pipe flow analysis; differential formulation of basic laws including Navier-Stokes equations; and the concept of boundary layer and drag coefficient. Includes a team-based independent project.",
+    "description": "Studies fundamental principles in fluid mechanics. Topics include hydrostatics (pressure distribution, forces on submerged surfaces and buoyancy); Newton's law of viscosity; dimensional analysis; integral forms of basic laws (conservation of mass, momentum, and energy); pipe flow analysis; differential formulation of basic laws including Navier-Stokes equations; and the concept of boundary layer and drag coefficient. Includes a team-based independent project.",
     "coreqs": [],
     "prereqs": []
   },
@@ -753,7 +753,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "11415" }],
-    "description": "Offers students an opportunity to develop and present a plan for the demonstration of a marketable technology product or prototype with a mechanical engineering focus. Constitutes the first half of a thesis-scale project in technology commercialization. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student&amp;#8217;s technological and engineering depth and fostering the student&amp;#8217;s leadership development.",
+    "description": "Offers students an opportunity to develop and present a plan for the demonstration of a marketable technology product or prototype with a mechanical engineering focus. Constitutes the first half of a thesis-scale project in technology commercialization. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student's technological and engineering depth and fostering the student's leadership development.",
     "coreqs": [],
     "prereqs": []
   },

@@ -22,7 +22,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10609" }],
-    "description": "Covers elements of engineering practices such as product engineering (system design and engineering, integration, and documentation); engineering leadership (team building, communication, leadership styles, ethical behavior, and conflict resolution); market assessment (engineering economics, business plans, intellectual property, risk assessment, and mitigation); and engineering excellence (quality, reliability, serviceability, manufacturability, procurement, and problem solving). Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student&amp;#8217;s technological and engineering depth and fostering the student&amp;#8217;s leadership development.",
+    "description": "Covers elements of engineering practices such as product engineering (system design and engineering, integration, and documentation); engineering leadership (team building, communication, leadership styles, ethical behavior, and conflict resolution); market assessment (engineering economics, business plans, intellectual property, risk assessment, and mitigation); and engineering excellence (quality, reliability, serviceability, manufacturability, procurement, and problem solving). Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student's technological and engineering depth and fostering the student's leadership development.",
     "coreqs": [],
     "prereqs": []
   },
@@ -34,7 +34,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10608" }],
-    "description": "Presents the fundamental science underlying engineering disciplines. Develops a conceptual framework to understand interdisciplinary engineering practice and to make informed, back-of-the-envelope, quantitative estimates. Covers topics such as principles of mechanics and mechanics of materials, wave physics, quantum physics, statistical and thermal physics, fluid physics, Maxwell&amp;#8217;s equations and constitutive relations, and topics in chemistry and biology.",
+    "description": "Presents the fundamental science underlying engineering disciplines. Develops a conceptual framework to understand interdisciplinary engineering practice and to make informed, back-of-the-envelope, quantitative estimates. Covers topics such as principles of mechanics and mechanics of materials, wave physics, quantum physics, statistical and thermal physics, fluid physics, Maxwell's equations and constitutive relations, and topics in chemistry and biology.",
     "coreqs": [],
     "prereqs": []
   },
@@ -46,7 +46,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "11562" }],
-    "description": "Offers students an opportunity to develop and present a plan for the demonstration of a marketable technology product or prototype. This course is the first half of a thesis-scale project in technology commercialization. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student&amp;#8217;s technological and engineering depth and fostering the student&amp;#8217;s leadership development.",
+    "description": "Offers students an opportunity to develop and present a plan for the demonstration of a marketable technology product or prototype. This course is the first half of a thesis-scale project in technology commercialization. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student's technological and engineering depth and fostering the student's leadership development.",
     "coreqs": [],
     "prereqs": []
   }

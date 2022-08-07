@@ -3,27 +3,26 @@ import { FOLDER_PATH } from "@/fetcher/constants.ts";
 import { mayContainDifferentDescriptions } from "@/fetcher/util.ts";
 import { Course, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
+import { decodeHTML } from "../util/decode-html.ts";
 
 const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
 // const subjects = [{ code: "CS" }];
 
 const noSubjects = subjects?.length;
 for await (const [index, subject] of subjects!.entries()) {
-  const courses = await readJSON<Course[]>(
-    `${FOLDER_PATH}/courses/${subject.code}.json`,
-  );
+  const courses = await readJSON<Course[]>(`${FOLDER_PATH}/courses/${subject.code}.json`);
 
   console.log(`${index + 1} ${subject.code}`);
 
   const noCourses = courses?.length;
   for await (const [courseIndex, course] of courses!.entries()) {
     // If this course already has a description, no need to fetch it again
+    // Just decode the html
     if (course.description) {
       console.log(
-        `${index + 1}/${noSubjects} (skipped) : ${
-          courseIndex + 1
-        }/${noCourses} courses done`,
+        `${index + 1}/${noSubjects} (skipped) : ${courseIndex + 1}/${noCourses} courses done`
       );
+      course.description = decodeHTML(course.description);
       continue;
     }
 
@@ -46,7 +45,7 @@ for await (const [index, subject] of subjects!.entries()) {
         const description = await getCourseDescription(section);
 
         if (sectionDescriptions.includes(description)) {
-          course.description = description;
+          course.description = decodeHTML(description);
           break; // only breaks inner loop
         }
 
@@ -56,14 +55,10 @@ for await (const [index, subject] of subjects!.entries()) {
       // Find the description of the first section only
       const { term, crn } = course.sections[0];
       const description = await getCourseDescription({ term, crn });
-      course.description = description;
+      course.description = decodeHTML(description);
     }
 
-    console.log(
-      `${index + 1}/${noSubjects} : ${
-        courseIndex + 1
-      }/${noCourses} courses done`,
-    );
+    console.log(`${index + 1}/${noSubjects} : ${courseIndex + 1}/${noCourses} courses done`);
   }
 
   writeJSON(`${FOLDER_PATH}/courses/${subject.code}.json`, courses);

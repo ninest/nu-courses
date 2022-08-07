@@ -10,7 +10,7 @@
       { "term": "202310", "crn": "10446" },
       { "term": "202310", "crn": "10443" }
     ],
-    "description": "Intended for first-year students in the College of Arts, Media and Design. Introduces students to liberal arts; familiarizes them with their major; develops the academic skills necessary to succeed (analytical ability and critical thinking); provides grounding in the culture and values of the University community; and helps to develop interpersonal skills&amp;#8212;in short, familiarizes students with all skills needed to become a successful university student.",
+    "description": "Intended for first-year students in the College of Arts, Media and Design. Introduces students to liberal arts; familiarizes them with their major; develops the academic skills necessary to succeed (analytical ability and critical thinking); provides grounding in the culture and values of the University community; and helps to develop interpersonal skills&#8212;in short, familiarizes students with all skills needed to become a successful university student.",
     "coreqs": [],
     "prereqs": []
   },
@@ -93,7 +93,7 @@
       { "term": "202310", "crn": "10278" },
       { "term": "202260", "crn": "60558" }
     ],
-    "description": "Continues JRNL 2201. Covers basic principles of journalistic storytelling with video, sound, and still images. Introduces students to the foundations of writing with audio and video, and explores the concept of &amp;#8220;convergence,&amp;#8221; preparing stories for presentation in different formats. Fulfills the Advanced Writing in the Disciplines requirement for journalism majors.",
+    "description": "Continues JRNL 2201. Covers basic principles of journalistic storytelling with video, sound, and still images. Introduces students to the foundations of writing with audio and video, and explores the concept of &#8220;convergence,&#8221; preparing stories for presentation in different formats. Fulfills the Advanced Writing in the Disciplines requirement for journalism majors.",
     "coreqs": [],
     "prereqs": [
       { "subject": "ENGL", "number": "1111" },
@@ -166,7 +166,7 @@
     "credits": 4,
     "nuPath": ["CE", "ER", "SI", "WI"],
     "sections": [{ "term": "202310", "crn": "10268" }],
-    "description": "Examines legal problems of libel, invasion of privacy, and access to government information; discusses the balance between private rights and the public&amp;#8217;s &amp;#8220;need to know.&amp;#8221;",
+    "description": "Examines legal problems of libel, invasion of privacy, and access to government information; discusses the balance between private rights and the public's &#8220;need to know.&#8221;",
     "coreqs": [],
     "prereqs": []
   },
@@ -181,7 +181,7 @@
       { "term": "202310", "crn": "12660" },
       { "term": "202310", "crn": "19384" }
     ],
-    "description": "Offers students an opportunity to learn the fundamentals of digital journalism. Emphasizes hands-on instruction in multimedia skills. Topics may include blogging, photography, video and audio production, use of social media as a reporting tool, and mapping and data visualization. Guest speakers and a consideration of the future of news may also be part of the course. Requires students to produce a final project that consists of storytelling across a range of platforms&amp;#8212;for example, a written article, a photo story, and a video.",
+    "description": "Offers students an opportunity to learn the fundamentals of digital journalism. Emphasizes hands-on instruction in multimedia skills. Topics may include blogging, photography, video and audio production, use of social media as a reporting tool, and mapping and data visualization. Guest speakers and a consideration of the future of news may also be part of the course. Requires students to produce a final project that consists of storytelling across a range of platforms&#8212;for example, a written article, a photo story, and a video.",
     "coreqs": [],
     "prereqs": []
   },
@@ -229,7 +229,7 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [{ "term": "202310", "crn": "19387" }],
-    "description": "Explores the obstacles women in journalism face and examines how a lack of diversity can damage news organizations&rsquo; credibility. Studies the historical underpinnings of journalism&rsquo;s gender gap and practical strategies to navigate identity politics in a modern newsroom. For decades, women have represented the majority of journalism and mass communication students, but they remain the minority at most U.S. news organizations. This gender gap is, of course, not unique to journalism, but the paucity of women in newsrooms negatively impacts society. When news narratives are constructed primarily by men, those narratives often perpetuate &ldquo;symbolic annihilation&rdquo;&mdash;a term commonly used by feminist and queer scholars to describe the ways the media overlooks or stereotypes women and other marginalized identities.",
+    "description": "Explores the obstacles women in journalism face and examines how a lack of diversity can damage news organizations’ credibility. Studies the historical underpinnings of journalism’s gender gap and practical strategies to navigate identity politics in a modern newsroom. For decades, women have represented the majority of journalism and mass communication students, but they remain the minority at most U.S. news organizations. This gender gap is, of course, not unique to journalism, but the paucity of women in newsrooms negatively impacts society. When news narratives are constructed primarily by men, those narratives often perpetuate “symbolic annihilation”—a term commonly used by feminist and queer scholars to describe the ways the media overlooks or stereotypes women and other marginalized identities.",
     "coreqs": [],
     "prereqs": []
   },
@@ -244,7 +244,7 @@
       { "term": "202310", "crn": "19388" },
       { "term": "202310", "crn": "19389" }
     ],
-    "description": "Covers camera procedures along with cropping, assignment techniques, theory, and photo-caption methods. Engages students in the ethical choices photojournalists face in covering wars, disasters, and vulnerable people in societies&amp;#8212;both historically and in the new media environment.",
+    "description": "Covers camera procedures along with cropping, assignment techniques, theory, and photo-caption methods. Engages students in the ethical choices photojournalists face in covering wars, disasters, and vulnerable people in societies&#8212;both historically and in the new media environment.",
     "coreqs": [],
     "prereqs": []
   },
@@ -268,7 +268,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13639" }],
-    "description": "Examines time-tested and cutting-edge methods for shaping and presenting messages across multimedia platforms to effectively disseminate an organization&rsquo;s message, change a public conversation, or shift public opinion. Examines case studies in mainstream media, public advocacy, and strategic communications to explore the motivations and methods of the organizations as well as the tools and techniques used. Examines the practice of digital advocacy by exploring and applying pertinent findings from politics, advertising, and behavioral science that are increasingly employed by professionals looking to &ldquo;micro-target&rdquo; voters, &ldquo;convert&rdquo; customers, or &ldquo;nudge&rdquo; the public. One major component of the course is hands-on workshops through which students are offered an opportunity to learn how to leverage the latest digital tools for communicating across social media and online platforms.",
+    "description": "Examines time-tested and cutting-edge methods for shaping and presenting messages across multimedia platforms to effectively disseminate an organization’s message, change a public conversation, or shift public opinion. Examines case studies in mainstream media, public advocacy, and strategic communications to explore the motivations and methods of the organizations as well as the tools and techniques used. Examines the practice of digital advocacy by exploring and applying pertinent findings from politics, advertising, and behavioral science that are increasingly employed by professionals looking to “micro-target” voters, “convert” customers, or “nudge” the public. One major component of the course is hands-on workshops through which students are offered an opportunity to learn how to leverage the latest digital tools for communicating across social media and online platforms.",
     "coreqs": [],
     "prereqs": []
   },
@@ -280,7 +280,7 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [{ "term": "202310", "crn": "20358" }],
-    "description": "Studies public relations strategy and tactics for predicting, preparing for, and responding to a variety of crisis scenarios, building on a foundation of basic crisis management principles. Focuses on how to provide sound counsel before, during, and after a crisis and on the tools available to mount an effective crisis response. More than ever, individuals and organizations&mdash;politicians, executives, corporations, nonprofits, and government agencies, among others&mdash;are facing serious issues and crises that threaten their reputations.",
+    "description": "Studies public relations strategy and tactics for predicting, preparing for, and responding to a variety of crisis scenarios, building on a foundation of basic crisis management principles. Focuses on how to provide sound counsel before, during, and after a crisis and on the tools available to mount an effective crisis response. More than ever, individuals and organizations—politicians, executives, corporations, nonprofits, and government agencies, among others—are facing serious issues and crises that threaten their reputations.",
     "coreqs": [],
     "prereqs": []
   },
@@ -335,7 +335,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12921" }],
-    "description": "Offers students an opportunity to integrate knowledge and skills derived from foundation courses to develop a master&amp;#8217;s project. Creates a newsroom environment in which each student project is advanced through a journalistic collaborative process that features critiques from instructors and peers and integrates expertise from guest lecturers. Following the &amp;#8220;teaching hospital&amp;#8221; model, students work with the instructor, each other, and partnered media innovation visitors to develop their work.",
+    "description": "Offers students an opportunity to integrate knowledge and skills derived from foundation courses to develop a master's project. Creates a newsroom environment in which each student project is advanced through a journalistic collaborative process that features critiques from instructors and peers and integrates expertise from guest lecturers. Following the &#8220;teaching hospital&#8221; model, students work with the instructor, each other, and partnered media innovation visitors to develop their work.",
     "coreqs": [],
     "prereqs": []
   },
@@ -350,7 +350,7 @@
       { "term": "202310", "crn": "12050" },
       { "term": "202310", "crn": "12767" }
     ],
-    "description": "Offers students an opportunity to learn the fundamentals of digital journalism and to place those skills within the context of a changing media environment. Studies multimedia tools within an intellectual framework&amp;#8212;i.e., offers students an opportunity to learn hands-on skills and also to study best practices and theory. May include guest speakers and a consideration of the future of news. Requires students to produce a final project that consists of storytelling across a range of digital platforms.",
+    "description": "Offers students an opportunity to learn the fundamentals of digital journalism and to place those skills within the context of a changing media environment. Studies multimedia tools within an intellectual framework&#8212;i.e., offers students an opportunity to learn hands-on skills and also to study best practices and theory. May include guest speakers and a consideration of the future of news. Requires students to produce a final project that consists of storytelling across a range of digital platforms.",
     "coreqs": [],
     "prereqs": []
   },
