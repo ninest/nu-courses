@@ -112,3 +112,12 @@ export interface MeetingTime {
   };
   days: DayOfWeek[];
 }
+
+export interface Seats {
+  total: number;
+  available: number;
+  waitlist: {
+    capacity: number;
+    available: number;
+  };
+}
