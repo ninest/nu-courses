@@ -1,4 +1,4 @@
-import { SectionInfo } from "./types.ts";
+import { SectionInfo } from "@/types.ts";
 
 export const getCourseCoreqs = async (
   sectionInfo: SectionInfo,
