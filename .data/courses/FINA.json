@@ -12,7 +12,7 @@
       { "term": "202310", "crn": "12602" },
       { "term": "202310", "crn": "20345" }
     ],
-    "description": "Emphasizes the development of individually focused financial information and a comprehensive financial plan designed to enable the individual to manage his or her financial affairs. Integrates personal goals&amp;#8212;such as buying a home, retirement, investing, and insurance needs&amp;#8212;to help assure that the financial plan incorporates the major decision stages an individual faces.",
+    "description": "Emphasizes the development of individually focused financial information and a comprehensive financial plan designed to enable the individual to manage his or her financial affairs. Integrates personal goals&#8212;such as buying a home, retirement, investing, and insurance needs&#8212;to help assure that the financial plan incorporates the major decision stages an individual faces.",
     "coreqs": [],
     "prereqs": []
   },
@@ -89,7 +89,7 @@
       { "term": "202310", "crn": "11124" },
       { "term": "202240", "crn": "41035" }
     ],
-    "description": "Examines a variety of environmental problems, including global warming, use and disposal of toxic substances, and depletion of natural resources such as water and petroleum. Many of these problems arise because these are resources that are available to all and so their overuse is an externality that is not included in manufacturing costs. Businesses have been involved in both identifying sustainability issues in their individual organizations and providing a variety of innovative solutions. Uses a combination of readings and case analyses to assesses how both government regulations&amp;#8212;such as taxes, subsidies, building codes, prohibitions of use&amp;#8212;and business solutions&amp;#8212;including zero emissions, green design, producer take-back, life cycle assessment, and corporate environmental reporting&amp;#8212;address these problems.",
+    "description": "Examines a variety of environmental problems, including global warming, use and disposal of toxic substances, and depletion of natural resources such as water and petroleum. Many of these problems arise because these are resources that are available to all and so their overuse is an externality that is not included in manufacturing costs. Businesses have been involved in both identifying sustainability issues in their individual organizations and providing a variety of innovative solutions. Uses a combination of readings and case analyses to assesses how both government regulations&#8212;such as taxes, subsidies, building codes, prohibitions of use&#8212;and business solutions&#8212;including zero emissions, green design, producer take-back, life cycle assessment, and corporate environmental reporting&#8212;address these problems.",
     "coreqs": [],
     "prereqs": []
   },
@@ -238,7 +238,7 @@
       { "term": "202310", "crn": "19708" },
       { "term": "202240", "crn": "41589" }
     ],
-    "description": "Studies how to understand and analyze data using a set of analytical tools in financial econometrics when applications such as Excel are not ideally suited for large data sets or when the analysis involves a series of iterative steps that need to be replicated. Techniques include several types of regressions (e.g., ordinary least squares, probit, logit, fixed/random effects, etc.); univariate and matched sample analyses; event studies; and, more recently, text-based methods. Discusses topics related to establishing causal relations&mdash;such as the use of instrumental variables, natural experiments, and regression discontinuity&mdash;and application of these techniques using econometric software.",
+    "description": "Studies how to understand and analyze data using a set of analytical tools in financial econometrics when applications such as Excel are not ideally suited for large data sets or when the analysis involves a series of iterative steps that need to be replicated. Techniques include several types of regressions (e.g., ordinary least squares, probit, logit, fixed/random effects, etc.); univariate and matched sample analyses; event studies; and, more recently, text-based methods. Discusses topics related to establishing causal relations—such as the use of instrumental variables, natural experiments, and regression discontinuity—and application of these techniques using econometric software.",
     "coreqs": [],
     "prereqs": ["Or"]
   },
@@ -250,7 +250,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14014" }],
-    "description": "Designed to develop students&rsquo; quantitative financial modeling skills and techniques using the Excel spreadsheet. Through learning how to use numerical examples and business cases, students study corporate valuation, weighted average cost of capital (WACC), pro forma statement modeling, portfolio models, and Monte Carlo simulation methods, etc. Seeks to cultivate students&rsquo; ability to make assumptions, deal with imperfect information, and real-world data issues. Offers students an opportunity to apply theoretical knowledge in advanced corporate finance, asset pricing, and option pricing in a real-world context. This course is highly quantitative in nature; while it does not derive complicated mathematical formulas, familiarity with concepts such as the capital asset pricing model (CAPM), WACC, portfolio theory, and pro forma financial statements is expected.",
+    "description": "Designed to develop students’ quantitative financial modeling skills and techniques using the Excel spreadsheet. Through learning how to use numerical examples and business cases, students study corporate valuation, weighted average cost of capital (WACC), pro forma statement modeling, portfolio models, and Monte Carlo simulation methods, etc. Seeks to cultivate students’ ability to make assumptions, deal with imperfect information, and real-world data issues. Offers students an opportunity to apply theoretical knowledge in advanced corporate finance, asset pricing, and option pricing in a real-world context. This course is highly quantitative in nature; while it does not derive complicated mathematical formulas, familiarity with concepts such as the capital asset pricing model (CAPM), WACC, portfolio theory, and pro forma financial statements is expected.",
     "coreqs": [],
     "prereqs": ["Or"]
   },
@@ -291,7 +291,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12991" }],
-    "description": "Offers a practical, planning-based approach to managing the mergers and acquisitions (M&amp;amp;A) process. Analyzes how M&amp;amp;As create or destroy value; commonly used takeover tactics and defenses; M&amp;amp;A valuation techniques; alternative deal structures; and the financial, strategic, legal, and regulatory aspects of M&amp;amp;As. The first section covers how and when to apply the appropriate tools and skills to successfully complete a transaction. The second section offers students an opportunity to apply what has been learned to solve real-world business problems. Discusses all major elements of the acquisition process in the context of a logical process.",
+    "description": "Offers a practical, planning-based approach to managing the mergers and acquisitions (M&amp;A) process. Analyzes how M&amp;As create or destroy value; commonly used takeover tactics and defenses; M&amp;A valuation techniques; alternative deal structures; and the financial, strategic, legal, and regulatory aspects of M&amp;As. The first section covers how and when to apply the appropriate tools and skills to successfully complete a transaction. The second section offers students an opportunity to apply what has been learned to solve real-world business problems. Discusses all major elements of the acquisition process in the context of a logical process.",
     "coreqs": [],
     "prereqs": []
   },
@@ -370,7 +370,7 @@
       { "term": "202310", "crn": "13510" },
       { "term": "202240", "crn": "41590" }
     ],
-    "description": "Exposes students to the theory, application, and evidence concerning highly sensitive interest rate products. Explores recent developments in pension fund management, asset/liability management, duration matching, &amp;#8220;gap&amp;#8221; management, and other important issues confronting domestic and international financial and corporate management. Offers students the opportunity to learn how to customize a risk management program.",
+    "description": "Exposes students to the theory, application, and evidence concerning highly sensitive interest rate products. Explores recent developments in pension fund management, asset/liability management, duration matching, &#8220;gap&#8221; management, and other important issues confronting domestic and international financial and corporate management. Offers students the opportunity to learn how to customize a risk management program.",
     "coreqs": [],
     "prereqs": []
   },
@@ -466,7 +466,7 @@
       { "term": "202310", "crn": "11163" },
       { "term": "202310", "crn": "19526" }
     ],
-    "description": "Develops financial, analytical, and communication skills necessary to develop and implement a financial strategy consistent with firm value creation in a dynamic environment. Stresses the impact of ethical and legal considerations, global markets, and technological innovation on efficient economic outcomes. Emphasizes written and oral communication skills. Upon completion of this course, students should be able to identify and analyze a firm&amp;#8217;s strategic opportunities and propose a suitable financial strategy that is consistent with firm value creation.",
+    "description": "Develops financial, analytical, and communication skills necessary to develop and implement a financial strategy consistent with firm value creation in a dynamic environment. Stresses the impact of ethical and legal considerations, global markets, and technological innovation on efficient economic outcomes. Emphasizes written and oral communication skills. Upon completion of this course, students should be able to identify and analyze a firm's strategic opportunities and propose a suitable financial strategy that is consistent with firm value creation.",
     "coreqs": [],
     "prereqs": ["Or", "Or", "Or", "Or", "(", "And", ")"]
   },
@@ -509,7 +509,7 @@
       { "term": "202310", "crn": "16554" },
       { "term": "202310", "crn": "16697" }
     ],
-    "description": "Provides an overview of all of the hedging markets and hedging instruments. Explores specific hedging use of options, forwards, futures, swaps, and options on futures. Focuses on advanced financial risk management of interest rates, currency rates, equity returns, and fixed income returns. Students use readings and case problems to study when and how to use hedging instruments to alter a portfolio&amp;#8217;s risk exposure.",
+    "description": "Provides an overview of all of the hedging markets and hedging instruments. Explores specific hedging use of options, forwards, futures, swaps, and options on futures. Focuses on advanced financial risk management of interest rates, currency rates, equity returns, and fixed income returns. Students use readings and case problems to study when and how to use hedging instruments to alter a portfolio's risk exposure.",
     "coreqs": [],
     "prereqs": []
   },
@@ -521,7 +521,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13515" }],
-    "description": "Exposes students to theory, applications, and evidence concerning highly sensitive interest rate products. Discusses recent developments in pension fund management, asset/liability management, duration matching, &amp;#8220;gap&amp;#8221; management, concurrent interest rate and exchange rate management, and other important issues now confronting domestic and international financial and corporate management. Studies how to customize a risk management program.",
+    "description": "Exposes students to theory, applications, and evidence concerning highly sensitive interest rate products. Discusses recent developments in pension fund management, asset/liability management, duration matching, &#8220;gap&#8221; management, concurrent interest rate and exchange rate management, and other important issues now confronting domestic and international financial and corporate management. Studies how to customize a risk management program.",
     "coreqs": [],
     "prereqs": []
   },
@@ -615,7 +615,7 @@
       { "term": "202310", "crn": "19857" },
       { "term": "202260", "crn": "60241" }
     ],
-    "description": "Develops portfolio construction, revision, and performance measurement. Highlights portfolio construction in an efficient capital market. Topics include risk-return analysis, the effects of diversification on risk reduction, and the costs of inflation, taxes, and transaction costs on fixed income and equity security portfolios. Examines financial models of capital asset pricing as the basis for the analysis of portfolios from the institutional investor&amp;#8217;s viewpoint.",
+    "description": "Develops portfolio construction, revision, and performance measurement. Highlights portfolio construction in an efficient capital market. Topics include risk-return analysis, the effects of diversification on risk reduction, and the costs of inflation, taxes, and transaction costs on fixed income and equity security portfolios. Examines financial models of capital asset pricing as the basis for the analysis of portfolios from the institutional investor's viewpoint.",
     "coreqs": [],
     "prereqs": []
   },
@@ -720,7 +720,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19839" }],
-    "description": "Emphasizes assets and portfolios that fall into the category of alternative investments, which includes nontraditional assets&mdash;such as structured products and other types of derivatives&mdash;and managed portfolios&mdash;such as private equity, venture capital, and hedge funds. Offers students an opportunity to obtain a fundamental understanding of the securities and products that are traded in this space. Focuses on in-depth analyses of case studies, outside speakers, focused discussions, quantitative analyses, and current developments in the industry.",
+    "description": "Emphasizes assets and portfolios that fall into the category of alternative investments, which includes nontraditional assets—such as structured products and other types of derivatives—and managed portfolios—such as private equity, venture capital, and hedge funds. Offers students an opportunity to obtain a fundamental understanding of the securities and products that are traded in this space. Focuses on in-depth analyses of case studies, outside speakers, focused discussions, quantitative analyses, and current developments in the industry.",
     "coreqs": [],
     "prereqs": []
   },
@@ -735,7 +735,7 @@
       { "term": "202310", "crn": "19858" },
       { "term": "202260", "crn": "60613" }
     ],
-    "description": "Examines the history and evolution of the ways banking has changed following the 2008 financial crisis. Changes impacting the banking industry include major changes in the regulatory environment, changes in market liquidity, negative interest rates, shifts in Fed monetary policy, LIBOR transition, and technological innovation (blockchain, digital currency, automation, and artificial intelligence). Analyzes the history and evolution of these changes and the impact on the financial services industry, with a specific focus on the banking sector. Discusses the management of various banking functions (risk management, governance, profitability, liquidity management, auditing, and regulation) in today&rsquo;s regulatory and market environment as well as the evolution of payment systems and the expected impact of technological advancements, such as blockchain and artificial intelligence, on the industry.",
+    "description": "Examines the history and evolution of the ways banking has changed following the 2008 financial crisis. Changes impacting the banking industry include major changes in the regulatory environment, changes in market liquidity, negative interest rates, shifts in Fed monetary policy, LIBOR transition, and technological innovation (blockchain, digital currency, automation, and artificial intelligence). Analyzes the history and evolution of these changes and the impact on the financial services industry, with a specific focus on the banking sector. Discusses the management of various banking functions (risk management, governance, profitability, liquidity management, auditing, and regulation) in today’s regulatory and market environment as well as the evolution of payment systems and the expected impact of technological advancements, such as blockchain and artificial intelligence, on the industry.",
     "coreqs": [],
     "prereqs": []
   },
@@ -759,7 +759,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "11289" }],
-    "description": "Builds on FINA 6360. Designed to provide students further analytical knowledge, including exposure to and opportunity to perform managerial tasks related to the management and operation of mutual funds. Included in these tasks are reconsideration of the fund&amp;#8217;s investment policy statement and asset allocation plan as well as preparation of accounting statements, dealing with compliance issues, addressing ethical concerns, measuring and managing risk, and performing marketing and fund-raising activities. May be repeated up to three times.",
+    "description": "Builds on FINA 6360. Designed to provide students further analytical knowledge, including exposure to and opportunity to perform managerial tasks related to the management and operation of mutual funds. Included in these tasks are reconsideration of the fund's investment policy statement and asset allocation plan as well as preparation of accounting statements, dealing with compliance issues, addressing ethical concerns, measuring and managing risk, and performing marketing and fund-raising activities. May be repeated up to three times.",
     "coreqs": [],
     "prereqs": ["And"]
   }

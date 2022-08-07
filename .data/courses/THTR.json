@@ -174,7 +174,7 @@
       { "term": "202310", "crn": "10220" },
       { "term": "202310", "crn": "20718" }
     ],
-    "description": "Introduces the principles of contemporary theatrical design and how to apply the creative process to scenery, costumes, and lighting. Offers students an opportunity to discover how design concepts are developed and relate to each other through research, script analysis, color theory, and visual composition. Seeks to develop the student&amp;#8217;s capacity for collaboration and techniques for conceptualizing a play into a multidisciplinary work of art. No theatre experience required.",
+    "description": "Introduces the principles of contemporary theatrical design and how to apply the creative process to scenery, costumes, and lighting. Offers students an opportunity to discover how design concepts are developed and relate to each other through research, script analysis, color theory, and visual composition. Seeks to develop the student's capacity for collaboration and techniques for conceptualizing a play into a multidisciplinary work of art. No theatre experience required.",
     "coreqs": [],
     "prereqs": []
   },
@@ -214,7 +214,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [{ "term": "202310", "crn": "18674" }],
-    "description": "Traces the creative evolution of the stage musical from its 19th-century origins to current Broadway hits; from popular entertainment to an important theatrical art. Offers students an opportunity to examine this unique and original art form from multiple perspectives&amp;#8212;historical, cultural, political, and aesthetic&amp;#8212;and to develop insights into the concepts and methods of such pioneering composers, lyricists, and theatre artists as Gilbert and Sullivan, Cole Porter, Rodgers and Hammerstein, Leonard Bernstein, and Stephen Sondheim.",
+    "description": "Traces the creative evolution of the stage musical from its 19th-century origins to current Broadway hits; from popular entertainment to an important theatrical art. Offers students an opportunity to examine this unique and original art form from multiple perspectives&#8212;historical, cultural, political, and aesthetic&#8212;and to develop insights into the concepts and methods of such pioneering composers, lyricists, and theatre artists as Gilbert and Sullivan, Cole Porter, Rodgers and Hammerstein, Leonard Bernstein, and Stephen Sondheim.",
     "coreqs": [],
     "prereqs": []
   },
@@ -253,7 +253,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12316" }],
-    "description": "Continues THTR 1120. Focuses on developing the actor&amp;#8217;s sense of truth and emotional freedom. Emphasizes creating, developing, and sustaining character and developing ensemble. Includes monologues and scenes performed for classroom analysis.",
+    "description": "Continues THTR 1120. Focuses on developing the actor's sense of truth and emotional freedom. Emphasizes creating, developing, and sustaining character and developing ensemble. Includes monologues and scenes performed for classroom analysis.",
     "coreqs": [],
     "prereqs": [{ "subject": "THTR", "number": "1120" }]
   },

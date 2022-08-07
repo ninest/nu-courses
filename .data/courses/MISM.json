@@ -27,7 +27,7 @@
       { "term": "202240", "crn": "40021" },
       { "term": "202240", "crn": "40256" }
     ],
-    "description": "Explores how a wide range of enterprises around the world use information and information technology to create better-managed, more innovative, and successful organizations. The twenty-first-century enterprise runs on information, and every part of the business has been transformed by the use of information technology. Today&rsquo;s business leaders, therefore, must have ready access to timely, accurate, and relevant information to manage effectively in the global economy.",
+    "description": "Explores how a wide range of enterprises around the world use information and information technology to create better-managed, more innovative, and successful organizations. The twenty-first-century enterprise runs on information, and every part of the business has been transformed by the use of information technology. Today’s business leaders, therefore, must have ready access to timely, accurate, and relevant information to manage effectively in the global economy.",
     "coreqs": [],
     "prereqs": []
   },
@@ -43,7 +43,7 @@
       { "term": "202310", "crn": "16609" },
       { "term": "202310", "crn": "19783" }
     ],
-    "description": "Focuses on information analytics concepts and techniques needed by educated information analysts, designers, and consumers to lead organizations in the contemporary information age. Includes concepts, techniques, methods, and strategies for the entire information life cycle&amp;#8212;collection, organization, exploration, analysis, manipulation, visualization, interpretation, and presentation of information for business. Each of these topics is introduced with real-world examples and data sets, grounded in relevant theory and principles, and is reinforced using various user-friendly software tools to gain the necessary analytical skills and knowledge.",
+    "description": "Focuses on information analytics concepts and techniques needed by educated information analysts, designers, and consumers to lead organizations in the contemporary information age. Includes concepts, techniques, methods, and strategies for the entire information life cycle&#8212;collection, organization, exploration, analysis, manipulation, visualization, interpretation, and presentation of information for business. Each of these topics is introduced with real-world examples and data sets, grounded in relevant theory and principles, and is reinforced using various user-friendly software tools to gain the necessary analytical skills and knowledge.",
     "coreqs": [],
     "prereqs": []
   },
@@ -122,7 +122,7 @@
       { "term": "202310", "crn": "18375" },
       { "term": "202310", "crn": "19306" }
     ],
-    "description": "Provides a comprehensive approach to understanding how business analytics enable companies to become more competitive. Offers students an opportunity to learn how to apply value chain analysis and other strategic perspectives to determine how business analytics can be integrated effectively into a firm&amp;#8217;s operations. Interactive activities such as simulations and case studies allow students to explore how insights from data can improve business decisions. Examines real-world examples of how companies have used business analytics perspectives and tools to enhance different types of business processes, such as inventory prediction, customer service quality, and resolution of ethical dilemmas.",
+    "description": "Provides a comprehensive approach to understanding how business analytics enable companies to become more competitive. Offers students an opportunity to learn how to apply value chain analysis and other strategic perspectives to determine how business analytics can be integrated effectively into a firm's operations. Interactive activities such as simulations and case studies allow students to explore how insights from data can improve business decisions. Examines real-world examples of how companies have used business analytics perspectives and tools to enhance different types of business processes, such as inventory prediction, customer service quality, and resolution of ethical dilemmas.",
     "coreqs": [],
     "prereqs": []
   },
@@ -169,7 +169,7 @@
       { "term": "202310", "crn": "19844" },
       { "term": "202310", "crn": "19845" }
     ],
-    "description": "Covers data wrangling principles and techniques for business. Key topics include data extraction, profiling, cleansing, integration, aggregation, transformation, and automating data processes for business purposes. Applies principles and techniques using data transformation tools, programming languages, and data process automation tools. Emphasizes embedding appropriate communication mechanisms for collaboration for identifying, solving, and resolving challenges revealed in datasets and business processes. Offers students an opportunity to learn data wrangling techniques to identify, solve, and resolve real-world data challenges, creating business value in today&rsquo;s disparate computing and dynamic business environment.",
+    "description": "Covers data wrangling principles and techniques for business. Key topics include data extraction, profiling, cleansing, integration, aggregation, transformation, and automating data processes for business purposes. Applies principles and techniques using data transformation tools, programming languages, and data process automation tools. Emphasizes embedding appropriate communication mechanisms for collaboration for identifying, solving, and resolving challenges revealed in datasets and business processes. Offers students an opportunity to learn data wrangling techniques to identify, solve, and resolve real-world data challenges, creating business value in today’s disparate computing and dynamic business environment.",
     "coreqs": [],
     "prereqs": []
   },

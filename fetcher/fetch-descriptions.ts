@@ -5,8 +5,8 @@ import { Course, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
 import { decodeHTML } from "../util/decode-html.ts";
 
-// const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
-const subjects = [{ code: "CS" }];
+const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
+// const subjects = [{ code: "CS" }];
 
 const noSubjects = subjects?.length;
 for await (const [index, subject] of subjects!.entries()) {

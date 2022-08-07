@@ -19,7 +19,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10327" }],
-    "description": "Presents an overview of the ASL&ndash;English interpreting profession. Discusses the emergence of sign language interpretation and translation; the responsibilities, ethics, and aptitudes of interpreters; professional associations; the bilingual and bicultural context; basic translation and interpretation; environments where interpreters work; special populations; and professional interpreter certifications.",
+    "description": "Presents an overview of the ASL–English interpreting profession. Discusses the emergence of sign language interpretation and translation; the responsibilities, ethics, and aptitudes of interpreters; professional associations; the bilingual and bicultural context; basic translation and interpretation; environments where interpreters work; special populations; and professional interpreter certifications.",
     "coreqs": [],
     "prereqs": [{ "subject": "AMSL", "number": "2101" }]
   },
@@ -31,7 +31,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10569" }],
-    "description": "Focuses on the practical skills required for effective translation and interpretation in dialogue-type inquiry texts (job interviews, case histories, and applications). Presents an overview of linguistic and sociolinguistic features and situational aspects of inquiry texts. Introduces theoretical models of interpretation to students&rsquo; development of analytic and cognitive skills, in order that they may effectively identify message meaning and manage the cognitive processes of message transfer. Introduces intralingual translation and text analysis techniques. Offers students an opportunity to develop skills in translation, consecutive interpretation, and simultaneous interpretation and to gain decision-making skills and strategies to achieve cross-culturally effective and appropriate message mediation in contexts where interactive inquiry texts occur.",
+    "description": "Focuses on the practical skills required for effective translation and interpretation in dialogue-type inquiry texts (job interviews, case histories, and applications). Presents an overview of linguistic and sociolinguistic features and situational aspects of inquiry texts. Introduces theoretical models of interpretation to students’ development of analytic and cognitive skills, in order that they may effectively identify message meaning and manage the cognitive processes of message transfer. Introduces intralingual translation and text analysis techniques. Offers students an opportunity to develop skills in translation, consecutive interpretation, and simultaneous interpretation and to gain decision-making skills and strategies to achieve cross-culturally effective and appropriate message mediation in contexts where interactive inquiry texts occur.",
     "coreqs": [],
     "prereqs": [{ "subject": "AMSL", "number": "2102" }]
   },
@@ -43,7 +43,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [{ "term": "202310", "crn": "19744" }],
-    "description": "Guides students through the process of analyzing and interpreting frozen texts (plays, poems, and ceremonial scripts), from first read-through to final interpreted rendering of the performed text. Interpreting for theatrical or otherwise scripted communication is markedly different from other forms of interpreting. The availability of a script, ample time to rehearse, and the possibility of feedback makes this a hybrid practice&mdash;part interpreting, part translation, and part performance. Offers students an opportunity to learn how to analyze scripts for both content and interpreting issues; how to solve production problems of logistics, placement, and lighting; and how to interpret a series of performances for the Deaf Community. This course is offered in conjunction with or in advance of a theatre department production or other performed text.",
+    "description": "Guides students through the process of analyzing and interpreting frozen texts (plays, poems, and ceremonial scripts), from first read-through to final interpreted rendering of the performed text. Interpreting for theatrical or otherwise scripted communication is markedly different from other forms of interpreting. The availability of a script, ample time to rehearse, and the possibility of feedback makes this a hybrid practice—part interpreting, part translation, and part performance. Offers students an opportunity to learn how to analyze scripts for both content and interpreting issues; how to solve production problems of logistics, placement, and lighting; and how to interpret a series of performances for the Deaf Community. This course is offered in conjunction with or in advance of a theatre department production or other performed text.",
     "coreqs": [],
     "prereqs": []
   },
@@ -67,7 +67,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14843" }],
-    "description": "Focuses on the interpretation of expository texts (lectures, procedural texts) and the development of strategic decision-making skills within the context of expository texts. Presents an overview of linguistic and sociolinguistic features and situational aspects of expository texts. Reinforces models of interpretation in students&rsquo; practical development of analytic and cognitive skills, in order that they may effectively identify and transfer message meaning. Offers students an opportunity to further develop the cognitive processes and team interpretation skills to manage temporal constraints of simultaneous interpretation and to develop and apply the decision-making skills needed for achieving cross-cultural, cross-linguistic message mediation in these settings.",
+    "description": "Focuses on the interpretation of expository texts (lectures, procedural texts) and the development of strategic decision-making skills within the context of expository texts. Presents an overview of linguistic and sociolinguistic features and situational aspects of expository texts. Reinforces models of interpretation in students’ practical development of analytic and cognitive skills, in order that they may effectively identify and transfer message meaning. Offers students an opportunity to further develop the cognitive processes and team interpretation skills to manage temporal constraints of simultaneous interpretation and to develop and apply the decision-making skills needed for achieving cross-cultural, cross-linguistic message mediation in these settings.",
     "coreqs": [],
     "prereqs": []
   },

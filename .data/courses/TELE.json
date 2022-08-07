@@ -7,7 +7,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13833" }],
-    "description": "Provides the basics of data networking protocols and architectures. Topics include protocol architecture of the internet; application protocols such as FTP, SMTP and HTTP, web caching, DNS, CDNs, and P2P applications; use of TCP and UDP socket programming to develop network applications in Python; transport protocols, including TCP, UDP, and TCP congestion control; IP protocol, addressing, IPv4 and v6, NATs, ICMP, and tunnels; routing algorithms and OSPF; data link protocols, encoding, framing, error control, and PPP; switched LANs, ARP, Ethernet, and VLANs; wireless LANs and 802.11 protocols; and network security&amp;#8212;encryption, message integrity, authentication protocols, key management, SSL/TLS, IPsec, and 802.11i.",
+    "description": "Provides the basics of data networking protocols and architectures. Topics include protocol architecture of the internet; application protocols such as FTP, SMTP and HTTP, web caching, DNS, CDNs, and P2P applications; use of TCP and UDP socket programming to develop network applications in Python; transport protocols, including TCP, UDP, and TCP congestion control; IP protocol, addressing, IPv4 and v6, NATs, ICMP, and tunnels; routing algorithms and OSPF; data link protocols, encoding, framing, error control, and PPP; switched LANs, ARP, Ethernet, and VLANs; wireless LANs and 802.11 protocols; and network security&#8212;encryption, message integrity, authentication protocols, key management, SSL/TLS, IPsec, and 802.11i.",
     "coreqs": [{ "subject": "TELE", "number": "5331" }],
     "prereqs": []
   },
@@ -43,7 +43,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13577" }],
-    "description": "Provides in-depth treatment of the wireline and wireless infrastructure of the network supporting all telecommunication, internet, and enterprise applications. Covers the basics of communications&amp;#8212;source coding, baseband and broadband modulation and transmission, channel coding, spread-spectrum, multiuser radio communications, radio link analysis, and propagation. Also covers the wireline core network&amp;#8212;digital and optical transmission, framing, network synchronization, asynchronous and synchronous multiplexing, cross connects, SONET/SDH, DWDM, OTN, protection switching, and network availability. Addresses wireline (DSL, digital cable, FTTx, PONs) and wireless access (cellular, Wi-Fi), frequency reuse, and handoff. Also addresses support of data transport (switched Ethernet, VLAN, IP, MPLS) and application networks (PSTN, mobile core, internet, IPTV, and virtual networks).",
+    "description": "Provides in-depth treatment of the wireline and wireless infrastructure of the network supporting all telecommunication, internet, and enterprise applications. Covers the basics of communications&#8212;source coding, baseband and broadband modulation and transmission, channel coding, spread-spectrum, multiuser radio communications, radio link analysis, and propagation. Also covers the wireline core network&#8212;digital and optical transmission, framing, network synchronization, asynchronous and synchronous multiplexing, cross connects, SONET/SDH, DWDM, OTN, protection switching, and network availability. Addresses wireline (DSL, digital cable, FTTx, PONs) and wireless access (cellular, Wi-Fi), frequency reuse, and handoff. Also addresses support of data transport (switched Ethernet, VLAN, IP, MPLS) and application networks (PSTN, mobile core, internet, IPTV, and virtual networks).",
     "coreqs": [],
     "prereqs": []
   },
@@ -117,7 +117,7 @@
       { "term": "202310", "crn": "16938" },
       { "term": "202310", "crn": "19104" }
     ],
-    "description": "Offers an in-depth, software-intensive exploration of the Internet of Things (IoT)&mdash;from device to cloud&mdash;culminating in a semester-long project where each student designs, builds, and presents an end-to-end, integrated IoT solution. Covers IoT concepts and architectures, and incorporates significant software development activities through weekly modules. Includes testing, DevOps, and messaging protocols specific to the IoT; device integration; and cloud services designed for IoT ecosystems.",
+    "description": "Offers an in-depth, software-intensive exploration of the Internet of Things (IoT)—from device to cloud—culminating in a semester-long project where each student designs, builds, and presents an end-to-end, integrated IoT solution. Covers IoT concepts and architectures, and incorporates significant software development activities through weekly modules. Includes testing, DevOps, and messaging protocols specific to the IoT; device integration; and cloud services designed for IoT ecosystems.",
     "coreqs": [],
     "prereqs": [
       { "subject": "CSYE", "number": "6200" },

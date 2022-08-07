@@ -60,7 +60,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20846" }],
-    "description": "Introduces graduate students to the Bouv&amp;#233; Cooperative Education Program and offers an opportunity to develop job-search and career-management skills. Students perform assessments of their workplace skills, interests, and values and discuss how they impact personal career decisions. Offers students an opportunity to prepare a professional-style r&amp;#233;sum&amp;#233;, learn proper interviewing techniques, and gain an understanding of the opportunities available to them for co-op. Introduces career paths, choices, and career decision making. Seeks to familiarize students with workplace issues relative to their field of study and to teach them to use myNEU COOL database in the job-search and referral process. Presents and discusses co-op policies, procedures, and expectations of the Bouv&amp;#233; Cooperative Education Program and co-op employers.",
+    "description": "Introduces graduate students to the Bouv&#233; Cooperative Education Program and offers an opportunity to develop job-search and career-management skills. Students perform assessments of their workplace skills, interests, and values and discuss how they impact personal career decisions. Offers students an opportunity to prepare a professional-style r&#233;sum&#233;, learn proper interviewing techniques, and gain an understanding of the opportunities available to them for co-op. Introduces career paths, choices, and career decision making. Seeks to familiarize students with workplace issues relative to their field of study and to teach them to use myNEU COOL database in the job-search and referral process. Presents and discusses co-op policies, procedures, and expectations of the Bouv&#233; Cooperative Education Program and co-op employers.",
     "coreqs": [],
     "prereqs": []
   },
@@ -100,7 +100,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202240", "crn": "41053" }],
-    "description": "Covers three broad areas&amp;#8212;motor control, motor development, and motor learning. Examines neural, behavioral, and physical mechanisms that contribute to the control of movement in humans. Focuses on motor control in healthy persons, with some discussion of alterations associated with musculoskeletal and neural impairment. Addresses motor development and maturation from intrauterine life through old age (senescence). Considers the interaction of body-system development and growth on acquisition of and changes in typical skill development. Examines factors that influence the learning of new motor skills (motor learning) as a result of practice.",
+    "description": "Covers three broad areas&#8212;motor control, motor development, and motor learning. Examines neural, behavioral, and physical mechanisms that contribute to the control of movement in humans. Focuses on motor control in healthy persons, with some discussion of alterations associated with musculoskeletal and neural impairment. Addresses motor development and maturation from intrauterine life through old age (senescence). Considers the interaction of body-system development and growth on acquisition of and changes in typical skill development. Examines factors that influence the learning of new motor skills (motor learning) as a result of practice.",
     "coreqs": [{ "subject": "PT", "number": "5151" }],
     "prereqs": [
       { "subject": "PT", "number": "6340" },
@@ -138,7 +138,7 @@
       { "term": "202260", "crn": "60565" },
       { "term": "202260", "crn": "60930" }
     ],
-    "description": "Examines interpersonal relationships among patients, families, health professionals, and society, with reference to the impact of and reaction to illness and disability. Identifies personal and societal beliefs, values, and attitudes that affect the role of people with illness or disabilities in our culture and the healthcare system; how patients&amp;#8217; beliefs, values, and experiences affect their expectations and interactions with healthcare professionals; and how beliefs, values, and experiences shape professional development and affect relationships with patients.",
+    "description": "Examines interpersonal relationships among patients, families, health professionals, and society, with reference to the impact of and reaction to illness and disability. Identifies personal and societal beliefs, values, and attitudes that affect the role of people with illness or disabilities in our culture and the healthcare system; how patients' beliefs, values, and experiences affect their expectations and interactions with healthcare professionals; and how beliefs, values, and experiences shape professional development and affect relationships with patients.",
     "coreqs": [],
     "prereqs": []
   },
@@ -293,7 +293,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [{ "term": "202260", "crn": "60166" }],
-    "description": "Designed to prepare physical therapy students to integrate previous courses taught in the curriculum to safely manage patients in the acute-care setting, including the intensive-care unit, the critical-care unit, and step-down settings. Uses a combination of lecture, instruction in the simulation center, and standardized patient interactions. Follows the &amp;#8220;Guide to Physical Therapy Practice for Evaluation and Intervention&amp;#8221; in these settings. Offers students an opportunity to learn to perform an examination; to evaluate examination data to formulate a plan of care; to provide interventions; to determine a discharge plan for individuals in the acute-care environment; and to demonstrate core professional values in classroom, recitation, and standardized patient interactions.",
+    "description": "Designed to prepare physical therapy students to integrate previous courses taught in the curriculum to safely manage patients in the acute-care setting, including the intensive-care unit, the critical-care unit, and step-down settings. Uses a combination of lecture, instruction in the simulation center, and standardized patient interactions. Follows the &#8220;Guide to Physical Therapy Practice for Evaluation and Intervention&#8221; in these settings. Offers students an opportunity to learn to perform an examination; to evaluate examination data to formulate a plan of care; to provide interventions; to determine a discharge plan for individuals in the acute-care environment; and to demonstrate core professional values in classroom, recitation, and standardized patient interactions.",
     "coreqs": [],
     "prereqs": [
       "(",
@@ -571,7 +571,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "15117" }],
-    "description": "Designed to educate the learner on how to apply, interpret, and perform introductory physical therapy tests and measures and therapeutic activity and exercise interventions. The tests and measures are components of the physical therapist examination process and examine human movement; and the introductory therapeutic activities and exercises are those that would be selected for treatment after those specific examination techniques. Provides an introductory framework to the patient/client professional relationship. Emphasizes the development of the learner&#39;s affective, psychomotor, and cognitive skills necessary to assure proper patient/client examination and intervention in the clinical environment.",
+    "description": "Designed to educate the learner on how to apply, interpret, and perform introductory physical therapy tests and measures and therapeutic activity and exercise interventions. The tests and measures are components of the physical therapist examination process and examine human movement; and the introductory therapeutic activities and exercises are those that would be selected for treatment after those specific examination techniques. Provides an introductory framework to the patient/client professional relationship. Emphasizes the development of the learner's affective, psychomotor, and cognitive skills necessary to assure proper patient/client examination and intervention in the clinical environment.",
     "coreqs": [{ "subject": "PT", "number": "6351" }],
     "prereqs": [
       "(",

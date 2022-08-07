@@ -16,7 +16,7 @@
       { "term": "202310", "crn": "19397" },
       { "term": "202310", "crn": "19398" }
     ],
-    "description": "Provides an introduction to the University, college, and health professions to enhance students&amp;#8217; understanding of self and the decisions they make academically and socially as members of the University&amp;#8217;s diverse, multicultural community. Group activities and individual assignments along with active participation in a learning community help students adjust to life on an urban campus, develop a better understanding of the learning process, acquire essential academic skills, and make connections with the faculty and students in the college.",
+    "description": "Provides an introduction to the University, college, and health professions to enhance students' understanding of self and the decisions they make academically and socially as members of the University's diverse, multicultural community. Group activities and individual assignments along with active participation in a learning community help students adjust to life on an urban campus, develop a better understanding of the learning process, acquire essential academic skills, and make connections with the faculty and students in the college.",
     "coreqs": [],
     "prereqs": []
   },
@@ -34,7 +34,7 @@
       { "term": "202260", "crn": "61260" },
       { "term": "202240", "crn": "40956" }
     ],
-    "description": "Examines the fundamental role of nutrition in promoting health and how lifestyle and the socioecological model work together. Covers the physiological functions of energy-providing nutrients in the body and interrelationships, including the key functions of macronutrients and micronutrients. Introduces the use of two different diet assessment tools to assist individuals in selecting food for health promotion. Offers students an opportunity to gain a deeper understanding of what it means to make healthy choices and the role nutrients have on a person&rsquo;s wellness.",
+    "description": "Examines the fundamental role of nutrition in promoting health and how lifestyle and the socioecological model work together. Covers the physiological functions of energy-providing nutrients in the body and interrelationships, including the key functions of macronutrients and micronutrients. Introduces the use of two different diet assessment tools to assist individuals in selecting food for health promotion. Offers students an opportunity to gain a deeper understanding of what it means to make healthy choices and the role nutrients have on a person’s wellness.",
     "coreqs": [],
     "prereqs": [
       { "subject": "BIOL", "number": "1107" },
@@ -89,7 +89,7 @@
       { "term": "202310", "crn": "19401" },
       { "term": "202310", "crn": "19402" }
     ],
-    "description": "Introduces students to the Bouv&amp;#233; Cooperative Education Program and provides them with the opportunity to develop job-search and career-management skills. Offers students an opportunity to perform assessments of their workplace skills, interests, and values and discuss how they impact personal career decisions. Students also have an opportunity to prepare a professional-style r&amp;#233;sum&amp;#233;, learn proper interviewing techniques, and gain an understanding of the opportunities available to them for co-op. Introduces career paths, choices, and career decision making. Familiarizes students with workplace issues relative to their field of study and teaches them to use myNEUCOOL database in the job-search and referral process. Presents and discusses co-op policies, procedures, and expectations of the Bouv&amp;#233; Cooperative Education Program and co-op employers.",
+    "description": "Introduces students to the Bouv&#233; Cooperative Education Program and provides them with the opportunity to develop job-search and career-management skills. Offers students an opportunity to perform assessments of their workplace skills, interests, and values and discuss how they impact personal career decisions. Students also have an opportunity to prepare a professional-style r&#233;sum&#233;, learn proper interviewing techniques, and gain an understanding of the opportunities available to them for co-op. Introduces career paths, choices, and career decision making. Familiarizes students with workplace issues relative to their field of study and teaches them to use myNEUCOOL database in the job-search and referral process. Presents and discusses co-op policies, procedures, and expectations of the Bouv&#233; Cooperative Education Program and co-op employers.",
     "coreqs": [],
     "prereqs": []
   },
@@ -128,7 +128,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [{ "term": "202310", "crn": "19828" }],
-    "description": "Interdisciplinary Seminar on Rural Health: This seminar addresses current issues in rural health, utilizing Maine, the nation&rsquo;s most rural state, as a case example. The seminar will focus on interdisciplinary approaches which identify rural health issues, address root causes of diseases, and develop sustainable policy and programmatic interventions to improve health outcomes of individuals, families and communities in rural areas.  Topics addressed will include models of rural health care delivery, rural public health practices, rural public policy and health reform, the role of health technologies in rural practice, and health issues faced by vulnerable rural populations (including immigrants and migrant workers). The overall goal of this course is to critically analyze the complex contextual factors that must be addressed to sustainably improve health outcomes in rural settings.  This course is open to all students, regardless of major or year.",
+    "description": "Interdisciplinary Seminar on Rural Health: This seminar addresses current issues in rural health, utilizing Maine, the nation’s most rural state, as a case example. The seminar will focus on interdisciplinary approaches which identify rural health issues, address root causes of diseases, and develop sustainable policy and programmatic interventions to improve health outcomes of individuals, families and communities in rural areas.  Topics addressed will include models of rural health care delivery, rural public health practices, rural public policy and health reform, the role of health technologies in rural practice, and health issues faced by vulnerable rural populations (including immigrants and migrant workers). The overall goal of this course is to critically analyze the complex contextual factors that must be addressed to sustainably improve health outcomes in rural settings.  This course is open to all students, regardless of major or year.",
     "coreqs": [],
     "prereqs": []
   },

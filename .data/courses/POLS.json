@@ -96,7 +96,7 @@
       { "term": "202260", "crn": "60606" },
       { "term": "202240", "crn": "40467" }
     ],
-    "description": "Examines the philosophers of classical Greece, primarily Socrates, Plato, and Aristotle. These philosophers examined the nature of the material world, of the city, and of the person. The course takes up both the moral and political writings as well as the metaphysical writings. Devotes considerable attention to major works such as Plato&amp;#8217;s &lt;i&gt;Republic.&lt;/i&gt; Some time is given to early Greek philosophers, to the Sophists, and to later developments. Requires written analysis of philosophical texts. PHIL 2325 and POLS 2325 are cross-listed.",
+    "description": "Examines the philosophers of classical Greece, primarily Socrates, Plato, and Aristotle. These philosophers examined the nature of the material world, of the city, and of the person. The course takes up both the moral and political writings as well as the metaphysical writings. Devotes considerable attention to major works such as Plato's <i>Republic.</i> Some time is given to early Greek philosophers, to the Sophists, and to later developments. Requires written analysis of philosophical texts. PHIL 2325 and POLS 2325 are cross-listed.",
     "coreqs": [],
     "prereqs": []
   },
@@ -108,7 +108,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13024" }],
-    "description": "Introduces students to a range of authors who are considered to be most influential in shaping Western political thought and who remain highly relevant in informing contemporary political debate. Offers students an opportunity to think critically about some of the fundamental questions pertaining to political practice&amp;#8212;the nature of ideas, institutions, and processes and how to understand and evaluate them.",
+    "description": "Introduces students to a range of authors who are considered to be most influential in shaping Western political thought and who remain highly relevant in informing contemporary political debate. Offers students an opportunity to think critically about some of the fundamental questions pertaining to political practice&#8212;the nature of ideas, institutions, and processes and how to understand and evaluate them.",
     "coreqs": [],
     "prereqs": []
   },
@@ -201,7 +201,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [{ "term": "202310", "crn": "19524" }],
-    "description": "Introduces key issues, themes, and debates in feminist transnational theory, practice, and activism in contemporary contexts and how it has changed under socioeconomic, political, and cultural processes of globalization. Examines differences among women relating to race, class, sexuality, national identity, and political economy in reckoning with possibilities for sustainable social justice. Students interrogate the relationship between the local and global; the production of knowledge in different regional spaces; the pragmatics of political mobilization; the varying contours of &amp;#8220;social justice&amp;#8221;; and other key issues. Offers students an opportunity to discuss the impact of globalization, neoliberalism, and state and intimate violence on gendered politics and relations and to contend with the politics of difference, to debate its challenges, and to imagine possible futures for transnational gender justice.",
+    "description": "Introduces key issues, themes, and debates in feminist transnational theory, practice, and activism in contemporary contexts and how it has changed under socioeconomic, political, and cultural processes of globalization. Examines differences among women relating to race, class, sexuality, national identity, and political economy in reckoning with possibilities for sustainable social justice. Students interrogate the relationship between the local and global; the production of knowledge in different regional spaces; the pragmatics of political mobilization; the varying contours of &#8220;social justice&#8221;; and other key issues. Offers students an opportunity to discuss the impact of globalization, neoliberalism, and state and intimate violence on gendered politics and relations and to contend with the politics of difference, to debate its challenges, and to imagine possible futures for transnational gender justice.",
     "coreqs": [],
     "prereqs": []
   },
@@ -225,7 +225,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16488" }],
-    "description": "Explores the structures, dynamics, and styles inherent in public policymaking within the U.S. Congress. Focuses on elections; representations of constituents&amp;#8217; interests; the roles that participants play: the president, interest groups, and others; and how all of this is affected by the structure of Congress and the process embedded in the legislative body.",
+    "description": "Explores the structures, dynamics, and styles inherent in public policymaking within the U.S. Congress. Focuses on elections; representations of constituents' interests; the roles that participants play: the president, interest groups, and others; and how all of this is affected by the structure of Congress and the process embedded in the legislative body.",
     "coreqs": [],
     "prereqs": []
   },
@@ -303,7 +303,7 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [{ "term": "202310", "crn": "19557" }],
-    "description": "Explores contending theories of identity and nationalism&mdash;a powerful force in international and domestic politics. Examines topics such as the process of identity creation, the choice of national symbols, how group boundaries are established, the role of identity in conflict and state building, and the debate over nationalism&rsquo;s constructed or primordial nature. POLS 3418 and CLTR 3418 are cross-listed.",
+    "description": "Explores contending theories of identity and nationalism—a powerful force in international and domestic politics. Examines topics such as the process of identity creation, the choice of national symbols, how group boundaries are established, the role of identity in conflict and state building, and the debate over nationalism’s constructed or primordial nature. POLS 3418 and CLTR 3418 are cross-listed.",
     "coreqs": [],
     "prereqs": [
       { "subject": "POLS", "number": "1155" },
@@ -537,7 +537,7 @@
       { "term": "202310", "crn": "20686" },
       { "term": "202260", "crn": "61481" }
     ],
-    "description": "Offers students an opportunity to complete a specialized research or applied project in political science or security studies as part of the master&rsquo;s degree. Designed to meet the specific learning and research interests of the student. Learning experience is based on activities that meet agreed-upon benchmarks with the instructor and may involve activities with government or nongovernment organizations.",
+    "description": "Offers students an opportunity to complete a specialized research or applied project in political science or security studies as part of the master’s degree. Designed to meet the specific learning and research interests of the student. Learning experience is based on activities that meet agreed-upon benchmarks with the instructor and may involve activities with government or nongovernment organizations.",
     "coreqs": [],
     "prereqs": []
   },

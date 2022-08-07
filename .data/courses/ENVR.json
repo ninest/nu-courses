@@ -10,7 +10,7 @@
       { "term": "202310", "crn": "15486" },
       { "term": "202310", "crn": "20412" }
     ],
-    "description": "Focuses on the complex array of topics that collectively form the discipline of environmental science. Emphasizes the problems facing today&amp;#8217;s natural, human-managed, and coupled human/natural ecosystems and the solutions to those problems. Studies the human dimensions of environmental science, including culture, politics, worldviews, ethics, and economics, particularly within the context of global climate change. Offers students an opportunity to learn to analyze data as a means of exploring relationships among societal and ecological drivers affecting economic, ecological, and socioeconomic stability; to learn how the scientific method is used to separate fact and data from opinion; and to apply these methods to explore the causes and solutions to global climate change.",
+    "description": "Focuses on the complex array of topics that collectively form the discipline of environmental science. Emphasizes the problems facing today's natural, human-managed, and coupled human/natural ecosystems and the solutions to those problems. Studies the human dimensions of environmental science, including culture, politics, worldviews, ethics, and economics, particularly within the context of global climate change. Offers students an opportunity to learn to analyze data as a means of exploring relationships among societal and ecological drivers affecting economic, ecological, and socioeconomic stability; to learn how the scientific method is used to separate fact and data from opinion; and to apply these methods to explore the causes and solutions to global climate change.",
     "coreqs": [],
     "prereqs": []
   },
@@ -25,7 +25,7 @@
       { "term": "202310", "crn": "19345" },
       { "term": "202310", "crn": "20731" }
     ],
-    "description": "Analyzes Earth&amp;#8217;s modern climate system and natural climate change over Earth&amp;#8217;s 4.5-billion-year history. Examines ongoing and future climate change. Includes expected impacts of the predicted climate changes as well as mitigation and adaptation options.",
+    "description": "Analyzes Earth's modern climate system and natural climate change over Earth's 4.5-billion-year history. Examines ongoing and future climate change. Includes expected impacts of the predicted climate changes as well as mitigation and adaptation options.",
     "coreqs": [],
     "prereqs": []
   },
@@ -65,7 +65,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [{ "term": "202310", "crn": "14579" }],
-    "description": "Presents a series of lectures and case studies focused on the problems facing today&rsquo;s natural, human-managed, and coupled human/natural ecosystems. Integrates the underlying science with the human dimensions of environmental challenges. These include an understanding of the basic chemistry, physics, and ecology of environmental change and how this science is informed and altered by culture, politics, worldviews, ethics, and economics. Examines quantitative techniques to analyze data as a means of exploring relationships among societal and ecological drivers affecting economic, ecological, and socioeconomic stability. Studies how the scientific method is used to separate facts and data from opinion and applies these methods to explore the causes and solutions to global climate change and other environmental challenges.",
+    "description": "Presents a series of lectures and case studies focused on the problems facing today’s natural, human-managed, and coupled human/natural ecosystems. Integrates the underlying science with the human dimensions of environmental challenges. These include an understanding of the basic chemistry, physics, and ecology of environmental change and how this science is informed and altered by culture, politics, worldviews, ethics, and economics. Examines quantitative techniques to analyze data as a means of exploring relationships among societal and ecological drivers affecting economic, ecological, and socioeconomic stability. Studies how the scientific method is used to separate facts and data from opinion and applies these methods to explore the causes and solutions to global climate change and other environmental challenges.",
     "coreqs": [{ "number": "1401" }],
     "prereqs": []
   },
@@ -97,7 +97,7 @@
       { "term": "202310", "crn": "19349" },
       { "term": "202310", "crn": "20413" }
     ],
-    "description": "Introduces the fundamental concepts in the fields of environmental, social, and biological science. Studies the expertise needed in each discipline to organize and manage data in sustainability science. The first half of the course covers data collection relevant to pressing issues in sustainability, database organization, coding, and finding errors in data sets. The second half of the course covers basic principles in the statistical analysis of data sets used in conservation and sustainability, including simulating data, machine learning, and errors in analysis. Offers hands-on experience through students&#39; own data collection projects. Appropriate for students interested in biology, marine biology, environmental science, and ecology and evolutionary biology. Designed to prepare students for co-ops and upper-level classes in these fields.",
+    "description": "Introduces the fundamental concepts in the fields of environmental, social, and biological science. Studies the expertise needed in each discipline to organize and manage data in sustainability science. The first half of the course covers data collection relevant to pressing issues in sustainability, database organization, coding, and finding errors in data sets. The second half of the course covers basic principles in the statistical analysis of data sets used in conservation and sustainability, including simulating data, machine learning, and errors in analysis. Offers hands-on experience through students' own data collection projects. Appropriate for students interested in biology, marine biology, environmental science, and ecology and evolutionary biology. Designed to prepare students for co-ops and upper-level classes in these fields.",
     "coreqs": [{ "number": "1501" }],
     "prereqs": []
   },
@@ -127,7 +127,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [{ "term": "202310", "crn": "20734" }],
-    "description": "Introduces the biological, chemical, and physical interactions that shape our environment and how industrial emission of gases and black carbon, the use of fertilizers and plastics, and the expansion of cities are altering Earth&rsquo;s systems at rates unprecedented in the recent geological record. Offers students an opportunity to build a fundamental understanding of major issues in environmental science, including climate change, eutrophication, loss of biodiversity, and urbanization. Considers how we might build a more sustainable future.",
+    "description": "Introduces the biological, chemical, and physical interactions that shape our environment and how industrial emission of gases and black carbon, the use of fertilizers and plastics, and the expansion of cities are altering Earth’s systems at rates unprecedented in the recent geological record. Offers students an opportunity to build a fundamental understanding of major issues in environmental science, including climate change, eutrophication, loss of biodiversity, and urbanization. Considers how we might build a more sustainable future.",
     "coreqs": [],
     "prereqs": []
   },
@@ -258,7 +258,7 @@
     "credits": 4,
     "nuPath": ["ND", "WI"],
     "sections": [{ "term": "202310", "crn": "20755" }],
-    "description": "Discusses the science of sustainable agriculture, fisheries, and aquaculture. Examines the issues related to nutrition and hunger, food safety, and food production in the face of a changing climate with a scientific lens. Using the FAO Global Food Security and Strategy document and other peer-reviewed literature, compares the food issues in the United States with those in the developing world, including sub-Saharan Africa and Southeast Asia. Explores the many issues related to food production and environmental sustainability&amp;#8212;including fertilizer use, GMOs, and pollution&amp;#8212;and local examples of sustainable food production. Discusses the ways in which we can potentially remedy many of the issues involved in providing food for more than 7 billion people worldwide.",
+    "description": "Discusses the science of sustainable agriculture, fisheries, and aquaculture. Examines the issues related to nutrition and hunger, food safety, and food production in the face of a changing climate with a scientific lens. Using the FAO Global Food Security and Strategy document and other peer-reviewed literature, compares the food issues in the United States with those in the developing world, including sub-Saharan Africa and Southeast Asia. Explores the many issues related to food production and environmental sustainability&#8212;including fertilizer use, GMOs, and pollution&#8212;and local examples of sustainable food production. Discusses the ways in which we can potentially remedy many of the issues involved in providing food for more than 7 billion people worldwide.",
     "coreqs": [],
     "prereqs": []
   },
@@ -273,7 +273,7 @@
       { "term": "202310", "crn": "19357" },
       { "term": "202310", "crn": "20756" }
     ],
-    "description": "Offers students who wish to work in the area of water resources an opportunity to understand the issues related to water&amp;#8217;s availability and behavior at the Earth&amp;#8217;s surface. Topics covered include (1) the hydrologic cycle, including global and regional patterns of water movement; (2) characteristics of surface and groundwater systems, including the linkage between streams, rivers, lakes, wetlands, groundwater, and the sea; (3) water management issues and regulations that have been enacted to control the use of water as a resource; (4) water quality measures for surface water and groundwater; and (5) examples of water use conflicts and emerging water issues. Case studies include examples from California, New England, New York, the southwestern United States, China, Africa, and the Middle East.",
+    "description": "Offers students who wish to work in the area of water resources an opportunity to understand the issues related to water's availability and behavior at the Earth's surface. Topics covered include (1) the hydrologic cycle, including global and regional patterns of water movement; (2) characteristics of surface and groundwater systems, including the linkage between streams, rivers, lakes, wetlands, groundwater, and the sea; (3) water management issues and regulations that have been enacted to control the use of water as a resource; (4) water quality measures for surface water and groundwater; and (5) examples of water use conflicts and emerging water issues. Case studies include examples from California, New England, New York, the southwestern United States, China, Africa, and the Middle East.",
     "coreqs": [],
     "prereqs": []
   },
@@ -313,7 +313,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19359" }],
-    "description": "Presents an integrated overview of biological, chemical, physical, and geological processes operating in the world&#39;s oceans. Emphasizes understanding the fragility and resilience of marine systems in the face of human-driven perturbations such as habitat fragmentation, elevated sea surface temperature and acidification, non-native species, nonsustainable fishing and aquaculture, and coastal land use. Offers students an opportunity to prepare for further course work in both marine biology and in earth, oceans, and environmental change.",
+    "description": "Presents an integrated overview of biological, chemical, physical, and geological processes operating in the world's oceans. Emphasizes understanding the fragility and resilience of marine systems in the face of human-driven perturbations such as habitat fragmentation, elevated sea surface temperature and acidification, non-native species, nonsustainable fishing and aquaculture, and coastal land use. Offers students an opportunity to prepare for further course work in both marine biology and in earth, oceans, and environmental change.",
     "coreqs": [],
     "prereqs": []
   },
@@ -349,7 +349,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19360" }],
-    "description": "Covers professional skills such as writing cover letters, crafting resum&eacute;s, interviewing, creating a biographical sketch, and developing overall confidence by connecting to audiences. Science communication focuses on connecting with nonscientific audiences to convey complex scientific concepts and engaging diverse stakeholders to solve pressing societal problems using scientific approaches. Covers general principles of messaging, based on an understanding of how people learn and make decisions, using techniques such as narrative storytelling, visualizations, and theatrical improvisation and other art forms. Offers students an opportunity to develop tools to highlight their strengths, market their skills, explore potential jobs and career paths, and understand how to best prepare for those positions. Designed to integrate with ENVR 4050.",
+    "description": "Covers professional skills such as writing cover letters, crafting resumés, interviewing, creating a biographical sketch, and developing overall confidence by connecting to audiences. Science communication focuses on connecting with nonscientific audiences to convey complex scientific concepts and engaging diverse stakeholders to solve pressing societal problems using scientific approaches. Covers general principles of messaging, based on an understanding of how people learn and make decisions, using techniques such as narrative storytelling, visualizations, and theatrical improvisation and other art forms. Offers students an opportunity to develop tools to highlight their strengths, market their skills, explore potential jobs and career paths, and understand how to best prepare for those positions. Designed to integrate with ENVR 4050.",
     "coreqs": [],
     "prereqs": []
   },
@@ -416,7 +416,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [{ "term": "202310", "crn": "14896" }],
-    "description": "Examines aspects of surface runoff from geomorphic and hydrologic perspectives. Develops methods for description and calculation of major river and drainage basin processes and applies the results to the planning process. Examines human modification of these systems&amp;#8212;including urbanization, dams, and channelization&amp;#8212;and applies this information to an understanding of regulatory processes. This is a writing-intensive course.",
+    "description": "Examines aspects of surface runoff from geomorphic and hydrologic perspectives. Develops methods for description and calculation of major river and drainage basin processes and applies the results to the planning process. Examines human modification of these systems&#8212;including urbanization, dams, and channelization&#8212;and applies this information to an understanding of regulatory processes. This is a writing-intensive course.",
     "coreqs": [],
     "prereqs": []
   },
@@ -455,7 +455,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [{ "term": "202310", "crn": "19363" }],
-    "description": "Examines the biological, chemical, and physical interactions that shape our global environment. These interactions combine in the global biogeochemical cycles. Industrial emission of gases, use of fertilizers and plastics, and the expansion of cities are altering the biogeochemical cycling of the elements carbon, nitrogen, and phosphorus at rates unprecedented in the geological record. Uses lectures and the latest update to Chapter 6, &ldquo;Carbon and Other Biogeochemical Cycles,&rdquo; of the International Panel on Climate Change report to explore the main interactions between human activity, biogeochemical change, and climate. Discusses primary literature to delve deeper into these interactions.",
+    "description": "Examines the biological, chemical, and physical interactions that shape our global environment. These interactions combine in the global biogeochemical cycles. Industrial emission of gases, use of fertilizers and plastics, and the expansion of cities are altering the biogeochemical cycling of the elements carbon, nitrogen, and phosphorus at rates unprecedented in the geological record. Uses lectures and the latest update to Chapter 6, “Carbon and Other Biogeochemical Cycles,” of the International Panel on Climate Change report to explore the main interactions between human activity, biogeochemical change, and climate. Discusses primary literature to delve deeper into these interactions.",
     "coreqs": [],
     "prereqs": []
   },
@@ -491,7 +491,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20242" }],
-    "description": "Introduces the cooperative education program. Offers students an opportunity to develop job-search and career-management skills; to assess their workplace skills, interests, and values and to discuss how they impact personal career choices; to prepare a professional r&eacute;sum&eacute;; and to learn proper interviewing techniques. Explores career paths, choices, professional behaviors, work culture, and career decision making.",
+    "description": "Introduces the cooperative education program. Offers students an opportunity to develop job-search and career-management skills; to assess their workplace skills, interests, and values and to discuss how they impact personal career choices; to prepare a professional résumé; and to learn proper interviewing techniques. Explores career paths, choices, professional behaviors, work culture, and career decision making.",
     "coreqs": [],
     "prereqs": []
   },
@@ -515,7 +515,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13421" }],
-    "description": "Offers an in-depth overview of statistical methods used to analyze data, with a focus on the biological sciences as well as nonbiological applications. Covers probability theory, Bayes&#39; theorem, hypothesis testing, derivations of statistical distributions, models used for inference with categorical and/or continuous data, linear models, model selection, information theory, and nonparametric methods in statistics. Offers students an opportunity to learn how to apply models to data in supervised lab sessions in the R programming environment.",
+    "description": "Offers an in-depth overview of statistical methods used to analyze data, with a focus on the biological sciences as well as nonbiological applications. Covers probability theory, Bayes' theorem, hypothesis testing, derivations of statistical distributions, models used for inference with categorical and/or continuous data, linear models, model selection, information theory, and nonparametric methods in statistics. Offers students an opportunity to learn how to apply models to data in supervised lab sessions in the R programming environment.",
     "coreqs": [{ "number": "6501" }],
     "prereqs": []
   },

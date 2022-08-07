@@ -118,7 +118,7 @@
       { "term": "202310", "crn": "21017" },
       { "term": "202240", "crn": "41573" }
     ],
-    "description": "Introduces biotechnology students to scientific information management specifically related to the biotechnology field. Covers an introduction to data sciences, its history, and how it is relevant to biotech today. Offers students an opportunity to obtain the background needed to assess and use modern data management capabilities such as &amp;#034;the cloud,&amp;#034; big data, etc. Covers recent developments in origination of data, metadata, data models, data management, and organization and storage of data in biotechnology.",
+    "description": "Introduces biotechnology students to scientific information management specifically related to the biotechnology field. Covers an introduction to data sciences, its history, and how it is relevant to biotech today. Offers students an opportunity to obtain the background needed to assess and use modern data management capabilities such as &#034;the cloud,&#034; big data, etc. Covers recent developments in origination of data, metadata, data models, data management, and organization and storage of data in biotechnology.",
     "coreqs": [],
     "prereqs": []
   },
@@ -323,7 +323,7 @@
       { "term": "202310", "crn": "12080" },
       { "term": "202310", "crn": "13545" }
     ],
-    "description": "Introduces the cooperative education program. Offers students an opportunity to develop job-search and career-management skills; to assess their workplace skills, interests, and values and to discuss how they impact personal career choices; to prepare a professional resum&amp;#233;; and to learn proper interviewing techniques. Explores career paths, choices, professional behaviors, work culture, and career decision making.",
+    "description": "Introduces the cooperative education program. Offers students an opportunity to develop job-search and career-management skills; to assess their workplace skills, interests, and values and to discuss how they impact personal career choices; to prepare a professional resum&#233;; and to learn proper interviewing techniques. Explores career paths, choices, professional behaviors, work culture, and career decision making.",
     "coreqs": [],
     "prereqs": []
   },
@@ -335,7 +335,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16249" }],
-    "description": "Examines the probable weapons of biowarfare&mdash;including biological, chemical, and nuclear weapons&mdash; from several perspectives. Offers fundamental information on the biology and mechanism of action of the most important potential agents of terror and an introduction to the role of government. Topics include biological impact, detection and recognition, epidemiology, and treatment. Evaluates potential dangers and effectiveness and investigates strategies for defense against attacks by such weapons. Discusses the bioethical challenges of anti-bioterror research. Also offers students an opportunity to develop skills in scientific literacy and writing.",
+    "description": "Examines the probable weapons of biowarfare—including biological, chemical, and nuclear weapons— from several perspectives. Offers fundamental information on the biology and mechanism of action of the most important potential agents of terror and an introduction to the role of government. Topics include biological impact, detection and recognition, epidemiology, and treatment. Evaluates potential dangers and effectiveness and investigates strategies for defense against attacks by such weapons. Discusses the bioethical challenges of anti-bioterror research. Also offers students an opportunity to develop skills in scientific literacy and writing.",
     "coreqs": [],
     "prereqs": []
   },

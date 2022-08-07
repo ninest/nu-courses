@@ -83,7 +83,7 @@
       { "term": "202310", "crn": "12400" },
       { "term": "202310", "crn": "20772" }
     ],
-    "description": "Introduces evolutionary thinking, including contemporary examples of evolution. To understand the evolution of Charles Darwin&amp;#8217;s &amp;#8220;endless forms most beautiful,&amp;#8221; the course adopts an integrative approach that includes information from ecology, genetics, molecular biology, biogeography, and paleobiology. Considers mechanisms of evolutionary change&amp;#8212;how does it happen? Examines adaptation, the process by which attributes of an organism change to enhance fitness and the evolutionary history of life on our planet&amp;#8212;what was the first living thing, how does speciation occur, what have we learned about evolution of life in the distant past, and how did humans evolve. Includes student presentations and analysis of scientific literature.",
+    "description": "Introduces evolutionary thinking, including contemporary examples of evolution. To understand the evolution of Charles Darwin's &#8220;endless forms most beautiful,&#8221; the course adopts an integrative approach that includes information from ecology, genetics, molecular biology, biogeography, and paleobiology. Considers mechanisms of evolutionary change&#8212;how does it happen? Examines adaptation, the process by which attributes of an organism change to enhance fitness and the evolutionary history of life on our planet&#8212;what was the first living thing, how does speciation occur, what have we learned about evolution of life in the distant past, and how did humans evolve. Includes student presentations and analysis of scientific literature.",
     "coreqs": [],
     "prereqs": []
   },
@@ -95,7 +95,7 @@
     "credits": 4,
     "nuPath": ["AD", "ND"],
     "sections": [{ "term": "202310", "crn": "19338" }],
-    "description": "Focuses on the foundational principles of ecosystems ecology. Examines the flow of energy and materials through both the biosphere (plants, animals, and microbes) and the geosphere (soils, atmospheres, and oceans) and the role that humans are playing in altering these key fluxes. Studies elemental cycles that are critically important for human and environmental sustainability&amp;#8212;including carbon, nitrogen, and phosphorus&amp;#8212;and examines similarities and differences in these cycles and flows while drawing on examples from both terrestrial and marine systems. Seeks to understand how changes in ecosystem structure ultimately affect ecosystem function and how this translates into the important services ecosystems provide.",
+    "description": "Focuses on the foundational principles of ecosystems ecology. Examines the flow of energy and materials through both the biosphere (plants, animals, and microbes) and the geosphere (soils, atmospheres, and oceans) and the role that humans are playing in altering these key fluxes. Studies elemental cycles that are critically important for human and environmental sustainability&#8212;including carbon, nitrogen, and phosphorus&#8212;and examines similarities and differences in these cycles and flows while drawing on examples from both terrestrial and marine systems. Seeks to understand how changes in ecosystem structure ultimately affect ecosystem function and how this translates into the important services ecosystems provide.",
     "coreqs": [],
     "prereqs": [
       { "subject": "BIOL", "number": "1107" },
@@ -150,7 +150,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16476" }],
-    "description": "Covers the information and tools needed to begin pursuing career opportunities in marine biology. Encourages students to explore a variety of career paths, construct r&amp;#233;sum&amp;#233;s, contact potential employers for their internship and permanent positions. Presents invited speakers from state and federal agencies, and from private consulting firms, to talk about their work and career track.",
+    "description": "Covers the information and tools needed to begin pursuing career opportunities in marine biology. Encourages students to explore a variety of career paths, construct r&#233;sum&#233;s, contact potential employers for their internship and permanent positions. Presents invited speakers from state and federal agencies, and from private consulting firms, to talk about their work and career track.",
     "coreqs": [],
     "prereqs": []
   },
@@ -232,7 +232,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16774" }],
-    "description": "Investigates the major biomes in the northwest Atlantic, including their habitats&mdash;rocky intertidal, tidal estuaries, seagrass beds, kelp forest/rocky reef complex, soft sediments, salt marshes, and continental shelf. Studies the major chemical, physical, geological, and biological forces that shape each habitat. Investigates the ecological framework of each habitat, both in the field and in hands-on exercises. Examines the adaptations of plants, algae, and animals to their respective ecosystem. Offers students an opportunity to develop an appreciation for human-induced changes in each habitat and biome and the conservation and restoration efforts currently being used.",
+    "description": "Investigates the major biomes in the northwest Atlantic, including their habitats—rocky intertidal, tidal estuaries, seagrass beds, kelp forest/rocky reef complex, soft sediments, salt marshes, and continental shelf. Studies the major chemical, physical, geological, and biological forces that shape each habitat. Investigates the ecological framework of each habitat, both in the field and in hands-on exercises. Examines the adaptations of plants, algae, and animals to their respective ecosystem. Offers students an opportunity to develop an appreciation for human-induced changes in each habitat and biome and the conservation and restoration efforts currently being used.",
     "coreqs": [],
     "prereqs": ["(", "Or", "Or", "Or", "Or", ")", "Or", "Graduate Admission"]
   },
@@ -273,7 +273,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20025" }],
-    "description": "Highlights and explores the ecological characteristics and current threats facing four tropical ecosystems&mdash;coral reefs, seagrass beds, mangrove forests, and tropical lowland rain forests. Explores the connectivity between these ecosystems and the services each provides. Examines how these ecosystems have changed under past threats and are projected to change in future conditions. Includes formal lectures, informal lectures provided in the field, field demonstrations, and interpretive hikes.",
+    "description": "Highlights and explores the ecological characteristics and current threats facing four tropical ecosystems—coral reefs, seagrass beds, mangrove forests, and tropical lowland rain forests. Explores the connectivity between these ecosystems and the services each provides. Examines how these ecosystems have changed under past threats and are projected to change in future conditions. Includes formal lectures, informal lectures provided in the field, field demonstrations, and interpretive hikes.",
     "coreqs": [],
     "prereqs": []
   },
@@ -411,7 +411,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "15534" }],
-    "description": "Offers an opportunity to design and implement a scientifically rigorous independent research project that builds upon current knowledge from the primary literature, under the supervision of a faculty advisor from the program. Students conduct research at any of the program&rsquo;s locations and are then required to analyze data using rigorous statistical methods, write a journal-style research paper, and present their results in a research seminar.",
+    "description": "Offers an opportunity to design and implement a scientifically rigorous independent research project that builds upon current knowledge from the primary literature, under the supervision of a faculty advisor from the program. Students conduct research at any of the program’s locations and are then required to analyze data using rigorous statistical methods, write a journal-style research paper, and present their results in a research seminar.",
     "coreqs": [],
     "prereqs": []
   },
@@ -423,7 +423,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19343" }],
-    "description": "Designed to prepare PhD students with a concentration in marine sciences for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student&rsquo;s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
+    "description": "Designed to prepare PhD students with a concentration in marine sciences for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
     "prereqs": []
   },
@@ -435,7 +435,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13872" }],
-    "description": "Designed to prepare PhD students with a concentration in ecology and evolutionary biology for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student&rsquo;s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
+    "description": "Designed to prepare PhD students with a concentration in ecology and evolutionary biology for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
     "prereqs": []
   },
@@ -447,7 +447,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "17314" }],
-    "description": "Designed to prepare PhD students with a concentration in sustainability for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student&rsquo;s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
+    "description": "Designed to prepare PhD students with a concentration in sustainability for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
     "prereqs": []
   },
@@ -459,7 +459,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19344" }],
-    "description": "Designed to prepare PhD students with a concentration in geosciences for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student&rsquo;s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
+    "description": "Designed to prepare PhD students with a concentration in geosciences for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
     "prereqs": []
   },

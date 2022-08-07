@@ -74,7 +74,7 @@
       { "term": "202310", "crn": "13491" },
       { "term": "202310", "crn": "17363" }
     ],
-    "description": "Introduces the basic concepts related to circuits and circuit elements; current, voltage, and power; models for resistors, capacitors, and inductors; and circuit analysis using Kirchhoff&rsquo;s laws. Discusses selected topics that illustrate a variety of applications of electrical engineering, such as AC circuits and electric power, the basics of semiconductor devices with applications to transistor amplifier models, transients in circuits with energy storage, mechanical controls and mechatronics, digital signals, logic circuits, and some basic concepts of computer operations, specifically, number coding, arithmetic operations, and memory circuits.",
+    "description": "Introduces the basic concepts related to circuits and circuit elements; current, voltage, and power; models for resistors, capacitors, and inductors; and circuit analysis using Kirchhoff’s laws. Discusses selected topics that illustrate a variety of applications of electrical engineering, such as AC circuits and electric power, the basics of semiconductor devices with applications to transistor amplifier models, transients in circuits with energy storage, mechanical controls and mechatronics, digital signals, logic circuits, and some basic concepts of computer operations, specifically, number coding, arithmetic operations, and memory circuits.",
     "coreqs": [{ "subject": "EECE", "number": "2211" }],
     "prereqs": []
   },
@@ -223,7 +223,7 @@
       { "term": "202310", "crn": "12219" },
       { "term": "202310", "crn": "19034" }
     ],
-    "description": "Introduces electromagnetics and high-frequency applications. Topics include transmission lines: transmission line model with distributed circuit elements, transmission line equations and solutions, one-dimensional traveling and standing waves, and applications; electromagnetic field theory: Lorentz force equations, Maxwell&rsquo;s equations, Poynting theorem, and application to the transmission line&rsquo;s TEM waves. Also studies uniform plane wave propagation along a coordinate axis and along an arbitrary direction; equivalent transmission lines for TEM, TE, and TM waves; reflection and refraction of uniform plane waves by conducting and dielectric surfaces. Discusses applications to wave guides, resonators, optical fibers, and radiation and elementary antennas. Introduces modern techniques (computational methods) and applications (optics, bioelectromagnetics, and electromagnetic effects in high-speed digital circuits).",
+    "description": "Introduces electromagnetics and high-frequency applications. Topics include transmission lines: transmission line model with distributed circuit elements, transmission line equations and solutions, one-dimensional traveling and standing waves, and applications; electromagnetic field theory: Lorentz force equations, Maxwell’s equations, Poynting theorem, and application to the transmission line’s TEM waves. Also studies uniform plane wave propagation along a coordinate axis and along an arbitrary direction; equivalent transmission lines for TEM, TE, and TM waves; reflection and refraction of uniform plane waves by conducting and dielectric surfaces. Discusses applications to wave guides, resonators, optical fibers, and radiation and elementary antennas. Introduces modern techniques (computational methods) and applications (optics, bioelectromagnetics, and electromagnetic effects in high-speed digital circuits).",
     "coreqs": [{ "subject": "EECE", "number": "2531" }],
     "prereqs": []
   },
@@ -397,7 +397,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14030" }],
-    "description": "Offers an overview of the discipline of software engineering. Identifies the problems that one should expect when developing large software systems; methods that the software developer can use to deal with each of the problems; tools that the software developer can use; and procedures that can be followed in developing software. Covers the software life cycle (requirements analysis and specification, software design, coding, testing, and maintenance); various models of the software process&mdash;structured and agile; the Unified Modeling Language (UML) as applied to the software life cycle, prototyping, and documentation; design patterns; software metrics and estimation; software development environments and tools; and verification and validation. Includes a software development project that covers all the stages of the life cycle.",
+    "description": "Offers an overview of the discipline of software engineering. Identifies the problems that one should expect when developing large software systems; methods that the software developer can use to deal with each of the problems; tools that the software developer can use; and procedures that can be followed in developing software. Covers the software life cycle (requirements analysis and specification, software design, coding, testing, and maintenance); various models of the software process—structured and agile; the Unified Modeling Language (UML) as applied to the software life cycle, prototyping, and documentation; design patterns; software metrics and estimation; software development environments and tools; and verification and validation. Includes a software development project that covers all the stages of the life cycle.",
     "coreqs": [],
     "prereqs": []
   },
@@ -409,7 +409,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12225" }],
-    "description": "Covers the electronics of radio receivers and transmitters. Employs a commercial radio transceiver (MFJ-9340) as a learning tool. Presents basic topics (radio spectrum and its utilization, antennae, and information processing by modulation and demodulation). Studies building block realizations for modulators and demodulators for analog (AM, FM) and digital (ASK, PSK, FSK) radio. Covers common radio receiver architectures. Presents circuit-level designs of radio building blocks (resonators; L-C RF filters; crystals and IF filters; tuned transformers and impedance matching; amplifiers and power amplifiers; RF oscillators; mixers and up/down frequency conversion; signal detectors; and automatic gain control circuits). Includes receiver noise and sensitivity; transmitter range; spurious emissions and IM distortion; antennae and propagation in the atmosphere; wireless standards; multiple-access techniques; and software-defined radio. May include additional topics at instructor&rsquo;s discretion.",
+    "description": "Covers the electronics of radio receivers and transmitters. Employs a commercial radio transceiver (MFJ-9340) as a learning tool. Presents basic topics (radio spectrum and its utilization, antennae, and information processing by modulation and demodulation). Studies building block realizations for modulators and demodulators for analog (AM, FM) and digital (ASK, PSK, FSK) radio. Covers common radio receiver architectures. Presents circuit-level designs of radio building blocks (resonators; L-C RF filters; crystals and IF filters; tuned transformers and impedance matching; amplifiers and power amplifiers; RF oscillators; mixers and up/down frequency conversion; signal detectors; and automatic gain control circuits). Includes receiver noise and sensitivity; transmitter range; spurious emissions and IM distortion; antennae and propagation in the atmosphere; wireless standards; multiple-access techniques; and software-defined radio. May include additional topics at instructor’s discretion.",
     "coreqs": [],
     "prereqs": []
   },
@@ -421,7 +421,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202240", "crn": "41383" }],
-    "description": "Introduces robotics analysis covering basic theory of kinematics, dynamics, and control of robots. Develops students&amp;#8217; design capabilities of microprocessor-based control systems with input from sensory devices and output actuators by having teams of students design and implement a small mobile robot system to complete a specific task, culminating in a competition at the end of the course. Covers actuators, sensors, system modeling, analysis, and motion control of robots.",
+    "description": "Introduces robotics analysis covering basic theory of kinematics, dynamics, and control of robots. Develops students' design capabilities of microprocessor-based control systems with input from sensory devices and output actuators by having teams of students design and implement a small mobile robot system to complete a specific task, culminating in a competition at the end of the course. Covers actuators, sensors, system modeling, analysis, and motion control of robots.",
     "coreqs": [],
     "prereqs": []
   },
@@ -802,7 +802,7 @@
       { "term": "202310", "crn": "11518" },
       { "term": "202310", "crn": "16954" }
     ],
-    "description": "Examines the fundamental equations, their physical meaning, principal mathematical techniques, and important engineering applications. Topics include sources of the electromagnetic field, Lorentz force equation, integral form of Maxwell&amp;#8217;s equations and point relations (differential equations and boundary conditions), electromagnetic energy and power, propagation of uniform and nonuniform plane waves in homogeneous media, reflection and refraction, scalar and vector potentials, solutions in the absence of boundaries for static and dynamic problems, solutions to boundary value problems, duality, uniqueness, images, physical theory of diffraction, and general theory of metal and dielectric wave-guides and resonators for Cartesian and cylindrical systems.",
+    "description": "Examines the fundamental equations, their physical meaning, principal mathematical techniques, and important engineering applications. Topics include sources of the electromagnetic field, Lorentz force equation, integral form of Maxwell's equations and point relations (differential equations and boundary conditions), electromagnetic energy and power, propagation of uniform and nonuniform plane waves in homogeneous media, reflection and refraction, scalar and vector potentials, solutions in the absence of boundaries for static and dynamic problems, solutions to boundary value problems, duality, uniqueness, images, physical theory of diffraction, and general theory of metal and dielectric wave-guides and resonators for Cartesian and cylindrical systems.",
     "coreqs": [],
     "prereqs": []
   },
@@ -814,7 +814,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16350" }],
-    "description": "Comprises the theory of functions of a complex variable. Covers Cauchy&amp;#8217;s integral and related theorems, Taylor and Laurent series, analytic continuation, and multivalued functions. Considers special functions of mathematical physics using generating functions, Taylor and Laurent expansions, and various integral representations. Reviews applications of complex variable theory drawn from optics and electromagnetic theory and from digital signal processing and digital communications. Focuses on the theory of ordinary and partial differential equations of mathematical physics. Develops series solutions of ordinary differential equations of second order using the tools of complex variable theory. Covers Sturm-Liouville theory and uses it to develop eigen function and Green function solutions of homogeneous and inhomogeneous partial differential equations. Requires knowledge of undergraduate advanced calculus.",
+    "description": "Comprises the theory of functions of a complex variable. Covers Cauchy's integral and related theorems, Taylor and Laurent series, analytic continuation, and multivalued functions. Considers special functions of mathematical physics using generating functions, Taylor and Laurent expansions, and various integral representations. Reviews applications of complex variable theory drawn from optics and electromagnetic theory and from digital signal processing and digital communications. Focuses on the theory of ordinary and partial differential equations of mathematical physics. Develops series solutions of ordinary differential equations of second order using the tools of complex variable theory. Covers Sturm-Liouville theory and uses it to develop eigen function and Green function solutions of homogeneous and inhomogeneous partial differential equations. Requires knowledge of undergraduate advanced calculus.",
     "coreqs": [],
     "prereqs": []
   },
@@ -976,7 +976,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19047" }],
-    "description": "Covers magnetism and magnetic materials, their applications in different industries, magnetic devices, and the frontiers of research activities on magnetism and magnetic materials. Topics include magnetics units, magnetic materials classification, origin of ferromagnetism and ferrimagnetism, magnetic anisotropies, magnetostriction, magnetic domain theory, ferromagnetic/ferrimagnetic resonance, soft magnetic materials, hard magnetic materials, applications of magnetic materials, information storage, and leading-edge research. Includes lectures on different magnetic sensors&amp;#8212;including AMR, GMR, TMR, fluxgate, magnetoelectric sensors, etc.&amp;#8212;and on microwave magnetic devices&amp;#8212;including tunable filters, phase shifters, isolators, circulators, etc.",
+    "description": "Covers magnetism and magnetic materials, their applications in different industries, magnetic devices, and the frontiers of research activities on magnetism and magnetic materials. Topics include magnetics units, magnetic materials classification, origin of ferromagnetism and ferrimagnetism, magnetic anisotropies, magnetostriction, magnetic domain theory, ferromagnetic/ferrimagnetic resonance, soft magnetic materials, hard magnetic materials, applications of magnetic materials, information storage, and leading-edge research. Includes lectures on different magnetic sensors&#8212;including AMR, GMR, TMR, fluxgate, magnetoelectric sensors, etc.&#8212;and on microwave magnetic devices&#8212;including tunable filters, phase shifters, isolators, circulators, etc.",
     "coreqs": [],
     "prereqs": []
   },
@@ -991,7 +991,7 @@
       { "term": "202310", "crn": "19048" },
       { "term": "202310", "crn": "19049" }
     ],
-    "description": "Discusses basic properties of entropy and mutual information, Shannon&amp;#8217;s fundamental theorems on data compression and data transmission in the single-user case, binning, and covering lemmas. Topics include rate distortion theory, feedback in one-way channels, Slepian-Wolf coding of correlated information sources, source coding with side information at the receiver, multiple access channel and its capacity region, and the capacity region of the Gaussian multiple access channel. Also covers broadcast channels, superposition coding, and the capacity region of the degraded broadcast channel; performance and comparison of TDMA, FDMA, and CDMA systems from a theoretical point of view; capacity issues for time-varying channels and channels with memory; relation between information theory and statistics; Stein&amp;#8217;s lemma; and large deviation theory.",
+    "description": "Discusses basic properties of entropy and mutual information, Shannon's fundamental theorems on data compression and data transmission in the single-user case, binning, and covering lemmas. Topics include rate distortion theory, feedback in one-way channels, Slepian-Wolf coding of correlated information sources, source coding with side information at the receiver, multiple access channel and its capacity region, and the capacity region of the Gaussian multiple access channel. Also covers broadcast channels, superposition coding, and the capacity region of the degraded broadcast channel; performance and comparison of TDMA, FDMA, and CDMA systems from a theoretical point of view; capacity issues for time-varying channels and channels with memory; relation between information theory and statistics; Stein's lemma; and large deviation theory.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1116,7 +1116,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "17438" }],
-    "description": "Offers students an opportunity to develop and present a plan for the demonstration of a marketable technology product or prototype with an electrical engineering focus. Constitutes the first half of a thesis-scale project in technology commercialization. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact, while enhancing the student&rsquo;s technological and engineering depth and fostering the student&rsquo;s leadership development.",
+    "description": "Offers students an opportunity to develop and present a plan for the demonstration of a marketable technology product or prototype with an electrical engineering focus. Constitutes the first half of a thesis-scale project in technology commercialization. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact, while enhancing the student’s technological and engineering depth and fostering the student’s leadership development.",
     "coreqs": [],
     "prereqs": []
   },

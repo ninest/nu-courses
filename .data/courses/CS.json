@@ -107,7 +107,7 @@
       { "term": "202310", "crn": "19155" },
       { "term": "202310", "crn": "20726" }
     ],
-    "description": "Continues the preparation of students for careers in the computing and information fields by discussing co-op and co-op processes. Offers students an opportunity to prepare a professional resum&eacute;; practice proper interviewing techniques; explore current job opportunities; learn how to engage in the job and referral process; and to understand co-op policies, procedures, and expectations. Discusses professional behavior and ethical issues in the workplace.",
+    "description": "Continues the preparation of students for careers in the computing and information fields by discussing co-op and co-op processes. Offers students an opportunity to prepare a professional resumé; practice proper interviewing techniques; explore current job opportunities; learn how to engage in the job and referral process; and to understand co-op policies, procedures, and expectations. Discusses professional behavior and ethical issues in the workplace.",
     "coreqs": [],
     "prereqs": [
       { "subject": "CS", "number": "2510" },
@@ -484,7 +484,7 @@
     "credits": 4,
     "nuPath": ["AD", "FQ"],
     "sections": [{ "term": "202310", "crn": "14632" }],
-    "description": "Studies the methods and ideas in linear algebra, multivariable calculus, and statistics that are most relevant for the practicing computer scientist doing machine learning, modeling, or hypothesis testing with data. Covers least squares regression, finding eigenvalues to predict a linear system&rsquo;s behavior, performing gradient descent to fit a model to data, and performing t-tests and chi-square tests to determine whether differences between populations are significant. Includes applications to popular machine-learning methods, including Bayesian models and neural networks.",
+    "description": "Studies the methods and ideas in linear algebra, multivariable calculus, and statistics that are most relevant for the practicing computer scientist doing machine learning, modeling, or hypothesis testing with data. Covers least squares regression, finding eigenvalues to predict a linear system’s behavior, performing gradient descent to fit a model to data, and performing t-tests and chi-square tests to determine whether differences between populations are significant. Includes applications to popular machine-learning methods, including Bayesian models and neural networks.",
     "coreqs": [],
     "prereqs": [
       { "subject": "CS", "number": "1800" },
@@ -972,7 +972,7 @@
       { "term": "202260", "crn": "60981" },
       { "term": "202240", "crn": "40675" }
     ],
-    "description": "Introduces the theory behind computers and computing aimed at answering the question, &amp;#8220;What are the capabilities and limitations of computers?&amp;#8221; Covers automata theory, computability, and complexity. The automata theory portion includes finite automata, regular expressions, nondeterminism, nonregular languages, context-free languages, pushdown automata, and noncontext-free languages. The computability portion includes Turing machines, the Church-Turing thesis, decidable languages, and the Halting theorem. The complexity portion includes big-O and small-o notation, the classes P and NP, the P vs. NP question, and NP-completeness.",
+    "description": "Introduces the theory behind computers and computing aimed at answering the question, “What are the capabilities and limitations of computers?” Covers automata theory, computability, and complexity. The automata theory portion includes finite automata, regular expressions, nondeterminism, nonregular languages, context-free languages, pushdown automata, and noncontext-free languages. The computability portion includes Turing machines, the Church-Turing thesis, decidable languages, and the Halting theorem. The complexity portion includes big-O and small-o notation, the classes P and NP, the P vs. NP question, and NP-completeness.",
     "coreqs": [],
     "prereqs": [
       { "subject": "CS", "number": "1500" },
@@ -1327,7 +1327,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14170" }],
-    "description": "Builds on CS 3000. Presents an advanced study of computer algorithms. Covers basic algorithmic paradigms (e.g., greedy, divide-and-conquer, and dynamic programming); graph algorithms; optimization; computational Intractability (e.g., NP-completeness, PSPACE-completeness);&lt;br /&gt; randomized algorithms; and approximation algorithms.",
+    "description": "Builds on CS 3000. Presents an advanced study of computer algorithms. Covers basic algorithmic paradigms (e.g., greedy, divide-and-conquer, and dynamic programming); graph algorithms; optimization; computational Intractability (e.g., NP-completeness, PSPACE-completeness); randomized algorithms; and approximation algorithms.",
     "coreqs": [],
     "prereqs": [{ "subject": "CS", "number": "3000" }]
   },
@@ -1489,7 +1489,7 @@
       { "term": "202310", "crn": "20062" },
       { "term": "202310", "crn": "20063" }
     ],
-    "description": "Provides a small-group discussion format to cover material in CS 5001. &lt;i&gt;Coreq CS 5001.&lt;/i&gt;",
+    "description": "Provides a small-group discussion format to cover material in CS 5001. Coreq CS 5001.",
     "coreqs": [
       { "subject": "CS", "number": "5001" },
       { "subject": "CS", "number": "5001" },
@@ -1527,7 +1527,7 @@
       { "term": "202310", "crn": "20002" },
       { "term": "202310", "crn": "20066" }
     ],
-    "description": "Presents a comparative approach to object-oriented programming and design. Discusses the concepts of object, class, metaclass, message, method, inheritance, and genericity. Reviews forms of polymorphism in object-oriented languages. Contrasts the use of inheritance and composition as dual techniques for software reuse&amp;#8212;forwarding vs. delegation and subclassing vs. subtyping. Offers students an opportunity to obtain a deeper understanding of the principles of object-oriented programming and design, including software components, object-oriented design patterns, and the use of graphical design notations such as UML (unified modeling language). Illustrates basic concepts in object-oriented design with case studies in application frameworks and by writing programs in Java.",
+    "description": "Presents a comparative approach to object-oriented programming and design. Discusses the concepts of object, class, metaclass, message, method, inheritance, and genericity. Reviews forms of polymorphism in object-oriented languages. Contrasts the use of inheritance and composition as dual techniques for software reuse—forwarding vs. delegation and subclassing vs. subtyping. Offers students an opportunity to obtain a deeper understanding of the principles of object-oriented programming and design, including software components, object-oriented design patterns, and the use of graphical design notations such as UML (unified modeling language). Illustrates basic concepts in object-oriented design with case studies in application frameworks and by writing programs in Java.",
     "coreqs": [
       { "subject": "CS", "number": "5005" },
       { "subject": "CS", "number": "5005" },
@@ -1931,7 +1931,7 @@
       { "term": "202310", "crn": "20462" },
       { "term": "202260", "crn": "61434" }
     ],
-    "description": "Covers the principles of human-computer interaction and the design and evaluation of user interfaces. Topics include an overview of human information processing subsystems (perception, memory, attention, and problem solving); how the properties of these systems affect the design of user interfaces; the principles, guidelines, and specification languages for designing good user interfaces, with emphasis on tool kits and libraries of standard graphical user interface objects; and a variety of interface evaluation methodologies that can be used to measure the usability of software. Other topics may include World Wide Web design principles and tools, computer-supported cooperative work, multimodal and &ldquo;next generation&rdquo; interfaces, speech and natural language interfaces, and virtual reality interfaces. Course work includes both the creation and implementation of original user interface designs, and the evaluation of user interfaces created by others. Requires knowledge of C programming language/UNIX.",
+    "description": "Covers the principles of human-computer interaction and the design and evaluation of user interfaces. Topics include an overview of human information processing subsystems (perception, memory, attention, and problem solving); how the properties of these systems affect the design of user interfaces; the principles, guidelines, and specification languages for designing good user interfaces, with emphasis on tool kits and libraries of standard graphical user interface objects; and a variety of interface evaluation methodologies that can be used to measure the usability of software. Other topics may include World Wide Web design principles and tools, computer-supported cooperative work, multimodal and “next generation” interfaces, speech and natural language interfaces, and virtual reality interfaces. Course work includes both the creation and implementation of original user interface designs, and the evaluation of user interfaces created by others. Requires knowledge of C programming language/UNIX.",
     "coreqs": [],
     "prereqs": []
   },
@@ -2081,7 +2081,7 @@
       { "term": "202310", "crn": "19768" },
       { "term": "202310", "crn": "20007" }
     ],
-    "description": "Studies network protocols, focusing on modeling and analysis, and architectures. Introduces modeling concepts, emphasizing queuing theory, including Little&amp;#8217;s theorem, M/M/1, M/M/m, M/D/1, and M/G/1 queuing systems. Discusses performance evaluation of computer networks including performance metrics, evaluation tools and methodology, simulation techniques, and limitations. Presents the different harmonizing functions needed for communication and efficient operation of computer networks and discusses examples of Ethernet, FDDI, and wireless networks. Covers link layer protocols including HDLC, PPP, and SLIP; packet framing; spanning tree and learning bridges, error detection techniques, and automatic repeat request algorithms; sliding window and reliable/ordered services; and queuing disciplines including FQ and WFQ. Introduces flow control schemes, such as window flow control and leaky bucket rate control schemes, and discusses congestion control and fairness. Requires knowledge of probability theory.",
+    "description": "Studies network protocols, focusing on modeling and analysis, and architectures. Introduces modeling concepts, emphasizing queuing theory, including Little's theorem, M/M/1, M/M/m, M/D/1, and M/G/1 queuing systems. Discusses performance evaluation of computer networks including performance metrics, evaluation tools and methodology, simulation techniques, and limitations. Presents the different harmonizing functions needed for communication and efficient operation of computer networks and discusses examples of Ethernet, FDDI, and wireless networks. Covers link layer protocols including HDLC, PPP, and SLIP; packet framing; spanning tree and learning bridges, error detection techniques, and automatic repeat request algorithms; sliding window and reliable/ordered services; and queuing disciplines including FQ and WFQ. Introduces flow control schemes, such as window flow control and leaky bucket rate control schemes, and discusses congestion control and fairness. Requires knowledge of probability theory.",
     "coreqs": [],
     "prereqs": []
   },

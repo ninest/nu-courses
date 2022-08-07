@@ -47,7 +47,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [{ "term": "202310", "crn": "13141" }],
-    "description": "Offers students an opportunity to learn how contemporary narrative theories evolved and their uses in various media. Examines various mediated texts to understand how best to use storytelling strategies for students&#39; own narrative-forward games so as to best take advantage of designing narratives for different platforms and audiences. Uses presentations and performances to enhance students&#39; understanding of how audiences assimilate information and to critique. Students write, play, and study narrative-driven games in the context of various narrative theories and practice writing with the awareness and intention that actors and audiences will read their work and respond.",
+    "description": "Offers students an opportunity to learn how contemporary narrative theories evolved and their uses in various media. Examines various mediated texts to understand how best to use storytelling strategies for students' own narrative-forward games so as to best take advantage of designing narratives for different platforms and audiences. Uses presentations and performances to enhance students' understanding of how audiences assimilate information and to critique. Students write, play, and study narrative-driven games in the context of various narrative theories and practice writing with the awareness and intention that actors and audiences will read their work and respond.",
     "coreqs": [],
     "prereqs": []
   },
@@ -83,7 +83,7 @@
       { "term": "202310", "crn": "20167" },
       { "term": "202310", "crn": "20277" }
     ],
-    "description": "Offers an experiential learning course in which students collaborate with faculty on a project for credit, which may include research, game creation, or a combination of the two. Offers students an opportunity to co-produce a publishable, distributable, or exhibitable game and/or research paper, which can become part of the student&amp;#8217;s portfolio. Course may be taught by an individual faculty member or team-taught to explore a specific topic, such as documentary games, art games, physical interfaces, installations, historical games, live-action role-playing, etc. Offers students an opportunity to gain experience working on a real-world project, as well as being credited for collaboration with an established practitioner/researcher. May be repeated once.",
+    "description": "Offers an experiential learning course in which students collaborate with faculty on a project for credit, which may include research, game creation, or a combination of the two. Offers students an opportunity to co-produce a publishable, distributable, or exhibitable game and/or research paper, which can become part of the student's portfolio. Course may be taught by an individual faculty member or team-taught to explore a specific topic, such as documentary games, art games, physical interfaces, installations, historical games, live-action role-playing, etc. Offers students an opportunity to gain experience working on a real-world project, as well as being credited for collaboration with an established practitioner/researcher. May be repeated once.",
     "coreqs": [],
     "prereqs": []
   },
@@ -110,7 +110,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [{ "term": "202240", "crn": "41438" }],
-    "description": "Analyzes game-level designs in a variety of genres and forms. Building upon basic drawing and design skills, students have an opportunity to develop paper prototypes and simple game &ldquo;mods&rdquo; in the context of story and game play. Students use computer-based tools to examine game-level architecture. Encourages students to take this elective in preparation for or in parallel to the Game Projects courses.",
+    "description": "Analyzes game-level designs in a variety of genres and forms. Building upon basic drawing and design skills, students have an opportunity to develop paper prototypes and simple game “mods” in the context of story and game play. Students use computer-based tools to examine game-level architecture. Encourages students to take this elective in preparation for or in parallel to the Game Projects courses.",
     "coreqs": [],
     "prereqs": []
   },

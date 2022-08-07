@@ -61,7 +61,7 @@
       { "term": "202310", "crn": "11526" },
       { "term": "202310", "crn": "20522" }
     ],
-    "description": "Uses the study of New England&rsquo;s plant communities and plant identification as a framework to consider the evolution of the New England landscape from European colonization to the present. Combines field study with lectures and class discussion. Human activity, land use, and settlement patterns all influence the development of landscape, and our cultural history is expressed in the species demographics, land forms, and ecosystem dynamics of our environment.",
+    "description": "Uses the study of New England’s plant communities and plant identification as a framework to consider the evolution of the New England landscape from European colonization to the present. Combines field study with lectures and class discussion. Human activity, land use, and settlement patterns all influence the development of landscape, and our cultural history is expressed in the species demographics, land forms, and ecosystem dynamics of our environment.",
     "coreqs": [],
     "prereqs": []
   },
@@ -115,7 +115,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12532" }],
-    "description": "Offers a lecture/workshop/field-based course that builds upon landscape technology skills introduced in LARC 2230 and LARC 2240, with a focus on ecotechnologies operating in the built environment. Core topics include design and implementation metrics, material life-cycle management, funding models, and aesthetic and cultural aspects. Potential topics include green roofs, green walls, bioswales, pervious pavements, constructed wetlands, &amp;#8220;complete street&amp;#8221; elements, geosensor networks, alternative waste management, water detention and energy generation methods, and living infrastructures for coastal environments.",
+    "description": "Offers a lecture/workshop/field-based course that builds upon landscape technology skills introduced in LARC 2230 and LARC 2240, with a focus on ecotechnologies operating in the built environment. Core topics include design and implementation metrics, material life-cycle management, funding models, and aesthetic and cultural aspects. Potential topics include green roofs, green walls, bioswales, pervious pavements, constructed wetlands, &#8220;complete street&#8221; elements, geosensor networks, alternative waste management, water detention and energy generation methods, and living infrastructures for coastal environments.",
     "coreqs": [],
     "prereqs": []
   },

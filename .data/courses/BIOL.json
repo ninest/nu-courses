@@ -13,7 +13,7 @@
       { "term": "202310", "crn": "18764" },
       { "term": "202310", "crn": "18765" }
     ],
-    "description": "Introduces first-year students to the major and the field of biology and to the professional and academic resources available to students at Northeastern University; acquaints students with their faculty, advisors, and fellow students; provides an initial orientation to undergraduate research, cooperative education, and other experiential learning options; helps develop the academic skills necessary to succeed; provides grounding in the culture and values of the university community; and assists in interpersonal skill development&amp;#8212;in short, familiarizes students with the resources and skills needed to become a successful university student.",
+    "description": "Introduces first-year students to the major and the field of biology and to the professional and academic resources available to students at Northeastern University; acquaints students with their faculty, advisors, and fellow students; provides an initial orientation to undergraduate research, cooperative education, and other experiential learning options; helps develop the academic skills necessary to succeed; provides grounding in the culture and values of the university community; and assists in interpersonal skill development&#8212;in short, familiarizes students with the resources and skills needed to become a successful university student.",
     "coreqs": [],
     "prereqs": []
   },
@@ -682,7 +682,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202240", "crn": "41649" }],
-    "description": "Introduces current trends in the field of reproductive sciences, spanning basic human reproduction, infertility, and potential horizons in medicine. Surveys topics in basic research that have the most promise to make an impact in the field of women&amp;#8217;s health. Emphasizes human health but includes animal models in the analysis.",
+    "description": "Introduces current trends in the field of reproductive sciences, spanning basic human reproduction, infertility, and potential horizons in medicine. Surveys topics in basic research that have the most promise to make an impact in the field of women's health. Emphasizes human health but includes animal models in the analysis.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1046,7 +1046,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14612" }],
-    "description": "Provides in-depth discussion about fundamentally important cellular processes in prokaryotic systems&amp;#8212;such as replication, transcription, and translation&amp;#8212;and the corresponding regulatory mechanisms. Also discusses molecular mechanisms of gene regulation and bacterial pathogenesis, using selected examples and mechanisms of prokaryotic cell signaling, and advanced and high-throughput techniques used in prokaryotic molecular and cell biology.",
+    "description": "Provides in-depth discussion about fundamentally important cellular processes in prokaryotic systems&#8212;such as replication, transcription, and translation&#8212;and the corresponding regulatory mechanisms. Also discusses molecular mechanisms of gene regulation and bacterial pathogenesis, using selected examples and mechanisms of prokaryotic cell signaling, and advanced and high-throughput techniques used in prokaryotic molecular and cell biology.",
     "coreqs": [],
     "prereqs": []
   },

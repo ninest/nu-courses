@@ -10,7 +10,7 @@
       { "term": "202310", "crn": "12366" },
       { "term": "202310", "crn": "17138" }
     ],
-    "description": "Provides theoretical background and foundation for analyzing and designing games. Examines fundamental domains that are necessary to understand what games are and how they affect players, including but not limited to interface design, level design, narrative, learning, and culture. Presents relevant concepts and frameworks from a wide variety of disciplines&amp;#8212;psychology, phenomenology, sociology, anthropology, media studies, affect theories, learning theories, and theories of motivation&amp;#8212;for each domain. Explains the core elements of game design, introduces students to formal abstract design tools, explores several models of design process and iteration, and offers students an opportunity to practice game design in groups.",
+    "description": "Provides theoretical background and foundation for analyzing and designing games. Examines fundamental domains that are necessary to understand what games are and how they affect players, including but not limited to interface design, level design, narrative, learning, and culture. Presents relevant concepts and frameworks from a wide variety of disciplines&#8212;psychology, phenomenology, sociology, anthropology, media studies, affect theories, learning theories, and theories of motivation&#8212;for each domain. Explains the core elements of game design, introduces students to formal abstract design tools, explores several models of design process and iteration, and offers students an opportunity to practice game design in groups.",
     "coreqs": [
       { "subject": "GSND", "number": "5111" },
       { "subject": "GSND", "number": "5112" }
@@ -97,7 +97,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14102" }],
-    "description": "Explores the development and understanding of spaces used by people in 3D and 2D virtual environments. Uses an iterative process of making, criticizing, experiencing, and analyzing spatial form; compositional ideas for form making; and critical thinking. Offers students an opportunity to develop the arbitrary, yet necessary, mind-set needed to make assumptions about aesthetic spatial values and expected player behaviors. Analyzes the connection between spatial-aesthetic elements and their effects on players&amp;#8217; psyches. Experiments with how spaces, textures, shapes, and colors can support different synchronous moods. Explores how to shape spaces that fit the rational, emotional, and behavioral profile of different types of players. Applies concepts learned from architecture and game-level design to extend students&amp;#8217; creative and critical abilities.",
+    "description": "Explores the development and understanding of spaces used by people in 3D and 2D virtual environments. Uses an iterative process of making, criticizing, experiencing, and analyzing spatial form; compositional ideas for form making; and critical thinking. Offers students an opportunity to develop the arbitrary, yet necessary, mind-set needed to make assumptions about aesthetic spatial values and expected player behaviors. Analyzes the connection between spatial-aesthetic elements and their effects on players' psyches. Experiments with how spaces, textures, shapes, and colors can support different synchronous moods. Explores how to shape spaces that fit the rational, emotional, and behavioral profile of different types of players. Applies concepts learned from architecture and game-level design to extend students' creative and critical abilities.",
     "coreqs": [],
     "prereqs": []
   },
@@ -112,7 +112,7 @@
       { "term": "202310", "crn": "14103" },
       { "term": "202310", "crn": "14104" }
     ],
-    "description": "Focuses on topics of player psychology&mdash;cognition; memory; emotions; attention; and game-focused theories such as engagement, fun, user experience, player-need-satisfaction model, and flow. The development cycle of any game relies on the understanding of the players, the target market of the game product. Covers game usability engineering and game-specific evaluation methods, such as play testing, rapid iterative testing and evaluation (RITE), play-heuristic evaluation, and retrospective play reviews. Offers students an opportunity to learn how to analyze qualitative and quantitative data and to apply parametric and nonparametric statistical evaluation methods, qualitative data coding and analysis, and descriptive statistics. Requires students to apply visualization techniques of data and reporting.",
+    "description": "Focuses on topics of player psychology—cognition; memory; emotions; attention; and game-focused theories such as engagement, fun, user experience, player-need-satisfaction model, and flow. The development cycle of any game relies on the understanding of the players, the target market of the game product. Covers game usability engineering and game-specific evaluation methods, such as play testing, rapid iterative testing and evaluation (RITE), play-heuristic evaluation, and retrospective play reviews. Offers students an opportunity to learn how to analyze qualitative and quantitative data and to apply parametric and nonparametric statistical evaluation methods, qualitative data coding and analysis, and descriptive statistics. Requires students to apply visualization techniques of data and reporting.",
     "coreqs": [{ "subject": "GSND", "number": "6331" }],
     "prereqs": [
       { "subject": "GSND", "number": "5130" },
@@ -146,7 +146,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20455" }],
-    "description": "Covers the domain of psychophysiological testing. Introduces theory and research in major areas of human psychology, including cognition, emotions, and attention. Studies the principles, theory, and applications of psychophysiological assessment inside and outside interactive digital entertainment. Offers students an opportunity to understand the basics of eye tracking&mdash;eye movements, fixations, saccades. Applies methods of data collection, clearning, and analysis for both physiological and eye-tracking data. Covers all issues of using such measurements, including validity of conclusions and confounding variables. Covers the process of triangulation and repotting in-depth along the entire process of the game production life cycle.",
+    "description": "Covers the domain of psychophysiological testing. Introduces theory and research in major areas of human psychology, including cognition, emotions, and attention. Studies the principles, theory, and applications of psychophysiological assessment inside and outside interactive digital entertainment. Offers students an opportunity to understand the basics of eye tracking—eye movements, fixations, saccades. Applies methods of data collection, clearning, and analysis for both physiological and eye-tracking data. Covers all issues of using such measurements, including validity of conclusions and confounding variables. Covers the process of triangulation and repotting in-depth along the entire process of the game production life cycle.",
     "coreqs": [],
     "prereqs": [{ "subject": "GSND", "number": "5130" }]
   },
@@ -170,7 +170,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13802" }],
-    "description": "Focuses on preparing a master&amp;#8217;s thesis under faculty supervision.",
+    "description": "Focuses on preparing a master's thesis under faculty supervision.",
     "coreqs": [],
     "prereqs": []
   },

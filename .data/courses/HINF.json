@@ -35,7 +35,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12523" }],
-    "description": "Studies the challenges of managing health information systems in the United States, Canada, India, China, the United Kingdom, Saudi Arabia, Singapore, Taiwan, Ghana, and Malawi. Differences in healthcare systems and national regulations make the process slightly different in each country. By exploring environments with varying degrees of regulation, students have an opportunity to think critically about the impact that a nation&amp;#8217;s environment has on health information management. Discusses case studies to encourage students to think about health informatics from a managerial perspective across private companies, government, and nongovernment organizations.",
+    "description": "Studies the challenges of managing health information systems in the United States, Canada, India, China, the United Kingdom, Saudi Arabia, Singapore, Taiwan, Ghana, and Malawi. Differences in healthcare systems and national regulations make the process slightly different in each country. By exploring environments with varying degrees of regulation, students have an opportunity to think critically about the impact that a nation's environment has on health information management. Discusses case studies to encourage students to think about health informatics from a managerial perspective across private companies, government, and nongovernment organizations.",
     "coreqs": [],
     "prereqs": []
   },
@@ -71,7 +71,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10610" }],
-    "description": "Reviews the concepts, issues, and practices of organizational behavior at the individual, group, and organizational levels. Offers an opportunity to learn how to gather information from users and understand the users&amp;#8217; point of view and problems. Examines processes and work flow in healthcare environments. Seeks to explain organizational structures and analyze business processes and how they are translated into specifications to build a RFP for vendors. Also examines fundamentals of organizational behavior and change management.",
+    "description": "Reviews the concepts, issues, and practices of organizational behavior at the individual, group, and organizational levels. Offers an opportunity to learn how to gather information from users and understand the users' point of view and problems. Examines processes and work flow in healthcare environments. Seeks to explain organizational structures and analyze business processes and how they are translated into specifications to build a RFP for vendors. Also examines fundamentals of organizational behavior and change management.",
     "coreqs": [],
     "prereqs": []
   },
@@ -170,7 +170,7 @@
       { "term": "202310", "crn": "12732" },
       { "term": "202310", "crn": "18289" }
     ],
-    "description": "Offers selected readings under the supervision of a faculty member. &lt;i&gt;Personal health informatics PhD students only.&lt;/i&gt;",
+    "description": "Offers selected readings under the supervision of a faculty member. <i>Personal health informatics PhD students only.</i>",
     "coreqs": [],
     "prereqs": []
   },

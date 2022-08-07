@@ -133,7 +133,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19089" }],
-    "description": "Introduces various analytical and computational techniques. Course content is delivered through a series of modeling and analysis projects, design innovations and improvements, and design testing&mdash;including not only the technical performance but also commercialization potential by developing and presenting a business plan. Offers students an opportunity to design a representative model, implement the model through their design, verify and validate using analysis techniques, develop a business plan, report on the design and modelling, and suggest improvements for a revised design and model. Design projects and topics are expanded or reduced depending on class interest.",
+    "description": "Introduces various analytical and computational techniques. Course content is delivered through a series of modeling and analysis projects, design innovations and improvements, and design testing—including not only the technical performance but also commercialization potential by developing and presenting a business plan. Offers students an opportunity to design a representative model, implement the model through their design, verify and validate using analysis techniques, develop a business plan, report on the design and modelling, and suggest improvements for a revised design and model. Design projects and topics are expanded or reduced depending on class interest.",
     "coreqs": [],
     "prereqs": [
       "(",
@@ -172,7 +172,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10227" }],
-    "description": "Provides an interactive course designed to enhance an engineering student&amp;#8217;s professional and career-related education through a series of classes taught by managers, engineers, and other professionals with industry experience. Topics include career services resources, developing skills to be an effective manager, the balance between personal and professional life, mentors, making career choices, time management vs. energy management, and others. May be repeated without limit.",
+    "description": "Provides an interactive course designed to enhance an engineering student's professional and career-related education through a series of classes taught by managers, engineers, and other professionals with industry experience. Topics include career services resources, developing skills to be an effective manager, the balance between personal and professional life, mentors, making career choices, time management vs. energy management, and others. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },

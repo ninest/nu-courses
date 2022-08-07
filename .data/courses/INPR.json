@@ -12,7 +12,7 @@
       { "term": "202310", "crn": "18603" },
       { "term": "202310", "crn": "18616" }
     ],
-    "description": "Offers visiting students enrolled and in good standing at another institution an opportunity to work with a sponsoring faculty member on a topic related to current research. Detail of visit is described in the sponsoring faculty member&rsquo;s proposal approved prior to visit.  Faculty member and student negotiate a written agreement as to what topic(s) are covered and what written or laboratory work forms the basis for the grade.",
+    "description": "Offers visiting students enrolled and in good standing at another institution an opportunity to work with a sponsoring faculty member on a topic related to current research. Detail of visit is described in the sponsoring faculty member’s proposal approved prior to visit.  Faculty member and student negotiate a written agreement as to what topic(s) are covered and what written or laboratory work forms the basis for the grade.",
     "coreqs": [],
     "prereqs": []
   },
@@ -31,7 +31,7 @@
       { "term": "202240", "crn": "41929" },
       { "term": "202240", "crn": "41934" }
     ],
-    "description": "Offers visiting students enrolled and in good standing at another institution an opportunity to work with a sponsoring faculty member on a topic related to current research. Detail of visit is described in the sponsoring faculty member&rsquo;s proposal approved prior to visit.  Faculty member and student negotiate a written agreement as to what topic(s) are covered and what written or laboratory work forms the basis for the grade.",
+    "description": "Offers visiting students enrolled and in good standing at another institution an opportunity to work with a sponsoring faculty member on a topic related to current research. Detail of visit is described in the sponsoring faculty member’s proposal approved prior to visit.  Faculty member and student negotiate a written agreement as to what topic(s) are covered and what written or laboratory work forms the basis for the grade.",
     "coreqs": [],
     "prereqs": []
   },
@@ -52,7 +52,7 @@
       { "term": "202310", "crn": "18609" },
       { "term": "202240", "crn": "41933" }
     ],
-    "description": "Offers visiting students enrolled and in good standing at another institution an opportunity to work with a sponsoring faculty member on a topic related to current research. Detail of visit is described in the sponsoring faculty member&rsquo;s proposal approved prior to visit.  Faculty member and student negotiate a written agreement as to what topic(s) are covered and what written or laboratory work forms the basis for the grade.",
+    "description": "Offers visiting students enrolled and in good standing at another institution an opportunity to work with a sponsoring faculty member on a topic related to current research. Detail of visit is described in the sponsoring faculty member’s proposal approved prior to visit.  Faculty member and student negotiate a written agreement as to what topic(s) are covered and what written or laboratory work forms the basis for the grade.",
     "coreqs": [],
     "prereqs": []
   }

@@ -7,7 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10182" }],
-    "description": "Intended for first-year students in the College of Social Sciences and Humanities. Introduces students to liberal arts; familiarizes them with their major; develops the academic skills necessary to succeed (analytical ability and critical thinking); provides grounding in the culture and values of the University community; and helps to develop interpersonal skills&amp;#8212;in short, familiarizes students with all skills needed to become a successful university student.",
+    "description": "Intended for first-year students in the College of Social Sciences and Humanities. Introduces students to liberal arts; familiarizes them with their major; develops the academic skills necessary to succeed (analytical ability and critical thinking); provides grounding in the culture and values of the University community; and helps to develop interpersonal skills&#8212;in short, familiarizes students with all skills needed to become a successful university student.",
     "coreqs": [],
     "prereqs": []
   },
@@ -59,7 +59,7 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [{ "term": "202310", "crn": "19515" }],
-    "description": "Provides in-depth understanding of clinical practice with individuals, groups, and families. Focuses on developing practice skills through presentations, case studies, and self-reflection journals. Examines the role of spirituality within one&amp;#8217;s clinical practice. Explores theoretical techniques and their applications in a variety of settings, with particular attention to populations at risk.",
+    "description": "Provides in-depth understanding of clinical practice with individuals, groups, and families. Focuses on developing practice skills through presentations, case studies, and self-reflection journals. Examines the role of spirituality within one's clinical practice. Explores theoretical techniques and their applications in a variety of settings, with particular attention to populations at risk.",
     "coreqs": [],
     "prereqs": []
   },
@@ -83,7 +83,7 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [{ "term": "202310", "crn": "16445" }],
-    "description": "Cross-listed with SOCL &amp; AFAM 2355.",
+    "description": "Cross-listed with SOCL & AFAM 2355.",
     "coreqs": [],
     "prereqs": []
   },
@@ -146,7 +146,7 @@
       { "term": "202310", "crn": "10127" },
       { "term": "202310", "crn": "20798" }
     ],
-    "description": "Offers students an opportunity to explore the nonprofit sector&amp;#8217;s multifaceted role in U.S. society and its relationship to democracy and social change. Introduces theoretical and practical frameworks for examining contemporary models of nonprofit and philanthropic practice and examines the ethical implications of engaging in and funding activities designed to effect social change. Offers students an opportunity to apply these concepts by mapping the complex systems within which social challenges emerge and by making real dollar grants to local nonprofit organizations.",
+    "description": "Offers students an opportunity to explore the nonprofit sector's multifaceted role in U.S. society and its relationship to democracy and social change. Introduces theoretical and practical frameworks for examining contemporary models of nonprofit and philanthropic practice and examines the ethical implications of engaging in and funding activities designed to effect social change. Offers students an opportunity to apply these concepts by mapping the complex systems within which social challenges emerge and by making real dollar grants to local nonprofit organizations.",
     "coreqs": [],
     "prereqs": []
   },
@@ -182,7 +182,7 @@
     "credits": 6,
     "nuPath": ["EX"],
     "sections": [{ "term": "202310", "crn": "12639" }],
-    "description": "Requires students to fulfill one internship placement during the last two years of the program. Consists of required field site hours and varies according to the students&rsquo; interests. Examples of placement sites include community centers, nursing homes, vocational workshops, state and federal agencies for children, and recreational facilities. Experiences are supervised by internship supervisor to maximize the student&rsquo;s learning opportunities. Fulfills the experiential education requirement. May be repeated without limit.",
+    "description": "Requires students to fulfill one internship placement during the last two years of the program. Consists of required field site hours and varies according to the students’ interests. Examples of placement sites include community centers, nursing homes, vocational workshops, state and federal agencies for children, and recreational facilities. Experiences are supervised by internship supervisor to maximize the student’s learning opportunities. Fulfills the experiential education requirement. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   }

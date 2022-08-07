@@ -98,7 +98,7 @@
       { "term": "202240", "crn": "40118" },
       { "term": "202240", "crn": "40286" }
     ],
-    "description": "Focuses on the development and use of information&amp;#8212;especially financial information&amp;#8212;for managerial decisions within the firm. Introduces managerial accounting concepts, analyses, and practices that support business decisions through class discussions, exercises, and case analysis. Topics include budgeting, cost management and behavior, cost-volume-profit analysis, relevant costs for decision making, cost allocation issues, and performance evaluation. Emphasizes the importance of ethics.",
+    "description": "Focuses on the development and use of information&#8212;especially financial information&#8212;for managerial decisions within the firm. Introduces managerial accounting concepts, analyses, and practices that support business decisions through class discussions, exercises, and case analysis. Topics include budgeting, cost management and behavior, cost-volume-profit analysis, relevant costs for decision making, cost allocation issues, and performance evaluation. Emphasizes the importance of ethics.",
     "coreqs": [],
     "prereqs": [
       { "subject": "ACCT", "number": "1201" },
@@ -116,7 +116,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10911" }],
-    "description": "Covers business law, professional code of conduct, and the importance of ethical behavior in today&amp;#8217;s business environment. Examines legal aspects of commercial transactions and business relationships. Specifically, laws relating to contracts and sale of goods under the Uniform Commercial Code, agency law, and product liability law are discussed. May not be used as an accounting concentration elective.",
+    "description": "Covers business law, professional code of conduct, and the importance of ethical behavior in today's business environment. Examines legal aspects of commercial transactions and business relationships. Specifically, laws relating to contracts and sale of goods under the Uniform Commercial Code, agency law, and product liability law are discussed. May not be used as an accounting concentration elective.",
     "coreqs": [],
     "prereqs": []
   },
@@ -160,7 +160,7 @@
       { "term": "202310", "crn": "10419" },
       { "term": "202240", "crn": "41676" }
     ],
-    "description": "Develops understanding of the critical role of cost measurement and management in business decisions and in managing a firm&rsquo;s profitability. Focuses on the strategic use of cost information for planning and control, as well as costing products, services, and customers. Emphasizes the role of management accountants as integral members of decision-making teams and as consultants to senior management. Studies alternate ways of measuring costs to meet different management objectives, the role of budgeting as a planning and management tool, the use of cost analysis as a control tool to help management meet short- and long-term profit objectives, and the importance of ethics in achieving all of these objectives. In addition to accounting majors, this course is ideal for students who wish to pursue a career in finance, general management, operations management, supply chain management, or entrepreneurship.",
+    "description": "Develops understanding of the critical role of cost measurement and management in business decisions and in managing a firm’s profitability. Focuses on the strategic use of cost information for planning and control, as well as costing products, services, and customers. Emphasizes the role of management accountants as integral members of decision-making teams and as consultants to senior management. Studies alternate ways of measuring costs to meet different management objectives, the role of budgeting as a planning and management tool, the use of cost analysis as a control tool to help management meet short- and long-term profit objectives, and the importance of ethics in achieving all of these objectives. In addition to accounting majors, this course is ideal for students who wish to pursue a career in finance, general management, operations management, supply chain management, or entrepreneurship.",
     "coreqs": [],
     "prereqs": [{ "subject": "ACCT", "number": "2301" }]
   },
@@ -334,7 +334,7 @@
       { "term": "202310", "crn": "11200" },
       { "term": "202260", "crn": "60099" }
     ],
-    "description": "Presents and discusses financial reporting practices for diversified, international business entities. In today&amp;#8217;s global business environment, many corporations operate diverse economic activities and often conduct those activities across geographic boundaries. Examines accounting and disclosure standards in the United States that are relevant to presenting consolidated financial statements. Also analyzes accounting and disclosure standards in other countries and those developed by international bodies with respect to their effects on reporting entities and the financial markets.",
+    "description": "Presents and discusses financial reporting practices for diversified, international business entities. In today's global business environment, many corporations operate diverse economic activities and often conduct those activities across geographic boundaries. Examines accounting and disclosure standards in the United States that are relevant to presenting consolidated financial statements. Also analyzes accounting and disclosure standards in other countries and those developed by international bodies with respect to their effects on reporting entities and the financial markets.",
     "coreqs": [],
     "prereqs": []
   },
@@ -446,7 +446,7 @@
     "credits": 6,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18109" }],
-    "description": "Introduces the attest function and its application to financial statement opinion audits and other assurance services common in today&amp;#8217;s professional environment. Emphasizes a risk-based approach to audit planning, the internal control structure, and the control environment; the design of test of controls, substantive tests, and the resultant audit report. Topics include audit sampling, audit evidence, audit procedures, workpaper preparation, the impact of information technology on the audit process, and the auditor&amp;#8217;s responsibility to detect fraud. A primary focus is the auditor&amp;#8217;s legal and ethical responsibilities. Emphasis is also on operational audits, compliance audits, reviews, compilation, and other attestation services.",
+    "description": "Introduces the attest function and its application to financial statement opinion audits and other assurance services common in today's professional environment. Emphasizes a risk-based approach to audit planning, the internal control structure, and the control environment; the design of test of controls, substantive tests, and the resultant audit report. Topics include audit sampling, audit evidence, audit procedures, workpaper preparation, the impact of information technology on the audit process, and the auditor's responsibility to detect fraud. A primary focus is the auditor's legal and ethical responsibilities. Emphasis is also on operational audits, compliance audits, reviews, compilation, and other attestation services.",
     "coreqs": [],
     "prereqs": []
   },
@@ -676,7 +676,7 @@
       { "term": "202310", "crn": "13693" },
       { "term": "202310", "crn": "13694" }
     ],
-    "description": "Highlights managerial decisions affecting a company&rsquo;s performance in generating revenues, controlling costs, and producing profits. Begins with a brief review of financial accounting, then focuses on the development and use of information, especially financial information, for managerial decisions related to the firm&rsquo;s planning&mdash;operations&mdash;control cycle.",
+    "description": "Highlights managerial decisions affecting a company’s performance in generating revenues, controlling costs, and producing profits. Begins with a brief review of financial accounting, then focuses on the development and use of information, especially financial information, for managerial decisions related to the firm’s planning—operations—control cycle.",
     "coreqs": [],
     "prereqs": []
   }

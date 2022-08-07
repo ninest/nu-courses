@@ -42,7 +42,7 @@
       { "term": "202310", "crn": "13127" },
       { "term": "202240", "crn": "41539" }
     ],
-    "description": "Introduces the range of topics that are of concern both to psychologists and to members of the legal profession. Covers the legal and ethical issues inherent in the conduct and process of professional psychology. Topics include confidentiality, ethical competence, duty to warn, expert testimony, malpractice, and forensic matters, such as the insanity defense. Discusses professional practice issues revolving around ethical concerns as they relate to specific weekly topics. Specifically, discusses five ethical theories (egoism, utilitarianism, deontology, care ethics, virtue ethics) used in case analysis. Examines the role of ethical theory as it applies to the expert&rsquo;s self-interest and personal position, positive and negative consequences for the defendant and society at large, psychologist expert duties to themselves, and conflicts. Designed to help students think about the legal system and its role in society today through a psychological lens.",
+    "description": "Introduces the range of topics that are of concern both to psychologists and to members of the legal profession. Covers the legal and ethical issues inherent in the conduct and process of professional psychology. Topics include confidentiality, ethical competence, duty to warn, expert testimony, malpractice, and forensic matters, such as the insanity defense. Discusses professional practice issues revolving around ethical concerns as they relate to specific weekly topics. Specifically, discusses five ethical theories (egoism, utilitarianism, deontology, care ethics, virtue ethics) used in case analysis. Examines the role of ethical theory as it applies to the expert’s self-interest and personal position, positive and negative consequences for the defendant and society at large, psychologist expert duties to themselves, and conflicts. Designed to help students think about the legal system and its role in society today through a psychological lens.",
     "coreqs": [],
     "prereqs": []
   },
@@ -340,7 +340,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18726" }],
-    "description": "Explores how our behavior is affected by (and how it affects) our immune system. The brain and the immune system regulate our behavioral responses to the world around us, which helps explain why we feel &amp;#8220;down&amp;#8221; when we&amp;#8217;re sick and why we often catch a cold when we&amp;#8217;re stressed. Offers students an opportunity to better understand how we have evolved to psychologically adapt to environmental challenges&amp;#8212;and, importantly, how this can sometimes backfire with mental illness as an outcome. Students who do not meet course prerequisites may seek permission of instructor.",
+    "description": "Explores how our behavior is affected by (and how it affects) our immune system. The brain and the immune system regulate our behavioral responses to the world around us, which helps explain why we feel &#8220;down&#8221; when we're sick and why we often catch a cold when we're stressed. Offers students an opportunity to better understand how we have evolved to psychologically adapt to environmental challenges&#8212;and, importantly, how this can sometimes backfire with mental illness as an outcome. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
     "prereqs": []
   },
@@ -779,7 +779,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10787" }],
-    "description": "Conducts theoretical and experimental research for the master&amp;#8217;s degree. May be repeated without limit.",
+    "description": "Conducts theoretical and experimental research for the master's degree. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },

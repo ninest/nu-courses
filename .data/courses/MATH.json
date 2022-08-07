@@ -38,7 +38,7 @@
       { "term": "202310", "crn": "10447" },
       { "term": "202310", "crn": "13547" }
     ],
-    "description": "Develops problem-solving skills while simultaneously teaching mathematics concepts. Each unit centers on a particular applied problem, which serves to introduce the relevant mathematical topics. These may include but are not limited to polling theory, rate of change, the concepts behind derivatives, probability, binomial distributions, and statistics. The course is not taught in the traditional lecture format and is particularly suited to students who work well in collaborative groups and who enjoy writing about the concepts they are learning. Assessment is based on portfolios, written projects, solutions to &amp;#8220;problems of the week,&amp;#8221; and exams.",
+    "description": "Develops problem-solving skills while simultaneously teaching mathematics concepts. Each unit centers on a particular applied problem, which serves to introduce the relevant mathematical topics. These may include but are not limited to polling theory, rate of change, the concepts behind derivatives, probability, binomial distributions, and statistics. The course is not taught in the traditional lecture format and is particularly suited to students who work well in collaborative groups and who enjoy writing about the concepts they are learning. Assessment is based on portfolios, written projects, solutions to &#8220;problems of the week,&#8221; and exams.",
     "coreqs": [],
     "prereqs": []
   },
@@ -60,7 +60,7 @@
       { "term": "202240", "crn": "40105" },
       { "term": "202240", "crn": "40111" }
     ],
-    "description": "Focuses on the development of mathematical thinking and its use in a variety of contexts to translate real-world problems into mathematical form and, through analysis, to obtain new information and reach conclusions about the original problems. Mathematical topics include symbolic logic, truth tables, valid arguments, counting principles, and topics in probability theory such as Bayes&amp;#8217; theorem, the binomial distribution, and expected value.",
+    "description": "Focuses on the development of mathematical thinking and its use in a variety of contexts to translate real-world problems into mathematical form and, through analysis, to obtain new information and reach conclusions about the original problems. Mathematical topics include symbolic logic, truth tables, valid arguments, counting principles, and topics in probability theory such as Bayes' theorem, the binomial distribution, and expected value.",
     "coreqs": [],
     "prereqs": []
   },
@@ -402,7 +402,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10087" }],
-    "description": "Intended for math majors who have completed their first co-op assignment or other integrated experiential learning component of the NU Core. The goal is to examine the mathematical problems encountered in these experiences and relate them to courses already taken and to the student&amp;#8217;s future program. Faculty members and other guests contribute to the discussion. Grades are determined by the student&amp;#8217;s participation in the course and the completion of a final paper.",
+    "description": "Intended for math majors who have completed their first co-op assignment or other integrated experiential learning component of the NU Core. The goal is to examine the mathematical problems encountered in these experiences and relate them to courses already taken and to the student's future program. Faculty members and other guests contribute to the discussion. Grades are determined by the student's participation in the course and the completion of a final paper.",
     "coreqs": [],
     "prereqs": []
   },
@@ -511,7 +511,7 @@
       { "term": "202310", "crn": "16658" },
       { "term": "202240", "crn": "41706" }
     ],
-    "description": "Focuses on probability theory needed to prepare students for research and advanced coursework in the physical and data sciences. Examples and homework problems come from physics, chemistry, biology, computer science, data science, and electrical engineering. Topics include sample spaces; conditional probability and independence; discrete and continuous probability distributions for one and for several random variables; expectation; variance; special distributions including binomial, Poisson, and normal distributions; law of large numbers; and the central limit theorem. Introduces basic statistical theory including estimation of parameters, confidence intervals, and hypothesis testing. This course is proof-based and emphasizes developing students&#39; abilities in mathematical proof writing.",
+    "description": "Focuses on probability theory needed to prepare students for research and advanced coursework in the physical and data sciences. Examples and homework problems come from physics, chemistry, biology, computer science, data science, and electrical engineering. Topics include sample spaces; conditional probability and independence; discrete and continuous probability distributions for one and for several random variables; expectation; variance; special distributions including binomial, Poisson, and normal distributions; law of large numbers; and the central limit theorem. Introduces basic statistical theory including estimation of parameters, confidence intervals, and hypothesis testing. This course is proof-based and emphasizes developing students' abilities in mathematical proof writing.",
     "coreqs": [],
     "prereqs": []
   },
@@ -558,7 +558,7 @@
       { "term": "202260", "crn": "60911" },
       { "term": "202240", "crn": "40201" }
     ],
-    "description": "Introduces number theory. Topics include linear diophantine equations, congruences, design of magic squares, Fermat&amp;#8217;s little theorem, Euler&amp;#8217;s formula, Euler&amp;#8217;s phi function, computing powers and roots in modular arithmetic, the RSA encryption system, primitive roots and indices, and the law of quadratic reciprocity. As time permits, may cover diophantine approximation and Pell&amp;#8217;s equation, elliptic curves, points on elliptic curves, and Fermat&amp;#8217;s last theorem.",
+    "description": "Introduces number theory. Topics include linear diophantine equations, congruences, design of magic squares, Fermat's little theorem, Euler's formula, Euler's phi function, computing powers and roots in modular arithmetic, the RSA encryption system, primitive roots and indices, and the law of quadratic reciprocity. As time permits, may cover diophantine approximation and Pell's equation, elliptic curves, points on elliptic curves, and Fermat's last theorem.",
     "coreqs": [],
     "prereqs": [
       { "subject": "MATH", "number": "1342" },
@@ -606,7 +606,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16608" }],
-    "description": "Offers a mathematical introduction to networks and graphs, which find applications in social and natural sciences. Introduces paths, cycles, trees, bipartite graphs, matchings, colorings, connectivity, and network flows. Discusses special cases of planar, Eulerian, and Hamiltonian graphs; Tait&rsquo;s theorem; and possible advanced topics. Students who do not meet course prerequisites may seek permission of instructor.",
+    "description": "Offers a mathematical introduction to networks and graphs, which find applications in social and natural sciences. Introduces paths, cycles, trees, bipartite graphs, matchings, colorings, connectivity, and network flows. Discusses special cases of planar, Eulerian, and Hamiltonian graphs; Tait’s theorem; and possible advanced topics. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
     "prereqs": [
       { "subject": "MATH", "number": "1365" },
@@ -675,7 +675,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "11426" }],
-    "description": "Provides a first course in Fourier series, Sturm-Liouville boundary value problems, and their application to solving the fundamental partial differential equations of mathematical physics: the heat equation, the wave equation, and Laplace&amp;#8217;s equation. Green&amp;#8217;s functions are also introduced as a means of obtaining closed-form solutions.",
+    "description": "Provides a first course in Fourier series, Sturm-Liouville boundary value problems, and their application to solving the fundamental partial differential equations of mathematical physics: the heat equation, the wave equation, and Laplace's equation. Green's functions are also introduced as a means of obtaining closed-form solutions.",
     "coreqs": [],
     "prereqs": []
   },
@@ -711,7 +711,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16583" }],
-    "description": "Introduces concepts and methods of linear algebra for understanding and creating machine learning and deep learning algorithms. Topics include various matrix factorizations, symmetric positive definite matrices, inner product spaces, matrix calculus, applications to probability and statistics, and optimization in high-dimensional spaces. Explores the mathematics behind data analysis, machine learning, and deep learning, including gradient descents, Newton&#39;s methods, principal components analysis, linear regression and linear methods in classification, neural networks, and convolutional neural networks. Offers students opportunities to learn and practice Python skills with labs and the final project.",
+    "description": "Introduces concepts and methods of linear algebra for understanding and creating machine learning and deep learning algorithms. Topics include various matrix factorizations, symmetric positive definite matrices, inner product spaces, matrix calculus, applications to probability and statistics, and optimization in high-dimensional spaces. Explores the mathematics behind data analysis, machine learning, and deep learning, including gradient descents, Newton's methods, principal components analysis, linear regression and linear methods in classification, neural networks, and convolutional neural networks. Offers students opportunities to learn and practice Python skills with labs and the final project.",
     "coreqs": [],
     "prereqs": []
   },
@@ -723,7 +723,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13114" }],
-    "description": "Presents the mathematical foundations of cryptology, beginning with the study of divisibility of integers, the Euclidian Algorithm, and an analysis of the Extended Euclidian Algorithm. Includes a short study of groups, semigroups, residue class rings, fields, Fermat&amp;#8217;s Little Theorem, Chinese Remainder Theorem, polynomials over fields, and the multiplicative group of residues modulo a prime number. Introduces fundamental notions used to describe encryption schemes together with examples, which include affine linear ciphers and cryptanalysis and continues with probability and perfect secrecy. Presents the Data Encryption Standard (DES) and culminates in the study of the Advanced Encryption Standard (AES), the standard encryption scheme in the United States since 2001.",
+    "description": "Presents the mathematical foundations of cryptology, beginning with the study of divisibility of integers, the Euclidian Algorithm, and an analysis of the Extended Euclidian Algorithm. Includes a short study of groups, semigroups, residue class rings, fields, Fermat's Little Theorem, Chinese Remainder Theorem, polynomials over fields, and the multiplicative group of residues modulo a prime number. Introduces fundamental notions used to describe encryption schemes together with examples, which include affine linear ciphers and cryptanalysis and continues with probability and perfect secrecy. Presents the Data Encryption Standard (DES) and culminates in the study of the Advanced Encryption Standard (AES), the standard encryption scheme in the United States since 2001.",
     "coreqs": [],
     "prereqs": []
   },
@@ -782,7 +782,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10731" }],
-    "description": "Offers a rigorous, proof-based introduction to mathematical analysis and its applications. Topics include metric spaces, convergence, compactness, and connectedness; continuous and uniformly continuous functions; derivatives, the mean value theorem, and Taylor series; Riemann integration and the fundamental theorem of calculus; interchanging limit operations; sequences of functions and uniform convergence; Arzel&amp;#224;-Ascoli and Stone-Weierstrass theorems; inverse and implicit function theorems; successive approximations and existence/uniqueness for ordinary differential equations; linear operators on finite-dimensional vector spaces and applications to systems of ordinary differential equations. Provides a series of computer projects that further develop the connections between theory and applications. Requires permission of instructor and head advisor for undergraduate students.",
+    "description": "Offers a rigorous, proof-based introduction to mathematical analysis and its applications. Topics include metric spaces, convergence, compactness, and connectedness; continuous and uniformly continuous functions; derivatives, the mean value theorem, and Taylor series; Riemann integration and the fundamental theorem of calculus; interchanging limit operations; sequences of functions and uniform convergence; Arzel&#224;-Ascoli and Stone-Weierstrass theorems; inverse and implicit function theorems; successive approximations and existence/uniqueness for ordinary differential equations; linear operators on finite-dimensional vector spaces and applications to systems of ordinary differential equations. Provides a series of computer projects that further develop the connections between theory and applications. Requires permission of instructor and head advisor for undergraduate students.",
     "coreqs": [],
     "prereqs": []
   },
@@ -833,7 +833,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12768" }],
-    "description": "Introduces the cooperative education program. Offers students an opportunity to develop job-search and career-management skills; to assess their workplace skills, interests, and values and to discuss how they impact personal career choices; to prepare a professional resum&eacute;; and to learn proper interviewing techniques. Explores career paths, choices, professional behaviors, work culture, and career decision making.",
+    "description": "Introduces the cooperative education program. Offers students an opportunity to develop job-search and career-management skills; to assess their workplace skills, interests, and values and to discuss how they impact personal career choices; to prepare a professional resumé; and to learn proper interviewing techniques. Explores career paths, choices, professional behaviors, work culture, and career decision making.",
     "coreqs": [],
     "prereqs": []
   },
@@ -873,7 +873,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18691" }],
-    "description": "Continues MATH 5121. Introduces homology and cohomology theory. Studies singular homology, homological algebra (exact sequences, axioms), Mayer-Vietoris sequence, CW-complexes and cellular homology, calculation of homology of cellular spaces, and homology with coefficients. Moves on to cohomology theory, universal coefficients theorems, Bockstein homomorphism, Knnneth formula, cup and cap products, Hopf invariant, Borsuk-Ulam theorem, and Brouwer and Lefschetz-Hopf fixed-point theorems. Ends with a study of duality in manifolds including orientation bundle, Poincar&amp;#233; duality, Lefschetz duality, Alexander duality, Euler class, Lefschetz numbers, Gysin sequence, intersection form, and signature.",
+    "description": "Continues MATH 5121. Introduces homology and cohomology theory. Studies singular homology, homological algebra (exact sequences, axioms), Mayer-Vietoris sequence, CW-complexes and cellular homology, calculation of homology of cellular spaces, and homology with coefficients. Moves on to cohomology theory, universal coefficients theorems, Bockstein homomorphism, Knnneth formula, cup and cap products, Hopf invariant, Borsuk-Ulam theorem, and Brouwer and Lefschetz-Hopf fixed-point theorems. Ends with a study of duality in manifolds including orientation bundle, Poincar&#233; duality, Lefschetz duality, Alexander duality, Euler class, Lefschetz numbers, Gysin sequence, intersection form, and signature.",
     "coreqs": [],
     "prereqs": []
   },
@@ -885,7 +885,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12063" }],
-    "description": "Covers fundamental concepts in graph theory. Topics include adjacency and incidence matrices, paths and connectedness, and vertex degrees and counting; trees and distance including properties of trees, distance in graphs, spanning trees, minimum spanning trees, and shortest paths; matchings and factors including matchings in bipartite graphs, Hall&amp;#8217;s matching condition, and min-max theorems; connectivity, such as vertex connectivity, edge connectivity, k-connected graphs, and Menger&amp;#8217;s theorem; network flows including maximum network flow, and integral flows; vertex colorings, such as upper bounds, Brooks, theorem, graphs with large chromatic number, and critical graphs; Eulerian circuits and Hamiltonian cycles including Euler&amp;#8217;s theorem, necessary conditions for Hamiltonian cycles, and sufficient conditions; planar graphs including embeddings and Euler&amp;#8217;s formula, characterization of planar graphs (Kuratowski&amp;#8217;s theorem); and Ramsey theory including Ramsey&amp;#8217;s theorem, Ramsey numbers, and graph Ramsey theory.",
+    "description": "Covers fundamental concepts in graph theory. Topics include adjacency and incidence matrices, paths and connectedness, and vertex degrees and counting; trees and distance including properties of trees, distance in graphs, spanning trees, minimum spanning trees, and shortest paths; matchings and factors including matchings in bipartite graphs, Hall's matching condition, and min-max theorems; connectivity, such as vertex connectivity, edge connectivity, k-connected graphs, and Menger's theorem; network flows including maximum network flow, and integral flows; vertex colorings, such as upper bounds, Brooks, theorem, graphs with large chromatic number, and critical graphs; Eulerian circuits and Hamiltonian cycles including Euler's theorem, necessary conditions for Hamiltonian cycles, and sufficient conditions; planar graphs including embeddings and Euler's formula, characterization of planar graphs (Kuratowski's theorem); and Ramsey theory including Ramsey's theorem, Ramsey numbers, and graph Ramsey theory.",
     "coreqs": [],
     "prereqs": []
   },
@@ -960,7 +960,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18693" }],
-    "description": "Discusses one-sample and two-sample tests; one-way ANOVA; factorial and nested designs; Cochran&amp;#8217;s theorem; linear and nonlinear regression analysis and corresponding experimental design; analysis of covariance; and simultaneous confidence intervals.",
+    "description": "Discusses one-sample and two-sample tests; one-way ANOVA; factorial and nested designs; Cochran's theorem; linear and nonlinear regression analysis and corresponding experimental design; analysis of covariance; and simultaneous confidence intervals.",
     "coreqs": [],
     "prereqs": []
   },

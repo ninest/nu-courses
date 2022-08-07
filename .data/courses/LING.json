@@ -121,7 +121,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18916" }],
-    "description": "Surveys the linguistic and social history of the English language from its Indo-European beginnings to the present. Examines the changes that have occurred in the sound system, word and sentence structures, vocabulary, semantics, and spelling from a formal linguistic perspective. Considers issues in language change&amp;#8212;the influence of foreign invasion and migration, differences in dialect, and the emergence of English as a &amp;#8220;world&amp;#8221; language.",
+    "description": "Surveys the linguistic and social history of the English language from its Indo-European beginnings to the present. Examines the changes that have occurred in the sound system, word and sentence structures, vocabulary, semantics, and spelling from a formal linguistic perspective. Considers issues in language change&#8212;the influence of foreign invasion and migration, differences in dialect, and the emergence of English as a &#8220;world&#8221; language.",
     "coreqs": [],
     "prereqs": [{ "subject": "LING", "number": "1150" }]
   }

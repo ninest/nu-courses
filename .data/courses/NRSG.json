@@ -12,7 +12,7 @@
       { "term": "202310", "crn": "16989" },
       { "term": "202310", "crn": "17158" }
     ],
-    "description": "Provides an introduction to the University, college, and health professions to enhance students&amp;#8217; understanding of self and the decisions they make academically and socially as members of the University&amp;#8217;s diverse, multicultural community. Group activities and individual assignments along with active participation in a learning community help students adjust to life on an urban campus, develop a better understanding of the learning process, acquire essential academic skills, and make connections with the faculty and students in the college.",
+    "description": "Provides an introduction to the University, college, and health professions to enhance students' understanding of self and the decisions they make academically and socially as members of the University's diverse, multicultural community. Group activities and individual assignments along with active participation in a learning community help students adjust to life on an urban campus, develop a better understanding of the learning process, acquire essential academic skills, and make connections with the faculty and students in the college.",
     "coreqs": [],
     "prereqs": []
   },
@@ -45,7 +45,7 @@
       { "term": "202310", "crn": "18621" },
       { "term": "202260", "crn": "61439" }
     ],
-    "description": "Introduces the Bouv&amp;#233; Cooperative Education Program. Offers students an opportunity to develop job-search and career-management skills. Students perform assessments of their workplace skills, interests, and values and discuss how they impact personal career decisions. Offers students an opportunity to prepare a professional-style r&amp;#233;sum&amp;#233;, learn proper interviewing techniques, and gain an understanding of the opportunities available to them for co-op. Introduces career paths, choices, and career decision making. Familiarizes students with workplace issues relative to their field of study and presents the MyNEU COOL database in the job-search and referral process. Presents and discusses co-op policies, procedures, and expectations of the Bouv&amp;#233; Cooperative Education Program and co-op employers.",
+    "description": "Introduces the Bouv&#233; Cooperative Education Program. Offers students an opportunity to develop job-search and career-management skills. Students perform assessments of their workplace skills, interests, and values and discuss how they impact personal career decisions. Offers students an opportunity to prepare a professional-style r&#233;sum&#233;, learn proper interviewing techniques, and gain an understanding of the opportunities available to them for co-op. Introduces career paths, choices, and career decision making. Familiarizes students with workplace issues relative to their field of study and presents the MyNEU COOL database in the job-search and referral process. Presents and discusses co-op policies, procedures, and expectations of the Bouv&#233; Cooperative Education Program and co-op employers.",
     "coreqs": [],
     "prereqs": []
   },
@@ -108,7 +108,7 @@
       { "term": "202310", "crn": "13012" },
       { "term": "202310", "crn": "16515" }
     ],
-    "description": "Offers a context within which students have an opportunity to begin to understand, develop, and nurture a professional nursing identity. Through situated learning within a model of whole-person care, the student may utilize clinical imagination and reasoning to explore culturally mediated behaviors and meanings that are ascribed to health and illness experiences across the life span. Empirical, personal, ethical, and aesthetic ways of knowing create a framework for personal reflection and reflexivity. Integrated learning strategies guide the beginner&amp;#8217;s study of communication and relationships with patients, families, and providers. Guiding course principles include foundations of the nursing profession, nursing self-care and well-being, compassionate care, social justice, and quality and safety.",
+    "description": "Offers a context within which students have an opportunity to begin to understand, develop, and nurture a professional nursing identity. Through situated learning within a model of whole-person care, the student may utilize clinical imagination and reasoning to explore culturally mediated behaviors and meanings that are ascribed to health and illness experiences across the life span. Empirical, personal, ethical, and aesthetic ways of knowing create a framework for personal reflection and reflexivity. Integrated learning strategies guide the beginner's study of communication and relationships with patients, families, and providers. Guiding course principles include foundations of the nursing profession, nursing self-care and well-being, compassionate care, social justice, and quality and safety.",
     "coreqs": [],
     "prereqs": []
   },
@@ -132,7 +132,7 @@
       { "term": "202310", "crn": "14338" },
       { "term": "202310", "crn": "17677" }
     ],
-    "description": "Introduces the concepts of wellness and caring utilizing the nursing process as the framework for nursing practice. Outlines the ethnic, cultural, psychosocial, and developmental gender-specific and physical aspects of health in the context of client-centered care. Discusses the formulation of nursing diagnoses to describe client problems. Offers the learner an opportunity to acquire a range of beginning assessment techniques and nursing skills that support appropriate nursing care planning and interventions for clients. Explores nurses&rsquo; engagement with therapeutic communication.",
+    "description": "Introduces the concepts of wellness and caring utilizing the nursing process as the framework for nursing practice. Outlines the ethnic, cultural, psychosocial, and developmental gender-specific and physical aspects of health in the context of client-centered care. Discusses the formulation of nursing diagnoses to describe client problems. Offers the learner an opportunity to acquire a range of beginning assessment techniques and nursing skills that support appropriate nursing care planning and interventions for clients. Explores nurses’ engagement with therapeutic communication.",
     "coreqs": [{ "subject": "NRSG", "number": "2221" }],
     "prereqs": []
   },
@@ -173,7 +173,7 @@
       { "term": "202310", "crn": "18638" },
       { "term": "202310", "crn": "18639" }
     ],
-    "description": "Designed to provide the foundation for students&rsquo; mastery of beginning assessment techniques and nursing skills for future application in clinical settings and the delivery of safe care of clients. Develops assessment and intervention skills by supervised practice and student demonstration in the nursing laboratory. Provides additional opportunities for students to enhance their skills to provide quality care, to communicate effectively, and to develop critical thinking through simulated case studies.",
+    "description": "Designed to provide the foundation for students’ mastery of beginning assessment techniques and nursing skills for future application in clinical settings and the delivery of safe care of clients. Develops assessment and intervention skills by supervised practice and student demonstration in the nursing laboratory. Provides additional opportunities for students to enhance their skills to provide quality care, to communicate effectively, and to develop critical thinking through simulated case studies.",
     "coreqs": [{ "subject": "NRSG", "number": "2220" }],
     "prereqs": []
   },
@@ -217,7 +217,7 @@
       { "term": "202310", "crn": "17680" },
       { "term": "202260", "crn": "60136" }
     ],
-    "description": "Emphasizes the promotion of health for childbearing women and their families. The nursing process provides the framework for students to assess and therapeutically intervene in promoting healthy childbearing and health during the life span. Self-care and empowerment are an integral focus in examining women&amp;#8217;s health from a developmental perspective. Examines the nursing role of the professional nurse in the context of concepts of human development of individual, family, and community. Discusses the effects of cultural, social, economic, and ethical influences and the impact of healthcare technology.",
+    "description": "Emphasizes the promotion of health for childbearing women and their families. The nursing process provides the framework for students to assess and therapeutically intervene in promoting healthy childbearing and health during the life span. Self-care and empowerment are an integral focus in examining women's health from a developmental perspective. Examines the nursing role of the professional nurse in the context of concepts of human development of individual, family, and community. Discusses the effects of cultural, social, economic, and ethical influences and the impact of healthcare technology.",
     "coreqs": [{ "subject": "NRSG", "number": "3303" }],
     "prereqs": []
   },
@@ -688,7 +688,7 @@
       { "term": "202310", "crn": "20854" },
       { "term": "202240", "crn": "40552" }
     ],
-    "description": "Seeks to facilitate the student&amp;#8217;s socialization to population-focused nursing and to plan care for the community as client. Emphasizes the application of knowledge when addressing core functions and essential services of public health, epidemiology, and economic concepts and models. Students engage in cultural and linguistic-appropriate health assessment, health promotion, and illness-prevention strategies in a variety of community settings. This may include acting as a community/public health nurse for ethical issues, health policy, coordination of care, interprofessional collaboration, liaison between agencies, and facilitation of healthcare research. Examines and evaluates types of community-based strategies used to serve underserved and vulnerable populations to ensure quality care for those living in both urban and suburban communities.",
+    "description": "Seeks to facilitate the student's socialization to population-focused nursing and to plan care for the community as client. Emphasizes the application of knowledge when addressing core functions and essential services of public health, epidemiology, and economic concepts and models. Students engage in cultural and linguistic-appropriate health assessment, health promotion, and illness-prevention strategies in a variety of community settings. This may include acting as a community/public health nurse for ethical issues, health policy, coordination of care, interprofessional collaboration, liaison between agencies, and facilitation of healthcare research. Examines and evaluates types of community-based strategies used to serve underserved and vulnerable populations to ensure quality care for those living in both urban and suburban communities.",
     "coreqs": [{ "subject": "NRSG", "number": "4604" }],
     "prereqs": []
   },
@@ -815,7 +815,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10635" }],
-    "description": "Examines the role of the advanced practice nurse within the context of today&amp;#8217;s healthcare system. Focuses discussion on dimensions of the advanced practice nursing role, including intra/interdisciplinary collaboration, consultation, leadership, diversity, and accountability for quality care. Examines the healthcare system with special focus on social, political, economic, ethical, regulatory, research, and legal trends. Students are expected to evaluate the interaction between healthcare system issues and advanced practice role dimensions.",
+    "description": "Examines the role of the advanced practice nurse within the context of today's healthcare system. Focuses discussion on dimensions of the advanced practice nursing role, including intra/interdisciplinary collaboration, consultation, leadership, diversity, and accountability for quality care. Examines the healthcare system with special focus on social, political, economic, ethical, regulatory, research, and legal trends. Students are expected to evaluate the interaction between healthcare system issues and advanced practice role dimensions.",
     "coreqs": [],
     "prereqs": []
   },
@@ -880,7 +880,7 @@
       { "term": "202310", "crn": "17687" },
       { "term": "202260", "crn": "60808" }
     ],
-    "description": "Introduces students to the different types of research methodologies used by healthcare disciplines. Emphasizes designing research studies and application of research findings to practice within the student&#39;s particular discipline. Topics include foundations of research, ethical conduct of research, research methodologies, concepts of measurement, qualitative and quantitative research design, and the analysis and dissemination of research findings. Discusses the importance of research to both healthcare practitioners and consumers with an emphasis on patient-centered outcomes.",
+    "description": "Introduces students to the different types of research methodologies used by healthcare disciplines. Emphasizes designing research studies and application of research findings to practice within the student's particular discipline. Topics include foundations of research, ethical conduct of research, research methodologies, concepts of measurement, qualitative and quantitative research design, and the analysis and dissemination of research findings. Discusses the importance of research to both healthcare practitioners and consumers with an emphasis on patient-centered outcomes.",
     "coreqs": [],
     "prereqs": []
   },
@@ -907,7 +907,7 @@
       { "term": "202310", "crn": "11087" },
       { "term": "202310", "crn": "12553" }
     ],
-    "description": "Focuses on human physiology and the development of advanced health assessment knowledge and skills related to performing regional and comprehensive examinations of the client across the life span. Includes variables among cultural groups. Students synthesize knowledge from nursing, physical, social, and health sciences as they analyze data collected in the assessment process. Focuses on interviewing skills and systematic performance, analysis and documentation of health assessment process. Differentiation of normal and abnormal findings is emphasized utilizing critical thinking. Introduces the student to diagnostic reasoning within the scope of practice of the nurse in the advanced practice role. &lt;i&gt;Nursing degree students only.&lt;/i&gt;",
+    "description": "Focuses on human physiology and the development of advanced health assessment knowledge and skills related to performing regional and comprehensive examinations of the client across the life span. Includes variables among cultural groups. Students synthesize knowledge from nursing, physical, social, and health sciences as they analyze data collected in the assessment process. Focuses on interviewing skills and systematic performance, analysis and documentation of health assessment process. Differentiation of normal and abnormal findings is emphasized utilizing critical thinking. Introduces the student to diagnostic reasoning within the scope of practice of the nurse in the advanced practice role. <i>Nursing degree students only.</i>",
     "coreqs": [],
     "prereqs": []
   },
@@ -954,7 +954,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "11264" }],
-    "description": "Focuses on the acquisition of knowledge about complex physiological concepts essential to the care of the critically ill neonate. Begins with the actual and potential alterations in fetal/neonatal well-being, adaptation to extrauterine life, and factors that interfere with adaptation to extrauterine life. Also emphasizes the acquisition of theoretical knowledge essential to understanding the neonate&amp;#8217;s response to life-threatening problems. Discusses neonatal pathophysiologic disorders in terms of the nursing process and management of the neonate and their families. Uses current theories and research from nursing, biomedical, physical, and behavioral sciences as a basis for clinical decision making. The nursing process and developmental theory are frameworks utilized to structure the delivery of course content.",
+    "description": "Focuses on the acquisition of knowledge about complex physiological concepts essential to the care of the critically ill neonate. Begins with the actual and potential alterations in fetal/neonatal well-being, adaptation to extrauterine life, and factors that interfere with adaptation to extrauterine life. Also emphasizes the acquisition of theoretical knowledge essential to understanding the neonate's response to life-threatening problems. Discusses neonatal pathophysiologic disorders in terms of the nursing process and management of the neonate and their families. Uses current theories and research from nursing, biomedical, physical, and behavioral sciences as a basis for clinical decision making. The nursing process and developmental theory are frameworks utilized to structure the delivery of course content.",
     "coreqs": [],
     "prereqs": []
   },
@@ -990,7 +990,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10634" }],
-    "description": "Focuses on the health assessment on newborns, well children, adolescents, and their families within a community. Discusses issues most pertinent to the various ages of the well child within a community-based primary care framework of anticipatory guidance and health promotion. Emphasizes the utilization of a comprehensive approach to preventative healthcare by examining the impact of psychological, sociological, developmental, behavioral, cultural, and physiological factors on the child&amp;#8217;s health status within the family and community. Includes routine healthcare maintenance, screening, developmental issues, genetic implications, family dynamics, confidentiality, self-care, and common health concerns encountered in primary care settings.",
+    "description": "Focuses on the health assessment on newborns, well children, adolescents, and their families within a community. Discusses issues most pertinent to the various ages of the well child within a community-based primary care framework of anticipatory guidance and health promotion. Emphasizes the utilization of a comprehensive approach to preventative healthcare by examining the impact of psychological, sociological, developmental, behavioral, cultural, and physiological factors on the child's health status within the family and community. Includes routine healthcare maintenance, screening, developmental issues, genetic implications, family dynamics, confidentiality, self-care, and common health concerns encountered in primary care settings.",
     "coreqs": [{ "subject": "NRSG", "number": "6460" }],
     "prereqs": [{ "subject": "NRSG", "number": "6115" }]
   },
@@ -1062,7 +1062,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14095" }],
-    "description": "Covers healthcare economics and the financial and marketing functions and responsibilities of healthcare leaders. Emphasizes the decision-making process involved in assuring financial management and management of the exchange process between an organization and its &amp;#8220;publics&amp;#8221; by which both parties satisfy their needs and wants (marketing). Focuses on the integration of clinical and business aspects of healthcare into decision making for the advanced practice nurse leader.",
+    "description": "Covers healthcare economics and the financial and marketing functions and responsibilities of healthcare leaders. Emphasizes the decision-making process involved in assuring financial management and management of the exchange process between an organization and its &#8220;publics&#8221; by which both parties satisfy their needs and wants (marketing). Focuses on the integration of clinical and business aspects of healthcare into decision making for the advanced practice nurse leader.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1219,7 +1219,7 @@
       { "term": "202310", "crn": "10679" },
       { "term": "202310", "crn": "11443" }
     ],
-    "description": "Provides clinical experience with individuals and families throughout the life span in a psychiatric mental health setting in the advanced practice nursing role. Includes a didactic seminar that focuses on assessment of psychopathology and mental health, psychodiagnostic history taking, mental status evaluation, differential diagnosis, and treatment for various aged diverse clients. Requires students to develop a caseload, and to practice in the clinical setting a minimum of twenty hours per week with an agency preceptor. Integration of theory and practice is emphasized, utilizing the data from the students&amp;#8217; clinical placement as they apply to the specific diagnoses presented in clinical work. Also requires students to draft a needs assessment proposal to be completed in NRSG 6481.",
+    "description": "Provides clinical experience with individuals and families throughout the life span in a psychiatric mental health setting in the advanced practice nursing role. Includes a didactic seminar that focuses on assessment of psychopathology and mental health, psychodiagnostic history taking, mental status evaluation, differential diagnosis, and treatment for various aged diverse clients. Requires students to develop a caseload, and to practice in the clinical setting a minimum of twenty hours per week with an agency preceptor. Integration of theory and practice is emphasized, utilizing the data from the students' clinical placement as they apply to the specific diagnoses presented in clinical work. Also requires students to draft a needs assessment proposal to be completed in NRSG 6481.",
     "coreqs": [],
     "prereqs": [{ "subject": "NRSG", "number": "6281" }]
   },
@@ -1285,7 +1285,7 @@
       { "term": "202310", "crn": "13197" },
       { "term": "202310", "crn": "13121" }
     ],
-    "description": "Offers graduate nursing students an opportunity to work singly or in groups of two with an experienced researcher in an area related to their clinical specialization or other professional interest. The student&amp;#8217;s individual contribution depends on the stage of the research project and is determined jointly by the student, faculty liaison, and researcher. Evaluation includes the student&amp;#8217;s individual effort, participation in the collaborative research process, and appraisal of the learning experience as a research assistant. By participating in an established, scientifically significant project, offers students an opportunity to actively experience the &amp;#8220;real-life&amp;#8221; aspects of conducting research and to be socialized to the role of the researcher.",
+    "description": "Offers graduate nursing students an opportunity to work singly or in groups of two with an experienced researcher in an area related to their clinical specialization or other professional interest. The student's individual contribution depends on the stage of the research project and is determined jointly by the student, faculty liaison, and researcher. Evaluation includes the student's individual effort, participation in the collaborative research process, and appraisal of the learning experience as a research assistant. By participating in an established, scientifically significant project, offers students an opportunity to actively experience the &#8220;real-life&#8221; aspects of conducting research and to be socialized to the role of the researcher.",
     "coreqs": [],
     "prereqs": [{ "subject": "NRSG", "number": "7105" }]
   },
@@ -1357,7 +1357,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "10612" }],
-    "description": "Introduces basic concepts in philosophy of science and the development of knowledge. Explores the historical development and themes for knowledge building in nursing and healthcare. Offers students an opportunity to analyze different ways of knowing and world views as they relate to the development of programs of research in nursing. Content from this course is applied to each student&amp;#8217;s area of research interest. The examination of the scientific literature, identification of gaps in knowledge, and the development of research questions are completed to begin the process of developing a research plan.",
+    "description": "Introduces basic concepts in philosophy of science and the development of knowledge. Explores the historical development and themes for knowledge building in nursing and healthcare. Offers students an opportunity to analyze different ways of knowing and world views as they relate to the development of programs of research in nursing. Content from this course is applied to each student's area of research interest. The examination of the scientific literature, identification of gaps in knowledge, and the development of research questions are completed to begin the process of developing a research plan.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1369,7 +1369,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20857" }],
-    "description": "Designed as a complement to NRSG 7105 or equivalent. Offers students an opportunity to obtain skills and competencies needed for a practice doctorate&amp;#8212;ability to generate new knowledge from practice, evaluate current practice approaches, analyze current knowledge, and adapt/translate knowledge into usable clinical strategies that improve practice and lead to better outcomes.",
+    "description": "Designed as a complement to NRSG 7105 or equivalent. Offers students an opportunity to obtain skills and competencies needed for a practice doctorate&#8212;ability to generate new knowledge from practice, evaluate current practice approaches, analyze current knowledge, and adapt/translate knowledge into usable clinical strategies that improve practice and lead to better outcomes.",
     "coreqs": [],
     "prereqs": []
   },

@@ -567,7 +567,7 @@
       { "term": "202310", "crn": "13947" },
       { "term": "202240", "crn": "41467" }
     ],
-    "description": "The Chemistry major&#39;s restriction will be lifted at the conclusion of time ticketed registration.",
+    "description": "The Chemistry major's restriction will be lifted at the conclusion of time ticketed registration.",
     "coreqs": [{ "number": "2322" }, { "number": "2323" }],
     "prereqs": ["(", "Or", "Or", "Or", ")", "And", "(", "Or", ")"]
   },
@@ -860,7 +860,7 @@
       { "term": "202310", "crn": "12194" },
       { "term": "202240", "crn": "40653" }
     ],
-    "description": "Accompanies CHEM 4456. Integrates elements of experimental design, organic synthesis, isolation and characterization of organic compounds, and interpretation of experimental observations. Students, working in small groups, evaluate a multistep synthesis of a compound developed for clinical trials as an anticancer agent, conducting the synthetic sequence, completing each reaction, characterizing the products, and interpreting and reporting the results. A final report in the form of an American Chemical Society (ACS) manuscript summarizes each group&rsquo;s efforts.",
+    "description": "Accompanies CHEM 4456. Integrates elements of experimental design, organic synthesis, isolation and characterization of organic compounds, and interpretation of experimental observations. Students, working in small groups, evaluate a multistep synthesis of a compound developed for clinical trials as an anticancer agent, conducting the synthetic sequence, completing each reaction, characterizing the products, and interpreting and reporting the results. A final report in the form of an American Chemical Society (ACS) manuscript summarizes each group’s efforts.",
     "coreqs": [{ "number": "4456" }],
     "prereqs": []
   },
@@ -1191,7 +1191,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [{ "term": "202310", "crn": "19221" }],
-    "description": "Examines the biological, chemical, and physical interactions that shape our global environment. These interactions combine in the global biogeochemical cycles. Industrial emission of gases, use of fertilizers and plastics, and the expansion of cities are altering the biogeochemical cycling of the elements carbon, nitrogen, and phosphorus at rates unprecedented in the geological record. Uses lectures and the latest update to Chapter 6, &ldquo;Carbon and Other Biogeochemical Cycles,&rdquo; of the International Panel on Climate Change report to explore the main interactions between human activity, biogeochemical change, and climate. Discusses primary literature to delve deeper into these interactions.",
+    "description": "Examines the biological, chemical, and physical interactions that shape our global environment. These interactions combine in the global biogeochemical cycles. Industrial emission of gases, use of fertilizers and plastics, and the expansion of cities are altering the biogeochemical cycling of the elements carbon, nitrogen, and phosphorus at rates unprecedented in the geological record. Uses lectures and the latest update to Chapter 6, “Carbon and Other Biogeochemical Cycles,” of the International Panel on Climate Change report to explore the main interactions between human activity, biogeochemical change, and climate. Discusses primary literature to delve deeper into these interactions.",
     "coreqs": [],
     "prereqs": []
   },

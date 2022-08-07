@@ -149,7 +149,7 @@
       { "term": "202310", "crn": "13788" },
       { "term": "202240", "crn": "41786" }
     ],
-    "description": "Provides an overview of the most popular information systems needs&amp;#8217; assessment methodologies including portfolio analysis, stage assessment, business systems planning, and the Alloway survey technique. Topics include utilities IS strategic plan prioritization techniques of business goal alignment, architectural compatibility, and cost/benefit and risk analysis to demonstrate how businesses match needs to budgetary constraints. Describes and evaluates options for the placement of the IS function within the organization and a variety of methods to manage the function. Introduces a generic application development and project planning methodology used as a model to facilitate the development of a four-stage project plan for a prototype project. Uses the Project Management Institute&amp;#8217;s PMBOK and Harvard Business School case studies extensively.",
+    "description": "Provides an overview of the most popular information systems needs' assessment methodologies including portfolio analysis, stage assessment, business systems planning, and the Alloway survey technique. Topics include utilities IS strategic plan prioritization techniques of business goal alignment, architectural compatibility, and cost/benefit and risk analysis to demonstrate how businesses match needs to budgetary constraints. Describes and evaluates options for the placement of the IS function within the organization and a variety of methods to manage the function. Introduces a generic application development and project planning methodology used as a model to facilitate the development of a four-stage project plan for a prototype project. Uses the Project Management Institute's PMBOK and Harvard Business School case studies extensively.",
     "coreqs": [],
     "prereqs": []
   },
@@ -230,7 +230,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13710" }],
-    "description": "Seeks to support successful engineering careers by offering students an applied understanding of ethical principles in the workplace and fundamentals of intellectual property and the American legal system. Seeks to increase students&amp;#8217; awareness of the ethical implications of their work and to influence colleagues to think and act in a socially cognizant manner. Introduces ethical principles and codes of professional ethics; types of intellectual property (patents, trade secrets, trademarks, copyrights); and fundamentals of the American legal system (sources of American law, contracts, torts, intellectual property, antitrust). Offers students an opportunity to practice verbal communication and presentation skills; develop an applied understanding of the relationship and differences between legal liability and ethical behavior; and develop applied critical thinking, communication, and presentation skills.",
+    "description": "Seeks to support successful engineering careers by offering students an applied understanding of ethical principles in the workplace and fundamentals of intellectual property and the American legal system. Seeks to increase students' awareness of the ethical implications of their work and to influence colleagues to think and act in a socially cognizant manner. Introduces ethical principles and codes of professional ethics; types of intellectual property (patents, trade secrets, trademarks, copyrights); and fundamentals of the American legal system (sources of American law, contracts, torts, intellectual property, antitrust). Offers students an opportunity to practice verbal communication and presentation skills; develop an applied understanding of the relationship and differences between legal liability and ethical behavior; and develop applied critical thinking, communication, and presentation skills.",
     "coreqs": [],
     "prereqs": []
   },
@@ -242,7 +242,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202260", "crn": "61468" }],
-    "description": "Offers students an opportunity to master advanced software design and programming techniques for building complex software applications quickly. The engineering issues addressed assume the business problems are difficult to understand and manage in a practical manner&amp;#8212;the system capacity must support thousands or even millions of users in a multitude of roles. Addresses high-performance computing requirements, such as concurrency and control, scalability, replication, and failover.",
+    "description": "Offers students an opportunity to master advanced software design and programming techniques for building complex software applications quickly. The engineering issues addressed assume the business problems are difficult to understand and manage in a practical manner&#8212;the system capacity must support thousands or even millions of users in a multitude of roles. Addresses high-performance computing requirements, such as concurrency and control, scalability, replication, and failover.",
     "coreqs": [],
     "prereqs": [
       { "subject": "INFO", "number": "5100" },
@@ -343,7 +343,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12152" }],
-    "description": "Focuses on the change effort needed to integrate a project into the firm&amp;#8217;s organizational structure, culture, business, and process metrics. Geared for students undertaking enterprise resource planning systems, or those involved in small or large organizational reengineering projects designed to make IT a primary focus of the firm&amp;#8217;s business strategy. Topics include management theories and organizational design principles; strategy and critical success factor formulation; methods to reach information systems maturity; business process modeling techniques; quality, the mindset, and the problem-solving tools; human resource, cultural, and technical change enablers; how to plan a business reengineering project; and implementation of major organizational change.",
+    "description": "Focuses on the change effort needed to integrate a project into the firm's organizational structure, culture, business, and process metrics. Geared for students undertaking enterprise resource planning systems, or those involved in small or large organizational reengineering projects designed to make IT a primary focus of the firm's business strategy. Topics include management theories and organizational design principles; strategy and critical success factor formulation; methods to reach information systems maturity; business process modeling techniques; quality, the mindset, and the problem-solving tools; human resource, cultural, and technical change enablers; how to plan a business reengineering project; and implementation of major organizational change.",
     "coreqs": [],
     "prereqs": []
   },
@@ -385,7 +385,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13352" }],
-    "description": "Focuses on communication strategies and tactics for engineers at the interpersonal, team, and organizational level. Course topics include forms (oral and written), styles, and differences in communication; coaching and giving feedback to staff; and building teams, managing conflict, and special topics in organizational communication. The primary goal is to strengthen the students&amp;#8217; social and emotional intelligence skills to help them progress along their engineering career path. Combines academic content with practical skill-building activities.",
+    "description": "Focuses on communication strategies and tactics for engineers at the interpersonal, team, and organizational level. Course topics include forms (oral and written), styles, and differences in communication; coaching and giving feedback to staff; and building teams, managing conflict, and special topics in organizational communication. The primary goal is to strengthen the students' social and emotional intelligence skills to help them progress along their engineering career path. Combines academic content with practical skill-building activities.",
     "coreqs": [],
     "prereqs": []
   },
@@ -424,7 +424,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "13389" }],
-    "description": "Emphasizes the essential coding skills for implementing self-enforcing, multiparty, mutually beneficial, contractual rights and obligations on top of blockchain technologies. Offers students an opportunity to learn how to leverage the principles and mechanisms of &amp;#8220;decentralized autonomous organization&amp;#8221; to programmatically coordinate the interaction between participating parties at a global scale without the need for trusting a third party and how to build blockchain-type applications that automate the interaction of a network of participating entities such as buyers, sellers, suppliers, insurance, and finance.",
+    "description": "Emphasizes the essential coding skills for implementing self-enforcing, multiparty, mutually beneficial, contractual rights and obligations on top of blockchain technologies. Offers students an opportunity to learn how to leverage the principles and mechanisms of &#8220;decentralized autonomous organization&#8221; to programmatically coordinate the interaction between participating parties at a global scale without the need for trusting a third party and how to build blockchain-type applications that automate the interaction of a network of participating entities such as buyers, sellers, suppliers, insurance, and finance.",
     "coreqs": [],
     "prereqs": [{ "subject": "INFO", "number": "7500" }]
   },

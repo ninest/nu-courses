@@ -57,7 +57,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12025" }],
-    "description": "Addresses the strategic and operational role of sourcing and procurement and its impact on the supply chain as it relates to the entire organization. The selection, contracting, development and monitoring/managing of the right supplier in the right location is more often a source of competitive advantage and a major contributor to a company&amp;#8217;s bottom line. The course focuses on a variety of aspects of this function&amp;#8212;strategy development, organization, procedures, supplier selection, negotiations, buyer-supplier relationship management, quantity, quality, timeliness, and cost/price considerations for the purchase of goods and services.",
+    "description": "Addresses the strategic and operational role of sourcing and procurement and its impact on the supply chain as it relates to the entire organization. The selection, contracting, development and monitoring/managing of the right supplier in the right location is more often a source of competitive advantage and a major contributor to a company's bottom line. The course focuses on a variety of aspects of this function&#8212;strategy development, organization, procedures, supplier selection, negotiations, buyer-supplier relationship management, quantity, quality, timeliness, and cost/price considerations for the purchase of goods and services.",
     "coreqs": [],
     "prereqs": [{ "subject": "SCHM", "number": "2301" }]
   },
@@ -162,7 +162,7 @@
       { "term": "202310", "crn": "12631" },
       { "term": "202310", "crn": "19705" }
     ],
-    "description": "Addresses the strategic and operational role of sourcing and procurement and its impact on the supply chain as it relates to the entire organization. The selection, contracting, development, and monitoring/managing of the right supplier in the right location is more often a source of competitive advantage and a major contributor to a company&amp;#8217;s bottom line. Focuses on a variety of aspects of this function&amp;#8212;strategy development, organization, procedures, supplier selection, negotiations, buyer-supplier relationship management, quantity, quality, timeliness, and cost/price considerations for the purchase of goods and services. Emphasizes the perspective of the sourcing and procurement manager. The key questions addressed in this course are: What does the manager need to know to be effective? How do they apply key concepts?",
+    "description": "Addresses the strategic and operational role of sourcing and procurement and its impact on the supply chain as it relates to the entire organization. The selection, contracting, development, and monitoring/managing of the right supplier in the right location is more often a source of competitive advantage and a major contributor to a company's bottom line. Focuses on a variety of aspects of this function&#8212;strategy development, organization, procedures, supplier selection, negotiations, buyer-supplier relationship management, quantity, quality, timeliness, and cost/price considerations for the purchase of goods and services. Emphasizes the perspective of the sourcing and procurement manager. The key questions addressed in this course are: What does the manager need to know to be effective? How do they apply key concepts?",
     "coreqs": [],
     "prereqs": [
       { "subject": "SCHM", "number": "6201" },

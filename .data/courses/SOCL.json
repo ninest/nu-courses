@@ -7,7 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "14113" }],
-    "description": "Intended for first-year students in the College of Social Sciences and Humanities. Introduces students to liberal arts; familiarizes them with their major; develops the academic skills necessary to succeed (analytical ability and critical thinking); provides grounding in the culture and values of the University community; and helps to develop interpersonal skills&amp;#8212;in short, familiarizes students with all skills needed to become a successful university student.",
+    "description": "Intended for first-year students in the College of Social Sciences and Humanities. Introduces students to liberal arts; familiarizes them with their major; develops the academic skills necessary to succeed (analytical ability and critical thinking); provides grounding in the culture and values of the University community; and helps to develop interpersonal skills&#8212;in short, familiarizes students with all skills needed to become a successful university student.",
     "coreqs": [],
     "prereqs": []
   },
@@ -193,7 +193,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [{ "term": "202310", "crn": "19723" }],
-    "description": "Introduces key issues, themes, and debates in feminist transnational theory, practice, and activism in contemporary contexts and how it has changed under socioeconomic, political, and cultural processes of globalization. Examines differences among women relating to race, class, sexuality, national identity, and political economy in reckoning with possibilities for sustainable social justice. Students interrogate the relationship between the local and global; the production of knowledge in different regional spaces; the pragmatics of political mobilization; the varying contours of &amp;#8220;social justice&amp;#8221;; and other key issues. Offers students an opportunity to discuss the impact of globalization, neoliberalism, and state and intimate violence on gendered politics and relations and to contend with the politics of difference, to debate its challenges, and to imagine possible futures for transnational gender justice.",
+    "description": "Introduces key issues, themes, and debates in feminist transnational theory, practice, and activism in contemporary contexts and how it has changed under socioeconomic, political, and cultural processes of globalization. Examines differences among women relating to race, class, sexuality, national identity, and political economy in reckoning with possibilities for sustainable social justice. Students interrogate the relationship between the local and global; the production of knowledge in different regional spaces; the pragmatics of political mobilization; the varying contours of &#8220;social justice&#8221;; and other key issues. Offers students an opportunity to discuss the impact of globalization, neoliberalism, and state and intimate violence on gendered politics and relations and to contend with the politics of difference, to debate its challenges, and to imagine possible futures for transnational gender justice.",
     "coreqs": [],
     "prereqs": []
   },
@@ -253,7 +253,7 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [{ "term": "202310", "crn": "19535" }],
-    "description": "Explores theories and research on the institutionalized forms of inequality that have accompanied the rise of advanced capitalism in Western society. Major topics include the competing definitions of class that have developed among social scientists; the relation between class and race in the United States; how class and gender have intersected historically; and the link between workers&#39; movements, political systems, and the forms that capitalist development has assumed in Western Europe and the United States. Students conduct projects in which they explore the conceptions of social justice held by members of subordinate groups.",
+    "description": "Explores theories and research on the institutionalized forms of inequality that have accompanied the rise of advanced capitalism in Western society. Major topics include the competing definitions of class that have developed among social scientists; the relation between class and race in the United States; how class and gender have intersected historically; and the link between workers' movements, political systems, and the forms that capitalist development has assumed in Western Europe and the United States. Students conduct projects in which they explore the conceptions of social justice held by members of subordinate groups.",
     "coreqs": [],
     "prereqs": []
   },
@@ -265,7 +265,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [{ "term": "202260", "crn": "61250" }],
-    "description": "Considers the intersection of race, class, and gender in social structure, institutions, and people&amp;#8217;s lives. Utilizes an interdisciplinary approach to focus on the socially constructed nature of these concepts and how they shape and create meaning in individual lives. Difference with an emphasis on inequality and varying life chances is central for understanding our society and is central to our work. Requires a significant amount of reading. Class format is like a seminar; students are expected to participate, take responsibility, and write a paper. SOCL 4520 and WMNS 4520 are cross-listed.",
+    "description": "Considers the intersection of race, class, and gender in social structure, institutions, and people's lives. Utilizes an interdisciplinary approach to focus on the socially constructed nature of these concepts and how they shape and create meaning in individual lives. Difference with an emphasis on inequality and varying life chances is central for understanding our society and is central to our work. Requires a significant amount of reading. Class format is like a seminar; students are expected to participate, take responsibility, and write a paper. SOCL 4520 and WMNS 4520 are cross-listed.",
     "coreqs": [],
     "prereqs": []
   },
@@ -330,7 +330,7 @@
       { "term": "202310", "crn": "19701" },
       { "term": "202310", "crn": "20795" }
     ],
-    "description": "Offers students an opportunity to integrate and apply knowledge of the discipline by building on completed course work and conducting original research on a topic of their choice. Requires students to produce a research paper due at the end of the semester. This seminar operates as an intellectual workshop in which students share the process, as well as the results, of their research with the group. The class comes together to inform, guide, critique, and support one another&amp;#8217;s research efforts in a collaborative fashion. Students are expected to make constructive comments on the work of others and to freely exchange ideas.",
+    "description": "Offers students an opportunity to integrate and apply knowledge of the discipline by building on completed course work and conducting original research on a topic of their choice. Requires students to produce a research paper due at the end of the semester. This seminar operates as an intellectual workshop in which students share the process, as well as the results, of their research with the group. The class comes together to inform, guide, critique, and support one another's research efforts in a collaborative fashion. Students are expected to make constructive comments on the work of others and to freely exchange ideas.",
     "coreqs": [],
     "prereqs": []
   },
@@ -396,7 +396,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19537" }],
-    "description": "Explores the social psychological dimensions of structured social inequality. Overviews the &amp;#8220;social psychologies&amp;#8221; embedded in the classical social theorists, then explores the literature on sociological social psychology (as opposed to its psychological cousin), identifying key theoretical frameworks and focusing on &amp;#8220;social structure and personality&amp;#8221; (or &amp;#8220;social structure and attitudes&amp;#8221;) research. Explores relevant literatures on various &amp;#8220;subjective&amp;#8221; responses to stratification including the self-concept, stratum (that is, race, class, or gender) identification and consciousness, the process of legitimation, stratification beliefs (or stratification ideology), racial attitudes, and links between these phenomena and various policy attitudes and preferences (support for affirmative action, wealth redistribution, and so on). Also explores the ways in which such responses may contribute to the maintenance and reproduction of the status quo (social reproduction), and social change.",
+    "description": "Explores the social psychological dimensions of structured social inequality. Overviews the &#8220;social psychologies&#8221; embedded in the classical social theorists, then explores the literature on sociological social psychology (as opposed to its psychological cousin), identifying key theoretical frameworks and focusing on &#8220;social structure and personality&#8221; (or &#8220;social structure and attitudes&#8221;) research. Explores relevant literatures on various &#8220;subjective&#8221; responses to stratification including the self-concept, stratum (that is, race, class, or gender) identification and consciousness, the process of legitimation, stratification beliefs (or stratification ideology), racial attitudes, and links between these phenomena and various policy attitudes and preferences (support for affirmative action, wealth redistribution, and so on). Also explores the ways in which such responses may contribute to the maintenance and reproduction of the status quo (social reproduction), and social change.",
     "coreqs": [],
     "prereqs": []
   },

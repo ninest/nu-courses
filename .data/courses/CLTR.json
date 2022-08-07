@@ -28,7 +28,7 @@
       { "term": "202310", "crn": "15396" },
       { "term": "202310", "crn": "16509" }
     ],
-    "description": "Examines contemporary works of cinematography in Latin America, focusing on the culture and imagery of the Spanish-, French-, and Portuguese-speaking peoples of the Western hemisphere, including the United States. Critically engages&amp;#8212;from a technical (cinematographic), genre, and sociohistorical perspective&amp;#8212;topics of history, memory, and cultural resiliency; colonialism, racism, and patriarchy; dictatorship, revolution, and democratization; and nationalism, dependency, and globalization. Conducted in English; most films are in French, Portuguese, or Spanish with English subtitles.",
+    "description": "Examines contemporary works of cinematography in Latin America, focusing on the culture and imagery of the Spanish-, French-, and Portuguese-speaking peoples of the Western hemisphere, including the United States. Critically engages&#8212;from a technical (cinematographic), genre, and sociohistorical perspective&#8212;topics of history, memory, and cultural resiliency; colonialism, racism, and patriarchy; dictatorship, revolution, and democratization; and nationalism, dependency, and globalization. Conducted in English; most films are in French, Portuguese, or Spanish with English subtitles.",
     "coreqs": [],
     "prereqs": []
   },
@@ -40,7 +40,7 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [{ "term": "202310", "crn": "10449" }],
-    "description": "Explores contemporary France and French mentality through lectures, screenings, readings, and discussions. Topics covered include the modern vs. the traditional family, social reproduction, gender norms, culture and social distinction, the concept of &amp;#8220;grandeur,&amp;#8221; identity, and immigration. Offers students an opportunity to evaluate historical and sociological readings, films, documentaries, and TV commercials; to compare French and American systems; and to consider contemporary human and social behaviors in the face of globalization.",
+    "description": "Explores contemporary France and French mentality through lectures, screenings, readings, and discussions. Topics covered include the modern vs. the traditional family, social reproduction, gender norms, culture and social distinction, the concept of &#8220;grandeur,&#8221; identity, and immigration. Offers students an opportunity to evaluate historical and sociological readings, films, documentaries, and TV commercials; to compare French and American systems; and to consider contemporary human and social behaviors in the face of globalization.",
     "coreqs": [],
     "prereqs": []
   },
@@ -52,7 +52,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [{ "term": "202310", "crn": "10568" }],
-    "description": "Explores the construction of an Italian national cultural identity through a historical and cross-disciplinary perspective from the Middle Ages; the Renaissance; and the modern, post&ndash;WWII period. Organized into modules that focus on the major issues related to the idea of unity and division such as north and south divide, regionalism, language pluralism, fascism and dissent, criminal organizations, and migration. Conducted in English.",
+    "description": "Explores the construction of an Italian national cultural identity through a historical and cross-disciplinary perspective from the Middle Ages; the Renaissance; and the modern, post–WWII period. Organized into modules that focus on the major issues related to the idea of unity and division such as north and south divide, regionalism, language pluralism, fascism and dissent, criminal organizations, and migration. Conducted in English.",
     "coreqs": [],
     "prereqs": []
   },
@@ -88,7 +88,7 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [{ "term": "202310", "crn": "19060" }],
-    "description": "Explores contending theories of identity and nationalism&mdash;a powerful force in international and domestic politics. Examines topics such as the process of identity creation, the choice of national symbols, how group boundaries are established, the role of identity in conflict and state building, and the debate over nationalism&rsquo;s constructed or primordial nature. POLS 3418 and CLTR 3418 are cross-listed.",
+    "description": "Explores contending theories of identity and nationalism—a powerful force in international and domestic politics. Examines topics such as the process of identity creation, the choice of national symbols, how group boundaries are established, the role of identity in conflict and state building, and the debate over nationalism’s constructed or primordial nature. POLS 3418 and CLTR 3418 are cross-listed.",
     "coreqs": [],
     "prereqs": []
   },

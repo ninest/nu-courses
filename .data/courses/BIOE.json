@@ -175,7 +175,7 @@
       { "term": "202310", "crn": "12606" },
       { "term": "202310", "crn": "14502" }
     ],
-    "description": "Focuses on the principles of thermodynamics and kinetics applied to the analysis and design of biomolecular systems. Covers foundational topics&amp;#8212;such as mass and energy balances, chemical equilibria, and enzyme kinetics&amp;#8212;in a biological context. Introduces the role of feedback and feed-forward control in biomolecular networks, emphasizing basic analytical and computational methods, including the use of MATLAB, for analyzing how these regulatory structures affect the dynamics of small-scale, prototypical networks.",
+    "description": "Focuses on the principles of thermodynamics and kinetics applied to the analysis and design of biomolecular systems. Covers foundational topics&#8212;such as mass and energy balances, chemical equilibria, and enzyme kinetics&#8212;in a biological context. Introduces the role of feedback and feed-forward control in biomolecular networks, emphasizing basic analytical and computational methods, including the use of MATLAB, for analyzing how these regulatory structures affect the dynamics of small-scale, prototypical networks.",
     "coreqs": [],
     "prereqs": []
   },
@@ -190,7 +190,7 @@
       { "term": "202260", "crn": "60372" },
       { "term": "202240", "crn": "40390" }
     ],
-    "description": "Offers the first in a two-course sequence of capstone design. Introduces principles of engineering design and applies them to the design of bioengineered devices. Topics consist of ethics, cost engineering, research methods, intellectual property, technical report writing, and FDA design control&mdash;including inputs, outputs, verification, validation, and design history files. Students are formed into teams and paired with a faculty advisor and supporter. Project support can be departmental, industrial, or external. Students defend a preliminary design project proposal in written and oral form before a faculty jury.",
+    "description": "Offers the first in a two-course sequence of capstone design. Introduces principles of engineering design and applies them to the design of bioengineered devices. Topics consist of ethics, cost engineering, research methods, intellectual property, technical report writing, and FDA design control—including inputs, outputs, verification, validation, and design history files. Students are formed into teams and paired with a faculty advisor and supporter. Project support can be departmental, industrial, or external. Students defend a preliminary design project proposal in written and oral form before a faculty jury.",
     "coreqs": [],
     "prereqs": []
   },
@@ -350,7 +350,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16870" }],
-    "description": "Focuses on the translation and commercialization of bioengineering products and technology. Offers students an opportunity to gain essential entrepreneurship skills through studying and exercising the key elements and processes in establishing and launching a biotechnology startup. Examines how to assess bioengineering product and technology opportunities, evaluate the technology&rsquo;s market potential, navigate the landscape of intellectual property protection and FDA regulation for bioengineering products, form a biotechnology startup company, write a business plan, and pitch startups to prospective investors. Covers fundamentals of engineering economics.",
+    "description": "Focuses on the translation and commercialization of bioengineering products and technology. Offers students an opportunity to gain essential entrepreneurship skills through studying and exercising the key elements and processes in establishing and launching a biotechnology startup. Examines how to assess bioengineering product and technology opportunities, evaluate the technology’s market potential, navigate the landscape of intellectual property protection and FDA regulation for bioengineering products, form a biotechnology startup company, write a business plan, and pitch startups to prospective investors. Covers fundamentals of engineering economics.",
     "coreqs": [],
     "prereqs": []
   },
@@ -476,7 +476,7 @@
       { "term": "202310", "crn": "19325" },
       { "term": "202310", "crn": "19618" }
     ],
-    "description": "Covers the field of biomedical data science. Teams of students undertake projects solicited from biomedical PIs in broad areas of biomedical research, using datasets and developing a project work plan. Studies how to estimate a patient&rsquo;s state of health using their health data and to use modeling and machine learning methods to project that health state to make personalized predictions. Includes lectures on physiology, medicine, and engineering principles (probability, machine learning) relevant to each project; faculty mentors assist student projects with challenges. Requires project updates to the class at regular intervals so that teams gain experience with presenting.",
+    "description": "Covers the field of biomedical data science. Teams of students undertake projects solicited from biomedical PIs in broad areas of biomedical research, using datasets and developing a project work plan. Studies how to estimate a patient’s state of health using their health data and to use modeling and machine learning methods to project that health state to make personalized predictions. Includes lectures on physiology, medicine, and engineering principles (probability, machine learning) relevant to each project; faculty mentors assist student projects with challenges. Requires project updates to the class at regular intervals so that teams gain experience with presenting.",
     "coreqs": [],
     "prereqs": [
       { "subject": "MATH", "number": "2341" },
@@ -494,7 +494,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "12707" }],
-    "description": "Covers the fundamentals of bioengineering research topics and methodology for master&amp;#8217;s-level bioengineering students. Internal and external speakers discuss general topics in bioengineering, including the medical device qualification and regulatory environment, tissue engineering, cell engineering, mechanobiology, drug delivery, bioimaging, neuromotor control, and effective design of experiments. Each student is expected to read, critically evaluate, and present research in a peer-reviewed bioengineering journal article.",
+    "description": "Covers the fundamentals of bioengineering research topics and methodology for master's-level bioengineering students. Internal and external speakers discuss general topics in bioengineering, including the medical device qualification and regulatory environment, tissue engineering, cell engineering, mechanobiology, drug delivery, bioimaging, neuromotor control, and effective design of experiments. Each student is expected to read, critically evaluate, and present research in a peer-reviewed bioengineering journal article.",
     "coreqs": [],
     "prereqs": []
   },
