@@ -97,11 +97,15 @@ export type DayOfWeek = typeof daysOfWeek[number];
 export interface MeetingTime {
   startTime: string;
   endTime: string;
-  campusCode: string;
-  campusDescription: string;
-  buildingCode: string;
-  buildingDescription: string;
-  buildingRoom: string;
+  campus: {
+    code: string;
+    description: string;
+  };
+  building: {
+    code: string;
+    description: string;
+    room: string;
+  };
   online: boolean;
   days: DayOfWeek[];
 }

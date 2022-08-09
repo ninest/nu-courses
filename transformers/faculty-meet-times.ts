@@ -13,11 +13,15 @@ export const transformFacultyMeetTime = (json: any): FacultyMeetingTime => {
     !json.meetingTime.campusDescription;
 
   const meetingTime: MeetingTime = {
-    buildingCode: json.meetingTime.building,
-    buildingDescription: json.meetingTime.buildingDescription,
-    buildingRoom: json.meetingTime.room,
-    campusCode: json.meetingTime.campus,
-    campusDescription: json.meetingTime.campusDescription,
+    building: {
+      code: json.meetingTime.building,
+      description: json.meetingTime.buildingDescription,
+      room: json.meetingTime.room,
+    },
+    campus: {
+      code: json.meetingTime.campus,
+      description: json.meetingTime.campusDescription,
+    },
     startTime: json.meetingTime.beginTime,
     endTime: json.meetingTime.endTime,
     online,
