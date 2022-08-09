@@ -13,21 +13,17 @@ export const transformFacultyMeetTime = (json: any): FacultyMeetingTime => {
     !json.meetingTime.campusDescription;
 
   const meetingTime: MeetingTime = {
-    location: {
-      building: {
-        code: json.meetingTime.building,
-        description: json.meetingTime.buildingDescription,
-        room: json.meetingTime.room,
-      },
-      campus: {
-        code: json.meetingTime.campus,
-        description: json.meetingTime.campusDescription,
-      },
+    building: {
+      code: json.meetingTime.building,
+      description: json.meetingTime.buildingDescription,
+      room: json.meetingTime.room,
     },
-    time: {
-      start: json.meetingTime.beginTime,
-      end: json.meetingTime.endTime,
+    campus: {
+      code: json.meetingTime.campus,
+      description: json.meetingTime.campusDescription,
     },
+    startTime: json.meetingTime.beginTime,
+    endTime: json.meetingTime.endTime,
     online,
     days: [],
   };
@@ -39,6 +35,6 @@ export const transformFacultyMeetTime = (json: any): FacultyMeetingTime => {
 
   return {
     faculty,
-    meetingTime,
+    ...meetingTime,
   };
 };

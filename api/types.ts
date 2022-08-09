@@ -1,6 +1,5 @@
 import { FacultyMeetingTime, Seats, SectionInfo } from "../types.ts";
 
-export interface SectionsResponse extends SectionInfo {
-  facultyMeetTime: FacultyMeetingTime;
+export interface SectionsResponse extends SectionInfo, FacultyMeetingTime {
   seats: Seats;
 }
