@@ -95,21 +95,13 @@ export const daysOfWeek = [
 export type DayOfWeek = typeof daysOfWeek[number];
 
 export interface MeetingTime {
-  time: {
-    start: string;
-    end: string;
-  };
-  location: {
-    campus: {
-      code: string;
-      description: string;
-    };
-    building: {
-      code: string;
-      description: string;
-      room: string;
-    };
-  };
+  startTime: string;
+  endTime: string;
+  campusCode: string;
+  campusDescription: string;
+  buildingCode: string;
+  buildingDescription: string;
+  buildingRoom: string;
   online: boolean;
   days: DayOfWeek[];
 }

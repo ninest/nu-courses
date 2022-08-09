@@ -34,5 +34,5 @@ const getSectionData = async (section: SectionInfo): Promise<SectionsResponse> =
   ]);
   const facultyMeetTime = facultyMeetTimesJson.map(transformFacultyMeetTime)[0];
   const seats = transformSeats(seatsHtml);
-  return { ...section, facultyMeetTime, seats };
+  return { ...section, ...facultyMeetTime, seats };
 };
