@@ -110,6 +110,7 @@ export interface MeetingTime {
       room: string;
     };
   };
+  online: boolean;
   days: DayOfWeek[];
 }
 

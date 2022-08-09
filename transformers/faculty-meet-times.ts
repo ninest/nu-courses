@@ -6,6 +6,12 @@ export const transformFacultyMeetTime = (json: any): FacultyMeetingTime => {
     faculty.push({ name: professor.displayName });
   }
 
+  const online =
+    !json.meetingTime.building &&
+    !json.meetingTime.buildingDescription &&
+    !json.meetingTime.campus &&
+    !json.meetingTime.campusDescription;
+
   const meetingTime: MeetingTime = {
     location: {
       building: {
@@ -22,6 +28,7 @@ export const transformFacultyMeetTime = (json: any): FacultyMeetingTime => {
       start: json.meetingTime.beginTime,
       end: json.meetingTime.endTime,
     },
+    online,
     days: [],
   };
   for (const dayOfWeek of daysOfWeek) {
