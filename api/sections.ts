@@ -4,6 +4,7 @@ import { getCourseSeats } from "@/banner/seats.ts";
 import { transformFacultyMeetTime } from "@/transformers/faculty-meet-times.ts";
 import { transformSeats } from "@/transformers/seats.ts";
 import { FacultyMeetingTime, Seats, SectionInfo } from "@/types.ts";
+import { SectionsResponse } from "./types.ts";
 
 export const sectionsRouter = new Router();
 
@@ -26,14 +27,12 @@ sectionsRouter.get("/:term/:crn", async (context) => {
   }
 });
 
-const getSectionData = async (
-  section: SectionInfo
-): Promise<{ facultyMeetTime: FacultyMeetingTime; seats: Seats }> => {
+const getSectionData = async (section: SectionInfo): Promise<SectionsResponse> => {
   const [facultyMeetTimesJson, seatsHtml] = await Promise.all([
     getFacultyMeetTimes(section),
     getCourseSeats(section),
   ]);
   const facultyMeetTime = facultyMeetTimesJson.map(transformFacultyMeetTime)[0];
   const seats = transformSeats(seatsHtml);
-  return { facultyMeetTime, seats };
+  return { ...section, facultyMeetTime, seats };
 };
