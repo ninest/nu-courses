@@ -15,7 +15,7 @@ sectionsRouter.get("/:term/:crn", async (context) => {
       context.response.body = sectionData;
       break;
     } catch (error) {
-      // TODO: throw error if not response in 5 tries
+      // TODO: throw error if no response in 5 tries
     }
   }
 });
