@@ -9,13 +9,19 @@ export const sectionsRouter = new Router();
 
 sectionsRouter.get("/:term/:crn", async (context) => {
   const section = context.params as SectionInfo;
+  let retries = 0;
   while (true) {
     try {
       const sectionData = await getSectionData(section);
       context.response.body = sectionData;
       break;
     } catch (error) {
-      // TODO: throw error if no response in 5 tries
+      retries += 1;
+      if (retries >= 3) {
+        context.response.status = 400;
+        context.response.body = { message: "Unable to find section information" };
+        return;
+      }
     }
   }
 });
