@@ -74,9 +74,8 @@ export interface SectionInfo {
 }
 
 // Contains professor and meeting times for a particular section
-export interface FacultyMeetingTime {
+export interface FacultyMeetingTime extends MeetingTime {
   faculty: Professor[];
-  meetingTime: MeetingTime;
 }
 
 export interface Professor {

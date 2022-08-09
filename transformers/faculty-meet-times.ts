@@ -35,6 +35,6 @@ export const transformFacultyMeetTime = (json: any): FacultyMeetingTime => {
 
   return {
     faculty,
-    meetingTime,
+    ...meetingTime,
   };
 };
