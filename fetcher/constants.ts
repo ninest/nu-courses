@@ -2,6 +2,10 @@ export const FOLDER_PATH = "./.data";
 
 export const TERMS = [
   {
+    code: "202330",
+    description: "Spring 2023 Semester",
+  },
+  {
     code: "202310",
     description: "Fall 2022 Semester",
   },
