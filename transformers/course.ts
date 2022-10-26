@@ -12,7 +12,7 @@ export const transformCourse = (course: any): Course => {
       const nuPathDescription = description.split("NUpath ")[1];
 
       const nuPathKey = Object.keys(nuPathMap).find(
-        (key) => nuPathMap[key as NUPath] === nuPathDescription
+        (key) => nuPathMap[key as NUPath] === nuPathDescription,
       ) as NUPath;
 
       if (nuPathKey) nuPath.push(nuPathKey);

@@ -9,15 +9,18 @@ This project is meant to get course data for
 
 - `banner/`
   - Contains all Banner-specific code for fetching terms, subjects, and courses
-  - Only contains functions that call the API and return data as is (`getAllSubjects`, `searchSections`, `getCourseCoreqs`)
+  - Only contains functions that call the API and return data as is
+    (`getAllSubjects`, `searchSections`, `getCourseCoreqs`)
 - `fetcher/`
-  - Contains functions to call Banner functions and write responses to JSON files
+  - Contains functions to call Banner functions and write responses to JSON
+    files
   - Use transformer functions to map API responses to required data types
   - Think of `constants.ts` as the entry point for the fetchers
 - `transformers/`
   - Contains functions to map Banner API responses to required types
 - `read/`
-  - Contains utility functions to read data already fetched (data that's been fetched and is saved in one of the JSON files)
+  - Contains utility functions to read data already fetched (data that's been
+    fetched and is saved in one of the JSON files)
 - `util/`
   - Dump of (complex) utility functions used in one or more locations
 - `.data/`
@@ -155,15 +158,17 @@ Pre-requisites are lists of
 export type Prerequisite = "Or" | "And" | "(" | ")" | Requisite | string;
 ```
 
-See [#7](https://github.com/ninest/nu-courses/issues/7) for details on this format.
+See [#7](https://github.com/ninest/nu-courses/issues/7) for details on this
+format.
 
-Run 
+Run
 
 ```
 deno task fetch:prereqs
 ```
 
-Similar to co-requisites, lists of pre-requisites already fetched won't be re-fetched.
+Similar to co-requisites, lists of pre-requisites already fetched won't be
+re-fetched.
 
 ## Support
 

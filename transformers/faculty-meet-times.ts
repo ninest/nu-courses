@@ -1,4 +1,9 @@
-import { daysOfWeek, FacultyMeetingTime, MeetingTime, Professor } from "../types.ts";
+import {
+  daysOfWeek,
+  FacultyMeetingTime,
+  MeetingTime,
+  Professor,
+} from "../types.ts";
 
 export const transformFacultyMeetTime = (json: any): FacultyMeetingTime => {
   const faculty: Professor[] = [];
@@ -6,8 +11,7 @@ export const transformFacultyMeetTime = (json: any): FacultyMeetingTime => {
     faculty.push({ name: professor.displayName });
   }
 
-  const online =
-    !json.meetingTime.building &&
+  const online = !json.meetingTime.building &&
     !json.meetingTime.buildingDescription &&
     !json.meetingTime.campus &&
     !json.meetingTime.campusDescription;

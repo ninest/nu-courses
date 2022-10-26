@@ -20,14 +20,18 @@ sectionsRouter.get("/:term/:crn", async (context) => {
       retries += 1;
       if (retries >= 3) {
         context.response.status = 400;
-        context.response.body = { message: "Unable to find section information" };
+        context.response.body = {
+          message: "Unable to find section information",
+        };
         return;
       }
     }
   }
 });
 
-const getSectionData = async (section: SectionInfo): Promise<SectionsResponse> => {
+const getSectionData = async (
+  section: SectionInfo,
+): Promise<SectionsResponse> => {
   const [facultyMeetTimesJson, seatsHtml] = await Promise.all([
     getFacultyMeetTimes(section),
     getCourseSeats(section),

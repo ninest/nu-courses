@@ -9,7 +9,9 @@ const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
 
 const noSubjects = subjects?.length;
 for await (const [index, subject] of subjects!.entries()) {
-  const courses = await readJSON<Course[]>(`${FOLDER_PATH}/courses/${subject.code}.json`);
+  const courses = await readJSON<Course[]>(
+    `${FOLDER_PATH}/courses/${subject.code}.json`,
+  );
 
   console.log(`${index + 1} ${subject.code}`);
 
@@ -18,7 +20,9 @@ for await (const [index, subject] of subjects!.entries()) {
     // If the prereqs are already there, no need to fetch again
     if (course.prereqs) {
       console.log(
-        `${index + 1}/${noSubjects} (skipped) : ${courseIndex + 1}/${noCourses} courses done`
+        `${index + 1}/${noSubjects} (skipped) : ${
+          courseIndex + 1
+        }/${noCourses} courses done`,
       );
       continue;
     }
@@ -29,7 +33,11 @@ for await (const [index, subject] of subjects!.entries()) {
     const prereqs = transformPrereqs(htmlPrereqs);
     course.prereqs = prereqs;
 
-    console.log(`${index + 1}/${noSubjects} : ${courseIndex + 1}/${noCourses} courses done`);
+    console.log(
+      `${index + 1}/${noSubjects} : ${
+        courseIndex + 1
+      }/${noCourses} courses done`,
+    );
   }
 
   writeJSON(`${FOLDER_PATH}/courses/${subject.code}.json`, courses);
