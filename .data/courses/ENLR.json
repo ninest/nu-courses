@@ -8,7 +8,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "15933" },
-      { "term": "202310", "crn": "19095" }
+      { "term": "202310", "crn": "19095" },
+      { "term": "202330", "crn": "34906" }
     ],
     "description": "Studies what leadership is; why it is so powerful; and how applying leadership knowledge, skills, and abilities increase marketability, job performance, potential, and career advancement. Offers students an opportunity to learn what attributes provide the confidence and ability to influence others in the workplace and beyond to achieve personal goals and desired outcomes. After completing the experiential interaction in a classroom setting, participants work through self-directed modules during co-op to increase responsibility and credibility and enhance the overall co-op experience.Upon completion of modules, participants present to Gordon Institute cadre on their experiences.",
     "coreqs": [],
@@ -28,6 +29,16 @@
   },
   {
     "subject": "ENLR",
+    "number": "5122",
+    "title": "Engineering Leadership 2",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "30592" }],
+    "description": "Continues the examination of engineering practices begun in ENLR 5121. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student's technological and engineering depth and fostering the student's leadership development."
+  },
+  {
+    "subject": "ENLR",
     "number": "5131",
     "title": "Scientific Foundations of Engineering 1",
     "scheduleType": "Lecture",
@@ -40,6 +51,16 @@
   },
   {
     "subject": "ENLR",
+    "number": "5132",
+    "title": "Scientific Foundations of Engineering 2",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "30591" }],
+    "description": "Continues the examination of fundamental science begun in ENLR 5131."
+  },
+  {
+    "subject": "ENLR",
     "number": "7440",
     "title": "Engineering Leadership Challenge Project 1",
     "scheduleType": "Individual Instruction",
@@ -49,5 +70,15 @@
     "description": "Offers students an opportunity to develop and present a plan for the demonstration of a marketable technology product or prototype. This course is the first half of a thesis-scale project in technology commercialization. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student's technological and engineering depth and fostering the student's leadership development.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "ENLR",
+    "number": "7442",
+    "title": "Engineering Leadership Challenge Project 2",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "31762" }],
+    "description": "Continues ENLR 7440, a thesis-scale project in technology commercialization. Offers students an opportunity to demonstrate their development of a marketable technology product or prototype and produce a written documentary report on the project to the satisfaction of an advising committee. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student's technological and engineering depth and fostering the student's leadership development."
   }
 ]

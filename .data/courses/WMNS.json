@@ -14,17 +14,28 @@
   {
     "subject": "WMNS",
     "number": "1103",
-    "title": "Introduction to Women&amp;#8217;s, Gender, and Sexuality Studies",
+    "title": "Introduction to Women's, Gender, and Sexuality Studies",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
       { "term": "202310", "crn": "11938" },
-      { "term": "202240", "crn": "41017" }
+      { "term": "202240", "crn": "41017" },
+      { "term": "202330", "crn": "32244" }
     ],
     "description": "Offers an interdisciplinary course introducing key themes in gender and sexuality studies. Offers students an opportunity to learn core concepts that inform our understanding of how gender and sexuality are socially constructed and are experienced in everyday life. Drawing on women's studies, queer studies, masculinity studies, and allied areas, the course analyzes gender, sexuality, and other dimensions of identity; explores critical issues of gender, sex, and power; and studies gendered/sexed identities in both national and transnational contexts. Topics include the gendered conceptions of love, sexuality, and violence; biological arguments about gender and sexuality; the social construction of sexuality and gender; intersections of gender, race, class, and sexuality; masculinities and femininities; theories of sexual difference; gender and the state; and gender and popular culture.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "WMNS",
+    "number": "1105",
+    "title": "Introduction to Trans Studies",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202330", "crn": "38756" }],
+    "description": "This course is crosslisted with HIST 1105."
   },
   {
     "subject": "WMNS",
@@ -33,7 +44,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD"],
-    "sections": [{ "term": "202310", "crn": "19065" }],
+    "sections": [
+      { "term": "202310", "crn": "19065" },
+      { "term": "202330", "crn": "36041" }
+    ],
     "description": "This class is crosslisted with AFAM and HIST 1225.",
     "coreqs": [],
     "prereqs": []
@@ -67,6 +81,36 @@
   },
   {
     "subject": "WMNS",
+    "number": "2259",
+    "title": "Sex, Gender, and Judaism",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "IC"],
+    "sections": [{ "term": "202330", "crn": "38761" }],
+    "description": "This course is crosslisted with JWSS 2259 and PHIL 2259."
+  },
+  {
+    "subject": "WMNS",
+    "number": "2302",
+    "title": "Gender and Sexuality: A Cross-Cultural Perspective",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "38251" }],
+    "description": "This course is crosslisted with ANTH 2302."
+  },
+  {
+    "subject": "WMNS",
+    "number": "2303",
+    "title": "Gender and Reproductive Justice",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202330", "crn": "38253" }],
+    "description": "This course is crosslisted with HIST 2303 and SOCL 2303."
+  },
+  {
+    "subject": "WMNS",
     "number": "2304",
     "title": "Communication and Gender",
     "scheduleType": "Lecture",
@@ -77,7 +121,11 @@
       { "term": "202310", "crn": "16394" },
       { "term": "202310", "crn": "19604" },
       { "term": "202310", "crn": "19603" },
-      { "term": "202310", "crn": "20193" }
+      { "term": "202310", "crn": "20193" },
+      { "term": "202330", "crn": "38757" },
+      { "term": "202330", "crn": "32251" },
+      { "term": "202330", "crn": "34732" },
+      { "term": "202330", "crn": "34733" }
     ],
     "description": "This course is crosslised with COMM 2304.",
     "coreqs": [],
@@ -90,7 +138,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202310", "crn": "19061" }],
+    "sections": [
+      { "term": "202310", "crn": "19061" },
+      { "term": "202330", "crn": "38098" }
+    ],
     "description": "This course is cross-listed with AFRS 2325.",
     "coreqs": [],
     "prereqs": []
@@ -121,12 +172,25 @@
   },
   {
     "subject": "WMNS",
+    "number": "2505",
+    "title": "Digital Feminisms",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["EI", "IC", "WI"],
+    "sections": [{ "term": "202330", "crn": "38758" }],
+    "description": "This course is crosslisted with MSCR 2505."
+  },
+  {
+    "subject": "WMNS",
     "number": "2800",
     "title": "Sexual Orientation and Gender Expression",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD"],
-    "sections": [{ "term": "202310", "crn": "12925" }],
+    "sections": [
+      { "term": "202310", "crn": "12925" },
+      { "term": "202330", "crn": "34219" }
+    ],
     "description": "Crosslisted with HUSV 2800.",
     "coreqs": [],
     "prereqs": []
@@ -150,7 +214,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202310", "crn": "19004" }],
+    "sections": [
+      { "term": "202310", "crn": "19004" },
+      { "term": "202330", "crn": "35779" }
+    ],
     "description": "Crosslisted with CRIM 3110.",
     "coreqs": [],
     "prereqs": []
@@ -162,10 +229,23 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD"],
-    "sections": [{ "term": "202310", "crn": "20519" }],
+    "sections": [
+      { "term": "202310", "crn": "20519" },
+      { "term": "202330", "crn": "34734" }
+    ],
     "description": "This course is crosslisted with MSCR 3392.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "WMNS",
+    "number": "3500",
+    "title": "Sexuality, Gender, and the Law",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["ER", "SI"],
+    "sections": [{ "term": "202330", "crn": "35838" }],
+    "description": "This course is crosslisted with POLS 3500 and PHIL 3500."
   },
   {
     "subject": "WMNS",
@@ -208,13 +288,23 @@
   },
   {
     "subject": "WMNS",
+    "number": "5240",
+    "title": "Feminist Resistance",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["SI"],
+    "sections": [{ "term": "202330", "crn": "38759" }],
+    "description": "This course is crosslisted with HIST 5240 and SOCL 5240."
+  },
+  {
+    "subject": "WMNS",
     "number": "6100",
     "title": "Theorizing Gender and Sexuality",
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19523" }],
-    "description": "Seeks to challenge and expand our understanding of the relationship between biological sex; gendered identities; and sexual &#8220;preferences,&#8221; practices, and life ways. This interdisciplinary course offers debates around sex, gender, sexuality, and the body that push beyond binary models reliant on a simple &#8220;nature/culture&#8221; distinction. Focuses on dynamic and variable aspects of sexuality, sex, and gender within and across cultures, representational forms, and historical periods, analyzing the circumstances in which they undergo significant challenge or transformation. Uses particular paradigmatic &#8220;case studies&#8221; to push hard at the boundaries of sex and gender and to dialogue around contesting conceptualizations of &#8220;the body,&#8221; &#8220;sex,&#8221; and &#8220;gender,&#8221; particularly as they circulate in specific discourses of feminism, queer theory, and poststructuralism; ethnic studies; critical race theory; and cultural studies.",
+    "description": "Seeks to challenge and expand our understanding of the relationship between biological sex; gendered identities; and sexual “preferences,” practices, and life ways. This interdisciplinary course offers debates around sex, gender, sexuality, and the body that push beyond binary models reliant on a simple “nature/culture” distinction. Focuses on dynamic and variable aspects of sexuality, sex, and gender within and across cultures, representational forms, and historical periods, analyzing the circumstances in which they undergo significant challenge or transformation. Uses particular paradigmatic “case studies” to push hard at the boundaries of sex and gender and to dialogue around contesting conceptualizations of “the body,” “sex,” and “gender,” particularly as they circulate in specific discourses of feminism, queer theory, and poststructuralism; ethnic studies; critical race theory; and cultural studies.",
     "coreqs": [],
     "prereqs": []
   },
@@ -229,7 +319,10 @@
       { "term": "202310", "crn": "16972" },
       { "term": "202310", "crn": "19916" },
       { "term": "202260", "crn": "61431" },
-      { "term": "202240", "crn": "41828" }
+      { "term": "202240", "crn": "41828" },
+      { "term": "202330", "crn": "32707" },
+      { "term": "202330", "crn": "32708" },
+      { "term": "202330", "crn": "38760" }
     ],
     "description": "This course is taught on MIT's campus at the GCWS and follows MIT's schedule (meets Sept 8 - Dec 8). Dr. Eleanor Craig (Harvard) and Dr. Dana Miranda (UMass Boston) will be the instructors.",
     "coreqs": [],

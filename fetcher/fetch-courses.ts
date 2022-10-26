@@ -7,8 +7,8 @@ import { readJSON, writeJSON } from "@/util/file.ts";
 import { deepmerge } from "deepmergets";
 import _ from "lodash";
 
-// const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
-const subjects = [{ code: "CS" }];
+const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
+// const subjects = [{ code: "CS" }];
 
 // Get the cookie
 const { cookie } = await getTerms({ noTerms: 1 /* Can it always be one? */ });
