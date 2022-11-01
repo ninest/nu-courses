@@ -15,7 +15,7 @@ export const TERMS = [
   },
   {
     code: "202240",
-    description: "Summer 1 2022 Semester (View Only)",
+    description: "Summer 1 2022 Semester",
   },
 ];
 
