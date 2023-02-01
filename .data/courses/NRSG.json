@@ -28,7 +28,8 @@
     "sections": [
       { "term": "202310", "crn": "15238" },
       { "term": "202240", "crn": "40520" },
-      { "term": "202330", "crn": "30246" }
+      { "term": "202330", "crn": "30246" },
+      { "term": "202340", "crn": "40484" }
     ],
     "description": "Explores the concept of wellness and examines behaviors and lifestyle choices that lead to a high level of physical, emotional, and spiritual well-being. Topics include health risk, behavioral change, lifestyle analysis, the life cycle, and stress management through self-analysis.",
     "coreqs": [],
@@ -49,7 +50,8 @@
       { "term": "202260", "crn": "61439" },
       { "term": "202330", "crn": "30984" },
       { "term": "202330", "crn": "39068" },
-      { "term": "202330", "crn": "39069" }
+      { "term": "202330", "crn": "39069" },
+      { "term": "202360", "crn": "61074" }
     ],
     "description": "Introduces the Bouvé Cooperative Education Program. Offers students an opportunity to develop job-search and career-management skills. Students perform assessments of their workplace skills, interests, and values and discuss how they impact personal career decisions. Offers students an opportunity to prepare a professional-style résumé, learn proper interviewing techniques, and gain an understanding of the opportunities available to them for co-op. Introduces career paths, choices, and career decision making. Familiarizes students with workplace issues relative to their field of study and presents the MyNEU COOL database in the job-search and referral process. Presents and discusses co-op policies, procedures, and expectations of the Bouvé Cooperative Education Program and co-op employers.",
     "coreqs": [],
@@ -69,7 +71,10 @@
       { "term": "202310", "crn": "17676" },
       { "term": "202330", "crn": "33621" },
       { "term": "202330", "crn": "33622" },
-      { "term": "202330", "crn": "34656" }
+      { "term": "202330", "crn": "34656" },
+      { "term": "202350", "crn": "50718" },
+      { "term": "202350", "crn": "50719" },
+      { "term": "202350", "crn": "51420" }
     ],
     "description": "Introduces students to professional nursing practice. Offers students an opportunity to envision how nurses can shape the future of the profession while developing personal strategies for success. Students explore essential tools that professional nurses employ to meet healthcare delivery challenges and begin their journey toward establishing their professional identities as caregivers, scholars, and leaders.",
     "coreqs": [],
@@ -95,7 +100,11 @@
       { "term": "202330", "crn": "33624" },
       { "term": "202330", "crn": "33625" },
       { "term": "202330", "crn": "33626" },
-      { "term": "202330", "crn": "36349" }
+      { "term": "202330", "crn": "36349" },
+      { "term": "202350", "crn": "50720" },
+      { "term": "202350", "crn": "50721" },
+      { "term": "202350", "crn": "50790" },
+      { "term": "202350", "crn": "52414" }
     ],
     "description": "Presents an overview of bioethics and, more specifically, the application of ethics including the implication of genetics/genomics in healthcare across the life span. Students apply the Code of Ethics for Nurses to case studies that address dilemmas in multiple settings with a diverse patient population. Considers issues related to biomedical, clinical, genetic/genomic, social, and legal aspects and integrates such considerations into ethical decision making. Offers students an opportunity to work as a team and be encouraged to respect alternative viewpoints to address realistic ethical dilemmas encountered in contemporary healthcare. Appropriate and relevant for all students interested in expanding their view and appreciation of health dilemmas.",
     "coreqs": [],
@@ -126,7 +135,15 @@
       { "term": "202330", "crn": "32082" },
       { "term": "202330", "crn": "32798" },
       { "term": "202330", "crn": "33627" },
-      { "term": "202330", "crn": "36350" }
+      { "term": "202330", "crn": "36350" },
+      { "term": "202350", "crn": "50404" },
+      { "term": "202350", "crn": "50405" },
+      { "term": "202350", "crn": "50406" },
+      { "term": "202350", "crn": "50445" },
+      { "term": "202350", "crn": "50791" },
+      { "term": "202330", "crn": "39593" },
+      { "term": "202330", "crn": "39594" },
+      { "term": "202330", "crn": "39595" }
     ],
     "description": "Offers a context within which students have an opportunity to begin to understand, develop, and nurture a professional nursing identity. Through situated learning within a model of whole-person care, the student may utilize clinical imagination and reasoning to explore culturally mediated behaviors and meanings that are ascribed to health and illness experiences across the life span. Empirical, personal, ethical, and aesthetic ways of knowing create a framework for personal reflection and reflexivity. Integrated learning strategies guide the beginner's study of communication and relationships with patients, families, and providers. Guiding course principles include foundations of the nursing profession, nursing self-care and well-being, compassionate care, social justice, and quality and safety.",
     "coreqs": [],
@@ -170,7 +187,12 @@
       { "term": "202330", "crn": "31837" },
       { "term": "202330", "crn": "32496" },
       { "term": "202330", "crn": "34658" },
-      { "term": "202310", "crn": "11543" }
+      { "term": "202310", "crn": "11543" },
+      { "term": "202350", "crn": "50227" },
+      { "term": "202350", "crn": "50241" },
+      { "term": "202350", "crn": "52415" },
+      { "term": "202350", "crn": "50433" },
+      { "term": "202350", "crn": "51421" }
     ],
     "description": "Introduces the concepts of wellness and caring utilizing the nursing process as the framework for nursing practice. Outlines the ethnic, cultural, psychosocial, and developmental gender-specific and physical aspects of health in the context of client-centered care. Discusses the formulation of nursing diagnoses to describe client problems. Offers the learner an opportunity to acquire a range of beginning assessment techniques and nursing skills that support appropriate nursing care planning and interventions for clients. Explores nurses’ engagement with therapeutic communication.",
     "coreqs": [{ "subject": "NRSG", "number": "2221" }],
@@ -241,7 +263,16 @@
       { "term": "202330", "crn": "39375" },
       { "term": "202330", "crn": "39376" },
       { "term": "202330", "crn": "39377" },
-      { "term": "202330", "crn": "39378" }
+      { "term": "202330", "crn": "39378" },
+      { "term": "202350", "crn": "50228" },
+      { "term": "202350", "crn": "51252" },
+      { "term": "202350", "crn": "51253" },
+      { "term": "202350", "crn": "50362" },
+      { "term": "202350", "crn": "51254" },
+      { "term": "202350", "crn": "51297" },
+      { "term": "202350", "crn": "51298" },
+      { "term": "202350", "crn": "51688" },
+      { "term": "202350", "crn": "51689" }
     ],
     "description": "Designed to provide the foundation for students’ mastery of beginning assessment techniques and nursing skills for future application in clinical settings and the delivery of safe care of clients. Develops assessment and intervention skills by supervised practice and student demonstration in the nursing laboratory. Provides additional opportunities for students to enhance their skills to provide quality care, to communicate effectively, and to develop critical thinking through simulated case studies.",
     "coreqs": [{ "subject": "NRSG", "number": "2220" }],
@@ -270,7 +301,12 @@
       { "term": "202330", "crn": "33630" },
       { "term": "202330", "crn": "33631" },
       { "term": "202330", "crn": "34659" },
-      { "term": "202310", "crn": "14194" }
+      { "term": "202310", "crn": "14194" },
+      { "term": "202350", "crn": "50722" },
+      { "term": "202350", "crn": "50723" },
+      { "term": "202350", "crn": "52416" },
+      { "term": "202350", "crn": "50724" },
+      { "term": "202350", "crn": "51755" }
     ],
     "description": "Provides the fundamentals of pharmacology and pathophysiology for nursing students. Focuses on the disruption of physiological processes that produce disease states and the use of drugs to prevent or ameliorate these disruptions. Discusses pathophysiologic concepts from a systems approach and includes alterations in cellular growth and proliferation and immune, cardiovascular, respiratory, gastrointestinal, genitourinary, integumentary, musculoskeletal, reproductive, neurological, hematologic, sensory, and endocrine function. Presents major drug classifications used to treat common medical disorders.Examines the indications, mechanism of action, drug metabolism, and adverse effects. Discusses the application of pharmacologic therapies as well as relevant nonpharmacologic interventions. Also considers the influence of genetics, environmental factors, and life span considerations.",
     "coreqs": [],
@@ -323,7 +359,13 @@
       { "term": "202330", "crn": "32494" },
       { "term": "202330", "crn": "34660" },
       { "term": "202310", "crn": "13263" },
-      { "term": "202310", "crn": "21218" }
+      { "term": "202310", "crn": "21218" },
+      { "term": "202360", "crn": "60129" },
+      { "term": "202350", "crn": "50229" },
+      { "term": "202350", "crn": "50242" },
+      { "term": "202350", "crn": "52417" },
+      { "term": "202350", "crn": "50434" },
+      { "term": "202350", "crn": "51422" }
     ],
     "description": "Emphasizes the promotion of health for childbearing women and their families. The nursing process provides the framework for students to assess and therapeutically intervene in promoting healthy childbearing and health during the life span. Self-care and empowerment are an integral focus in examining women's health from a developmental perspective. Examines the nursing role of the professional nurse in the context of concepts of human development of individual, family, and community. Discusses the effects of cultural, social, economic, and ethical influences and the impact of healthcare technology.",
     "coreqs": [{ "subject": "NRSG", "number": "3303" }],
@@ -387,7 +429,30 @@
       { "term": "202330", "crn": "34703" },
       { "term": "202330", "crn": "34704" },
       { "term": "202330", "crn": "34705" },
-      { "term": "202330", "crn": "37150" }
+      { "term": "202330", "crn": "37150" },
+      { "term": "202360", "crn": "60130" },
+      { "term": "202350", "crn": "50226" },
+      { "term": "202350", "crn": "50234" },
+      { "term": "202350", "crn": "50243" },
+      { "term": "202350", "crn": "50244" },
+      { "term": "202350", "crn": "50245" },
+      { "term": "202350", "crn": "50246" },
+      { "term": "202350", "crn": "50247" },
+      { "term": "202350", "crn": "50386" },
+      { "term": "202350", "crn": "52418" },
+      { "term": "202350", "crn": "52419" },
+      { "term": "202350", "crn": "52420" },
+      { "term": "202350", "crn": "52421" },
+      { "term": "202350", "crn": "52422" },
+      { "term": "202350", "crn": "50435" },
+      { "term": "202350", "crn": "50436" },
+      { "term": "202350", "crn": "50437" },
+      { "term": "202350", "crn": "50755" },
+      { "term": "202350", "crn": "51299" },
+      { "term": "202350", "crn": "51756" },
+      { "term": "202350", "crn": "51757" },
+      { "term": "202350", "crn": "52423" },
+      { "term": "202330", "crn": "40187" }
     ],
     "description": "Focuses on applying the theories, principles, and concepts studied in NRSG 3302 to providing nursing care for women and their families with a focus on the childbearing family.",
     "coreqs": [{ "subject": "NRSG", "number": "3302" }],
@@ -415,7 +480,12 @@
       { "term": "202330", "crn": "32081" },
       { "term": "202330", "crn": "32799" },
       { "term": "202330", "crn": "33632" },
-      { "term": "202330", "crn": "36352" }
+      { "term": "202330", "crn": "36352" },
+      { "term": "202350", "crn": "50248" },
+      { "term": "202350", "crn": "50249" },
+      { "term": "202350", "crn": "50363" },
+      { "term": "202350", "crn": "50441" },
+      { "term": "202350", "crn": "51300" }
     ],
     "description": "Focuses on the care of adults experiencing common health problems. Builds on the conceptual foundation learned in sciences, nursing practice, physical assessment, pharmacology, nutrition, and growth and development. Emphasizes the acute care of adults and application of the nursing process. Explores expanding concepts of health and illness, including management of patients transitioning from acute care to the home or rehabilitation settings.",
     "coreqs": [{ "subject": "NRSG", "number": "3321" }],
@@ -530,7 +600,27 @@
       { "term": "202330", "crn": "37177" },
       { "term": "202330", "crn": "38715" },
       { "term": "202330", "crn": "38716" },
-      { "term": "202330", "crn": "38717" }
+      { "term": "202330", "crn": "38717" },
+      { "term": "202350", "crn": "50250" },
+      { "term": "202350", "crn": "50251" },
+      { "term": "202350", "crn": "50252" },
+      { "term": "202350", "crn": "50253" },
+      { "term": "202350", "crn": "50254" },
+      { "term": "202350", "crn": "50255" },
+      { "term": "202350", "crn": "50293" },
+      { "term": "202350", "crn": "50292" },
+      { "term": "202350", "crn": "50364" },
+      { "term": "202350", "crn": "50365" },
+      { "term": "202350", "crn": "51301" },
+      { "term": "202350", "crn": "51302" },
+      { "term": "202350", "crn": "51303" },
+      { "term": "202350", "crn": "51304" },
+      { "term": "202350", "crn": "51305" },
+      { "term": "202350", "crn": "51306" },
+      { "term": "202350", "crn": "51307" },
+      { "term": "202350", "crn": "51758" },
+      { "term": "202330", "crn": "39918" },
+      { "term": "202330", "crn": "39919" }
     ],
     "description": "Emphasizes clinical skills that focus on the application of knowledge learned in NRSG 3320.",
     "coreqs": [{ "subject": "NRSG", "number": "3320" }],
@@ -558,7 +648,12 @@
       { "term": "202330", "crn": "32492" },
       { "term": "202330", "crn": "32804" },
       { "term": "202330", "crn": "33635" },
-      { "term": "202330", "crn": "36353" }
+      { "term": "202330", "crn": "36353" },
+      { "term": "202350", "crn": "50256" },
+      { "term": "202350", "crn": "50257" },
+      { "term": "202350", "crn": "50368" },
+      { "term": "202350", "crn": "50446" },
+      { "term": "202350", "crn": "51309" }
     ],
     "description": "Focuses on principles and concepts that support nursing assessment and the performance of advanced nursing skills in the adult patient. Health assessment, nursing interventions, and communication techniques that support clinical decision making are discussed within the nursing process framework. Emphasis is placed on critical analysis of the appropriateness of, and accurate performance of nursing interventions to ensure the provision of safe quality care. The delivery of culturally competent care and the professional development of the nurse as an inter-professional team member are discussed.",
     "coreqs": [{ "subject": "NRSG", "number": "3324" }],
@@ -633,7 +728,17 @@
       { "term": "202330", "crn": "39382" },
       { "term": "202330", "crn": "39383" },
       { "term": "202330", "crn": "39384" },
-      { "term": "202310", "crn": "12242" }
+      { "term": "202310", "crn": "12242" },
+      { "term": "202350", "crn": "52515" },
+      { "term": "202350", "crn": "52516" },
+      { "term": "202350", "crn": "52517" },
+      { "term": "202350", "crn": "52518" },
+      { "term": "202350", "crn": "52468" },
+      { "term": "202350", "crn": "52469" },
+      { "term": "202350", "crn": "52470" },
+      { "term": "202350", "crn": "52471" },
+      { "term": "202350", "crn": "52472" },
+      { "term": "202350", "crn": "52473" }
     ],
     "description": "Introduces the student to the practice and application of advanced nursing skills, health assessment, and communication techniques. The course offers the opportunity to develop and master advanced assessment and intervention skills by supervised practice and demonstration. Participation in simulated patient care experiences allows the student to engage in clinical reasoning based on patient interaction and assessment that leads to the identification of appropriate nursing interventions.",
     "coreqs": [{ "subject": "NRSG", "number": "3323" }],
@@ -660,7 +765,13 @@
       { "term": "202330", "crn": "30111" },
       { "term": "202330", "crn": "32807" },
       { "term": "202330", "crn": "33636" },
-      { "term": "202330", "crn": "36355" }
+      { "term": "202330", "crn": "36355" },
+      { "term": "202340", "crn": "40139" },
+      { "term": "202350", "crn": "50118" },
+      { "term": "202350", "crn": "50260" },
+      { "term": "202350", "crn": "50369" },
+      { "term": "202350", "crn": "50443" },
+      { "term": "202350", "crn": "51310" }
     ],
     "description": "Focuses on psychiatric mental health (PMH) nursing, a process used by the professional nurse in facilitating adaptive responses and goal attainment of human systems. Emphasizes an overview of concepts and theories of personality development, therapeutic relationships, psychiatric terminology, the nursing process as it relates to patients with psychiatric problems, the study of self-concept, role functioning, and interdependence as it relates to families and groups. Explores critical thinking, health assessment, and a variety of intervention strategies. Compares various paradigms for the study of group and community assessment, therapeutics, and outcome measures.",
     "coreqs": [{ "subject": "NRSG", "number": "3401" }],
@@ -731,7 +842,28 @@
       { "term": "202330", "crn": "37180" },
       { "term": "202330", "crn": "38718" },
       { "term": "202330", "crn": "38719" },
-      { "term": "202330", "crn": "38720" }
+      { "term": "202330", "crn": "38720" },
+      { "term": "202340", "crn": "40140" },
+      { "term": "202350", "crn": "50119" },
+      { "term": "202350", "crn": "50221" },
+      { "term": "202350", "crn": "50222" },
+      { "term": "202350", "crn": "50223" },
+      { "term": "202350", "crn": "50485" },
+      { "term": "202350", "crn": "50224" },
+      { "term": "202350", "crn": "50291" },
+      { "term": "202350", "crn": "50290" },
+      { "term": "202350", "crn": "50334" },
+      { "term": "202350", "crn": "50358" },
+      { "term": "202350", "crn": "50444" },
+      { "term": "202350", "crn": "50442" },
+      { "term": "202350", "crn": "50469" },
+      { "term": "202350", "crn": "50627" },
+      { "term": "202350", "crn": "51311" },
+      { "term": "202350", "crn": "51312" },
+      { "term": "202350", "crn": "51313" },
+      { "term": "202350", "crn": "51314" },
+      { "term": "202330", "crn": "39752" },
+      { "term": "202330", "crn": "40056" }
     ],
     "description": "Focuses on applying the theories, principles, and concepts learned in NRSG 3400 in providing psychiatric mental health (PMH) nursing care.",
     "coreqs": [{ "subject": "NRSG", "number": "3400" }],
@@ -755,7 +887,15 @@
       { "term": "202330", "crn": "31347" },
       { "term": "202330", "crn": "31523" },
       { "term": "202330", "crn": "32812" },
-      { "term": "202330", "crn": "38721" }
+      { "term": "202330", "crn": "38721" },
+      { "term": "202350", "crn": "50261" },
+      { "term": "202350", "crn": "50262" },
+      { "term": "202350", "crn": "50307" },
+      { "term": "202350", "crn": "52424" },
+      { "term": "202350", "crn": "50001" },
+      { "term": "202350", "crn": "50470" },
+      { "term": "202350", "crn": "51315" },
+      { "term": "202350", "crn": "52425" }
     ],
     "description": "Focuses on the care of adults and their families experiencing complex physiological insults across the lifespan. Builds on the conceptual foundation established in NRSG 3320. Offers students an opportunity to improve their organizational skills through the expanding complexity of patient acuity levels and workloads in an advanced health care setting. Emphasis is on complex decision and critical thinking through collaboration and the use of evidence-based practices in high acuity and critical care settings. Seeks to help the student to conceptualize care of the ill patient from admission to discharge and beyond, as a means of holistic practice that demonstrates knowledge of prevention, promotion, maintenance, and restoration of the clients with complex health problems.",
     "coreqs": [{ "subject": "NRSG", "number": "3421" }],
@@ -838,7 +978,38 @@
       { "term": "202330", "crn": "34666" },
       { "term": "202330", "crn": "37105" },
       { "term": "202330", "crn": "38722" },
-      { "term": "202330", "crn": "38723" }
+      { "term": "202330", "crn": "38723" },
+      { "term": "202350", "crn": "51255" },
+      { "term": "202350", "crn": "51256" },
+      { "term": "202350", "crn": "51257" },
+      { "term": "202350", "crn": "51258" },
+      { "term": "202350", "crn": "51259" },
+      { "term": "202350", "crn": "51260" },
+      { "term": "202350", "crn": "51261" },
+      { "term": "202350", "crn": "51262" },
+      { "term": "202350", "crn": "51263" },
+      { "term": "202350", "crn": "51264" },
+      { "term": "202350", "crn": "51265" },
+      { "term": "202350", "crn": "51266" },
+      { "term": "202350", "crn": "51267" },
+      { "term": "202350", "crn": "51268" },
+      { "term": "202350", "crn": "51269" },
+      { "term": "202350", "crn": "52426" },
+      { "term": "202350", "crn": "50014" },
+      { "term": "202350", "crn": "51348" },
+      { "term": "202350", "crn": "51323" },
+      { "term": "202350", "crn": "51324" },
+      { "term": "202350", "crn": "51325" },
+      { "term": "202350", "crn": "51326" },
+      { "term": "202350", "crn": "51327" },
+      { "term": "202350", "crn": "51328" },
+      { "term": "202350", "crn": "51759" },
+      { "term": "202350", "crn": "51760" },
+      { "term": "202350", "crn": "52427" },
+      { "term": "202350", "crn": "52428" },
+      { "term": "202350", "crn": "52429" },
+      { "term": "202350", "crn": "52430" },
+      { "term": "202330", "crn": "39861" }
     ],
     "description": "Focuses on applying the theories, principles, and concepts covered in NRSG 3420 in providing nursing care to adults in increasingly complex situations. Builds upon clinical skills established in NRSG 3321.",
     "coreqs": [{ "subject": "NRSG", "number": "3420" }],
@@ -863,7 +1034,15 @@
       { "term": "202330", "crn": "31318" },
       { "term": "202330", "crn": "31531" },
       { "term": "202330", "crn": "32815" },
-      { "term": "202330", "crn": "38724" }
+      { "term": "202330", "crn": "38724" },
+      { "term": "202350", "crn": "50263" },
+      { "term": "202350", "crn": "50264" },
+      { "term": "202350", "crn": "50308" },
+      { "term": "202350", "crn": "52431" },
+      { "term": "202350", "crn": "50197" },
+      { "term": "202350", "crn": "50471" },
+      { "term": "202350", "crn": "51316" },
+      { "term": "202350", "crn": "52432" }
     ],
     "description": "Builds on developmental and family theory. Focuses on the principles of nursing care of children experiencing acute and/or complex, chronic health problems and their families. The complex health issues are analyzed within the context of the individual, family, and community. Offers students an opportunity to explore evidenced-based practices within the framework of the nursing process. The therapeutic role is addressed in partnership with the family and resources available within a collaborative and interdisciplinary environment.",
     "coreqs": [{ "subject": "NRSG", "number": "4503" }],
@@ -930,7 +1109,37 @@
       { "term": "202330", "crn": "35013" },
       { "term": "202330", "crn": "35014" },
       { "term": "202330", "crn": "38725" },
-      { "term": "202330", "crn": "38726" }
+      { "term": "202330", "crn": "38726" },
+      { "term": "202350", "crn": "50265" },
+      { "term": "202350", "crn": "50266" },
+      { "term": "202350", "crn": "50267" },
+      { "term": "202350", "crn": "50296" },
+      { "term": "202350", "crn": "50295" },
+      { "term": "202350", "crn": "50309" },
+      { "term": "202350", "crn": "50310" },
+      { "term": "202350", "crn": "50311" },
+      { "term": "202350", "crn": "50312" },
+      { "term": "202350", "crn": "50313" },
+      { "term": "202350", "crn": "50314" },
+      { "term": "202350", "crn": "50395" },
+      { "term": "202350", "crn": "50396" },
+      { "term": "202350", "crn": "50397" },
+      { "term": "202350", "crn": "50398" },
+      { "term": "202350", "crn": "51916" },
+      { "term": "202350", "crn": "50198" },
+      { "term": "202350", "crn": "50472" },
+      { "term": "202350", "crn": "50473" },
+      { "term": "202350", "crn": "50474" },
+      { "term": "202350", "crn": "50475" },
+      { "term": "202350", "crn": "50626" },
+      { "term": "202350", "crn": "51317" },
+      { "term": "202350", "crn": "51318" },
+      { "term": "202350", "crn": "51761" },
+      { "term": "202350", "crn": "51762" },
+      { "term": "202350", "crn": "52433" },
+      { "term": "202350", "crn": "52434" },
+      { "term": "202350", "crn": "52435" },
+      { "term": "202350", "crn": "52436" }
     ],
     "description": "Focuses on applying the theories, principles, and concepts learned in NRSG 4502 in providing nursing care for acutely and/or chronically ill children and their families in a pediatric clinical setting.",
     "coreqs": [{ "subject": "NRSG", "number": "4502" }],
@@ -959,7 +1168,12 @@
       { "term": "202330", "crn": "31845" },
       { "term": "202330", "crn": "31540" },
       { "term": "202330", "crn": "32819" },
-      { "term": "202330", "crn": "36356" }
+      { "term": "202330", "crn": "36356" },
+      { "term": "202340", "crn": "40509" },
+      { "term": "202350", "crn": "50268" },
+      { "term": "202350", "crn": "50315" },
+      { "term": "202350", "crn": "50476" },
+      { "term": "202350", "crn": "52437" }
     ],
     "description": "Introduces population-focused nursing and applies the nursing process to the community as client. Examines evidence-based health-promotion strategies in a variety of community settings. Addresses core functions and essential services of public health, and introduces epidemiological and economic concepts and models. Emphasizes the involvement of the community/public health nurse in ethical issues and health policy, focusing on vulnerable populations in giving cultural and linguistic-competent care. Examines community-based strategies and interprofessional collaboration to care for underserved populations in both urban and suburban communities. Emphasizes the community/public health nurse as a population-focused care provider, case manager, deliverer of quality nursing care, care coordinator, critical thinker, liaison between agencies, and nursing researcher.",
     "coreqs": [{ "subject": "NRSG", "number": "4605" }],
@@ -1035,7 +1249,21 @@
       { "term": "202330", "crn": "36358" },
       { "term": "202330", "crn": "36359" },
       { "term": "202330", "crn": "37181" },
-      { "term": "202330", "crn": "37182" }
+      { "term": "202330", "crn": "37182" },
+      { "term": "202340", "crn": "40510" },
+      { "term": "202350", "crn": "50316" },
+      { "term": "202350", "crn": "50317" },
+      { "term": "202350", "crn": "50318" },
+      { "term": "202350", "crn": "50319" },
+      { "term": "202350", "crn": "50320" },
+      { "term": "202350", "crn": "50321" },
+      { "term": "202350", "crn": "50322" },
+      { "term": "202350", "crn": "50323" },
+      { "term": "202350", "crn": "50477" },
+      { "term": "202350", "crn": "51319" },
+      { "term": "202350", "crn": "51349" },
+      { "term": "202350", "crn": "52438" },
+      { "term": "202350", "crn": "52439" }
     ],
     "description": "Seeks to facilitate the student's socialization to population-focused nursing and to plan care for the community as client. Emphasizes the application of knowledge when addressing core functions and essential services of public health, epidemiology, and economic concepts and models. Students engage in cultural and linguistic-appropriate health assessment, health promotion, and illness-prevention strategies in a variety of community settings. This may include acting as a community/public health nurse for ethical issues, health policy, coordination of care, interprofessional collaboration, liaison between agencies, and facilitation of healthcare research. Examines and evaluates types of community-based strategies used to serve underserved and vulnerable populations to ensure quality care for those living in both urban and suburban communities.",
     "coreqs": [{ "subject": "NRSG", "number": "4604" }],
@@ -1063,7 +1291,11 @@
       { "term": "202330", "crn": "32114" },
       { "term": "202330", "crn": "32115" },
       { "term": "202330", "crn": "32821" },
-      { "term": "202330", "crn": "36360" }
+      { "term": "202330", "crn": "36360" },
+      { "term": "202350", "crn": "50269" },
+      { "term": "202350", "crn": "50270" },
+      { "term": "202350", "crn": "50478" },
+      { "term": "202350", "crn": "52440" }
     ],
     "description": "Introduces various theoretical frameworks that support principles of leadership and management in nursing in all types of organizational settings. Emphasizes developing, enhancing, and demonstrating leadership skills, competencies, and aptitudes. Exposes students to practical situations in the management of current and practical patient care in diverse healthcare settings. Integrates organizational structure; methods of nursing care delivery; comparison of management and nursing processes; decision making; change; communication skills; interprofessional collaboration; team building; ethical considerations; interpersonal skills of effective nursing leadership and management; and organizational issues related to the quality of client, family, and personal outcomes.",
     "coreqs": [],
@@ -1092,7 +1324,10 @@
       { "term": "202330", "crn": "33161" },
       { "term": "202330", "crn": "32995" },
       { "term": "202330", "crn": "32822" },
-      { "term": "202330", "crn": "36361" }
+      { "term": "202330", "crn": "36361" },
+      { "term": "202350", "crn": "50271" },
+      { "term": "202350", "crn": "50479" },
+      { "term": "202350", "crn": "52441" }
     ],
     "description": "Prepares students to synthesize nursing knowledge, skills, and experience and facilitate their transition to professional nursing practice and case management of clients with health problems. Assists students to demonstrate leadership and collaborative skills in working with other members of the health-care team through a weekly precepted relationship with a RN. Includes clinical learning experiences within hospital and community settings. Classwork includes a review of professional domains in all previous clinical courses in the nursing curriculum to prepare students for licensure.",
     "coreqs": [{ "subject": "NRSG", "number": "4996" }],
@@ -1158,7 +1393,19 @@
       { "term": "202330", "crn": "36363" },
       { "term": "202330", "crn": "37172" },
       { "term": "202330", "crn": "37173" },
-      { "term": "202310", "crn": "21322" }
+      { "term": "202310", "crn": "21322" },
+      { "term": "202350", "crn": "50591" },
+      { "term": "202350", "crn": "50592" },
+      { "term": "202350", "crn": "50593" },
+      { "term": "202350", "crn": "50594" },
+      { "term": "202350", "crn": "50595" },
+      { "term": "202350", "crn": "50625" },
+      { "term": "202350", "crn": "50624" },
+      { "term": "202350", "crn": "51358" },
+      { "term": "202350", "crn": "52442" },
+      { "term": "202350", "crn": "52443" },
+      { "term": "202350", "crn": "52444" },
+      { "term": "202330", "crn": "39667" }
     ],
     "description": "Offers students an opportunity to synthesize nursing knowledge, skills, and experience and facilitate their transition to professional nursing practice and case management of clients with health problems. Designed to assist students to demonstrate leadership and collaborative skills in working with other members of the healthcare team through a weekly precepted relationship with an RN. Includes clinical learning experiences within hospital and community settings.",
     "coreqs": [{ "subject": "NRSG", "number": "4995" }],
@@ -1185,7 +1432,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "15239" },
-      { "term": "202330", "crn": "34668" }
+      { "term": "202330", "crn": "34668" },
+      { "term": "202350", "crn": "51270" }
     ],
     "description": "Offers students an opportunity to explore wellness through both theoretical and experiential pathways. Introduces theories and models of holism, wellness, stress, health promotion, health belief, and change as operational frameworks by which the student has an opportunity to reflect upon personal history, health and risk-taking behaviors, and lifestyle choices that influence health and well-being. Studies the art and science of self-care through both the emic and etic perspectives. Course topics include holistic lifestyle and health analysis, behavioral change, decision making, and stress/stress reduction. Embodied learning methodologies inform course delivery.",
     "coreqs": [],
@@ -1218,7 +1466,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "10635" },
-      { "term": "202330", "crn": "30597" }
+      { "term": "202330", "crn": "30597" },
+      { "term": "202350", "crn": "50410" }
     ],
     "description": "Examines the role of the advanced practice nurse within the context of today's healthcare system. Focuses discussion on dimensions of the advanced practice nursing role, including intra/interdisciplinary collaboration, consultation, leadership, diversity, and accountability for quality care. Examines the healthcare system with special focus on social, political, economic, ethical, regulatory, research, and legal trends. Students are expected to evaluate the interaction between healthcare system issues and advanced practice role dimensions.",
     "coreqs": [],
@@ -1234,7 +1483,8 @@
     "sections": [
       { "term": "202310", "crn": "11502" },
       { "term": "202310", "crn": "14119" },
-      { "term": "202330", "crn": "31482" }
+      { "term": "202330", "crn": "31482" },
+      { "term": "202330", "crn": "39849" }
     ],
     "description": "Focuses on applying formal reasoning to understand the underlying principles of statistics; how to select and conduct statistical tests; and how to interpret and use the results of data analysis in relation to research questions and research hypotheses.",
     "coreqs": [],
@@ -1250,7 +1500,9 @@
     "sections": [
       { "term": "202310", "crn": "14550" },
       { "term": "202310", "crn": "12203" },
-      { "term": "202330", "crn": "30570" }
+      { "term": "202330", "crn": "30570" },
+      { "term": "202350", "crn": "50239" },
+      { "term": "202350", "crn": "50570" }
     ],
     "description": "Examines the theoretical basis for identification and analysis of the distribution and determinants of health problems at community, national, and international population levels. Considers health disparities that exist among specific populations and the role of government in setting policies for health promotion and disease prevention. Covers three topical areas: basic principles and population measures of epidemiology; epidemiologic study methods; and application of epidemiologic tools in interdisciplinary settings. Complements planned topics with current examples of population health issues. The goal is to understand the principles and practice of monitoring population health. Skills acquired assist advanced practice nurses, other clinicians, or administrators in critically evaluating new epidemiologic literature and in using the basic tools of epidemiology to assess population health and develop strategies for monitoring health improvement.",
     "coreqs": [],
@@ -1294,9 +1546,33 @@
       { "term": "202330", "crn": "35050" },
       { "term": "202330", "crn": "35049" },
       { "term": "202330", "crn": "35015" },
-      { "term": "202330", "crn": "38728" }
+      { "term": "202330", "crn": "38728" },
+      { "term": "202360", "crn": "60633" },
+      { "term": "202350", "crn": "51271" },
+      { "term": "202350", "crn": "51272" },
+      { "term": "202350", "crn": "51273" },
+      { "term": "202350", "crn": "52445" },
+      { "term": "202350", "crn": "51274" },
+      { "term": "202350", "crn": "51320" },
+      { "term": "202350", "crn": "51321" },
+      { "term": "202350", "crn": "52446" }
     ],
     "description": "Introduces students to the different types of research methodologies used by healthcare disciplines. Emphasizes designing research studies and application of research findings to practice within the student's particular discipline. Topics include foundations of research, ethical conduct of research, research methodologies, concepts of measurement, qualitative and quantitative research design, and the analysis and dissemination of research findings. Discusses the importance of research to both healthcare practitioners and consumers with an emphasis on patient-centered outcomes.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "NRSG",
+    "number": "5976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202330", "crn": "39947" },
+      { "term": "202330", "crn": "40628" }
+    ],
+    "description": "Allows student to develop an individualized plan to attain specific knowledge and skills related to professional goals. May consist of library study and reading, individual instruction, research, practicum, or other appropriate activity as approved by instructor and academic adviser. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1312,7 +1588,8 @@
       { "term": "202310", "crn": "12553" },
       { "term": "202330", "crn": "30991" },
       { "term": "202330", "crn": "38729" },
-      { "term": "202330", "crn": "38995" }
+      { "term": "202330", "crn": "38995" },
+      { "term": "202350", "crn": "50725" }
     ],
     "description": "Focuses on human physiology and the development of advanced health assessment knowledge and skills related to performing regional and comprehensive examinations of the client across the life span. Includes variables among cultural groups. Students synthesize knowledge from nursing, physical, social, and health sciences as they analyze data collected in the assessment process. Focuses on interviewing skills and systematic performance, analysis and documentation of health assessment process. Differentiation of normal and abnormal findings is emphasized utilizing critical thinking. Introduces the student to diagnostic reasoning within the scope of practice of the nurse in the advanced practice role. Nursing degree students only.",
     "coreqs": [],
@@ -1397,21 +1674,6 @@
       "Or",
       { "subject": "NRSG", "number": "5117" }
     ]
-  },
-  {
-    "subject": "NRSG",
-    "number": "6230",
-    "title": "Nursing Management: Critically Ill Neonatal 1",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "nuPath": [],
-    "sections": [
-      { "term": "202310", "crn": "11264" },
-      { "term": "202330", "crn": "38730" }
-    ],
-    "description": "Focuses on the acquisition of knowledge about complex physiological concepts essential to the care of the critically ill neonate. Begins with the actual and potential alterations in fetal/neonatal well-being, adaptation to extrauterine life, and factors that interfere with adaptation to extrauterine life. Also emphasizes the acquisition of theoretical knowledge essential to understanding the neonate's response to life-threatening problems. Discusses neonatal pathophysiologic disorders in terms of the nursing process and management of the neonate and their families. Uses current theories and research from nursing, biomedical, physical, and behavioral sciences as a basis for clinical decision making. The nursing process and developmental theory are frameworks utilized to structure the delivery of course content.",
-    "coreqs": [],
-    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -1539,7 +1801,10 @@
     "scheduleType": "Off-campus instruction w/ lec",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "40682" }],
+    "sections": [
+      { "term": "202240", "crn": "40682" },
+      { "term": "202340", "crn": "40612" }
+    ],
     "description": "Using a combined didactic and clinical approach, examines the specific issues in the care of children with critical conditions. Designed to provide students with the knowledge and skills necessary to meet the unique needs of fragile children, including urban children who are at risk for poor health outcomes. Offers students clinical experience caring for these children.",
     "coreqs": [],
     "prereqs": [
@@ -1622,7 +1887,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "40084" }],
+    "sections": [
+      { "term": "202240", "crn": "40084" },
+      { "term": "202340", "crn": "40079" }
+    ],
     "description": "Provides a comprehensive overview of major classes of psychotropic medications for pediatric populations. Relates psychiatric disorders associated with medication prescription, differential diagnosis and drug interactions, safe monitoring with attention to side effects, and integration of medication management into a treatment regimen for various patient populations. Uses clinical cases to illustrate complex issues related to prescribing psychiatric medications for children.",
     "coreqs": [],
     "prereqs": []
@@ -1634,7 +1902,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "40190" }],
+    "sections": [
+      { "term": "202240", "crn": "40190" },
+      { "term": "202340", "crn": "40181" }
+    ],
     "description": "Offers a comprehensive overview of psychiatric disorders and the biopsychosocial issues associated with medication prescription, differential diagnosis, drug interactions, and safe monitoring with attention to side effects for geriatric and aging adult populations. Also offers a comprehensive overview of major classes of psychotropic medications and integration of medication management into a treatment regimen for geriatric and aging adult clients. Uses clinical cases to illustrate complex issues related to prescribing psychiatric medications for the geriatric population.",
     "coreqs": [],
     "prereqs": []
@@ -1668,12 +1939,27 @@
   },
   {
     "subject": "NRSG",
+    "number": "6306",
+    "title": "Health Informatics",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50571" }],
+    "description": "Seeks to prepare students to use information systems and technology to support and improve patient care and healthcare systems. Examines the meta-structures (data, information, knowledge, and wisdom), concepts and tools of nursing, and healthcare informatics. Focuses on information literacy, including a critical examination of both electronic patient health information and provider decision support resources. Covers ethical and legal issues, including privacy and security, related to electronic systems. Database concepts, including data mining, warehousing, electronic data collection, and aggregation for research and patient care, are important components of this course. Examines the role of the nurse as a change agent during health information technology implementation. Students who do not meet course prerequisites may seek permission of instructor.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "NRSG",
     "number": "6341",
     "title": "Teaching Nursing: The Art and Science",
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "40232" }],
+    "sections": [
+      { "term": "202240", "crn": "40232" },
+      { "term": "202340", "crn": "40218" }
+    ],
     "description": "Explores various learning theories and their application to practice disciplines. Emphasis is on efforts to enhance critical thinking and problem solving, with assessment of technological aids for learning. Examines teaching modalities as they are related to increasing levels of complexity of information, and offers an introduction to the assessment of teaching effectiveness.",
     "coreqs": [],
     "prereqs": []
@@ -1699,7 +1985,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "32681" },
-      { "term": "202330", "crn": "33650" }
+      { "term": "202330", "crn": "33650" },
+      { "term": "202330", "crn": "39923" }
     ],
     "description": "Offers a clinical practicum focusing on the adult and older adult with risk for premature morbidity and mortality and family centered health promotion. Emphasizes the care of the adult with complex multisystem health problems and conditions. Explores care of individuals in acute- and long-term-care settings.",
     "coreqs": [],
@@ -1714,7 +2001,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202240", "crn": "40976" },
-      { "term": "202240", "crn": "40977" }
+      { "term": "202240", "crn": "40977" },
+      { "term": "202350", "crn": "52447" },
+      { "term": "202350", "crn": "52448" }
     ],
     "description": "Focuses on the assessment and management of the changing family structure across the life span of the family. Emphasizes the identification of families at risk for premature morbidity and mortality. Presents guiding principles and strategies for assessing the family, various theories of family structure and process, and techniques for engaging and connecting with families. Explores the family as an emotional unit, the individual patient as a member in his or her family of origin, and strategies for applying this knowledge in a clinical setting.",
     "coreqs": [],
@@ -1778,7 +2067,11 @@
     "scheduleType": "Off-campus instruction w/ lec",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30789" }],
+    "sections": [
+      { "term": "202330", "crn": "30789" },
+      { "term": "202330", "crn": "39942" },
+      { "term": "202330", "crn": "39943" }
+    ],
     "description": "Focuses on the assessment, preventative, and health-maintenance aspects of acute and episodic healthcare to adults (including older adults). The clinical practice emphasizes the multiple factors affecting the adult patient across the life span. The application of theory to the care of these patients through participation, observation, and research is facilitated by assignment to a clinical preceptor. Weekly seminars focus on an array of issues surrounding the role of the advanced practice nurse. Requires students to practice in the clinical setting a minimum of eight hours per week.",
     "coreqs": [{ "subject": "NRSG", "number": "6220" }],
     "prereqs": []
@@ -1809,27 +2102,15 @@
   },
   {
     "subject": "NRSG",
-    "number": "6430",
-    "title": "Neonatal Clinical Practicum 1",
-    "scheduleType": "Off-campus instruction w/ lec",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [
-      { "term": "202310", "crn": "11266" },
-      { "term": "202330", "crn": "38731" }
-    ],
-    "description": "Focuses on the skills necessary for management of the high-risk neonate and family. Students have the opportunity to provide direct care under the supervision of NNP preceptors in the hospital neonatal intensive care unit (NICU), responsible for daily management of a specified caseload of neonates and their families, including therapeutic and diagnostic procedures. Supervised delivery room management of the high-risk neonate is expected, where available. Seeks to familiarize the student with respiratory distress syndrome, transient tachypnea, pneumonia, pulmonary hypertension, congenital heart disease, and patent ductus arteriosus, with appropriate management strategies. Requires students to practice in the clinical setting a minimum of twenty hours per week.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "NRSG",
     "number": "6432",
     "title": "Neonatal Clinical Practicum 3",
     "scheduleType": "Off-campus instruction w/ lec",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "40180" }],
+    "sections": [
+      { "term": "202240", "crn": "40180" },
+      { "term": "202340", "crn": "40171" }
+    ],
     "description": "Continues NRSG 6431. Offers the final course in the series focusing on the acquisition of clinical skills and expertise necessary for patient management of the high-risk neonate and family. Provides the student with intensified experience in the hospital neonatal intensive care unit (NICU) providing direct care under the supervision of NNP or neonatologist preceptors. The student is responsible for daily management of a specified caseload of neonates and their families. Proficient delivery room management of the high-risk neonate is an expectation. The student should exhibit the ability to function as an independent novice practitioner with preceptor support.",
     "coreqs": [],
     "prereqs": [{ "subject": "NRSG", "number": "6431" }]
@@ -1873,7 +2154,10 @@
     "scheduleType": "Off-campus instruction w/ lec",
     "credits": 5,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32075" }],
+    "sections": [
+      { "term": "202330", "crn": "32075" },
+      { "term": "202330", "crn": "39462" }
+    ],
     "description": "Continues NRSG 6450. Focuses on providing the student with clinical learning experiences in the coordination and delivery of primary healthcare nursing services to adults and their families, with emphasis on underserved populations. Studies how to assess, diagnose, and manage acute and chronic conditions and illnesses commonly encountered in adult populations. Students build on a foundation of practice behaviors in health assessment, health promotion, and disease prevention. Requires students to practice in the clinical setting a minimum of sixteen hours per week.",
     "coreqs": [],
     "prereqs": [{ "subject": "NRSG", "number": "6450" }]
@@ -1910,6 +2194,18 @@
   },
   {
     "subject": "NRSG",
+    "number": "6463",
+    "title": "Care of Crit Ill Child-Practcm",
+    "scheduleType": "Off-campus instruction w/ lec",
+    "credits": 5,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50240" }],
+    "description": "Designed to accompany NRSG 6267, this course focuses on providing the student with clinical learning experiences in the coordination and delivery of critical care to infants, children, adolescents, and young adults and their families within the context of their culture and urban community. The goal of continued clinical practice experiences across settings and continuum of acuity care is to facilitate the development of knowledge and attitudinal competencies and skills in the delivery of care to children with a focus on critical health issues. Requires students to practice in the clinical setting a minimum of twenty hours per week.",
+    "coreqs": [{ "subject": "NRSG", "number": "6267" }],
+    "prereqs": [{ "subject": "NRSG", "number": "6461" }]
+  },
+  {
+    "subject": "NRSG",
     "number": "6480",
     "title": "Psychiatric Practicum across the Life Span 1",
     "scheduleType": "Off-campus instruction w/ lec",
@@ -1940,6 +2236,18 @@
   },
   {
     "subject": "NRSG",
+    "number": "6864",
+    "title": "Professional Preparation Seminar",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "40114" }],
+    "description": "Seeks to prepare the newly graduated BSN student to take necessary steps for entry into the professional nursing role and workforce prior to beginning master's specialization. Focuses on strategies for the transition from student nurse to professional nurse.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "NRSG",
     "number": "6964",
     "title": "Co-op Work Experience",
     "scheduleType": "Individual Instruction",
@@ -1947,7 +2255,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "10584" },
-      { "term": "202260", "crn": "60988" }
+      { "term": "202260", "crn": "60988" },
+      { "term": "202360", "crn": "60713" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
@@ -1960,8 +2269,25 @@
     "scheduleType": "Off-campus instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21401" }],
+    "sections": [
+      { "term": "202310", "crn": "21401" },
+      { "term": "202350", "crn": "52538" },
+      { "term": "202330", "crn": "40282" },
+      { "term": "202310", "crn": "21881" }
+    ],
     "description": "Continues clinical requirements.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "NRSG",
+    "number": "7100",
+    "title": "Leadership Adv Practice Nrsg",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50573" }],
+    "description": "Seeks to provide a solid foundation for providing leadership. Analyzes the principles of transformational leadership and organizational behavior pertinent to healthcare systems. Seeks to prepare nursing leaders at the practice doctorate level to use critical thinking skills and evidence-based decision making to effect systems and organizational change. Discusses leadership skills and characteristics of leadership styles within the broader framework of interprofessional collaboration and innovations in healthcare delivery. Presents information from a variety of disciplines and perspectives (legal, fiscal, ethical, cultural, and political) for purposes of improving quality of care for patients, populations, and communities in healthcare settings across the continuum of care. Restricted to students enrolled in the Doctorate of Nursing Practice Program only.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1975,7 +2301,9 @@
     "sections": [
       { "term": "202310", "crn": "11445" },
       { "term": "202330", "crn": "32076" },
-      { "term": "202330", "crn": "34672" }
+      { "term": "202330", "crn": "34672" },
+      { "term": "202350", "crn": "50342" },
+      { "term": "202350", "crn": "51275" }
     ],
     "description": "Offers opportunities for students to examine strategies and tools for retrieval, compilation, critical appraisal, and application of empirical, reflective, and practice-based information to improve quality of care and health outcomes for populations of interest. Uses systematic reviews, case studies emphasizing use of quality improvement methods, clinical guidelines, collaborative interprofessional practice networks, and information technology. Includes program evaluation strategies and interpretation of biostatistical concepts relevant to population-based advanced practice. Offers students an opportunity to explore techniques that support their professional presence and voice as a leader. This course meets the requirements of the following DNP Essentials of Doctoral Education for Advanced Practice Nursing: (1): Scientific Underpinnings for Practice; (3): Clinical Scholarship and Analytical Methods for Evidence-Based (AACN, 2006).",
     "coreqs": [],
@@ -1991,11 +2319,24 @@
     "sections": [
       { "term": "202310", "crn": "13197" },
       { "term": "202310", "crn": "13121" },
-      { "term": "202330", "crn": "31368" }
+      { "term": "202330", "crn": "31368" },
+      { "term": "202350", "crn": "50352" }
     ],
     "description": "Offers graduate nursing students an opportunity to work singly or in groups of two with an experienced researcher in an area related to their clinical specialization or other professional interest. The student's individual contribution depends on the stage of the research project and is determined jointly by the student, faculty liaison, and researcher. Evaluation includes the student's individual effort, participation in the collaborative research process, and appraisal of the learning experience as a research assistant. By participating in an established, scientifically significant project, offers students an opportunity to actively experience the “real-life” aspects of conducting research and to be socialized to the role of the researcher.",
     "coreqs": [],
     "prereqs": [{ "subject": "NRSG", "number": "7105" }]
+  },
+  {
+    "subject": "NRSG",
+    "number": "7500",
+    "title": "Role/Prac Issues in Nurse Anes",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50572" }],
+    "description": "Analyzes new developments and current trends in nurse anesthesia practice, education, and research. Includes the historical, legal, legislative, and professional role issues associated with advanced practice anesthesia nursing. Emphasizes professional responsibilities, ethical issues, diversity, cultural competency, quality assurance, continuing education, and professional involvement. Emphasizes the historical events that have impacted the development of both the profession and the organizational structure of the American Association of Nurse Anesthetists (AANA). Discusses professional standards established by the organization. Reviews other agencies, at the federal and state levels, that affect the legal recognition of CRNA practice. Presents an overview of the educational accreditation process and certification.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -2027,6 +2368,46 @@
   },
   {
     "subject": "NRSG",
+    "number": "7509",
+    "title": " Adv Concepts Nurse Anes Prac",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "51276" }],
+    "description": "Focuses on the pharmacodynamic, pharmacokinetic, and physiologic principles related to the delivery of anesthetics and adjunctive drugs in advanced nurse anesthesia practice. Emphasizes pharmacologic management of patients with complex health problems, including multisystem failure and multidrug therapy. Studies anesthetic management for extensive surgeries performed on adults and children to develop safe intra-operative and perioperative care plans. Covers integration of pharmacological data, anesthesia administration, monitoring technology, and comprehensive advanced nursing care to return patients to their optimal state of health. Includes an overview of pain and regional anesthesia with an emphasis on anesthetic indications, management, and complications. Presents fundamental principles governing obstetrical anesthesia, emphasizing normal physiological changes associated with pregnancy, anesthetic considerations, complications inherent in pregnancy, and approaches to anesthesia.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "NRSG", "number": "7503" },
+      "And",
+      { "subject": "NRSG", "number": "7540" }
+    ]
+  },
+  {
+    "subject": "NRSG",
+    "number": "7511",
+    "title": "Gross Anatomy Physiology Anes",
+    "scheduleType": "Lab",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "51277" }],
+    "description": "Designed to help the DNP student in anesthesia to develop the fundamental knowledge and skills necessary for entry into advanced practice anesthesia nursing. Emphasizes study of the head and neck (multiorgan systems including the nervous system) and the back, including the spinal cord, the thorax (with focus on the respiratory and cardiovascular systems), the abdomen, pelvis, and extremities. Companion laboratory periods, during which students examine the same region in a prosected human cadaver, follow lectures. Presents ultrasound, radiography, computer tomograms (CT scans), and magnetic resonance images (MRIs) of normal and diseased organs in lectures and labs to emphasize the importance of integrating the principles of anatomical knowledge in understanding the human body in health and disease.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "NRSG",
+    "number": "7520",
+    "title": "Conceptual Basis of NA Prac 1",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "51278" }],
+    "description": "Aims to help the DNP student in anesthesia to develop the fundamental knowledge and skills necessary for entry into advanced practice anesthesia nursing. Areas of focus include patient assessment, essential anesthesia techniques, monitoring and equipment, pharmacologic interventions, development of case/disease-specific anesthesia management plans, cultural competence, and safe practice across the life span.This is the first course in the nurse anesthesia program conceptual basis of practice clinical series.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "NRSG", "number": "7105" }]
+  },
+  {
+    "subject": "NRSG",
     "number": "7523",
     "title": "Conceptual Basis of Nurse Anesthesia Practice 2",
     "scheduleType": "Lecture",
@@ -2048,6 +2429,18 @@
     "description": "Designed to help the DNP student in anesthesia engage in integration of the knowledge and skills associated with highly specialized problems and conditions requiring anesthesia or surgical interventions. Offers students an opportunity to demonstrate the ability to conduct well-informed discussion concerning physiology and pathophysiology of the nervous, endocrine, renal, and hepatic systems. Key competencies include conducting focused assessment, anesthetic planning, and selection of pharmacologic interventions for patients with disorders of the nervous, endocrine, renal, and hepatic systems across the life span.This is the third course in the nurse anesthesia program conceptual basis of practice clinical series.",
     "coreqs": [{ "subject": "NRSG", "number": "7536" }],
     "prereqs": [{ "subject": "NRSG", "number": "7523" }]
+  },
+  {
+    "subject": "NRSG",
+    "number": "7530",
+    "title": "Nurse Anesthesia Practicum 1",
+    "scheduleType": "Lab",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50726" }],
+    "description": "Offers the DNP student in anesthesia an opportunity for experiential integration and synthesis of basic knowledge and skills for anesthesia nursing care. Selected topics and clinical case plans reinforce the principles of collaborative decision making, effective communication, cultural sensitivity, use of equipment and techniques, use of evidence, planning for routine and emergent events, and evaluation of various conditions for patients across the life span. Students have an opportunity to demonstrate achievement of entry-level practice skills by the end of the course.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -2075,6 +2468,18 @@
   },
   {
     "subject": "NRSG",
+    "number": "7540",
+    "title": "Adv Clinical Experiences NA 1",
+    "scheduleType": "Off-campus instruction w/ lec",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "51286" }],
+    "description": "Aims to help the DNP student in anesthesia to begin development of advanced skills and to integrate comprehensive cumulative knowledge into anesthesia and perioperative care for complex patients having major and specialty surgery across the life span. Focuses on patient-centric care and includes development of an understanding of how nurse anesthetists can deliver high-quality care to improve patient outcomes and the safety environment adherence to individual and systemic safety processes. Students incorporate didactic knowledge into developing anesthesia management plans for patients across the acuity and age continuum. With continual guidance, offers students an opportunity to assume increasing responsibility for more care of increasingly complex patients and surgical procedures.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "NRSG",
     "number": "7543",
     "title": "Advanced Clinical Experiences in Nurse Anesthesia 2",
     "scheduleType": "Off-campus instruction w/ lec",
@@ -2096,18 +2501,6 @@
     "description": "Aims to help the DNP student in anesthesia to utilize knowledge and skill gained during increasingly complex clinical experiences to refine the skills necessary to function as an independent professional clinician and member of the healthcare system. Designed to support integration and synthesis of advanced knowledge and skills for interdisciplinary anesthesia nursing care of patients across the life span who have complex health problems and who are undergoing a wide range of surgical procedures. Selected topics and clinical case studies focus on higher-level professional skills, including collaborative decision making, utilization of evidence to inform practice, and effective communication. With minimal guidance, students assume greater responsibility in planning, implementing, and evaluating anesthesia care.",
     "coreqs": [],
     "prereqs": [{ "subject": "NRSG", "number": "7543" }]
-  },
-  {
-    "subject": "NRSG",
-    "number": "7712",
-    "title": "Quantitative Research Methods",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32077" }],
-    "description": "Introduces different types of quantitative research methods as they relate to investigation of phenomena in nursing and healthcare. Begins with a focus on defining research problems, theory testing, and causal inference, then explores a range of research designs and methodologic techniques that are available for empirical research. Quantitative techniques include sampling, data collection, analysis, and interpretation.",
-    "coreqs": [],
-    "prereqs": [{ "subject": "NRSG", "number": "7700" }]
   },
   {
     "subject": "NRSG",
@@ -2171,7 +2564,12 @@
     "scheduleType": "Off-campus instruction w/ lec",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38732" }],
+    "sections": [
+      { "term": "202330", "crn": "38732" },
+      { "term": "202350", "crn": "50377" },
+      { "term": "202350", "crn": "50382" },
+      { "term": "202350", "crn": "50727" }
+    ],
     "description": "Reflects the culmination of practice inquiry, knowledge, and competencies attained during the Doctorate of Nursing Practice program. In this seminar, students are mentored through the process of evidence-based project development, including formulation of goals and objectives; refinement of project design and implementation strategies; and development of tools and/or forms for data collection, identification of resources (personnel and fiscal), ethical review, and evaluation. Offers students an opportunity to participate in a process of peer consultation and critique in support of project refinement. Requires a minimum total of 250 scholarly practice hours.",
     "coreqs": [],
     "prereqs": [{ "subject": "NRSG", "number": "7920" }]
@@ -2255,7 +2653,9 @@
     "sections": [
       { "term": "202310", "crn": "13255" },
       { "term": "202260", "crn": "61591" },
-      { "term": "202330", "crn": "34677" }
+      { "term": "202330", "crn": "34677" },
+      { "term": "202360", "crn": "61224" },
+      { "term": "202350", "crn": "51279" }
     ],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -2271,7 +2671,8 @@
     "sections": [
       { "term": "202310", "crn": "11030" },
       { "term": "202310", "crn": "20902" },
-      { "term": "202310", "crn": "20903" }
+      { "term": "202310", "crn": "20903" },
+      { "term": "202330", "crn": "40475" }
     ],
     "description": "Offers research/experimental work for PhD thesis on a full-time basis. Restricted to Doctoral candidacy students only.",
     "coreqs": [],
@@ -2289,7 +2690,8 @@
       { "term": "202330", "crn": "31924" },
       { "term": "202330", "crn": "38733" },
       { "term": "202330", "crn": "38734" },
-      { "term": "202310", "crn": "21813" }
+      { "term": "202310", "crn": "21813" },
+      { "term": "202350", "crn": "51537" }
     ],
     "description": "Offers continuation of PhD dissertation research.",
     "coreqs": [],

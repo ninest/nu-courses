@@ -180,7 +180,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202260", "crn": "60100" },
-      { "term": "202260", "crn": "61256" }
+      { "term": "202260", "crn": "61256" },
+      { "term": "202360", "crn": "60097" }
     ],
     "description": "Examines the critical aspects of business essential in understanding the business and legal environment. Examines contract law and areas of the law that relate directly to the accountancy profession. Develops knowledge of the Uniform Commercial Code as it relates to the law of sales, commercial paper, and secured transactions. Also explores the importance of ethics in the business and accounting environment, and considers potential ethical dilemmas.",
     "coreqs": [],
@@ -195,9 +196,34 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "10622" },
-      { "term": "202260", "crn": "60107" }
+      { "term": "202260", "crn": "60107" },
+      { "term": "202360", "crn": "60104" }
     ],
     "description": "Designed to improve students' understanding of the negotiations process and their ability to plan and conduct negotiations effectively. Includes such class activities as readings, lectures, and discussions as well as case discussions and role-playing negotiation exercises.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MGMT",
+    "number": "6222",
+    "title": "Healthcare Industry",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "52464" }],
+    "description": "Examines the evolution of the U.S. healthcare delivery system from early forms of organized institutional care through the current dynamic and increasingly integrated and managed care systems. Introduces students to the interactions of regulatory, economic, political, and social aspects of the healthcare system.  Compares current policies and proposals for health reform.  Students are asked to analyze the impact and consequences of actions in one era on the structure and function of healthcare practice in later years and to project these trends into the future.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MGMT",
+    "number": "6223",
+    "title": "Strategic Decisions: Hlthcare",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "52458" }],
+    "description": "Examines how healthcare organizations manage their resources and competitive environment to meet the goals of their many stakeholders. Applies three essential elements of strategic decision making&#8212;environmental analysis, strategic formulation, and strategy implementation&#8212;to the healthcare industry.",
     "coreqs": [],
     "prereqs": []
   },
@@ -233,13 +259,13 @@
   },
   {
     "subject": "MGMT",
-    "number": "6280",
-    "title": "Innovation for Next-Generation Products and Systems",
-    "scheduleType": "Lecture",
-    "credits": 3,
+    "number": "7976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32499" }],
-    "description": "Focuses on next-generation products, systems, and services with an integrated framework that applies market innovation, user-centered design, architectural and platform innovation, and business model innovation. Offers students an opportunity to apply these concepts to new product/service/business process innovation opportunities in their own organization with executive sponsorship and faculty guidance.",
+    "sections": [{ "term": "202330", "crn": "40284" }],
+    "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   }

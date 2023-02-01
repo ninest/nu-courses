@@ -56,7 +56,18 @@
       { "term": "202330", "crn": "34026" },
       { "term": "202330", "crn": "34654" },
       { "term": "202330", "crn": "39274" },
-      { "term": "202310", "crn": "21292" }
+      { "term": "202310", "crn": "21292" },
+      { "term": "202360", "crn": "60022" },
+      { "term": "202360", "crn": "60021" },
+      { "term": "202340", "crn": "40017" },
+      { "term": "202340", "crn": "41706" },
+      { "term": "202340", "crn": "40402" },
+      { "term": "202340", "crn": "40423" },
+      { "term": "202340", "crn": "40483" },
+      { "term": "202340", "crn": "40645" },
+      { "term": "202340", "crn": "41414" },
+      { "term": "202340", "crn": "41459" },
+      { "term": "202330", "crn": "40243" }
     ],
     "description": "Provides an overview of the role of marketing in business and society. Considers the planning, implementation, and evaluation of marketing efforts in consumer and business-to-business companies, in service and goods companies, and in for-profit and nonprofit organizations. Also examines contemporary issues in marketing that can affect organizational success. A term project is used to enable students to apply their learning about the fundamentals of marketing.",
     "coreqs": [],
@@ -133,7 +144,8 @@
       { "term": "202330", "crn": "30359" },
       { "term": "202330", "crn": "30358" },
       { "term": "202330", "crn": "30357" },
-      { "term": "202330", "crn": "31167" }
+      { "term": "202330", "crn": "31167" },
+      { "term": "202360", "crn": "60940" }
     ],
     "description": "Focuses on the marketing process through the use of case studies simulating actual business settings and marketing challenges. Develops skill in marketing decision making, critical analysis, and communication. Topics include techniques for undertaking market analysis, marketing strategy (segmentation and positioning), and marketing implementation (4 Ps). A marketing plan project is used to enable students to apply their understanding about the marketing process.",
     "coreqs": [],
@@ -176,7 +188,8 @@
       { "term": "202330", "crn": "30355" },
       { "term": "202330", "crn": "30354" },
       { "term": "202330", "crn": "30836" },
-      { "term": "202330", "crn": "33258" }
+      { "term": "202330", "crn": "33258" },
+      { "term": "202340", "crn": "40646" }
     ],
     "description": "Offers students an opportunity to gain experience in the marketing research process, while working on a client-based project. Topics include problem definition, secondary research, exploratory research, experimental design, questionnaire design, sampling and recruitment, and data analysis and visualization. Exercises skills of project management, teamwork, and client relationship management. Seeks to prepare students for careers that utilize consumer insights to inform managerial decisions.",
     "coreqs": [],
@@ -295,7 +308,8 @@
       { "term": "202310", "crn": "16606" },
       { "term": "202240", "crn": "40486" },
       { "term": "202330", "crn": "33675" },
-      { "term": "202330", "crn": "38531" }
+      { "term": "202330", "crn": "38531" },
+      { "term": "202330", "crn": "39412" }
     ],
     "description": "Focuses on developing a creative advertising strategy and brand plan that aligns with a company’s overall marketing objectives. Topics include the business of brands, marketing strategy, ethical and legal considerations in advertising, advertising strategy development, media planning and buying, creative development and testing, identifying and measuring success on key performance indicators, historical foundations of advertising, and what’s next in the industry. Students apply course concepts to develop a creative advertising strategy to address campaign objectives.",
     "coreqs": [],
@@ -403,6 +417,18 @@
   },
   {
     "subject": "MKTG",
+    "number": "4606",
+    "title": "Digital, Analytics, Technology, and Automation Research Practicum",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39557" }],
+    "description": "Offers an advanced-level experiential learning opportunity for students who wish to gain exposure to solving problems facing businesses and other organizations using data analytics and digital technology applications. The practicum offers students an opportunity to learn through active participation in client-centric challenges in a DATA context. Faculty and organizations present a variety of such challenges, and students are guided through solving these challenges. Discusses how new technologies affect human behavior, examines how digital convergence impacts society and organizations, and studies how to apply state-of-the-art methods in machine learning to create value for businesses and organizations. Students practice communicating and enabling change within organizations. Focuses on building students’ technical and managerial skills to develop capacities to situate a business problem in a wider research context.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MKTG",
     "number": "4720",
     "title": "Understanding the Platform Economy",
     "scheduleType": "Lecture",
@@ -456,7 +482,8 @@
       { "term": "202240", "crn": "41724" },
       { "term": "202330", "crn": "30762" },
       { "term": "202330", "crn": "35225" },
-      { "term": "202330", "crn": "35426" }
+      { "term": "202330", "crn": "35426" },
+      { "term": "202340", "crn": "41361" }
     ],
     "description": "Focuses on marketing analysis and planning. Emphasizes analysis of customer needs and company and competitor capabilities. This analysis forms the basis of a sound marketing strategy that provides value to customers in a way superior to competitors. Discusses how to deliver this strategy through the development of an intergrated marketing program covering product offerings, pricing, promotion, and distribution. Includes professional accounting students.",
     "coreqs": [],
@@ -516,7 +543,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "41587" }],
+    "sections": [
+      { "term": "202240", "crn": "41587" },
+      { "term": "202350", "crn": "52456" }
+    ],
     "description": "Focuses on the challenges and decisions new-product managers face as they take ideas through the new-product-development process. Companies need to create, develop, and market new products and services continually to compete effectively in a rapidly changing environment. Provides an overview of the new-product-development process, with an emphasis on customer involvement in this process. Provides detailed insights on such topics as new-product strategy, idea generation, idea selection and evaluation, concept development and testing, product development and testing, and market testing.",
     "coreqs": [],
     "prereqs": [
@@ -556,7 +586,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202260", "crn": "61305" }],
+    "sections": [
+      { "term": "202260", "crn": "61305" },
+      { "term": "202350", "crn": "52460" }
+    ],
     "description": "Examines how both service organizations and product organizations require a distinctive approach to marketing strategy in a world where all organizations increasingly depend on service excellence and customer engagement for competitive advantage. The world economy is dominated by services; in the United States, a large percentage of the labor force and the GDP is accounted for by services. Covers why people are essential to success, why expectations are important to consumers, and how physical and virtual environments influence delivery of value to customers. This practice-oriented course focuses on active skill building and tool development that is quickly and directly applicable to students’ future careers.",
     "coreqs": [],
     "prereqs": [
@@ -594,7 +627,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202240", "crn": "40215" },
-      { "term": "202330", "crn": "36918" }
+      { "term": "202330", "crn": "36918" },
+      { "term": "202350", "crn": "52453" }
     ],
     "description": "Offers students an opportunity to obtain an in-depth understanding of the brand-building process amid radical changes in today's marketing communications platforms. Exposes students to concepts, frameworks, and theories critical to developing branding and advertising strategy in the twenty-first century, including brand positioning, target audiences definition, creative advertising, integrated marketing communications, the influence of social media, and assessing marketing and media effectiveness.",
     "coreqs": [],
@@ -694,18 +728,6 @@
   },
   {
     "subject": "MKTG",
-    "number": "6280",
-    "title": "Gaining Customer Insight",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32500" }],
-    "description": "Introduces the substantive and procedural aspects of marketing strategy and customer markets. Topics include how to identify target markets, how to leverage data and analyses to enhance the development of a marketing strategy, and how to develop knowledge of various techniques for uncovering customer needs/wants. Studies the importance of customer insights to business success. Offers students an opportunity to develop and implement a concept test.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "MKTG",
     "number": "6283",
     "title": "Marketing and Selling Innovation",
     "scheduleType": "Lecture",
@@ -723,7 +745,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202260", "crn": "60403" }],
+    "sections": [
+      { "term": "202260", "crn": "60403" },
+      { "term": "202360", "crn": "60380" }
+    ],
     "description": "Focuses on the marketing research process and the analysis of data using software applications. Marketing research helps businesses know their customers and aids in business decision making. Covers topics such as problem definition, research design, sampling, attitude measurement, survey design, data collection, and data analysis. Students apply course topics to their organizations and analyze real company customer satisfaction data to provide managerial insights for a decision maker. Cases highlight the research process, mobile qualitative methods, and practical decision-making skills. SPSS, Qualtrics, and IBM Watson Analytics may be used to develop and analyze the project components.",
     "coreqs": [],
     "prereqs": []
@@ -751,7 +776,8 @@
       { "term": "202310", "crn": "13721" },
       { "term": "202310", "crn": "13722" },
       { "term": "202330", "crn": "34425" },
-      { "term": "202330", "crn": "36495" }
+      { "term": "202330", "crn": "36495" },
+      { "term": "202330", "crn": "39808" }
     ],
     "description": "Examines the role of marketing as an organizational function and a set of processes to manage offerings that provide superior value to customers. Focuses on developing student skill in analyzing the customer and business environment and using that analysis to build an effective marketing strategy. Emphasizes methods for the identification, acquisition, and retention of customers in a way that provides mutual value to the customer and the organization.",
     "coreqs": [],
@@ -768,6 +794,18 @@
     "description": "Examines the specific elements of marketing management, including market research, metrics, positioning, planning, and the marketing mix. Focuses on developing student skills in putting together a marketing plan based on a thorough understanding of the market. Emphasizes predicting consumer behavior, developing points of difference and parity, calibrating the different elements of the market offering, and going to market with clear performance indicators.",
     "coreqs": [],
     "prereqs": [{ "subject": "MKTG", "number": "6318" }]
+  },
+  {
+    "subject": "MKTG",
+    "number": "6606",
+    "title": "Digital, Analytics, Technology, and Automation Advanced Research Practicum",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39558" }],
+    "description": "Offers students an advanced-level experiential learning opportunity to actively participate to solve client-centric challenges facing businesses and other organizations using data analytics and digital technology applications. Faculty and organizations present a variety of such challenges, and students are guided through solving these challenges. Discusses how new technologies affect human behavior, examines how digital convergence impacts society, and studies how to apply state-of-the-art methods in machine learning to create value for businesses. Students practice communicating and enabling change within organizations. Focuses on building students’ technical and managerial skills to develop capacities to situate a problem in a wider research context and to develop a communication approach to deliver technical information to different audiences.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "MKTG",

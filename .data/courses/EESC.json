@@ -60,7 +60,9 @@
       { "term": "202330", "crn": "38609" },
       { "term": "202330", "crn": "38610" },
       { "term": "202330", "crn": "38611" },
-      { "term": "202310", "crn": "21841" }
+      { "term": "202310", "crn": "21841" },
+      { "term": "202330", "crn": "39974" },
+      { "term": "202330", "crn": "40113" }
     ],
     "description": "Introduces students to the Cooperative Education Program and provides them with an opportunity to develop job-search and career-management skills. Offers students an opportunity to perform assessments of their workplace skills, interests, and values and discuss how they impact personal career choices. Students also have an opportunity to prepare a professional-style résumé, learn proper interviewing techniques, and gain an understanding of the opportunities available to them for co-op. Introduces career paths, choices, professional behaviors, work culture, and career decision making. Familiarizes students with workplace issues relative to their field of study and teaches them to use myNEU in the job-search and referral process. Presents co-op policies, procedures, and expectations of the Department of Cooperative Education and co-op employers.",
     "coreqs": [],
@@ -104,7 +106,18 @@
       { "term": "202260", "crn": "61638" },
       { "term": "202330", "crn": "37157" },
       { "term": "202330", "crn": "37480" },
-      { "term": "202330", "crn": "38612" }
+      { "term": "202330", "crn": "38612" },
+      { "term": "202360", "crn": "60766" },
+      { "term": "202360", "crn": "60803" },
+      { "term": "202360", "crn": "60824" },
+      { "term": "202360", "crn": "60825" },
+      { "term": "202360", "crn": "61130" },
+      { "term": "202360", "crn": "61170" },
+      { "term": "202360", "crn": "61271" },
+      { "term": "202350", "crn": "52381" },
+      { "term": "202330", "crn": "40085" },
+      { "term": "202330", "crn": "40293" },
+      { "term": "202330", "crn": "39715" }
     ],
     "description": "Offers students an opportunity to pursue experiential research outside the classroom and outside the university.",
     "coreqs": [],
@@ -122,7 +135,8 @@
       { "term": "202330", "crn": "37836" },
       { "term": "202330", "crn": "37893" },
       { "term": "202330", "crn": "37952" },
-      { "term": "202310", "crn": "21122" }
+      { "term": "202310", "crn": "21122" },
+      { "term": "202350", "crn": "52382" }
     ],
     "description": "Offers students an opportunity to pursue experiential research outside the classroom and outside the university.",
     "coreqs": [],

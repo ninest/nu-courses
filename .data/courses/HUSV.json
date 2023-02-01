@@ -65,7 +65,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD"],
-    "sections": [{ "term": "202310", "crn": "19515" }],
+    "sections": [
+      { "term": "202310", "crn": "19515" },
+      { "term": "202330", "crn": "39601" }
+    ],
     "description": "Provides in-depth understanding of clinical practice with individuals, groups, and families. Focuses on developing practice skills through presentations, case studies, and self-reflection journals. Examines the role of spirituality within one's clinical practice. Explores theoretical techniques and their applications in a variety of settings, with particular attention to populations at risk.",
     "coreqs": [],
     "prereqs": [{ "subject": "HUSV", "number": "2300" }]
@@ -120,7 +123,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EX"],
-    "sections": [{ "term": "202260", "crn": "60931" }],
+    "sections": [
+      { "term": "202260", "crn": "60931" },
+      { "term": "202360", "crn": "60692" }
+    ],
     "description": "Uncovers and examines the key dilemmas of the food system in the United States today using readings, media, discussion, service-learning, and field trips. Working from the foundations of environmental justice and community development, covers production, access, distribution, and key stakeholders from producers to retailers, workers, and consumers. Considers what justice-related issues face stakeholders within the food system in the United States; what policies have most impacted the workforce in the American food system; and what the opportunities and leverage points are for change in improving justice outcomes in this system.",
     "coreqs": [],
     "prereqs": []
@@ -139,18 +145,6 @@
     "description": "Introduces students to efforts among social and nonprofit organizations working to reduce heterosexism, homophobia, and transphobia in institutions, communities, and the society as a whole. Discusses practice across the life span for social professionals (social workers, counselors, advocates, and educators) in varied settings such as criminal justice, mental health, adoption, adult day health, and residential programs. Applying theories and current scholarship on LGBTQQ identity development, social movements, media, and advocacy, offers students an opportunity to evaluate contemporary issues of controversy for institutions, social practitioners, and policy. HUSV 2800 and WMNS 2800 are cross-listed.",
     "coreqs": [],
     "prereqs": []
-  },
-  {
-    "subject": "HUSV",
-    "number": "2970",
-    "title": "Research Methods for Human Services",
-    "scheduleType": "Seminar",
-    "credits": 4,
-    "nuPath": ["AD"],
-    "sections": [{ "term": "202330", "crn": "39327" }],
-    "description": "Offers an introduction to social science research that examines the theoretical and ethical foundations of social research methods. Highlights foundation knowledge and skills in hypothesis testing, research design, sampling strategies, measurement techniques, and basic data analysis and interpretation. Focuses on program evaluation to provide an opportunity for students to link social science research methods to direct human service practice.",
-    "coreqs": [],
-    "prereqs": [{ "subject": "HUSV", "number": "1101" }]
   },
   {
     "subject": "HUSV",

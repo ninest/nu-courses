@@ -28,7 +28,8 @@
       { "term": "202330", "crn": "30346" },
       { "term": "202330", "crn": "30345" },
       { "term": "202330", "crn": "30478" },
-      { "term": "202330", "crn": "35591" }
+      { "term": "202330", "crn": "35591" },
+      { "term": "202330", "crn": "39949" }
     ],
     "description": "Covers foundations of news writing for print media, including leads, story structure, objective tone, and attribution. Introduces fundamental reporting skills such as interviewing, researching, and observation. It then asks students, in their reporting, to step back and analyze the institutions they are writing about and the media itself in order to understand how societies and its institutions function and the validity of theories that explain these processes.",
     "coreqs": [{ "subject": "JRNL", "number": "1102" }],
@@ -49,7 +50,8 @@
       { "term": "202330", "crn": "33315" },
       { "term": "202330", "crn": "33395" },
       { "term": "202330", "crn": "36382" },
-      { "term": "202330", "crn": "37208" }
+      { "term": "202330", "crn": "37208" },
+      { "term": "202330", "crn": "39938" }
     ],
     "description": "Introduces the tools journalists use to tell stories that will be utilized in Journalism 1 and beyond. Covers introductory photo, audio, video, and data visualization skills. Exposes students to other journalistic tools including social media and blogging. Offers students an opportunity to become familiar with composition of photos, recording and editing audio and video on nonlinear software, and how data visualizations can enhance journalistic storytelling.",
     "coreqs": [{ "subject": "JRNL", "number": "1101" }],
@@ -97,6 +99,18 @@
   },
   {
     "subject": "JRNL",
+    "number": "2250",
+    "title": "Spotlight: The Story of Journalism and Democracy",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["ER", "SI"],
+    "sections": [{ "term": "202340", "crn": "41659" }],
+    "description": "Offers an overview of groundbreaking stories and the journalistic methods used to produce them. Seeks to facilitate broad understanding of why a free press matters in a democratic society. Offers a behind-the-scenes look at examples of great investigative journalism that changed American history and explores the media's capacity to hold the powerful accountable. From Watergate to WikiLeaks and beyond, students critically analyze important news stories that helped reshape society. Reviews major stories, films, and interactive media and studies the methods used to report and produce such stories, including methods used by the Boston Globe Spotlight team and seen in the Oscar-winning movie \"Spotlight.\" Focuses on researching documents as well as interviewing techniques.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "JRNL",
     "number": "2285",
     "title": "America and the Holocaust",
     "scheduleType": "Lecture",
@@ -118,7 +132,8 @@
       { "term": "202310", "crn": "10278" },
       { "term": "202260", "crn": "60558" },
       { "term": "202330", "crn": "30344" },
-      { "term": "202330", "crn": "39293" }
+      { "term": "202330", "crn": "39293" },
+      { "term": "202360", "crn": "60507" }
     ],
     "description": "Continues JRNL 2201. Covers basic principles of journalistic storytelling with video, sound, and still images. Introduces students to the foundations of writing with audio and video, and explores the concept of “convergence,” preparing stories for presentation in different formats. Fulfills the Advanced Writing in the Disciplines requirement for journalism majors.",
     "coreqs": [],
@@ -163,7 +178,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202330", "crn": "38508" }],
-    "description": "Examines the media's portrayal of conflicts and the peace process in the Middle East, Northern Ireland, Bosnia, Rwanda, and elsewhere. Evaluates the limits of fairness, balance, and accuracy in the coverage. Looks at the U.S. and international media&#8212;print, broadcast, and online&#8212;and some of the major stories in recent years and attempts to put these stories in historical, political, and social context. Analyzes the wide-ranging criticism of coverage from a variety of perspectives. INTL 3300 and JRNL 3300 are cross-listed.",
+    "description": "Examines the media's portrayal of conflicts and the peace process in the Middle East, Northern Ireland, Bosnia, Rwanda, and elsewhere. Evaluates the limits of fairness, balance, and accuracy in the coverage. Looks at the U.S. and international media—print, broadcast, and online—and some of the major stories in recent years and attempts to put these stories in historical, political, and social context. Analyzes the wide-ranging criticism of coverage from a variety of perspectives. INTL 3300 and JRNL 3300 are cross-listed.",
     "coreqs": [],
     "prereqs": []
   },
@@ -182,7 +197,8 @@
       { "term": "202330", "crn": "38509" },
       { "term": "202330", "crn": "38510" },
       { "term": "202330", "crn": "39079" },
-      { "term": "202330", "crn": "39085" }
+      { "term": "202330", "crn": "39085" },
+      { "term": "202360", "crn": "61401" }
     ],
     "description": "This course gives advanced video students hands-on experience producing long-form and magazine-style video news segments with an emphasis on comprehensive coverage of timely, relevant issues impacting society. Students will build upon prior video experience to report and produce in-depth video news stories for dissemination across multiple platforms. Students will hone their researching, reporting, writing, video shooting and editing skills while also examining the ethical dilemmas facing video journalists as they pursue long-form storytelling. Experience in shooting and editing required.",
     "coreqs": [],
@@ -268,7 +284,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202330", "crn": "38512" }],
-    "description": "Covers writing and freelancing magazine articles; analyzing magazines as markets; and selecting the best feature format&#8212;how-to-do-it, profile, personal experience, human interest, interpretive pieces, and others. Requires a firm grasp of journalistic concepts, including advanced reporting and writing skills; a prior journalistic co-op or internship or experience writing for a school, online, or professional publication is preferred.",
+    "description": "Covers writing and freelancing magazine articles; analyzing magazines as markets; and selecting the best feature format—how-to-do-it, profile, personal experience, human interest, interpretive pieces, and others. Requires a firm grasp of journalistic concepts, including advanced reporting and writing skills; a prior journalistic co-op or internship or experience writing for a school, online, or professional publication is preferred.",
     "coreqs": [],
     "prereqs": []
   },
@@ -433,7 +449,7 @@
     "title": "Coding for Digital Storytelling",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["EI"],
+    "nuPath": ["EI", "EX"],
     "sections": [{ "term": "202330", "crn": "38595" }],
     "description": "Offers students an opportunity to learn essential skills in coding across a wide range of technologies commonly used today in data-driven, multimodal, web-based storytelling. Focuses on building skills in basic web development, as well as exploring additional topics and technologies that fit into the broader landscape of data storytelling practice (JavaScript visualization library D3.js, basic Python, working with APIs, and working with databases). Coursework consists primarily of team-based projects that focus on reverse-engineering real-world examples of data storytelling to demystify the question, “How did they do that?” Reveals the ways fluency in code can transform storytelling.",
     "coreqs": [],
@@ -504,7 +520,8 @@
       { "term": "202330", "crn": "38515" },
       { "term": "202330", "crn": "38516" },
       { "term": "202330", "crn": "39090" },
-      { "term": "202330", "crn": "39131" }
+      { "term": "202330", "crn": "39131" },
+      { "term": "202360", "crn": "61402" }
     ],
     "description": "Explores the role of journalism in delivering science news and information to a general audience through print and digital media. Through readings and analysis of a variety of news media, offers students an opportunity to learn how political debates intersect with and shape scientific developments and how scientific developments can be sensationalized or misunderstood. Students also have an opportunity to learn and apply best journalistic practices to communicate effectively in the media about science, health, environmental, and technology issues whether headed to a newsroom, corporate press office, or scientific institution.",
     "coreqs": [],
@@ -563,6 +580,18 @@
   },
   {
     "subject": "JRNL",
+    "number": "6352",
+    "title": "Nonfiction Writing",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202340", "crn": "40405" }],
+    "description": "Concentrates on techniques that distinguish magazine writing from other types of journalism including first-person voice, strong point of view, observation-participation, and complex organizational structures. Also introduces students to the magazine market through an analysis of overall trends and a look at individual magazine's mission and modus operandi.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "JRNL", "number": "6200" }]
+  },
+  {
+    "subject": "JRNL",
     "number": "6355",
     "title": "Seminar in Investigative Reporting",
     "scheduleType": "Seminar",
@@ -570,6 +599,18 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "20231" }],
     "description": "Introduces students to the world of investigative reporting as it is practiced at major metropolitan newspapers. Asks students to work as members of investigative reporting teams and introduces them to advanced reporting techniques and standards in the classroom. Provides an opportunity to learn how ideas for investigative reporting projects are developed; how to identify and interpret public records and online databases; and how to do interviews and write investigative stories. Working in small teams, the students are given an opportunity to develop and write investigative stories for publication.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "JRNL",
+    "number": "6966",
+    "title": "Practicum",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "40776" }],
+    "description": "Provides eligible students with an opportunity for practical experience. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -583,7 +624,9 @@
     "sections": [
       { "term": "202240", "crn": "41942" },
       { "term": "202310", "crn": "21403" },
-      { "term": "202310", "crn": "21760" }
+      { "term": "202310", "crn": "21760" },
+      { "term": "202330", "crn": "40104" },
+      { "term": "202330", "crn": "40512" }
     ],
     "description": "Offers students work on individual projects under the supervision of an instructor. May be repeated without limit.",
     "coreqs": [],

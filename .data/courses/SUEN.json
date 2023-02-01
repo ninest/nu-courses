@@ -7,7 +7,7 @@
     "credits": 6,
     "nuPath": [],
     "sections": [{ "term": "202330", "crn": "31605" }],
-    "description": "Offers a graduate-level studio following SUEN 6110 and introducing fundamental landscape planning, design, and strategic management of environmental infrastructures at the urban and regional scale. Core topics include the spatial and operational role in the built landscape of living systems&#8212;such as constructed wetlands, urban forests, urban wilds, and managed habitats&#8212;and their dynamic relationship to recreation, transit, food, housing, and industrial networks. Emphasizes the integration of constructed ecologies into the cultural landscape around issues of environmental justice. Continues the introduction of key tools and media from SUEN 6110, including advanced digital drawing, modeling, and design communication.",
+    "description": "Offers a graduate-level studio following SUEN 6110 and introducing fundamental landscape planning, design, and strategic management of environmental infrastructures at the urban and regional scale. Core topics include the spatial and operational role in the built landscape of living systems—such as constructed wetlands, urban forests, urban wilds, and managed habitats—and their dynamic relationship to recreation, transit, food, housing, and industrial networks. Emphasizes the integration of constructed ecologies into the cultural landscape around issues of environmental justice. Continues the introduction of key tools and media from SUEN 6110, including advanced digital drawing, modeling, and design communication.",
     "coreqs": [],
     "prereqs": [{ "subject": "SUEN", "number": "6110" }]
   },
@@ -117,7 +117,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "41972" }],
+    "sections": [
+      { "term": "202240", "crn": "41972" },
+      { "term": "202340", "crn": "41606" }
+    ],
     "description": "Offers independent work under the direction of members of the department and/or interdisciplinary faculty. Course content is defined and approved by instructor. May be repeated up to 11 times for up to 12 total credits.",
     "coreqs": [],
     "prereqs": []

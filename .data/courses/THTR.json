@@ -40,7 +40,8 @@
     "sections": [
       { "term": "202310", "crn": "10324" },
       { "term": "202310", "crn": "20503" },
-      { "term": "202330", "crn": "30303" }
+      { "term": "202330", "crn": "30303" },
+      { "term": "202340", "crn": "40440" }
     ],
     "description": "Reveals the dynamic world of theatre by exploring the artistry, ideas, and techniques of actors, designers, directors, and playwrights. Goes behind the scenes in the study of theory and literature with both in-depth discussions and in-class performances. Includes a survey of significant movements in theatre history and analysis of diverse plays from contemporary drama. No theatre experience required.",
     "coreqs": [],
@@ -76,7 +77,10 @@
       { "term": "202240", "crn": "40888" },
       { "term": "202330", "crn": "33705" },
       { "term": "202330", "crn": "34623" },
-      { "term": "202330", "crn": "37256" }
+      { "term": "202330", "crn": "37256" },
+      { "term": "202360", "crn": "60301" },
+      { "term": "202340", "crn": "40749" },
+      { "term": "202340", "crn": "41647" }
     ],
     "description": "Introduces theatre improvisation principles through games, exercises, and readings. Offers a playful and rigorous environment for students to respond to unexpected situations with confidence and agility. In this experiential studio course, students participate in group and individual exercises that explore and practice creative impulses, adaptability, risk taking, intuition, and teamwork. Culminates in a self-reflection paper.",
     "coreqs": [],
@@ -99,7 +103,10 @@
       { "term": "202330", "crn": "30302" },
       { "term": "202330", "crn": "30301" },
       { "term": "202330", "crn": "32169" },
-      { "term": "202330", "crn": "37250" }
+      { "term": "202330", "crn": "37250" },
+      { "term": "202360", "crn": "60222" },
+      { "term": "202340", "crn": "40274" },
+      { "term": "202340", "crn": "41648" }
     ],
     "description": "Introduces techniques that awaken the creative mind, body, and spirit of the actor. Through theatre games and voice/movement exercises, offers students an opportunity to explore and develop skills used by actors in preparation for a role. Students rehearse and perform scenes from contemporary plays. Designed for nontheatre majors; previous stage experience welcome but not required.",
     "coreqs": [],
@@ -141,7 +148,12 @@
       { "term": "202240", "crn": "40711" },
       { "term": "202330", "crn": "32404" },
       { "term": "202330", "crn": "33355" },
-      { "term": "202330", "crn": "32406" }
+      { "term": "202330", "crn": "32406" },
+      { "term": "202340", "crn": "41649" },
+      { "term": "202330", "crn": "39747" },
+      { "term": "202330", "crn": "39921" },
+      { "term": "202330", "crn": "39748" },
+      { "term": "202330", "crn": "39922" }
     ],
     "description": "Designed to help students to enhance the effectiveness with which they present themselves in front of an audience. Uses the application of theatre training exercises and practical tools to offer students an opportunity to improve the quality of their spoken voice, the clarity with which they articulate their ideas, and their ability to command the attention of audiences in diverse interpersonal and professional interactions.",
     "coreqs": [],
@@ -157,7 +169,9 @@
     "sections": [
       { "term": "202310", "crn": "18671" },
       { "term": "202330", "crn": "38158" },
-      { "term": "202330", "crn": "38159" }
+      { "term": "202330", "crn": "38159" },
+      { "term": "202360", "crn": "61311" },
+      { "term": "202340", "crn": "41650" }
     ],
     "description": "Offers students across disciplines the opportunity to enhance the quality of their spoken voice and improve clarity of expression, with specific emphasis on being a dynamic presenter across digital platforms. Focuses on physical and vocal exercises drawn from theatre training and practice, providing tools to release tensions that inhibit the clear communication of thoughts and ideas in professional and interpersonal interactions across in-person and digital modalities. Offers students an opportunity to apply these skills directly to various texts, circumstances, and settings through active participation in spoken, written, and performative work.",
     "coreqs": [],
@@ -187,18 +201,6 @@
       { "term": "202330", "crn": "36684" }
     ],
     "description": "Offers students an overview of the most significant and relevant theories on fashion, focusing on the cultural significance of clothing and style. Examines the intersection of fashion and other areas of study including the arts, history, economics, business, sociology, and anthropology. Explores global issues of gender, race, class, identity, image, style, material culture, and sustainability. Examines how populations from several postindustrial nations think about fashion, how globalization impacts their cultures and identities, and how designers and trendsetters are emerging from the new capitals of fashion.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "THTR",
-    "number": "1260",
-    "title": "Movement  for the Actor",
-    "scheduleType": "Studio",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32400" }],
-    "description": "Explores movement techniques that enhance the actor's expressiveness, performance energy, and body awareness. Offers students an opportunity to experience diverse movement training theories such as Suzuki, Alexander, and Laban and synthesize them in the creation of an original ensemble-based performance. Focuses on physical exercises and processes that strengthen the body; enliven the imagination; enhance concentration; and improve flexibility, balance, relaxation, and posture. Seeks to empower actors to externalize the emotional and imaginative inner experience and maximize stage presence and power. No previous movement or acting experience required.",
     "coreqs": [],
     "prereqs": []
   },
@@ -280,7 +282,9 @@
       { "term": "202310", "crn": "13159" },
       { "term": "202310", "crn": "20272" },
       { "term": "202240", "crn": "41419" },
-      { "term": "202330", "crn": "32866" }
+      { "term": "202330", "crn": "32866" },
+      { "term": "202340", "crn": "41067" },
+      { "term": "202330", "crn": "39872" }
     ],
     "description": "Introduces fashion retailing. Analyzes the different types and sizes of fashion retail operations; physical site location, including omnichannel; store layout and design; advertising and display; relation of the store to its intended target market; and store organization.",
     "coreqs": [],
@@ -414,7 +418,8 @@
     "sections": [
       { "term": "202310", "crn": "18675" },
       { "term": "202240", "crn": "41420" },
-      { "term": "202330", "crn": "35638" }
+      { "term": "202330", "crn": "35638" },
+      { "term": "202340", "crn": "41068" }
     ],
     "description": "Examines basic principles and practices of stage lighting, including the qualities and functions of light, lighting instruments and controls, use of color and directionality, and script analysis for lighting design elements. Offers students an opportunity to develop foundational skills and practice systematic reasoning in the programming and operation of lighting computer equipment. Through group projects and individual lab work, students create and execute lighting designs. Includes work on electrics crews for university productions.",
     "coreqs": [],
@@ -449,22 +454,6 @@
   },
   {
     "subject": "THTR",
-    "number": "2600",
-    "title": "Voice and Speech Training",
-    "scheduleType": "Studio",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38165" }],
-    "description": "Offers students an opportunity to develop the skills to enhance the quality of the spoken voice —the clarity and vitality with which actors express themselves on the stage. Follows the pedagogy known as “Freeing the Natural Voice,” developed by Kristin Linklater. Includes learning and applying the International Phonetic Alphabet as a tool to clarify speech sounds.",
-    "coreqs": [],
-    "prereqs": [
-      { "subject": "THTR", "number": "1120" },
-      "And",
-      { "subject": "THTR", "number": "2342" }
-    ]
-  },
-  {
-    "subject": "THTR",
     "number": "2983",
     "title": "Topics in Theatre History and Culture",
     "scheduleType": "Seminar",
@@ -481,7 +470,7 @@
     "title": "Creative Storytelling for Social Engagement",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": ["EI"],
+    "nuPath": ["EI", "EX"],
     "sections": [
       { "term": "202310", "crn": "18678" },
       { "term": "202330", "crn": "38168" }

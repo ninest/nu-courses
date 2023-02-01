@@ -44,7 +44,16 @@
       { "term": "202330", "crn": "34639" },
       { "term": "202330", "crn": "34640" },
       { "term": "202330", "crn": "37310" },
-      { "term": "202330", "crn": "39297" }
+      { "term": "202330", "crn": "39297" },
+      { "term": "202360", "crn": "60864" },
+      { "term": "202360", "crn": "61044" },
+      { "term": "202360", "crn": "61070" },
+      { "term": "202360", "crn": "61399" },
+      { "term": "202340", "crn": "41049" },
+      { "term": "202340", "crn": "41345" },
+      { "term": "202340", "crn": "41423" },
+      { "term": "202330", "crn": "39401" },
+      { "term": "202330", "crn": "39907" }
     ],
     "description": "Explores diverse social phenomena, from how people try to look their best in face-to-face interactions; to how race, gender, and class shape identities and social conditions; to how industrial capitalism came to dominate the world. Offers students an opportunity to gain a grasp of key sociological theories and empirical research on topics such as social order, social conflict, and social change, as well as learn to identify social forces that shape human behavior, explain how these forces affect individuals and social groups, and make valid predictions about how they may shape future behavior or events.",
     "coreqs": [],
@@ -71,18 +80,6 @@
   },
   {
     "subject": "SOCL",
-    "number": "1235",
-    "title": "Social Psychology",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202330", "crn": "36212" }],
-    "description": "Studies the relationship between society and the individual. Focuses on three theoretical perspectives—symbolic interactionism, social structure and personality, and group processes—in order to understand how human behavior is tied to social and cultural contexts and how individuals shape and are shaped by group interaction. Topics may include socialization and how people develop a “social sense of self”; cross-cultural differences in interactional styles; pressures to conform to roles and stereotypes; deviance and mental health; inequality based on race/ethnicity, social class, and gender; identity formation and change, attitudes, and behavior, including prejudice and discrimination; and collective behavior, including social movements.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "SOCL",
     "number": "1246",
     "title": "Environment and Society",
     "scheduleType": "Lecture",
@@ -92,7 +89,8 @@
       { "term": "202310", "crn": "10456" },
       { "term": "202310", "crn": "20517" },
       { "term": "202260", "crn": "61225" },
-      { "term": "202330", "crn": "33104" }
+      { "term": "202330", "crn": "33104" },
+      { "term": "202340", "crn": "41687" }
     ],
     "description": "Examines the social, political, and economic forces behind the global environmental crisis. Topics include such issues as global warming and climate disruption, world resource availability and the global economic crisis, environmental justice and social inequities in the exposure to ecological hazards, science and technology, environmental degradation in the Third World, globalization and unfair trade, state power and the role of the polluter-industrial complex in the United States, the history of the environmental movement, and exemplary environmental policies and programs. This theoretically oriented course also involves practical experience in environmental problem solving.",
     "coreqs": [],
@@ -107,7 +105,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [
       { "term": "202310", "crn": "11335" },
-      { "term": "202240", "crn": "41377" }
+      { "term": "202240", "crn": "41377" },
+      { "term": "202340", "crn": "41716" }
     ],
     "description": "Considers why and how gender is socially constructed in U.S. society and looks at different theories of gender. Explores gender as an institution as well as different (cultural) expressions of masculinities and femininities. Includes topics of gender in everyday life as well as gender as an organizing principle in the institutions of families, education, workplaces, sexualities, religion, the media, politics, and forms of gender violence. SOCL 1260 and WMNS 1260 are cross-listed.",
     "coreqs": [],
@@ -142,23 +141,11 @@
   },
   {
     "subject": "SOCL",
-    "number": "2320",
-    "title": "Statistical Analysis in Sociology",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": ["AD"],
-    "sections": [{ "term": "202330", "crn": "39336" }],
-    "description": "Offers students an opportunity to obtain knowledge and skills essential for understanding the theory and practice of social statistics commonly used in social research. Topics covered include the operationalization of abstract concepts; descriptive statistics; correlation; bivariate regression; central limit theorem; confidence intervals; hypothesis testing; and key concepts such as association, causation, and spurious relationships. Statistical software is used to complete assignments.",
-    "coreqs": [],
-    "prereqs": [{ "subject": "SOCL", "number": "1101" }]
-  },
-  {
-    "subject": "SOCL",
     "number": "2321",
     "title": "Research Methods in Sociology",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["AD"],
     "sections": [
       { "term": "202310", "crn": "10391" },
       { "term": "202330", "crn": "30253" }
@@ -290,7 +277,8 @@
     "nuPath": ["WI"],
     "sections": [
       { "term": "202310", "crn": "16284" },
-      { "term": "202330", "crn": "39337" }
+      { "term": "202330", "crn": "39337" },
+      { "term": "202360", "crn": "61347" }
     ],
     "description": "Reviews the dominant theoretical traditions in classical and contemporary sociology, showing the links between the social thought of the eighteenth and nineteenth centuries and current social thought.",
     "coreqs": [],
@@ -315,7 +303,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["SI"],
-    "sections": [{ "term": "202330", "crn": "39299" }],
+    "sections": [
+      { "term": "202330", "crn": "39299" },
+      { "term": "202330", "crn": "39411" }
+    ],
     "description": "Presents the sociological study of immigration in the United States. Emphasizes the ways U.S. institutions (e.g., federal, state and local governments, the legal system, economy, schools, families) have shaped immigrant integration and incorporation and vice versa. Presents theories and concepts that explain how experiences of integration and incorporation differ for disparate groups of immigrants and their children due to their associated social categories including race, class, gender, sexuality and citizenship. Examines how local and state institutions (Boston and Massachusetts, respectively) have shaped immigrant integration in recent years.",
     "coreqs": [],
     "prereqs": [
@@ -381,7 +372,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202260", "crn": "61250" }],
+    "sections": [
+      { "term": "202260", "crn": "61250" },
+      { "term": "202340", "crn": "41688" }
+    ],
     "description": "Considers the intersection of race, class, and gender in social structure, institutions, and people's lives. Utilizes an interdisciplinary approach to focus on the socially constructed nature of these concepts and how they shape and create meaning in individual lives. Difference with an emphasis on inequality and varying life chances is central for understanding our society and is central to our work. Requires a significant amount of reading. Class format is like a seminar; students are expected to participate, take responsibility, and write a paper. SOCL 4520 and WMNS 4520 are cross-listed.",
     "coreqs": [],
     "prereqs": [
@@ -423,7 +417,8 @@
     "sections": [
       { "term": "202240", "crn": "41440" },
       { "term": "202330", "crn": "38235" },
-      { "term": "202330", "crn": "39188" }
+      { "term": "202330", "crn": "39188" },
+      { "term": "202360", "crn": "61348" }
     ],
     "description": "Offers students an opportunity to engage in advanced social science research on topics relating to environmental justice, citizen science, and environmental health. Examines various environmental justice topics with the goal of producing a research project or paper. Case studies examined include the impacts of toxic waste dumping on human health and the environment, the role of global climate change in creating new waves of migration around the world, the rise of the Slow Food movement, and the relationship between environmental and data justice. Studies how to redesign research methods, tools, and processes to support environmental justice.",
     "coreqs": [],
@@ -600,7 +595,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202330", "crn": "30701" }],
-    "description": "Reviews the dominant theoretical traditions in contemporary sociology, examining the key assumptions, terminology, weaknesses, and strengths of the pluralist, managerialist, neo-Marxist, feminist, and postmodern paradigms. Strives not only to expose students to the giants in the field but, more important, to give students the intellectual tools to situate entire theoretical traditions vis-&#224;-vis one another. Introduces students to various schools of thought. Offers students the opportunity to learn &#8220;how to think&#8221; sociologically and theoretically&#8212;that is, to go beyond simplistic and descriptive accounts of social phenomena to offer more systematic and insightful explanations.",
+    "description": "Reviews the dominant theoretical traditions in contemporary sociology, examining the key assumptions, terminology, weaknesses, and strengths of the pluralist, managerialist, neo-Marxist, feminist, and postmodern paradigms. Strives not only to expose students to the giants in the field but, more important, to give students the intellectual tools to situate entire theoretical traditions vis-à-vis one another. Introduces students to various schools of thought. Offers students the opportunity to learn “how to think” sociologically and theoretically—that is, to go beyond simplistic and descriptive accounts of social phenomena to offer more systematic and insightful explanations.",
     "coreqs": [],
     "prereqs": []
   },
@@ -630,18 +625,6 @@
   },
   {
     "subject": "SOCL",
-    "number": "7256",
-    "title": "Contemporary Issues in Sociology",
-    "scheduleType": "Seminar",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36571" }],
-    "description": "Political Sociology",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "SOCL",
     "number": "7263",
     "title": "Social Psychology of Stratification",
     "scheduleType": "Seminar",
@@ -665,7 +648,12 @@
       { "term": "202260", "crn": "61415" },
       { "term": "202330", "crn": "37499" },
       { "term": "202310", "crn": "21524" },
-      { "term": "202310", "crn": "21662" }
+      { "term": "202310", "crn": "21662" },
+      { "term": "202330", "crn": "40217" },
+      { "term": "202330", "crn": "40344" },
+      { "term": "202330", "crn": "40553" },
+      { "term": "202330", "crn": "40680" },
+      { "term": "202330", "crn": "40726" }
     ],
     "description": "Comprises reading and research directed by a faculty member. May be repeated without limit.",
     "coreqs": [],
@@ -685,7 +673,10 @@
       { "term": "202310", "crn": "21315" },
       { "term": "202310", "crn": "21333" },
       { "term": "202310", "crn": "21357" },
-      { "term": "202310", "crn": "21625" }
+      { "term": "202310", "crn": "21625" },
+      { "term": "202350", "crn": "51745" },
+      { "term": "202330", "crn": "40390" },
+      { "term": "202330", "crn": "40548" }
     ],
     "description": "Taken while completing one of two PhD field statements under faculty supervision.",
     "coreqs": [],
@@ -701,21 +692,13 @@
     "sections": [
       { "term": "202310", "crn": "17560" },
       { "term": "202330", "crn": "38242" },
-      { "term": "202310", "crn": "21527" }
+      { "term": "202310", "crn": "21527" },
+      { "term": "202350", "crn": "51280" },
+      { "term": "202330", "crn": "39606" },
+      { "term": "202330", "crn": "40060" },
+      { "term": "202330", "crn": "40064" }
     ],
     "description": "Offers the student the opportunity to conduct full-time research. May be repeated without limit.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "SOCL",
-    "number": "9000",
-    "title": "PhD Candidacy Achieved",
-    "scheduleType": "Individual Instruction",
-    "credits": 0,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38243" }],
-    "description": "Indicates successful completion of the doctoral comprehensive exam.",
     "coreqs": [],
     "prereqs": []
   },
@@ -728,7 +711,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "17561" },
-      { "term": "202330", "crn": "38244" }
+      { "term": "202330", "crn": "38244" },
+      { "term": "202350", "crn": "50711" }
     ],
     "description": "Offers theoretical and experimental work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
@@ -779,7 +763,15 @@
       { "term": "202330", "crn": "39220" },
       { "term": "202330", "crn": "39221" },
       { "term": "202330", "crn": "39222" },
-      { "term": "202330", "crn": "39223" }
+      { "term": "202330", "crn": "39223" },
+      { "term": "202350", "crn": "50453" },
+      { "term": "202350", "crn": "52109" },
+      { "term": "202350", "crn": "52110" },
+      { "term": "202350", "crn": "52111" },
+      { "term": "202350", "crn": "52112" },
+      { "term": "202350", "crn": "52113" },
+      { "term": "202330", "crn": "40003" },
+      { "term": "202330", "crn": "40011" }
     ],
     "description": "Offers continued thesis work conducted under the supervision of a departmental faculty.",
     "coreqs": [],

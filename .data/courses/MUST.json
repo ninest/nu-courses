@@ -13,7 +13,8 @@
       { "term": "202330", "crn": "34745" },
       { "term": "202330", "crn": "37363" },
       { "term": "202330", "crn": "39022" },
-      { "term": "202330", "crn": "39277" }
+      { "term": "202330", "crn": "39277" },
+      { "term": "202330", "crn": "40337" }
     ],
     "description": "Provides students with instruction in the use of a computer for composing original music. Topics include MIDI sequencing, digital audio processing, and sound synthesis. Students use music hardware and software to complete a variety of projects.",
     "coreqs": [],
@@ -69,7 +70,7 @@
     "sections": [{ "term": "202330", "crn": "39023" }],
     "description": "Explores various fields, skills and considerations when designing novel musical interfaces, including design, fabrication, basic hardware & software, network communication, affordances, mapping, ergonomics, best practices for instrument augmentation, human-computer interactions, etc.  Explores designing musical systems for various populations (including professional musicians, children, people with various abilities, participating audiences, and non-human animals) and designed for various sites (concert venues, installation, outdoors, etc.)  Using an Arduino-based platform and Max, students will prototype using microcontrollers to create novel interactive musical interactions and interfaces.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MUST", "number": "1220" }]
+    "prereqs": [{ "subject": "MUST", "number": "2431" }]
   },
   {
     "subject": "MUST",
@@ -92,18 +93,6 @@
     "nuPath": ["EI", "ND"],
     "sections": [{ "term": "202310", "crn": "19686" }],
     "description": "Introduces analog electronics in the context of audio synthesis and control. Topics include the basics of electronics and analog audio signals; passive components, transistors, operational amplifiers, and sensors; analog audio synthesis, filters, amplification, and modulation; and the basics of hacking and circuit bending. In-class activities center on designing, building, analyzing, and testing sound-emitting circuits.",
-    "coreqs": [],
-    "prereqs": [{ "subject": "MUST", "number": "2431" }]
-  },
-  {
-    "subject": "MUST",
-    "number": "3603",
-    "title": "Embedded Audio Programming",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": ["EI", "ND"],
-    "sections": [{ "term": "202330", "crn": "39024" }],
-    "description": "Explores embedded computers and their employment for the design of interactive audio applications. Studies how to program audio applications that take advantage of the unique features of these systems, which is accomplished by transferring the coding skills acquired on general-purpose computers to the languages and the programming rationales of embedded hardware. Primarily covers low-latency, real-time audio synthesis/processing, but also offers an in-depth introduction to physical computing, sensors, and simple electronics. Offers students an opportunity to gain experience with the full design-development-test cycle of software and hardware interactive audio technologies through a final project.",
     "coreqs": [],
     "prereqs": [{ "subject": "MUST", "number": "2431" }]
   },
@@ -132,9 +121,15 @@
     "prereqs": [
       { "subject": "MUST", "number": "3540" },
       "Or",
-      { "subject": "MUST", "number": "4520" },
+      { "subject": "MUSC", "number": "4510" },
       "Or",
-      { "subject": "MUST", "number": "4610" }
+      { "subject": "MUST", "number": "4610" },
+      "Or",
+      { "subject": "MUST", "number": "3601" },
+      "Or",
+      { "subject": "MUST", "number": "3602" },
+      "Or",
+      { "subject": "MUST", "number": "3603" }
     ]
   }
 ]

@@ -14,7 +14,9 @@
       { "term": "202240", "crn": "41482" },
       { "term": "202330", "crn": "34626" },
       { "term": "202330", "crn": "30057" },
-      { "term": "202330", "crn": "37451" }
+      { "term": "202330", "crn": "37451" },
+      { "term": "202340", "crn": "41122" },
+      { "term": "202330", "crn": "39875" }
     ],
     "description": "Introduces students to American Sign Language (ASL). Students develop expressive and receptive competence in using ASL to fulfill various social functions (such as introductions, explanations of personal history, and descriptions of simple narratives). Additional topics include the use of signing space and further use of nonmanual components including facial expression and body postures.",
     "coreqs": [],
@@ -31,7 +33,8 @@
       { "term": "202310", "crn": "13597" },
       { "term": "202310", "crn": "10076" },
       { "term": "202330", "crn": "30056" },
-      { "term": "202330", "crn": "33149" }
+      { "term": "202330", "crn": "33149" },
+      { "term": "202340", "crn": "41123" }
     ],
     "description": "Continues AMSL 1101. Continues development of expressive and receptive competence in using American Sign Language to fulfill various social functions (such as introductions, explanations of personal history, and descriptions of simple narratives). Emphasizes further development of receptive and expressive skills, finger spelling, vocabulary building, grammatical structures; encourages more extensive use of nonmanual behaviors, classifiers, body postures, and signing space. Students are also introduced to regional and ethnic sign variations and political and educational institutions of the Deaf community.",
     "coreqs": [],
@@ -114,7 +117,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "20273" }],
+    "sections": [
+      { "term": "202310", "crn": "20273" },
+      { "term": "202330", "crn": "40283" }
+    ],
     "description": "Offers students a way of going beyond work given in the regular curriculum; may also enable students to complete major requirements in certain situations. Priority is given to American Sign Language majors and to juniors and seniors. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []

@@ -55,7 +55,11 @@
       { "term": "202330", "crn": "35622" },
       { "term": "202330", "crn": "36787" },
       { "term": "202330", "crn": "39273" },
-      { "term": "202310", "crn": "15436" }
+      { "term": "202310", "crn": "15436" },
+      { "term": "202360", "crn": "60137" },
+      { "term": "202340", "crn": "40200" },
+      { "term": "202340", "crn": "40241" },
+      { "term": "202330", "crn": "39976" }
     ],
     "description": "Offers students an opportunity to obtain the necessary skills to collect, summarize, analyze, and interpret business-related data. Covers descriptive statistics, sampling and sampling distributions, statistical inference, relationships between variables, formulating and testing hypotheses, and regression analysis in the context of business. Use of the SPSS statistical programming package is an integral part of the course.",
     "coreqs": [],
@@ -78,7 +82,8 @@
       { "term": "202310", "crn": "12629" },
       { "term": "202260", "crn": "60471" },
       { "term": "202330", "crn": "30761" },
-      { "term": "202330", "crn": "30607" }
+      { "term": "202330", "crn": "30607" },
+      { "term": "202360", "crn": "60443" }
     ],
     "description": "Provides students with basic information analysis skills and tools needed to manage effectively in today's information-intensive business climate. Exposes students to analytical problems from different areas of business and the quantitative concepts and techniques that can analyze them. Course objectives are to improve the information analysis skills of the students, to provide students with a working knowledge of important statistical tools, to help students become more critical evaluators of studies and reports involving statistical and quantitative methods, and to improve skills in communicating the results of analyses. Offers students the opportunity to learn how to evaluate, analyze, and interpret data, and present their findings and conclusions that will be most useful for managerial decision making through the use of business applications and analytical software.",
     "coreqs": [],
@@ -117,9 +122,22 @@
       { "term": "202330", "crn": "32120" },
       { "term": "202330", "crn": "32121" },
       { "term": "202330", "crn": "35941" },
-      { "term": "202330", "crn": "35946" }
+      { "term": "202330", "crn": "35946" },
+      { "term": "202340", "crn": "40083" }
     ],
     "description": "Focuses on issues of the strategic uses of information technology for competitive advantage, support of business processes, information and control, digital business, integration of business with technology, organizational communication, and data management. Information has become a key resource in doing business.  Managers must understand that high-quality information adds value to existing products and services, enhances the creation of new products, changes the efficiency and effectiveness of business processes, and affects relationships with customers, suppliers, and competitors.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MGSC",
+    "number": "6221",
+    "title": "Intro Hlth Informatics",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50170" }],
+    "description": "Introduces the history and current status of information systems in healthcare: information architectures, administrative and clinical applications, evidence-based medicine, information retrieval, decision support systems, security and confidentiality, bioinformatics, information system cycles, the electronic health record, key health information systems and standards, and medical devices.",
     "coreqs": [],
     "prereqs": []
   },

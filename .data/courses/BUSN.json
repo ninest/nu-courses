@@ -179,6 +179,18 @@
   },
   {
     "subject": "BUSN",
+    "number": "5963",
+    "title": "Financial Lit Wealth Inequity",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39704" }],
+    "description": "This course will familiarize students with financial literacy, and financial literacy leadership to address social wealth-building capital inequity.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BUSN",
     "number": "5965",
     "title": "Engaging with Industry Partners for Rising Professionals",
     "scheduleType": "Seminar",
@@ -186,7 +198,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202260", "crn": "61528" },
-      { "term": "202330", "crn": "37639" }
+      { "term": "202330", "crn": "37639" },
+      { "term": "202360", "crn": "61162" }
     ],
     "description": "Offers students an enhanced applied project setting in which to apply their curricular learning. Working with a partner sponsor, students refine an applied research topic, perform research, develop recommendations that are shared with the partner sponsor, and create a plan for implementing their recommendations. Curriculum supports students as they develop key business communication skills, project and client management skills, and frameworks for business analysis. Offers students an opportunity to learn from sponsor feedback, review lessons learned, and incorporate suggestions to improve and further hone their career development and professional plan. Career development opportunities through skill-building workshops, panels, and interview preparation are available. Partner-student interactions, including a culminating project presentation, allow partners to assess student potential for co-op, internship, or other employment opportunities with the partner.",
     "coreqs": [],
@@ -265,7 +278,8 @@
       { "term": "202330", "crn": "33467" },
       { "term": "202310", "crn": "21816" },
       { "term": "202310", "crn": "21817" },
-      { "term": "202310", "crn": "21818" }
+      { "term": "202310", "crn": "21818" },
+      { "term": "202350", "crn": "50864" }
     ],
     "description": "Consists of various experiential learning opportunities that are approved by the faculty of the D'Amore-McKim School of Business for full-time MBA students.",
     "coreqs": [],
@@ -296,7 +310,8 @@
     "sections": [
       { "term": "202260", "crn": "60577" },
       { "term": "202260", "crn": "61056" },
-      { "term": "202330", "crn": "33369" }
+      { "term": "202330", "crn": "33369" },
+      { "term": "202360", "crn": "60763" }
     ],
     "description": "Provides an overview of data collection, organization, analysis, interpretation, and presentation techniques used by contemporary organizations. Students use multiple software tools to collect, prepare, manage, analyze, evaluate, understand, critique, visualize, and present data sets of various types. Offers students an opportunity to obtain essential skills, tools, and techniques required to understand data sets, both large and small, from sources internal and external to an organization. This understanding can then be used to support datacentric decision making and create a measurable improvement in business performance. Businesses run on data, and employees at all levels must know how to properly use and interpret data to support their roles within a company.",
     "coreqs": [],
@@ -367,6 +382,54 @@
   },
   {
     "subject": "BUSN",
+    "number": "6382",
+    "title": "Real Options",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "40379" }],
+    "description": "Introduces the concept of real options, offers theoretical underpinnings for the method, and broadly covers option pricing methods. Examines the use of real options in making financial decisions for capital budgeting decisions, helping to maximize shareholder value. Explores methods such as net present value, or NPV, and internal rate of return, or IRR, to evaluate the feasibility of projects. Examines several applications in project valuation using MS Excel.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BUSN",
+    "number": "6383",
+    "title": "Blockchain and Decentralized Finance",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "40381" }],
+    "description": "Introduces the fundamental building blocks of blockchain technology, as well as its application in cryptocurrencies and, in particular, decentralized finance. Covers the fundamentals of cryptography, such as hash functions and digital signatures. Emphasizes three major DeFi applications: stablecoins, lending platforms, and exchanges.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BUSN",
+    "number": "6384",
+    "title": "Marketing in the Metaverse",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "40380" }],
+    "description": "Explores how firms are using metaverses for marketing purposes to enhance marketing strategy and to create value for customers in virtual worlds through marketing experiences similar to what a brand does in real life. Examines current trends, drivers, and barriers to the use of metaverses for marketing purposes. Studies how a metaverse can help in marketing activities—marketing strategy, advertising, and customer relationships—and how established firms have started engaging in marketing in a metaverse—Nike launching “Nikeland,” a metaverse game where people can interact with the brand.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BUSN",
+    "number": "6402",
+    "title": "Stakeholder Values and Societal Challenges in Business",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202340", "crn": "41733" }],
+    "description": "Examines how to analyze the impact that societal challenges have in business decision making. Focuses on the challenges that companies face when embracing and empowering goals to add value to their shareholders and stakeholders while “doing good.” Examines the increasingly complex relations between businesses with outsized power and reach and governments in developed and emerging economies. Studies the implications of firm-level and government-level decision making and the impact on the specific communities where decisions are enacted. Studies the roles played by for-profit entities, not-for-profit entities, nongovernmental organizations, and government agencies in exploring, understanding, and achieving progress with these challenges.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BUSN",
     "number": "6945",
     "title": "Washington Campus Seminar",
     "scheduleType": "Off-campus instruction w/ lec",
@@ -374,7 +437,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "11907" },
-      { "term": "202330", "crn": "31125" }
+      { "term": "202330", "crn": "31125" },
+      { "term": "202350", "crn": "50800" }
     ],
     "description": "Offers a weeklong educational residency in Washington, D.C., where students meet with members of Congress, current and former executive branch officials, senior civil servants, business executives, lobbyists, representatives of the media, and special-interest groups. Offers students an opportunity to understand how Washington works, how legislative and regulatory changes impact their business futures, and what new business opportunities may evolve as the result of federal policy priorities and decisions. The residency seeks to offer unparalleled insight into the process of government, with the goal of enabling top business leaders to contribute ethically and effectively to the policy debate, influence policy outcomes, and leverage their understanding of policy trends to developing new business opportunities.",
     "coreqs": [],
@@ -404,7 +468,9 @@
       { "term": "202310", "crn": "18593" },
       { "term": "202260", "crn": "60994" },
       { "term": "202240", "crn": "41297" },
-      { "term": "202330", "crn": "38028" }
+      { "term": "202330", "crn": "38028" },
+      { "term": "202360", "crn": "60716" },
+      { "term": "202340", "crn": "41016" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
@@ -433,7 +499,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202260", "crn": "61416" }],
+    "sections": [
+      { "term": "202260", "crn": "61416" },
+      { "term": "202330", "crn": "40470" }
+    ],
     "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []

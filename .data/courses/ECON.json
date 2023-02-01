@@ -45,7 +45,14 @@
       { "term": "202330", "crn": "33963" },
       { "term": "202330", "crn": "39269" },
       { "term": "202310", "crn": "21390" },
-      { "term": "202310", "crn": "21290" }
+      { "term": "202310", "crn": "21290" },
+      { "term": "202360", "crn": "60034" },
+      { "term": "202360", "crn": "60544" },
+      { "term": "202360", "crn": "60690" },
+      { "term": "202340", "crn": "40813" },
+      { "term": "202340", "crn": "40205" },
+      { "term": "202340", "crn": "40665" },
+      { "term": "202340", "crn": "40666" }
     ],
     "description": "Not open to freshmen.",
     "coreqs": [],
@@ -80,7 +87,14 @@
       { "term": "202330", "crn": "30447" },
       { "term": "202330", "crn": "30446" },
       { "term": "202330", "crn": "36118" },
-      { "term": "202330", "crn": "39268" }
+      { "term": "202330", "crn": "39268" },
+      { "term": "202360", "crn": "60033" },
+      { "term": "202360", "crn": "60455" },
+      { "term": "202360", "crn": "60880" },
+      { "term": "202340", "crn": "40817" },
+      { "term": "202340", "crn": "40206" },
+      { "term": "202340", "crn": "40217" },
+      { "term": "202340", "crn": "40530" }
     ],
     "description": "Not open to Freshmen.",
     "coreqs": [],
@@ -167,7 +181,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "16366" },
-      { "term": "202330", "crn": "38943" }
+      { "term": "202330", "crn": "38943" },
+      { "term": "202340", "crn": "41690" }
     ],
     "description": "Enables students to recognize the relevance of economics to health and medical care and apply economic reasoning to understand health-related issues better; to understand the mechanism of healthcare delivery in the United States within  broad social, political, and economic contexts; to explore the changing nature of health and medical care and its implications for medical practice, medical education and research, and health policy; and to analyze public policy in health and medical care from an economic perspective.",
     "coreqs": [],
@@ -182,7 +197,8 @@
     "nuPath": ["SI"],
     "sections": [
       { "term": "202310", "crn": "19007" },
-      { "term": "202260", "crn": "60741" }
+      { "term": "202260", "crn": "60741" },
+      { "term": "202340", "crn": "41691" }
     ],
     "description": "Covers economic analysis of crime and the criminal justice system. Topics include theoretical and empirical analysis of the economic causes of criminal behavior, the social costs of crime and its prevention, and the design of enforcement policies.",
     "coreqs": [],
@@ -241,7 +257,8 @@
     "sections": [
       { "term": "202310", "crn": "16368" },
       { "term": "202240", "crn": "40893" },
-      { "term": "202330", "crn": "34751" }
+      { "term": "202330", "crn": "34751" },
+      { "term": "202360", "crn": "61353" }
     ],
     "description": "Studies the significance of behavioral assumptions on economic outcomes and social norms, specifically as these relate to the perceived value of resources and the broader ecosystem. Explores the importance of economic concepts such as externalities and elasticity in relation to a market-driven economy, price, and consumption behavior. Through the use of elementary life cycle analysis, introduces both the definition and responsibilities of the rational agent as these relate to the establishment of sustainable outcomes. Offers students an opportunity to articulate the relationship between economic growth and climate change and reconcile the historical relationship between social values and sustainable outcomes.",
     "coreqs": [],
@@ -279,7 +296,10 @@
       { "term": "202330", "crn": "31713" },
       { "term": "202330", "crn": "32489" },
       { "term": "202330", "crn": "36121" },
-      { "term": "202330", "crn": "36122" }
+      { "term": "202330", "crn": "36122" },
+      { "term": "202360", "crn": "60225" },
+      { "term": "202340", "crn": "40228" },
+      { "term": "202340", "crn": "40667" }
     ],
     "description": "Presents several theoretical approaches to the study of short-run economic instability and long-run growth. Uses conceptual and mathematical tools to examine what economists believe to be the major determinants of fluctuations in employment and price level, as well as the rate of economic growth. Uses theoretical models to evaluate the operation and impact of various macroeconomic policy tools. Focuses on issues of social justice.",
     "coreqs": [],
@@ -327,7 +347,10 @@
       { "term": "202330", "crn": "30901" },
       { "term": "202330", "crn": "31715" },
       { "term": "202330", "crn": "31890" },
-      { "term": "202330", "crn": "36123" }
+      { "term": "202330", "crn": "36123" },
+      { "term": "202360", "crn": "60199" },
+      { "term": "202340", "crn": "40207" },
+      { "term": "202340", "crn": "40668" }
     ],
     "description": "Builds on ECON 1116. Examines the behavior of consumers and firms under several different market structures, including monopoly, oligopoly, monopolistic competition, and perfect competition. Covers sources of market failure, such as public goods, externalities, and information asymmetry. Exposes students to key analytical tools economists use to understand a wide range of social issues, including income inequality, poverty, and race. Uses calculus-based methods to extend students’ existing knowledge of microeconomics.",
     "coreqs": [],
@@ -371,7 +394,11 @@
       { "term": "202330", "crn": "36227" },
       { "term": "202330", "crn": "36228" },
       { "term": "202330", "crn": "38944" },
-      { "term": "202310", "crn": "21437" }
+      { "term": "202310", "crn": "21437" },
+      { "term": "202360", "crn": "60431" },
+      { "term": "202340", "crn": "41062" },
+      { "term": "202340", "crn": "40753" },
+      { "term": "202340", "crn": "41460" }
     ],
     "description": "Discusses basic probability, descriptive statistics, estimation techniques, statistical hypotheses, sampling, analysis of variance, correlation, and regression analysis in the context of economics. Computer applications are an integral part of the course.",
     "coreqs": [],
@@ -396,7 +423,9 @@
       { "term": "202330", "crn": "32878" },
       { "term": "202330", "crn": "38945" },
       { "term": "202330", "crn": "38946" },
-      { "term": "202330", "crn": "38947" }
+      { "term": "202330", "crn": "38947" },
+      { "term": "202360", "crn": "60353" },
+      { "term": "202340", "crn": "40432" }
     ],
     "description": "Examines research methods used by practicing economists. Discusses typical problems from applied areas of economics including choice of modeling framework, problems of data collection, review of estimation techniques, interpretation of results, and development of static and dynamic adaptive policy models. A research paper utilizing computer applications is an integral part of the course.",
     "coreqs": [],
@@ -611,7 +640,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "20295" }],
+    "sections": [
+      { "term": "202310", "crn": "20295" },
+      { "term": "202340", "crn": "41692" }
+    ],
     "description": "Presents an overview of the economics of government and the role of public policy. Develops guidelines to determine which economic activities are best performed by government and which are not. Also examines the impact of tax policies on efficiency, economic growth, and equity. Topics include market failures, public choice, the personal income tax, the corporate tax, sales tax, and taxation of capital and wealth, and options for reform of the tax structure. Major spending programs such as social security and education and healthcare are analyzed.",
     "coreqs": [],
     "prereqs": [{ "subject": "ECON", "number": "1116" }]
@@ -625,7 +657,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "19016" },
-      { "term": "202330", "crn": "32146" }
+      { "term": "202330", "crn": "32146" },
+      { "term": "202340", "crn": "41063" }
     ],
     "description": "Covers the nature and functions of money, credit, and financial markets in the modern international economy. Analyzes financial markets and institutions, central banking, and the effects of interest and foreign exchange rates on the real economy.",
     "coreqs": [],
@@ -688,7 +721,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "20195" },
-      { "term": "202240", "crn": "40699" }
+      { "term": "202240", "crn": "40699" },
+      { "term": "202360", "crn": "61354" }
     ],
     "description": "Investigates what economics has to say about sports as an economic activity: what tools of economic analysis apply to sports, whether sports require different economic tools, what the evidence has to say about key questions. Focuses on professional team sports, although some attention is paid to college sports and to individual professional sports.",
     "coreqs": [],
@@ -702,7 +736,7 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [{ "term": "202330", "crn": "36229" }],
-    "description": "Studies public choice economics&#8212;the scientific analysis of government behavior&#8212;and is divided into two parts: institutional political economy and social choice theory. Public choice economics applies this neoclassical economic analysis to political issues such as rent seeking, tax reform, logrolling, voting behavior, the function of government, the intersection between public and private interests, and federalism. The point of departure from political science is that economists have based this analysis on the assumption that utility functions do not change once a person enters the realm of public service and that the argument of their utility functions is still their own self-interest and not the interest of the social system in which they operate.",
+    "description": "Studies public choice economics—the scientific analysis of government behavior—and is divided into two parts: institutional political economy and social choice theory. Public choice economics applies this neoclassical economic analysis to political issues such as rent seeking, tax reform, logrolling, voting behavior, the function of government, the intersection between public and private interests, and federalism. The point of departure from political science is that economists have based this analysis on the assumption that utility functions do not change once a person enters the realm of public service and that the argument of their utility functions is still their own self-interest and not the interest of the social system in which they operate.",
     "coreqs": [],
     "prereqs": [
       { "subject": "ECON", "number": "1115" },
@@ -720,7 +754,8 @@
     "sections": [
       { "term": "202310", "crn": "16374" },
       { "term": "202260", "crn": "60742" },
-      { "term": "202330", "crn": "38953" }
+      { "term": "202330", "crn": "38953" },
+      { "term": "202360", "crn": "61355" }
     ],
     "description": "Traces the evolution of Western economic thought. Covers several important periods and schools of economic thought including mercantilism, physiocracy, classical, Marxist, neoclassical, and Keynesian. Emphasizes the relationship between historical changes in society and economic thought, focusing on changes in the types of questions economists ask and the analytical tools they use.",
     "coreqs": [],
@@ -892,7 +927,10 @@
       { "term": "202330", "crn": "38956" },
       { "term": "202330", "crn": "38957" },
       { "term": "202330", "crn": "38958" },
-      { "term": "202330", "crn": "38959" }
+      { "term": "202330", "crn": "38959" },
+      { "term": "202360", "crn": "60304" },
+      { "term": "202340", "crn": "40394" },
+      { "term": "202330", "crn": "39833" }
     ],
     "description": "Incorporates aspects of real-world and academic experiences of students into an analytical context, enabling students to demonstrate their ability to apply economic concepts, methodology, and data to economic issues and problems of personal and philosophical significance.",
     "coreqs": [],
@@ -918,6 +956,18 @@
   },
   {
     "subject": "ECON",
+    "number": "4916",
+    "title": "ST: Antitrust Economics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39518" }],
+    "description": "Antitrust policy has been faulted for allowing mergers and monopoly practices that have resulted in high concentration, diminished competition, and dominant tech companies in our economy.  This course will study these issues and the arguments for and against reform.  It will draw on microeconomics, data and other evidence, and evaluations of current antitrust cases–including Facebook and Google.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "ECON", "number": "2316" }]
+  },
+  {
+    "subject": "ECON",
     "number": "4965",
     "title": "Undergraduate Teaching Experience 1",
     "scheduleType": "Individual Instruction",
@@ -935,7 +985,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": ["EX"],
-    "sections": [{ "term": "202260", "crn": "61671" }],
+    "sections": [
+      { "term": "202260", "crn": "61671" },
+      { "term": "202360", "crn": "61303" }
+    ],
     "description": "Offers an opportunity to conduct research under faculty supervision.",
     "coreqs": [],
     "prereqs": []
@@ -1104,7 +1157,13 @@
       { "term": "202260", "crn": "61607" },
       { "term": "202240", "crn": "41961" },
       { "term": "202330", "crn": "37622" },
-      { "term": "202310", "crn": "21176" }
+      { "term": "202310", "crn": "21176" },
+      { "term": "202360", "crn": "61149" },
+      { "term": "202360", "crn": "61153" },
+      { "term": "202360", "crn": "61240" },
+      { "term": "202340", "crn": "41471" },
+      { "term": "202340", "crn": "41595" },
+      { "term": "202350", "crn": "51133" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
@@ -1119,7 +1178,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202260", "crn": "61558" },
-      { "term": "202310", "crn": "21260" }
+      { "term": "202310", "crn": "21260" },
+      { "term": "202360", "crn": "61192" }
     ],
     "description": "Provides eligible students with an opportunity for work experience abroad. May be repeated without limit.",
     "coreqs": [],
@@ -1235,7 +1295,11 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "20520" }],
+    "sections": [
+      { "term": "202310", "crn": "20520" },
+      { "term": "202330", "crn": "39925" },
+      { "term": "202330", "crn": "40378" }
+    ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May not be substituted for requirements leading to a BA or BS in economics. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1262,7 +1326,9 @@
     "sections": [
       { "term": "202310", "crn": "19028" },
       { "term": "202330", "crn": "36992" },
-      { "term": "202330", "crn": "38963" }
+      { "term": "202330", "crn": "38963" },
+      { "term": "202350", "crn": "51679" },
+      { "term": "202350", "crn": "52356" }
     ],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -1277,7 +1343,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "10646" },
-      { "term": "202330", "crn": "32630" }
+      { "term": "202330", "crn": "32630" },
+      { "term": "202350", "crn": "51680" }
     ],
     "description": "First of two consecutive semesters to meet the residency requirement of the doctoral program.",
     "coreqs": [],
@@ -1292,7 +1359,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "17520" },
-      { "term": "202330", "crn": "34359" }
+      { "term": "202330", "crn": "34359" },
+      { "term": "202350", "crn": "51681" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -1307,7 +1375,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "10806" },
-      { "term": "202330", "crn": "32631" }
+      { "term": "202330", "crn": "32631" },
+      { "term": "202350", "crn": "52176" }
     ],
     "description": "Requires registration for those students who have completed the doctoral program's residency requirement, but who have not yet completed the dissertation.",
     "coreqs": [],

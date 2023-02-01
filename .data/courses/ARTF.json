@@ -37,7 +37,10 @@
       { "term": "202330", "crn": "30530" },
       { "term": "202330", "crn": "32013" },
       { "term": "202330", "crn": "33948" },
-      { "term": "202330", "crn": "37455" }
+      { "term": "202330", "crn": "37455" },
+      { "term": "202360", "crn": "60110" },
+      { "term": "202340", "crn": "40178" },
+      { "term": "202340", "crn": "41708" }
     ],
     "description": "Focuses on developing an understanding of the structure of object and figure through freehand drawing. Offers students an opportunity to explore a wide range of materials, including wash, charcoal, and pencil.",
     "coreqs": [],
@@ -57,7 +60,9 @@
       { "term": "202260", "crn": "60877" },
       { "term": "202330", "crn": "39132" },
       { "term": "202330", "crn": "33773" },
-      { "term": "202330", "crn": "37456" }
+      { "term": "202330", "crn": "37456" },
+      { "term": "202360", "crn": "60661" },
+      { "term": "202340", "crn": "41709" }
     ],
     "description": "Seeks to expand the student's knowledge and skills through a mark-making process. Offers students an opportunity to begin to understand the relationship between form and meaning while relating the drawing process to broader concepts of communication.",
     "coreqs": [],
@@ -106,7 +111,16 @@
       { "term": "202330", "crn": "34764" },
       { "term": "202330", "crn": "34765" },
       { "term": "202330", "crn": "36064" },
-      { "term": "202330", "crn": "36065" }
+      { "term": "202330", "crn": "36065" },
+      { "term": "202360", "crn": "60186" },
+      { "term": "202360", "crn": "61358" },
+      { "term": "202340", "crn": "40146" },
+      { "term": "202340", "crn": "40358" },
+      { "term": "202340", "crn": "40922" },
+      { "term": "202340", "crn": "40984" },
+      { "term": "202340", "crn": "41710" },
+      { "term": "202340", "crn": "41711" },
+      { "term": "202330", "crn": "39718" }
     ],
     "description": "Offers an opportunity to discover and research basic principles, language, and concepts inherent in two-dimensional visual systems. Offers students an opportunity to learn to think critically, analyze, and apply basic principles to design and art projects. In a studio workshop setting, three primary phases explore art, design, and photography.",
     "coreqs": [],
@@ -129,7 +143,9 @@
       { "term": "202330", "crn": "36869" },
       { "term": "202330", "crn": "31753" },
       { "term": "202330", "crn": "32004" },
-      { "term": "202330", "crn": "34777" }
+      { "term": "202330", "crn": "34777" },
+      { "term": "202360", "crn": "61025" },
+      { "term": "202340", "crn": "40833" }
     ],
     "description": "Introduces skills and software, such as Adobe Photoshop and Illustrator, used in creating and manipulating pixel- and vector-based images, in a technology workshop format.",
     "coreqs": [],
@@ -153,7 +169,8 @@
       { "term": "202330", "crn": "35102" },
       { "term": "202330", "crn": "33774" },
       { "term": "202330", "crn": "30185" },
-      { "term": "202330", "crn": "35081" }
+      { "term": "202330", "crn": "35081" },
+      { "term": "202340", "crn": "41076" }
     ],
     "description": "Explores three-dimensional form. Examines principles including mass, volume, line, plane, and texture. Introduces basic materials and structure through constructing models and prototypes. Presents sequential exercises with simple eye/hand skills and form recognition. Explores complex projects that require an understanding of context, content, and developing original forms.",
     "coreqs": [{ "subject": "ARTF", "number": "1125" }],
@@ -177,7 +194,8 @@
       { "term": "202330", "crn": "33189" },
       { "term": "202330", "crn": "35082" },
       { "term": "202330", "crn": "35083" },
-      { "term": "202330", "crn": "36066" }
+      { "term": "202330", "crn": "36066" },
+      { "term": "202340", "crn": "41433" }
     ],
     "description": "Introduces skills and software used in creating 3D forms with the computer. Explores basics of 3D modeling, surfacing, lighting, and rendering in this technology workshop.",
     "coreqs": [{ "subject": "ARTF", "number": "1124" }],
@@ -206,7 +224,10 @@
       { "term": "202330", "crn": "34259" },
       { "term": "202330", "crn": "35018" },
       { "term": "202330", "crn": "36067" },
-      { "term": "202330", "crn": "37301" }
+      { "term": "202330", "crn": "37301" },
+      { "term": "202360", "crn": "60508" },
+      { "term": "202340", "crn": "40834" },
+      { "term": "202340", "crn": "41434" }
     ],
     "description": "Explores time-based art and design in an introductory lecture/studio format. Introduces formal, narrative, and alternative concepts for creative time-based communication. Assignments investigate video, animation, and a mixture of media in a screen based context.",
     "coreqs": [{ "subject": "ARTF", "number": "2221" }],
@@ -225,7 +246,9 @@
       { "term": "202260", "crn": "60560" },
       { "term": "202240", "crn": "40997" },
       { "term": "202330", "crn": "32006" },
-      { "term": "202330", "crn": "36068" }
+      { "term": "202330", "crn": "36068" },
+      { "term": "202360", "crn": "60509" },
+      { "term": "202340", "crn": "40835" }
     ],
     "description": "Introduces skills and software used in animating 2D and 3D images, graphics, and forms. Explores the basics of key framing, layering, parenting, 3D modeling, surfacing, and rigging in this technology workshop.",
     "coreqs": [{ "subject": "ARTF", "number": "2220" }],
@@ -257,7 +280,10 @@
       { "term": "202330", "crn": "32515" },
       { "term": "202330", "crn": "36070" },
       { "term": "202330", "crn": "33457" },
-      { "term": "202330", "crn": "34766" }
+      { "term": "202330", "crn": "34766" },
+      { "term": "202360", "crn": "60549" },
+      { "term": "202340", "crn": "40456" },
+      { "term": "202340", "crn": "40911" }
     ],
     "description": "Explores the language of interactive experience as a compelling medium to communicate meaning. Examines how variables within the environment can change how we inhabit an experience physically, conceptually, and emotionally. Studies historical and contemporary examples of art and design projects designed as exchanges or experiences. Incorporates drawing as a means to understand the present and project potential future experiences.",
     "coreqs": [{ "subject": "ARTF", "number": "2224" }],
@@ -276,7 +302,10 @@
       { "term": "202240", "crn": "40489" },
       { "term": "202330", "crn": "36071" },
       { "term": "202330", "crn": "31043" },
-      { "term": "202310", "crn": "20996" }
+      { "term": "202310", "crn": "20996" },
+      { "term": "202360", "crn": "60550" },
+      { "term": "202340", "crn": "40457" },
+      { "term": "202330", "crn": "39534" }
     ],
     "description": "Introduces skills and software used in creating basic Web-based content. This technology workshop introduces software using HTML and style sheets such as Adobe Dreamweaver.",
     "coreqs": [{ "subject": "ARTF", "number": "2223" }],

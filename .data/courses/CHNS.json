@@ -13,7 +13,8 @@
       { "term": "202240", "crn": "41424" },
       { "term": "202330", "crn": "30074" },
       { "term": "202330", "crn": "31063" },
-      { "term": "202330", "crn": "37123" }
+      { "term": "202330", "crn": "37123" },
+      { "term": "202360", "crn": "61316" }
     ],
     "description": "Designed for students who have very little or no prior knowledge of Chinese. Provides a lively introduction to basic oral expression, listening comprehension, and elementary reading and writing. Each lesson incorporates helpful information about daily life in China and the varied cultures within the world of Chinese speakers. Laboratory practice complements class work, enables students to work aloud at their own speed, reinforces their acquisition of essential structures, and acquaints them with a vast library of audio-visual resources. Focuses on Mandarin Chinese; students who wish to speak another dialect of Chinese should consult instructor for proper placement.",
     "coreqs": [],
@@ -88,7 +89,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "20919" }],
+    "sections": [
+      { "term": "202310", "crn": "20919" },
+      { "term": "202330", "crn": "39863" }
+    ],
     "description": "Designed for individuals whose language skills are at the intermediate level and who seek specially focused language instruction. Such instruction might be the use of the language in specific settings, or it might be focused on specific conversational nuances of the language. Students must have at least an elementary level of competence in the language.",
     "coreqs": [],
     "prereqs": []
@@ -166,7 +170,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21529" }],
+    "sections": [
+      { "term": "202310", "crn": "21529" },
+      { "term": "202330", "crn": "40709" }
+    ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []

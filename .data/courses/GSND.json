@@ -93,6 +93,18 @@
   },
   {
     "subject": "GSND",
+    "number": "6000",
+    "title": "3D Modeling + Asset Creation",
+    "scheduleType": "Studio",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39532" }],
+    "description": "Explores a variety of advanced topics in game design, including the multimedia, multidisciplinary nature of games. Taught by faculty according to their research interests and expertise.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "GSND",
     "number": "6240",
     "title": "Exploratory Concept Design",
     "scheduleType": "Seminar",
@@ -100,7 +112,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "32872" },
-      { "term": "202330", "crn": "36642" }
+      { "term": "202330", "crn": "36642" },
+      { "term": "202330", "crn": "40152" }
     ],
     "description": "Explores the process of designing new modalities of interaction utilizing novel uses of established technology, e.g., pervasive and affective technologies. Focuses on philosophy and practice of creating and evaluating experimental interactions. Recontextualizes gameplay concepts through permutations of basic elements such as controls, platforms, cameras, interfaces, etc. Leverages constraints as vehicles to push the boundaries of accepted design. Explores four key approaches to experimental interaction through course projects and assignments: discovering, examining, and exploring potential new technologies and interaction principles; rapidly designing and prototyping experimental interactions; pitching, justifying, and explaining designs and prototypes to others; and addressing new technologies and forms of interaction from a research perspective, focusing on their larger implications and potential impact on play.",
     "coreqs": [],
@@ -129,13 +142,9 @@
       { "term": "202330", "crn": "32874" },
       { "term": "202330", "crn": "37089" }
     ],
-    "description": "Explores theories of perception, motivation, needs, learning, goals, and belief systems as they pertain to games and play. Examines psychological principles, including visual and audio perception, emotions, behavior, personality, and the more recent scientific discoveries around psychological models explaining play behavior or motivation theories behind play. Introduces how players learn in and from games based on the relationship of play to learning theories. Forms a solid theoretical basis for a new segmentation tool&#8212;psychographics. Explores visual and cultural archetypes, digging into comics, movie sets, and cartoons to distillate what makes people tick in certain ways relating to universal theories of perception and gestalt theories. Applies the theories through critical analysis of play behavior and games.",
+    "description": "Explores theories of perception, motivation, needs, learning, goals, and belief systems as they pertain to games and play. Examines psychological principles, including visual and audio perception, emotions, behavior, personality, and the more recent scientific discoveries around psychological models explaining play behavior or motivation theories behind play. Introduces how players learn in and from games based on the relationship of play to learning theories. Forms a solid theoretical basis for a new segmentation tool—psychographics. Explores visual and cultural archetypes, digging into comics, movie sets, and cartoons to distillate what makes people tick in certain ways relating to universal theories of perception and gestalt theories. Applies the theories through critical analysis of play behavior and games.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "GSND", "number": "5110" },
-      "Or",
-      { "subject": "GSND", "number": "5110" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "GSND",
@@ -188,6 +197,18 @@
   },
   {
     "subject": "GSND",
+    "number": "6350",
+    "title": "Data-Driven Player Modeling",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39741" }],
+    "description": "Introduces the topic of game analytics, defined as the process of discovering and communicating patterns in data with a goal of solving problems and developing predictions in user behavior supporting decision management, driving action, and/or improving game products. Covers the fundamental tools, methods, and principles of game analytics, including the knowledge-discovery process, data collection, feature extraction and selection, pattern recognition to aid in prediction and churn analysis, visualization, and reporting. Covers analytics across game forms, notably online games and delivery platforms. Presents analytical tools recommended during development and tools designed for ongoing maintenance of games.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "GSND",
     "number": "6460",
     "title": "Generative Game Design",
     "scheduleType": "Studio",
@@ -195,7 +216,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "36644" },
-      { "term": "202330", "crn": "37103" }
+      { "term": "202330", "crn": "37103" },
+      { "term": "202330", "crn": "39713" }
     ],
     "description": "Studies principles of procedural content generation and generative methods, including modular design, the role of randomness in design, and designing for emergence. Examines the role of generative design in games and its impact on both designers and players. Through assignments and a semester-long project, encourages student creation of generative systems for playful experiences. In advanced course assignments, students are expected to evaluate the experience by applying game analytics and metrics and conducting user evaluations.",
     "coreqs": [],
@@ -208,7 +230,13 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "20302" }],
+    "sections": [
+      { "term": "202310", "crn": "20302" },
+      { "term": "202330", "crn": "39900" },
+      { "term": "202330", "crn": "40000" },
+      { "term": "202330", "crn": "40086" },
+      { "term": "202330", "crn": "40472" }
+    ],
     "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -225,6 +253,21 @@
       { "term": "202330", "crn": "39102" }
     ],
     "description": "Focuses on preparing a master's thesis under faculty supervision.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "GSND",
+    "number": "7995",
+    "title": "Games Project",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202330", "crn": "40263" },
+      { "term": "202330", "crn": "40264" }
+    ],
+    "description": "Offers students an opportunity to obtain practical experience working on a project with a faculty member. Allows students to work with faculty in the program to develop their own project.",
     "coreqs": [],
     "prereqs": []
   }

@@ -15,7 +15,8 @@
       { "term": "202330", "crn": "32542" },
       { "term": "202330", "crn": "32541" },
       { "term": "202330", "crn": "32560" },
-      { "term": "202330", "crn": "32559" }
+      { "term": "202330", "crn": "32559" },
+      { "term": "202330", "crn": "40168" }
     ],
     "description": "Emphasizes the development of individually focused financial information and a comprehensive financial plan designed to enable the individual to manage his or her financial affairs. Integrates personal goals—such as buying a home, retirement, investing, and insurance needs—to help assure that the financial plan incorporates the major decision stages an individual faces.",
     "coreqs": [],
@@ -61,7 +62,13 @@
       { "term": "202330", "crn": "36784" },
       { "term": "202330", "crn": "36785" },
       { "term": "202330", "crn": "37408" },
-      { "term": "202330", "crn": "38131" }
+      { "term": "202330", "crn": "38131" },
+      { "term": "202360", "crn": "60029" },
+      { "term": "202360", "crn": "60028" },
+      { "term": "202340", "crn": "40025" },
+      { "term": "202340", "crn": "40261" },
+      { "term": "202340", "crn": "40625" },
+      { "term": "202340", "crn": "40684" }
     ],
     "description": "Designed to develop the financial skills and logical thought processes necessary to understand and discuss financial policy decisions in a global economy. Specific objectives include developing an understanding of the time value of money; using financial statements in decision making; and understanding the nature of financial markets, the cost of capital, valuation of stocks and bonds, management of short-term assets, short-term and long-term financing, capital markets, and multinational financial management. Addresses the impact of legal, social, technological, and ethical considerations on efficient economic outcomes. Requires a financial calculator and provides an opportunity to develop computer spreadsheet skills.",
     "coreqs": [],
@@ -85,7 +92,8 @@
       { "term": "202310", "crn": "11795" },
       { "term": "202240", "crn": "40274" },
       { "term": "202330", "crn": "30906" },
-      { "term": "202330", "crn": "30907" }
+      { "term": "202330", "crn": "30907" },
+      { "term": "202340", "crn": "40260" }
     ],
     "description": "Does not count as credit for business majors. Counts as FINA 2201 for business minors only.",
     "coreqs": [],
@@ -154,7 +162,8 @@
       { "term": "202330", "crn": "30402" },
       { "term": "202330", "crn": "30831" },
       { "term": "202330", "crn": "30832" },
-      { "term": "202330", "crn": "38132" }
+      { "term": "202330", "crn": "38132" },
+      { "term": "202340", "crn": "40240" }
     ],
     "description": "Designed to develop the skills needed to make and implement financial policy decisions in a global economy. Specific objectives include developing an understanding of financial analysis; company valuation; capital markets; cost of capital; capital asset pricing and risk management; short- and long-term financial policies; working capital management; multinational financial management; and special topics including lease financing, debt refunding, mergers and acquisitions, and bankruptcy and restructuring. Offers opportunities to consider many broader issues including the relevance of globalization; the world economy; technological advances; and legal, social, and ethical issues related to the practice of corporate finance. Stresses written and oral communication skills and teamwork. Uses cases and spreadsheets extensively.",
     "coreqs": [],
@@ -204,7 +213,8 @@
       { "term": "202330", "crn": "30834" },
       { "term": "202330", "crn": "31673" },
       { "term": "202330", "crn": "31827" },
-      { "term": "202330", "crn": "38738" }
+      { "term": "202330", "crn": "38738" },
+      { "term": "202340", "crn": "40199" }
     ],
     "description": "Focuses on investment management as the study of risk and return of financial securities and real assets. Students design and assess models that evaluate investments while recognizing the constraints of the real world. Explores domestic and international financial markets and the securities traded therein. Discusses techniques for valuation of financial assets. Analyzes qualitative concepts such as market efficiency, intrinsic value, and risk. Provides the ability to build unique valuation models to suit the particular investment alternative that students wish to scrutinize. Also stresses portfolio construction, management, and protection, as well as performance assessment. During the semester, students have an opportunity to create and manage a stock portfolio.",
     "coreqs": [],
@@ -514,7 +524,9 @@
       { "term": "202310", "crn": "12622" },
       { "term": "202310", "crn": "12623" },
       { "term": "202240", "crn": "40298" },
-      { "term": "202330", "crn": "30766" }
+      { "term": "202330", "crn": "30766" },
+      { "term": "202340", "crn": "40282" },
+      { "term": "202330", "crn": "39406" }
     ],
     "description": "Highlights the role of financial management as a source of value creation in a competitive global environment characterized by rapid technological, personal, and market changes. Offers students an opportunity to develop tools and techniques of financial analysis and valuation to support financial decision making. Presents future managers with actual business problems to learn to apply the tools of financial analysis to strategic decisions faced by the firm, such as capital budgeting and capital structure.",
     "coreqs": [],
@@ -566,7 +578,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "12995" },
-      { "term": "202330", "crn": "38135" }
+      { "term": "202330", "crn": "38135" },
+      { "term": "202350", "crn": "52455" }
     ],
     "description": "Develops specific concepts, policies, and techniques for the financial management of the multinational firm. Topics include operation of the foreign exchange markets, foreign exchange risk management, sources and instruments of international financing, foreign direct investment and the management of political risk, multinational capital budgeting, and financing control systems for the multinational firm.",
     "coreqs": [],
@@ -649,7 +662,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "13515" },
-      { "term": "202330", "crn": "38136" }
+      { "term": "202330", "crn": "38136" },
+      { "term": "202350", "crn": "52465" }
     ],
     "description": "Exposes students to theory, applications, and evidence concerning highly sensitive interest rate products. Discusses recent developments in pension fund management, asset/liability management, duration matching, “gap” management, concurrent interest rate and exchange rate management, and other important issues now confronting domestic and international financial and corporate management. Studies how to customize a risk management program.",
     "coreqs": [],
@@ -664,7 +678,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "13503" },
-      { "term": "202310", "crn": "11164" }
+      { "term": "202310", "crn": "11164" },
+      { "term": "202350", "crn": "52454" }
     ],
     "description": "Discusses policy, strategy, and administration of financial services firms. Topics include issuance of securities, the service function within financial services, pricing a negotiated issue of common stock or competitive bid issue, and meeting capital requirements of a securities firm.",
     "coreqs": [],
@@ -686,7 +701,8 @@
       { "term": "202240", "crn": "41776" },
       { "term": "202330", "crn": "31168" },
       { "term": "202330", "crn": "35937" },
-      { "term": "202330", "crn": "38137" }
+      { "term": "202330", "crn": "38137" },
+      { "term": "202350", "crn": "52459" }
     ],
     "description": "Explores the environments that have recently given rise to a large number of corporate mergers and the business factors underlying these corporate combinations. Examines the financial, managerial, accounting, and legal factors affecting mergers. Focuses on three aspects of the merger and acquisition process: the strategic decision to acquire, the valuation decision of how much to pay, and the financing decision on how to fund the acquisition.",
     "coreqs": [],
@@ -701,7 +717,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "11284" },
-      { "term": "202260", "crn": "61311" }
+      { "term": "202260", "crn": "61311" },
+      { "term": "202350", "crn": "52452" }
     ],
     "description": "Concentrates on the diagnosis, prescription, and implementation of actions pertinent to business turnarounds, troubled companies, workouts, bankruptcies, and liquidations. Case studies and readings guide the student through the maze of financial, ethical, legal, general business, and strategic aspects of turnarounds, culminating in the student evaluating and developing a turnaround plan.",
     "coreqs": [],
@@ -753,7 +770,8 @@
     "sections": [
       { "term": "202310", "crn": "19857" },
       { "term": "202260", "crn": "60241" },
-      { "term": "202330", "crn": "35629" }
+      { "term": "202330", "crn": "35629" },
+      { "term": "202350", "crn": "50151" }
     ],
     "description": "Develops portfolio construction, revision, and performance measurement. Highlights portfolio construction in an efficient capital market. Topics include risk-return analysis, the effects of diversification on risk reduction, and the costs of inflation, taxes, and transaction costs on fixed income and equity security portfolios. Examines financial models of capital asset pricing as the basis for the analysis of portfolios from the institutional investor's viewpoint.",
     "coreqs": [],
@@ -810,7 +828,8 @@
       { "term": "202310", "crn": "13696" },
       { "term": "202240", "crn": "41100" },
       { "term": "202240", "crn": "41448" },
-      { "term": "202310", "crn": "21838" }
+      { "term": "202310", "crn": "21838" },
+      { "term": "202340", "crn": "40897" }
     ],
     "description": "Introduces time value of money calculations and applications. Building upon a basis in accounting, offers students an opportunity to learn how to extract relevant information from the accounting statements for use in financial calculations and ratio analysis. Also examines capital planning, including determining relevant cash flows, calculating decision measures, and making the correct decisions.",
     "coreqs": [],
@@ -952,7 +971,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19839" }],
+    "sections": [
+      { "term": "202310", "crn": "19839" },
+      { "term": "202330", "crn": "39404" }
+    ],
     "description": "Emphasizes assets and portfolios that fall into the category of alternative investments, which includes nontraditional assets—such as structured products and other types of derivatives—and managed portfolios—such as private equity, venture capital, and hedge funds. Offers students an opportunity to obtain a fundamental understanding of the securities and products that are traded in this space. Focuses on in-depth analyses of case studies, outside speakers, focused discussions, quantitative analyses, and current developments in the industry.",
     "coreqs": [],
     "prereqs": []
@@ -993,7 +1015,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "11285" },
-      { "term": "202330", "crn": "31169" }
+      { "term": "202330", "crn": "31169" },
+      { "term": "202350", "crn": "50411" },
+      { "term": "202330", "crn": "40183" }
     ],
     "description": "Introduces a variety of operating documents typical to an active mutual fund. Offers students an opportunity to apply lessons from investment and portfolio management classes by presenting investment recommendations to a panel and communicating with peers in a thoughtful and forceful manner. Investment decisions are made based on student analysis and recommendations that include knowledge of macroeconomic expectations, corporate financing issues, dept-repayment concerns, and employee and technological changes. May be repeated up to three times.",
     "coreqs": [],
@@ -1008,7 +1032,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "11289" },
-      { "term": "202330", "crn": "31008" }
+      { "term": "202330", "crn": "31008" },
+      { "term": "202350", "crn": "50751" },
+      { "term": "202330", "crn": "40453" }
     ],
     "description": "Builds on FINA 6360. Designed to provide students further analytical knowledge, including exposure to and opportunity to perform managerial tasks related to the management and operation of mutual funds. Included in these tasks are reconsideration of the fund's investment policy statement and asset allocation plan as well as preparation of accounting statements, dealing with compliance issues, addressing ethical concerns, measuring and managing risk, and performing marketing and fund-raising activities. May be repeated up to three times.",
     "coreqs": [],

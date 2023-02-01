@@ -43,6 +43,22 @@
   },
   {
     "subject": "HRMG",
+    "number": "6217",
+    "title": "High-Performance Teams",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "52462" }],
+    "description": "Offers an opportunity to learn how to build and lead different types of teams, including co-located, virtual, global, and top management teams. Asks students to identify the roles and responsibilities of team members and leaders and to develop effective communication, collaboration, and commitment among team members and other constituencies. Also examines how to effectively facilitate coordination across functionally distinct teams.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "HRMG", "number": "6200" },
+      "Or",
+      { "subject": "HRMG", "number": "6208" }
+    ]
+  },
+  {
+    "subject": "HRMG",
     "number": "6220",
     "title": "Health Organization Management",
     "scheduleType": "Lecture",
@@ -118,7 +134,9 @@
       { "term": "202310", "crn": "13818" },
       { "term": "202310", "crn": "13815" },
       { "term": "202240", "crn": "40713" },
-      { "term": "202240", "crn": "41449" }
+      { "term": "202240", "crn": "41449" },
+      { "term": "202340", "crn": "40637" },
+      { "term": "202330", "crn": "39810" }
     ],
     "description": "Offers key insights every business professional should understand working in, managing, and leading organizations in today's complex, diverse, and dynamic business environment. The primary goal of this course is to challenge—and improve—students’ understanding of human behavior in organizations so that they are better positioned to strategically leverage human capital. Introduces critical theories and concepts through case analyses, debates, TED Talks, and exercises that aim to help students understand, analyze, and ultimately address real business situations and problems.",
     "coreqs": [],

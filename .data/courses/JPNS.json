@@ -16,7 +16,8 @@
       { "term": "202330", "crn": "32434" },
       { "term": "202330", "crn": "30034" },
       { "term": "202330", "crn": "31777" },
-      { "term": "202330", "crn": "33000" }
+      { "term": "202330", "crn": "33000" },
+      { "term": "202340", "crn": "40208" }
     ],
     "description": "Introduces basic grammar, sentence patterns, and vocabulary of Japanese with emphasis on spoken Japanese. Includes an introduction to the hiragana and katakana syllabaries in the written component. Designed for students with no previous knowledge of Japanese.",
     "coreqs": [],
@@ -34,7 +35,8 @@
       { "term": "202310", "crn": "15986" },
       { "term": "202240", "crn": "40221" },
       { "term": "202330", "crn": "30065" },
-      { "term": "202330", "crn": "31051" }
+      { "term": "202330", "crn": "31051" },
+      { "term": "202340", "crn": "40209" }
     ],
     "description": "Continues JPNS 1101. Emphasizes the development of oral skills; secondary emphasis is on reading. Offers students the opportunity to learn basic grammatical patterns, expand vocabulary, and improve communication skills in modern Japanese. Includes the introduction to kanji characters in the written component.",
     "coreqs": [],
@@ -99,25 +101,6 @@
       { "subject": "JPNS", "number": "2102" },
       "Or",
       { "subject": "JPNS", "number": "2302" }
-    ]
-  },
-  {
-    "subject": "JPNS",
-    "number": "3102",
-    "title": "Advanced Japanese 2",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [
-      { "term": "202310", "crn": "16878" },
-      { "term": "202330", "crn": "31444" }
-    ],
-    "description": "Builds on JPNS 3101 and continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
-    "coreqs": [],
-    "prereqs": [
-      { "subject": "JPNS", "number": "3101" },
-      "Or",
-      { "subject": "JPNS", "number": "3301" }
     ]
   },
   {

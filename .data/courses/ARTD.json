@@ -61,7 +61,11 @@
       { "term": "202330", "crn": "34255" },
       { "term": "202330", "crn": "35053" },
       { "term": "202330", "crn": "35061" },
-      { "term": "202330", "crn": "37302" }
+      { "term": "202330", "crn": "37302" },
+      { "term": "202360", "crn": "60657" },
+      { "term": "202360", "crn": "60658" },
+      { "term": "202340", "crn": "40618" },
+      { "term": "202340", "crn": "40831" }
     ],
     "description": "Introduces creative photography, exploring techniques and processes starting with the basic principles of camera controls, lens and lens functions, digital image presentation basics, as well as photographic seeing and visual thinking. Evaluates and expands technical and conceptual knowledge of the medium. Beyond the technical foundation of digital image making, analyzes various theories and understanding of ways of seeing photographically. Culminates in a final project and presentation designed to demonstrate the importance of technical expertise, editing, sequence, layout, and presentation of ideas.",
     "coreqs": [{ "subject": "ARTD", "number": "2361" }],
@@ -86,7 +90,11 @@
       { "term": "202330", "crn": "30441" },
       { "term": "202330", "crn": "34256" },
       { "term": "202330", "crn": "34794" },
-      { "term": "202330", "crn": "35062" }
+      { "term": "202330", "crn": "35062" },
+      { "term": "202360", "crn": "60659" },
+      { "term": "202360", "crn": "60660" },
+      { "term": "202340", "crn": "40619" },
+      { "term": "202340", "crn": "40832" }
     ],
     "description": "Introduces students to the creative possibilities of photographic image editing and management with Adobe Bridge, Camera Raw, and Photoshop. Offers students an opportunity to establish a professional digital workflow, acquire industry-standard creative techniques for photographic image editing, and gain an understanding of the importance of high-quality postproduction output.",
     "coreqs": [{ "subject": "ARTD", "number": "2360" }],
@@ -204,7 +212,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "14159" },
-      { "term": "202330", "crn": "31986" }
+      { "term": "202330", "crn": "31986" },
+      { "term": "202330", "crn": "40126" }
     ],
     "description": "Introduces the fundamentals of three-dimensional computer animation. Class lectures and demonstrations are followed by substantial hands-on exploration. Students gain fundamental skills for modeling, surfacing, and animating. Projects progress from creating simple geometric objects to realistic organic characters. Basic systems for animating are introduced and explored.",
     "coreqs": [],

@@ -145,7 +145,7 @@
     "credits": 6,
     "nuPath": ["CE"],
     "sections": [{ "term": "202330", "crn": "33278" }],
-    "description": "Offers students an opportunity to design and develop a site or district including all of its requisite systems. Students draw on their landscape architectural education to produce a design both responsive to specific criteria and prototypical of ways to build sustainable and adaptable public landscapes&#8212;often described as &#8220;resilience.&#8221; Projects are expected to respond to and integrate their contexts (urban, environmental, climatic, and economic); meet spatial, performative, and programmatic requirements and technical demands (materials, implementation and management strategies); and dynamic processes at play within and around the project site.",
+    "description": "Offers students an opportunity to design and develop a site or district including all of its requisite systems. Students draw on their landscape architectural education to produce a design both responsive to specific criteria and prototypical of ways to build sustainable and adaptable public landscapes—often described as “resilience.” Projects are expected to respond to and integrate their contexts (urban, environmental, climatic, and economic); meet spatial, performative, and programmatic requirements and technical demands (materials, implementation and management strategies); and dynamic processes at play within and around the project site.",
     "coreqs": [],
     "prereqs": [
       { "subject": "ARCH", "number": "3170" },
@@ -176,18 +176,6 @@
     "nuPath": ["IC"],
     "sections": [{ "term": "202310", "crn": "12533" }],
     "description": "Offers a discussion-based seminar focusing on case studies of influential works in contemporary landscape, urbanism, and sustainable environmental design. Encourages students to seek interdisciplinary perspectives toward development of critical-thinking skills in relation to forces shaping urban environments in contemporary global culture. A diverse range of material from published design criticism to open-source social media engagement provides basis for discussion and written and oral presentations.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "LARC",
-    "number": "5420",
-    "title": "Professional Practice in Landscape Architecture",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33279" }],
-    "description": "Offers a lecture- and case-study-based course focusing on strategic planning, business models, organizational structures, logistics, and regulatory paradigms associated with professional practice in landscape architecture. Core topics provide an overview of common technical and business procedures, including RFQs; RFPs; marketing, public relations, and client management; hiring and human resource management; review board/regulatory boards; permitting; and licensure.",
     "coreqs": [],
     "prereqs": []
   }

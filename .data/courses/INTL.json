@@ -31,7 +31,8 @@
       { "term": "202330", "crn": "30348" },
       { "term": "202330", "crn": "31267" },
       { "term": "202330", "crn": "36905" },
-      { "term": "202330", "crn": "39238" }
+      { "term": "202330", "crn": "39238" },
+      { "term": "202340", "crn": "40113" }
     ],
     "description": "Offers an interdisciplinary approach to analyzing global/international affairs. Examines the politics, economics, culture, and history of current international issues through lectures, guest lectures, film, case studies, and readings across the disciplines.",
     "coreqs": [],
@@ -141,7 +142,8 @@
       { "term": "202310", "crn": "10392" },
       { "term": "202310", "crn": "14184" },
       { "term": "202330", "crn": "30347" },
-      { "term": "202330", "crn": "36962" }
+      { "term": "202330", "crn": "36962" },
+      { "term": "202340", "crn": "41693" }
     ],
     "description": "Offers an interdisciplinary approach to analyzing international conflict and negotiations: how conflicts evolve, are managed, and/or resolved. In dealing with different types of regional and international conflicts, students focus on historical, ethnic, religious, geographic, and political aspects of a variety of conflicts and the consequences these conflicts hold for regional and international actors.",
     "coreqs": [],
@@ -315,7 +317,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "41939" }],
+    "sections": [
+      { "term": "202240", "crn": "41939" },
+      { "term": "202340", "crn": "41573" }
+    ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -341,7 +346,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "19714" },
-      { "term": "202310", "crn": "20998" }
+      { "term": "202310", "crn": "20998" },
+      { "term": "202330", "crn": "39508" }
     ],
     "description": "Explores key environmental challenges and policy solutions from an international perspective. Emphasizes the complexity of human-natural systems for policy design, provides a history of international environmental politics, and discusses contemporary policy issues. Presents key paradigms for understanding environmental challenges and the analytical tools to look critically at important debates, understand the role of different actors, identify equity and justice considerations, and assess policy options from multiple perspectives. Focuses on global environmental governance and sustainable development diplomacy, natural resource management, and climate change policy. Addresses the role of science in policymaking, tensions between environment and development, the scale and complexity of international environmental governance, and equity and justice.",
     "coreqs": [],
@@ -354,7 +360,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202260", "crn": "61198" }],
+    "sections": [
+      { "term": "202260", "crn": "61198" },
+      { "term": "202360", "crn": "60851" }
+    ],
     "description": "Offers continued thesis supervision by individual members of the program.",
     "coreqs": [],
     "prereqs": []

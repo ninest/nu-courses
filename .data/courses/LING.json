@@ -20,7 +20,9 @@
       { "term": "202330", "crn": "30926" },
       { "term": "202330", "crn": "35856" },
       { "term": "202330", "crn": "35857" },
-      { "term": "202330", "crn": "38653" }
+      { "term": "202330", "crn": "38653" },
+      { "term": "202360", "crn": "60229" },
+      { "term": "202340", "crn": "41178" }
     ],
     "description": "Explores linguistics, the scientific study of language. Major topics include phonetics (production of speech sounds), phonology (sound systems in languages), morphology (structure of words), syntax (grammatical relationships between words and sentences), and semantics (meaning of words and sentences). Other topics may be surveyed such as the relationship between language and culture, language use within speech communities, languages in contact, the study of language change, language and brain, animal communication, and first language acquisition.",
     "coreqs": [],
@@ -52,7 +54,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC", "WI"],
-    "sections": [{ "term": "202310", "crn": "18912" }],
+    "sections": [
+      { "term": "202310", "crn": "18912" },
+      { "term": "202340", "crn": "41678" }
+    ],
     "description": "Explores the complex, often inexplicit relationship between language and culture, using a variety of methods drawn from the fields of anthropological linguistics and sociolinguistics. Questions may include: How do language and thought interact? How is language used to create and maintain social institutions and individual personae? How is language used differently by and across gender, ethnicity, and social class?",
     "coreqs": [],
     "prereqs": [
@@ -177,7 +182,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD", "FQ"],
-    "sections": [{ "term": "202330", "crn": "38657" }],
+    "sections": [
+      { "term": "202330", "crn": "38657" },
+      { "term": "202360", "crn": "61338" }
+    ],
     "description": "Focuses on meaning and how it is expressed in language—through words, sentence structure, intonation, stress patterns, and speech acts. Considers how content, logic, and speakers’ and listeners’ assumptions affect what sentences can mean and how linguistic meaning is determined by one’s perceptual system or culture.",
     "coreqs": [],
     "prereqs": [

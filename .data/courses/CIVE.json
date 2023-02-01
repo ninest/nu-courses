@@ -21,7 +21,8 @@
     "sections": [
       { "term": "202310", "crn": "10090" },
       { "term": "202310", "crn": "12618" },
-      { "term": "202240", "crn": "40237" }
+      { "term": "202240", "crn": "40237" },
+      { "term": "202340", "crn": "40223" }
     ],
     "description": "Connects fundamentals of Newtonian physics to the stresses and deformations in solids. Introduces properties of areas and volumes (centroidal axes, moments of inertia); equilibrium of particles and rigid bodies in two and three dimensions; analysis of internal forces in trusses and simple frames; shear and moment diagrams in beams; computation of stresses induced by axial force, moment, shear, and torque; and mechanical properties of materials.",
     "coreqs": [{ "number": "2222" }],
@@ -55,7 +56,8 @@
       { "term": "202310", "crn": "10005" },
       { "term": "202310", "crn": "12619" },
       { "term": "202310", "crn": "12620" },
-      { "term": "202240", "crn": "41301" }
+      { "term": "202240", "crn": "41301" },
+      { "term": "202340", "crn": "41017" }
     ],
     "description": "Accompanies CIVE 2221. Covers problem solving and topics related to the course.",
     "coreqs": [{ "number": "2221" }],
@@ -151,7 +153,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "10320" },
-      { "term": "202240", "crn": "40044" }
+      { "term": "202240", "crn": "40044" },
+      { "term": "202340", "crn": "40043" }
     ],
     "description": "Presents the mechanical properties of concrete and steel reinforcement. Discusses the design of reinforced concrete structures for various loading conditions and covers the design of common reinforced concrete structural elements. Examines behavior and design of reinforced concrete beams, one-way slab systems, footings, and short columns based on latest ACI-318 code.",
     "coreqs": [],
@@ -212,7 +215,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202260", "crn": "60045" },
-      { "term": "202330", "crn": "30469" }
+      { "term": "202330", "crn": "30469" },
+      { "term": "202360", "crn": "60042" }
     ],
     "description": "Focuses on the formation, composition, and classification of soil for engineering purposes; soil-water phase relations; water in soil; seepage; stresses in soil; consolidation theory; strength properties of soils; and the basics of geoenvironmental engineering.",
     "coreqs": [{ "number": "2341" }],
@@ -231,7 +235,10 @@
       { "term": "202260", "crn": "60377" },
       { "term": "202330", "crn": "30471" },
       { "term": "202330", "crn": "30470" },
-      { "term": "202330", "crn": "30019" }
+      { "term": "202330", "crn": "30019" },
+      { "term": "202360", "crn": "60041" },
+      { "term": "202360", "crn": "60542" },
+      { "term": "202360", "crn": "60356" }
     ],
     "description": "Accompanies CIVE 2340. Introduces standard laboratory procedures for characterizing the physical, hydraulic, and mechanical properties of soils as well as data reduction and analysis methods for various test methods. Laboratory methods and determinations include moisture content, Atterberg limits, permeability, compaction, consolidation, and direct shear. Includes the use of computer-based data acquisition systems and measurement transducers.",
     "coreqs": [{ "number": "2340" }],
@@ -360,7 +367,8 @@
     "nuPath": ["WI"],
     "sections": [
       { "term": "202310", "crn": "10011" },
-      { "term": "202240", "crn": "41736" }
+      { "term": "202240", "crn": "41736" },
+      { "term": "202340", "crn": "41373" }
     ],
     "description": "Concentrates on highway design including route selection, geometric design, foundation and pavement design, drainage design, and construction issues. Analyzes highway traffic including traffic flow fundamentals and capacity and level of service analysis for freeways and rural highways. Covers the environmental impact and public review process for highway construction. Includes project component.",
     "coreqs": [],
@@ -386,7 +394,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202260", "crn": "60022" },
-      { "term": "202330", "crn": "30426" }
+      { "term": "202330", "crn": "30426" },
+      { "term": "202360", "crn": "60020" }
     ],
     "description": "Surveys the construction industry and tasks that must be addressed by construction management including resource allocation, construction environment, organization, contracts, funding, cash flow, productivity, conceptual and detailed cost estimating, labor relations, network planning and scheduling, construction accounting, and project control.",
     "coreqs": [],
@@ -640,21 +649,6 @@
   },
   {
     "subject": "CIVE",
-    "number": "5366",
-    "title": "Air Quality Engineering and Science",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [
-      { "term": "202330", "crn": "38184" },
-      { "term": "202330", "crn": "38185" }
-    ],
-    "description": "Introduces the fundamentals of atmospheric composition; their sources, properties, and chemistry in the atmosphere; and their effects on human health and the environment. Covers the history of the discovery of chemicals, the evolution of the earth's atmosphere, and the structure and composition of the present-day atmosphere. Discusses science of major air pollution issues on an urban through global scale, including urban outdoor air pollution, indoor air pollution, acid deposition, stratospheric ozone depletion, air pollution transport across political boundaries, and global climate change, as well as energy solutions to air pollution and global warming.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "CIVE",
     "number": "5373",
     "title": "Transportation Systems: Analysis and Planning",
     "scheduleType": "Lecture",
@@ -775,22 +769,6 @@
   },
   {
     "subject": "CIVE",
-    "number": "5978",
-    "title": "Independent Study",
-    "scheduleType": "Individual Instruction",
-    "credits": 1,
-    "nuPath": [],
-    "sections": [
-      { "term": "202310", "crn": "18522" },
-      { "term": "202310", "crn": "18619" },
-      { "term": "202330", "crn": "37961" }
-    ],
-    "description": "Offers theoretical or experimental work under individual faculty supervision. May be repeated without limit.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "CIVE",
     "number": "7110",
     "title": "Critical Infrastructure Resilience",
     "scheduleType": "Lecture",
@@ -885,6 +863,18 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16897" }],
     "description": "Examines microbiology with emphasis on biological processes in environmental engineering applications. Topics include cell structure, morphology, cell nutrition and growth, energy transfer and utilization, aerobic and anaerobic microbial metabolism, biological wastewater process theory and modeling, biological nutrients removal, and disinfection of relevant microorganisms. Includes relevant laboratory exercises of treatment parameters used to monitor the biological processes, such as BOD, TOC, COD, gravimetric methods, and dissolved oxygen. Also covers enzyme kinetics and evaluation of kinetic coefficients for biotreatment. Requires one semester of undergraduate chemistry or one semester of undergraduate biology.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CIVE",
+    "number": "7255",
+    "title": "Environmental Physical/Chemical Processes",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "40195" }],
+    "description": "Examines the processes of physical and chemical phenomena related to water quality and water treatment within environmental engineering. Presents the use of fundamental theory, mathematical description, and applied knowledge of these processes and how they are used to characterize water quality in natural systems (lakes, rivers) and to predict performance in engineered systems (water treatment systems). Uses a mass balance and reaction kinetics approach to derive analysis and design equations for water treatment unit operations. Covers physical and chemical processes, including reaction kinetics, flow regimes, dissolved solute removal, particulate removal, phase transfer processes, and redox processes. Includes laboratory demonstrations. Basic knowledge of water quality, environmental chemistry, and differential equations preferred.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1112,6 +1102,18 @@
   },
   {
     "subject": "CIVE",
+    "number": "7976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "51580" }],
+    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CIVE",
     "number": "7978",
     "title": "Independent Study",
     "scheduleType": "Individual Instruction",
@@ -1126,7 +1128,11 @@
       { "term": "202330", "crn": "37402" },
       { "term": "202310", "crn": "21546" },
       { "term": "202310", "crn": "21687" },
-      { "term": "202310", "crn": "21767" }
+      { "term": "202310", "crn": "21767" },
+      { "term": "202330", "crn": "40201" },
+      { "term": "202330", "crn": "39591" },
+      { "term": "202330", "crn": "40663" },
+      { "term": "202330", "crn": "40681" }
     ],
     "description": "Offers an individual effort in an area selected by student and adviser and approved by the Department Discipline Committee resulting in a definitive report. May be repeated without limit.",
     "coreqs": [],
@@ -1166,7 +1172,19 @@
       { "term": "202330", "crn": "37514" },
       { "term": "202330", "crn": "37901" },
       { "term": "202330", "crn": "38014" },
-      { "term": "202310", "crn": "21542" }
+      { "term": "202310", "crn": "21542" },
+      { "term": "202340", "crn": "40923" },
+      { "term": "202350", "crn": "50561" },
+      { "term": "202350", "crn": "50652" },
+      { "term": "202350", "crn": "50707" },
+      { "term": "202350", "crn": "51384" },
+      { "term": "202350", "crn": "52096" },
+      { "term": "202350", "crn": "52164" },
+      { "term": "202350", "crn": "52168" },
+      { "term": "202330", "crn": "40237" },
+      { "term": "202330", "crn": "40632" },
+      { "term": "202330", "crn": "39805" },
+      { "term": "202330", "crn": "39934" }
     ],
     "description": "Offers analytical and/or experimental research conducted by arrangement with and under the supervision of the department. May be repeated without limit.",
     "coreqs": [],
@@ -1179,7 +1197,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21485" }],
+    "sections": [
+      { "term": "202310", "crn": "21485" },
+      { "term": "202350", "crn": "50713" }
+    ],
     "description": "Offers continued thesis work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
     "prereqs": []
@@ -1196,7 +1217,12 @@
       { "term": "202310", "crn": "15817" },
       { "term": "202310", "crn": "18381" },
       { "term": "202330", "crn": "32961" },
-      { "term": "202330", "crn": "36976" }
+      { "term": "202330", "crn": "36976" },
+      { "term": "202350", "crn": "50542" },
+      { "term": "202350", "crn": "52240" },
+      { "term": "202330", "crn": "40330" },
+      { "term": "202330", "crn": "40438" },
+      { "term": "202330", "crn": "39892" }
     ],
     "description": "Offers an individual effort consisting of laboratory and/or literature investigation and analysis of advanced design of a project in an area of civil engineering selected by student and adviser resulting in a definitive report. Requires a completed report seven years from the start of the master's program.",
     "coreqs": [],
@@ -1217,7 +1243,10 @@
       { "term": "202330", "crn": "35234" },
       { "term": "202330", "crn": "37728" },
       { "term": "202330", "crn": "37885" },
-      { "term": "202310", "crn": "21503" }
+      { "term": "202310", "crn": "21503" },
+      { "term": "202350", "crn": "50767" },
+      { "term": "202350", "crn": "51035" },
+      { "term": "202330", "crn": "40297" }
     ],
     "description": "Offers students an opportunity to prepare for the PhD qualifying exam under faculty supervision. Intended for students who have completed all required PhD course work and have not yet achieved PhD candidacy; students who have not completed all required PhD course work are not allowed to register for this course. May be repeated once.",
     "coreqs": [],
@@ -1232,8 +1261,36 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "18367" },
-      { "term": "202330", "crn": "37874" }
+      { "term": "202330", "crn": "37874" },
+      { "term": "202350", "crn": "51057" }
     ],
+    "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CIVE",
+    "number": "8986",
+    "title": "Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202350", "crn": "50696" },
+      { "term": "202350", "crn": "50760" }
+    ],
+    "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CIVE",
+    "number": "9984",
+    "title": "Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50486" }],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1262,7 +1319,34 @@
       { "term": "202330", "crn": "35502" },
       { "term": "202310", "crn": "21719" },
       { "term": "202310", "crn": "21731" },
-      { "term": "202310", "crn": "21782" }
+      { "term": "202310", "crn": "21782" },
+      { "term": "202360", "crn": "61274" },
+      { "term": "202360", "crn": "60585" },
+      { "term": "202360", "crn": "60817" },
+      { "term": "202350", "crn": "50533" },
+      { "term": "202350", "crn": "50921" },
+      { "term": "202350", "crn": "50935" },
+      { "term": "202350", "crn": "50938" },
+      { "term": "202350", "crn": "52324" },
+      { "term": "202350", "crn": "50967" },
+      { "term": "202350", "crn": "50983" },
+      { "term": "202350", "crn": "50994" },
+      { "term": "202350", "crn": "51083" },
+      { "term": "202350", "crn": "51105" },
+      { "term": "202350", "crn": "51372" },
+      { "term": "202350", "crn": "51375" },
+      { "term": "202350", "crn": "51397" },
+      { "term": "202350", "crn": "51403" },
+      { "term": "202350", "crn": "51415" },
+      { "term": "202350", "crn": "51485" },
+      { "term": "202350", "crn": "51503" },
+      { "term": "202350", "crn": "51505" },
+      { "term": "202350", "crn": "51553" },
+      { "term": "202330", "crn": "40527" },
+      { "term": "202330", "crn": "40528" },
+      { "term": "202330", "crn": "40587" },
+      { "term": "202330", "crn": "39598" },
+      { "term": "202330", "crn": "40549" }
     ],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -1281,7 +1365,21 @@
       { "term": "202330", "crn": "36822" },
       { "term": "202330", "crn": "36977" },
       { "term": "202330", "crn": "37075" },
-      { "term": "202310", "crn": "21709" }
+      { "term": "202310", "crn": "21709" },
+      { "term": "202350", "crn": "50701" },
+      { "term": "202350", "crn": "50715" },
+      { "term": "202350", "crn": "50763" },
+      { "term": "202350", "crn": "51064" },
+      { "term": "202350", "crn": "50949" },
+      { "term": "202350", "crn": "51028" },
+      { "term": "202350", "crn": "51048" },
+      { "term": "202350", "crn": "51132" },
+      { "term": "202350", "crn": "51535" },
+      { "term": "202350", "crn": "52213" },
+      { "term": "202350", "crn": "50026" },
+      { "term": "202350", "crn": "51465" },
+      { "term": "202330", "crn": "40662" },
+      { "term": "202330", "crn": "39789" }
     ],
     "description": "Offers analytical and/or experimental research conducted by arrangement with and under the supervision of the department. Open to full-time students only. Requires PhD candidacy in civil engineering or in interdisciplinary engineering.",
     "coreqs": [],
@@ -1316,7 +1414,15 @@
       { "term": "202310", "crn": "21429" },
       { "term": "202310", "crn": "21547" },
       { "term": "202310", "crn": "21612" },
-      { "term": "202310", "crn": "21630" }
+      { "term": "202310", "crn": "21630" },
+      { "term": "202350", "crn": "50810" },
+      { "term": "202350", "crn": "50965" },
+      { "term": "202350", "crn": "50996" },
+      { "term": "202350", "crn": "51067" },
+      { "term": "202350", "crn": "51094" },
+      { "term": "202350", "crn": "51114" },
+      { "term": "202350", "crn": "51803" },
+      { "term": "202350", "crn": "51804" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -1378,7 +1484,38 @@
       { "term": "202330", "crn": "38205" },
       { "term": "202330", "crn": "38206" },
       { "term": "202330", "crn": "38207" },
-      { "term": "202310", "crn": "21318" }
+      { "term": "202310", "crn": "21318" },
+      { "term": "202360", "crn": "60735" },
+      { "term": "202360", "crn": "61103" },
+      { "term": "202360", "crn": "61259" },
+      { "term": "202340", "crn": "41489" },
+      { "term": "202350", "crn": "50487" },
+      { "term": "202350", "crn": "50351" },
+      { "term": "202350", "crn": "50523" },
+      { "term": "202350", "crn": "50456" },
+      { "term": "202350", "crn": "50535" },
+      { "term": "202350", "crn": "50569" },
+      { "term": "202350", "crn": "50937" },
+      { "term": "202350", "crn": "50995" },
+      { "term": "202350", "crn": "51075" },
+      { "term": "202350", "crn": "51333" },
+      { "term": "202350", "crn": "51380" },
+      { "term": "202350", "crn": "51400" },
+      { "term": "202350", "crn": "51401" },
+      { "term": "202350", "crn": "51427" },
+      { "term": "202350", "crn": "50076" },
+      { "term": "202350", "crn": "50096" },
+      { "term": "202350", "crn": "50844" },
+      { "term": "202350", "crn": "50910" },
+      { "term": "202350", "crn": "50928" },
+      { "term": "202350", "crn": "50974" },
+      { "term": "202350", "crn": "51079" },
+      { "term": "202350", "crn": "51395" },
+      { "term": "202350", "crn": "51805" },
+      { "term": "202330", "crn": "39492" },
+      { "term": "202330", "crn": "39494" },
+      { "term": "202330", "crn": "39496" },
+      { "term": "202330", "crn": "39497" }
     ],
     "description": "Offers continued thesis work conducted under the supervision of a departmental faculty.",
     "coreqs": [],

@@ -55,7 +55,9 @@
       { "term": "202330", "crn": "34708" },
       { "term": "202330", "crn": "30338" },
       { "term": "202330", "crn": "30337" },
-      { "term": "202330", "crn": "37396" }
+      { "term": "202330", "crn": "37396" },
+      { "term": "202360", "crn": "60111" },
+      { "term": "202340", "crn": "40099" }
     ],
     "description": "Focuses on the development of mathematical thinking and its use in a variety of contexts to translate real-world problems into mathematical form and, through analysis, to obtain new information and reach conclusions about the original problems. Mathematical topics include symbolic logic, truth tables, valid arguments, counting principles, and topics in probability theory such as Bayes' theorem, the binomial distribution, and expected value.",
     "coreqs": [],
@@ -115,7 +117,11 @@
       { "term": "202330", "crn": "30330" },
       { "term": "202330", "crn": "30103" },
       { "term": "202330", "crn": "30053" },
-      { "term": "202330", "crn": "39148" }
+      { "term": "202330", "crn": "39148" },
+      { "term": "202360", "crn": "61411" },
+      { "term": "202340", "crn": "40011" },
+      { "term": "202340", "crn": "40116" },
+      { "term": "202350", "crn": "51282" }
     ],
     "description": "Provides an overview of differential calculus including derivatives of power, exponential, logarithmic, logistic functions, and functions built from these. Derivatives are used to model rates of change, to estimate change, to optimize functions, and in marginal analysis. The integral calculus is applied to accumulation functions and future value. Emphasis is on realistic business and economics problems, the development of mathematical models from raw business data, and the translation of mathematical results into verbal expression appropriate for the business setting. Also features a semester-long marketing project in which students gather raw data, model it, and use calculus to make business decisions; each student is responsible for a ten-minute presentation. (Graphing calculator required, see instructor for make and model.)",
     "coreqs": [],
@@ -137,7 +143,9 @@
       { "term": "202240", "crn": "40805" },
       { "term": "202330", "crn": "34210" },
       { "term": "202330", "crn": "34211" },
-      { "term": "202330", "crn": "34212" }
+      { "term": "202330", "crn": "34212" },
+      { "term": "202340", "crn": "40696" },
+      { "term": "202330", "crn": "39816" }
     ],
     "description": "Serves as both the first half of a two-semester calculus sequence and as a self-contained one-semester course in differential and integral calculus. Introduces basic concepts and techniques of differentiation and integration and applies them to polynomial, exponential, log, and trigonometric functions. Emphasizes the derivative as rate of change and integral as accumulator. Applications include optimization, growth and decay, area, volume, and motion.",
     "coreqs": [],
@@ -229,7 +237,7 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [{ "term": "202330", "crn": "31448" }],
-    "description": "Discusses linear algebra and vector geometry in two-, three-, and four-dimensional space. Examines length, dot product, and trigonometry. Introduces linear and affine transformations. Discusses complex numbers in two-space, cross product in three-space, and quaternions in four-space. Provides explicit formulas for rotations in three-space. Examines functions of one argument and treats exponentials and logarithms. Describes parametric curves in space. Discusses binomials, discrete probability, B&#233;zier curves, and random numbers. Concludes with the concept of the derivative, the rules for computing derivatives, and the notion of a differential equation.",
+    "description": "Discusses linear algebra and vector geometry in two-, three-, and four-dimensional space. Examines length, dot product, and trigonometry. Introduces linear and affine transformations. Discusses complex numbers in two-space, cross product in three-space, and quaternions in four-space. Provides explicit formulas for rotations in three-space. Examines functions of one argument and treats exponentials and logarithms. Describes parametric curves in space. Discusses binomials, discrete probability, Bézier curves, and random numbers. Concludes with the concept of the derivative, the rules for computing derivatives, and the notion of a differential equation.",
     "coreqs": [],
     "prereqs": []
   },
@@ -281,7 +289,9 @@
       { "term": "202330", "crn": "39058" },
       { "term": "202330", "crn": "39149" },
       { "term": "202310", "crn": "21598" },
-      { "term": "202310", "crn": "21599" }
+      { "term": "202310", "crn": "21599" },
+      { "term": "202330", "crn": "39902" },
+      { "term": "202330", "crn": "39527" }
     ],
     "description": "Covers definition, calculation, and major uses of the derivative, as well as an introduction to integration. Topics include limits; the derivative as a limit; rules for differentiation; and formulas for the derivatives of algebraic, trigonometric, and exponential/logarithmic functions. Also discusses applications of derivatives to motion, density, optimization, linear approximations, and related rates. Topics on integration include the definition of the integral as a limit of sums, antidifferentiation, the fundamental theorem of calculus, and integration by substitution.",
     "coreqs": [],
@@ -338,7 +348,12 @@
       { "term": "202330", "crn": "37098" },
       { "term": "202330", "crn": "39096" },
       { "term": "202330", "crn": "39150" },
-      { "term": "202310", "crn": "21235" }
+      { "term": "202310", "crn": "21235" },
+      { "term": "202360", "crn": "60039" },
+      { "term": "202360", "crn": "60162" },
+      { "term": "202340", "crn": "40037" },
+      { "term": "202340", "crn": "40045" },
+      { "term": "202340", "crn": "40107" }
     ],
     "description": "Covers further techniques and applications of integration, infinite series, and introduction to vectors. Topics include integration by parts; numerical integration; improper integrals; separable differential equations; and areas, volumes, and work as integrals. Also discusses convergence of sequences and series of numbers, power series representations and approximations, 3D coordinates, parameterizations, vectors and dot products, tangent and normal vectors, velocity, and acceleration in space. Requires prior completion of MATH 1341 or permission of head mathematics advisor.",
     "coreqs": [],
@@ -447,7 +462,13 @@
       { "term": "202330", "crn": "32524" },
       { "term": "202330", "crn": "34651" },
       { "term": "202330", "crn": "37627" },
-      { "term": "202330", "crn": "39271" }
+      { "term": "202330", "crn": "39271" },
+      { "term": "202360", "crn": "61276" },
+      { "term": "202340", "crn": "40122" },
+      { "term": "202340", "crn": "40879" },
+      { "term": "202340", "crn": "40881" },
+      { "term": "202340", "crn": "41421" },
+      { "term": "202330", "crn": "39621" }
     ],
     "description": "Extends the techniques of calculus to functions of several variables; introduces vector fields and vector calculus in two and three dimensions. Topics include lines and planes, 3D graphing, partial derivatives, the gradient, tangent planes and local linearization, optimization, multiple integrals, line and surface integrals, the divergence theorem, and theorems of Green and Stokes with applications to science and engineering and several computer lab projects. Requires prior completion of MATH 1342 or MATH 1252.",
     "coreqs": [],
@@ -493,7 +514,10 @@
       { "term": "202330", "crn": "34652" },
       { "term": "202330", "crn": "34653" },
       { "term": "202330", "crn": "35230" },
-      { "term": "202330", "crn": "37407" }
+      { "term": "202330", "crn": "37407" },
+      { "term": "202360", "crn": "60038" },
+      { "term": "202340", "crn": "40269" },
+      { "term": "202340", "crn": "40482" }
     ],
     "description": "Uses the Gauss-Jordan elimination algorithm to analyze and find bases for subspaces such as the image and kernel of a linear transformation. Covers the geometry of linear transformations: orthogonality, the Gram-Schmidt process, rotation matrices, and least squares fit. Examines diagonalization and similarity, and the spectral theorem and the singular value decomposition. Is primarily for math and science majors; applications are drawn from many technical fields. Computation is aided by the use of software such as Maple or MATLAB, and graphing calculators.",
     "coreqs": [],
@@ -539,7 +563,13 @@
       { "term": "202330", "crn": "39042" },
       { "term": "202330", "crn": "33077" },
       { "term": "202330", "crn": "39060" },
-      { "term": "202330", "crn": "39272" }
+      { "term": "202330", "crn": "39272" },
+      { "term": "202360", "crn": "60011" },
+      { "term": "202360", "crn": "60142" },
+      { "term": "202340", "crn": "40270" },
+      { "term": "202340", "crn": "40364" },
+      { "term": "202340", "crn": "40871" },
+      { "term": "202340", "crn": "41342" }
     ],
     "description": "Studies ordinary differential equations, their applications, and techniques for solving them including numerical methods (through computer labs using MS Excel and MATLAB), Laplace transforms, and linear algebra. Topics include linear and nonlinear first- and second-order equations and applications include electrical and mechanical systems, forced oscillation, and resonance. Topics from linear algebra, such as matrices, row-reduction, vector spaces, and eigenvalues/eigenvectors, are developed and applied to systems of differential equations. Requires prior completion of MATH 1342.",
     "coreqs": [],
@@ -599,7 +629,12 @@
       { "term": "202330", "crn": "31516" },
       { "term": "202330", "crn": "32990" },
       { "term": "202330", "crn": "34746" },
-      { "term": "202330", "crn": "39151" }
+      { "term": "202330", "crn": "39151" },
+      { "term": "202360", "crn": "60348" },
+      { "term": "202360", "crn": "60165" },
+      { "term": "202340", "crn": "40036" },
+      { "term": "202340", "crn": "40634" },
+      { "term": "202330", "crn": "39793" }
     ],
     "description": "Focuses on probability theory. Topics include sample space; conditional probability and independence; discrete and continuous probability distributions for one and for several random variables; expectation; variance; special distributions including binomial, Poisson, and normal distributions; law of large numbers; and central limit theorem. Also introduces basic statistical theory including estimation of parameters, confidence intervals, and hypothesis testing.",
     "coreqs": [],
@@ -674,7 +709,8 @@
       { "term": "202240", "crn": "41757" },
       { "term": "202330", "crn": "30099" },
       { "term": "202330", "crn": "32611" },
-      { "term": "202330", "crn": "39043" }
+      { "term": "202330", "crn": "39043" },
+      { "term": "202360", "crn": "60316" }
     ],
     "description": "Presents basic concepts and techniques of the group theory: symmetry groups, axiomatic definition of groups, important classes of groups (abelian groups, cyclic groups, additive and multiplicative groups of residues, and permutation groups), Cayley table, subgroups, group homomorphism, cosets, the Lagrange theorem, normal subgroups, quotient groups, and direct products. Studies structural properties of groups. Possible applications include geometry, number theory, crystallography, physics, and combinatorics.",
     "coreqs": [],
@@ -755,7 +791,9 @@
       { "term": "202260", "crn": "60911" },
       { "term": "202240", "crn": "40201" },
       { "term": "202330", "crn": "31920" },
-      { "term": "202330", "crn": "33080" }
+      { "term": "202330", "crn": "33080" },
+      { "term": "202360", "crn": "60680" },
+      { "term": "202340", "crn": "40189" }
     ],
     "description": "Introduces number theory. Topics include linear diophantine equations, congruences, design of magic squares, Fermat's little theorem, Euler's formula, Euler's phi function, computing powers and roots in modular arithmetic, the RSA encryption system, primitive roots and indices, and the law of quadratic reciprocity. As time permits, may cover diophantine approximation and Pell's equation, elliptic curves, points on elliptic curves, and Fermat's last theorem.",
     "coreqs": [],
@@ -792,7 +830,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202240", "crn": "41070" },
-      { "term": "202330", "crn": "30521" }
+      { "term": "202330", "crn": "30521" },
+      { "term": "202340", "crn": "40872" }
     ],
     "description": "Introduces techniques of mathematical proofs including mathematical induction. Explores various techniques for counting such as permutation and combinations, inclusion-exclusion principle, recurrence relations, generating functions, Polya enumeration, and the mathematical formulations necessary for these techniques including elementary group theory and equivalence relations.",
     "coreqs": [],
@@ -815,6 +854,18 @@
     "description": "Covers numerical methods to solve ordinary differential equations that are otherwise not solvable using exact methods and that are useful in a variety of applications drawn from classical areas of science and engineering. Studies examples classified as initial and boundary value problems from fluid mechanics and heat transfer. The topics are of fundamental importance in many branches of applied mathematics, physical sciences, and engineering. Possible topics also include the finite element method, which is very useful in structural analysis involving complex geometry.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "2341" }]
+  },
+  {
+    "subject": "MATH",
+    "number": "3543",
+    "title": "Dynamics, Chaos, and Fractals",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202360", "crn": "61396" }],
+    "description": "Introduces one-dimensional discrete real and complex dynamics, chaotic dynamics, and fractals, with an emphasis on computational and graphical exploration. Studies orbits and periodic iteration behavior of real and complex-valued function, attracting cycles, itineraries, symbolic dynamics, chaos, classical fractal constructions, Minkowski dimension, Julia sets, and the Mandelbrot set.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "MATH", "number": "1342" }]
   },
   {
     "subject": "MATH",
@@ -847,7 +898,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "13420" },
-      { "term": "202240", "crn": "41073" }
+      { "term": "202240", "crn": "41073" },
+      { "term": "202340", "crn": "40875" }
     ],
     "description": "Studies classical geometry and symmetry groups of geometric figures, with an emphasis on Euclidean geometry. Teaches how to formulate mathematical propositions precisely and how to construct and understand mathematical proofs. Provides a line between classical and modern geometry with the aim of preparing students for further study in group theory and differential geometry.",
     "coreqs": [],
@@ -884,7 +936,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [{ "term": "202330", "crn": "30946" }],
-    "description": "Emphasizes the use of a variety of methods&#8212;such as optimization, differential equations, probability, and statistics&#8212;to study problems that arise in epidemiology, finance, and other real-world settings. Course work includes assigned exercises, a long-term modeling project on a topic of the student's choosing, and a reflection paper.",
+    "description": "Emphasizes the use of a variety of methods—such as optimization, differential equations, probability, and statistics—to study problems that arise in epidemiology, finance, and other real-world settings. Course work includes assigned exercises, a long-term modeling project on a topic of the student's choosing, and a reflection paper.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "3081" }]
   },
@@ -1028,7 +1080,8 @@
       { "term": "202260", "crn": "60195" },
       { "term": "202260", "crn": "61445" },
       { "term": "202330", "crn": "30494" },
-      { "term": "202330", "crn": "31752" }
+      { "term": "202330", "crn": "31752" },
+      { "term": "202360", "crn": "60185" }
     ],
     "description": "Continues topics introduced in MATH 3081. The first part of the course covers classical procedures of statistics including the t-test, linear regression, and the chi-square test. The second part provides an introduction to stochastic processes with emphasis on Markov chains, random walks, and Brownian motion, with applications to modeling and finance.",
     "coreqs": [],
@@ -1043,7 +1096,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "13902" },
-      { "term": "202240", "crn": "40529" }
+      { "term": "202240", "crn": "40529" },
+      { "term": "202340", "crn": "40493" }
     ],
     "description": "Reviews main probability and statistics concepts from the point of view of decision risks in actuarial and biomedical contexts, including applications of normal approximation for evaluating statistical risks. Also examines new topics, such as distribution of extreme values and nonparametric statistics with examples. May be especially useful for students preparing for the first actuarial exam on probability and statistics.",
     "coreqs": [],
@@ -1058,7 +1112,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "16591" },
-      { "term": "202240", "crn": "40484" }
+      { "term": "202240", "crn": "40484" },
+      { "term": "202340", "crn": "40454" }
     ],
     "description": "Reviews basic financial instruments in the presence of interest rates, including the measurement of interest and problems in interest (equations of value, basic and more general annuities, yield rates, amortization schedules, bonds and other securities). Examines numerous practical applications. Also introduces problems of life insurance with examples. May be especially useful for students preparing for the second actuarial exam on theory of interest.",
     "coreqs": [],
@@ -1107,7 +1162,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "14308" }],
+    "sections": [
+      { "term": "202310", "crn": "14308" },
+      { "term": "202360", "crn": "61400" }
+    ],
     "description": "Offers a robust introduction to the basic results of linear algebra on real and complex vector spaces with applications to differential equations and Markov chains. Introduces theoretical results along the way, along with matrix analysis, eigenvalue analysis, and spectral decomposition. Includes a significant computational component, focused on applications of linear algebra to mathematical modeling.",
     "coreqs": [],
     "prereqs": []
@@ -1185,6 +1243,18 @@
   },
   {
     "subject": "MATH",
+    "number": "6961",
+    "title": "Internship",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "52413" }],
+    "description": "Offers students an opportunity for internship work. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MATH",
     "number": "6964",
     "title": "Co-op Work Experience",
     "scheduleType": "Individual Instruction",
@@ -1194,9 +1264,24 @@
       { "term": "202310", "crn": "13348" },
       { "term": "202260", "crn": "61512" },
       { "term": "202240", "crn": "40450" },
-      { "term": "202330", "crn": "32537" }
+      { "term": "202330", "crn": "32537" },
+      { "term": "202360", "crn": "61146" },
+      { "term": "202340", "crn": "40427" },
+      { "term": "202350", "crn": "50463" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MATH",
+    "number": "6965",
+    "title": "Co-op Work Experience Abroad",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "40139" }],
+    "description": "Provides eligible students with an opportunity for work experience abroad. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1221,6 +1306,18 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "18691" }],
     "description": "Continues MATH 5121. Introduces homology and cohomology theory. Studies singular homology, homological algebra (exact sequences, axioms), Mayer-Vietoris sequence, CW-complexes and cellular homology, calculation of homology of cellular spaces, and homology with coefficients. Moves on to cohomology theory, universal coefficients theorems, Bockstein homomorphism, Knnneth formula, cup and cap products, Hopf invariant, Borsuk-Ulam theorem, and Brouwer and Lefschetz-Hopf fixed-point theorems. Ends with a study of duality in manifolds including orientation bundle, Poincaré duality, Lefschetz duality, Alexander duality, Euler class, Lefschetz numbers, Gysin sequence, intersection form, and signature.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MATH",
+    "number": "7223",
+    "title": "Riemannian Optimization",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39429" }],
+    "description": "Offers a self-contained introduction to optimization on smooth manifolds. Covers both theoretical foundations and practical computational methods that students can apply to their own work. Introduces the theory of Riemannian geometry. Emphasizes those elements that are relevant for the construction of optimization algorithms (tensor fields, metrics, connections, geodesics, retractions, and transporters). Applies this geometric machinery to devise first- and second-order smooth optimization methods on generic Riemannian manifolds. Focuses on the development of practical computational techniques, with applications to robotics, computer vision, and machine learning.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1292,6 +1389,25 @@
   },
   {
     "subject": "MATH",
+    "number": "7320",
+    "title": "Modern Algebraic Geometry",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202330", "crn": "40244" },
+      { "term": "202330", "crn": "40245" }
+    ],
+    "description": "Introduces students to modern techniques of algebraic geometry, including those coming from Lie theory, symplectic and differential geometry, complex analysis, and number theory. Covers subjects related to invariant theory, homological algebra questions of algebraic geometry, including derived categories and complex analytic, differential geometric, and arithmetic aspects of the geometry of algebraic varieties. Students not meeting course prerequisites or restrictions may seek permission of instructor.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "MATH", "number": "7314" },
+      "Or",
+      { "subject": "MATH", "number": "7361" }
+    ]
+  },
+  {
+    "subject": "MATH",
     "number": "7339",
     "title": "Machine Learning and Statistical Learning Theory 2",
     "scheduleType": "Lecture",
@@ -1319,7 +1435,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "12327" },
-      { "term": "202330", "crn": "32227" }
+      { "term": "202330", "crn": "32227" },
+      { "term": "202330", "crn": "39624" }
     ],
     "description": "Introduces the concepts of probability and statistics used in bioinformatics applications, particularly the analysis of microarray data. Uses statistical computation using the open-source R program. Topics include maximum likelihood; Monte Carlo simulations; false discovery rate adjustment; nonparametric methods, including bootstrap and permutation tests; correlation, regression, ANOVA, and generalized linear models; preprocessing of microarray data and gene filtering; visualization of multivariate data; and machine-learning techniques, such as clustering, principal components analysis, support vector machine, neural networks, and regression tree.",
     "coreqs": [],
@@ -1334,7 +1451,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202240", "crn": "41081" },
-      { "term": "202330", "crn": "38600" }
+      { "term": "202330", "crn": "38600" },
+      { "term": "202340", "crn": "41758" }
     ],
     "description": "Continues MATH 7241. Studies probability theory, with an emphasis on its use in modeling and queueing theory. Starts with basic properties of exponential random variables, and then applies this to the study of the Poisson process. Queueing theory forms the bulk of the course, with analysis of single-server queues, multiserver queues, and networks of queues. Also includes material on continuous-time Markov processes, renewal theory, and Brownian motion.",
     "coreqs": [],
@@ -1428,6 +1546,18 @@
   },
   {
     "subject": "MATH",
+    "number": "7375",
+    "title": "Topics in Topology",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39516" }],
+    "description": "Offers various advanced topics in algebraic and geometric topology, the subject matter depending on the instructor and the students. Topics may include Morse theory, fiber bundles and characteristic classes, topology of complex hypersurfaces, knot theory and low-dimensional topology, K-theory, and rational homotopy theory. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "MATH", "number": "5121" }]
+  },
+  {
+    "subject": "MATH",
     "number": "7721",
     "title": "Readings in Topology",
     "scheduleType": "Individual Instruction",
@@ -1463,7 +1593,10 @@
     "sections": [
       { "term": "202310", "crn": "20673" },
       { "term": "202310", "crn": "20989" },
-      { "term": "202260", "crn": "61535" }
+      { "term": "202260", "crn": "61535" },
+      { "term": "202330", "crn": "39615" },
+      { "term": "202330", "crn": "39652" },
+      { "term": "202330", "crn": "39762" }
     ],
     "description": "Offers a reading course to be arranged between an individual student and instructor on a topic of their mutual choice. May be repeated without limit.",
     "coreqs": [],
@@ -1519,7 +1652,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21639" }],
+    "sections": [
+      { "term": "202310", "crn": "21639" },
+      { "term": "202330", "crn": "40469" }
+    ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1545,7 +1681,10 @@
     "nuPath": [],
     "sections": [
       { "term": "202260", "crn": "60637" },
-      { "term": "202240", "crn": "40792" }
+      { "term": "202240", "crn": "40792" },
+      { "term": "202360", "crn": "60563" },
+      { "term": "202340", "crn": "40685" },
+      { "term": "202330", "crn": "40374" }
     ],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -1560,7 +1699,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202260", "crn": "60636" },
-      { "term": "202240", "crn": "40640" }
+      { "term": "202240", "crn": "40640" },
+      { "term": "202360", "crn": "60562" },
+      { "term": "202340", "crn": "40584" }
     ],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -1575,7 +1716,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202260", "crn": "61424" },
-      { "term": "202260", "crn": "61426" }
+      { "term": "202260", "crn": "61426" },
+      { "term": "202330", "crn": "39782" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],

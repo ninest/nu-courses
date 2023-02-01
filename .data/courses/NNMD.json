@@ -55,7 +55,9 @@
       { "term": "202260", "crn": "61428" },
       { "term": "202260", "crn": "61427" },
       { "term": "202330", "crn": "36997" },
-      { "term": "202330", "crn": "33902" }
+      { "term": "202330", "crn": "33902" },
+      { "term": "202340", "crn": "41679" },
+      { "term": "202330", "crn": "39792" }
     ],
     "description": "Offers an in-depth look at laboratory methods and tools for studying nanomaterials used in biology and medicine. Includes hands-on sessions with experts in nanoparticle synthesis, electron microscopy, optical microscopy, magnetic resonance imaging, high-performance liquid chromatography, in vitro measurements of nanoparticle bioactivity and cytotoxicity, and in vivo measurements of treatment efficacy.",
     "coreqs": [],

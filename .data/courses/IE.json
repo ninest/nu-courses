@@ -55,7 +55,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "11280" },
-      { "term": "202240", "crn": "40246" }
+      { "term": "202240", "crn": "40246" },
+      { "term": "202340", "crn": "40232" }
     ],
     "description": "Examines the representation of data and its creation and management in engineering enterprises. Discusses the client/server model of database access. Presents the fundamentals of data modeling and management, data mining and warehousing, multitier applications, and the use of the SQL query language. Emphasizes the use and applications of database systems in engineering including design and manufacturing. Topics include design schema of tables, records and fields of databases, SQL statements, security issues, and the use of a scripting language such as Perl or Visual Basic.",
     "coreqs": [{ "subject": "IE", "number": "3426" }],
@@ -76,7 +77,8 @@
       { "term": "202310", "crn": "11784" },
       { "term": "202310", "crn": "11785" },
       { "term": "202310", "crn": "11786" },
-      { "term": "202240", "crn": "41092" }
+      { "term": "202240", "crn": "41092" },
+      { "term": "202340", "crn": "40891" }
     ],
     "description": "Provides small group demonstration and problem solving for IE 3425.",
     "coreqs": [{ "subject": "IE", "number": "3425" }],
@@ -139,7 +141,8 @@
     "sections": [
       { "term": "202310", "crn": "12277" },
       { "term": "202240", "crn": "40687" },
-      { "term": "202330", "crn": "31810" }
+      { "term": "202330", "crn": "31810" },
+      { "term": "202340", "crn": "40616" }
     ],
     "description": "Introduces students to economic modeling and analysis techniques for selecting alternatives from potential solutions to an engineering problem. Presents basic methods of economic comparison such as present worth, annual worth, rate of return, and benefit/cost techniques. Studies effects of taxes on investment analysis. Also covers decision tree analysis and statistical decision techniques.",
     "coreqs": [],
@@ -239,7 +242,8 @@
     "sections": [
       { "term": "202330", "crn": "30503" },
       { "term": "202330", "crn": "31812" },
-      { "term": "202330", "crn": "36699" }
+      { "term": "202330", "crn": "36699" },
+      { "term": "202330", "crn": "39408" }
     ],
     "description": "Accompanies IE 4522. Covers topics from the course through various activities.",
     "coreqs": [{ "subject": "IE", "number": "4522" }],
@@ -329,6 +333,18 @@
   },
   {
     "subject": "IE",
+    "number": "4993",
+    "title": "Independent Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "40651" }],
+    "description": "Offers theoretical or experimental work under individual faculty supervision. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "IE",
     "number": "5374",
     "title": "ST: Foundations Data Analytics",
     "scheduleType": "Lecture",
@@ -397,7 +413,9 @@
       { "term": "202260", "crn": "60330" },
       { "term": "202240", "crn": "40468" },
       { "term": "202330", "crn": "31934" },
-      { "term": "202330", "crn": "38685" }
+      { "term": "202330", "crn": "38685" },
+      { "term": "202360", "crn": "60312" },
+      { "term": "202340", "crn": "40439" }
     ],
     "description": "Covers the fundamentals of lean thinking and how to apply this knowledge to practical problems. Lean thinking is imperative for organizations aspiring to stay competitive in global markets. It calls for process changes to eliminate waste, shorten product delivery time, improve product quality, and curtail costs, while improving customer satisfaction. Offers students an opportunity to learn concepts, a kit of process improvement tools, implementation methods, and best practices for lean workforce development. Makes extensive use of active learning exercises and simulations, and case studies from different disciplines, to help students learn how lean principles are applied in manufacturing and also in less traditional areas such as knowledge work and healthcare systems.",
     "coreqs": [{ "subject": "IE", "number": "5618" }],
@@ -418,7 +436,10 @@
       { "term": "202240", "crn": "41096" },
       { "term": "202330", "crn": "33688" },
       { "term": "202330", "crn": "33689" },
-      { "term": "202330", "crn": "33690" }
+      { "term": "202330", "crn": "33690" },
+      { "term": "202360", "crn": "60687" },
+      { "term": "202340", "crn": "40894" },
+      { "term": "202330", "crn": "39646" }
     ],
     "description": "Accompanies IE 5617. Provides small group demonstrations, exercises, and team activities.",
     "coreqs": [{ "subject": "IE", "number": "5617" }],
@@ -431,7 +452,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "41264" }],
+    "sections": [
+      { "term": "202240", "crn": "41264" },
+      { "term": "202340", "crn": "41001" }
+    ],
     "description": "Emphasizes the measurement of human behavior in complex human-machine interaction. Topics include introduction of complex human-machine interactions; research methods in complex human-machine interactions; various kinds of human psychophysiological signals/cues, including physiological cues, facial expressions, eye-gaze movement, head movement, contextual cues; human cues and behavior relationship; transducers and measurement for these human cues/signals; basic principles of biosensors; general classification of biosensors; current technologies for building biosensors; conventional transducers and new technologies including micro-/nanotechnology; general systematic design process for biosensors; application of biosensors to understand human behavior in human-machine interactions. Also introduces the latest relevant research advancements in sensor fusion, affective computing, and emotion recognition.",
     "coreqs": [],
     "prereqs": []
@@ -478,9 +502,25 @@
       { "term": "202330", "crn": "31276" },
       { "term": "202330", "crn": "31728" },
       { "term": "202330", "crn": "31818" },
-      { "term": "202330", "crn": "34832" }
+      { "term": "202330", "crn": "34832" },
+      { "term": "202340", "crn": "41745" }
     ],
     "description": "Studies fundamental concepts of probability. Topics include events, sample space, and discrete and continuous random variables; density functions, mass functions, cumulative probability distributions, and moment generating functions; expectation of random variables; common discrete and continuous probability distributions including binomial, Poisson, geometric, uniform, exponential, and normal; multivariate probability distributions, covariance, and independence of random variables; sampling and descriptive statistics; and parameter estimation, confidence intervals, and hypothesis testing. Also introduces analysis of variance. Requires knowledge of multivariate calculus.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "IE",
+    "number": "6400",
+    "title": "Foundations for Data Analytics Engineering",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202330", "crn": "40196" },
+      { "term": "202330", "crn": "40199" }
+    ],
+    "description": "Offers topics and skills designed to prepare students for advanced courses in data analytics engineering. Covers basic concepts and implementation of methods related to probability, eigenvalues and eigenvectors, cluster analysis, text mining, and time series analysis. Offers students an opportunity to learn how to work with modern data structures and apply computational methods for data cleaning and data wrangling operations.",
     "coreqs": [],
     "prereqs": []
   },
@@ -518,7 +558,13 @@
       { "term": "202330", "crn": "37058" },
       { "term": "202330", "crn": "34000" },
       { "term": "202330", "crn": "38687" },
-      { "term": "202310", "crn": "20430" }
+      { "term": "202310", "crn": "20430" },
+      { "term": "202360", "crn": "61388" },
+      { "term": "202340", "crn": "41746" },
+      { "term": "202330", "crn": "33691" },
+      { "term": "202330", "crn": "38686" },
+      { "term": "202330", "crn": "39840" },
+      { "term": "202330", "crn": "40080" }
     ],
     "description": "Offers students an opportunity to learn how to use visualization tools and techniques for data exploration, knowledge discovery, data storytelling, and decision making in engineering, healthcare operations, manufacturing, and related applications.Covers basics of Python and R for data mining and visualization. Introduces students to static and interactive visualization charts and techniques that reveal information, patterns, interactions, and comparisons by focusing on details such as color encoding, shape selection, spatial layout, and annotation.",
     "coreqs": [],
@@ -541,7 +587,8 @@
       { "term": "202330", "crn": "35113" },
       { "term": "202330", "crn": "36105" },
       { "term": "202330", "crn": "38688" },
-      { "term": "202330", "crn": "39308" }
+      { "term": "202330", "crn": "39308" },
+      { "term": "202350", "crn": "51801" }
     ],
     "description": "Covers the theory and applications of database management to support data analytics, data mining, machine learning, and artificial intelligence. Discusses the fundamental concepts and emerging technologies in database design and modeling, database systems, data storage, and the evolving world of data warehousing and data governance. Presents a balanced theory-practice focus and covers relational databases, NoSQL databases, data integration, data quality, data governance, big data, and data processing for analytics.",
     "coreqs": [],
@@ -561,7 +608,8 @@
       { "term": "202330", "crn": "32235" },
       { "term": "202330", "crn": "32934" },
       { "term": "202330", "crn": "31718" },
-      { "term": "202330", "crn": "31717" }
+      { "term": "202330", "crn": "31717" },
+      { "term": "202360", "crn": "61389" }
     ],
     "description": "Presents modern quantitative techniques for designing, analyzing, managing, and improving supply chains using deterministic and probabilistic models. Topics include a macro view of supply chains, demand forecasting, aggregate planning, sequencing and scheduling, inventory analysis and control, materials requirement planning, pricing and revenue management, contracts decisions, transportation decisions, location and distribution decisions, supplier selection methods, and global supply chains.",
     "coreqs": [],
@@ -590,7 +638,8 @@
       { "term": "202310", "crn": "12994" },
       { "term": "202260", "crn": "60397" },
       { "term": "202330", "crn": "36106" },
-      { "term": "202330", "crn": "32142" }
+      { "term": "202330", "crn": "32142" },
+      { "term": "202360", "crn": "60375" }
     ],
     "description": "Previously captured",
     "coreqs": [],
@@ -637,7 +686,15 @@
       { "term": "202330", "crn": "32836" },
       { "term": "202330", "crn": "32837" },
       { "term": "202330", "crn": "34001" },
-      { "term": "202330", "crn": "38984" }
+      { "term": "202330", "crn": "38984" },
+      { "term": "202360", "crn": "61390" },
+      { "term": "202360", "crn": "61391" },
+      { "term": "202330", "crn": "37059" },
+      { "term": "202330", "crn": "38985" },
+      { "term": "202330", "crn": "38986" },
+      { "term": "202330", "crn": "38987" },
+      { "term": "202330", "crn": "39549" },
+      { "term": "202330", "crn": "39841" }
     ],
     "description": "Covers the theory and applications of data mining in engineering. Reviews fundamentals and key concepts of data mining, discusses important data mining techniques, and presents algorithms for implementing these techniques. Specifically covers data mining techniques for data preprocessing, association rule extraction, classification, prediction, clustering, and complex data exploration. Discusses data mining applications in several areas, including manufacturing, healthcare, medicine, business, and other service sectors.",
     "coreqs": [],
@@ -661,7 +718,8 @@
     "sections": [
       { "term": "202310", "crn": "13539" },
       { "term": "202310", "crn": "19991" },
-      { "term": "202330", "crn": "33692" }
+      { "term": "202330", "crn": "33692" },
+      { "term": "202330", "crn": "39998" }
     ],
     "description": "Discusses statistical models for analysis and prediction of random phenomena. Topics include review of descriptive statistics and hypothesis testing, linear models, both regression and ANOVA. Introduces design of experiments. Covers experiments with single and multiple factors of interest, and considers experiments with high-order experimental restrictions.",
     "coreqs": [],
@@ -670,6 +728,22 @@
       "Or",
       { "subject": "IE", "number": "5374" },
       "Or",
+      { "subject": "IE", "number": "6200" },
+      "Or",
+      { "subject": "MATH", "number": "7241" }
+    ]
+  },
+  {
+    "subject": "IE",
+    "number": "7285",
+    "title": "Statistical Quality Control",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39791" }],
+    "description": "Designed to study the fundamental concepts of quality planning and improvements. Studies analysis and application of modern statistical process control methods including cusum, EWMA, multivariate, and modified control charts. Covers inspection error and design of sampling plans. Topics include software quality assurance, and study of the concepts of Deming, Ishikawa, Feigenbum, and Taguchi's approach in quality planning, organization, and improvement.",
+    "coreqs": [],
+    "prereqs": [
       { "subject": "IE", "number": "6200" },
       "Or",
       { "subject": "MATH", "number": "7241" }
@@ -704,7 +778,8 @@
     "sections": [
       { "term": "202310", "crn": "20841" },
       { "term": "202330", "crn": "38689" },
-      { "term": "202330", "crn": "38690" }
+      { "term": "202330", "crn": "38690" },
+      { "term": "202350", "crn": "52480" }
     ],
     "description": "Covers fundamentals of reinforcement learning (RL) and its applications in engineering areas. Provides an overview of the RL concepts and important algorithms. Demonstrates applications of RL to address engineering problems in manufacturing, supply chain, healthcare, and engineering economics. Offers students an opportunity to master their skills to apply RL to practical engineering projects through a series of lab sessions.",
     "coreqs": [],
@@ -724,7 +799,8 @@
       { "term": "202310", "crn": "20840" },
       { "term": "202330", "crn": "38691" },
       { "term": "202330", "crn": "38692" },
-      { "term": "202330", "crn": "38693" }
+      { "term": "202330", "crn": "38693" },
+      { "term": "202350", "crn": "52537" }
     ],
     "description": "Covers statistical models and methods for data analytics. Reviews fundamentals and key concepts in statistical inferences and learning theory. Presents important statistical learning techniques and algorithms for implementation. Discusses ordinary least square for regression, overfitting and regularization, generalized linear models, and nonlinear and nonparametric models. Applies Bayesian statistics for classification problems. Offers theoretical aspects including the statistical learning framework, conditional probabilistic methods, and their applications in several areas including manufacturing, healthcare, and business.",
     "coreqs": [],
@@ -748,13 +824,15 @@
   {
     "subject": "IE",
     "number": "7374",
-    "title": "Modeling & Gov. Sociotech Sys ",
+    "title": "ST: Business Intelligence - DI",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "38988" },
-      { "term": "202330", "crn": "33292" }
+      { "term": "202330", "crn": "33292" },
+      { "term": "202360", "crn": "61393" },
+      { "term": "202360", "crn": "61394" }
     ],
     "description": "Offers topics of interest to the staff member conducting this class for advanced study. May be repeated without limit.",
     "coreqs": [],
@@ -796,7 +874,8 @@
       { "term": "202310", "crn": "20895" },
       { "term": "202330", "crn": "38694" },
       { "term": "202330", "crn": "38695" },
-      { "term": "202330", "crn": "38696" }
+      { "term": "202330", "crn": "38696" },
+      { "term": "202350", "crn": "52530" }
     ],
     "description": "Covers fundamentals of natural language processing and its applications in engineering areas. Presents an overview of the NLP concepts and important algorithms. Demonstrates applications of NLP to address engineering problems in transportation, civil engineering, manufacturing, healthcare, business, commerce, and selected other areas of engineering. A substantial course project offers students an opportunity to solidify their skills to apply NLP to practical engineering problems.",
     "coreqs": [],
@@ -814,7 +893,8 @@
       { "term": "202310", "crn": "19908" },
       { "term": "202330", "crn": "33321" },
       { "term": "202330", "crn": "36109" },
-      { "term": "202330", "crn": "38697" }
+      { "term": "202330", "crn": "38697" },
+      { "term": "202350", "crn": "50756" }
     ],
     "description": "Covers the theory and applications of neural networks in engineering. Reviews basics of machine learning, discusses important neural network architectures, and presents neural network training methods and algorithms. The specific neural network models covered in this course include feedforward neural networks such as deep learning architectures, radial basis function networks, support vector machines, self-organizing feature maps, and recurrent networks. Discusses neural network applications in several areas including manufacturing, healthcare, medicine, business, and diagnostics and prognostics.",
     "coreqs": [],
@@ -846,7 +926,9 @@
       { "term": "202330", "crn": "34004" },
       { "term": "202330", "crn": "35559" },
       { "term": "202330", "crn": "37224" },
-      { "term": "202310", "crn": "21484" }
+      { "term": "202310", "crn": "21484" },
+      { "term": "202350", "crn": "52285" },
+      { "term": "202330", "crn": "40206" }
     ],
     "description": "Offers theoretical or experimental work under individual faculty supervision.",
     "coreqs": [],
@@ -875,7 +957,13 @@
       { "term": "202330", "crn": "34172" },
       { "term": "202310", "crn": "21362" },
       { "term": "202310", "crn": "21783" },
-      { "term": "202310", "crn": "21807" }
+      { "term": "202310", "crn": "21807" },
+      { "term": "202340", "crn": "41540" },
+      { "term": "202330", "crn": "40537" },
+      { "term": "202330", "crn": "40538" },
+      { "term": "202330", "crn": "40655" },
+      { "term": "202330", "crn": "40711" },
+      { "term": "202330", "crn": "40736" }
     ],
     "description": "Offers theoretical or experimental work under individual faculty supervision. An independent study must be petitioned and approved by the academic advisor. The petition must clearly state the reason for taking the course; a brief description of goals; as well as the expected outcomes, deliverables, and grading scheme. Master's degree students in thesis or project options are not eligible to take independent study.",
     "coreqs": [],
@@ -890,7 +978,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "38049" },
-      { "term": "202310", "crn": "21627" }
+      { "term": "202310", "crn": "21627" },
+      { "term": "202350", "crn": "52352" }
     ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision.",
     "coreqs": [],
@@ -929,7 +1018,12 @@
       { "term": "202330", "crn": "33933" },
       { "term": "202330", "crn": "34010" },
       { "term": "202330", "crn": "35574" },
-      { "term": "202310", "crn": "21111" }
+      { "term": "202310", "crn": "21111" },
+      { "term": "202360", "crn": "60612" },
+      { "term": "202360", "crn": "60852" },
+      { "term": "202350", "crn": "51565" },
+      { "term": "202350", "crn": "52135" },
+      { "term": "202330", "crn": "39843" }
     ],
     "description": "Offers analytical and/or experimental work conducted under the direction of the faculty in fulfillment of the requirements for the degree. Requires first-year students to attend a graduate seminar program that introduces the students to the methods of choosing a research topic, conducting research, and preparing a thesis. Requires successful completion of the seminar program. May be repeated without limit.",
     "coreqs": [],
@@ -956,7 +1050,11 @@
       { "term": "202330", "crn": "30877" },
       { "term": "202330", "crn": "30876" },
       { "term": "202330", "crn": "30878" },
-      { "term": "202330", "crn": "31290" }
+      { "term": "202330", "crn": "31290" },
+      { "term": "202360", "crn": "60831" },
+      { "term": "202360", "crn": "60857" },
+      { "term": "202350", "crn": "52208" },
+      { "term": "202330", "crn": "40510" }
     ],
     "description": "Continues thesis work conducted under the supervision of a departmental faculty member.",
     "coreqs": [],
@@ -990,7 +1088,8 @@
       { "term": "202330", "crn": "34152" },
       { "term": "202330", "crn": "34156" },
       { "term": "202330", "crn": "34160" },
-      { "term": "202330", "crn": "35220" }
+      { "term": "202330", "crn": "35220" },
+      { "term": "202350", "crn": "52481" }
     ],
     "description": "Offers students an opportunity to prepare for the PhD qualifying exam under faculty supervision. Intended for students who have completed all required PhD course work and have not yet achieved PhD candidacy; students who have not completed all required PhD course work are not allowed to register for this course. May be repeated once.",
     "coreqs": [],
@@ -1007,7 +1106,8 @@
       { "term": "202310", "crn": "18065" },
       { "term": "202330", "crn": "32659" },
       { "term": "202330", "crn": "35507" },
-      { "term": "202330", "crn": "37924" }
+      { "term": "202330", "crn": "37924" },
+      { "term": "202350", "crn": "50616" }
     ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -1038,7 +1138,19 @@
       { "term": "202330", "crn": "35454" },
       { "term": "202330", "crn": "35490" },
       { "term": "202330", "crn": "37807" },
-      { "term": "202310", "crn": "21784" }
+      { "term": "202310", "crn": "21784" },
+      { "term": "202360", "crn": "60855" },
+      { "term": "202360", "crn": "60638" },
+      { "term": "202360", "crn": "60858" },
+      { "term": "202350", "crn": "50858" },
+      { "term": "202350", "crn": "51034" },
+      { "term": "202350", "crn": "51526" },
+      { "term": "202350", "crn": "52146" },
+      { "term": "202350", "crn": "52259" },
+      { "term": "202350", "crn": "52320" },
+      { "term": "202350", "crn": "52373" },
+      { "term": "202330", "crn": "40370" },
+      { "term": "202330", "crn": "40712" }
     ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -1085,7 +1197,10 @@
       { "term": "202330", "crn": "30612" },
       { "term": "202330", "crn": "30824" },
       { "term": "202330", "crn": "30961" },
-      { "term": "202330", "crn": "32335" }
+      { "term": "202330", "crn": "32335" },
+      { "term": "202350", "crn": "50936" },
+      { "term": "202350", "crn": "51051" },
+      { "term": "202350", "crn": "51070" }
     ],
     "description": "Offers dissertation supervision under individual faculty supervision.",
     "coreqs": [],
@@ -1107,7 +1222,13 @@
       { "term": "202330", "crn": "36862" },
       { "term": "202310", "crn": "21424" },
       { "term": "202310", "crn": "21428" },
-      { "term": "202310", "crn": "21564" }
+      { "term": "202310", "crn": "21564" },
+      { "term": "202350", "crn": "51786" },
+      { "term": "202330", "crn": "39464" },
+      { "term": "202330", "crn": "39465" },
+      { "term": "202330", "crn": "39470" },
+      { "term": "202330", "crn": "39471" },
+      { "term": "202330", "crn": "40577" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -1159,7 +1280,22 @@
       { "term": "202330", "crn": "30628" },
       { "term": "202330", "crn": "30823" },
       { "term": "202310", "crn": "21730" },
-      { "term": "202310", "crn": "21781" }
+      { "term": "202310", "crn": "21781" },
+      { "term": "202340", "crn": "41432" },
+      { "term": "202350", "crn": "50529" },
+      { "term": "202350", "crn": "50680" },
+      { "term": "202350", "crn": "50913" },
+      { "term": "202350", "crn": "50980" },
+      { "term": "202350", "crn": "50985" },
+      { "term": "202350", "crn": "50988" },
+      { "term": "202350", "crn": "51099" },
+      { "term": "202350", "crn": "51377" },
+      { "term": "202350", "crn": "51425" },
+      { "term": "202350", "crn": "51454" },
+      { "term": "202350", "crn": "51582" },
+      { "term": "202350", "crn": "50027" },
+      { "term": "202350", "crn": "51483" },
+      { "term": "202330", "crn": "39472" }
     ],
     "description": "Offers continuing dissertation supervision under individual faculty supervision.",
     "coreqs": [],

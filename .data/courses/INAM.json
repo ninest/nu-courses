@@ -16,6 +16,43 @@
   },
   {
     "subject": "INAM",
+    "number": "2963",
+    "title": "Social Media for Marketing",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39676" }],
+    "description": "Through this course students will learn to use social media data for marketing and consumer research through the method of digital ethnography. Students will learn tools for observing, collecting, and analyzing social media data to build brand insights and marketing strategy.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INAM",
+    "number": "5963",
+    "title": "Can Comedy Save Democracy",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202330", "crn": "39665" },
+      { "term": "202330", "crn": "39671" },
+      { "term": "202330", "crn": "40424" },
+      { "term": "202330", "crn": "40425" },
+      { "term": "202330", "crn": "40426" },
+      { "term": "202330", "crn": "40427" },
+      { "term": "202330", "crn": "40428" },
+      { "term": "202330", "crn": "40429" },
+      { "term": "202330", "crn": "40431" },
+      { "term": "202330", "crn": "40432" },
+      { "term": "202330", "crn": "40436" },
+      { "term": "202330", "crn": "40649" }
+    ],
+    "description": "This course will examine the science behind happiness and how behaviors relate to constructing quality of life, happiness and well-being.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INAM",
     "number": "5964",
     "title": "Projects for Professionals",
     "scheduleType": "Seminar",
@@ -37,7 +74,13 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21701" }],
+    "sections": [
+      { "term": "202310", "crn": "21701" },
+      { "term": "202330", "crn": "40295" },
+      { "term": "202330", "crn": "40449" },
+      { "term": "202330", "crn": "40526" },
+      { "term": "202330", "crn": "40561" }
+    ],
     "description": "Offers directed study of a specific topic not normally contained in the regular course offerings but within the area of expertise of a faculty member. May be completed up to eight times.",
     "coreqs": [],
     "prereqs": []
@@ -76,7 +119,11 @@
       { "term": "202330", "crn": "39179" },
       { "term": "202330", "crn": "39180" },
       { "term": "202330", "crn": "39181" },
-      { "term": "202330", "crn": "39182" }
+      { "term": "202330", "crn": "39182" },
+      { "term": "202330", "crn": "39964" },
+      { "term": "202330", "crn": "39965" },
+      { "term": "202330", "crn": "40061" },
+      { "term": "202330", "crn": "40658" }
     ],
     "description": "Addresses timely trends, issues, and events. Offers students an opportunity to learn about and respond to issues of the day in an immersive, interdisciplinary format. Content and instructors vary by offering.",
     "coreqs": [],
@@ -155,7 +202,17 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "21655" },
-      { "term": "202310", "crn": "21729" }
+      { "term": "202310", "crn": "21729" },
+      { "term": "202330", "crn": "40038" },
+      { "term": "202330", "crn": "40147" },
+      { "term": "202330", "crn": "40216" },
+      { "term": "202330", "crn": "40346" },
+      { "term": "202330", "crn": "40394" },
+      { "term": "202330", "crn": "40406" },
+      { "term": "202330", "crn": "40447" },
+      { "term": "202330", "crn": "40509" },
+      { "term": "202330", "crn": "40523" },
+      { "term": "202330", "crn": "40578" }
     ],
     "description": "Offers directed study of a specific topic not normally contained in the regular course offerings but within the area of expertise of a faculty member. May be repeated without limit.",
     "coreqs": [],
@@ -203,6 +260,18 @@
   },
   {
     "subject": "INAM",
+    "number": "7900",
+    "title": "Research Seminar",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "40336" }],
+    "description": "Requires students to present their work in progress for feedback by their peers, faculty, and visitors. The work conducted in this seminar serves as the foundation for establishing the topic and method of study employed for the dissertation.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INAM",
     "number": "7901",
     "title": "Dissertation Writing Seminar",
     "scheduleType": "Seminar",
@@ -216,7 +285,7 @@
   {
     "subject": "INAM",
     "number": "7990",
-    "title": "Thesis",
+    "title": "Thesis-Book Arts",
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": [],

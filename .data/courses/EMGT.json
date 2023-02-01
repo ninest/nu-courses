@@ -19,7 +19,14 @@
       { "term": "202330", "crn": "32433" },
       { "term": "202330", "crn": "31478" },
       { "term": "202330", "crn": "32019" },
-      { "term": "202330", "crn": "30623" }
+      { "term": "202330", "crn": "30623" },
+      { "term": "202360", "crn": "60226" },
+      { "term": "202360", "crn": "60555" },
+      { "term": "202340", "crn": "41383" },
+      { "term": "202340", "crn": "40384" },
+      { "term": "202340", "crn": "41492" },
+      { "term": "202330", "crn": "31774" },
+      { "term": "202330", "crn": "37243" }
     ],
     "description": "Examines the theory and practice of managing projects. Explores human, mathematical, entrepreneurial, managerial, and engineering aspects of project management. The systems development life cycle is the framework for the course. Addresses needs analysis, requirements definition, design, and implementation in the context of project management. Introduces mathematical and software tools for planning, monitoring, and controlling projects.",
     "coreqs": [],
@@ -60,7 +67,12 @@
       { "term": "202330", "crn": "30783" },
       { "term": "202330", "crn": "31997" },
       { "term": "202330", "crn": "32562" },
-      { "term": "202330", "crn": "32254" }
+      { "term": "202330", "crn": "32254" },
+      { "term": "202360", "crn": "60310" },
+      { "term": "202360", "crn": "61405" },
+      { "term": "202340", "crn": "40396" },
+      { "term": "202340", "crn": "41491" },
+      { "term": "202350", "crn": "51227" }
     ],
     "description": "Explores economic modeling and analysis techniques for selecting alternatives from potential solutions to an engineering problem. Considers measures of merit, such as present worth, annual worth, rate of return, and benefit/cost techniques. Examines recent techniques of economic analysis, especially the tools of decision making. Explores decisions under uncertainty. Studies the causes of risk and uncertainty, and examines ways to change and influence the degree of risk and uncertainty through sensitivity analysis, expectation-variance criterion, decision tree analysis, statistical decision techniques, and multiple attribute decision making through group case studies.",
     "coreqs": [],
@@ -81,7 +93,10 @@
       { "term": "202240", "crn": "40096" },
       { "term": "202330", "crn": "38679" },
       { "term": "202330", "crn": "31754" },
-      { "term": "202330", "crn": "30574" }
+      { "term": "202330", "crn": "30574" },
+      { "term": "202340", "crn": "41415" },
+      { "term": "202340", "crn": "40091" },
+      { "term": "202330", "crn": "31655" }
     ],
     "description": "Examines the issues and processes of short-term financing on industrial firms, financial analysis of cases, supplemented by readings to develop familiarity with sources and uses of working capital as well as the goals and problems involved in its management. Also covers the analysis necessary for such long-term financial decisions as issuance of stock or bonds; contracting of leases or loans, and financing of a new enterprise; mergers, capital budgeting, the cost of capital, and the valuation of a business. Examines financial statement ratio analysis along with the use of the capital asset pricing model as it relates to risk and return. Explores leverage and capital structure and international managerial finance in the examination of the overall financial policy decision-making process.",
     "coreqs": [],
@@ -110,21 +125,10 @@
       { "term": "202310", "crn": "18274" },
       { "term": "202310", "crn": "20172" },
       { "term": "202330", "crn": "36779" },
-      { "term": "202330", "crn": "38680" }
+      { "term": "202330", "crn": "38680" },
+      { "term": "202330", "crn": "39867" }
     ],
     "description": "Offers topics of interest to the staff member conducting this class for advanced study. May be repeated without limit.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "EMGT",
-    "number": "7945",
-    "title": "Master's Project",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33959" }],
-    "description": "Offers theoretical or experimental work under individual faculty supervision.",
     "coreqs": [],
     "prereqs": []
   },
@@ -135,7 +139,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33534" }],
+    "sections": [
+      { "term": "202330", "crn": "33534" },
+      { "term": "202350", "crn": "52313" }
+    ],
     "description": "Offers theoretical or experimental work under individual faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []

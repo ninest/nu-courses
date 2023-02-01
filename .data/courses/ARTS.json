@@ -11,7 +11,9 @@
       { "term": "202310", "crn": "18070" },
       { "term": "202240", "crn": "40382" },
       { "term": "202330", "crn": "30215" },
-      { "term": "202330", "crn": "32516" }
+      { "term": "202330", "crn": "32516" },
+      { "term": "202340", "crn": "40363" },
+      { "term": "202330", "crn": "39627" }
     ],
     "description": "Presents an introductory studio course in the fundamental techniques of painting. Formal problems in the study of color, light, space systems, form, and composition establish the foundation for more individual creative expression. Uses critiques and slide lectures as needed.",
     "coreqs": [],

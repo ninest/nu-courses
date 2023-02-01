@@ -29,7 +29,9 @@
       { "term": "202310", "crn": "20506" },
       { "term": "202330", "crn": "31141" },
       { "term": "202330", "crn": "33615" },
-      { "term": "202330", "crn": "37114" }
+      { "term": "202330", "crn": "37114" },
+      { "term": "202360", "crn": "61376" },
+      { "term": "202330", "crn": "39405" }
     ],
     "description": "Surveys the contemporary criminal justice system in the United States. Examines the phases of the criminal justice system beginning with the detection of crimes by the police; the handling of the case through the courts; and, finally, disposition and sentencing. Analyzes issues and characteristics of each of the phases of the criminal justice system (police, courts, and corrections) and identifies its key actors (for example, police, judges, prosecutors, correctional officers). Traces the role of systemic racism and intersecting dimensions of oppression in the historical development of and current policies and practices in the criminal justice system. Also introduces students to the U.S. juvenile justice system.",
     "coreqs": [],
@@ -48,7 +50,8 @@
       { "term": "202240", "crn": "41379" },
       { "term": "202240", "crn": "41938" },
       { "term": "202330", "crn": "35763" },
-      { "term": "202330", "crn": "35764" }
+      { "term": "202330", "crn": "35764" },
+      { "term": "202340", "crn": "41051" }
     ],
     "description": "Focuses on a historical evaluation of the Fourteenth Amendment of the U.S. Constitution and its use in making rights prescribed under the Bill of Rights applicable to the individual states. Examines constitutional requirements in the administration of criminal justice with a particular emphasis on the Fourth, Fifth, and Sixth Amendment requirements and their implications for police practices in the areas of arrests, searches and seizures, right to counsel, and eyewitness identification. Through discussions of recent criminal cases, exposes students to the role that bias plays in wrongful convictions. Expects students to be familiar with basic concepts and legal language as well as the courts' changing interpretations of the law. Briefing of cases is required.",
     "coreqs": [],
@@ -82,7 +85,8 @@
     "nuPath": ["IC", "SI"],
     "sections": [
       { "term": "202310", "crn": "18996" },
-      { "term": "202330", "crn": "34450" }
+      { "term": "202330", "crn": "34450" },
+      { "term": "202360", "crn": "61377" }
     ],
     "description": "Offers an overview of human trafficking in its various forms. Emphasizes understanding the experiences and needs of trafficking victims and the methods of operations of traffickers and their networks across various cultural contexts. The trafficking of persons for sex or labor through force, fraud, or coercion has become an increasingly serious problem in modern society. Federal, state, and local criminal justice authorities have been tasked with the responsibility of identifying and rescuing trafficking victims and prosecuting their perpetrators. Offers students an opportunity to critically evaluate the social and cultural practices that give rise to and support human trafficking in the United States and around the globe.",
     "coreqs": [],
@@ -185,7 +189,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "18998" },
-      { "term": "202330", "crn": "38629" }
+      { "term": "202330", "crn": "38629" },
+      { "term": "202360", "crn": "61378" }
     ],
     "description": "Surveys the trends, nature, patterns, and causes of criminal violence. Blending sociological and psychological perspectives on violent criminal behavior, focuses on serial and mass murder, sexual predators, youth and school violence, violence among intimates and family members, as well as the impact of media and entertainment violence. The effectiveness of various criminal justice responses are also examined including intervention strategies, police tactics, gun control, incarceration, and capital punishment.",
     "coreqs": [],
@@ -216,7 +221,8 @@
       { "term": "202260", "crn": "61229" },
       { "term": "202260", "crn": "61430" },
       { "term": "202330", "crn": "35770" },
-      { "term": "202330", "crn": "38630" }
+      { "term": "202330", "crn": "38630" },
+      { "term": "202340", "crn": "41727" }
     ],
     "description": "Explores the inner lives of offenders including cognitive, emotional, perceptual, and physiological phenomena. Examines the ecological context of crime, individual and social risk factors for psychological attributes related to offending, how these attributes develop, how they interact with the environment to produce crime, and, most importantly, how knowledge of the psychology of crime can assist in efforts to prevent delinquency or to help offenders desist.",
     "coreqs": [],
@@ -264,7 +270,8 @@
     "nuPath": ["AD", "WI"],
     "sections": [
       { "term": "202310", "crn": "14243" },
-      { "term": "202330", "crn": "30222" }
+      { "term": "202330", "crn": "30222" },
+      { "term": "202340", "crn": "41728" }
     ],
     "description": "Introduces the basic concepts involved in conducting research in the areas of the criminal justice system and criminology. Through lectures, group discussions, and readings, familiarizes students with the scientific methods that are necessary for systematic analysis of crime trends, offender behavior, program effectiveness, and public attitudes about crime and justice. Critiques the historical role of racism and other biases in the development and implementation of research questions and methods. Offers students an opportunity to become capable of developing a research question, investigating and critiquing how it has been researched, developing a research design, and administering its implementation.",
     "coreqs": [],
@@ -322,7 +329,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "14697" }],
+    "sections": [
+      { "term": "202310", "crn": "14697" },
+      { "term": "202340", "crn": "41729" }
+    ],
     "description": "Examines the role of criminal courts in the United States, the structure and organization of the court system, and the flow of cases from arrest to conviction. Focuses on the key actors in the courtroom-prosecutors, defense attorneys, judges, and court clerks-and the decision-making processes in charging a person with a crime, setting bail, pleading guilty, going to trial, and sentencing. Addresses prospects for reforming courts.",
     "coreqs": [],
     "prereqs": []
@@ -364,7 +374,11 @@
     "sections": [
       { "term": "202310", "crn": "13385" },
       { "term": "202260", "crn": "60555" },
-      { "term": "202240", "crn": "40574" }
+      { "term": "202240", "crn": "40574" },
+      { "term": "202360", "crn": "61379" },
+      { "term": "202340", "crn": "41730" },
+      { "term": "202350", "crn": "50737" },
+      { "term": "202330", "crn": "40358" }
     ],
     "description": "Offers students an opportunity for internship work. May be repeated without limit.",
     "coreqs": [],
@@ -377,7 +391,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC"],
-    "sections": [{ "term": "202330", "crn": "34863" }],
+    "sections": [
+      { "term": "202330", "crn": "34863" },
+      { "term": "202340", "crn": "41731" }
+    ],
     "description": "Examines how the processes of globalization influence crime and criminal justice around the globe. Analyzes globalization and recent developments in global crime, including global trends in policing and security. Explores the global applicability of dominant criminological theories and transferability of crime control policies. Offers students an opportunity to develop an understanding of international criminal justice, particularly as it pertains to war crimes, crimes against humanity, and the global protection of human rights.",
     "coreqs": [],
     "prereqs": []
@@ -468,7 +485,8 @@
       { "term": "202310", "crn": "16665" },
       { "term": "202310", "crn": "16686" },
       { "term": "202330", "crn": "35776" },
-      { "term": "202330", "crn": "38633" }
+      { "term": "202330", "crn": "38633" },
+      { "term": "202360", "crn": "61380" }
     ],
     "description": "Offers an overview of the current understanding of the causes of crime from an interdisciplinary perspective. Focuses on the historical and contemporary theories of crime and causation. Examines the connections between systemic racism, inequalities, and crime and the role of bias in the development of the field and criminological theories. Emphasizes integrating criminological theory and research, assessing the implications of this knowledge base for policies relating to crime control and prevention. Presents and discusses the most current data regarding the nature and extent of crime in the United States.",
     "coreqs": [],
@@ -516,21 +534,6 @@
   },
   {
     "subject": "CRIM",
-    "number": "6954",
-    "title": "Co-op Work Experience - Half-Time",
-    "scheduleType": "Individual Instruction",
-    "credits": 0,
-    "nuPath": [],
-    "sections": [
-      { "term": "202330", "crn": "37791" },
-      { "term": "202330", "crn": "37792" }
-    ],
-    "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "CRIM",
     "number": "6964",
     "title": "Co-op Work Experience",
     "scheduleType": "Individual Instruction",
@@ -542,10 +545,36 @@
       { "term": "202260", "crn": "61101" },
       { "term": "202330", "crn": "35064" },
       { "term": "202330", "crn": "35066" },
-      { "term": "202330", "crn": "35213" }
+      { "term": "202330", "crn": "35213" },
+      { "term": "202360", "crn": "60799" },
+      { "term": "202340", "crn": "40973" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [{ "subject": "INSH", "number": "6864" }],
+    "prereqs": []
+  },
+  {
+    "subject": "CRIM",
+    "number": "6965",
+    "title": "Co-op Work Experience Abroad",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202340", "crn": "40672" }],
+    "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CRIM",
+    "number": "6984",
+    "title": "Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202340", "crn": "41732" }],
+    "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
+    "coreqs": [],
     "prereqs": []
   },
   {
@@ -586,18 +615,6 @@
   },
   {
     "subject": "CRIM",
-    "number": "7264",
-    "title": "Immigration and Crime",
-    "scheduleType": "Seminar",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38634" }],
-    "description": "Introduces students to the study of crime and deviance with a specific emphasis on immigrant populations and/or Latino communities in the United States. Offers students an opportunity to develop an understanding of the historical relationship between patterns of immigration and patterns of crime, to examine the nature and extent of contemporary immigrant crime and victimization, and to assess the social and health consequences associated with crime among Latino and immigrant populations and within immigrant communities.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "CRIM",
     "number": "7700",
     "title": "Practicum in Teaching",
     "scheduleType": "Individual Instruction",
@@ -605,7 +622,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "16048" },
-      { "term": "202330", "crn": "34924" }
+      { "term": "202330", "crn": "34924" },
+      { "term": "202350", "crn": "50698" }
     ],
     "description": "Provides weekly meetings for graduate student lecturers and faculty advisers to discuss common concerns and issues arising during the course of teaching. With input from the Center for Effective University Teaching, covers topics such as syllabus preparation, examination preparation and grading, classroom protocol, and student interaction. Required for all doctoral students teaching a class for the first time.",
     "coreqs": [],
@@ -659,7 +677,13 @@
       { "term": "202240", "crn": "41910" },
       { "term": "202310", "crn": "21395" },
       { "term": "202310", "crn": "21658" },
-      { "term": "202310", "crn": "21688" }
+      { "term": "202310", "crn": "21688" },
+      { "term": "202350", "crn": "52203" },
+      { "term": "202350", "crn": "52274" },
+      { "term": "202350", "crn": "52322" },
+      { "term": "202330", "crn": "39730" },
+      { "term": "202330", "crn": "39824" },
+      { "term": "202330", "crn": "39854" }
     ],
     "description": "Offers the student the opportunity to bring individual, concentrated attention to a particular topic as arranged and agreed upon in advance by a faculty member and the student. This option is generally recommended when the student desires a more intensive analysis of a particular subject. May be repeated without limit.",
     "coreqs": [],
@@ -689,7 +713,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "18147" },
-      { "term": "202330", "crn": "33934" }
+      { "term": "202330", "crn": "33934" },
+      { "term": "202350", "crn": "51610" }
     ],
     "description": "Offers the student the opportunity to prepare, under faculty supervision, for the PhD qualifying examination.",
     "coreqs": [],
@@ -724,7 +749,18 @@
       { "term": "202330", "crn": "34876" },
       { "term": "202330", "crn": "34877" },
       { "term": "202330", "crn": "34878" },
-      { "term": "202330", "crn": "35019" }
+      { "term": "202330", "crn": "35019" },
+      { "term": "202350", "crn": "50666" },
+      { "term": "202350", "crn": "50669" },
+      { "term": "202350", "crn": "50670" },
+      { "term": "202350", "crn": "50671" },
+      { "term": "202350", "crn": "50672" },
+      { "term": "202350", "crn": "50854" },
+      { "term": "202350", "crn": "50857" },
+      { "term": "202350", "crn": "51096" },
+      { "term": "202350", "crn": "51439" },
+      { "term": "202350", "crn": "51440" },
+      { "term": "202350", "crn": "52163" }
     ],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -759,7 +795,9 @@
       { "term": "202330", "crn": "34880" },
       { "term": "202330", "crn": "34923" },
       { "term": "202330", "crn": "37911" },
-      { "term": "202310", "crn": "21650" }
+      { "term": "202310", "crn": "21650" },
+      { "term": "202350", "crn": "51451" },
+      { "term": "202350", "crn": "51579" }
     ],
     "description": "Provides the student with the opportunity, under close faculty guidance, to conduct an original investigation of a criminal justice issue. Each student identifies a faculty chair and two additional faculty members who comprise the student's Dissertation Committee. While the student conducts research and develops a dissertation, the committee provides support and direction and, ultimately, approves the final research product.",
     "coreqs": [],
@@ -788,7 +826,10 @@
       { "term": "202330", "crn": "34890" },
       { "term": "202330", "crn": "34891" },
       { "term": "202330", "crn": "34893" },
-      { "term": "202330", "crn": "37193" }
+      { "term": "202330", "crn": "37193" },
+      { "term": "202350", "crn": "50780" },
+      { "term": "202350", "crn": "50826" },
+      { "term": "202350", "crn": "51340" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -825,7 +866,13 @@
       { "term": "202330", "crn": "32955" },
       { "term": "202330", "crn": "33936" },
       { "term": "202330", "crn": "37083" },
-      { "term": "202310", "crn": "21629" }
+      { "term": "202310", "crn": "21629" },
+      { "term": "202350", "crn": "51341" },
+      { "term": "202350", "crn": "51363" },
+      { "term": "202350", "crn": "51424" },
+      { "term": "202350", "crn": "51442" },
+      { "term": "202350", "crn": "52151" },
+      { "term": "202330", "crn": "39390" }
     ],
     "description": "Offers continued thesis work conducted under the supervision of a departmental faculty.",
     "coreqs": [],

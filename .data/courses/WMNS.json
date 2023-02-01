@@ -21,7 +21,8 @@
     "sections": [
       { "term": "202310", "crn": "11938" },
       { "term": "202240", "crn": "41017" },
-      { "term": "202330", "crn": "32244" }
+      { "term": "202330", "crn": "32244" },
+      { "term": "202340", "crn": "40845" }
     ],
     "description": "Offers an interdisciplinary course introducing key themes in gender and sexuality studies. Offers students an opportunity to learn core concepts that inform our understanding of how gender and sexuality are socially constructed and are experienced in everyday life. Drawing on women's studies, queer studies, masculinity studies, and allied areas, the course analyzes gender, sexuality, and other dimensions of identity; explores critical issues of gender, sex, and power; and studies gendered/sexed identities in both national and transnational contexts. Topics include the gendered conceptions of love, sexuality, and violence; biological arguments about gender and sexuality; the social construction of sexuality and gender; intersections of gender, race, class, and sexuality; masculinities and femininities; theories of sexual difference; gender and the state; and gender and popular culture.",
     "coreqs": [],
@@ -75,7 +76,8 @@
     "nuPath": ["DD", "ER"],
     "sections": [
       { "term": "202310", "crn": "20088" },
-      { "term": "202240", "crn": "40704" }
+      { "term": "202240", "crn": "40704" },
+      { "term": "202340", "crn": "40628" }
     ],
     "description": "This course is crosslisted with PHIL 1271.",
     "coreqs": [],
@@ -99,7 +101,7 @@
     "title": "Gender and Sexuality: A Cross-Cultural Perspective",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["DD", "SI"],
     "sections": [{ "term": "202330", "crn": "38251" }],
     "description": "This course is crosslisted with ANTH 2302.",
     "coreqs": [],
@@ -137,7 +139,8 @@
       { "term": "202330", "crn": "38757" },
       { "term": "202330", "crn": "32251" },
       { "term": "202330", "crn": "34732" },
-      { "term": "202330", "crn": "34733" }
+      { "term": "202330", "crn": "34733" },
+      { "term": "202330", "crn": "39551" }
     ],
     "description": "This course is crosslised with COMM 2304.",
     "coreqs": [],
@@ -169,6 +172,26 @@
     "description": "This course is crosslisted with HIST 2373.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "WMNS",
+    "number": "2451",
+    "title": "Postcolonial Women Writers",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "IC"],
+    "sections": [{ "term": "202330", "crn": "39674" }],
+    "description": "Examines the literature and cultures of postcolonial nations in the Caribbean, Africa, Asia, and elsewhere through the lens of gender. Designed to familiarize students with the relationships between cultural paradigms associated with gender and transnational experiences of colonialism. Focuses on the variety of artistic strategies employed by writers to communicate the impacts of gender and sexuality on contemporary postcolonial themes such as neocolonialism, nationalism, and diaspora. Writers may include Chimamanda Adichie, Nawal El Saadawi, Marjane Satrapi, Bessie Head, Arundhati Roy, Banana Yoshimoto, Sonia Singh, and Dionne Brand.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
   },
   {
     "subject": "WMNS",

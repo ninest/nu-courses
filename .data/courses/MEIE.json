@@ -10,7 +10,9 @@
       { "term": "202310", "crn": "12636" },
       { "term": "202260", "crn": "60001" },
       { "term": "202240", "crn": "40039" },
-      { "term": "202240", "crn": "40632" }
+      { "term": "202240", "crn": "40632" },
+      { "term": "202340", "crn": "40038" },
+      { "term": "202340", "crn": "40577" }
     ],
     "description": "Offers the first in a two-course sequence that culminates the student's education and experience with the design process. Students form teams and are assigned their design project and faculty adviser. Projects can be industrially, departmentally, or externally sponsored. Students are expected to communicate with their faculty adviser, course coordinator, and sponsor using the Internet, teleconferencing, and other electronic methods. Topics include project management, ethics, cost analysis, Internet and library research methods, and engineering codes and standards. Students prepare written reports and make oral presentations. Students are expected to complete a thorough state-of-the-art report on their problem and a problem statement with specifications and requirements.",
     "coreqs": [],

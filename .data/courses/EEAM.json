@@ -21,7 +21,9 @@
       { "term": "202330", "crn": "31028" },
       { "term": "202330", "crn": "33386" },
       { "term": "202330", "crn": "36840" },
-      { "term": "202330", "crn": "36909" }
+      { "term": "202330", "crn": "36909" },
+      { "term": "202330", "crn": "39388" },
+      { "term": "202330", "crn": "39563" }
     ],
     "description": "Introduces students to the Cooperative Education Program and provides them with an opportunity to develop job-search and career-management skills. Offers students an opportunity to perform assessments of their workplace skills, interests, and values and discuss how they impact personal career choices. Students also have an opportunity to prepare a professional-style résumé, learn proper interviewing techniques, and gain an understanding of the opportunities available to them for co-op. Introduces career paths, choices, professional behaviors, work culture, and career decision making. Familiarizes students with workplace issues relative to their field of study and teaches them to use myNEU in the job-search and referral process. Presents co-op policies, procedures, and expectations of the Department of Cooperative Education and co-op employers.",
     "coreqs": [],
@@ -36,7 +38,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202260", "crn": "61578" },
-      { "term": "202330", "crn": "31081" }
+      { "term": "202330", "crn": "31081" },
+      { "term": "202360", "crn": "61212" },
+      { "term": "202350", "crn": "50200" }
     ],
     "description": "Offers students an opportunity to gain experience in a field they would like to explore and receive internship credit. Students complete a one-hundred-hour internship during the semester, which they obtain prior to the course. Students attend group meetings and individual appointments with the instructor, maintain a weekly journal, and complete an evaluation of their internship experience.",
     "coreqs": [],
@@ -61,7 +65,17 @@
       { "term": "202310", "crn": "21410" },
       { "term": "202310", "crn": "21738" },
       { "term": "202310", "crn": "21787" },
-      { "term": "202310", "crn": "21803" }
+      { "term": "202310", "crn": "21803" },
+      { "term": "202360", "crn": "61184" },
+      { "term": "202360", "crn": "60800" },
+      { "term": "202360", "crn": "61198" },
+      { "term": "202360", "crn": "61241" },
+      { "term": "202340", "crn": "40741" },
+      { "term": "202350", "crn": "51046" },
+      { "term": "202350", "crn": "52291" },
+      { "term": "202350", "crn": "52292" },
+      { "term": "202350", "crn": "52339" },
+      { "term": "202330", "crn": "40258" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
@@ -87,7 +101,20 @@
       { "term": "202240", "crn": "41833" },
       { "term": "202330", "crn": "37257" },
       { "term": "202310", "crn": "21801" },
-      { "term": "202310", "crn": "21326" }
+      { "term": "202310", "crn": "21326" },
+      { "term": "202360", "crn": "61132" },
+      { "term": "202360", "crn": "61133" },
+      { "term": "202360", "crn": "60394" },
+      { "term": "202360", "crn": "60788" },
+      { "term": "202360", "crn": "61134" },
+      { "term": "202340", "crn": "40551" },
+      { "term": "202340", "crn": "41469" },
+      { "term": "202350", "crn": "50813" },
+      { "term": "202350", "crn": "50491" },
+      { "term": "202350", "crn": "50492" },
+      { "term": "202350", "crn": "51447" },
+      { "term": "202350", "crn": "50564" },
+      { "term": "202350", "crn": "52260" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
@@ -102,7 +129,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "15523" },
-      { "term": "202310", "crn": "21257" }
+      { "term": "202310", "crn": "21257" },
+      { "term": "202350", "crn": "50563" }
     ],
     "description": "Provides eligible students with an opportunity for work experience abroad. May be repeated without limit.",
     "coreqs": [],

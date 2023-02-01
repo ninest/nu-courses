@@ -10,7 +10,8 @@
       { "term": "202310", "crn": "11804" },
       { "term": "202310", "crn": "10988" },
       { "term": "202330", "crn": "31463" },
-      { "term": "202330", "crn": "32893" }
+      { "term": "202330", "crn": "32893" },
+      { "term": "202350", "crn": "52100" }
     ],
     "description": "Presents fundamental issues of successfully integrating and implementing energy systems. Exposes students to combined heat and power strategies (cogeneration system), strategies of incorporating renewable with nonrenewable energy sources, thermoeconomics, and carbon sequesteration techniques. Includes energy, exergy, and thermoeconomic cost factors in the presented case studies. Explores the effects of public policy, regulations, and financial operations on selecting energy technology. Students are given case studies to illustrate the complexity of implementing energy systems and are expected to complete a major project involving proposing an energy system. Emphasizes that successful implementation of energy systems requires both a technical and an economic solution. Requires calculus-based physics and chemistry.",
     "coreqs": [],
@@ -38,7 +39,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32892" }],
+    "sections": [
+      { "term": "202330", "crn": "32892" },
+      { "term": "202360", "crn": "60538" }
+    ],
     "description": "Studies fundamental principles in fluid mechanics and thermal systems analysis. Topics include hydrostatics (pressure distribution, forces on submerged surfaces, and buoyancy); Newton's law of viscosity; integral forms of basic laws (conservation of mass, momentum, and energy); pipe flow analysis; concept of boundary layer; and drag coefficient. Presents Navier-Stokes equations as differential forms of conservative properties. Introduces theories of thermal energy transport, including conduction, convection, and thermal radiation; the design of thermal systems; and fundamentals of calculus, such as linear algebra, vector fields, and curvilinear coordinate systems required for introducing concepts of fluid dynamics and heat transfer. Discusses surface and volume integrals, conservative vector fields, and surface flux. Green's, divergence, and Stokes theorems are introduced for vector and scalar fields.",
     "coreqs": [],
     "prereqs": [
@@ -54,7 +58,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33094" }],
+    "sections": [
+      { "term": "202330", "crn": "33094" },
+      { "term": "202330", "crn": "40713" }
+    ],
     "description": "Covers fundamentals of hydropowered development projects and their relevant design parameters. Emphasizes harnessing the hydro-energy potentials of both natural and man-made reservoirs. Reviews hydro- and electromechanical equipment and civil structure. Addresses selection procedure and design parameters of the equipment and structure.",
     "coreqs": [],
     "prereqs": []
@@ -68,9 +75,23 @@
     "nuPath": [],
     "sections": [
       { "term": "202240", "crn": "40709" },
-      { "term": "202240", "crn": "41085" }
+      { "term": "202240", "crn": "41085" },
+      { "term": "202340", "crn": "40633" },
+      { "term": "202340", "crn": "40885" }
     ],
     "description": "Explores the various energy storage technologies, their working, and their practical applications. Focuses on the state-of-the-art review of current and most recent technologies. Offers students an opportunity to explore various innovations in the field of energy storage that can be helpful for fulfilling our current energy storage needs. Covers many different energy storage systems such as mechanical, chemical, electrochemical, thermal, thermochemical, etc.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ENSY",
+    "number": "5300",
+    "title": "Electrochemical Energy Storage",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "32919" }],
+    "description": "Covers the basics of electrode kinetics and thermodynamics as applied to electrochemical energy storage systems, as well as batteries and capacitors for traction and stationary power. Discusses the chemical structure of electrodes and electrolytes and practical battery construction.",
     "coreqs": [],
     "prereqs": []
   },
@@ -109,13 +130,14 @@
   {
     "subject": "ENSY",
     "number": "5600",
-    "title": "Fund of Solar Photovolt Energy",
+    "title": "Fundamentals of Solar Photovoltaic Energy Conversion",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "37307" },
-      { "term": "202330", "crn": "38681" }
+      { "term": "202330", "crn": "38681" },
+      { "term": "202340", "crn": "41367" }
     ],
     "description": "Focuses on the principles and working fundamentals of photovoltaic (PV) energy conversion, while emphasizing currently available solar technologies. Studies the semiconductor processes and advanced characterization theories. Examines design, fabrication, characterization of the PV modules, and different generations of solar cells and their properties. Advanced topics include thin film cells, compound semiconductors multijunction, multiband cells, spectral conversion, and introduces organic devices. Offers insight about the energy consumption crisis, sustainable energy sources, PV system components, and solar markets. Also discusses issues relating to PV systems, economics, and sustainability.",
     "coreqs": [],
@@ -130,7 +152,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "38682" },
-      { "term": "202330", "crn": "38683" }
+      { "term": "202330", "crn": "38683" },
+      { "term": "202350", "crn": "52479" }
     ],
     "description": "Focuses on the technical fundamentals of geologic energy resources. Covers specific applications such as geothermal heat pumps, geothermal power generation, as well as geologic energy storage and carbon sequestration. Offers students an opportunity to use software to perform technical and economic assessments of such systems, reinforcing fundamental concepts. Geologic energy systems are deemed to be a major solution to the grand challenge of meeting rising global energy demand while also decarbonizing the economy.",
     "coreqs": [],
@@ -170,7 +193,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "15155" },
-      { "term": "202310", "crn": "16696" }
+      { "term": "202310", "crn": "16696" },
+      { "term": "202360", "crn": "61386" },
+      { "term": "202360", "crn": "61387" }
     ],
     "description": "Covers fundamentals of artificial intelligence (AI) used in engineering applications for energy systems. Introduces a brief treatment of AI methods. Examines several AI methods, including search algorithms, decision making under uncertainty, graphical methods, and machine learning. Discusses a more thorough treatment for how AI is used for engineering applications in energy systems. Application areas include power generation, electric grid, renewables, and energy storage. Focuses on practical considerations, including economic opportunity, verification and validation, risks, and nontechnical challenges.",
     "coreqs": [],
@@ -199,36 +224,5 @@
     "description": "Continues ENSY 7440, a thesis-scale project in technology commercialization. Offers students an opportunity to demonstrate their development of a marketable technology product or prototype with an energy systems focus and to produce a written documentary report on the project to the satisfaction of an advising committee. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student's technological and engineering depth and fostering the student's leadership development.",
     "coreqs": [],
     "prereqs": [{ "subject": "ENSY", "number": "7440" }]
-  },
-  {
-    "subject": "ENSY",
-    "number": "7945",
-    "title": "Master's Project",
-    "scheduleType": "Individual Instruction",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [
-      { "term": "202330", "crn": "33998" },
-      { "term": "202330", "crn": "35378" },
-      { "term": "202330", "crn": "35545" }
-    ],
-    "description": "Offers theoretical or experimental work under individual faculty supervision.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "ENSY",
-    "number": "7978",
-    "title": "Independent Study",
-    "scheduleType": "Individual Instruction",
-    "credits": 1,
-    "nuPath": [],
-    "sections": [
-      { "term": "202330", "crn": "33363" },
-      { "term": "202330", "crn": "33518" }
-    ],
-    "description": "Offers an individual effort in an area selected by student and advisor and approved by the Department Discipline Committee, resulting in a definitive report. May be repeated without limit.",
-    "coreqs": [],
-    "prereqs": []
   }
 ]

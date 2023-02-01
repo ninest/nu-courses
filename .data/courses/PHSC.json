@@ -225,6 +225,38 @@
   },
   {
     "subject": "PHSC",
+    "number": "3412",
+    "title": "Pharmaceutics 2",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50013" }],
+    "description": "Continues PHSC 3411. Examines the physical and chemical properties of the drug as it relates to pharmaceutical product development. Covers concepts of thermodynamics, colligative properties, ionic equilibriums and buffers, solubility, complexation and protein binding, reaction kinetics, mass transport, interfacial phenomena and dispersion, and rheology.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "PHSC", "number": "3411" }]
+  },
+  {
+    "subject": "PHSC",
+    "number": "3419",
+    "title": "Pharmaceutics Laboratory",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202350", "crn": "50011" },
+      { "term": "202350", "crn": "50010" },
+      { "term": "202350", "crn": "50009" },
+      { "term": "202350", "crn": "50008" },
+      { "term": "202350", "crn": "50374" },
+      { "term": "202350", "crn": "50375" },
+      { "term": "202350", "crn": "50376" }
+    ],
+    "description": "Formulates pharmaceutical dosage forms such as powders, capsules, solutions, suspensions, emulsions, ointments, gels, creams, lotions, and suppositories, and tests the quality of the products in the lab using approved methods of analysis. Also provides an understanding of the physical and chemical properties of drugs as they relate to formulation development through experimental observation of dissolution, stability, and effects of pH and co-solvent on solubility of drugs.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "PHSC", "number": "3411" }]
+  },
+  {
+    "subject": "PHSC",
     "number": "3430",
     "title": "Pharmacokinetics and Biopharmaceutics",
     "scheduleType": "Lecture",
@@ -261,6 +293,30 @@
       "Or",
       "Graduate Admission"
     ]
+  },
+  {
+    "subject": "PHSC",
+    "number": "4502",
+    "title": "Pharmacology/Med Chem 2",
+    "scheduleType": "Lecture",
+    "credits": 5,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50012" }],
+    "description": "Continues PHSC 4501. Covers the mechanisms of action, structure-activity relationships, therapeutic uses, and adverse effects of drugs including cardiovascular agents, hormones, anticancer drugs, antibiotics, and antiinflammatory agents.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "PHSC", "number": "4501" }]
+  },
+  {
+    "subject": "PHSC",
+    "number": "4995",
+    "title": "Practicum",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39692" }],
+    "description": "Offers eligible students an opportunity for practical experience. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "PHSC",
@@ -327,6 +383,18 @@
   },
   {
     "subject": "PHSC",
+    "number": "5300",
+    "title": "Pharmaceutical Biochemistry",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39533" }],
+    "description": "Offers students an opportunity to obtain an understanding of the principles of physiological chemistry. Focuses in-depth on the major topics of physiological chemistry, including general chemistry and biomolecules, peptide synthesis and protein structure, carbohydrates and nucleic acids, thermodynamics and kinetics of molecular interactions, and colloids and micelles. Relates biochemical information to the specific areas of pharmacology, pharmaceutics, and drug discovery/development.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHSC",
     "number": "5305",
     "title": "Professional Development for Pharmaceutical Sciences",
     "scheduleType": "Lecture",
@@ -351,6 +419,18 @@
     "description": "Focuses in-depth on the major cellular physiological mechanisms, including physiology of the cell membrane, ion channels and transport phenomena, energy production, signal transduction, synapses, and physiological processes in the cytosol. Relates physiological information on the specific areas of pharmacology, pharmaceutics, and drug discovery/development. Offers students an opportunity to obtain an understanding of the principles of cellular physiology.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "PHSC",
+    "number": "5360",
+    "title": "Anti-Infectives",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50344" }],
+    "description": "Reviews the structure and physiology of bacteria, fungi, and viruses and surveys significant organisms of medical importance. Introduces specific antibiotic, antifungal, and antiviral agents and classes of agents once a foundation of knowledge of the microorganisms that cause disease is established. Discusses concepts of pharmacology, pharmacokinetics, antimicrobial resistance, pharmacodynamics of antimicrobial agents, and spectra of activity.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "PHSC", "number": "4502" }]
   },
   {
     "subject": "PHSC",
@@ -568,7 +648,10 @@
       { "term": "202310", "crn": "10583" },
       { "term": "202260", "crn": "60163" },
       { "term": "202240", "crn": "40130" },
-      { "term": "202330", "crn": "31508" }
+      { "term": "202330", "crn": "31508" },
+      { "term": "202360", "crn": "60154" },
+      { "term": "202340", "crn": "40123" },
+      { "term": "202350", "crn": "50052" }
     ],
     "description": "Offers an experiential component of the graduate curriculum that fosters professional development through internship in drug discovery, development, and/or regulatory affairs in a pharmaceutical or biotechnology company. Requires students to work in a company for a minimum of twenty hours per week. Offers students an opportunity to engage in pharmaceutical science research or to work in an environment outside the University but under the supervision of a faculty instructor. May be repeated up to three times.",
     "coreqs": [],
@@ -615,9 +698,27 @@
       { "term": "202310", "crn": "21047" },
       { "term": "202330", "crn": "33510" },
       { "term": "202330", "crn": "37143" },
-      { "term": "202310", "crn": "21491" }
+      { "term": "202310", "crn": "21491" },
+      { "term": "202350", "crn": "52212" },
+      { "term": "202350", "crn": "52252" },
+      { "term": "202350", "crn": "52411" },
+      { "term": "202350", "crn": "52412" },
+      { "term": "202330", "crn": "40398" },
+      { "term": "202330", "crn": "39932" }
     ],
     "description": "Offers research/experimental work for master's thesis. Students may register twice. May be repeated once.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHSC",
+    "number": "6996",
+    "title": "Thesis Continuation",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50762" }],
+    "description": "Offers continued registration while student completes master's thesis or other research project to meet the research requirement in pharmaceutical science.",
     "coreqs": [],
     "prereqs": []
   },
@@ -638,6 +739,18 @@
   },
   {
     "subject": "PHSC",
+    "number": "7020",
+    "title": "Sci Writing: Thesis Proposal",
+    "scheduleType": "Seminar",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50628" }],
+    "description": "Presents the principles of writing a proposal based on the NIH R01 grant proposal template used by the department. Participants develop their own proposal in collaboration with their faculty advisor or the immediate project supervisor designated by their faculty advisor (the project principle investigator). Offers students an opportunity to meet with their own project principle investigators to develop content and map out the project aims and experimental design and to produce a revised draft of their thesis proposal. Each student must have initiated MS or PhD thesis research and have some preliminary data; PhD students must have passed their qualifying exam; MS students must petition the graduate committee in writing for permission to enroll.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHSC",
     "number": "8940",
     "title": "Doctoral Training and Research",
     "scheduleType": "Individual Instruction",
@@ -650,6 +763,21 @@
   },
   {
     "subject": "PHSC",
+    "number": "8984",
+    "title": "Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202330", "crn": "39653" },
+      { "term": "202330", "crn": "39945" }
+    ],
+    "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated up to four times.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHSC",
     "number": "8986",
     "title": "Doctoral Full-Time Research",
     "scheduleType": "Individual Instruction",
@@ -657,7 +785,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "10667" },
-      { "term": "202330", "crn": "30749" }
+      { "term": "202330", "crn": "30749" },
+      { "term": "202350", "crn": "50050" }
     ],
     "description": "Expects student to conduct full-time research in an adviser's laboratory. May be repeated without limit.",
     "coreqs": [],
@@ -672,7 +801,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "11031" },
-      { "term": "202330", "crn": "31770" }
+      { "term": "202330", "crn": "31770" },
+      { "term": "202350", "crn": "50541" }
     ],
     "description": "Offers preparation of PhD dissertation proposal and proposal defense before dissertation committee. Requires passing of comprehensive exam. May be repeated without limit.",
     "coreqs": [],
@@ -687,7 +817,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "10725" },
-      { "term": "202330", "crn": "30748" }
+      { "term": "202330", "crn": "30748" },
+      { "term": "202350", "crn": "50049" }
     ],
     "description": "Offers research/experimental work for PhD thesis.",
     "coreqs": [],
@@ -706,7 +837,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "14959" },
-      { "term": "202330", "crn": "34909" }
+      { "term": "202330", "crn": "34909" },
+      { "term": "202350", "crn": "51337" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -721,7 +853,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "10724" },
-      { "term": "202330", "crn": "31765" }
+      { "term": "202330", "crn": "31765" },
+      { "term": "202350", "crn": "50192" }
     ],
     "description": "Offers continuation of PhD dissertation research.",
     "coreqs": [],

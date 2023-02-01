@@ -29,7 +29,8 @@
       { "term": "202240", "crn": "41000" },
       { "term": "202330", "crn": "31737" },
       { "term": "202330", "crn": "33833" },
-      { "term": "202330", "crn": "36906" }
+      { "term": "202330", "crn": "36906" },
+      { "term": "202340", "crn": "40837" }
     ],
     "description": "Analyzes the system of politics and government in the United States. Topics include the philosophical basis, historical origins, design, and functioning of the Constitution as well as formal government institutions. Examines the influence of public opinion, political behavior and participation, parties, and interest groups.",
     "coreqs": [],
@@ -52,7 +53,8 @@
       { "term": "202330", "crn": "33712" },
       { "term": "202330", "crn": "35211" },
       { "term": "202330", "crn": "37200" },
-      { "term": "202330", "crn": "39332" }
+      { "term": "202330", "crn": "39332" },
+      { "term": "202340", "crn": "41072" }
     ],
     "description": "Presents a comparative study of political organization and behavior in a range of countries beyond the United States. Topics includes political culture, political economy, governing institutions, leadership, and political participation.",
     "coreqs": [],
@@ -76,7 +78,8 @@
       { "term": "202330", "crn": "31983" },
       { "term": "202330", "crn": "33834" },
       { "term": "202330", "crn": "34772" },
-      { "term": "202330", "crn": "39294" }
+      { "term": "202330", "crn": "39294" },
+      { "term": "202360", "crn": "60200" }
     ],
     "description": "Introduces a broad study of international relations, encompassing both theoretical perspectives and empirical knowledge. Reviews the role of states as well as international and nongovernmental organizations in dealing with security and war, terrorism, human rights, trade, globalization, and environmental protection, among other important contemporary issues.",
     "coreqs": [],
@@ -117,7 +120,9 @@
       { "term": "202330", "crn": "33843" },
       { "term": "202330", "crn": "34230" },
       { "term": "202330", "crn": "38368" },
-      { "term": "202330", "crn": "39333" }
+      { "term": "202330", "crn": "39333" },
+      { "term": "202360", "crn": "60546" },
+      { "term": "202340", "crn": "40438" }
     ],
     "description": "Examines the philosophers of classical Greece, primarily Socrates, Plato, and Aristotle. These philosophers examined the nature of the material world, of the city, and of the person. The course takes up both the moral and political writings as well as the metaphysical writings. Devotes considerable attention to major works such as Plato's Republic. Some time is given to early Greek philosophers, to the Sophists, and to later developments. Requires written analysis of philosophical texts. PHIL 2325 and POLS 2325 are cross-listed.",
     "coreqs": [],
@@ -236,7 +241,8 @@
       { "term": "202240", "crn": "40665" },
       { "term": "202330", "crn": "32229" },
       { "term": "202330", "crn": "33713" },
-      { "term": "202330", "crn": "39334" }
+      { "term": "202330", "crn": "39334" },
+      { "term": "202340", "crn": "40602" }
     ],
     "description": "Examines the range of research methods and designs used in political science, based on applying the logic of social scientific inquiry. Reviews experimental research, comparative methods, case studies, interviewing, surveys, program evaluation, and other topics relevant to the discipline, as well as questions related to the practice of research ethics. Course activities include intensive writing assignments by students. Requires prior completion of at least two of the following courses: POLS 1150, POLS 1155, and POLS 1160.",
     "coreqs": [],
@@ -263,7 +269,8 @@
       { "term": "202260", "crn": "60543" },
       { "term": "202330", "crn": "31013" },
       { "term": "202330", "crn": "31315" },
-      { "term": "202330", "crn": "39335" }
+      { "term": "202330", "crn": "39335" },
+      { "term": "202360", "crn": "60498" }
     ],
     "description": "Studies methods of quantitative analysis including descriptive statistics, hypothesis testing, cross-tabulation, analysis of variance, bivariate regression and correlation, and multiple regression. Examines how to generate and interpret statistical findings through use of Excel, SPSS, and/or other software programs. Uses examples from political behavior, public policy analysis, public opinion, comparative and international politics, and other areas of political and social-science inquiry to emphasize practical applications.",
     "coreqs": [],
@@ -339,7 +346,8 @@
     "sections": [
       { "term": "202310", "crn": "13025" },
       { "term": "202240", "crn": "40258" },
-      { "term": "202330", "crn": "38369" }
+      { "term": "202330", "crn": "38369" },
+      { "term": "202340", "crn": "40244" }
     ],
     "description": "Analyzes the structure of and dynamics inherent in public policymaking and public administration in the United States. Introduces such concepts as problem definition, agenda development, policy formation, program implementation, and policy evaluation. Covers key issues in public administration including budgeting, personnel, and organizational design.",
     "coreqs": [],
@@ -352,7 +360,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202260", "crn": "60544" }],
+    "sections": [
+      { "term": "202260", "crn": "60544" },
+      { "term": "202340", "crn": "41645" }
+    ],
     "description": "Examines the politics and public policies of the movement for equality and social justice for lesbian, gay, bisexual, and transgender (LGBT) people in a wide range of state and federal policy areas such as same-sex marriage, military service, family adoption rights, and employment discrimination protection. Reviews the political history of LGBT communities and the treatment of LGBT people since the 1920s in the United States and globally. Analyzes the policy debates by considering voting behavior, trends in public opinion toward LGBT issues, and the political incorporation of LGBT people in the United States and around the world. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
     "prereqs": [{ "subject": "POLS", "number": "1150" }]
@@ -383,24 +394,15 @@
   },
   {
     "subject": "POLS",
-    "number": "3323",
-    "title": "Race, Inequality, and the Law",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202330", "crn": "38372" }],
-    "description": "Examines the relationship between and material impact of race, public policies, and the administration of justice in the United States. Explores the ways the American legal system and political institutions have constructed and reinvented racial categories and their legal and social implications over time. Emphasizes the legacy of this legal history by examining how race and racial inequities intersect with contemporary public policy and social justice issues, including educational equity, employment discrimination, policing, and technology.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "POLS",
     "number": "3324",
     "title": "Law and Society",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202260", "crn": "60545" }],
+    "sections": [
+      { "term": "202260", "crn": "60545" },
+      { "term": "202340", "crn": "41646" }
+    ],
     "description": "Examines the sociological understanding of legal phenomena. Places special emphasis on the role of the law in cultural and social conflicts in American society.",
     "coreqs": [],
     "prereqs": []
@@ -476,7 +478,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202260", "crn": "61245" },
-      { "term": "202330", "crn": "32506" }
+      { "term": "202330", "crn": "32506" },
+      { "term": "202360", "crn": "60883" }
     ],
     "description": "Examines some of the core debates over terrorism and counterterrorism. Topics include what constitutes terrorism, why people become terrorists, which targets they attack, whether nuclear terrorism is a serious threat, the extent to which terrorism helps the perpetrators, and their motives. From there, the course introduces the student to viable counterterrorism strategies. Permission of instructor required for students who do not meet prerequisite.",
     "coreqs": [],
@@ -604,7 +607,8 @@
       { "term": "202310", "crn": "16359" },
       { "term": "202330", "crn": "30090" },
       { "term": "202330", "crn": "31501" },
-      { "term": "202330", "crn": "33715" }
+      { "term": "202330", "crn": "33715" },
+      { "term": "202330", "crn": "39906" }
     ],
     "description": "Integrates and assesses the concepts and skills developed by students throughout the political science curriculum, including both experiential and classroom-based components. Requires extensive reflection by students on their various educational experiences as well as research projects involving individual and group presentations. Topics include contemporary political issues and relevant literature in the discipline of political science. Consideration is also given to career options for political science students. Required for political science majors and fulfills part of the experiential education requirement.",
     "coreqs": [],
@@ -636,12 +640,27 @@
   },
   {
     "subject": "POLS",
+    "number": "4937",
+    "title": "Dialogue of Civilizations: Government and Politics Abroad",
+    "scheduleType": "Off-campus instruction",
+    "credits": 4,
+    "nuPath": ["EX", "SI"],
+    "sections": [{ "term": "202360", "crn": "61309" }],
+    "description": "Examines government and politics in another country or region of the world through faculty-led travel to that country or region. Offers students an opportunity to enhance their knowledge of government and politics by attending and participating in various educational activities in the country of study. The course begins in the United States with an introduction to the country or region and concludes with activities that facilitate reflection and learning related to the experience abroad. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "POLS",
     "number": "4942",
     "title": "Internship in Politics",
     "scheduleType": "Off-campus instruction",
     "credits": 4,
     "nuPath": ["EX"],
-    "sections": [{ "term": "202260", "crn": "61172" }],
+    "sections": [
+      { "term": "202260", "crn": "61172" },
+      { "term": "202360", "crn": "61310" }
+    ],
     "description": "Gives students the opportunity to engage in a political or governmental internship under the supervision of a faculty member with departmental approval. Requires prior completion of 64 SH toward degree. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -664,6 +683,18 @@
   },
   {
     "subject": "POLS",
+    "number": "5976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "40636" }],
+    "description": "Offers assigned reading under the supervision of a faculty member. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "POLS",
     "number": "6964",
     "title": "Co-op Work Experience",
     "scheduleType": "Individual Instruction",
@@ -674,7 +705,10 @@
       { "term": "202310", "crn": "18407" },
       { "term": "202260", "crn": "61143" },
       { "term": "202260", "crn": "61514" },
-      { "term": "202260", "crn": "61521" }
+      { "term": "202260", "crn": "61521" },
+      { "term": "202360", "crn": "60822" },
+      { "term": "202360", "crn": "61148" },
+      { "term": "202360", "crn": "61155" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [{ "subject": "INSH", "number": "6864" }],
@@ -713,6 +747,18 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19560" }],
     "description": "Focuses on major research approaches and corresponding academic literature in international relations.  Examines major fields of study, including international security, international regimes, international organizations, globalization, and international political economy.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "POLS",
+    "number": "7257",
+    "title": "The U.S. Judicial Process",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39423" }],
+    "description": "Studies the judicial process in the United States, emphasizing federal courts. Focuses on theories and empirical research regarding judicial decision making, how and why judges decide what they do, and the resulting political effects.",
     "coreqs": [],
     "prereqs": []
   },
@@ -770,24 +816,21 @@
   },
   {
     "subject": "POLS",
-    "number": "7357",
-    "title": "International Political Economy",
-    "scheduleType": "Seminar",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38377" }],
-    "description": "Addresses international political economy and how we can understand the phenomenon of globalization. Offers a graduate-level introduction to the interaction between international politics and international economics in both industrial countries and developing countries. Introduces several theoretical approaches to international political economy and analyzes some of the classic issue areas of international trade relations, such as the international monetary and financial system; foreign direct investment and multinational corporations, debt, and development; the role of international political, economic, and financial institutions; and globalization.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "POLS",
     "number": "7976",
     "title": "Directed Study",
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "41741" }],
+    "sections": [
+      { "term": "202240", "crn": "41741" },
+      { "term": "202330", "crn": "40363" },
+      { "term": "202330", "crn": "40437" },
+      { "term": "202330", "crn": "40466" },
+      { "term": "202330", "crn": "40692" },
+      { "term": "202330", "crn": "40638" },
+      { "term": "202330", "crn": "40707" },
+      { "term": "202330", "crn": "40770" }
+    ],
     "description": "Offers assigned reading under the supervision of a faculty member. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -814,7 +857,11 @@
     "scheduleType": "Off-campus instruction",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202260", "crn": "61058" }],
+    "sections": [
+      { "term": "202260", "crn": "61058" },
+      { "term": "202360", "crn": "60765" },
+      { "term": "202350", "crn": "50605" }
+    ],
     "description": "Offers work experience (at least fifteen hours per week) that includes planning, research, policy development, and other administrative aspects in a government or nonprofit organization. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -828,9 +875,22 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "13026" },
-      { "term": "202330", "crn": "34737" }
+      { "term": "202330", "crn": "34737" },
+      { "term": "202350", "crn": "50859" }
     ],
     "description": "Offers the student the opportunity to prepare for the PhD qualifying exam under faculty supervision.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "POLS",
+    "number": "8986",
+    "title": "Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50847" }],
+    "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -873,7 +933,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "14963" },
-      { "term": "202330", "crn": "34738" }
+      { "term": "202330", "crn": "34738" },
+      { "term": "202350", "crn": "51296" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],

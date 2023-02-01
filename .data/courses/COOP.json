@@ -6,7 +6,11 @@
     "scheduleType": "Off-campus instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202260", "crn": "61600" }],
+    "sections": [
+      { "term": "202260", "crn": "61600" },
+      { "term": "202360", "crn": "61233" },
+      { "term": "202350", "crn": "52351" }
+    ],
     "description": "Provides students an opportunity for work experience. Requires sophomore standing or above. May be repeated up to five times.",
     "coreqs": [],
     "prereqs": []

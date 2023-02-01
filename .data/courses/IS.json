@@ -88,7 +88,8 @@
     "sections": [
       { "term": "202310", "crn": "10079" },
       { "term": "202310", "crn": "19209" },
-      { "term": "202330", "crn": "36029" }
+      { "term": "202330", "crn": "36029" },
+      { "term": "202330", "crn": "39939" }
     ],
     "description": "Studies the principles of human-computer interaction and the practice of user interface design. Discusses the major human information processing subsystems (perception, memory, attention, and problem solving), and how the properties of these systems influence the design of interactive systems. Reviews guidelines and specification languages for designing user interfaces, with an emphasis on tool kits of standard graphical user interface (GUI) objects. Introduces usability metrics and evaluation methods. Additional topics may include World Wide Web design principles and tools; wireless/mobile device interfaces; computer-supported cooperative work; information visualization; and virtual reality. Course work includes designing user interfaces, creating working prototypes using a GUI tool kit, and evaluating existing interfaces using the methods studied.",
     "coreqs": [],
@@ -105,7 +106,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19210" }],
+    "sections": [
+      { "term": "202310", "crn": "19210" },
+      { "term": "202330", "crn": "39522" }
+    ],
     "description": "Evaluates and conducts empirical research, focusing on students’ use of empirical methods to study the effectiveness and organizational/social impact of information systems and technologies. Empirical research involves a number of broad steps including identifying problems; developing specific hypotheses; collecting data relevant to the hypotheses; analyzing the data; and considering alternative explanations for the empirical findings. Some of the most commonly used research techniques, such as surveys, experiments, and ethnographic methods, are discussed. Additional topics include the ethics of data collection and experimentation in behavioral science. Although the course focuses primarily on the relationship between formulating research questions and implementing the appropriate methods to answer them, students can expect to apply the statistical techniques learned in the course prerequisites.",
     "coreqs": [],
     "prereqs": [

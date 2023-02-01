@@ -18,7 +18,8 @@
       { "term": "202330", "crn": "31006" },
       { "term": "202330", "crn": "32623" },
       { "term": "202330", "crn": "33844" },
-      { "term": "202330", "crn": "35895" }
+      { "term": "202330", "crn": "35895" },
+      { "term": "202330", "crn": "35896" }
     ],
     "description": "Provides an introduction to the University, college, and health professions to enhance students' understanding of self and the decisions they make academically and socially as members of the University's diverse, multicultural community. Group activities and individual assignments along with active participation in a learning community help students adjust to life on an urban campus, develop a better understanding of the learning process, acquire essential academic skills, and make connections with the faculty and students in the college.",
     "coreqs": [],
@@ -39,7 +40,9 @@
       { "term": "202240", "crn": "40956" },
       { "term": "202330", "crn": "33286" },
       { "term": "202330", "crn": "35898" },
-      { "term": "202330", "crn": "39108" }
+      { "term": "202330", "crn": "39108" },
+      { "term": "202340", "crn": "40808" },
+      { "term": "202330", "crn": "31517" }
     ],
     "description": "Examines the fundamental role of nutrition in promoting health and how lifestyle and the socioecological model work together. Covers the physiological functions of energy-providing nutrients in the body and interrelationships, including the key functions of macronutrients and micronutrients. Introduces the use of two different diet assessment tools to assist individuals in selecting food for health promotion. Offers students an opportunity to gain a deeper understanding of what it means to make healthy choices and the role nutrients have on a person’s wellness.",
     "coreqs": [],
@@ -122,7 +125,8 @@
     "sections": [
       { "term": "202310", "crn": "19412" },
       { "term": "202310", "crn": "19413" },
-      { "term": "202330", "crn": "33799" }
+      { "term": "202330", "crn": "33799" },
+      { "term": "202340", "crn": "41681" }
     ],
     "description": "Designed for health professionals to increase their knowledge and skills in advanced nutrition in health and disease. Builds on a foundation of nutrition and introduces nutrients and their physiological impacts, including the nutritional guidelines for good health and disease prevention. Through case studies, offers students an opportunity to interpret nutrition in the prevention and treatment of diet-related health problems, such as obesity, diabetes, and cardiovascular disease.",
     "coreqs": [],
@@ -163,7 +167,10 @@
     "scheduleType": "Lecture",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "12443" }],
+    "sections": [
+      { "term": "202310", "crn": "12443" },
+      { "term": "202340", "crn": "41848" }
+    ],
     "description": "Offers students an opportunity to integrate their coursework, knowledge, and experiences into a proposal for a spring semester capstone experience. Students propose their health science culminating experience from options in the form of developing and implementing their own project with faculty mentor support or participating in a faculty-led seminar.",
     "coreqs": [],
     "prereqs": []
@@ -206,56 +213,13 @@
       { "term": "202330", "crn": "34292" },
       { "term": "202330", "crn": "34293" },
       { "term": "202330", "crn": "35902" },
-      { "term": "202330", "crn": "35903" }
+      { "term": "202330", "crn": "35903" },
+      { "term": "202330", "crn": "35901" },
+      { "term": "202330", "crn": "35904" }
     ],
     "description": "Offers intensive study on the public health approach to a specific, relevant issue. Through a combination of close readings of empirical literature and interactive class discussion, students critique public health approaches and policies regarding the topic of the seminar. Requires students to complete an in-depth study, write a paper, and present their findings on a topic of interest within the larger discussion.",
     "coreqs": [],
     "prereqs": [{ "subject": "HSCI", "number": "4700" }]
-  },
-  {
-    "subject": "HSCI",
-    "number": "5130",
-    "title": "Introduction to Real-World Evidence",
-    "scheduleType": "Lecture",
-    "credits": 2,
-    "nuPath": [],
-    "sections": [
-      { "term": "202310", "crn": "19416" },
-      { "term": "202330", "crn": "38427" }
-    ],
-    "description": "Introduces students to the generation of real-world evidence (RWE) from real-world data (RWD) collected through different forms of observational health data. Examines how RWE is used to inform regulators and other stakeholder groups in life sciences and healthcare. Emphasizes the role of team science in executing an RWE analysis.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "HSCI",
-    "number": "5140",
-    "title": "Foundations of Data Models",
-    "scheduleType": "Lecture",
-    "credits": 2,
-    "nuPath": [],
-    "sections": [
-      { "term": "202310", "crn": "19418" },
-      { "term": "202330", "crn": "38428" }
-    ],
-    "description": "Introduces students to design principles behind data modeling in life sciences and healthcare. Examines and compares approaches to common data models across different research communities. Explores the rationale for popular data models through the use of industry case studies.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "HSCI",
-    "number": "5150",
-    "title": "Methods for Observational Research 1",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "nuPath": [],
-    "sections": [
-      { "term": "202310", "crn": "19420" },
-      { "term": "202330", "crn": "38429" }
-    ],
-    "description": "Surveys approaches to observational research across pharmacoepidemiology, emphasizing approaches used by the Observational Health Data Sciences and Informatics community.",
-    "coreqs": [],
-    "prereqs": []
   },
   {
     "subject": "HSCI",

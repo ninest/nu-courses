@@ -107,7 +107,12 @@
       { "term": "202330", "crn": "33202" },
       { "term": "202330", "crn": "33206" },
       { "term": "202330", "crn": "38574" },
-      { "term": "202310", "crn": "21217" }
+      { "term": "202310", "crn": "21217" },
+      { "term": "202330", "crn": "33199" },
+      { "term": "202330", "crn": "33200" },
+      { "term": "202330", "crn": "33201" },
+      { "term": "202330", "crn": "33203" },
+      { "term": "202330", "crn": "36889" }
     ],
     "description": "Introduces the fundamental techniques for machine learning and data science engineering. Discusses a variety of machine learning algorithms, along with examples of their implementation, evaluation, and best practices. Lays the foundation of how learning models are derived from complex data pipelines, both algorithmically and practically. Topics include supervised learning (parametric/nonparametric algorithms, support vector machines, kernels, neural networks, deep learning) and unsupervised learning (clustering, dimensionality reduction, recommender systems). Based on numerous real-world case studies.",
     "coreqs": [],
@@ -118,6 +123,18 @@
       "Or",
       { "subject": "CSYE", "number": "6200" }
     ]
+  },
+  {
+    "subject": "INFO",
+    "number": "6106",
+    "title": "Neural Modeling Methods and Tools",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39400" }],
+    "description": "Uses a graph theoretic approach to build models representing dependencies of model components instead of using analytical functions in statistics to interpolate observations, build data models, and estimate model parameters. The interpolation is still parametric, but the parameters are graph related and do not involve analytic functions. Discusses how to explain neural models and not fear them; when it is appropriate to use neural models; and how to interact with machines that use neural models in the same way one would trust a friend, so that trust between humans and machines is enhanced rather than diminished. These so-called neural models mirror in some regard how biological brains build models to make sense of the world and do predictions.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "INFO", "number": "6105" }]
   },
   {
     "subject": "INFO",
@@ -137,7 +154,11 @@
       { "term": "202330", "crn": "35555" },
       { "term": "202330", "crn": "38575" },
       { "term": "202310", "crn": "21007" },
-      { "term": "202310", "crn": "21475" }
+      { "term": "202310", "crn": "21475" },
+      { "term": "202330", "crn": "32314" },
+      { "term": "202330", "crn": "32924" },
+      { "term": "202330", "crn": "36959" },
+      { "term": "202330", "crn": "38576" }
     ],
     "description": "Exposes students to both conceptual and technical aspects of Web design. User experience design is the discipline of creating a useful and usable website or application that is easily navigated and meets the needs of both the site owner and its users. Covers Web standards and best practices. Studies the fundamental concepts, techniques, practices, work flows, and tools associated with the practice of user-experience design in Web interfaces. Offers students an opportunity to learn the core principles of information architecture, usability, marketing hierarchy, and user experience for contextual, value-driven websites. Additional areas of focus include typography, color theory and composition, responsive design, CSS3 concepts, basic scripting, and JavaScript libraries to create functional, effective, and visually appealing websites.",
     "coreqs": [],
@@ -163,7 +184,16 @@
       { "term": "202310", "crn": "13783" },
       { "term": "202310", "crn": "14206" },
       { "term": "202330", "crn": "32966" },
-      { "term": "202330", "crn": "39072" }
+      { "term": "202330", "crn": "39072" },
+      { "term": "202330", "crn": "31672" },
+      { "term": "202330", "crn": "32844" },
+      { "term": "202330", "crn": "39568" },
+      { "term": "202330", "crn": "32845" },
+      { "term": "202330", "crn": "33208" },
+      { "term": "202330", "crn": "37069" },
+      { "term": "202330", "crn": "39487" },
+      { "term": "202330", "crn": "39519" },
+      { "term": "202330", "crn": "39909" }
     ],
     "description": "Presents data structures and related algorithms, beginning with a brief review of dynamic memory allocation. Discusses the fundamental data structures in detail, including the abstract representation, supporting algorithms, and implementation methods. Focuses on understanding the application of the abstract data structure and the circumstances that affect implementation decisions. Covers lists, stacks, queues, trees, hash tables, and graphs. Covers recursion and searching and sorting algorithms in detail. Emphasizes data abstraction and encapsulation in code design. Explores external storage structures, time permitting.",
     "coreqs": [],
@@ -206,7 +236,8 @@
       { "term": "202330", "crn": "38578" },
       { "term": "202330", "crn": "38579" },
       { "term": "202310", "crn": "21060" },
-      { "term": "202310", "crn": "21306" }
+      { "term": "202310", "crn": "21306" },
+      { "term": "202330", "crn": "38577" }
     ],
     "description": "Provides an overview of the most popular information systems needs' assessment methodologies including portfolio analysis, stage assessment, business systems planning, and the Alloway survey technique. Topics include utilities IS strategic plan prioritization techniques of business goal alignment, architectural compatibility, and cost/benefit and risk analysis to demonstrate how businesses match needs to budgetary constraints. Describes and evaluates options for the placement of the IS function within the organization and a variety of methods to manage the function. Introduces a generic application development and project planning methodology used as a model to facilitate the development of a four-stage project plan for a prototype project. Uses the Project Management Institute's PMBOK and Harvard Business School case studies extensively.",
     "coreqs": [],
@@ -272,7 +303,10 @@
     "sections": [
       { "term": "202310", "crn": "13836" },
       { "term": "202310", "crn": "14037" },
-      { "term": "202330", "crn": "33212" }
+      { "term": "202330", "crn": "33212" },
+      { "term": "202330", "crn": "33394" },
+      { "term": "202330", "crn": "38580" },
+      { "term": "202330", "crn": "38581" }
     ],
     "description": "Examines techniques for the management and evolution of software systems. Topics include managing software as an asset; life cycle development and rapid development technologies; maintainability; quality assurance of software systems including testing strategies and problem analysis; software risk analysis; analysis of software project failures; process models, such as CMM and ISO 9001; configuration management; and the impact of new development technologies on software management.",
     "coreqs": [],
@@ -372,7 +406,8 @@
       { "term": "202240", "crn": "41784" },
       { "term": "202240", "crn": "41816" },
       { "term": "202240", "crn": "41817" },
-      { "term": "202330", "crn": "34050" }
+      { "term": "202330", "crn": "34050" },
+      { "term": "202330", "crn": "39399" }
     ],
     "description": "Offers students an opportunity to achieve a high level of practical understanding of software development life cycle (SDLC) with emphasis on agile and adaptive incremental methodologies. Examines techniques for the management and evolution of software systems, including project planning from requirements gathering, analysis, estimation, and releasing using a hands-on approach to implement agile methodologies. Also covers maintainability, including software risk analysis, project retrospectives, and process models such as capability maturity model, configuration management, and their practical implementation.",
     "coreqs": [],
@@ -474,7 +509,10 @@
       { "term": "202330", "crn": "32925" },
       { "term": "202330", "crn": "33442" },
       { "term": "202330", "crn": "33700" },
-      { "term": "202330", "crn": "33877" }
+      { "term": "202330", "crn": "33877" },
+      { "term": "202330", "crn": "39512" },
+      { "term": "202330", "crn": "39629" },
+      { "term": "202330", "crn": "39604" }
     ],
     "description": "Covers state-of-the-art material of current interest. May be repeated without limit.",
     "coreqs": [],
@@ -502,7 +540,11 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "13352" }],
+    "sections": [
+      { "term": "202310", "crn": "13352" },
+      { "term": "202330", "crn": "36524" },
+      { "term": "202330", "crn": "39605" }
+    ],
     "description": "Focuses on communication strategies and tactics for engineers at the interpersonal, team, and organizational level. Course topics include forms (oral and written), styles, and differences in communication; coaching and giving feedback to staff; and building teams, managing conflict, and special topics in organizational communication. The primary goal is to strengthen the students' social and emotional intelligence skills to help them progress along their engineering career path. Combines academic content with practical skill-building activities.",
     "coreqs": [],
     "prereqs": []
@@ -633,24 +675,10 @@
     "sections": [
       { "term": "202310", "crn": "10582" },
       { "term": "202240", "crn": "41993" },
-      { "term": "202330", "crn": "33001" }
+      { "term": "202330", "crn": "33001" },
+      { "term": "202330", "crn": "40532" }
     ],
     "description": "Offers work performed under individual faculty supervision. May be repeated without limit.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "INFO",
-    "number": "7990",
-    "title": "Thesis",
-    "scheduleType": "Individual Instruction",
-    "credits": 1,
-    "nuPath": [],
-    "sections": [
-      { "term": "202310", "crn": "19103" },
-      { "term": "202330", "crn": "38586" }
-    ],
-    "description": "Offers theoretical and experimental work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
     "prereqs": []
   }

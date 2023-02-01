@@ -37,7 +37,8 @@
       { "term": "202330", "crn": "38401" },
       { "term": "202330", "crn": "38402" },
       { "term": "202330", "crn": "38403" },
-      { "term": "202330", "crn": "39260" }
+      { "term": "202330", "crn": "39260" },
+      { "term": "202330", "crn": "39740" }
     ],
     "description": "Accompanies ARTH 1001. Fosters in-depth discussion, allows for hands-on workshops and facilitates visits to area museums and cultural organizations. Emphasizes the ways digital image technologies are socially constructed and are based on earlier paradigms of classification and differentiation. Seminar meetings demonstrate how to critically read a range of images (e.g. texts, films, videogames, memes, artworks) by paying attention to the ways meaning is often shaped by identarian formations such as race, gender, sexual orientation, class, and ability. Investigates how diverse perspectives enhance the ability to create, while introducing students to creative professionals who actively use visual intelligence in their dynamic careers.",
     "coreqs": [{ "subject": "ARTH", "number": "1001" }],
@@ -143,7 +144,8 @@
       { "term": "202260", "crn": "61249" },
       { "term": "202330", "crn": "31748" },
       { "term": "202330", "crn": "34269" },
-      { "term": "202330", "crn": "36078" }
+      { "term": "202330", "crn": "36078" },
+      { "term": "202360", "crn": "60886" }
     ],
     "description": "Follows a chronological survey of graphic design from 4000 BC to the beginning of the 21st century, emphasizing work from 1880 to 2000, and the relationship of that work to other visual arts and design disciplines. Demonstrates how graphic design has responded to (and affected) international, social, political, and technological developments since 1450. Traces developments in the areas of typography and publication, persuasion, identity, information, and theory.",
     "coreqs": [],
@@ -160,7 +162,9 @@
       { "term": "202310", "crn": "19253" },
       { "term": "202310", "crn": "19927" },
       { "term": "202310", "crn": "20721" },
-      { "term": "202240", "crn": "41719" }
+      { "term": "202240", "crn": "41719" },
+      { "term": "202330", "crn": "36079" },
+      { "term": "202330", "crn": "38405" }
     ],
     "description": "In the Wake: Aesthetic Cartographies of the Black Atlantic - America: Students will analyze the complexities of topics concerning Blackness and Black life rendered in Western visual culture. By engaging with readings and lectures, the class will discuss how aesthetics from the African diaspora is multifaceted and influential to producing Western media and popular culture.  Approved course substitute for ARTH 2210 or 2211.",
     "coreqs": [],

@@ -21,7 +21,8 @@
     "sections": [
       { "term": "202310", "crn": "12362" },
       { "term": "202240", "crn": "40393" },
-      { "term": "202330", "crn": "32763" }
+      { "term": "202330", "crn": "32763" },
+      { "term": "202340", "crn": "40373" }
     ],
     "description": "Focuses on the ways in which cinematic language and representations have developed since the late-nineteenth century, how representations of human difference vary in distinct cultural contexts, and how particular filmmakers and historical/national movements have challenged certain representations and ideologies. This range of representations and discourses includes blackface performance and other racist tropes, ethnographic studies of indigenous people as “exotic” curiosities, films noir that demonize independent women, postwar Italian neorealism's revolutionary focus on the plight of the poor, films by and about marginalized ethnicities in the U.S. and the global south, banned films that highlight the condition of women in post-revolution Iran, and contemporary Hollywood's treatment of homosexuality and masculinity.",
     "coreqs": [],
@@ -59,7 +60,8 @@
       { "term": "202260", "crn": "60549" },
       { "term": "202330", "crn": "31868" },
       { "term": "202330", "crn": "32123" },
-      { "term": "202330", "crn": "32180" }
+      { "term": "202330", "crn": "32180" },
+      { "term": "202360", "crn": "60503" }
     ],
     "description": "Offers an introduction to production that blends theory and practice of film/video production through an examination of exemplary works, aesthetic strategies, production techniques, and the dynamic relationship between media makers, subjects, viewers, and technology. Offers students an opportunity to gain fundamental moving-image fluency using widely accessible media production tools including camcorders, mobile phones, and digital single-lens-reflex cameras.",
     "coreqs": [],
@@ -136,7 +138,8 @@
     "nuPath": ["IC"],
     "sections": [
       { "term": "202310", "crn": "19592" },
-      { "term": "202330", "crn": "32764" }
+      { "term": "202330", "crn": "32764" },
+      { "term": "202340", "crn": "41640" }
     ],
     "description": "Introduces students to critical television studies. Topics include visual language (use of image, music, graphics, editing, and sound); narrative structure; and genre. Specific critical approaches include semiotics, narrative and genre analysis, feminist analysis, and ideological analysis of representation.",
     "coreqs": [],
@@ -149,7 +152,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202310", "crn": "19593" }],
+    "sections": [
+      { "term": "202310", "crn": "19593" },
+      { "term": "202360", "crn": "61305" }
+    ],
     "description": "Covers global dynamics of media and media systems. Specifically seeks to introduce students to the nuances of globalization and cultural performance through media structures. Introduces a wide variety of topics that fall in the intersection between globalization and media and the ways in which they operate socially and culturally. The course focuses broadly on understanding—in both theoretical and practical ways—how and why global media function as they do and how they contribute to knowledge formation and social justice within various cultural contexts.",
     "coreqs": [],
     "prereqs": []
@@ -176,7 +182,8 @@
     "sections": [
       { "term": "202310", "crn": "17339" },
       { "term": "202240", "crn": "40535" },
-      { "term": "202330", "crn": "34353" }
+      { "term": "202330", "crn": "34353" },
+      { "term": "202340", "crn": "40497" }
     ],
     "description": "Surveys the rise of American film from the late nineteenth century to the present. Examines key films, directors, major themes, and film forms and techniques. Includes lectures, screenings, and discussions. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
@@ -216,7 +223,8 @@
     "sections": [
       { "term": "202310", "crn": "14046" },
       { "term": "202330", "crn": "36090" },
-      { "term": "202330", "crn": "36091" }
+      { "term": "202330", "crn": "36091" },
+      { "term": "202340", "crn": "41641" }
     ],
     "description": "Approaches the unique narrative form of the dramatic short film, with the goal of having students produce a short film screenplay (under twenty minutes in length) which could eventually be shot. Takes students through the storytelling process, from conception to visualization, dramatization, characterization, and dialogue, ending in a project which should reflect the student’s own personal voice and unique vision. Offers students an opportunity to work on many writing exercises involving free association, visualizations, and character explorations, and to evaluate and critique each other’s work in a workshop setting.",
     "coreqs": [],
@@ -261,7 +269,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202310", "crn": "14646" }],
+    "sections": [
+      { "term": "202310", "crn": "14646" },
+      { "term": "202340", "crn": "41642" }
+    ],
     "description": "Investigates social and cultural dynamics emerging parallel to the spread of digital technologies, from the 1960s to the present. Analyzes the impact of technologies (such as computers, mobile phones, and video games) on media products and practices (such as remix culture, social media, and surveillance). Offers students an opportunity to develop the skills that are necessary to critically examine and write about digital media content and the technologies necessary for their consumption.",
     "coreqs": [],
     "prereqs": [

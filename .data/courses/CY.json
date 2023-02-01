@@ -18,7 +18,10 @@
       { "term": "202330", "crn": "33655" },
       { "term": "202330", "crn": "33656" },
       { "term": "202330", "crn": "34354" },
-      { "term": "202330", "crn": "39305" }
+      { "term": "202330", "crn": "39305" },
+      { "term": "202360", "crn": "61365" },
+      { "term": "202340", "crn": "41357" },
+      { "term": "202340", "crn": "41718" }
     ],
     "description": "Presents an overview of basic principles and security concepts related to information systems, including workstation security, system security, and communications security. Discusses legal, ethical, and human factors and professional issues associated with cybersecurity, including the ability to differentiate between laws and ethics. Offers students an opportunity to use a substantial variety of existing software tools to probe both computer systems and networks in order to learn how these systems function, how data moves within these systems, and how these systems might be vulnerable. Covers security methods, controls, procedures, economics of cybercrime, criminal procedure, and forensics.",
     "coreqs": [],
@@ -59,6 +62,18 @@
       "Or",
       { "subject": "CS", "number": "5700" }
     ]
+  },
+  {
+    "subject": "CY",
+    "number": "4760",
+    "title": "Security of Wireless and Mobile Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39392" }],
+    "description": "Presents the foundations to understand security and privacy threats as well as defenses in wireless and mobile systems, especially in the era of softwarization of wireless networks. Studies the proliferation of wireless systems within a wide variety of contexts such as telephony, navigation, sensor networks, and critical infrastructures. Examines the security challenges inherent in the broadcast nature of wireless technologies and the increased availability of software-defined radios. Offers students an opportunity to obtain experience in describing and classifying security goals and attacks in modern wireless networks, to identify the unique security implications of these effects, and how to mitigate security issues associated with them.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "CY",
@@ -260,7 +275,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "14532" },
-      { "term": "202330", "crn": "39233" }
+      { "term": "202330", "crn": "39233" },
+      { "term": "202350", "crn": "51700" }
     ],
     "description": "Seeks to help students to become aware of systems security issues and to gain a basic understanding of security. Presents the principal software and applications used in the Internet, discussing in detail the related vulnerabilities and how they are exploited. Also discusses programming vulnerabilities and how they are exploited. Examines protection and detection techniques. Includes a number of practical lab assignments as well as a discussion of current research in the field.",
     "coreqs": [],
@@ -280,12 +296,30 @@
   },
   {
     "subject": "CY",
+    "number": "5978",
+    "title": "Independent Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202330", "crn": "40042" },
+      { "term": "202330", "crn": "40653" }
+    ],
+    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CY",
     "number": "5984",
     "title": "Research",
     "scheduleType": "Individual Instruction",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202260", "crn": "61648" }],
+    "sections": [
+      { "term": "202260", "crn": "61648" },
+      { "term": "202330", "crn": "40691" }
+    ],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -302,6 +336,18 @@
       { "term": "202330", "crn": "39234" }
     ],
     "description": "Studies the theory and practice of computer security, focusing on the security aspects of multiuser systems and the Internet. Introduces cryptographic tools, such as encryption, key exchange, hashing, and digital signatures in terms of their applicability to maintaining network security. Discusses security protocols for mobile networks. Topics include firewalls, viruses, Trojan horses, password security, biometrics, VPNs, and Internet protocols such as SSL, IPSec, PGP, SNMP, and others.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CY",
+    "number": "6760",
+    "title": "Wireless and Mobile Systems Security",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39393" }],
+    "description": "Focuses on security and privacy of mobile and wireless systems. Provides the foundations to understand the security and privacy threats and defenses in wireless and mobile systems, especially in an era where wireless network functions are implemented in software instead of traditional hardware-based solutions. Covers topics on availability/integrity issues in wireless networks, Wi-Fi and cellular network security, broadcast authentication techniques, jamming and antijamming techniques, etc. Emphasizes hands-on practical exercises to strengthen the understanding of concepts covered during the lectures. Reviews the state of the art in wireless security research through readings. Offers students an opportunity to execute a semester-long project in the broad area of wireless security.",
     "coreqs": [],
     "prereqs": []
   },
@@ -357,7 +403,11 @@
       { "term": "202330", "crn": "35175" },
       { "term": "202330", "crn": "35183" },
       { "term": "202330", "crn": "35441" },
-      { "term": "202310", "crn": "21265" }
+      { "term": "202310", "crn": "21265" },
+      { "term": "202330", "crn": "40308" },
+      { "term": "202330", "crn": "40349" },
+      { "term": "202330", "crn": "40540" },
+      { "term": "202330", "crn": "40543" }
     ],
     "description": "Offers selected readings under the supervision of a faculty member. May be repeated without limit.",
     "coreqs": [],
@@ -391,7 +441,9 @@
       { "term": "202330", "crn": "37712" },
       { "term": "202310", "crn": "21502" },
       { "term": "202310", "crn": "21256" },
-      { "term": "202310", "crn": "21505" }
+      { "term": "202310", "crn": "21505" },
+      { "term": "202330", "crn": "40162" },
+      { "term": "202330", "crn": "40331" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -412,7 +464,8 @@
       { "term": "202330", "crn": "35293" },
       { "term": "202330", "crn": "37619" },
       { "term": "202330", "crn": "37706" },
-      { "term": "202310", "crn": "21404" }
+      { "term": "202310", "crn": "21404" },
+      { "term": "202330", "crn": "40106" }
     ],
     "description": "Continues work with the agreement of a thesis supervisor.",
     "coreqs": [],

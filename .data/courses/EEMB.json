@@ -67,7 +67,9 @@
       { "term": "202330", "crn": "32070" },
       { "term": "202330", "crn": "32071" },
       { "term": "202330", "crn": "32072" },
-      { "term": "202330", "crn": "32073" }
+      { "term": "202330", "crn": "32073" },
+      { "term": "202340", "crn": "40889" },
+      { "term": "202340", "crn": "40890" }
     ],
     "description": "Focuses on basic skin diving and scuba diving skills, with emphasis on safety. Requires lab fee. Requires ability to pass a swim test and basic comfort in the water.",
     "coreqs": [],
@@ -128,7 +130,8 @@
       { "term": "202310", "crn": "12400" },
       { "term": "202310", "crn": "20772" },
       { "term": "202330", "crn": "34460" },
-      { "term": "202330", "crn": "39311" }
+      { "term": "202330", "crn": "39311" },
+      { "term": "202340", "crn": "41735" }
     ],
     "description": "Introduces evolutionary thinking, including contemporary examples of evolution. To understand the evolution of Charles Darwin's “endless forms most beautiful,” the course adopts an integrative approach that includes information from ecology, genetics, molecular biology, biogeography, and paleobiology. Considers mechanisms of evolutionary change—how does it happen? Examines adaptation, the process by which attributes of an organism change to enhance fitness and the evolutionary history of life on our planet—what was the first living thing, how does speciation occur, what have we learned about evolution of life in the distant past, and how did humans evolve. Includes student presentations and analysis of scientific literature.",
     "coreqs": [],
@@ -729,7 +732,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "15534" },
-      { "term": "202330", "crn": "38338" }
+      { "term": "202330", "crn": "38338" },
+      { "term": "202350", "crn": "51293" },
+      { "term": "202330", "crn": "39765" }
     ],
     "description": "Offers an opportunity to design and implement a scientifically rigorous independent research project that builds upon current knowledge from the primary literature, under the supervision of a faculty advisor from the program. Students conduct research at any of the program’s locations and are then required to analyze data using rigorous statistical methods, write a journal-style research paper, and present their results in a research seminar.",
     "coreqs": [],
@@ -744,7 +749,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "19343" },
-      { "term": "202330", "crn": "38339" }
+      { "term": "202330", "crn": "38339" },
+      { "term": "202350", "crn": "52531" }
     ],
     "description": "Designed to prepare PhD students with a concentration in marine sciences for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
@@ -759,7 +765,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "13872" },
-      { "term": "202330", "crn": "38340" }
+      { "term": "202330", "crn": "38340" },
+      { "term": "202350", "crn": "52532" }
     ],
     "description": "Designed to prepare PhD students with a concentration in ecology and evolutionary biology for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
@@ -774,7 +781,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "17314" },
-      { "term": "202330", "crn": "38341" }
+      { "term": "202330", "crn": "38341" },
+      { "term": "202350", "crn": "52533" }
     ],
     "description": "Designed to prepare PhD students with a concentration in sustainability for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
@@ -789,9 +797,25 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "19344" },
-      { "term": "202330", "crn": "38342" }
+      { "term": "202330", "crn": "38342" },
+      { "term": "202350", "crn": "52534" }
     ],
     "description": "Designed to prepare PhD students with a concentration in geosciences for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EEMB",
+    "number": "8982",
+    "title": "Readings",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202350", "crn": "52380" },
+      { "term": "202330", "crn": "40410" }
+    ],
+    "description": "Assigns students independent readings on selected topics in ecology, evolution, and marine biology. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -804,7 +828,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "12071" },
-      { "term": "202330", "crn": "33023" }
+      { "term": "202330", "crn": "33023" },
+      { "term": "202350", "crn": "52535" }
     ],
     "description": "Offers students an opportunity to conduct research. May be repeated without limit.",
     "coreqs": [],
@@ -819,7 +844,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "12072" },
-      { "term": "202330", "crn": "31739" }
+      { "term": "202330", "crn": "31739" },
+      { "term": "202350", "crn": "50354" }
     ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -834,7 +860,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "12073" },
-      { "term": "202330", "crn": "38343" }
+      { "term": "202330", "crn": "38343" },
+      { "term": "202350", "crn": "50355" }
     ],
     "description": "Offers theoretical and experimental research for the PhD degree.",
     "coreqs": [],
@@ -849,7 +876,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "34800" },
-      { "term": "202310", "crn": "21556" }
+      { "term": "202310", "crn": "21556" },
+      { "term": "202350", "crn": "52536" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -864,7 +892,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "12074" },
-      { "term": "202330", "crn": "31740" }
+      { "term": "202330", "crn": "31740" },
+      { "term": "202350", "crn": "50356" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],

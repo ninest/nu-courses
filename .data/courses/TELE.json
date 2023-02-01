@@ -119,6 +119,25 @@
   },
   {
     "subject": "TELE",
+    "number": "6420",
+    "title": "Infrastructure Automation",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202350", "crn": "51971" },
+      { "term": "202350", "crn": "51972" }
+    ],
+    "description": "Exposes students to best practices for infrastructure automation, which is highly critical in the design and deployment of network and server infrastructure that supports microservices architecture applications on public cloud (IaaS) services. Provides hands-on experience with IaC (infrastructure as code) technologies for provisioning and deprovisioning, configuration, patching, security, monitoring, alerting, logging, etc., for infrastructure components ranging from network devices to servers to entire virtual data centers. Focuses on both individual and team projects involving the use of IaC tools such as Ansible, Puppet, Git, Selenium, Netmiko, Paramiko, CFEngine, Docker, and Kubernetes for infrastructure deployment and automation.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "TELE", "number": "5330" },
+      "Or",
+      { "subject": "TELE", "number": "5330" }
+    ]
+  },
+  {
+    "subject": "TELE",
     "number": "6510",
     "title": "Fundamentals of the Internet of Things",
     "scheduleType": "Lecture",
@@ -175,7 +194,8 @@
     "sections": [
       { "term": "202310", "crn": "15292" },
       { "term": "202310", "crn": "20014" },
-      { "term": "202330", "crn": "34862" }
+      { "term": "202330", "crn": "34862" },
+      { "term": "202330", "crn": "39602" }
     ],
     "description": "Explores the technologies and techniques behind the field of design and development of modern embedded devices in IoT systems. Specifically, focuses on a hands-on approach to software development on an embedded hardware platform. Through a final project, students have an opportunity to build and deploy an industrial-grade state-of-the-art embedded IoT solution. Presents C coding, but also reviews the ARM ISA as well as C++ development and debugging. Applies theoretical concepts to practical issues including pipelining, parallelism, concurrency, memory architectures, and I/O (GPIO, I2C, UART, SPI). Introduces bare-metal and OS-based development focusing on multitasking, scheduling, interrupts, threads, processes, tasks, IPC, drivers, contention resolution, and shared memory. Introduces state-of-the-art Google Cloud IoT and FreeRTOS APIs.",
     "coreqs": [],
@@ -184,5 +204,17 @@
       "Or",
       { "subject": "TELE", "number": "6510" }
     ]
+  },
+  {
+    "subject": "TELE",
+    "number": "7945",
+    "title": "Cyber Physical Systems Project",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "52060" }],
+    "description": "Supports a project in cyber-physical systems and the Internet of Things that may have both hardware and software elements. Project to be carried out under faculty supervision.",
+    "coreqs": [],
+    "prereqs": []
   }
 ]

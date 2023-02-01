@@ -154,24 +154,6 @@
   },
   {
     "subject": "CLTR",
-    "number": "3720",
-    "title": "Literature, Arts, and Poverty in Latin America",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": ["IC"],
-    "sections": [{ "term": "202330", "crn": "38091" }],
-    "description": "Focuses on the construction, characteristics, and representation of poverty/the poor in Latin American texts from the thirties and sixties and in the works of contemporary Latin American writers and film directors. Discusses the relation of these works to a &#8220;realist tradition&#8221; by studying social, political, and cultural aspects of Latin America from the nineteenth and twentieth centuries. Considers whether we are facing a new kind of realism. Also engages the problem of representation, the &#8220;role of literature&#8221; (ethics and literature), and its relation with politics and the global economy (literature and the market) in the Latin American context. Taught in Spanish.",
-    "coreqs": [],
-    "prereqs": [
-      { "subject": "SPNS", "number": "2102" },
-      "Or",
-      { "subject": "SPNS", "number": "3101" },
-      "Or",
-      { "subject": "SPNS", "number": "3102" }
-    ]
-  },
-  {
-    "subject": "CLTR",
     "number": "4655",
     "title": "Latin American Literature",
     "scheduleType": "Lecture",

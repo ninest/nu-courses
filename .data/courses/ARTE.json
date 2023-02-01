@@ -22,7 +22,13 @@
       { "term": "202310", "crn": "21008" },
       { "term": "202310", "crn": "21182" },
       { "term": "202310", "crn": "21443" },
-      { "term": "202310", "crn": "21698" }
+      { "term": "202310", "crn": "21698" },
+      { "term": "202330", "crn": "40593" },
+      { "term": "202330", "crn": "39930" },
+      { "term": "202330", "crn": "40291" },
+      { "term": "202330", "crn": "40375" },
+      { "term": "202330", "crn": "40731" },
+      { "term": "202330", "crn": "40734" }
     ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated up to four times.",
     "coreqs": [],

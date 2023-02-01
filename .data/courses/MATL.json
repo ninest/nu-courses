@@ -1,29 +1,13 @@
 [
   {
     "subject": "MATL",
-    "number": "5380",
-    "title": "Particulate Materials Processing",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38698" }],
-    "description": "Covers the processing of metallic and ceramic materials from particulate form. Includes particulate fabrication, characterization, handling, and consolidation for alloys, ceramics, and composites. Other topics include the principles of sintering in the absence and presence of liquid, advanced materials processing by rapid-solidification powder metallurgy, and the processing and structures of advanced ceramics.",
-    "coreqs": [],
-    "prereqs": [
-      { "subject": "ME", "number": "2340" },
-      "Or",
-      "Graduate Admission"
-    ]
-  },
-  {
-    "subject": "MATL",
     "number": "6250",
     "title": "Soft Matter",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202330", "crn": "36110" }],
-    "description": "Introduces the relatively young field of soft matter, which encompasses the physical description of various states of soft materials including liquids, colloids, polymers, foams, gels, granular materials, and a number of biological materials. Soft matter (also known as &#8220;soft condensed matter&#8221; or &#8220;complex fluids&#8221;) is less ordered than metals and oxides (hard condensed matter) and is more subject to thermal fluctuations and applied forces. Focuses on critical thinking, problem diagnosis, estimation, statistical analysis, and data-based decision making. Includes many in-class demonstrations from colloidal assembly to emulsion stability to cellular apoptosis. Highlights applications such as industrial processing, life sciences, and environmental remediation. Requires graduate study in related field or permission of instructor.",
+    "description": "Introduces the relatively young field of soft matter, which encompasses the physical description of various states of soft materials including liquids, colloids, polymers, foams, gels, granular materials, and a number of biological materials. Soft matter (also known as “soft condensed matter” or “complex fluids”) is less ordered than metals and oxides (hard condensed matter) and is more subject to thermal fluctuations and applied forces. Focuses on critical thinking, problem diagnosis, estimation, statistical analysis, and data-based decision making. Includes many in-class demonstrations from colloidal assembly to emulsion stability to cellular apoptosis. Highlights applications such as industrial processing, life sciences, and environmental remediation. Requires graduate study in related field or permission of instructor.",
     "coreqs": [],
     "prereqs": []
   },
@@ -104,38 +88,6 @@
   },
   {
     "subject": "MATL",
-    "number": "7945",
-    "title": "Master's Project",
-    "scheduleType": "Individual Instruction",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [
-      { "term": "202330", "crn": "34122" },
-      { "term": "202330", "crn": "34150" }
-    ],
-    "description": "Offers theoretical or experimental work under individual faculty supervision.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "MATL",
-    "number": "7978",
-    "title": "Independent Study",
-    "scheduleType": "Individual Instruction",
-    "credits": 1,
-    "nuPath": [],
-    "sections": [
-      { "term": "202330", "crn": "31982" },
-      { "term": "202330", "crn": "30973" },
-      { "term": "202330", "crn": "31486" },
-      { "term": "202330", "crn": "33390" }
-    ],
-    "description": "Offers theoretical or experimental work under individual faculty supervision. May be repeated without limit.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "MATL",
     "number": "7990",
     "title": "Thesis",
     "scheduleType": "Individual Instruction",
@@ -148,28 +100,10 @@
       { "term": "202330", "crn": "30679" },
       { "term": "202330", "crn": "30678" },
       { "term": "202330", "crn": "30825" },
-      { "term": "202330", "crn": "31653" }
+      { "term": "202330", "crn": "31653" },
+      { "term": "202330", "crn": "40464" }
     ],
     "description": "Offers analytical and/or experimental work conducted under the direction of the faculty in fulfillment of the requirements for the degree. Requires first-year students to attend a graduate seminar program that introduces the students to the methods of choosing a research topic, conducting research, and preparing a thesis. Requires successful completion of the seminar program. May be repeated without limit.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "MATL",
-    "number": "7996",
-    "title": "Thesis Continuation",
-    "scheduleType": "Individual Instruction",
-    "credits": 0,
-    "nuPath": [],
-    "sections": [
-      { "term": "202330", "crn": "32303" },
-      { "term": "202330", "crn": "30677" },
-      { "term": "202330", "crn": "30676" },
-      { "term": "202330", "crn": "31294" },
-      { "term": "202330", "crn": "31295" },
-      { "term": "202330", "crn": "31296" }
-    ],
-    "description": "Offers continuing master's thesis supervision under individual faculty supervision.",
     "coreqs": [],
     "prereqs": []
   }

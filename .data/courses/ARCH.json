@@ -47,7 +47,8 @@
       { "term": "202330", "crn": "30392" },
       { "term": "202330", "crn": "30391" },
       { "term": "202330", "crn": "33180" },
-      { "term": "202330", "crn": "33331" }
+      { "term": "202330", "crn": "33331" },
+      { "term": "202340", "crn": "41702" }
     ],
     "description": "Introduces architectural design. Examines a number of approaches to spatial organization, massing, and envelope articulation through the analysis of pertinent case studies as well as through a series of fast-paced design exercises. Offers students an opportunity to develop a single design through a series of design studies that deal with issues of site planning, program, user input, and collective negotiation. Requires a portfolio demonstrating the student’s representational abilities and iterative design process.",
     "coreqs": [],
@@ -71,7 +72,11 @@
       { "term": "202330", "crn": "31247" },
       { "term": "202330", "crn": "33945" },
       { "term": "202330", "crn": "34774" },
-      { "term": "202330", "crn": "36309" }
+      { "term": "202330", "crn": "36309" },
+      { "term": "202360", "crn": "60998" },
+      { "term": "202340", "crn": "40829" },
+      { "term": "202330", "crn": "40165" },
+      { "term": "202330", "crn": "40248" }
     ],
     "description": "Introduces students to architecture, as understood through buildings, cities, and landscapes from antiquity to the present. Studies important monuments in the global history of architecture, as well as tools for analyzing the built environment. Considers buildings in relation to their political, social, economic, and cultural context, and as expressions of diversity in human societies and cultural perspectives. Topics include the language of architecture, architectural drawings, the classical orders, the problem of ornament, construction techniques, materials, site,and the role of the patron. Develops students' eye for composition in two and three dimensions, aesthetic discrimination of detail, ability to see buildings as part of a larger social and cultural fabric, and critical judgment in speaking and writing.",
     "coreqs": [],
@@ -139,7 +144,10 @@
       { "term": "202330", "crn": "38856" },
       { "term": "202330", "crn": "38857" },
       { "term": "202330", "crn": "38858" },
-      { "term": "202330", "crn": "39256" }
+      { "term": "202330", "crn": "39256" },
+      { "term": "202360", "crn": "61356" },
+      { "term": "202330", "crn": "39780" },
+      { "term": "202330", "crn": "40062" }
     ],
     "description": "Studies how to analyze, draw, and model the built environment. Students engage in issues of program, composition, type, and material. Offers students the opportunity to think conceptually about architectural design.",
     "coreqs": [],
@@ -359,7 +367,8 @@
       { "term": "202330", "crn": "34466" },
       { "term": "202330", "crn": "34467" },
       { "term": "202330", "crn": "36313" },
-      { "term": "202330", "crn": "39257" }
+      { "term": "202330", "crn": "39257" },
+      { "term": "202340", "crn": "41703" }
     ],
     "description": "Covers a variety of topics in architectural history and theory. Taught by faculty according to their interests and expertise.",
     "coreqs": [],
@@ -446,7 +455,8 @@
       { "term": "202330", "crn": "33461" },
       { "term": "202330", "crn": "33731" },
       { "term": "202330", "crn": "38853" },
-      { "term": "202330", "crn": "38854" }
+      { "term": "202330", "crn": "38854" },
+      { "term": "202340", "crn": "41704" }
     ],
     "description": "Builds on CAD (computer-aided design) skills to develop ability to model in three dimensions and develop surfaces and lighting. Also addresses strategies in design communication for effective presentation of digital material.",
     "coreqs": [],
@@ -491,7 +501,8 @@
       { "term": "202310", "crn": "19503" },
       { "term": "202330", "crn": "32396" },
       { "term": "202330", "crn": "38862" },
-      { "term": "202310", "crn": "21108" }
+      { "term": "202310", "crn": "21108" },
+      { "term": "202330", "crn": "40322" }
     ],
     "description": "Offers an upper-level design studio that covers new studio topics, content, and studio instructors each semester. The studio instructors offer topical content that best aligns with their research and practice expertise, which provides students with the latest concepts in architectural design, theory, and research on a consistently updated and rotating basis. Students select their top choices of studio topics and instructors, giving them more flexibility in the areas for which they would like to focus their education. May be repeated twice for credit.",
     "coreqs": [],
@@ -518,7 +529,11 @@
       { "term": "202330", "crn": "34802" },
       { "term": "202330", "crn": "34803" },
       { "term": "202330", "crn": "38863" },
-      { "term": "202330", "crn": "38864" }
+      { "term": "202330", "crn": "38864" },
+      { "term": "202330", "crn": "39541" },
+      { "term": "202330", "crn": "39542" },
+      { "term": "202330", "crn": "40110" },
+      { "term": "202330", "crn": "40111" }
     ],
     "description": "Focuses on the materials and making of architecture. Considers architectural connections at all scales, from the nut and bolt to the scale of a door or window to the scale of the whole building and the city. Grounds design proposals upon a tectonic strategy, unlike traditional design studios that produce a schematic design before considering constructional ideas.",
     "coreqs": [],
@@ -755,7 +770,7 @@
       { "term": "202330", "crn": "30602" },
       { "term": "202330", "crn": "36543" }
     ],
-    "description": "Continues ARCH 6430. Builds on the understanding of professional practice developed in the previous course and investigates the array of &#8220;artful ways in which some practitioners deal competently with the indeterminacies and value conflicts of practice.&#8221; These indeterminacies, uncertainties, and value conflicts are part of a rapidly changing, dynamic world. There is an unprecedented need for flexible and responsive practices that can bridge the gap between traditional professional techniques and these situations. Requires core competencies that are not mismatched with the changing situations of practice. Requires new skills as well as traditional analytic techniques to respond adequately to these unique conditions of work. Through a closer examination and development of an in-depth project case study, students speculate on possible approaches to a revised and restructured model of professional knowledge and guidelines for reflective practice that can sustain a culture of design excellence.",
+    "description": "Continues ARCH 6430. Builds on the understanding of professional practice developed in the previous course and investigates the array of “artful ways in which some practitioners deal competently with the indeterminacies and value conflicts of practice.” These indeterminacies, uncertainties, and value conflicts are part of a rapidly changing, dynamic world. There is an unprecedented need for flexible and responsive practices that can bridge the gap between traditional professional techniques and these situations. Requires core competencies that are not mismatched with the changing situations of practice. Requires new skills as well as traditional analytic techniques to respond adequately to these unique conditions of work. Through a closer examination and development of an in-depth project case study, students speculate on possible approaches to a revised and restructured model of professional knowledge and guidelines for reflective practice that can sustain a culture of design excellence.",
     "coreqs": [],
     "prereqs": [{ "subject": "ARCH", "number": "6430" }]
   },

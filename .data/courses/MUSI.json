@@ -30,7 +30,8 @@
       { "term": "202310", "crn": "19668" },
       { "term": "202310", "crn": "19669" },
       { "term": "202330", "crn": "32363" },
-      { "term": "202330", "crn": "39013" }
+      { "term": "202330", "crn": "39013" },
+      { "term": "202340", "crn": "41742" }
     ],
     "description": "Examines business-related areas of the music industry. Topics include music publishing, copyright, the function of performing rights organizations (ASCAP and BMI), talent agents, artist management, concert promotion, and royalties and contracts.",
     "coreqs": [],
@@ -74,7 +75,8 @@
       { "term": "202260", "crn": "61389" },
       { "term": "202240", "crn": "40109" },
       { "term": "202330", "crn": "30283" },
-      { "term": "202330", "crn": "33458" }
+      { "term": "202330", "crn": "33458" },
+      { "term": "202340", "crn": "40103" }
     ],
     "description": "Introduces the history and practice of recording music. Covers recording apparatus; microphones; monophonic, stereophonic, and digital theory and techniques; field recording; studio terminology; basic sound theory; and development of rudimentary editing skills. Also examines the role of the producer vs. that of the technician, preparation for recording sessions, and basic legal regulations regarding copyrights and compensation.",
     "coreqs": [],
@@ -114,7 +116,8 @@
     "sections": [
       { "term": "202310", "crn": "11472" },
       { "term": "202240", "crn": "40036" },
-      { "term": "202330", "crn": "30282" }
+      { "term": "202330", "crn": "30282" },
+      { "term": "202340", "crn": "40035" }
     ],
     "description": "Offers students the opportunity to learn additional skills in the recording process, such as material marketing and distribution, contracts and negotiations, and establishing distribution channels. Includes hands-on studio production of record-quality material.",
     "coreqs": [],
@@ -201,11 +204,11 @@
     "title": "Music and Social Justice",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["DD", "ER"],
+    "nuPath": ["DD", "ER", "EX"],
     "sections": [{ "term": "202330", "crn": "39017" }],
     "description": "Introduces theories of ethics, morality, and equality and strategies to advance social justice—to ensure equality and human dignity for all people—through music. Explores the music industry as both a microcosm of society and amplifier of our collective ethics. On stage, on the record, and through direct action, musicians worldwide use their art and renown to serve social movements. Many also face equality and equity challenges within the music industry. As future professionals, students may either challenge or reinforce the injustices they encounter in their professional and personal lives.Through critical discourse on professional ethics in the music business and service-learning projects requiring direct community engagement, seeks to empower students to make a lifelong commitment to ethical decision making and advancing social justice.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MUSI", "number": "1230" }]
+    "prereqs": []
   },
   {
     "subject": "MUSI",
@@ -227,7 +230,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202330", "crn": "39018" }],
-    "description": "Focuses on black popular music as art, activism, and commodity from the post&#8211;Civil Rights era to today. Studies the immediate musical, historical, cultural, and industry-based precedents for rap music, which emerged in opposition to the music industry&#8212;and many other institutions that perpetuated the inequalities against which early hip-hop artists were protesting. The contemporary moment provides a unique opportunity for refocusing on the origins of hip-hop and black protest music as they relate to the industry's embrace and commodification of certain aspects of hip-hop culture. Explores the dynamic tensions between rap music as aesthetic object, countercultural expression, social commentary, and industry commodity, engaging with current expressions of all of these in the Boston area.",
+    "description": "Focuses on black popular music as art, activism, and commodity from the post–Civil Rights era to today. Studies the immediate musical, historical, cultural, and industry-based precedents for rap music, which emerged in opposition to the music industry—and many other institutions that perpetuated the inequalities against which early hip-hop artists were protesting. The contemporary moment provides a unique opportunity for refocusing on the origins of hip-hop and black protest music as they relate to the industry's embrace and commodification of certain aspects of hip-hop culture. Explores the dynamic tensions between rap music as aesthetic object, countercultural expression, social commentary, and industry commodity, engaging with current expressions of all of these in the Boston area.",
     "coreqs": [],
     "prereqs": [{ "subject": "ENGW", "number": "1111" }]
   },
@@ -246,6 +249,28 @@
     "description": "This course focuses on the performing songwriter’s live performance and DIY abilities. We will approach the live work with in-class open mics, in-the-round scenarios, and festival-centered \"tweener\" sets. The participants will be introduced to the DIY business essentials necessary to become a professional opening act.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "MUSI",
+    "number": "4530",
+    "title": "Music Entrepreneurship",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39528" }],
+    "description": "Designed to provide students with the knowledge, skills, and abilities necessary to plan, finance, develop, and operate a new music venture. Topics include attributes of music entrepreneurs and entrepreneurial careers, evaluating opportunities, writing business plans, financing the venture, and long-term management and planning.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "MUSI", "number": "1230" },
+      "And",
+      "(",
+      { "subject": "ACCT", "number": "1201" },
+      "Or",
+      { "subject": "ACCT", "number": "1209" },
+      ")",
+      "And",
+      { "subject": "ECON", "number": "1116" }
+    ]
   },
   {
     "subject": "MUSI",

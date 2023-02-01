@@ -184,6 +184,18 @@
   },
   {
     "subject": "SLPA",
+    "number": "5154",
+    "title": "Early Intervention Practicum 1",
+    "scheduleType": "Off-campus instruction w/ lec",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202310", "crn": "14176" }],
+    "description": "Provides students from school psychology, special education, speech-language pathology and audiology, physical therapy, nursing, and related fields with supervised field work experience in team-oriented interventions for infants and toddlers with disabilities or at risk for developmental delays and their families from linguistically and culturally diverse backgrounds. The practicum class sessions are conceptualized as the linchpin training experience between what the theory addresses in didactic courses and the student’s fieldwork. Students are expected to master early intervention and team participation core competencies to work effectively with infants and toddlers and their families, interdisciplinary team members, and administrative personnel.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SLPA",
     "number": "5155",
     "title": "Early Intervention Practicum 2",
     "scheduleType": "Off-campus instruction w/ lec",
@@ -206,21 +218,6 @@
       { "term": "202330", "crn": "36607" }
     ],
     "description": "Offers students an opportunity to review diagnostic tests and test manuals in the field of speech-language pathology and to practice their administration. Discusses information about test content, reliability, and validity. Principles of standardized testing, norm referencing, and test scoring are reviewed and practiced.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "SLPA",
-    "number": "5976",
-    "title": "Directed Study",
-    "scheduleType": "Individual Instruction",
-    "credits": 1,
-    "nuPath": [],
-    "sections": [
-      { "term": "202330", "crn": "36982" },
-      { "term": "202330", "crn": "37894" }
-    ],
-    "description": "Allows students to pursue topics of individual interest beyond the scope of formal course work under the direction of faculty. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -342,7 +339,10 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "41244" }],
+    "sections": [
+      { "term": "202240", "crn": "41244" },
+      { "term": "202340", "crn": "40985" }
+    ],
     "description": "Provides an overview to the adult and pediatric medical settings in which speech-language pathologists (SLPs) are employed. Offers students an opportunity to learn about the role(s) of the SLP in various settings (e.g., acute care, rehabilitation, outpatient services, private practice, home health, and day habilitation); the SLPs' scope of practice; the variety of patient populations/diagnoses; and the medical team approach to service delivery across the continuum of care and across the life span.",
     "coreqs": [],
     "prereqs": []
@@ -356,7 +356,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202240", "crn": "40668" },
-      { "term": "202240", "crn": "41544" }
+      { "term": "202240", "crn": "41544" },
+      { "term": "202340", "crn": "40603" }
     ],
     "description": "Provides students with a theoretical framework from which specific counseling strategies may be implemented for individuals and their families with various communication disorders. Stresses conversational interactive strategies.",
     "coreqs": [],
@@ -369,7 +370,10 @@
     "scheduleType": "Seminar",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "41545" }],
+    "sections": [
+      { "term": "202240", "crn": "41545" },
+      { "term": "202340", "crn": "41185" }
+    ],
     "description": "Offers a review of autism spectrum disorder (ASD), including theories of causation; developmental aspects; descriptive and diagnostic characteristics; an overview of assessment and intervention; and legal and social issues as they relate to speech-language pathologists. Presents the most current research findings and best practices needed to gain a clear understanding of individuals diagnosed with ASD and how to apply current research to treatment.",
     "coreqs": [],
     "prereqs": []
@@ -413,6 +417,18 @@
       { "term": "202330", "crn": "36610" }
     ],
     "description": "Designed to teach students in the field of communication disorders about early childhood literacy skill acquisition, use, and challenges. Offers students an opportunity to learn how to deliver language-based early literacy services to young children in a manner consistent with the American Speech-Language-Hearing Association (ASHA) position that speech-language pathologists can and should play a critical and direct role in literacy development/use for people with communication disorders across the life span.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SLPA",
+    "number": "6332",
+    "title": "Seminar in Communication Disorders",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202360", "crn": "61322" }],
+    "description": "Allows for the advanced study of current diagnostic and intervention strategies, applications of theoretical and applied research, and exploration of current topics in speech-language pathology. Topics may range from the treatment of undeserved populations to the analysis of complex clinical cases requiring interdisciplinary management. May be repeated twice.",
     "coreqs": [],
     "prereqs": []
   },
@@ -506,7 +522,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "30744" },
-      { "term": "202310", "crn": "21603" }
+      { "term": "202310", "crn": "21603" },
+      { "term": "202350", "crn": "50203" }
     ],
     "description": "Offers supervised clinical experience in speech pathology at the Northeastern University Hearing, Language, and Speech Center, medical settings, educational settings, and rehabilitation centers. Uses practical experience to emphasize advanced diagnostic and management techniques, stressing the application of theory to practice. Requires student to be available a minimum of twenty hours per week during the academic year. May be repeated without limit.",
     "coreqs": [],
@@ -522,7 +539,8 @@
     "sections": [
       { "term": "202310", "crn": "11918" },
       { "term": "202330", "crn": "37366" },
-      { "term": "202330", "crn": "38592" }
+      { "term": "202330", "crn": "38592" },
+      { "term": "202350", "crn": "51699" }
     ],
     "description": "Offers supervised clinical experience in speech-language pathology for advanced graduate students, placing them in settings such as the Northeastern University Speech, Language, and Hearing Center, medical settings, educational settings, and rehabilitation centers. Uses practical experience to emphasize problem-solving techniques relevant to case management and continues to integrate theory and practice. Requires students to be available a minimum of twenty hours per week during the academic year. May be repeated without limit.",
     "coreqs": [],
@@ -538,7 +556,8 @@
     "sections": [
       { "term": "202310", "crn": "11103" },
       { "term": "202330", "crn": "30743" },
-      { "term": "202330", "crn": "38593" }
+      { "term": "202330", "crn": "38593" },
+      { "term": "202350", "crn": "50548" }
     ],
     "description": "Offers supervised clinical experience in speech-language management pathology for advanced graduate students, placing them in settings such as the Northeastern University Speech, Language, and Hearing Center, medical settings, educational settings, and rehabilitation centers. Uses practical experience to emphasize problem-solving techniques relevant to case management and continues to integrate theory and practice. Requires students to be available a minimum of twenty hours per week during the academic year. May be repeated without limit.",
     "coreqs": [],
@@ -553,9 +572,22 @@
     "nuPath": [],
     "sections": [
       { "term": "202260", "crn": "60422" },
-      { "term": "202260", "crn": "61292" }
+      { "term": "202260", "crn": "61292" },
+      { "term": "202360", "crn": "60398" }
     ],
     "description": "Introduces basic concepts in data collection, organization, and analysis using statistical methods with an overall focus on profession-specific application and interpretation.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SLPA",
+    "number": "6964",
+    "title": "Co-op Work Experience",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "40347" }],
+    "description": "Provides eligible students with an opportunity for work experience. May be repeated once for a total of two completions.",
     "coreqs": [],
     "prereqs": []
   },
@@ -568,7 +600,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202260", "crn": "61436" },
-      { "term": "202310", "crn": "21323" }
+      { "term": "202310", "crn": "21323" },
+      { "term": "202360", "crn": "61071" }
     ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
@@ -589,7 +622,8 @@
       { "term": "202330", "crn": "33878" },
       { "term": "202330", "crn": "38865" },
       { "term": "202330", "crn": "38866" },
-      { "term": "202310", "crn": "21679" }
+      { "term": "202310", "crn": "21679" },
+      { "term": "202350", "crn": "51955" }
     ],
     "description": "Offers a research activity that is the first of a two-course thesis sequence with the recommendation of the adviser. May be repeated without limit.",
     "coreqs": [],

@@ -58,7 +58,13 @@
       { "term": "202330", "crn": "32133" },
       { "term": "202330", "crn": "32134" },
       { "term": "202330", "crn": "34829" },
-      { "term": "202330", "crn": "37144" }
+      { "term": "202330", "crn": "37144" },
+      { "term": "202360", "crn": "60027" },
+      { "term": "202360", "crn": "60026" },
+      { "term": "202360", "crn": "60182" },
+      { "term": "202340", "crn": "40015" },
+      { "term": "202340", "crn": "40201" },
+      { "term": "202330", "crn": "39933" }
     ],
     "description": "Provides an overview of the actions and behaviors of people in organizations. Uses case studies, videos, experiential exercises, lectures, and discussions to explore the effects of individual, interpersonal, group, organizational, and cross-cultural factors on human behavior. Topics include groups and teams, motivation, leadership, organizational change, organizational culture, structure, conflict resolution, and communication. Both the underlying theories and principles of these topics, as well as their practical applications and implications for organizations, are covered.",
     "coreqs": [],

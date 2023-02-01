@@ -13,7 +13,8 @@
       { "term": "202310", "crn": "19215" },
       { "term": "202330", "crn": "32795" },
       { "term": "202330", "crn": "33178" },
-      { "term": "202330", "crn": "33941" }
+      { "term": "202330", "crn": "33941" },
+      { "term": "202330", "crn": "39504" }
     ],
     "description": "Introduces programming for data and information science through case studies in business, sports, education, social science, economics, and the natural world. Presents key concepts in programming, data structures, and data analysis through Python and Excel. Integrates the use of data analytics libraries and tools. Surveys techniques for acquiring and programmatically integrating data from different sources. Explains the data analytics pipeline and how to apply programming at each stage. Discusses the programmatic retrieval of data from application programming interfaces (APIs) and from databases. Introduces predictive analytics for forecasting and classification. Demonstrates the limitations of statistical techniques.",
     "coreqs": [{ "subject": "DS", "number": "2001" }],
@@ -58,7 +59,8 @@
       { "term": "202330", "crn": "38789" },
       { "term": "202330", "crn": "39236" },
       { "term": "202330", "crn": "39287" },
-      { "term": "202330", "crn": "39253" }
+      { "term": "202330", "crn": "39253" },
+      { "term": "202330", "crn": "39505" }
     ],
     "description": "Applies data science principles in interdisciplinary contexts, with each section focusing on applications to a different discipline. Involves new experiments and readings in multiple disciplines (both computer science and the discipline focus of the particular section). Requires multiple projects combining interdisciplinary subjects.",
     "coreqs": [{ "subject": "DS", "number": "2000" }],
@@ -77,7 +79,8 @@
       { "term": "202330", "crn": "34282" },
       { "term": "202330", "crn": "34989" },
       { "term": "202330", "crn": "36017" },
-      { "term": "202330", "crn": "38790" }
+      { "term": "202330", "crn": "38790" },
+      { "term": "202340", "crn": "41719" }
     ],
     "description": "Offers intermediate to advanced Python programming for data science. Covers object-oriented design patterns using Python, including encapsulation, composition, and inheritance. Advanced programming skills cover software architecture, recursion, profiling, unit testing and debugging, lineage and data provenance, using advanced integrated development environments, and software control systems. Uses case studies to survey key concepts in data science with an emphasis on machine-learning (classification, clustering, deep learning); data visualization; and natural language processing. Additional assigned readings survey topics in ethics, model bias, and data privacy pertinent to today's big data world. Offers students an opportunity to prepare for more advanced courses in data science and to enable practical contributions to software development and data science projects in a commercial setting.",
     "coreqs": [{ "subject": "DS", "number": "2501" }],
@@ -106,7 +109,8 @@
       { "term": "202330", "crn": "36024" },
       { "term": "202330", "crn": "38791" },
       { "term": "202330", "crn": "38792" },
-      { "term": "202330", "crn": "38793" }
+      { "term": "202330", "crn": "38793" },
+      { "term": "202340", "crn": "41720" }
     ],
     "description": "Practices the programming techniques discussed in DS 2500 through hands-on experimentation.",
     "coreqs": [{ "subject": "DS", "number": "2500" }],
@@ -125,7 +129,11 @@
       { "term": "202310", "crn": "19856" },
       { "term": "202310", "crn": "20387" },
       { "term": "202310", "crn": "20950" },
-      { "term": "202240", "crn": "41570" }
+      { "term": "202240", "crn": "41570" },
+      { "term": "202340", "crn": "41847" },
+      { "term": "202330", "crn": "39418" },
+      { "term": "202330", "crn": "39419" },
+      { "term": "202330", "crn": "39420" }
     ],
     "description": "Introduces core modern data science technologies and methods that provide a foundation for subsequent Data Science classes. Covers: working with tensors and applied linear algebra in standard numerical computing libraries (e.g., NumPy); processing and integrating data from a variety of structured and unstructured sources; introductory concepts in probability, statistics, and machine learning; basic data visualization techniques; and now standard data science tools such as Jupyter notebooks.",
     "coreqs": [],
@@ -160,7 +168,9 @@
     "sections": [
       { "term": "202310", "crn": "14008" },
       { "term": "202310", "crn": "16055" },
-      { "term": "202330", "crn": "32440" }
+      { "term": "202330", "crn": "32440" },
+      { "term": "202340", "crn": "41721" },
+      { "term": "202330", "crn": "39421" }
     ],
     "description": "Introduces foundational principles, methods, and techniques of visualization to enable creation of effective information representations suitable for exploration and discovery. Covers the design and evaluation process of visualization creation, visual representations of data, relevant principles of human vision and perception, and basic interactivity principles. Studies data types and a wide range of visual data encodings and representations. Draws examples from physics, biology, health science, social science, geography, business, and economics. Emphasizes good programming practices for both static and interactive visualizations. Creates visualizations in Excel and Tableau as well as R, Python, and open web-based authoring libraries. Requires programming in Python, JavaScript, HTML, and CSS. Requires extensive writing including documentation, explanations, and discussions of the findings from the data analyses and the visualizations.",
     "coreqs": [],
@@ -200,7 +210,8 @@
     "sections": [
       { "term": "202310", "crn": "12972" },
       { "term": "202330", "crn": "39101" },
-      { "term": "202330", "crn": "39345" }
+      { "term": "202330", "crn": "39345" },
+      { "term": "202330", "crn": "40204" }
     ],
     "description": "Introduces supervised and unsupervised predictive modeling, data mining, and machine-learning concepts. Uses tools and libraries to analyze data sets, build predictive models, and evaluate the fit of the models. Covers common learning algorithms, including dimensionality reduction, classification, principal-component analysis, k-NN, k-means clustering, gradient descent, regression, logistic regression, regularization, multiclass data and algorithms, boosting, and decision trees. Studies computational aspects of probability, statistics, and linear algebra that support algorithms, including sampling theory and computational learning. Requires programming in R and Python. Applies concepts to common problem domains, including recommendation systems, fraud detection, or advertising.",
     "coreqs": [],
@@ -242,20 +253,11 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD", "CE", "WI"],
-    "sections": [{ "term": "202330", "crn": "39372" }],
+    "sections": [
+      { "term": "202330", "crn": "39372" },
+      { "term": "202330", "crn": "40435" }
+    ],
     "description": "Continues with supervised and unsupervised predictive modeling, data mining, and machine-learning concepts. Covers mathematical and computational aspects of learning algorithms, including kernels, time-series data, collaborative filtering, support vector machines, neural networks, Bayesian learning and Monte Carlo methods, multiple regression, and optimization. Uses mathematical proofs and empirical analysis to assess validity and performance of algorithms. Studies additional computational aspects of probability, statistics, and linear algebra that support algorithms. Requires programming in R and Python. Applies concepts to common problem domains, including spam filtering.",
-    "coreqs": [],
-    "prereqs": [{ "subject": "DS", "number": "4400" }]
-  },
-  {
-    "subject": "DS",
-    "number": "4440",
-    "title": "Practical Neural Networks",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": ["AD"],
-    "sections": [{ "term": "202330", "crn": "38794" }],
-    "description": "Offers a hands-on introduction to modern neural network (\"deep learning\") tools and methods. Covers the fundamentals of neural networks and introduces standard and new architectures from simple feed forward networks to recurrent neural networks. Also covers stochastic gradient descent and backpropagation, along with related fitting techniques. Emphasizes using these technologies in practice, via modern toolkits. Specifically introduces Keras (together with TensorFlow) and PyTorch, which are illustrative of static and dynamic network implementations, respectively. Reviews applications of these models to various types of data, including images and text.",
     "coreqs": [],
     "prereqs": [{ "subject": "DS", "number": "4400" }]
   },
@@ -290,7 +292,8 @@
       { "term": "202310", "crn": "16056" },
       { "term": "202310", "crn": "20164" },
       { "term": "202330", "crn": "36408" },
-      { "term": "202330", "crn": "36463" }
+      { "term": "202330", "crn": "36463" },
+      { "term": "202330", "crn": "39409" }
     ],
     "description": "Offers an introductory course on the basics of statistics, probability, and linear algebra. Covers random variables, frequency distributions, measures of central tendency, measures of dispersion, moments of a distribution, discrete and continuous probability distributions, chain rule, Bayes' rule, correlation theory, basic sampling, matrix operations, trace of a matrix, norms, linear independence and ranks, inverse of a matrix, orthogonal matrices, range and null-space of a matrix, the determinant of a matrix, positive semidefinite matrices, eigenvalues, and eigenvectors.",
     "coreqs": [],
@@ -308,7 +311,9 @@
       { "term": "202310", "crn": "16057" },
       { "term": "202310", "crn": "19809" },
       { "term": "202310", "crn": "20544" },
-      { "term": "202330", "crn": "36464" }
+      { "term": "202330", "crn": "36464" },
+      { "term": "202330", "crn": "39500" },
+      { "term": "202330", "crn": "39502" }
     ],
     "description": "Introduces students to the core tasks in data science, including data collection, storage, tidying, transformation, processing, management, and modeling for the purpose of extracting knowledge from raw observations. Programming is a cross-cutting aspect of the course. Offers students an opportunity to gain experience with data science tasks and tools through short assignments. Includes a term project based on real-world data.",
     "coreqs": [],
@@ -320,7 +325,7 @@
     "title": "Supervised Machine Learning and Learning Theory",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["CE", "WI"],
     "sections": [
       { "term": "202310", "crn": "12945" },
       { "term": "202310", "crn": "19778" },
@@ -338,11 +343,12 @@
     "title": "Unsupervised Machine Learning and Data Mining",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["CE", "WI"],
     "sections": [
       { "term": "202310", "crn": "16058" },
       { "term": "202330", "crn": "32577" },
-      { "term": "202330", "crn": "38796" }
+      { "term": "202330", "crn": "38796" },
+      { "term": "202330", "crn": "39511" }
     ],
     "description": "Introduces unsupervised machine learning and data mining, which is the process of discovering and summarizing patterns from large amounts of data, without examples of data with a known outcome of interest. Offers a broad view of models and algorithms for unsupervised data exploration. Discusses the methodological foundations behind the models and the algorithms, as well as issues of practical implementation and use, and techniques for assessing the performance. Includes a term project involving programming and/or work with real-life data sets. Requires proficiency in a programming language such as Python, R, or MATLAB.",
     "coreqs": [],
@@ -357,7 +363,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "20350" },
-      { "term": "202330", "crn": "33317" }
+      { "term": "202330", "crn": "33317" },
+      { "term": "202330", "crn": "40034" }
     ],
     "description": "Offers students a capstone opportunity to practice data science skills learned in previous courses and to build a portfolio. Students practice visualization, data wrangling, and machine learning skills by applying them to semester-long term projects on real-world data. Students may either propose their own projects or choose from a selection of industry options. Emphasizes the overall data science process, including identification of the scientific problem, selection of appropriate machine learning methods, and visualization and communication of results. Lectures may include additional topics, including visualization, communication, and data science ethics.",
     "coreqs": [],
@@ -399,9 +406,28 @@
       { "term": "202330", "crn": "37672" },
       { "term": "202330", "crn": "37909" },
       { "term": "202330", "crn": "37941" },
-      { "term": "202310", "crn": "21728" }
+      { "term": "202310", "crn": "21728" },
+      { "term": "202360", "crn": "61283" },
+      { "term": "202330", "crn": "39766" },
+      { "term": "202330", "crn": "40541" },
+      { "term": "202330", "crn": "40588" },
+      { "term": "202330", "crn": "40690" },
+      { "term": "202330", "crn": "40693" },
+      { "term": "202330", "crn": "40738" }
     ],
     "description": "Offers students an opportunity to participate in a direct data science project under the supervision of a faculty member. May be repeated once for a total of 8 credits.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "DS",
+    "number": "8982",
+    "title": "Readings",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39996" }],
+    "description": "Offers selected readings under the supervision of a faculty member. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   }

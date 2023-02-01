@@ -33,9 +33,32 @@
       { "term": "202310", "crn": "21861" },
       { "term": "202310", "crn": "21862" },
       { "term": "202310", "crn": "21863" },
-      { "term": "202310", "crn": "21864" }
+      { "term": "202310", "crn": "21864" },
+      { "term": "202360", "crn": "60219" },
+      { "term": "202360", "crn": "60232" },
+      { "term": "202360", "crn": "60143" },
+      { "term": "202340", "crn": "40654" },
+      { "term": "202310", "crn": "21895" },
+      { "term": "202310", "crn": "21897" },
+      { "term": "202310", "crn": "21898" },
+      { "term": "202310", "crn": "21899" },
+      { "term": "202310", "crn": "21901" },
+      { "term": "202310", "crn": "21902" },
+      { "term": "202310", "crn": "21904" }
     ],
     "description": "Intended for administrative use only.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "NULL",
+    "number": "0002",
+    "title": "Administrative CEU",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202310", "crn": "21900" }],
+    "description": "Intended for administrative use only. Updated 9/16/2016 10:40.",
     "coreqs": [],
     "prereqs": []
   }

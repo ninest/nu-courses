@@ -41,9 +41,23 @@
       { "term": "202330", "crn": "37240" },
       { "term": "202330", "crn": "39292" },
       { "term": "202310", "crn": "21594" },
-      { "term": "202310", "crn": "21159" }
+      { "term": "202310", "crn": "21159" },
+      { "term": "202340", "crn": "40044" },
+      { "term": "202340", "crn": "40262" }
     ],
     "description": "Introduces the student to forces and issues confronted in our era of rapid globalization. Managers must understand forces from interconnected social, political, and economic national environments that affect their company's operations. At the same time they need to draw on their ethical foundations to address and act on social responsibility imperatives across national borders.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INTB",
+    "number": "1204",
+    "title": "Living, Learning, and Leading Globally",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39941" }],
+    "description": "Functions as a foundational, cornerstone course that frames the Global Engagement Program and assists students in mapping their way forward. Covers cultural and ethical frameworks for understanding the context of global business as an integrated whole. Introduces global leadership competencies combined with multiple assessments to help foster greater self-awareness and establish a baseline for subsequent development. Offers students an opportunity to create a four-year professional development plan (PDP), a living document designed to guide students’ study and development throughout the program and to cultivate the mindset necessary for effective and authentic global leadership.",
     "coreqs": [],
     "prereqs": []
   },
@@ -249,7 +263,9 @@
       { "term": "202310", "crn": "11308" },
       { "term": "202240", "crn": "40089" },
       { "term": "202240", "crn": "40086" },
-      { "term": "202330", "crn": "33868" }
+      { "term": "202330", "crn": "33868" },
+      { "term": "202340", "crn": "40084" },
+      { "term": "202340", "crn": "40081" }
     ],
     "description": "Focuses on the international business environment, and examines the influence on global decision making of such areas as the international economy and trade issues, legal and political context differences, governmental actions, cultural and ethical system differences, exchange rates and international currency markets,  international institutions like the World Trade Organization and the International Monetary Fund, and regional agreements like the European Union, NAFTA, and Mercosur. Also analyzes why firms internationalize their operations, how they can internationalize, and key areas such as international manufacturing, marketing, human resource management, and strategy.",
     "coreqs": [],
@@ -266,9 +282,22 @@
       { "term": "202310", "crn": "19527" },
       { "term": "202310", "crn": "11557" },
       { "term": "202310", "crn": "11558" },
-      { "term": "202240", "crn": "40158" }
+      { "term": "202240", "crn": "40158" },
+      { "term": "202350", "crn": "50130" }
     ],
     "description": "Focuses on issues that arise when a firm operates in multiple countries with cultures that are different from its home country. Principally addresses the perspectives of U.S. firms operating overseas, but also explores other national firms operating in the United States and in third-country environments. A central issue is how corporate cultures evolve in the context of national cultures.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INTB",
+    "number": "6224",
+    "title": "Competing to Win in Emerging Markets",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39389" }],
+    "description": "Offers students an opportunity to develop an understanding of emerging markets. Analyzes how U.S. firms enter emerging markets and compete with emerging market firms and how emerging market companies compete with developed market companies and with each other. Explores the future of emerging markets and the steps they need to take to ensure their future viability and success, as well as the threats they face.",
     "coreqs": [],
     "prereqs": []
   },
@@ -296,7 +325,11 @@
     "nuPath": [],
     "sections": [
       { "term": "202240", "crn": "41789" },
-      { "term": "202240", "crn": "41790" }
+      { "term": "202240", "crn": "41790" },
+      { "term": "202340", "crn": "41425" },
+      { "term": "202340", "crn": "41426" },
+      { "term": "202330", "crn": "40550" },
+      { "term": "202330", "crn": "40551" }
     ],
     "description": "Designed to give students intense exposure to the global business environment by immersing them in the business practices and culture of a country or region outside the United States. The course is taught primarily in the country or region of interest and involves a mix of classes, company site visits, and cultural activities. Fulfills the globalization requirement in the full-time MBA program. May be repeated without limit.",
     "coreqs": [],

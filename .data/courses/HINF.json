@@ -9,7 +9,8 @@
     "sections": [
       { "term": "202310", "crn": "11084" },
       { "term": "202310", "crn": "11176" },
-      { "term": "202260", "crn": "60619" }
+      { "term": "202260", "crn": "60619" },
+      { "term": "202360", "crn": "60556" }
     ],
     "description": "Introduces the history and current status of information systems in healthcare: information architectures, administrative and clinical applications, evidence-based medicine, information retrieval, decision support systems, security and confidentiality, bioinformatics, information system cycles, the electronic health record, key health information systems and standards, and medical devices. Requires enrollment in Graduate Health Informatics Program.",
     "coreqs": [],
@@ -43,7 +44,7 @@
       { "term": "202330", "crn": "31060" },
       { "term": "202330", "crn": "38601" }
     ],
-    "description": "Covers the organization, financing, and outcomes of the U.S. healthcare system. Studies opportunities and challenges to improve the cost and quality of healthcare and expand adequate coverage to all. Non&#8211;health informatics students may be able to take the course with permission of the program director.",
+    "description": "Covers the organization, financing, and outcomes of the U.S. healthcare system. Studies opportunities and challenges to improve the cost and quality of healthcare and expand adequate coverage to all. Non–health informatics students may be able to take the course with permission of the program director.",
     "coreqs": [],
     "prereqs": []
   },
@@ -102,7 +103,11 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33711" }],
+    "sections": [
+      { "term": "202330", "crn": "33711" },
+      { "term": "202350", "crn": "51210" },
+      { "term": "202350", "crn": "52406" }
+    ],
     "description": "Explores the business of healthcare and the practical application of decision support needed to improve access to care, improve health outcomes, and reduce the cost of care. Discusses the impact of consumerism, risk-based purchasing (including ACOs), the migration from facility to home and community-based care (including medical home models), the implied broadening of the healthcare supply chain, and emerging technology trends such as blockchain.",
     "coreqs": [],
     "prereqs": []
@@ -181,6 +186,18 @@
   },
   {
     "subject": "HINF",
+    "number": "6240",
+    "title": "Improving Patient Experience",
+    "scheduleType": "Seminar",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50439" }],
+    "description": "Explores the current and future dynamics influencing care for patients. The patient experience is a key differentiator in delivery of healthcare. Technology makes a difference for the patient in both the delivery of advanced care applications and innovation. Discusses and explores technology and workflow enhancements that could work to improve the patient experience from a cost, quality, and care perspective. Examines best practices and organizations and evaluates how they are using informatics to deliver a better patient experience. Analyzes change management and why change is difficult within healthcare and explores case studies on how to make change happen and the role that change plays in connection with technology. People, process, and technology all need to be present to offer an ideal experience.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HINF",
     "number": "6335",
     "title": "Management Issues in Healthcare Information Technology",
     "scheduleType": "Seminar",
@@ -193,13 +210,44 @@
   },
   {
     "subject": "HINF",
+    "number": "6345",
+    "title": "Design for Usability Health",
+    "scheduleType": "Seminar",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50601" }],
+    "description": "Introduces the general principles of usability and user interface design as they relate to healthcare technology. Through a series of hands-on projects, offers students an opportunity to gain skill in user-centered/UX research and design methodologies such as interviewing, persona creation, task analysis, usability testing, prototyping, and iterative design. Class materials, exercises, and discussions cover usability and design for EHRs/ EMRs, connected health, smart home products, and interoperability. While there are no prerequisites for this course, the material is directed toward advanced students who need to understand how to design usable interactive products and software within healthcare so they can either do the work themselves or manage this function within a project.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HINF",
+    "number": "6350",
+    "title": "Public Health Informatics",
+    "scheduleType": "Seminar",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50225" }],
+    "description": "Offers students an opportunity to learn how public health information is generated, collected, transferred, and shared. Discusses the principles and practice of public health surveillance as well as the application of health informatics standards and methods in the design of surveillance systems. Also reviews the core components of analysis and interpretation of population data. Non&#8211;health informatics students may be able to take the course with permission of the program director.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "HINF", "number": "5101" },
+      "Or",
+      { "subject": "HINF", "number": "5101" }
+    ]
+  },
+  {
+    "subject": "HINF",
     "number": "6355",
     "title": "Interoperability Key Standards in Health Informatics",
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30941" }],
-    "description": "Reviews the different healthcare informatics standards for storing and exchanging data in healthcare technology systems. Covers where and how they are used, where and why they are not used, and an overview of some of the types of products available to facilitate their use. Seeks to demystify the details behind the standards. Offers students an opportunity to work through examples in small groups in class and discuss issues involving the standards' adoption and use. Non&#8211;health informatics students may be able to take the course with permission of the program director.",
+    "sections": [
+      { "term": "202330", "crn": "30941" },
+      { "term": "202330", "crn": "39588" }
+    ],
+    "description": "Reviews the different healthcare informatics standards for storing and exchanging data in healthcare technology systems. Covers where and how they are used, where and why they are not used, and an overview of some of the types of products available to facilitate their use. Seeks to demystify the details behind the standards. Offers students an opportunity to work through examples in small groups in class and discuss issues involving the standards' adoption and use. Non–health informatics students may be able to take the course with permission of the program director.",
     "coreqs": [],
     "prereqs": [
       { "subject": "HINF", "number": "5101" },
@@ -228,7 +276,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "32862" },
-      { "term": "202330", "crn": "39094" }
+      { "term": "202330", "crn": "39094" },
+      { "term": "202330", "crn": "39589" }
     ],
     "description": "Studies patient engagement and health informatics systems and analyses of data collected from these systems. Patient engagement is the ability and willingness of patients to manage their own health and care combined with interventions to increase patient involvement in their own health and care, as well as other positive health behaviors. In these interventions, health informatics systems and analyses of data are used. Offers students an opportunity to engage in data analytic exercises to investigate the underlying design and implementation of health informatics systems used in patient engagement initiatives. Presents an overview of the current state, new technologies, and other areas (health reform, legal, privacy, quantified self) influencing the future direction of patient engagement.",
     "coreqs": [],
@@ -241,7 +290,10 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "13552" }],
+    "sections": [
+      { "term": "202310", "crn": "13552" },
+      { "term": "202350", "crn": "50480" }
+    ],
     "description": "Examines the various ways in which health informatics delivers value to organizations. Organizations invest in informatics because they believe that doing so will enable them to meet their objectives. The course offers students a series of tools to use to quantify value, which can help them to articulate and assess the value of potential investments in informatics. Examines case studies to offer students an opportunity to practice articulating the value of informatics in real settings.",
     "coreqs": [],
     "prereqs": []
@@ -255,7 +307,10 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "10972" },
-      { "term": "202330", "crn": "34037" }
+      { "term": "202330", "crn": "34037" },
+      { "term": "202350", "crn": "50019" },
+      { "term": "202350", "crn": "52407" },
+      { "term": "202330", "crn": "39590" }
     ],
     "description": "Offers students an opportunity to integrate knowledge gained in the classroom with real-world problems. Consists of practical work and research in a major area of health informatics. Potential areas of work include design or analysis of health informatics systems, programs, or applications; program planning; and policy development. Encourages community-based participatory projects. To the extent possible, capstone projects have as a goal an active contribution to the health informatics field. Students initiate and design capstone projects in consultation with working professionals. Faculty members provide guidance and mentoring. Requires prior completion of at least three semesters of graduate study in health informatics.",
     "coreqs": [],
@@ -276,9 +331,29 @@
       { "term": "202330", "crn": "34042" },
       { "term": "202330", "crn": "34074" },
       { "term": "202330", "crn": "34075" },
-      { "term": "202330", "crn": "34079" }
+      { "term": "202330", "crn": "34079" },
+      { "term": "202350", "crn": "50853" },
+      { "term": "202330", "crn": "40261" }
     ],
     "description": "Offers selected readings under the supervision of a faculty member. Personal health informatics PhD students only.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HINF",
+    "number": "8986",
+    "title": "Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202350", "crn": "51915" },
+      { "term": "202350", "crn": "51970" },
+      { "term": "202350", "crn": "52064" },
+      { "term": "202350", "crn": "52075" },
+      { "term": "202350", "crn": "52076" }
+    ],
+    "description": "Offers an opportunity to conduct full-time research under faculty supervision.",
     "coreqs": [],
     "prereqs": []
   },
@@ -309,7 +384,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "37515" }],
+    "sections": [
+      { "term": "202330", "crn": "37515" },
+      { "term": "202350", "crn": "51084" }
+    ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
     "prereqs": [{ "subject": "HINF", "number": "9990" }]
@@ -330,7 +408,14 @@
       { "term": "202330", "crn": "34091" },
       { "term": "202330", "crn": "34092" },
       { "term": "202330", "crn": "34093" },
-      { "term": "202330", "crn": "34094" }
+      { "term": "202330", "crn": "34094" },
+      { "term": "202340", "crn": "40737" },
+      { "term": "202350", "crn": "50933" },
+      { "term": "202350", "crn": "51009" },
+      { "term": "202350", "crn": "50976" },
+      { "term": "202350", "crn": "50977" },
+      { "term": "202350", "crn": "50978" },
+      { "term": "202350", "crn": "50979" }
     ],
     "description": "Continues work with the agreement of a dissertation supervisor.",
     "coreqs": [],

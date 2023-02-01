@@ -38,7 +38,9 @@
       { "term": "202330", "crn": "31511" },
       { "term": "202330", "crn": "38739" },
       { "term": "202310", "crn": "21510" },
-      { "term": "202310", "crn": "21511" }
+      { "term": "202310", "crn": "21511" },
+      { "term": "202330", "crn": "39073" },
+      { "term": "202330", "crn": "40247" }
     ],
     "description": "Introduces students to the Cooperative Education Program and provides them with an opportunity to develop job-search and career-management skills. Offers students an opportunity to perform assessments of their workplace skills, interests, and values and discuss how they impact personal career choices. Students also have an opportunity to prepare a professional-style résumé, learn proper interviewing techniques, and gain an understanding of the opportunities available to them for co-op. Introduces career paths, choices, professional behaviors, work culture, and career decision making. Familiarizes students with workplace issues relative to their field of study and teaches them to use myNEU in the job-search and referral process. Presents co-op policies, procedures, and expectations of the Department of Cooperative Education and co-op employers.",
     "coreqs": [],
@@ -58,7 +60,10 @@
       { "term": "202260", "crn": "60914" },
       { "term": "202240", "crn": "41078" },
       { "term": "202330", "crn": "35250" },
-      { "term": "202330", "crn": "35251" }
+      { "term": "202330", "crn": "35251" },
+      { "term": "202360", "crn": "60682" },
+      { "term": "202360", "crn": "60683" },
+      { "term": "202350", "crn": "51285" }
     ],
     "description": "Offers an opportunity to document internship work. May be repeated without limit.",
     "coreqs": [],

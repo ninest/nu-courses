@@ -10,7 +10,8 @@
       { "term": "202310", "crn": "11336" },
       { "term": "202310", "crn": "20660" },
       { "term": "202330", "crn": "31420" },
-      { "term": "202330", "crn": "38735" }
+      { "term": "202330", "crn": "38735" },
+      { "term": "202360", "crn": "61321" }
     ],
     "description": "Examines the role of law and society from a regulatory, constitutional, and judicial perspective, noting the role each of these has played in shaping the current legal framework in the United States. Introduces students to the relationship between law, societal organizations (both nongovernmental organizations and not-for-profit organizations), the private sector, and the separate branches of government (the judiciary, congressional, and executive branches). Provides students with the opportunity to learn to legally analyze judicial opinions,  prepare legal memoranda, and present an oral argument before a “judge.”",
     "coreqs": [],
@@ -95,7 +96,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202330", "crn": "32061" }],
-    "description": "Provides an overview of the various aspects of urban sustainability planning. Examines sustainability as an urban planning approach with both ecological and social justice goals. Covers sustainable planning and offers students an opportunity to understand it within the context of smart growth and the new urbanism. Focuses on the two areas in which cities can reduce energy consumption and greenhouse gas emissions&#8212;the built environment and transportation. From there, the course examines planning efforts to reduce demand on water and sewer systems and to create employment in renewable energy and other &#8220;clean-tech&#8221; occupations. The course ends by placing urban initiatives in the context of state and national policy.",
+    "description": "Provides an overview of the various aspects of urban sustainability planning. Examines sustainability as an urban planning approach with both ecological and social justice goals. Covers sustainable planning and offers students an opportunity to understand it within the context of smart growth and the new urbanism. Focuses on the two areas in which cities can reduce energy consumption and greenhouse gas emissions—the built environment and transportation. From there, the course examines planning efforts to reduce demand on water and sewer systems and to create employment in renewable energy and other “clean-tech” occupations. The course ends by placing urban initiatives in the context of state and national policy.",
     "coreqs": [],
     "prereqs": []
   }

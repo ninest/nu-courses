@@ -12,7 +12,10 @@
       { "term": "202310", "crn": "13768" },
       { "term": "202310", "crn": "20844" },
       { "term": "202310", "crn": "20845" },
-      { "term": "202260", "crn": "61487" }
+      { "term": "202260", "crn": "61487" },
+      { "term": "202330", "crn": "32900" },
+      { "term": "202330", "crn": "38558" },
+      { "term": "202330", "crn": "38559" }
     ],
     "description": "Introduces object-oriented design and programming via the Java programming language; the use of inheritance, composition, and interface classes in software design; development of Java applets and applications; study of the Java class libraries, including the swing tool kit for building human computer interfaces, the network package for development of client-server systems, and the collections' package for data structures and sorting algorithms. Requires a course project. Requires knowledge of C programming.",
     "coreqs": [],
@@ -78,6 +81,18 @@
       "Or",
       { "subject": "INFO", "number": "5100" }
     ]
+  },
+  {
+    "subject": "CSYE",
+    "number": "6230",
+    "title": "Operating Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "33211" }],
+    "description": "Covers basic concepts of operating systems and system programming, such as utility programs, subsystems, and multiple-program systems. Main topics include processes, interprocess communication, and synchronization; memory allocation, segmentation, and paging; loading, linking, and libraries; resource allocation, scheduling, and performance evaluation; file systems, storage devices, and I/O systems; and protection, security, and privacy. Emphasizes key concepts through code design and development.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "INFO", "number": "6205" }]
   },
   {
     "subject": "CSYE",
@@ -176,7 +191,11 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21358" }],
+    "sections": [
+      { "term": "202310", "crn": "21358" },
+      { "term": "202330", "crn": "38561" },
+      { "term": "202330", "crn": "38563" }
+    ],
     "description": "Looks at the software life cycle (requirements analysis and specification, software design, coding, testing, and maintenance). Offers verification, validation, and documentation at various stages of the life cycle. Covers the Unified Modeling Language as applied to the software life cycle. Covers applications of design patterns. Overviews user interface design, software metrics, and software development environments. Emphasis is on modular software construction and development of modular libraries. Requires a small software development project.",
     "coreqs": [],
     "prereqs": [
@@ -218,7 +237,10 @@
       { "term": "202330", "crn": "34025" },
       { "term": "202330", "crn": "38564" },
       { "term": "202330", "crn": "38566" },
-      { "term": "202310", "crn": "21216" }
+      { "term": "202310", "crn": "21216" },
+      { "term": "202330", "crn": "32164" },
+      { "term": "202330", "crn": "38565" },
+      { "term": "202330", "crn": "40262" }
     ],
     "description": "Introduces user experience concepts while working on Web design projects. Offers students an opportunity to build the necessary skill sets to make better decisions when designing contemporary websites that cater to customer needs. Students practice interview techniques to understand user requirements while keeping user experience central to the effort. Uses wireframes and user scenarios to drive the creative design process. Various case studies are introduced and discussed in team settings to emphasize user perspectives. Uses quality assurance and usability testing to drive validation and user-acceptance testing and approvals.",
     "coreqs": [],
@@ -262,23 +284,13 @@
       { "term": "202310", "crn": "20877" },
       { "term": "202330", "crn": "38567" },
       { "term": "202330", "crn": "38568" },
-      { "term": "202310", "crn": "21319" }
+      { "term": "202310", "crn": "21319" },
+      { "term": "202330", "crn": "36937" },
+      { "term": "202330", "crn": "39520" }
     ],
     "description": "Offers topics of current interest in computer systems engineering. May be repeated without limit.",
     "coreqs": [],
     "prereqs": [{ "subject": "INFO", "number": "6205" }]
-  },
-  {
-    "subject": "CSYE",
-    "number": "7470",
-    "title": "Advanced Game Analytics",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "35235" }],
-    "description": "Explores the use of deep learning for the automated creation and analysis of game metrics. Uses convolutional neural networks (CNNs) to segment and identify anything on a game screen in real-time, which is used as input to AI systems. The second part of the course analyzes the importance of the metrics. Covers surrogate models, Shannon entropy, Individual Conditional Expectation (ICE), leave-one-covariate-out (LOCO), local feature importance, partial dependency plots, tree-based feature importance, standardized coefficient importance, accumulated local effects (ALE) plots, and Shapley values. Lastly, covers building predictive models with game data using the following techniques: supervised learning, generative/discriminative learning, parametric/nonparametric learning, neural networks, unsupervised learning reinforcement learning, and adaptive control.",
-    "coreqs": [],
-    "prereqs": [{ "subject": "INFO", "number": "6105" }]
   },
   {
     "subject": "CSYE",
@@ -289,7 +301,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "20819" },
-      { "term": "202310", "crn": "21063" }
+      { "term": "202310", "crn": "21063" },
+      { "term": "202330", "crn": "40372" }
     ],
     "description": "Offers theoretical or experimental work under individual faculty supervision. May be repeated without limit.",
     "coreqs": [],

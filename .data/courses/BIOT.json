@@ -49,7 +49,8 @@
       { "term": "202330", "crn": "35845" },
       { "term": "202330", "crn": "38638" },
       { "term": "202330", "crn": "38639" },
-      { "term": "202330", "crn": "38640" }
+      { "term": "202330", "crn": "38640" },
+      { "term": "202360", "crn": "61334" }
     ],
     "description": "Note: This course runs online September 7 through December 17 with on-ground Boston campus meetings on dates listed below.",
     "coreqs": [],
@@ -80,7 +81,10 @@
       { "term": "202330", "crn": "38641" },
       { "term": "202330", "crn": "38642" },
       { "term": "202330", "crn": "38643" },
-      { "term": "202330", "crn": "39093" }
+      { "term": "202330", "crn": "39093" },
+      { "term": "202360", "crn": "60939" },
+      { "term": "202350", "crn": "52528" },
+      { "term": "202330", "crn": "40030" }
     ],
     "description": "Exposes students to the business of biotech from scientific discovery startup through its product launch and subsequent organizational and scientific pipeline growth. Topics include scientific discovery, biotech-related funding and organizational structures, regulatory and clinical trial considerations, biotech alliances, patient access, ethics and compliance, and commercialization and growth while meeting unmet patient or consumer needs in this highly regulated industry. Although the focus is on the highest regulated standards in biopharma, the course also touches upon various aspects of other biotechnology domains.",
     "coreqs": [],
@@ -110,7 +114,7 @@
       { "term": "202330", "crn": "32701" },
       { "term": "202330", "crn": "39050" }
     ],
-    "description": "Covers managing projects and personnel in a technology-based organization Such activities are best carried out by those who combine the technical knowledge of their industry with the insight into the best practices for working with groups of highly educated, and often very experienced people. The biotechnology industry is strongly dependent on the concept that knowledge is always shared and ownership is collective. As the fundamental organizational mantra is teamwork, the principles of managing in this environment are key to achieving important goals. How to accomplish this and make decisions that drive innovation and success have common threads with other technology based industries, but with the added complexity of the scientific challenges facing the biotechnology industry. Restricted to students in the Bouv&#233; College of Health Sciences and in the College of Science or by permission of the program office.",
+    "description": "Covers managing projects and personnel in a technology-based organization Such activities are best carried out by those who combine the technical knowledge of their industry with the insight into the best practices for working with groups of highly educated, and often very experienced people. The biotechnology industry is strongly dependent on the concept that knowledge is always shared and ownership is collective. As the fundamental organizational mantra is teamwork, the principles of managing in this environment are key to achieving important goals. How to accomplish this and make decisions that drive innovation and success have common threads with other technology based industries, but with the added complexity of the scientific challenges facing the biotechnology industry. Restricted to students in the Bouvé College of Health Sciences and in the College of Science or by permission of the program office.",
     "coreqs": [],
     "prereqs": [{ "subject": "BIOT", "number": "5219" }]
   },
@@ -175,7 +179,8 @@
       { "term": "202310", "crn": "21017" },
       { "term": "202240", "crn": "41573" },
       { "term": "202330", "crn": "39078" },
-      { "term": "202310", "crn": "21341" }
+      { "term": "202310", "crn": "21341" },
+      { "term": "202350", "crn": "52405" }
     ],
     "description": "Introduces biotechnology students to scientific information management specifically related to the biotechnology field. Covers an introduction to data sciences, its history, and how it is relevant to biotech today. Offers students an opportunity to obtain the background needed to assess and use modern data management capabilities such as \"the cloud,\" big data, etc. Covers recent developments in origination of data, metadata, data models, data management, and organization and storage of data in biotechnology.",
     "coreqs": [],
@@ -236,7 +241,8 @@
       { "term": "202330", "crn": "35850" },
       { "term": "202330", "crn": "35851" },
       { "term": "202330", "crn": "38644" },
-      { "term": "202330", "crn": "38645" }
+      { "term": "202330", "crn": "38645" },
+      { "term": "202340", "crn": "41676" }
     ],
     "description": "Covers the principles and concepts involved in the development of mammalian and other types of cell culture processes for the manufacturing of biopharmaceutical products such as monoclonal antibodies and recombinant proteins. Topics include protein expression and clone generation, batch and perfusion processes and media development, bioreactor operations and scale-up, and innovations in cell culture processes. Regulatory concepts include quality assurance in a cGMP environment.",
     "coreqs": [],
@@ -359,6 +365,18 @@
   },
   {
     "subject": "BIOT",
+    "number": "5964",
+    "title": "Projects for Professionals",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "50685" }],
+    "description": "Offers students an applied project setting in which to apply their curricular learning. Working with a sponsor, students refine an applied research topic, perform research, develop recommendations that are shared with a partner sponsor, and create a plan for implementing their recommendations. Seeks to benefit students with a curriculum that supports the development of key business communication skills, project and client management skills, and frameworks for business analysis. Offers students an opportunity to learn from sponsor feedback, review 'lessons learned,' and incorporate suggestions from this review to improve and further develop their career development and professional plan. May be repeated twice.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BIOT",
     "number": "6100",
     "title": "Agricultural Biotechnology",
     "scheduleType": "Lecture",
@@ -388,7 +406,10 @@
       { "term": "202330", "crn": "35854" },
       { "term": "202330", "crn": "36318" },
       { "term": "202330", "crn": "38649" },
-      { "term": "202330", "crn": "38650" }
+      { "term": "202330", "crn": "38650" },
+      { "term": "202340", "crn": "41677" },
+      { "term": "202330", "crn": "39967" },
+      { "term": "202330", "crn": "39968" }
     ],
     "description": "Explores the principles of experimental design and statistical analysis. Emphasizes research in the molecular and biological sciences and biotechnology. Topics include probability theory, sampling hypothesis formulation and testing, and parametric and nonparametric statistical methods.",
     "coreqs": [],
@@ -417,7 +438,8 @@
       { "term": "202330", "crn": "34482" },
       { "term": "202330", "crn": "35855" },
       { "term": "202330", "crn": "39051" },
-      { "term": "202330", "crn": "39340" }
+      { "term": "202330", "crn": "39340" },
+      { "term": "202330", "crn": "39969" }
     ],
     "description": "Emphasizes quality management systems (QMS) and validation as it relates to the production and processes related to pharmaceuticals, including biopharmaceuticals. Discusses the implementation of a QMS plan, to include document processes, procedures, metrics, reporting, and responsibilities, aligned with pharmaceutical and biotechnology companies’ business objectives. Emphasizes implementation, signaling problems (continual improvement), transparency, validation, and team cooperation/dynamics. Specifically discusses the International Council on Harmonisation (ICH) Q10 guidelines. Topics related to QMS may include objectives, manual, organization structural responsibilities, data management, processes, product quality, continuous improvement plans, quality instruments, and document control.",
     "coreqs": [],
@@ -432,6 +454,21 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "16248" }],
     "description": "Discusses the importance of sterile operations in producing drug products, as part of good manufacturing practice (GMP). Emphasizes sterile manufacturing operations for all drugs.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BIOT",
+    "number": "6400",
+    "title": "Pre-co-op Experience",
+    "scheduleType": "Off-campus instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202350", "crn": "50236" },
+      { "term": "202350", "crn": "51908" }
+    ],
+    "description": "Offers students an opportunity to gain necessary skills and practical experience in order to prepare for graduate co-op.",
     "coreqs": [],
     "prereqs": []
   },
@@ -473,7 +510,12 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21806" }],
+    "sections": [
+      { "term": "202310", "crn": "21806" },
+      { "term": "202350", "crn": "50787" },
+      { "term": "202350", "crn": "52348" },
+      { "term": "202330", "crn": "40443" }
+    ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -494,7 +536,14 @@
       { "term": "202260", "crn": "61510" },
       { "term": "202260", "crn": "61511" },
       { "term": "202240", "crn": "41837" },
-      { "term": "202240", "crn": "41838" }
+      { "term": "202240", "crn": "41838" },
+      { "term": "202360", "crn": "61335" },
+      { "term": "202360", "crn": "61336" },
+      { "term": "202340", "crn": "41473" },
+      { "term": "202340", "crn": "41474" },
+      { "term": "202350", "crn": "51396" },
+      { "term": "202350", "crn": "52262" },
+      { "term": "202330", "crn": "40079" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
@@ -511,9 +560,27 @@
       { "term": "202310", "crn": "18017" },
       { "term": "202260", "crn": "61158" },
       { "term": "202260", "crn": "61556" },
-      { "term": "202310", "crn": "21259" }
+      { "term": "202310", "crn": "21259" },
+      { "term": "202360", "crn": "60830" },
+      { "term": "202360", "crn": "61190" },
+      { "term": "202330", "crn": "40140" }
     ],
     "description": "Provides eligible students with an opportunity for work experience abroad. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BIOT",
+    "number": "6980",
+    "title": "Biotechnology Capstone",
+    "scheduleType": "Seminar",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202350", "crn": "51709" },
+      { "term": "202330", "crn": "39596" }
+    ],
+    "description": "Offers students an opportunity to integrate and apply the skills learned in earlier courses to an independent project supervised by a faculty mentor. The goals of the capstone are to develop skills in communicating the results of independent projects; increase student awareness of research in biotechnology outside of their own work; demonstrate a familiarity with the literature background to their work, including a working knowledge of literature searching; and provide an opportunity to reflect on individual progress toward a career in biotechnology.",
     "coreqs": [],
     "prereqs": []
   },
@@ -538,21 +605,12 @@
       { "term": "202330", "crn": "36616" },
       { "term": "202330", "crn": "36717" },
       { "term": "202330", "crn": "38651" },
-      { "term": "202330", "crn": "39025" }
+      { "term": "202330", "crn": "39025" },
+      { "term": "202360", "crn": "61337" },
+      { "term": "202360", "crn": "61406" },
+      { "term": "202360", "crn": "61407" }
     ],
     "description": "Presents a laboratory course in biotechnology with a focus on cutting-edge instrumentation that is currently used in the field.  Directs special attention at the practical aspects of laboratory work in this field, for example, techniques in sample preparation, procedures for protein analysis, and new bioinformatic approaches.  Focuses on the emerging field of chemiproteomics, which is the study of the interaction of small molecules with the proteome, that is, the full complement of proteins expressed in an individual cell or organism.  Exposes the student to hands-on experience with modern instrumentation, such as mass spectrometry and high performance liquid chromatography.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "BIOT",
-    "number": "7250",
-    "title": "Advanced Biotechnology Applications Laboratory",
-    "scheduleType": "Lab",
-    "credits": 3,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36096" }],
-    "description": "Focuses on advanced biological and bioprocess engineering concepts. Uses industrial-scale systems and technology platforms. Offers students an opportunity to learn lab techniques used in manufacturing and production of biotherapeutic products (protein-based drugs such as monoclonal antibodies) and cell and gene therapies. Offers hands-on experience with industrial-scale bioreactors, protein purification systems, and mass spectrometry. Emphasizes understanding critical process parameters (CPPs) and critical quality attributes (CQAs) in drug production.",
     "coreqs": [],
     "prereqs": []
   }

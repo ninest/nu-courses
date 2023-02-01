@@ -17,7 +17,9 @@
       { "term": "202330", "crn": "38533" },
       { "term": "202330", "crn": "36525" },
       { "term": "202330", "crn": "36526" },
-      { "term": "202330", "crn": "38534" }
+      { "term": "202330", "crn": "38534" },
+      { "term": "202360", "crn": "60872" },
+      { "term": "202340", "crn": "40853" }
     ],
     "description": "Engages students in problem solving from an engineering perspective, offering essential computer hardware and software knowledge and experience. Computational problem solving involves expressing solutions to engineering problems in a way that a computer can efficiently solve. As our world continues to become more automated and interconnected, it becomes increasingly important to be able to leverage computer software and hardware, enabling us to evaluate and solve real-world engineering challenges. Offers students an opportunity to learn engineering solution design, leveraging a high-level programming language appropriate for interfacing hardware-based systems. Stresses best practices in design. Coursework includes programming assignments, quizzes, and a final project, offering students a number of ways to demonstrate their understanding of the concepts.",
     "coreqs": [],
@@ -74,7 +76,8 @@
       { "term": "202310", "crn": "13196" },
       { "term": "202240", "crn": "41084" },
       { "term": "202330", "crn": "31901" },
-      { "term": "202330", "crn": "32014" }
+      { "term": "202330", "crn": "32014" },
+      { "term": "202340", "crn": "41737" }
     ],
     "description": "Offers an integrated lecture/lab course that covers the basics of the Unix operating system, high-level programming concepts, introductory digital design, wireless networking, and Simulink design. Offers students a hands-on experience developing a remote-controlled robotic arm using an embedded systems platform.",
     "coreqs": [],
@@ -149,7 +152,9 @@
       { "term": "202330", "crn": "30307" },
       { "term": "202330", "crn": "34608" },
       { "term": "202330", "crn": "34711" },
-      { "term": "202330", "crn": "37238" }
+      { "term": "202330", "crn": "37238" },
+      { "term": "202360", "crn": "60634" },
+      { "term": "202340", "crn": "40925" }
     ],
     "description": "Covers the design and evaluation of control and data structures for digital systems. Uses hardware description languages to describe and design both behavioral and register-transfer-level architectures and control units. Topics covered include number systems, data representation, a review of combinational and sequential digital logic, finite state machines, arithmetic-logic unit (ALU) design, basic computer architecture, the concepts of memory and memory addressing, digital interfacing, timing, and synchronization. Assignments include designing and simulating digital hardware models using Verilog as well as some assembly language to expose the interface between hardware and software.",
     "coreqs": [{ "subject": "EECE", "number": "2323" }],
@@ -185,7 +190,10 @@
       { "term": "202330", "crn": "30305" },
       { "term": "202330", "crn": "34712" },
       { "term": "202330", "crn": "34713" },
-      { "term": "202330", "crn": "37239" }
+      { "term": "202330", "crn": "37239" },
+      { "term": "202360", "crn": "60635" },
+      { "term": "202340", "crn": "40926" },
+      { "term": "202330", "crn": "39761" }
     ],
     "description": "Offers students an opportunity to design and implement a simple computer system on field-programmable logic using a hardware description language. Covers simulation and testing of designs.",
     "coreqs": [{ "subject": "EECE", "number": "2322" }],
@@ -247,7 +255,8 @@
       { "term": "202310", "crn": "12218" },
       { "term": "202240", "crn": "40979" },
       { "term": "202330", "crn": "31902" },
-      { "term": "202330", "crn": "31903" }
+      { "term": "202330", "crn": "31903" },
+      { "term": "202340", "crn": "40825" }
     ],
     "description": "Develops the basic theory of continuous and discrete systems, emphasizing linear time-invariant systems. Discusses the representation of signals and systems in both the time and frequency domain. Topics include linearity, time invariance, causality, stability, convolution, system interconnection, and sinusoidal response. Develops the Fourier and Laplace transforms for the discussion of frequency-domain applications. Analyzes sampling and quantization of continuous waveforms (A/D and D/A conversion), leading to the discussion of discrete-time FIR and IIR systems, recursive analysis, and realization. The Z-transform and the discrete-time Fourier transform are developed and applied to the analysis of discrete-time signals and systems.",
     "coreqs": [],
@@ -379,7 +388,8 @@
     "sections": [
       { "term": "202310", "crn": "12217" },
       { "term": "202310", "crn": "13379" },
-      { "term": "202330", "crn": "31906" }
+      { "term": "202330", "crn": "31906" },
+      { "term": "202340", "crn": "41738" }
     ],
     "description": "Covers the design and implementation of algorithms to solve engineering problems using a high-level programming language. Reviews elementary data structures, such as arrays, stacks, queues, and lists, and introduces more advanced structures, such as trees and graphs and the use of recursion. Covers both the algorithms to manipulate these data structures as well as their use in problem solving. Introduces algorithm complexity analysis and its application to developing efficient algorithms. Emphasizes the importance of software engineering principles.",
     "coreqs": [],
@@ -411,7 +421,8 @@
     "sections": [
       { "term": "202310", "crn": "10346" },
       { "term": "202240", "crn": "40548" },
-      { "term": "202330", "crn": "30304" }
+      { "term": "202330", "crn": "30304" },
+      { "term": "202340", "crn": "40507" }
     ],
     "description": "Presents a range of topics that include assembly language programming, number systems, data representations, ALU design, arithmetic, the instruction set architecture, and the hardware/software interface. Offers students an opportunity to program using assembly language and to simulate execution. Covers the architecture of modern processors, including datapath/control design, caching, memory management, pipelining, and superscalar. Discusses metrics and benchmarking techniques used for evaluating performance.",
     "coreqs": [],
@@ -450,7 +461,8 @@
     "sections": [
       { "term": "202310", "crn": "11102" },
       { "term": "202240", "crn": "40561" },
-      { "term": "202330", "crn": "30848" }
+      { "term": "202330", "crn": "30848" },
+      { "term": "202340", "crn": "40518" }
     ],
     "description": "Covers advanced analog and mixed-signal circuit analysis topics. Introduces analog integrated circuits (ICs) concepts with bipolar and field effect transistor devices. Covered IC building blocks include current sources and active loads, differential stages, cascode configurations, gain stages, and output stages. The uses of the building blocks are demonstrated for the design of popular ICs, such as operational amplifiers and voltage comparators. The high-frequency circuit models of transistors are described and used to evaluate the frequency responses of amplifiers. Introduces analog-to-digital and digital-to-analog conversion concepts and the concepts of feedback and instability with applications to the design of amplifiers and oscillators. The course makes extensive use of the SPICE simulation tool for assignments and projects.",
     "coreqs": [],
@@ -466,7 +478,8 @@
     "sections": [
       { "term": "202310", "crn": "12987" },
       { "term": "202260", "crn": "60467" },
-      { "term": "202330", "crn": "31143" }
+      { "term": "202330", "crn": "31143" },
+      { "term": "202360", "crn": "60440" }
     ],
     "description": "Discusses probability, random variables, random processes, and their application to noise in electrical systems. Begins with the basic theory of discrete and continuous probabilities, then develops the concepts of random variables, random vectors, random sequences, and random processes. Continues with a discussion on the physical origins of noise and models of where it is encountered in electronic devices, signal processing, and communications. Defines the concepts of correlation, covariance, and power density spectra and uses them to analyze linear system operations in continuous time.",
     "coreqs": [],
@@ -572,7 +585,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202240", "crn": "41383" },
-      { "term": "202330", "crn": "32187" }
+      { "term": "202330", "crn": "32187" },
+      { "term": "202360", "crn": "61382" }
     ],
     "description": "Introduces robotics analysis covering basic theory of kinematics, dynamics, and control of robots. Develops students' design capabilities of microprocessor-based control systems with input from sensory devices and output actuators by having teams of students design and implement a small mobile robot system to complete a specific task, culminating in a competition at the end of the course. Covers actuators, sensors, system modeling, analysis, and motion control of robots.",
     "coreqs": [],
@@ -664,7 +678,14 @@
       { "term": "202240", "crn": "40042" },
       { "term": "202240", "crn": "40043" },
       { "term": "202240", "crn": "40257" },
-      { "term": "202240", "crn": "40695" }
+      { "term": "202240", "crn": "40695" },
+      { "term": "202360", "crn": "60040" },
+      { "term": "202360", "crn": "60013" },
+      { "term": "202360", "crn": "60209" },
+      { "term": "202360", "crn": "60566" },
+      { "term": "202340", "crn": "40041" },
+      { "term": "202340", "crn": "40243" },
+      { "term": "202340", "crn": "40622" }
     ],
     "description": "Requires students to select a project requiring design and implementation of an electrical, electronic, and/or software system, including evaluation of multiple constraints and use of appropriate engineering standards in the design; formation of a team to carry out the project; and submission and presentation of a detailed proposal for the work. Students must specify the materials needed for their project, provide a cost analysis, and make arrangements with their capstone adviser to purchase and/or secure donation of equipment. Requires students to perform a feasibility study by extensive simulation or prototype design of subsystems to facilitate the second phase of the capstone design, considering public health, safety and welfare, global, cultural, social, environmental, and economic factors.",
     "coreqs": [],
@@ -744,33 +765,6 @@
       { "subject": "EECE", "number": "2540" },
       "Or",
       { "subject": "CS", "number": "3700" },
-      "Or",
-      "Graduate Admission"
-    ]
-  },
-  {
-    "subject": "EECE",
-    "number": "5170",
-    "title": "Introduction to Multiferroics Materials and Systems",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [
-      { "term": "202330", "crn": "33204" },
-      { "term": "202330", "crn": "36532" }
-    ],
-    "description": "Offered by the NSF Nanosystems Engineering Research Center for Translational Applications of Nanoscale Multiferroic Systems (TANMS) and co-taught by professors from UCLA, UC Berkeley, Cornell, California State University Northridge, and Northeastern University. Course lectures will be available online for remote students. Covers introduction to multiferroics, atomic structure of multiferroics (chemistry), multiferroic material science, continuum-level analysis of multiferroic materials, and multiferroic devices.",
-    "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "MATH", "number": "2321" },
-      "And",
-      { "subject": "PHYS", "number": "1155" },
-      "And",
-      "(",
-      "Or",
-      ")",
-      ")",
       "Or",
       "Graduate Admission"
     ]
@@ -882,9 +876,10 @@
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "34613" },
-      { "term": "202330", "crn": "36533" }
+      { "term": "202330", "crn": "36533" },
+      { "term": "202330", "crn": "39716" }
     ],
-    "description": "Examines fundamental principles of wireless system design, focusing on modern techniques used in cellular systems and wireless local area networks. Covers various levels of system design, from modulation/detection to traffic analysis. Introduces basics of radio propagation and studies their effect on communication signals. Special topics include spatial frequency reuse; call blocking and cellular system capacity; power control and hand-off strategies; channel access and sharing; orthogonal frequency division multiplexing (OFDM&#8212;a modulation technique used in WLAN and the fourth-generation [4G] cellular systems) and spread spectrum modulation (third-generation WCDMA systems); diversity techniques and multi-input multi-output (MIMO) signal processing. Requires an undergraduate course in communications systems.",
+    "description": "Examines fundamental principles of wireless system design, focusing on modern techniques used in cellular systems and wireless local area networks. Covers various levels of system design, from modulation/detection to traffic analysis. Introduces basics of radio propagation and studies their effect on communication signals. Special topics include spatial frequency reuse; call blocking and cellular system capacity; power control and hand-off strategies; channel access and sharing; orthogonal frequency division multiplexing (OFDM—a modulation technique used in WLAN and the fourth-generation [4G] cellular systems) and spread spectrum modulation (third-generation WCDMA systems); diversity techniques and multi-input multi-output (MIMO) signal processing. Requires an undergraduate course in communications systems.",
     "coreqs": [],
     "prereqs": [
       { "subject": "EECE", "number": "3400" },
@@ -949,7 +944,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34614" }],
+    "sections": [
+      { "term": "202330", "crn": "34614" },
+      { "term": "202330", "crn": "40334" }
+    ],
     "description": "Introduces fundamentals of statistical inference and data analysis through concepts of detection, estimation, and related signal processing algorithms. Addresses topics of hypothesis testing, Bayesian principles, multiple hypotheses and composite hypothesis testing, test power and uniformly powerful tests, likelihood functions, sufficient statistics, optimal estimation, bounds on the estimator variance, minimum variance linear estimation, prediction and regression, interval estimation, and confidence. Extraction of useful information from noisy observations and informed decision making are at the core of multiple disciplines ranging from traditional communications and sensor array processing to biomedical data analysis, pattern recognition and machine learning, security and defense, and financial engineering. Lectures are supported by illustrative examples, hands-on exercises, and numerical implementations grounded in real-world examples.",
     "coreqs": [],
     "prereqs": [
@@ -1099,7 +1097,8 @@
       { "term": "202240", "crn": "41083" },
       { "term": "202330", "crn": "38543" },
       { "term": "202330", "crn": "33216" },
-      { "term": "202330", "crn": "33951" }
+      { "term": "202330", "crn": "33951" },
+      { "term": "202350", "crn": "52475" }
     ],
     "description": "Studies machine learning (the study and design of algorithms that enable computers/machines to learn from experience/data). Covers a range of algorithms, focusing on the underlying models between each approach. Emphasizes the foundations to prepare students for research in machine learning. Topics include Bayes decision theory, maximum likelihood parameter estimation, model selection, mixture density estimation, support vector machines, neural networks, probabilistic graphics models, and ensemble methods (boosting and bagging). Offers students an opportunity to learn where and how to apply machine learning algorithms and why they work.",
     "coreqs": [],
@@ -1151,7 +1150,29 @@
       ")",
       ")",
       "Or",
-      { "subject": "EECE", "number": "5644" }
+      { "subject": "EECE", "number": "5644" },
+      "Or",
+      { "subject": "DS", "number": "5220" },
+      "Or",
+      { "subject": "DS", "number": "5230" }
+    ]
+  },
+  {
+    "subject": "EECE",
+    "number": "5647",
+    "title": "Nanophotonics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39490" }],
+    "description": "Introduces basic concepts and recent developments in nanophotonic materials and devices. Nanophotonics is one very important research area in nanotechnology. Discusses the fundamentals of electromagnetics (Maxwell's equations, polarization, wave propagations, etc.); quantum mechanics; and typical nanofabrication and characterization techniques. Focuses on specific topics in nanophotonics, including silicon photonics; photonic crystals; plasmonics and optical metamaterials, with their diverse applications in optical circuits; imaging; optical trapping; biomedical sensing; and energy harvesting. Offers students an opportunity to obtain a fundamental understanding of the property and manipulation of light at the nanoscale.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "EECE", "number": "3440" },
+      "Or",
+      { "subject": "EECE", "number": "2530" },
+      "Or",
+      "Graduate Admission"
     ]
   },
   {
@@ -1332,7 +1353,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202240", "crn": "41122" },
-      { "term": "202240", "crn": "41921" }
+      { "term": "202240", "crn": "41921" },
+      { "term": "202340", "crn": "41756" }
     ],
     "description": "Introduces some of the unique electromagnetic devices integrated in current and future technologies in the field of electromagnetics. These devices have impacted various disciplines including wireless systems, radar and space research, photonics, and bio and medical imaging. Covers transmission lines, RF/microwave circuits, high-frequency power dividers, and filters components. Discusses the translational area of antennas and wireless systems, radiation synthesis, and array antennas. Discusses some photonic components, as well as emerging applications such as antennas for 5G, massive MIMO (multiple-input and multiple-output) wireless antennas, and wearable sensors.",
     "coreqs": [],
@@ -1460,7 +1482,8 @@
       { "term": "202310", "crn": "13384" },
       { "term": "202310", "crn": "16956" },
       { "term": "202330", "crn": "32853" },
-      { "term": "202330", "crn": "33828" }
+      { "term": "202330", "crn": "33828" },
+      { "term": "202350", "crn": "52476" }
     ],
     "description": "Introduces fundamental techniques in computer engineering used throughout the graduate curriculum. Covers basic programming and analysis methods and the formulation and solution of a wide range of computer engineering problems. Also discusses the applications of algorithm analysis and complexity theory to analyzing and solving problems. Emphasizes those fundamental computational problems and related algorithms whose solution can be obtained in polynomial time. For basic computational problems such as sorting, searching, elementary graph algorithms, shortest-paths problems, as well as flow problems in networks, many different algorithms and data structures are described and analyzed, implemented, and compared both from a theoretical and from an experimental point of view.",
     "coreqs": [],
@@ -1717,7 +1740,9 @@
     "prereqs": [
       { "subject": "EECE", "number": "7205" },
       "Or",
-      { "subject": "EECE", "number": "2560" }
+      { "subject": "EECE", "number": "2560" },
+      "Or",
+      { "subject": "CS", "number": "3000" }
     ]
   },
   {
@@ -1730,7 +1755,7 @@
     "sections": [{ "term": "202330", "crn": "38553" }],
     "description": "Covers computer hardware and embedded system security and trust, a major concern for national security. Topics include crypto engineering, side-channel attacks, hardware security primitives, counterfeit electronics detection and prevention, logic locking and obfuscation, hardware Trojan detection and isolation, passive and active metering for the prevention of piracy, FPGA security, and artificial intelligence security from a hardware perspective. Reviews the foundations of the new and evolving area of hardware security and trust, as well as the state-of-the-art on trusted and assured microelectronics and system-on-chip design. Discusses current frontier papers to motivate research interests and ideas in building secure and trustworthy computer hardware systems.",
     "coreqs": [],
-    "prereqs": [{ "subject": "EECE", "number": "7352" }]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -1817,7 +1842,14 @@
       { "term": "202310", "crn": "21619" },
       { "term": "202310", "crn": "21628" },
       { "term": "202310", "crn": "21699" },
-      { "term": "202310", "crn": "21825" }
+      { "term": "202310", "crn": "21825" },
+      { "term": "202330", "crn": "39733" },
+      { "term": "202330", "crn": "39823" },
+      { "term": "202330", "crn": "40016" },
+      { "term": "202330", "crn": "40146" },
+      { "term": "202330", "crn": "40312" },
+      { "term": "202330", "crn": "40361" },
+      { "term": "202330", "crn": "40757" }
     ],
     "description": "Offers theoretical or experimental work under individual faculty supervision.",
     "coreqs": [],
@@ -1862,7 +1894,10 @@
       { "term": "202310", "crn": "21427" },
       { "term": "202310", "crn": "21526" },
       { "term": "202310", "crn": "21617" },
-      { "term": "202310", "crn": "21702" }
+      { "term": "202310", "crn": "21702" },
+      { "term": "202330", "crn": "39982" },
+      { "term": "202330", "crn": "40589" },
+      { "term": "202330", "crn": "40596" }
     ],
     "description": "Offers analytical and/or experimental work leading to a written report and a final short presentation by the end of the semester.",
     "coreqs": [],
@@ -1917,9 +1952,35 @@
       { "term": "202330", "crn": "37942" },
       { "term": "202310", "crn": "21110" },
       { "term": "202310", "crn": "21614" },
-      { "term": "202310", "crn": "21616" }
+      { "term": "202310", "crn": "21616" },
+      { "term": "202330", "crn": "39763" },
+      { "term": "202330", "crn": "39775" },
+      { "term": "202330", "crn": "40386" },
+      { "term": "202330", "crn": "40450" },
+      { "term": "202330", "crn": "40546" },
+      { "term": "202330", "crn": "40547" },
+      { "term": "202330", "crn": "40783" },
+      { "term": "202330", "crn": "40592" },
+      { "term": "202330", "crn": "40595" },
+      { "term": "202330", "crn": "40730" }
     ],
     "description": "Offers analytical and/or experimental work conducted under the auspices of the department. May be repeated once.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EECE",
+    "number": "7996",
+    "title": "Thesis Continuation - Half-Time",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202330", "crn": "40017" },
+      { "term": "202330", "crn": "40656" },
+      { "term": "202330", "crn": "40660" }
+    ],
+    "description": "Offers analytical and/or experimental work conducted under the auspices of the department.",
     "coreqs": [],
     "prereqs": []
   },
@@ -2024,7 +2085,17 @@
       { "term": "202310", "crn": "21814" },
       { "term": "202310", "crn": "21815" },
       { "term": "202310", "crn": "21820" },
-      { "term": "202310", "crn": "21849" }
+      { "term": "202310", "crn": "21849" },
+      { "term": "202330", "crn": "39734" },
+      { "term": "202330", "crn": "39826" },
+      { "term": "202330", "crn": "39903" },
+      { "term": "202330", "crn": "40391" },
+      { "term": "202330", "crn": "40637" },
+      { "term": "202330", "crn": "40751" },
+      { "term": "202330", "crn": "40780" },
+      { "term": "202330", "crn": "39850" },
+      { "term": "202330", "crn": "40664" },
+      { "term": "202310", "crn": "21879" }
     ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -2070,7 +2141,29 @@
       { "term": "202330", "crn": "36923" },
       { "term": "202330", "crn": "37409" },
       { "term": "202330", "crn": "37781" },
-      { "term": "202310", "crn": "21349" }
+      { "term": "202310", "crn": "21349" },
+      { "term": "202330", "crn": "39714" },
+      { "term": "202330", "crn": "39732" },
+      { "term": "202330", "crn": "39737" },
+      { "term": "202330", "crn": "40087" },
+      { "term": "202330", "crn": "40107" },
+      { "term": "202330", "crn": "40163" },
+      { "term": "202330", "crn": "40170" },
+      { "term": "202330", "crn": "40389" },
+      { "term": "202330", "crn": "40507" },
+      { "term": "202330", "crn": "40300" },
+      { "term": "202330", "crn": "40562" },
+      { "term": "202330", "crn": "40586" },
+      { "term": "202330", "crn": "40545" },
+      { "term": "202330", "crn": "40544" },
+      { "term": "202330", "crn": "40591" },
+      { "term": "202330", "crn": "40728" },
+      { "term": "202330", "crn": "40640" },
+      { "term": "202330", "crn": "40732" },
+      { "term": "202330", "crn": "40744" },
+      { "term": "202330", "crn": "40299" },
+      { "term": "202330", "crn": "40393" },
+      { "term": "202330", "crn": "40535" }
     ],
     "description": "Offers theoretical and/or experimental work conducted under the auspices of the department. Includes attendance at Distinguished Lecture Series (DLS).",
     "coreqs": [],
@@ -2127,7 +2220,32 @@
       { "term": "202330", "crn": "36885" },
       { "term": "202330", "crn": "36886" },
       { "term": "202330", "crn": "36887" },
-      { "term": "202330", "crn": "38557" }
+      { "term": "202330", "crn": "38557" },
+      { "term": "202340", "crn": "41815" },
+      { "term": "202340", "crn": "41816" },
+      { "term": "202340", "crn": "41824" },
+      { "term": "202340", "crn": "41825" },
+      { "term": "202340", "crn": "41826" },
+      { "term": "202340", "crn": "41827" },
+      { "term": "202340", "crn": "41828" },
+      { "term": "202340", "crn": "41829" },
+      { "term": "202340", "crn": "41830" },
+      { "term": "202340", "crn": "41831" },
+      { "term": "202340", "crn": "41832" },
+      { "term": "202340", "crn": "41833" },
+      { "term": "202340", "crn": "41834" },
+      { "term": "202340", "crn": "41835" },
+      { "term": "202340", "crn": "41836" },
+      { "term": "202340", "crn": "41837" },
+      { "term": "202340", "crn": "41838" },
+      { "term": "202340", "crn": "41839" },
+      { "term": "202340", "crn": "41840" },
+      { "term": "202340", "crn": "41841" },
+      { "term": "202340", "crn": "41842" },
+      { "term": "202340", "crn": "41843" },
+      { "term": "202340", "crn": "41844" },
+      { "term": "202340", "crn": "41845" },
+      { "term": "202340", "crn": "41846" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -2252,7 +2370,65 @@
       { "term": "202310", "crn": "21425" },
       { "term": "202310", "crn": "21528" },
       { "term": "202310", "crn": "21531" },
-      { "term": "202310", "crn": "21509" }
+      { "term": "202310", "crn": "21509" },
+      { "term": "202340", "crn": "41767" },
+      { "term": "202340", "crn": "41768" },
+      { "term": "202340", "crn": "41769" },
+      { "term": "202340", "crn": "41770" },
+      { "term": "202340", "crn": "41771" },
+      { "term": "202340", "crn": "41772" },
+      { "term": "202340", "crn": "41773" },
+      { "term": "202340", "crn": "41774" },
+      { "term": "202340", "crn": "41775" },
+      { "term": "202340", "crn": "41776" },
+      { "term": "202340", "crn": "41777" },
+      { "term": "202340", "crn": "41778" },
+      { "term": "202340", "crn": "41779" },
+      { "term": "202340", "crn": "41780" },
+      { "term": "202340", "crn": "41781" },
+      { "term": "202340", "crn": "41782" },
+      { "term": "202340", "crn": "41783" },
+      { "term": "202340", "crn": "41784" },
+      { "term": "202340", "crn": "41785" },
+      { "term": "202340", "crn": "41786" },
+      { "term": "202340", "crn": "41788" },
+      { "term": "202340", "crn": "41789" },
+      { "term": "202340", "crn": "41790" },
+      { "term": "202340", "crn": "41791" },
+      { "term": "202340", "crn": "41792" },
+      { "term": "202340", "crn": "41793" },
+      { "term": "202340", "crn": "41794" },
+      { "term": "202340", "crn": "41795" },
+      { "term": "202340", "crn": "41796" },
+      { "term": "202340", "crn": "41797" },
+      { "term": "202340", "crn": "41798" },
+      { "term": "202340", "crn": "41799" },
+      { "term": "202340", "crn": "41800" },
+      { "term": "202340", "crn": "41801" },
+      { "term": "202340", "crn": "41802" },
+      { "term": "202340", "crn": "41803" },
+      { "term": "202340", "crn": "41804" },
+      { "term": "202340", "crn": "41805" },
+      { "term": "202340", "crn": "41806" },
+      { "term": "202340", "crn": "41807" },
+      { "term": "202340", "crn": "41808" },
+      { "term": "202340", "crn": "41809" },
+      { "term": "202340", "crn": "41810" },
+      { "term": "202340", "crn": "41811" },
+      { "term": "202340", "crn": "41812" },
+      { "term": "202340", "crn": "41813" },
+      { "term": "202340", "crn": "41814" },
+      { "term": "202340", "crn": "41817" },
+      { "term": "202340", "crn": "41818" },
+      { "term": "202340", "crn": "41819" },
+      { "term": "202340", "crn": "41820" },
+      { "term": "202340", "crn": "41821" },
+      { "term": "202340", "crn": "41822" },
+      { "term": "202340", "crn": "41823" },
+      { "term": "202330", "crn": "39997" },
+      { "term": "202330", "crn": "39552" },
+      { "term": "202330", "crn": "39553" },
+      { "term": "202330", "crn": "40665" }
     ],
     "description": "Offers continued dissertation work conducted under the supervision of a departmental faculty member. Includes attendance at Distinguished Lecture Series (DLS).",
     "coreqs": [],

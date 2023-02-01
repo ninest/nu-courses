@@ -25,7 +25,8 @@
       { "term": "202310", "crn": "10479" },
       { "term": "202310", "crn": "11089" },
       { "term": "202330", "crn": "30962" },
-      { "term": "202330", "crn": "34226" }
+      { "term": "202330", "crn": "34226" },
+      { "term": "202340", "crn": "41643" }
     ],
     "description": "Introduces students to philosophy by acquainting them with the theories and arguments of classical and contemporary philosophers and by teaching skills of constructing and analyzing arguments. Emphasizes philosophical inquiry. Topics include the basis of morality, free will vs. determinism, the existence of God, the problem of suffering, and the nature of knowledge.",
     "coreqs": [],
@@ -44,7 +45,9 @@
       { "term": "202260", "crn": "61440" },
       { "term": "202240", "crn": "40391" },
       { "term": "202330", "crn": "31136" },
-      { "term": "202310", "crn": "21102" }
+      { "term": "202310", "crn": "21102" },
+      { "term": "202360", "crn": "60349" },
+      { "term": "202340", "crn": "40372" }
     ],
     "description": "Focuses on current controversial issues and moral debates. Specific topics vary but include subjects like abortion, euthanasia, global poverty, economic justice, affirmative action, gender relations, animal rights, the environment, the death penalty, war, cloning, and same-sex marriage. Offers an opportunity to learn to apply both the methods of philosophical analysis and various ethical and political theories to these controversies.",
     "coreqs": [],
@@ -141,7 +144,10 @@
       { "term": "202330", "crn": "32842" },
       { "term": "202330", "crn": "36045" },
       { "term": "202330", "crn": "39278" },
-      { "term": "202310", "crn": "21295" }
+      { "term": "202310", "crn": "21295" },
+      { "term": "202360", "crn": "60430" },
+      { "term": "202340", "crn": "40430" },
+      { "term": "202340", "crn": "40917" }
     ],
     "description": "Studies philosophy of technology, as well as ethics and modern technology. Considers the relationship between technology and humanity, the social dimensions of technology, and ethical issues raised by emerging technologies. Discusses emerging technologies such as biotechnology, information technology, nanotechnology, and virtual reality.",
     "coreqs": [],
@@ -182,7 +188,10 @@
       { "term": "202330", "crn": "31613" },
       { "term": "202330", "crn": "31721" },
       { "term": "202330", "crn": "32234" },
-      { "term": "202330", "crn": "34714" }
+      { "term": "202330", "crn": "34714" },
+      { "term": "202360", "crn": "60198" },
+      { "term": "202340", "crn": "40188" },
+      { "term": "202330", "crn": "39831" }
     ],
     "description": "Introduces ethical theories and moral principles, and then uses these theories and principles to analyze the moral problems that arise in the medical context. Topics include euthanasia, medical paternalism, informed consent, patient confidentiality, the right to die, the ethics of medical research, abortion, the right to healthcare, distribution of scarce medical resources, and the ethical implications of health maintenance organizations.",
     "coreqs": [],
@@ -214,7 +223,9 @@
       { "term": "202310", "crn": "14882" },
       { "term": "202240", "crn": "40896" },
       { "term": "202330", "crn": "32843" },
-      { "term": "202330", "crn": "39279" }
+      { "term": "202330", "crn": "39279" },
+      { "term": "202360", "crn": "61308" },
+      { "term": "202340", "crn": "41750" }
     ],
     "description": "Focuses on a current ecological crisis and addresses the values that underlie our concern over this crisis, whether the values at issue are anthropocentric or biocentric. Explores the ethical implications these ecological concerns have for our individual lifestyles, and for our role as members of communities.",
     "coreqs": [],
@@ -227,7 +238,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ER", "SI"],
-    "sections": [{ "term": "202330", "crn": "36046" }],
+    "sections": [
+      { "term": "202330", "crn": "36046" },
+      { "term": "202340", "crn": "41644" }
+    ],
     "description": "Introduces the ethics of food. Elucidates a wide range of ethical issues associated with food production, processing, distribution, and consumption. Offers students an opportunity to develop skills in ethics and values analysis that can be applied to evaluate food-related practices and policies. Includes topics such as the ethics of different food systems, genetically modified crops, meat eating, hunting, food security, food justice, sustainability, synthetic meat, food advertising, food safety, and foodie culture.",
     "coreqs": [],
     "prereqs": []
@@ -241,7 +255,8 @@
     "nuPath": ["ER", "SI"],
     "sections": [
       { "term": "202310", "crn": "15968" },
-      { "term": "202330", "crn": "32950" }
+      { "term": "202330", "crn": "32950" },
+      { "term": "202360", "crn": "61363" }
     ],
     "description": "Addresses how to engage in scientific, medical, and technological research in an ethically responsible manner. Research is crucial to understanding social, environmental, and health problems, as well as to developing effective responses to them. If the paradigm of responsible research is too restrictive, the benefits of scientific progress and technological innovation can be delayed or unrealized. At the same time, researchers have a responsibility to protect research subjects, to appropriately engage with members of the community, and to avoid behaving in ways that undermine scientific research in the long run. Explores the many ethical dimensions of research, and introduces students to the ethical foundations and controversies that are central to developing appropriate ethical frameworks for engaging in research.",
     "coreqs": [],
@@ -257,7 +272,8 @@
     "sections": [
       { "term": "202310", "crn": "12560" },
       { "term": "202310", "crn": "12562" },
-      { "term": "202260", "crn": "61227" }
+      { "term": "202260", "crn": "61227" },
+      { "term": "202360", "crn": "60867" }
     ],
     "description": "Begins with an investigation of biblical texts that give rise to apocalypticism, definitions of apocalypticism, and an introductory exploration of the various ways in which apocalypticism has manifested itself in Western culture. Examines the diverse and changing presentation of apocalypticism in film and includes titles such as 'The Book of Eli,' 'The Day the Earth Stood Still,' 'Independence Day,' 'The Seventh Seal,' and 'Blade Runner.'",
     "coreqs": [],
@@ -272,7 +288,8 @@
     "nuPath": ["DD", "ER"],
     "sections": [
       { "term": "202310", "crn": "20084" },
-      { "term": "202240", "crn": "40527" }
+      { "term": "202240", "crn": "40527" },
+      { "term": "202340", "crn": "40491" }
     ],
     "description": "Explores approaches to gender, social organization of sexuality and gender, sexual ethics, and marriage in Judaism, Christianity, and Islam. Explores various sources within each tradition that serve as normative foundations, contemporary cultural and sociological dynamics that challenge those foundations, and psychological/existential considerations for understanding the general nature of human sexuality. Addresses how these traditions understand gender and gender roles, seek to shape and control interactions between men and women, regulate sexual relations outside of and within marriage, view sexuality education, regard homosexuality, and examine historical and contemporary approaches to marriage, divorce, and parenting. PHIL 1271 and WMNS 1271 are cross-listed.",
     "coreqs": [],
@@ -340,7 +357,8 @@
     "nuPath": ["DD", "ER"],
     "sections": [
       { "term": "202310", "crn": "20250" },
-      { "term": "202240", "crn": "41382" }
+      { "term": "202240", "crn": "41382" },
+      { "term": "202340", "crn": "41054" }
     ],
     "description": "Seeks to answer the question, \"What is evil?\" Uses a variety of film genres to examine the definitions of evil in relation to concepts such as power, sin, hate, greed, envy, murder, neglect, fear, terror, tragedy, and “the Other.” Studies the problem of evil from the perspectives of religious studies and philosophy. Examines the various explanations for evil from a variety of Western religious traditions and explores the presentation of ethical dilemmas and moral theory to assess the content of a variety of films. Studies film titles such as The Dark Knight, The Exorcist, Silence of the Lambs, Frankenstein, Life Is Beautiful, Rear Window, Dr. Strangelove, Phone Booth, Crash, Star Wars, and The Wizard of Oz.",
     "coreqs": [],
@@ -440,7 +458,9 @@
       { "term": "202330", "crn": "33842" },
       { "term": "202330", "crn": "34229" },
       { "term": "202330", "crn": "38378" },
-      { "term": "202330", "crn": "38379" }
+      { "term": "202330", "crn": "38379" },
+      { "term": "202360", "crn": "60545" },
+      { "term": "202340", "crn": "40431" }
     ],
     "description": "Examines the philosophers of classical Greece, primarily Socrates, Plato, and Aristotle. These philosophers examined the nature of the material world, of the city, and of the person. The course takes up both the moral and political writings as well as the metaphysical writings. Devotes considerable attention to major works such as Plato's Republic. Some time is given to early Greek philosophers, to the Sophists, and to later developments. Requires written analysis of philosophical texts. PHIL 2325 and POLS 2325 are cross-listed.",
     "coreqs": [],
@@ -633,6 +653,18 @@
       "Or",
       { "subject": "ENGW", "number": "1102" }
     ]
+  },
+  {
+    "subject": "PHIL",
+    "number": "4515",
+    "title": "Advanced Logic",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39814" }],
+    "description": "This class will meet in Renaissance Park Room 428.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "PHIL", "number": "1115" }]
   },
   {
     "subject": "PHIL",

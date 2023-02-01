@@ -10,7 +10,8 @@
       { "term": "202310", "crn": "12139" },
       { "term": "202310", "crn": "15952" },
       { "term": "202310", "crn": "13681" },
-      { "term": "202310", "crn": "13963" }
+      { "term": "202310", "crn": "13963" },
+      { "term": "202330", "crn": "40048" }
     ],
     "description": "Focuses on linear, polynomial, exponential, logarithmic, and trigonometric functions. Emphasis is placed on understanding, manipulating, and graphing these basic functions, their inverses and compositions, and using them to model real-world situations (that is, exponential growth and decay, periodic phenomena). Equations involving these functions are solved using appropriate techniques. Special consideration is given to choosing reasonable functions to fit numerical data.",
     "coreqs": [],
@@ -50,7 +51,8 @@
       { "term": "202330", "crn": "33229" },
       { "term": "202330", "crn": "34434" },
       { "term": "202330", "crn": "35025" },
-      { "term": "202330", "crn": "35204" }
+      { "term": "202330", "crn": "35204" },
+      { "term": "202330", "crn": "40049" }
     ],
     "description": "Covers definition, calculation, and major uses of the derivative, as well as an introduction to integration. Topics include limits; the derivative as a limit; rules for differentiation; and formulas for the derivatives of algebraic, trigonometric, and exponential/logarithmic functions. Also discusses applications of derivatives to motion, density, optimization, linear approximations, and related rates. Topics on integration include the definition of the integral as a limit of sums, antidifferentiation, the fundamental theorem of calculus, and integration by substitution.",
     "coreqs": [],

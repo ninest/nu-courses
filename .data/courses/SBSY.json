@@ -60,8 +60,23 @@
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "20952" }],
+    "sections": [
+      { "term": "202310", "crn": "20952" },
+      { "term": "202330", "crn": "40723" }
+    ],
     "description": "Offers analytical and/or experimental research conducted by arrangement with and under the supervision of the department. May be repeated up to a maximum of 8 SH.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SBSY",
+    "number": "7996",
+    "title": "Thesis Continuation - Half-Time",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "40161" }],
+    "description": "Offers continued thesis work conducted under the supervision of a departmental faculty member.",
     "coreqs": [],
     "prereqs": []
   }

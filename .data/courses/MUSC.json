@@ -26,7 +26,10 @@
       { "term": "202310", "crn": "20552" },
       { "term": "202260", "crn": "60826" },
       { "term": "202240", "crn": "41722" },
-      { "term": "202330", "crn": "39250" }
+      { "term": "202330", "crn": "39250" },
+      { "term": "202360", "crn": "60642" },
+      { "term": "202360", "crn": "60999" },
+      { "term": "202340", "crn": "41359" }
     ],
     "description": "Dedicated to exploring, expanding, and exploding traditional meanings of what music is; of what it means to be a composer, performer, and audience member; and of what it means to listen. The overarching goal is to provide students with the tools and opportunities necessary for determining for themselves what place music holds in everyday life.",
     "coreqs": [],
@@ -41,7 +44,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "20346" },
-      { "term": "202330", "crn": "38998" }
+      { "term": "202330", "crn": "38998" },
+      { "term": "202360", "crn": "61383" },
+      { "term": "202340", "crn": "41740" }
     ],
     "description": "Prepares students to gain fluency reading and writing standard Western music notation and gain facility with singing and performing rhythms and melodies in various meters, keys, and styles.",
     "coreqs": [],
@@ -111,21 +116,11 @@
       { "term": "202240", "crn": "40537" },
       { "term": "202330", "crn": "37398" },
       { "term": "202330", "crn": "34063" },
-      { "term": "202330", "crn": "39001" }
+      { "term": "202330", "crn": "39001" },
+      { "term": "202360", "crn": "60558" },
+      { "term": "202340", "crn": "40499" }
     ],
     "description": "Introduces students with little or no musical experience to all the major and minor key signatures and the following scales: major, natural minor, harmonic minor, and melodic minor. Topics include how to read music in treble clef, bass clef, and various C-clefs; how to identify and construct intervals, triads, and seventh chords; how melody and harmony work together to create a piece of music; roman numeral analyses; and various small forms. Short excerpts are analyzed, and students are required to write musical compositions.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "MUSC",
-    "number": "1129",
-    "title": "Music of the Middle East",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39002" }],
-    "description": "Presents an introduction to the music of selected Near Eastern and Arab cultures (such as Persian in the East and Ethiopic and Berber in Africa). Includes the cantillation styles and practices of various chants of the Hebrew, Christian, and Islamic traditions.",
     "coreqs": [],
     "prereqs": []
   },
@@ -142,7 +137,9 @@
       { "term": "202260", "crn": "60333" },
       { "term": "202240", "crn": "40181" },
       { "term": "202330", "crn": "34917" },
-      { "term": "202330", "crn": "39003" }
+      { "term": "202330", "crn": "39003" },
+      { "term": "202360", "crn": "60315" },
+      { "term": "202340", "crn": "40172" }
     ],
     "description": "Provides an introduction to the fundamentals of classical guitar playing for those with or without prior knowledge of the guitar. Covers music reading and theory. Requires students to perform alone and in ensemble with other members of the class. Augments the syllabus by live performances from outside professional and student classical guitarists. Bases final grades on several written examinations and student performance.",
     "coreqs": [],
@@ -407,7 +404,8 @@
       { "term": "202330", "crn": "36547" },
       { "term": "202330", "crn": "36548" },
       { "term": "202330", "crn": "36549" },
-      { "term": "202310", "crn": "21185" }
+      { "term": "202310", "crn": "21185" },
+      { "term": "202330", "crn": "39570" }
     ],
     "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. Prereq: Audition or permission of instructor. May be repeated without limit.",
     "coreqs": [],
@@ -484,7 +482,9 @@
     "sections": [
       { "term": "202310", "crn": "19639" },
       { "term": "202260", "crn": "60486" },
-      { "term": "202240", "crn": "40214" }
+      { "term": "202240", "crn": "40214" },
+      { "term": "202360", "crn": "60452" },
+      { "term": "202340", "crn": "40202" }
     ],
     "description": "Surveys, investigates, and analyzes black popular music from the end of the 19th century to the present. Through critical listening habits and analytical thinking skills, offers students an opportunity to explore black popular culture as a means of expression, communication, and collective identity, attending to issues of representation, identity, values, and aesthetics through a wide range of interdisciplinary sources and methodologies. Emphasizes intersections of creativity, technology, and performance, along with the impact of music industry, audience reception, and cultural politics. Expects students to complete daily exercises and weekly discussion forums in which they must apply critical thinking to synthesize material, complete comparative analyses, relate individual lessons to key course themes, and connect the curriculum to their own experiences and musical listening practices.",
     "coreqs": [],
@@ -572,7 +572,8 @@
       { "term": "202310", "crn": "19644" },
       { "term": "202240", "crn": "40538" },
       { "term": "202330", "crn": "36655" },
-      { "term": "202330", "crn": "39007" }
+      { "term": "202330", "crn": "39007" },
+      { "term": "202340", "crn": "40500" }
     ],
     "description": "Offers an opportunity to learn to construct songs with forward motion and memorable “hooks.”Topics include time-proven song forms, melody writing, harmonic tools, lyric writing, collaboration, and production techniques. Emphasizes the craft of writing songs for use in film and television.",
     "coreqs": [],
@@ -633,7 +634,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ER", "SI", "WI"],
-    "sections": [{ "term": "202330", "crn": "39009" }],
+    "sections": [
+      { "term": "202330", "crn": "39009" },
+      { "term": "202340", "crn": "41741" }
+    ],
     "description": "Surveys the relationship between music and technology from the Paleolithic Age to the present. Examines the origins and impact of diverse musical instruments, with attention to connections between musical and technological developments; the reasons instruments are accepted, modified, or abandoned; and debates about the effects of new technologies on music. Considers such forces as standardization, institutionalization, and commodification, as well as experimentation, hacker, and DIY cultures. Asks whether music technologies are “just tools” or rather carry with them ethical values and ramifications. By studying the sociocultural history of such instruments as the violin, piano, electric guitar and synthesizer, offers students an opportunity to gain an understanding of the interplay between technological change and the enduring human need for music.",
     "coreqs": [],
     "prereqs": []
@@ -646,7 +650,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI", "WI"],
     "sections": [{ "term": "202330", "crn": "39249" }],
-    "description": "Combines ethnomusicology and experiential learning by exploring the diverse communities of Boston and their music. Since 17th-century encounters between the Wampanoag Nation and English Puritans, Boston has been characterized by intercultural contact and exchange. Discusses the history and legacies of such encounters, as well as present-day issues of diversity and belonging in Boston. Focuses on how communities reinforce their own cultural bonds through music and discusses alliances formed through shared experiences of diasporic, exilic, refugee, immigrant, and minority status. Through interdisciplinary, ethnographic analysis and practice, offers students an opportunity to explore how these inherently intersectional social dynamics&#8212;which engage issues of race, gender, class, ethnicity, etc.&#8212;play out through collective and individual musical practices.",
+    "description": "Combines ethnomusicology and experiential learning by exploring the diverse communities of Boston and their music. Since 17th-century encounters between the Wampanoag Nation and English Puritans, Boston has been characterized by intercultural contact and exchange. Discusses the history and legacies of such encounters, as well as present-day issues of diversity and belonging in Boston. Focuses on how communities reinforce their own cultural bonds through music and discusses alliances formed through shared experiences of diasporic, exilic, refugee, immigrant, and minority status. Through interdisciplinary, ethnographic analysis and practice, offers students an opportunity to explore how these inherently intersectional social dynamics—which engage issues of race, gender, class, ethnicity, etc.—play out through collective and individual musical practices.",
     "coreqs": [],
     "prereqs": []
   },
@@ -670,7 +674,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI", "WI"],
     "sections": [{ "term": "202330", "crn": "39010" }],
-    "description": "Examines the significance of gender to the experience of and access to participation in music making, listening, the music industries, and cultural recognition. Surveys how gender differences have been constructed, enacted, and contested in historical and contemporary musical cultures and develops critical lenses for analyzing musical representations of gender difference and their social impact. Considers how gender intersects with racial and sexual identities in music and its institutional structures. Uses case studies drawn from a variety of contexts, such as classical (Bizet's &#8220;Carmen&#8221;), popular (Beyonc&#233;), film (&#8220;Star Wars&#8221;), and avant-garde (Yoko Ono).",
+    "description": "Examines the significance of gender to the experience of and access to participation in music making, listening, the music industries, and cultural recognition. Surveys how gender differences have been constructed, enacted, and contested in historical and contemporary musical cultures and develops critical lenses for analyzing musical representations of gender difference and their social impact. Considers how gender intersects with racial and sexual identities in music and its institutional structures. Uses case studies drawn from a variety of contexts, such as classical (Bizet's “Carmen”), popular (Beyoncé), film (“Star Wars”), and avant-garde (Yoko Ono).",
     "coreqs": [],
     "prereqs": [
       { "subject": "ENGW", "number": "1111" },
@@ -760,17 +764,5 @@
     "description": "Offers preparation for and performance of a senior recital (forty to sixty minutes of music) under the guidance of the student's primary instrumental or vocal instructor.",
     "coreqs": [],
     "prereqs": [{ "subject": "MUSC", "number": "3410" }]
-  },
-  {
-    "subject": "MUSC",
-    "number": "6300",
-    "title": "Music Perception and Cognition Research",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": ["AD", "ND"],
-    "sections": [{ "term": "202330", "crn": "39306" }],
-    "description": "Offers an overview of the perceptual, cognitive, and brain bases of performing, composing, and listening to music for enjoyment and for human benefit. Studies how and why music stimulates our senses and how it can promote health and well-being. Topics include theories and empirical research on pitch, rhythm, harmony, melody, timbre; music and language; development of musical ability; and special populations in musical functions. Meetings include demonstrations and exercises in experiment design and data analysis. Requires an in-depth research project (paper and in-class presentation), in consultation with the instructor. By the end of this course, students should be able to design and conduct their own research study in music perception and cognition.",
-    "coreqs": [],
-    "prereqs": []
   }
 ]

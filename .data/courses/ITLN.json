@@ -91,5 +91,21 @@
       "Or",
       { "subject": "ITLN", "number": "2302" }
     ]
+  },
+  {
+    "subject": "ITLN",
+    "number": "3102",
+    "title": "Advanced Italian 2",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202330", "crn": "39395" }],
+    "description": "Continues ITLN 3101. Enhances and reinforces language and communication skills that students encounter when they are abroad.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ITLN", "number": "3101" },
+      "Or",
+      { "subject": "ITLN", "number": "3301" }
+    ]
   }
 ]

@@ -12,34 +12,13 @@
       { "term": "202310", "crn": "14512" },
       { "term": "202310", "crn": "14513" },
       { "term": "202330", "crn": "36161" },
-      { "term": "202330", "crn": "36162" }
+      { "term": "202330", "crn": "36162" },
+      { "term": "202350", "crn": "51231" },
+      { "term": "202350", "crn": "51232" },
+      { "term": "202350", "crn": "51233" },
+      { "term": "202330", "crn": "40053" }
     ],
     "description": "Offers students an opportunity to analyze important issues in their intended field of study while improving their academic reading skills in an interdisciplinary course. Using journal articles and other media, students investigate current theories, trends, practices, and perspectives in their specific field of study.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "ESLG",
-    "number": "0080",
-    "title": "Career Exploration 1",
-    "scheduleType": "Lecture",
-    "credits": 1,
-    "nuPath": [],
-    "sections": [
-      { "term": "202310", "crn": "13700" },
-      { "term": "202310", "crn": "13701" },
-      { "term": "202310", "crn": "13774" },
-      { "term": "202310", "crn": "13784" },
-      { "term": "202310", "crn": "19123" },
-      { "term": "202310", "crn": "19124" },
-      { "term": "202310", "crn": "19125" },
-      { "term": "202310", "crn": "19126" },
-      { "term": "202330", "crn": "33222" },
-      { "term": "202330", "crn": "33223" },
-      { "term": "202330", "crn": "35079" },
-      { "term": "202330", "crn": "36163" }
-    ],
-    "description": "Offers a content-based ESL course. Designed to help students develop language and academic skills through the content of career exploration. Offers students an opportunity to define and develop realistic goals, identify special needs, plan progress toward educational and career goals, and discuss linkages between academic preparation and the world of work. Uses lectures, readings, discussion, and class activities to explore three main themes: learning about yourself, exploring careers, and planning for the future. Requires permission of the English Language Center.",
     "coreqs": [],
     "prereqs": []
   },
@@ -56,7 +35,8 @@
       { "term": "202310", "crn": "11211" },
       { "term": "202310", "crn": "11212" },
       { "term": "202330", "crn": "32588" },
-      { "term": "202330", "crn": "31056" }
+      { "term": "202330", "crn": "31056" },
+      { "term": "202350", "crn": "51236" }
     ],
     "description": "Explores methods for researching, organizing, and writing term papers and for making presentations. Offers students an opportunity to become familiar with and to learn to integrate techniques such as use of metaphor and analogy, juxtaposition of ideas, and variation of tone to more effectively articulate their ideas in academic writing, as well as to learn how to conduct library and online research, to paraphrase and summarize effectively, to organize an extended piece of writing, and to cite sources appropriately. Focuses on individual writing needs. Covers the importance of the process as well as the product of writing, and students are expected to keep a portfolio of their writing as well as to develop a final extended research paper exploring an academic topic in-depth. May be repeated up to two times.",
     "coreqs": [],
@@ -71,9 +51,28 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "12149" },
-      { "term": "202330", "crn": "33786" }
+      { "term": "202330", "crn": "33786" },
+      { "term": "202350", "crn": "51239" }
     ],
     "description": "Offers international students an opportunity to develop listening, note-taking, and discussion skills while expanding their knowledge of American social issues. As international students prepare for graduate-level study, they need to understand the sociological foundations of American society and how these form the background to their communications in the American academic environment. Applies a critical-thinking approach to authentic lectures and readings on topics including peer pressure, gender roles, and the influence of the media. Students have an opportunity to develop the ability to generate and articulate opinions clearly and accurately, engage with others in discussion using appropriate levels of politeness and formality, investigate their own and others' interaction styles, practice techniques for effective communication, and integrate cultural knowledge into their interactions with others. May be repeated up to two times.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ESLG",
+    "number": "0510",
+    "title": "Advanced Reading for Graduate School",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [
+      { "term": "202310", "crn": "12121" },
+      { "term": "202310", "crn": "12122" },
+      { "term": "202310", "crn": "12128" },
+      { "term": "202310", "crn": "13323" },
+      { "term": "202350", "crn": "51240" }
+    ],
+    "description": "Offers students an opportunity to become active and critical readers of complex academic texts. Active reading, the principal learning approach, entails close engagement with the information in an assigned reading by deconstructing a text, synthesizing main ideas, and making connections with other scholarship in a field. Focuses on identifying discipline-specific vocabulary, untangling grammatical structures, and outlining textual features of a variety of genres in a range of academic disciplines. Restricted to Global Pathways students only.",
     "coreqs": [],
     "prereqs": []
   },
@@ -88,28 +87,10 @@
       { "term": "202310", "crn": "12129" },
       { "term": "202310", "crn": "12132" },
       { "term": "202310", "crn": "13326" },
-      { "term": "202330", "crn": "36180" }
+      { "term": "202330", "crn": "36180" },
+      { "term": "202350", "crn": "51244" }
     ],
     "description": "Offers students an opportunity to learn how to make speech more understandable in a variety of settings (telephone, one-on-one conversation, presentations) and to improve their active listening skills. Seeks to enable students to identify the key aspects of pronunciation, choose appropriate speaking strategies to modify their own spoken English, identify characteristics that influence spoken English, and demonstrate control of pitch and intonation. Restricted to Global Pathways students only.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "ESLG",
-    "number": "0550",
-    "title": "Research and Writing for Graduate School",
-    "scheduleType": "Lecture",
-    "credits": 5,
-    "nuPath": [],
-    "sections": [
-      { "term": "202310", "crn": "12170" },
-      { "term": "202310", "crn": "12171" },
-      { "term": "202310", "crn": "12176" },
-      { "term": "202330", "crn": "31945" },
-      { "term": "202330", "crn": "31946" },
-      { "term": "202330", "crn": "31947" }
-    ],
-    "description": "Addresses formal investigation as one of the primary means of creating knowledge. Examines philosophical issues underpinning the nature of knowledge claims, the relationship of knowledge to evidence, and techniques of gathering and interpreting evidence. Analyzes the purposes of research; the methods of quantitative, qualitative, and mixed research; and the processes involved in research studies. Offers students an opportunity to conduct a research project in small groups by selecting a topic from a relevant area of study, designing a research proposal, reviewing relevant literature, and presenting methodology and conclusions in written form. Restricted to Global Pathways students only.",
     "coreqs": [],
     "prereqs": []
   },
@@ -143,9 +124,66 @@
       { "term": "202330", "crn": "38482" },
       { "term": "202330", "crn": "38483" },
       { "term": "202330", "crn": "38484" },
-      { "term": "202330", "crn": "38485" }
+      { "term": "202330", "crn": "38485" },
+      { "term": "202350", "crn": "50597" },
+      { "term": "202350", "crn": "51678" }
     ],
     "description": "Offers students an opportunity to learn how to engage with and evaluate texts and issues drawn from their discipline. Focuses on critical thinking, reading, and writing. Encourages students to find their own academic voice by developing their ability to weigh evidence and arguments of others and contribute their own perspective. Includes activities and research components. Restricted to Global Pathways students only.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ESLG",
+    "number": "0130",
+    "title": "Community Learning 2",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202330", "crn": "39721" },
+      { "term": "202330", "crn": "39723" },
+      { "term": "202330", "crn": "39725" },
+      { "term": "202330", "crn": "39781" },
+      { "term": "202330", "crn": "39785" },
+      { "term": "202330", "crn": "39815" },
+      { "term": "202330", "crn": "39786" },
+      { "term": "202330", "crn": "39799" },
+      { "term": "202330", "crn": "39787" },
+      { "term": "202330", "crn": "39788" },
+      { "term": "202330", "crn": "39801" },
+      { "term": "202330", "crn": "39802" },
+      { "term": "202330", "crn": "39803" }
+    ],
+    "description": "Continues the introduction of community learning, social justice, and cross-cultural collaboration begun in GBST 1020. Offers students an opportunity to develop and use English-language and professional communication skills to contribute to a local community organization through service-learning. Through weekly class sessions, direct service encounters, and reflection activities, students build relationships with community members, develop flexibility in their professional (often intercultural) English-language communication skills, and participate in social change through responsible action. The knowledge, skills, and awareness that students cultivate in this course support their future academic and co-op experiences.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ESLG", "number": "0120" },
+      "Or",
+      { "subject": "GBST", "number": "1020" }
+    ]
+  },
+  {
+    "subject": "ESLG",
+    "number": "0080",
+    "title": "Career Exploration 1",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202310", "crn": "13700" },
+      { "term": "202310", "crn": "13701" },
+      { "term": "202310", "crn": "13774" },
+      { "term": "202310", "crn": "13784" },
+      { "term": "202310", "crn": "19123" },
+      { "term": "202310", "crn": "19124" },
+      { "term": "202310", "crn": "19125" },
+      { "term": "202310", "crn": "19126" },
+      { "term": "202330", "crn": "33222" },
+      { "term": "202330", "crn": "33223" },
+      { "term": "202330", "crn": "35079" },
+      { "term": "202330", "crn": "36163" }
+    ],
+    "description": "Offers a content-based ESL course. Designed to help students develop language and academic skills through the content of career exploration. Offers students an opportunity to define and develop realistic goals, identify special needs, plan progress toward educational and career goals, and discuss linkages between academic preparation and the world of work. Uses lectures, readings, discussion, and class activities to explore three main themes: learning about yourself, exploring careers, and planning for the future. Requires permission of the English Language Center.",
     "coreqs": [],
     "prereqs": []
   },
@@ -187,18 +225,20 @@
   },
   {
     "subject": "ESLG",
-    "number": "0510",
-    "title": "Advanced Reading for Graduate School",
+    "number": "0550",
+    "title": "Research and Writing for Graduate School",
     "scheduleType": "Lecture",
-    "credits": 3,
+    "credits": 5,
     "nuPath": [],
     "sections": [
-      { "term": "202310", "crn": "12121" },
-      { "term": "202310", "crn": "12122" },
-      { "term": "202310", "crn": "12128" },
-      { "term": "202310", "crn": "13323" }
+      { "term": "202310", "crn": "12170" },
+      { "term": "202310", "crn": "12171" },
+      { "term": "202310", "crn": "12176" },
+      { "term": "202330", "crn": "31945" },
+      { "term": "202330", "crn": "31946" },
+      { "term": "202330", "crn": "31947" }
     ],
-    "description": "Offers students an opportunity to become active and critical readers of complex academic texts. Active reading, the principal learning approach, entails close engagement with the information in an assigned reading by deconstructing a text, synthesizing main ideas, and making connections with other scholarship in a field. Focuses on identifying discipline-specific vocabulary, untangling grammatical structures, and outlining textual features of a variety of genres in a range of academic disciplines. Restricted to Global Pathways students only.",
+    "description": "Addresses formal investigation as one of the primary means of creating knowledge. Examines philosophical issues underpinning the nature of knowledge claims, the relationship of knowledge to evidence, and techniques of gathering and interpreting evidence. Analyzes the purposes of research; the methods of quantitative, qualitative, and mixed research; and the processes involved in research studies. Offers students an opportunity to conduct a research project in small groups by selecting a topic from a relevant area of study, designing a research proposal, reviewing relevant literature, and presenting methodology and conclusions in written form. Restricted to Global Pathways students only.",
     "coreqs": [],
     "prereqs": []
   },
