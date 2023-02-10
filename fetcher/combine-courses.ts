@@ -1,4 +1,4 @@
-import { DATA_DIR_PATH } from "@/fetcher/constants.ts";
+import { DATA_DIR_PATH } from "@/constants/paths.ts";
 import { Course, MinimizedCourse, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
 

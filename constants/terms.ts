@@ -1,5 +1,3 @@
-export const DATA_DIR_PATH = "./.data";
-
 export const TERMS = [
   {
     code: "202360",
@@ -29,11 +27,4 @@ export const TERMS = [
     code: "202240",
     description: "Summer 1 2022 Semester",
   },
-];
-
-// Courses with sections that may contains different descriptions
-// (Fundies vs Accelerated Fundies)
-export const COURSES_WITH_ALT_SECTIONS = [
-  { code: "CS", number: "2500" },
-  { code: "CS", number: "2510" },
 ];

@@ -1,5 +1,5 @@
 import { getCourseCoreqs } from "@/banner/coreqs.ts";
-import { DATA_DIR_PATH } from "@/fetcher/constants.ts";
+import { DATA_DIR_PATH } from "@/constants/paths.ts";
 import { transformCoreqs } from "@/transformers/coreqs.ts";
 import { Course, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
