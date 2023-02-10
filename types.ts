@@ -8,7 +8,7 @@ export interface Term {
 
 export interface Subject {
   code: string;
-  description: string;
+  description?: string;
 }
 
 export interface Course {

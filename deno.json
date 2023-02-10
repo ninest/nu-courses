@@ -2,6 +2,7 @@
   "tasks": {
     "fetch:subjects": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-subjects.ts",
     "fetch:courses": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-courses.ts",
+    "fetch:courses:2": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-courses.v2.ts",
     "fetch:descriptions": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-descriptions.ts",
     "fetch:coreqs": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-coreqs.ts",
     "fetch:prereqs": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-prereqs.ts",
