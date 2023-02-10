@@ -1,5 +1,5 @@
 import { getCoursePrereqs } from "@/banner/prereqs.ts";
-import { DATA_DIR_PATH } from "@/fetcher/constants.ts";
+import { DATA_DIR_PATH } from "@/constants/paths.ts";
 import { transformPrereqs } from "@/transformers/prereqs.ts";
 import { Course, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";

@@ -27,9 +27,9 @@ This project is meant to get course data for [ninest/husker](https://github.com/
 
 First, [install Deno](https://deno.land/manual/getting_started/installation). Clone or fork the repository, then do the following.
 
-### 1. Terms
+### 1. Constants
 
-Then open `fetcher/constants.ts`, and enter the terms you want to fetch (`TERMS`).
+Then open `constants/terms.ts`, and enter the terms you want to fetch (`TERMS`).
 
 For example, if you want to fetch courses from only Fall 2022, the file should look like this:
 

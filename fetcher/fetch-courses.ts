@@ -1,6 +1,7 @@
 import { getCoursesForTerm, searchPost } from "@/banner/course.ts";
 import { getTerms } from "@/banner/term.ts";
-import { DATA_DIR_PATH, TERMS } from "@/fetcher/constants.ts";
+import { TERMS } from "@/constants/terms.ts";
+import { DATA_DIR_PATH } from "@/constants/paths.ts";
 import { transformCourse } from "@/transformers/course.ts";
 import { Course, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
