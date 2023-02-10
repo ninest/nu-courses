@@ -1,1 +1,1791 @@
-[{"subject":"CS","number":"1800","title":"Discrete Structures","scheduleType":"Lecture","credits":4,"nuPath":["FQ"],"sections":[{"term":"202340","crn":"40504"}]},{"subject":"CS","number":"1802","title":"Seminar for CS 1800","scheduleType":"Seminar","credits":1,"nuPath":[],"sections":[{"term":"202340","crn":"40505"}]},{"subject":"CS","number":"2500","title":"Fundamentals of Computer Science 1","scheduleType":"Lecture","credits":4,"nuPath":["FQ","ND"],"sections":[{"term":"202340","crn":"40433"}]},{"subject":"CS","number":"2501","title":"Lab for CS 2500","scheduleType":"Lab","credits":1,"nuPath":[],"sections":[{"term":"202340","crn":"40204"},{"term":"202340","crn":"40278"}]},{"subject":"CS","number":"2510","title":"Fundamentals of Computer Science 2","scheduleType":"Lecture","credits":4,"nuPath":["AD","ND"],"sections":[{"term":"202340","crn":"40101"}]},{"subject":"CS","number":"2511","title":"Lab for CS 2510","scheduleType":"Lab","credits":1,"nuPath":[],"sections":[{"term":"202340","crn":"40102"},{"term":"202340","crn":"40231"}]},{"subject":"CS","number":"3000","title":"Algorithms and Data","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202340","crn":"40506"}]},{"subject":"CS","number":"3200","title":"Database Design","scheduleType":"Lecture","credits":4,"nuPath":["AD"],"sections":[{"term":"202340","crn":"41761"}]},{"subject":"CS","number":"3500","title":"Object-Oriented Design","scheduleType":"Lecture","credits":4,"nuPath":["AD","ND"],"sections":[{"term":"202340","crn":"40114"},{"term":"202340","crn":"41717"}]},{"subject":"CS","number":"3501","title":"Lab for CS 3500","scheduleType":"Lab","credits":1,"nuPath":[],"sections":[{"term":"202340","crn":"41856"},{"term":"202340","crn":"41857"},{"term":"202340","crn":"41858"},{"term":"202340","crn":"41859"},{"term":"202340","crn":"41860"},{"term":"202340","crn":"41861"}]},{"subject":"CS","number":"3520","title":"Programming in C++","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202340","crn":"40814"}]},{"subject":"CS","number":"3800","title":"Theory of Computation","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202340","crn":"40607"}]},{"subject":"CS","number":"4300","title":"Computer Graphics","scheduleType":"Lecture","credits":4,"nuPath":["CE","WI"],"sections":[{"term":"202340","crn":"40815"}]},{"subject":"CS","number":"4520","title":"Mobile Application Development","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202340","crn":"41209"},{"term":"202340","crn":"41734"}]},{"subject":"CS","number":"4973","title":"Topics in Computer Science","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202360","crn":"61364"}]},{"subject":"CS","number":"5004","title":"Object-Oriented Design","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202350","crn":"52477"},{"term":"202350","crn":"52483"},{"term":"202350","crn":"52484"},{"term":"202350","crn":"52482"},{"term":"202350","crn":"52522"},{"term":"202350","crn":"52554"},{"term":"202350","crn":"52630"}]},{"subject":"CS","number":"5005","title":"Recitation for CS 5004","scheduleType":"Recitation/Discussion","credits":0,"nuPath":[],"sections":[{"term":"202350","crn":"52485"},{"term":"202350","crn":"52555"},{"term":"202350","crn":"52487"},{"term":"202350","crn":"52488"},{"term":"202350","crn":"52519"},{"term":"202350","crn":"52523"},{"term":"202350","crn":"52631"}]},{"subject":"CS","number":"5008","title":"Data Str, Algo & App in CmpSys","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202340","crn":"41762"},{"term":"202350","crn":"52489"},{"term":"202350","crn":"52490"},{"term":"202350","crn":"52491"},{"term":"202350","crn":"52492"},{"term":"202350","crn":"52520"},{"term":"202350","crn":"52521"}]},{"subject":"CS","number":"5009","title":"Recitation for CS 5008","scheduleType":"Recitation/Discussion","credits":0,"nuPath":[],"sections":[{"term":"202350","crn":"52493"},{"term":"202350","crn":"52494"},{"term":"202350","crn":"52495"},{"term":"202350","crn":"52496"},{"term":"202350","crn":"52497"}]},{"subject":"CS","number":"5010","title":"Programming Design Paradigm","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202350","crn":"52500"}]},{"subject":"CS","number":"5011","title":"Recitation For CS 5010","scheduleType":"Recitation/Discussion","credits":0,"nuPath":[],"sections":[{"term":"202350","crn":"52501"}]},{"subject":"CS","number":"5100","title":"Fndtns Artificial Intelligence","scheduleType":"Lecture","credits":4,"nuPath":["CE","WI"],"sections":[{"term":"202350","crn":"52539"}]},{"subject":"CS","number":"5200","title":"Database Management Sys","scheduleType":"Lecture","credits":4,"nuPath":["AD","FQ"],"sections":[{"term":"202340","crn":"41215"},{"term":"202340","crn":"41751"},{"term":"202350","crn":"52498"},{"term":"202350","crn":"52502"}]},{"subject":"CS","number":"5310","title":"Computer Graphics","scheduleType":"Lecture","credits":4,"nuPath":["CE","WI"],"sections":[{"term":"202340","crn":"40816"}]},{"subject":"CS","number":"5340","title":"Computer/Human Interaction","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202350","crn":"52556"}]},{"subject":"CS","number":"5350","title":"Applied Geometric Rep & Comput","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202350","crn":"52541"}]},{"subject":"CS","number":"5520","title":"Mobile Application Development","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202350","crn":"52504"}]},{"subject":"CS","number":"5600","title":"Computer Systems","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202350","crn":"52633"}]},{"subject":"CS","number":"5610","title":"Web Development","scheduleType":"Lecture","credits":4,"nuPath":["CE","WI"],"sections":[{"term":"202360","crn":"61395"},{"term":"202340","crn":"41752"},{"term":"202350","crn":"52505"}]},{"subject":"CS","number":"5700","title":"Fundamentals - Computer Netwkg","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202350","crn":"52506"},{"term":"202350","crn":"52529"}]},{"subject":"CS","number":"5800","title":"Algorithms","scheduleType":"Lecture","credits":4,"nuPath":["FQ"],"sections":[{"term":"202340","crn":"41852"},{"term":"202350","crn":"50481"},{"term":"202350","crn":"52507"}]},{"subject":"CS","number":"6120","title":"Natural Language Processing","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202350","crn":"52509"}]},{"subject":"CS","number":"6140","title":"Machine Learning","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202350","crn":"52508"}]},{"subject":"CS","number":"6220","title":"Data Mining Techniques","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202350","crn":"52510"}]},{"subject":"CS","number":"6620","title":"Fundamentals Cloud Computing","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202340","crn":"41753"},{"term":"202350","crn":"52511"}]},{"subject":"CS","number":"6650","title":"Scalable Distributed Systems","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202350","crn":"52512"}]},{"subject":"CS","number":"6760","title":"Privacy, Security, and Usability","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202340","crn":"41754"}]},{"subject":"CS","number":"7180","title":"Special Topics in Artificial Intelligence","scheduleType":"Lecture","credits":4,"nuPath":[],"sections":[{"term":"202340","crn":"41855"}]},{"subject":"CS","number":"7675","title":"Master's Research","scheduleType":"Individual Instruction","credits":4,"nuPath":[],"sections":[{"term":"202350","crn":"52540"}]},{"subject":"CS","number":"8949","title":"Research Work Experience","scheduleType":"Off-campus instruction","credits":0,"nuPath":[],"sections":[{"term":"202350","crn":"52560"},{"term":"202350","crn":"52561"},{"term":"202350","crn":"52562"},{"term":"202350","crn":"52563"},{"term":"202350","crn":"52564"},{"term":"202350","crn":"52565"},{"term":"202350","crn":"52566"},{"term":"202350","crn":"52567"},{"term":"202350","crn":"52568"},{"term":"202350","crn":"52569"},{"term":"202350","crn":"52570"},{"term":"202350","crn":"52571"},{"term":"202350","crn":"52572"},{"term":"202350","crn":"52573"},{"term":"202350","crn":"52574"},{"term":"202350","crn":"52575"},{"term":"202350","crn":"52576"},{"term":"202350","crn":"52577"},{"term":"202350","crn":"52578"},{"term":"202350","crn":"52579"},{"term":"202350","crn":"52580"},{"term":"202350","crn":"52581"},{"term":"202350","crn":"52582"},{"term":"202350","crn":"52583"},{"term":"202350","crn":"52584"},{"term":"202350","crn":"52585"},{"term":"202350","crn":"52586"},{"term":"202350","crn":"52587"},{"term":"202350","crn":"52588"},{"term":"202350","crn":"52589"},{"term":"202350","crn":"52590"},{"term":"202350","crn":"52591"},{"term":"202350","crn":"52592"},{"term":"202350","crn":"52593"},{"term":"202350","crn":"52594"},{"term":"202350","crn":"52595"},{"term":"202350","crn":"52596"},{"term":"202350","crn":"52597"},{"term":"202350","crn":"52598"},{"term":"202350","crn":"52599"},{"term":"202350","crn":"52600"},{"term":"202350","crn":"52601"},{"term":"202350","crn":"52602"},{"term":"202350","crn":"52603"},{"term":"202350","crn":"52604"},{"term":"202350","crn":"52605"},{"term":"202350","crn":"52606"},{"term":"202350","crn":"52607"},{"term":"202350","crn":"52608"},{"term":"202350","crn":"52609"},{"term":"202350","crn":"52610"},{"term":"202350","crn":"52611"},{"term":"202350","crn":"52612"},{"term":"202350","crn":"52613"},{"term":"202350","crn":"52614"},{"term":"202350","crn":"52615"},{"term":"202350","crn":"52616"},{"term":"202350","crn":"52617"},{"term":"202350","crn":"52618"},{"term":"202350","crn":"52619"},{"term":"202350","crn":"52620"},{"term":"202350","crn":"52621"},{"term":"202350","crn":"52622"},{"term":"202350","crn":"52623"},{"term":"202350","crn":"52624"},{"term":"202350","crn":"52625"},{"term":"202350","crn":"52626"},{"term":"202350","crn":"52627"},{"term":"202350","crn":"52628"},{"term":"202350","crn":"52629"}]}]
+[
+  {
+    "subject": "CS",
+    "number": "1100",
+    "title": "Computer Science and Its Applications",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "AD"
+    ],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "1101",
+    "title": "Lab for CS 1100",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "1200",
+    "title": "First Year Seminar",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "1210",
+    "title": "Professional Development for Khoury Co-op",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "1800",
+    "title": "Discrete Structures",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "FQ"
+    ],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "40504"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "1802",
+    "title": "Seminar for CS 1800",
+    "scheduleType": "Seminar",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "40505"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "2500",
+    "title": "Fundamentals of Computer Science 1",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "FQ",
+      "ND"
+    ],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "40433"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "2501",
+    "title": "Lab for CS 2500",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "40204"
+      },
+      {
+        "term": "202340",
+        "crn": "40278"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "2510",
+    "title": "Fundamentals of Computer Science 2",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "AD",
+      "ND"
+    ],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "40101"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "2511",
+    "title": "Lab for CS 2510",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "40102"
+      },
+      {
+        "term": "202340",
+        "crn": "40231"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "2800",
+    "title": "Logic and Computation",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "2810",
+    "title": "Mathematics of Data Models",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "AD",
+      "FQ"
+    ],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "3000",
+    "title": "Algorithms and Data",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "FQ"
+    ],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "40506"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "3001",
+    "title": "Recitation for CS 3000",
+    "scheduleType": "Recitation/Discussion",
+    "credits": 0,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "3200",
+    "title": "Database Design",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "AD",
+      "FQ"
+    ],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "41761"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "3500",
+    "title": "Object-Oriented Design",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "AD",
+      "ND"
+    ],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "40114"
+      },
+      {
+        "term": "202340",
+        "crn": "41717"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "3501",
+    "title": "Lab for CS 3500",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "41856"
+      },
+      {
+        "term": "202340",
+        "crn": "41857"
+      },
+      {
+        "term": "202340",
+        "crn": "41858"
+      },
+      {
+        "term": "202340",
+        "crn": "41859"
+      },
+      {
+        "term": "202340",
+        "crn": "41860"
+      },
+      {
+        "term": "202340",
+        "crn": "41861"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "3520",
+    "title": "Programming in C++",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "40814"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "3540",
+    "title": "Game Programming",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "3650",
+    "title": "Computer Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "3700",
+    "title": "Networks and Distributed Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "3800",
+    "title": "Theory of Computation",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "40607"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "3950",
+    "title": "Introduction to Computer Science Research",
+    "scheduleType": "Seminar",
+    "credits": 2,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4097",
+    "title": "Mixed Reality",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4100",
+    "title": "Artificial Intelligence",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4120",
+    "title": "Natural Language Processing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4150",
+    "title": "Game Artificial Intelligence",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4180",
+    "title": "Reinforcement Learning",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4300",
+    "title": "Computer Graphics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "40815"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "4400",
+    "title": "Programming Languages",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4410",
+    "title": "Compilers",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4500",
+    "title": "Software Development",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "WI"
+    ],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4520",
+    "title": "Mobile Application Development",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "41209"
+      },
+      {
+        "term": "202340",
+        "crn": "41734"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "4530",
+    "title": "Fundamentals of Software Engineering",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "WI"
+    ],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4550",
+    "title": "Web Development",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4610",
+    "title": "Robotic Science and Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4700",
+    "title": "Network Fundamentals",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4730",
+    "title": "Distributed Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4805",
+    "title": "Fundamentals of Complexity Theory",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4810",
+    "title": "Advanced Algorithms",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4820",
+    "title": "Computer-Aided Reasoning",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE"
+    ],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4850",
+    "title": "Building Game Engines",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4910",
+    "title": "Computer Graphics Spec. Topics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4950",
+    "title": "Cybersecurity Research Seminar",
+    "scheduleType": "Seminar",
+    "credits": 1,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "4973",
+    "title": "Topics in Computer Science",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202360",
+        "crn": "61364"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5001",
+    "title": "Intensive Foundations of Computer Science",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5002",
+    "title": "Discrete Structures",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5003",
+    "title": "Recitation for CS 5001",
+    "scheduleType": "Recitation/Discussion",
+    "credits": 0,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5004",
+    "title": "Object-Oriented Design",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52477"
+      },
+      {
+        "term": "202350",
+        "crn": "52483"
+      },
+      {
+        "term": "202350",
+        "crn": "52484"
+      },
+      {
+        "term": "202350",
+        "crn": "52482"
+      },
+      {
+        "term": "202350",
+        "crn": "52522"
+      },
+      {
+        "term": "202350",
+        "crn": "52554"
+      },
+      {
+        "term": "202350",
+        "crn": "52630"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5005",
+    "title": "Recitation for CS 5004",
+    "scheduleType": "Recitation/Discussion",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52485"
+      },
+      {
+        "term": "202350",
+        "crn": "52555"
+      },
+      {
+        "term": "202350",
+        "crn": "52487"
+      },
+      {
+        "term": "202350",
+        "crn": "52488"
+      },
+      {
+        "term": "202350",
+        "crn": "52519"
+      },
+      {
+        "term": "202350",
+        "crn": "52523"
+      },
+      {
+        "term": "202350",
+        "crn": "52631"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5008",
+    "title": "Data Structures, Algorithms, and Their Applications within Computer Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "41762"
+      },
+      {
+        "term": "202350",
+        "crn": "52489"
+      },
+      {
+        "term": "202350",
+        "crn": "52490"
+      },
+      {
+        "term": "202350",
+        "crn": "52491"
+      },
+      {
+        "term": "202350",
+        "crn": "52492"
+      },
+      {
+        "term": "202350",
+        "crn": "52520"
+      },
+      {
+        "term": "202350",
+        "crn": "52521"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5009",
+    "title": "Recitation for CS 5008",
+    "scheduleType": "Recitation/Discussion",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52493"
+      },
+      {
+        "term": "202350",
+        "crn": "52494"
+      },
+      {
+        "term": "202350",
+        "crn": "52495"
+      },
+      {
+        "term": "202350",
+        "crn": "52496"
+      },
+      {
+        "term": "202350",
+        "crn": "52497"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5010",
+    "title": "Programming Design Paradigm",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52500"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5011",
+    "title": "Recitation for CS 5010",
+    "scheduleType": "Recitation/Discussion",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52501"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5097",
+    "title": "Mixed Reality",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5100",
+    "title": "Foundations of Artificial Intelligence",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52539"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5150",
+    "title": "Game Artificial Intelligence",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5170",
+    "title": "Artificial Intelligence for Human-Computer Interaction",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5180",
+    "title": "Reinforcement Learning and Sequential Decision Making",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5200",
+    "title": "Database Management Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "AD",
+      "FQ"
+    ],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "41215"
+      },
+      {
+        "term": "202340",
+        "crn": "41751"
+      },
+      {
+        "term": "202350",
+        "crn": "52498"
+      },
+      {
+        "term": "202350",
+        "crn": "52502"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5310",
+    "title": "Computer Graphics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "40816"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5330",
+    "title": "Pattern Recognition and Computer Vision",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5335",
+    "title": "Robotic Science and Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5340",
+    "title": "Computer/Human Interaction",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52556"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5350",
+    "title": "Applied Geometric Rep & Comput",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52541"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5400",
+    "title": "Principles of Programming Language",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5500",
+    "title": "Foundations of Software Engineering",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "WI"
+    ],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5520",
+    "title": "Mobile Application Development",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52504"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5600",
+    "title": "Computer Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52633"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5610",
+    "title": "Web Development",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "sections": [
+      {
+        "term": "202360",
+        "crn": "61395"
+      },
+      {
+        "term": "202340",
+        "crn": "41752"
+      },
+      {
+        "term": "202350",
+        "crn": "52505"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5700",
+    "title": "Fundamentals of Computer Networking",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52506"
+      },
+      {
+        "term": "202350",
+        "crn": "52529"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5800",
+    "title": "Algorithms",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "FQ"
+    ],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "41852"
+      },
+      {
+        "term": "202350",
+        "crn": "50481"
+      },
+      {
+        "term": "202350",
+        "crn": "52507"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "5850",
+    "title": "Building Game Engines",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5964",
+    "title": "Projects for Professionals",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5965",
+    "title": "Engaging with Industry Partners for Rising Professionals",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "5976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 2,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "6120",
+    "title": "Natural Language Processing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52509"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "6140",
+    "title": "Machine Learning",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52508"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "6200",
+    "title": "Information Retrieval",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "6220",
+    "title": "Data Mining Techniques",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52510"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "6240",
+    "title": "Large-Scale Parallel Data Processing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "6350",
+    "title": "Empirical Research Methods",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "6410",
+    "title": "Compilers",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [
+      "CE",
+      "WI"
+    ],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "6620",
+    "title": "Fundamentals of Cloud Computing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "41753"
+      },
+      {
+        "term": "202350",
+        "crn": "52511"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "6650",
+    "title": "Building Scalable Distributed Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52512"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "6760",
+    "title": "Privacy, Security, and Usability",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "41754"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "6954",
+    "title": "Co-op Work Experience - Half-Time",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "6964",
+    "title": "Co-op Work Experience",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "6965",
+    "title": "Co-op Work Experience Abroad",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7140",
+    "title": "Advanced Machine Learning",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7150",
+    "title": "Deep Learning",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7180",
+    "title": "Special Topics in Artificial Intelligence",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202340",
+        "crn": "41855"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "7200",
+    "title": "Statistical Methods for Computer Science",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7240",
+    "title": "Principles of Scalable Data Management: Theory, Algorithms, and Database Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7290",
+    "title": "Special Topics in Data Science",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7295",
+    "title": "SpTp: Data Vis for ML",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7300",
+    "title": "Empirical Research Methods for Human Computer Interaction",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7340",
+    "title": "Theory and Methods in Human Computer Interaction",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7380",
+    "title": "Special Topics in Graphics/Image Processing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7390",
+    "title": "Special Topics in Human-Centered Computing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7480",
+    "title": "SpTp in PL: PLandToolsVrtlWlrd",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7485",
+    "title": "Special Topics in Formal Methods",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7580",
+    "title": "Advanced Software Engineering",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7600",
+    "title": "Intensive Computer Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7610",
+    "title": "Foundations of Distributed Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7670",
+    "title": "Seminar in Computer Systems",
+    "scheduleType": "Seminar",
+    "credits": 2,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7675",
+    "title": "Master's Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52540"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "7800",
+    "title": "Advanced Algorithms",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7805",
+    "title": "Complexity Theory",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7880",
+    "title": "SpTp: Sublinear Algorithm",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7930",
+    "title": "Effective Scientific Writing in Computer Science",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7980",
+    "title": "Capstone",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7990",
+    "title": "Thesis",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "7996",
+    "title": "Thesis Continuation",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "8674",
+    "title": "Master's Project",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "8948",
+    "title": "Research Work Experience - Half-Time",
+    "scheduleType": "Off-campus instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "8949",
+    "title": "Research Work Experience",
+    "scheduleType": "Off-campus instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      {
+        "term": "202350",
+        "crn": "52560"
+      },
+      {
+        "term": "202350",
+        "crn": "52561"
+      },
+      {
+        "term": "202350",
+        "crn": "52562"
+      },
+      {
+        "term": "202350",
+        "crn": "52563"
+      },
+      {
+        "term": "202350",
+        "crn": "52564"
+      },
+      {
+        "term": "202350",
+        "crn": "52565"
+      },
+      {
+        "term": "202350",
+        "crn": "52566"
+      },
+      {
+        "term": "202350",
+        "crn": "52567"
+      },
+      {
+        "term": "202350",
+        "crn": "52568"
+      },
+      {
+        "term": "202350",
+        "crn": "52569"
+      },
+      {
+        "term": "202350",
+        "crn": "52570"
+      },
+      {
+        "term": "202350",
+        "crn": "52571"
+      },
+      {
+        "term": "202350",
+        "crn": "52572"
+      },
+      {
+        "term": "202350",
+        "crn": "52573"
+      },
+      {
+        "term": "202350",
+        "crn": "52574"
+      },
+      {
+        "term": "202350",
+        "crn": "52575"
+      },
+      {
+        "term": "202350",
+        "crn": "52576"
+      },
+      {
+        "term": "202350",
+        "crn": "52577"
+      },
+      {
+        "term": "202350",
+        "crn": "52578"
+      },
+      {
+        "term": "202350",
+        "crn": "52579"
+      },
+      {
+        "term": "202350",
+        "crn": "52580"
+      },
+      {
+        "term": "202350",
+        "crn": "52581"
+      },
+      {
+        "term": "202350",
+        "crn": "52582"
+      },
+      {
+        "term": "202350",
+        "crn": "52583"
+      },
+      {
+        "term": "202350",
+        "crn": "52584"
+      },
+      {
+        "term": "202350",
+        "crn": "52585"
+      },
+      {
+        "term": "202350",
+        "crn": "52586"
+      },
+      {
+        "term": "202350",
+        "crn": "52587"
+      },
+      {
+        "term": "202350",
+        "crn": "52588"
+      },
+      {
+        "term": "202350",
+        "crn": "52589"
+      },
+      {
+        "term": "202350",
+        "crn": "52590"
+      },
+      {
+        "term": "202350",
+        "crn": "52591"
+      },
+      {
+        "term": "202350",
+        "crn": "52592"
+      },
+      {
+        "term": "202350",
+        "crn": "52593"
+      },
+      {
+        "term": "202350",
+        "crn": "52594"
+      },
+      {
+        "term": "202350",
+        "crn": "52595"
+      },
+      {
+        "term": "202350",
+        "crn": "52596"
+      },
+      {
+        "term": "202350",
+        "crn": "52597"
+      },
+      {
+        "term": "202350",
+        "crn": "52598"
+      },
+      {
+        "term": "202350",
+        "crn": "52599"
+      },
+      {
+        "term": "202350",
+        "crn": "52600"
+      },
+      {
+        "term": "202350",
+        "crn": "52601"
+      },
+      {
+        "term": "202350",
+        "crn": "52602"
+      },
+      {
+        "term": "202350",
+        "crn": "52603"
+      },
+      {
+        "term": "202350",
+        "crn": "52604"
+      },
+      {
+        "term": "202350",
+        "crn": "52605"
+      },
+      {
+        "term": "202350",
+        "crn": "52606"
+      },
+      {
+        "term": "202350",
+        "crn": "52607"
+      },
+      {
+        "term": "202350",
+        "crn": "52608"
+      },
+      {
+        "term": "202350",
+        "crn": "52609"
+      },
+      {
+        "term": "202350",
+        "crn": "52610"
+      },
+      {
+        "term": "202350",
+        "crn": "52611"
+      },
+      {
+        "term": "202350",
+        "crn": "52612"
+      },
+      {
+        "term": "202350",
+        "crn": "52613"
+      },
+      {
+        "term": "202350",
+        "crn": "52614"
+      },
+      {
+        "term": "202350",
+        "crn": "52615"
+      },
+      {
+        "term": "202350",
+        "crn": "52616"
+      },
+      {
+        "term": "202350",
+        "crn": "52617"
+      },
+      {
+        "term": "202350",
+        "crn": "52618"
+      },
+      {
+        "term": "202350",
+        "crn": "52619"
+      },
+      {
+        "term": "202350",
+        "crn": "52620"
+      },
+      {
+        "term": "202350",
+        "crn": "52621"
+      },
+      {
+        "term": "202350",
+        "crn": "52622"
+      },
+      {
+        "term": "202350",
+        "crn": "52623"
+      },
+      {
+        "term": "202350",
+        "crn": "52624"
+      },
+      {
+        "term": "202350",
+        "crn": "52625"
+      },
+      {
+        "term": "202350",
+        "crn": "52626"
+      },
+      {
+        "term": "202350",
+        "crn": "52627"
+      },
+      {
+        "term": "202350",
+        "crn": "52628"
+      },
+      {
+        "term": "202350",
+        "crn": "52629"
+      }
+    ]
+  },
+  {
+    "subject": "CS",
+    "number": "8982",
+    "title": "Readings",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "8986",
+    "title": "Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "9991",
+    "title": "Dissertation Term 2",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": []
+  },
+  {
+    "subject": "CS",
+    "number": "9996",
+    "title": "Dissertation Continuation",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": []
+  }
+]
