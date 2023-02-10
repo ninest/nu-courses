@@ -21,7 +21,7 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
   // Get previous courses to merge in with, so no need to refetch descriptions/others after fetching courses
   const previouslyFetchedCourses = await readJSON<Course[]>(
     `${DATA_DIR_PATH}/courses/${subject.code}.json`,
-    [],
+    []
   );
 
   if (previouslyFetchedCourses?.length == 0) {
@@ -31,19 +31,13 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
   const noTerms = TERMS?.length;
   for await (const [termIndex, term] of TERMS!.entries()) {
     await searchPost(cookie, term.code);
-    const coursesForTerm = await getCoursesForTerm(
-      cookie,
-      term.code,
-      subject.code,
-    );
+    const coursesForTerm = await getCoursesForTerm(cookie, term.code, subject.code);
 
     const transformedCourses = coursesForTerm.map(transformCourse);
 
     // Merge and push transformedCourses to courses
     transformedCourses.forEach((course) => {
-      const previousCourse = previouslyFetchedCourses?.find((c) =>
-        c.number == course.number
-      );
+      const previousCourse = previouslyFetchedCourses?.find((c) => c.number == course.number);
       if (previousCourse) {
         // Don't want to lose all the data, so merge with previous data
         const mergedCourse = deepmerge(previousCourse, course);
@@ -57,11 +51,11 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
       }
     });
 
-    console.log(
-      `${subjectIndex + 1}/${noSubjects} : ${
-        termIndex + 1
-      }/${noTerms} terms done`,
-    );
+    // TODO: it's possible for a course to be offered a semester (CS 3000 in Summer I), but
+    // not offered the next semester (CS 3000 in Summer 2). Those courses are in previously
+    // fetched courses, so they should also remain
+
+    console.log(`${subjectIndex + 1}/${noSubjects} : ${termIndex + 1}/${noTerms} terms done`);
   }
 
   /*
@@ -72,9 +66,7 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
   const courseNumberToCourses = _.groupBy(courses, "number");
 
   const uniqueCourses: Course[] = Object.keys(courseNumberToCourses)
-    .map((courseNumber) =>
-      deepmerge(...courseNumberToCourses[courseNumber]) as Course
-    )
+    .map((courseNumber) => deepmerge(...courseNumberToCourses[courseNumber]) as Course)
     // Extra step: remove duplicates in NUpath list
     .map((course: Course) => ({
       ...course,
