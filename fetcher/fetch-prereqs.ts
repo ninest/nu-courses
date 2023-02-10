@@ -1,16 +1,16 @@
 import { getCoursePrereqs } from "@/banner/prereqs.ts";
-import { FOLDER_PATH } from "@/fetcher/constants.ts";
+import { DATA_DIR_PATH } from "@/fetcher/constants.ts";
 import { transformPrereqs } from "@/transformers/prereqs.ts";
 import { Course, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
 
-const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
+const subjects = await readJSON<Subject[]>(`${DATA_DIR_PATH}/subjects.json`);
 // const subjects = [{ code: "CS" }];
 
 const noSubjects = subjects?.length;
 for await (const [index, subject] of subjects!.entries()) {
   const courses = await readJSON<Course[]>(
-    `${FOLDER_PATH}/courses/${subject.code}.json`,
+    `${DATA_DIR_PATH}/courses/${subject.code}.json`,
   );
 
   console.log(`${index + 1} ${subject.code}`);
@@ -40,7 +40,7 @@ for await (const [index, subject] of subjects!.entries()) {
     );
   }
 
-  writeJSON(`${FOLDER_PATH}/courses/${subject.code}.json`, courses);
+  writeJSON(`${DATA_DIR_PATH}/courses/${subject.code}.json`, courses);
 
   console.log(`${index + 1}/${noSubjects} ${subject.code} done`);
 }

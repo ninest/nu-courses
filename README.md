@@ -147,6 +147,20 @@ deno task fetch:prereqs
 
 Similar to co-requisites, lists of pre-requisites already fetched won't be re-fetched.
 
+## Mappings
+
+Mappings are meant to make the data easier to use in applications. After all, these are just JSON files, not a relational database where we can nicely get the data we want.
+
+### Terms to subject/courses (#24)
+
+Map each term code to courses offered in that term. Each term has its own JSON file (`202340.json` for Summer I 2023) with a key for each subject code. The value is a list of courses (containing course `number` and a list `string[]` of CRNs)
+
+```ts
+export interface TermSubjectCourseMapping {
+  [subjectCode: string]: { number: string; crns: string[] }[];
+}
+```
+
 ## Support
 
 If you have any suggestions, please open an issue or pull request with your changes.

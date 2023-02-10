@@ -1,17 +1,17 @@
-import { FOLDER_PATH } from "@/fetcher/constants.ts";
+import { DATA_DIR_PATH } from "@/fetcher/constants.ts";
 import { Course, MinimizedCourse, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
 
 /* Combine all courses into a single file */
 
-const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
+const subjects = await readJSON<Subject[]>(`${DATA_DIR_PATH}/subjects.json`);
 
 const allCourses: MinimizedCourse[] = [];
 
 for await (const subject of subjects!) {
   try {
     const courses = await readJSON<Course[]>(
-      `${FOLDER_PATH}/courses/${subject.code}.json`,
+      `${DATA_DIR_PATH}/courses/${subject.code}.json`,
     )!;
     const minimizedCourses: MinimizedCourse[] = courses?.map((course) => ({
       subject: course.subject,
@@ -24,4 +24,4 @@ for await (const subject of subjects!) {
   }
 }
 
-await writeJSON(`${FOLDER_PATH}/all-courses.json`, allCourses);
+await writeJSON(`${DATA_DIR_PATH}/all-courses.json`, allCourses);

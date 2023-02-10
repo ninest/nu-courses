@@ -1,4 +1,4 @@
-export const FOLDER_PATH = "./.data";
+export const DATA_DIR_PATH = "./.data";
 
 export const TERMS = [
   {

@@ -1,13 +1,13 @@
 import { getCoursesForTerm, searchPost } from "@/banner/course.ts";
 import { getTerms } from "@/banner/term.ts";
-import { FOLDER_PATH, TERMS } from "@/fetcher/constants.ts";
+import { DATA_DIR_PATH, TERMS } from "@/fetcher/constants.ts";
 import { transformCourse } from "@/transformers/course.ts";
 import { Course, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
 import { deepmerge } from "deepmergets";
 import _ from "lodash";
 
-const subjects = await readJSON<Subject[]>(`${FOLDER_PATH}/subjects.json`);
+const subjects = await readJSON<Subject[]>(`${DATA_DIR_PATH}/subjects.json`);
 // const subjects = [{ code: "CS" }];
 
 // Get the cookie
@@ -19,7 +19,7 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
 
   // Get previous courses to merge in with, so no need to refetch descriptions/others after fetching courses
   const previouslyFetchedCourses = await readJSON<Course[]>(
-    `${FOLDER_PATH}/courses/${subject.code}.json`,
+    `${DATA_DIR_PATH}/courses/${subject.code}.json`,
     [],
   );
 
@@ -82,7 +82,7 @@ for await (const [subjectIndex, subject] of subjects!.entries()) {
       nuPath: _.uniq(course.nuPath),
     }));
 
-  writeJSON(`${FOLDER_PATH}/courses/${subject.code}.json`, uniqueCourses);
+  writeJSON(`${DATA_DIR_PATH}/courses/${subject.code}.json`, uniqueCourses);
 
   console.log(`${subjectIndex + 1}/${noSubjects} ${subject.code} done`);
 }
