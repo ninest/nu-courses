@@ -6,22 +6,31 @@ This project is meant to get course data for [ninest/husker](https://github.com/
 
 ## Folders
 
+- `constants/`
+  - Contains constants, like `TERMS`, stating which terms should be fetched
 - `banner/`
   - Contains all Banner-specific code for fetching terms, subjects, and courses
   - Only contains functions that call the API and return data as is (`getAllSubjects`, `searchSections`, `getCourseCoreqs`)
 - `fetcher/`
   - Contains functions to call Banner functions and write responses to JSON files
   - Use transformer functions to map API responses to required data types
-  - Think of `constants.ts` as the entry point for the fetchers
+  - Think of constants in `constants/` as the "parameters" for the fetchers
 - `transformers/`
   - Contains functions to map Banner API responses to required types
 - `read/`
   - Contains utility functions to read data already fetched (data that's been
     fetched and is saved in one of the JSON files)
+- `mappings/`
+  - Functions to read existing data and save it in another form
+  - For example, terms to subject/courses: courses are fetched, and contain sections which contain terms. This makes it difficult to find out which courses are offered in which term. So, there is a mapping of terms to courses offered in that term.
 - `util/`
   - Dump of (complex) utility functions used in one or more locations
 - `.data/`
-  - All output course data
+  - `subjects.json`
+  - `courses/`
+    - Contains one JSON file per course
+  - `mappings/`
+  - `all-courses.json`: all courses in a single JSON file
 
 ## Build Setup
 
