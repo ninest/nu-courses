@@ -117,3 +117,8 @@ export interface Seats {
     available: number;
   };
 }
+
+// Mapping types
+export interface TermSubjectCourseMapping {
+  [subjectCode: string]: { number: string; crns: string[] }[];
+}
