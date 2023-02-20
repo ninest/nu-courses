@@ -3,7 +3,7 @@ Map terms to subjects and courses offered in that term
 https://github.com/ninest/nu-courses/issues/24
 */
 
-import { TERMS } from "../fetcher/constants.ts";
+import { TERMS } from "../constants/terms.ts";
 import { Course, TermSubjectCourseMapping } from "../types.ts";
 import { readJSON, writeJSON } from "../util/file.ts";
 
@@ -11,7 +11,7 @@ const COURSES_DIR_PATH = "./.data/courses";
 const MAPPINGS_DIR_PATH = "./.data/mappings";
 
 for (const term of TERMS) {
-  const termCode = term.code
+  const termCode = term.code;
   const mapping: TermSubjectCourseMapping = {};
 
   for await (const subjectFile of Deno.readDir(COURSES_DIR_PATH)) {
