@@ -1,12 +1,15 @@
 import { Application, Router } from "oak";
 import { oakCors } from "cors";
 import { sectionsRouter } from "@/api/sections.ts";
+import { termCoursesRouter } from "./term-courses.ts";
 
 const app = new Application();
-const sections = new Router().use("/sections", sectionsRouter.routes());
+const router = new Router()
+  .use("/sections", sectionsRouter.routes())
+  .use("/mapping/term-courses", termCoursesRouter.routes());
 
 app.use(oakCors());
-app.use(sections.routes(), sections.allowedMethods());
+app.use(router.routes(), router.allowedMethods());
 
 console.log("Listening on http://localhost:3000");
 await app.listen({ port: 3000 });
