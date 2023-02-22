@@ -25,6 +25,9 @@ This project is meant to get course data for [ninest/husker](https://github.com/
   - For example, terms to subject/courses: courses are fetched, and contain sections which contain terms. This makes it difficult to find out which courses are offered in which term. So, there is a mapping of terms to courses offered in that term.
 - `util/`
   - Dump of (complex) utility functions used in one or more locations
+- `api/`
+  - The NU Courses API
+  - [Check out the README in `api/`](./api/README.md)
 - `.data/`
   - `subjects.json`
   - `courses/`
