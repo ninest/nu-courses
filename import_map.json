@@ -5,6 +5,7 @@
     "deepmergets": "https://deno.land/x/deepmergets@v4.2.1/dist/deno/index.ts",
     "deno-dom": "https://deno.land/x/deno_dom@v0.1.33-alpha/deno-dom-wasm.ts",
     "hono": "https://deno.land/x/hono@v3.0.1/mod.ts",
+    "hono/middleware": "https://deno.land/x/hono@v3.0.1/middleware.ts",
     "http-server": "https://deno.land/std/http/server.ts"
   }
 }
