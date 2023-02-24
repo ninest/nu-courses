@@ -1,52 +1,49 @@
-import { Router } from "oak";
-import { DATA_DIR_PATH } from "../constants/paths.ts";
-import { Course, Subject } from "../types.ts";
-import { readJSON } from "../util/file.ts";
+import { DATA_DIR_PATH } from "@/constants/paths.ts";
+import { Subject, Course, TermSubjectCourseMapping, SubjectWithCourseCount } from "@/types.ts";
+import { readJSON } from "@/util/file.ts";
+import { Hono } from "hono";
 
-export const coursesRouter = new Router();
+export const coursesRouter = new Hono();
 
-coursesRouter.get("/:subjectCode", async (context) => {
-  const subjectCode: string = context.params.subjectCode;
+coursesRouter.get("/:term", async (c) => {
+  const term = c.req.param("term");
+  const termCourseMapping = await readJSON<TermSubjectCourseMapping>(
+    `${DATA_DIR_PATH}/mappings/term-courses/${term}.json`
+  );
+  if (!termCourseMapping)
+    return c.json({ message: "Invalid term or data for this term is unavailable" }, 400);
+
   const subjects = await readJSON<Subject[]>(`${DATA_DIR_PATH}/subjects.json`);
 
-  const subject = subjects?.find((s) => s.code === subjectCode);
-  if (!subject) {
-    context.response.status = 400;
-    context.response.body = {
-      message: "Invalid subject code",
-    };
-    return;
-  }
-
-  const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/courses/${subjectCode}.json`);
-
-  context.response.status = 200;
-  context.response.body = { data: courses };
+  const subjectsWithCourseCounts: SubjectWithCourseCount[] = subjects!.map((subject) => {
+    const numCourses = termCourseMapping[subject.code].length;
+    return { ...subject, numCourses };
+  });
+  return c.json(subjectsWithCourseCounts);
 });
 
-coursesRouter.get("/:subjectCode/:courseNumber", async (context) => {
-  const { subjectCode, courseNumber } = context.params;
+coursesRouter.get("/all/:subjectCode", async (c) => {
+  const subjectCode = c.req.param("subjectCode");
   const subjects = await readJSON<Subject[]>(`${DATA_DIR_PATH}/subjects.json`);
 
   const subject = subjects?.find((s) => s.code === subjectCode);
-  if (!subject) {
-    context.response.status = 400;
-    context.response.body = {
-      message: "Invalid subject code",
-    };
-    return;
-  }
+  if (!subject) return c.json({ message: "Invalid subject code" }, 400);
+
+  const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/courses/${subjectCode}.json`);
+  return c.json(courses);
+});
+
+coursesRouter.get("/all/:subjectCode/:courseNumber", async (c) => {
+  const subjectCode = c.req.param("subjectCode");
+  const courseNumber = c.req.param("courseNumber");
+  const subjects = await readJSON<Subject[]>(`${DATA_DIR_PATH}/subjects.json`);
+
+  const subject = subjects?.find((s) => s.code === subjectCode);
+  if (!subject) return c.json({ message: "Invalid subject code" }, 400);
 
   const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/courses/${subjectCode}.json`);
   const course = courses?.find((c) => c.subject === subjectCode && c.number === courseNumber);
-  if (!subject) {
-    context.response.status = 400;
-    context.response.body = {
-      message: "Invalid course number or course",
-    };
-    return;
-  }
+  if (!course) return c.json({ message: "Invalid course number or course" }, 400);
 
-  context.response.status = 200;
-  context.response.body = { data: course };
+  return c.json(course);
 });

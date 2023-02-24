@@ -1,19 +1,13 @@
-import { Application, Router } from "oak";
-import { oakCors } from "cors";
-import { sectionsRouter } from "@/api/sections.ts";
-import { termCoursesRouter } from "./term-courses.ts";
+import { Hono } from "hono";
+import { serve } from "http-server";
 import { coursesRouter } from "./courses.ts";
+
+import { sectionsRouter } from "./sections.ts";
 import { subjectsRouter } from "./subjects.ts";
 
-const app = new Application();
-const router = new Router()
-  .use("/subjects", subjectsRouter.routes())
-  .use("/courses", coursesRouter.routes())
-  .use("/sections", sectionsRouter.routes())
-  .use("/mapping/term-courses", termCoursesRouter.routes());
+const app = new Hono();
+app.route("/subjects", subjectsRouter);
+app.route("/courses", coursesRouter);
+app.route("/sections", sectionsRouter);
 
-app.use(oakCors());
-app.use(router.routes(), router.allowedMethods());
-
-console.log("Listening on http://localhost:3000");
-await app.listen({ port: 3000 });
+serve(app.fetch, { port: 3000 });
