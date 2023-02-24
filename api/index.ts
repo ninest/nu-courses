@@ -10,4 +10,4 @@ app.route("/subjects", subjectsRouter);
 app.route("/courses", coursesRouter);
 app.route("/sections", sectionsRouter);
 
-serve(app.fetch, { port: 3000 });
+serve(app.fetch, { port: 8000 });

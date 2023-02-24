@@ -47,3 +47,34 @@ coursesRouter.get("/all/:subjectCode/:courseNumber", async (c) => {
 
   return c.json(course);
 });
+
+coursesRouter.get("/:term/:subjectCode", async (c) => {
+  const term = c.req.param("term");
+  const subjectCode = c.req.param("subjectCode");
+  const termCourseMapping = await readJSON<TermSubjectCourseMapping>(
+    `${DATA_DIR_PATH}/mappings/term-courses/${term}.json`
+  );
+  if (!termCourseMapping)
+    return c.json({ message: "Invalid term or data for this term is unavailable" }, 400);
+  const subjects = await readJSON<Subject[]>(`${DATA_DIR_PATH}/subjects.json`);
+
+  const subject = subjects?.find((s) => s.code === subjectCode);
+  if (!subject) return c.json({ message: "Invalid subject code" }, 400);
+
+  const allCourses = await readJSON<Course[]>(`${DATA_DIR_PATH}/courses/${subjectCode}.json`);
+  if (!allCourses) return c.json({ message: "Invalid subject code" }, 400);
+
+  // Filter courses based on what's in termCourseMapping
+  const courseNumbersInTerm = termCourseMapping[subjectCode].map((tcm) => tcm.number);
+  const coursesInTerm = allCourses?.filter((course) =>
+    courseNumbersInTerm.includes(course.number)
+  );
+
+  // Remove unneeded CRNs
+  const courses = coursesInTerm.map((course) => ({
+    ...course,
+    sections: course.sections.filter((section) => section.term === term),
+  }));
+
+  return c.json(courses);
+});
