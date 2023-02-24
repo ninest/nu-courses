@@ -10,6 +10,9 @@ export interface Subject {
   code: string;
   description?: string;
 }
+export interface SubjectWithCourseCount extends Subject {
+  numCourses: number;
+}
 
 export interface Course {
   // No term for courses. Terms are only required for sections

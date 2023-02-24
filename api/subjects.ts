@@ -1,7 +1,7 @@
-import { Hono } from "hono";
+import { DATA_DIR_PATH } from "@/constants/paths.ts";
 import { Subject } from "@/types.ts";
 import { readJSON } from "@/util/file.ts";
-import { DATA_DIR_PATH } from "@/constants/paths.ts";
+import { Hono } from "hono";
 
 export const subjectsRouter = new Hono();
 
