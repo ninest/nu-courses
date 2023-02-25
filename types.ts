@@ -121,6 +121,10 @@ export interface Seats {
   };
 }
 
+export interface Section extends SectionInfo, FacultyMeetingTime {
+  seats: Seats;
+}
+
 // Mapping types
 export interface TermSubjectCourseMapping {
   [subjectCode: string]: { number: string; crns: string[] }[];
