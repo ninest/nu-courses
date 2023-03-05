@@ -45,17 +45,21 @@ sectionsRouter.get("/:term/:subjectCode/:courseNumber", async (c) => {
   if (!course) return c.json({ message: "Course doesn't exist in term" });
 
   const crns = course.crns;
-  // TODO: run in parallel
   const sections: (Section | null)[] = [];
-  for (const crn of crns) {
+
+  const promises = crns.map(async (crn) => {
     const section: SectionInfo = { term, crn };
     try {
       const sectionResponse = await getSectionDataWithRetries(section, 3);
-      sections.push(sectionResponse);
+      return sectionResponse;
     } catch (error) {
-      sections.push(null);
+      return null;
     }
-  }
+  });
+
+  const results = await Promise.all(promises);
+  results.forEach((result) => sections.push(result));
+
   return c.json(sections);
 });
 
