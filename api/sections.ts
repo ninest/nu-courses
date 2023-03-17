@@ -68,7 +68,7 @@ sectionsRouter.get("/:term", async (c) => {
   const term = c.req.param("term");
   const crns = c.req.queries("crn");
 
-  if (!crns) return c.json({ message: "No CRNs provided" });
+  if (!crns) return c.json({ message: "No CRNs provided" }, 400);
 
   const sections: (Section | null)[] = [];
 
