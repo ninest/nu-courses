@@ -63,6 +63,31 @@ sectionsRouter.get("/:term/:subjectCode/:courseNumber", async (c) => {
   return c.json(sections);
 });
 
+// Get multiple sections
+sectionsRouter.get("/:term", async (c) => {
+  const term = c.req.param("term");
+  const crns = c.req.queries("crn");
+
+  if (!crns) return c.json({ message: "No CRNs provided" });
+
+  const sections: (Section | null)[] = [];
+
+  const promises = crns.map(async (crn) => {
+    const section: SectionInfo = { term, crn };
+    try {
+      const sectionResponse = await getSectionDataWithRetries(section, 3);
+      return sectionResponse;
+    } catch (error) {
+      return null;
+    }
+  });
+
+  const results = await Promise.all(promises);
+  results.forEach((result) => sections.push(result));
+
+  return c.json(sections);
+});
+
 const getSectionData = async (section: SectionInfo): Promise<Section> => {
   const [facultyMeetTimesJson, seatsHtml] = await Promise.all([
     getFacultyMeetTimes(section),
