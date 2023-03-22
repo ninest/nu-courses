@@ -1,0 +1,14 @@
+[
+  {
+    "subject": "AFCS",
+    "number": "2330",
+    "title": "Afro-Latin American Studies",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202410", "crn": "20472" }],
+    "description": "Introduces the history of Afro-Latin America and of Black identities particular to this region. Frameworks such as transnational migration and diaspora provide an entry to the specific histories of African-descended people in the countries in the region known as Latin America and contemporary interpretations and revisions of that history. Covers topics including the history of slavery in the Americas; the Haitian Revolution; debates about \"racial democracy\"; and the relationship between gender, race, and empire. Explores the relationship between scholarship and struggle, social analysis, and social transformation.",
+    "coreqs": [],
+    "prereqs": []
+  }
+]

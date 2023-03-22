@@ -1,0 +1,17 @@
+[
+  {
+    "subject": "KORE",
+    "number": "1101",
+    "title": "Elementary Korean 1",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "20381" },
+      { "term": "202410", "crn": "20382" }
+    ],
+    "description": "Begins the integrated development of elementary language skills through cultural exploration. Includes class discussion and project-based learning. Offers students an opportunity to gain a deeper understanding of daily life, social norms, and family structure in Korea. Designed for students with little or no knowledge of Korean.",
+    "coreqs": [],
+    "prereqs": []
+  }
+]

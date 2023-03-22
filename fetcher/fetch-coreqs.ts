@@ -5,13 +5,11 @@ import { Course, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
 
 const subjects = await readJSON<Subject[]>(`${DATA_DIR_PATH}/subjects.json`);
-// const subjects = [{ code: "CS" }];
+// const subjects = [{ code: "BIOT" }];
 
 const noSubjects = subjects?.length;
 for await (const [index, subject] of subjects!.entries()) {
-  const courses = await readJSON<Course[]>(
-    `${DATA_DIR_PATH}/courses/${subject.code}.json`,
-  );
+  const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/courses/${subject.code}.json`);
 
   console.log(`${index + 1} ${subject.code}`);
 
@@ -28,16 +26,18 @@ for await (const [index, subject] of subjects!.entries()) {
     // }
 
     // Fetch coreq of first section only
-    const firstSection = course.sections[0];
-    const htmlCoreqs = await getCourseCoreqs(firstSection);
-    const coreqs = transformCoreqs(htmlCoreqs);
-    course.coreqs = coreqs;
+    if (course.sections.length === 0) {
+      console.log(`Skipping coreqs for ${subject}`);
+      course.coreqs = [];
+    } else {
+      const firstSection = course.sections[0];
 
-    console.log(
-      `${index + 1}/${noSubjects} : ${
-        courseIndex + 1
-      }/${noCourses} courses done`,
-    );
+      const htmlCoreqs = await getCourseCoreqs(firstSection);
+      const coreqs = transformCoreqs(htmlCoreqs);
+      course.coreqs = coreqs;
+    }
+
+    console.log(`${index + 1}/${noSubjects} : ${courseIndex + 1}/${noCourses} courses done`);
   }
 
   writeJSON(`${DATA_DIR_PATH}/courses/${subject.code}.json`, courses);

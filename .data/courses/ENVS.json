@@ -1,1 +1,18 @@
-[{"subject":"ENVS","number":"4997","title":"Senior Thesis","scheduleType":"Individual Instruction","credits":4,"nuPath":["CE","WI"],"sections":[{"term":"202310","crn":"11229"},{"term":"202330","crn":"31148"}],"description":"Offers students an opportunity to prepare an undergraduate thesis under faculty supervision.","coreqs":[],"prereqs":[]}]
+[
+  {
+    "subject": "ENVS",
+    "number": "4997",
+    "title": "Senior Thesis",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": ["CE", "WI"],
+    "sections": [
+      { "term": "202410", "crn": "11095" },
+      { "term": "202330", "crn": "31148" },
+      { "term": "202310", "crn": "11229" }
+    ],
+    "description": "Offers students an opportunity to prepare an undergraduate thesis under faculty supervision.",
+    "coreqs": [],
+    "prereqs": []
+  }
+]

@@ -7,6 +7,7 @@
     "fetch:coreqs": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-coreqs.ts",
     "fetch:prereqs": "deno run --allow-net --allow-read --allow-write ./fetcher/fetch-prereqs.ts",
     "combine-courses": "deno run --allow-read --allow-write ./fetcher/combine-courses.ts",
+    "mapping:term-courses": "deno run --allow-read --allow-write ./mappings/term-courses.ts",
     "dev": "deno run --watch --allow-read --allow-net ./api/index.ts",
     "fmt:data": "deno fmt ./.data"
   },

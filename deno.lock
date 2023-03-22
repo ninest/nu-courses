@@ -1,6 +1,8 @@
 {
   "version": "2",
   "remote": {
+    "https://cdn.skypack.dev/-/lodash-es@v4.17.21-rDGl8YjBUjcrrAbjNrmo/dist=es2019,mode=imports/optimized/lodash-es.js": "4a1b35d34b5e0d3ae68aa46ddaabb9700ccecb75b830974db7c46a271f10daa8",
+    "https://cdn.skypack.dev/lodash-es@^4.17.15": "7dc1d11c01e46bf442774791267f7ca93f6cc204451ac648f2560b0cd6c91524",
     "https://deno.land/std@0.150.0/encoding/base64.ts": "c8c16b4adaa60d7a8eee047c73ece26844435e8f7f1328d74593dbb2dd58ea4f",
     "https://deno.land/std@0.178.0/async/abortable.ts": "73acfb3ed7261ce0d930dbe89e43db8d34e017b063cf0eaa7d215477bf53442e",
     "https://deno.land/std@0.178.0/async/deadline.ts": "c5facb0b404eede83e38bd2717ea8ab34faa2ffb20ef87fd261fcba32ba307aa",
@@ -13,6 +15,14 @@
     "https://deno.land/std@0.178.0/async/retry.ts": "5efa3ba450ac0c07a40a82e2df296287b5013755d232049efd7ea2244f15b20f",
     "https://deno.land/std@0.178.0/async/tee.ts": "47e42d35f622650b02234d43803d0383a89eb4387e1b83b5a40106d18ae36757",
     "https://deno.land/std@0.178.0/http/server.ts": "cbb17b594651215ba95c01a395700684e569c165a567e4e04bba327f41197433",
+    "https://deno.land/x/deepmergets@v4.2.1/dist/deno/deepmerge.ts": "7b15036b14c0aa2cb00e8eac7acb3454f08dd8433edb0e87210018d34a5f40f2",
+    "https://deno.land/x/deepmergets@v4.2.1/dist/deno/index.ts": "1d8a75ba9d2c204d67de0a724b1b83de64a65df40b0c606f5aec7109463466bd",
+    "https://deno.land/x/deepmergets@v4.2.1/dist/deno/types/defaults.ts": "bd7e615fa4b72fd14f12438deae419b238b76ec179752c345669ea7ca4ff0d1c",
+    "https://deno.land/x/deepmergets@v4.2.1/dist/deno/types/index.ts": "276d75bf9fb8d338bd84ed0357ea12a52a6b4da06c0a499c0e8ccbd4b57cf093",
+    "https://deno.land/x/deepmergets@v4.2.1/dist/deno/types/merging.ts": "d8ce62b034324dd76491acf1a7bd39762ed16bb31b10a0990bbdb7a9177b526f",
+    "https://deno.land/x/deepmergets@v4.2.1/dist/deno/types/options.ts": "07e4eda5147dc72e7343fb75e891b9ea4d430b8f2fcb556ef086d63dc8914e30",
+    "https://deno.land/x/deepmergets@v4.2.1/dist/deno/types/utils.ts": "4c540899d9cc8442d641ce63b4805772094a47724a4632c3a7af80d9027f8554",
+    "https://deno.land/x/deepmergets@v4.2.1/dist/deno/utils.ts": "d46e181e249e28fb10885d499ab6f12a07c386d498c2e08376b1651a07a3a7a3",
     "https://deno.land/x/deno_dom@v0.1.33-alpha/build/deno-wasm/deno-wasm.js": "b3ba6f2047b5fd8424292408c6c6ad2cb8c56a22984fdaceea2333a727bece25",
     "https://deno.land/x/deno_dom@v0.1.33-alpha/deno-dom-wasm.ts": "bfd999a493a6974e9fca4d331bee03bfb68cfc600c662cd0b48b21d67a2a8ba0",
     "https://deno.land/x/deno_dom@v0.1.33-alpha/src/api.ts": "0ff5790f0a3eeecb4e00b7d8fbfa319b165962cf6d0182a65ba90f158d74f7d7",

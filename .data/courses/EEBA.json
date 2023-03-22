@@ -1,0 +1,38 @@
+[
+  {
+    "subject": "EEBA",
+    "number": "6401",
+    "title": "Experiential Business Decision Making",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202340", "crn": "41987" }],
+    "description": "Offers guided instruction about problem identification, problem-solving skills, and working as a team to meet the needs of internal and external stakeholders. The instructor and selected industry experts work with student teams through lectures, question-and-answer sessions, and team feedback sessions to offer real-world feedback. Offers students an opportunity to leverage skills and thinking through an immersive experience; develop observations and reflections of complex situations or challenges; frame the challenges, drawing on concepts, observed patterns, and experiences; synthesize insights into a creative solution; and apply the learnings to new situations.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EEBA",
+    "number": "6402",
+    "title": "EXPO Challenge: Sustainability",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202360", "crn": "61523" }],
+    "description": "Provides a project-based experiential learning opportunity for students to leverage insights on stakeholder values and societal challenges in business. Offers students an opportunity to explore and apply best practices in environmental sustainability to impact societal challenges associated with climate change. Students work in teams to bring their experience and newly learned skills to solve a real sustainability-related business problem. Includes guidance and feedback from industry experts and peers through interviews, case studies, question-and-answer sessions, and team feedback sessions.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EEBA",
+    "number": "6403",
+    "title": "EXPO Challenge: Diversity, Equity, and Inclusion",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202360", "crn": "61524" }],
+    "description": "Provides a project-based experiential learning opportunity for students to leverage insights on stakeholder values and societal challenges in business. Offers students an opportunity to explore and apply best practices in promoting diverse, equitable, and inclusive workplaces. Students work in teams to bring their experience and newly learned skills to solve a real DEI-related business problem. Includes guidance and feedback from industry experts and peers through interviews, case studies, question-and-answer sessions, and team feedback sessions.",
+    "coreqs": [],
+    "prereqs": []
+  }
+]

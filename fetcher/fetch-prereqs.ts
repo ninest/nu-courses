@@ -9,9 +9,7 @@ const subjects = await readJSON<Subject[]>(`${DATA_DIR_PATH}/subjects.json`);
 
 const noSubjects = subjects?.length;
 for await (const [index, subject] of subjects!.entries()) {
-  const courses = await readJSON<Course[]>(
-    `${DATA_DIR_PATH}/courses/${subject.code}.json`,
-  );
+  const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/courses/${subject.code}.json`);
 
   console.log(`${index + 1} ${subject.code}`);
 
@@ -27,17 +25,18 @@ for await (const [index, subject] of subjects!.entries()) {
     //   continue;
     // }
 
-    // Fetch coreq of first section only
-    const firstSection = course.sections[0];
-    const htmlPrereqs = await getCoursePrereqs(firstSection);
-    const prereqs = transformPrereqs(htmlPrereqs);
-    course.prereqs = prereqs;
+    if (course.sections.length === 0) {
+      console.log(`Skipping prereqs for ${subject}`);
+      course.coreqs = [];
+    } else {
+      // Fetch coreq of first section only
+      const firstSection = course.sections[0];
+      const htmlPrereqs = await getCoursePrereqs(firstSection);
+      const prereqs = transformPrereqs(htmlPrereqs);
+      course.prereqs = prereqs;
+    }
 
-    console.log(
-      `${index + 1}/${noSubjects} : ${
-        courseIndex + 1
-      }/${noCourses} courses done`,
-    );
+    console.log(`${index + 1}/${noSubjects} : ${courseIndex + 1}/${noCourses} courses done`);
   }
 
   writeJSON(`${DATA_DIR_PATH}/courses/${subject.code}.json`, courses);
