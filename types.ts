@@ -37,7 +37,7 @@ export type Requisite = Pick<Course, "subject" | "number">;
 export type PrerequisiteItem = "Or" | "And" | "(" | ")" | Requisite | string;
 
 // To be used in combine courses, only containing required data
-export type MinimizedCourse = Pick<Course, "subject" | "number" | "title">;
+export type MinimizedCourse = Pick<Course, "subject" | "number" | "title" | "sections">;
 
 export const nuPath = ["ND", "EI", "IC", "FQ", "SI", "AD", "DD", "ER", "WF", "WD", "WI", "EX", "CE"] as const;
 export type NUPath = typeof nuPath[number];

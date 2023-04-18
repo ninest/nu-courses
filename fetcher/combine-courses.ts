@@ -17,6 +17,7 @@ for await (const subject of subjects!) {
       subject: course.subject,
       number: course.number,
       title: course.title,
+      sections: course.sections
     })) ?? [];
     allCourses.push(...minimizedCourses);
   } catch {
