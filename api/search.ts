@@ -15,8 +15,6 @@ searchRouter.post("/", async (c) => {
   const results: Course[] = [];
 
   for await (const searchGroup of searchGroups) {
-    console.log(searchGroup.type);
-
     switch (searchGroup.type) {
       case "subject": {
         const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/courses/${searchGroup.subjectCode}.json`);
@@ -36,13 +34,11 @@ searchRouter.post("/", async (c) => {
       case "crn": {
         const crn = searchGroup.crn.toString();
         const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/all-courses.json`);
-        const course = courses?.find((course) => {
-          console.log(course);
+        const filteredCourses = courses?.filter((course) => {
           const crns = course.sections?.map((section) => section.crn);
-          
           return crns.includes(crn);
         });
-        results.push(course);
+        filteredCourses.forEach((course) => results.push(course));
         break;
       }
       default: {
