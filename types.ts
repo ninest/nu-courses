@@ -39,21 +39,7 @@ export type PrerequisiteItem = "Or" | "And" | "(" | ")" | Requisite | string;
 // To be used in combine courses, only containing required data
 export type MinimizedCourse = Pick<Course, "subject" | "number" | "title">;
 
-export const nuPath = [
-  "ND",
-  "EI",
-  "IC",
-  "FQ",
-  "SI",
-  "AD",
-  "DD",
-  "ER",
-  "WF",
-  "WD",
-  "WI",
-  "EX",
-  "CE",
-] as const;
+export const nuPath = ["ND", "EI", "IC", "FQ", "SI", "AD", "DD", "ER", "WF", "WD", "WI", "EX", "CE"] as const;
 export type NUPath = typeof nuPath[number];
 export const nuPathMap: Record<NUPath, string> = {
   ND: "Natural/Designed World",
@@ -85,15 +71,7 @@ export interface Professor {
   name: string;
 }
 
-export const daysOfWeek = [
-  "sunday",
-  "monday",
-  "tuesday",
-  "wednesday",
-  "thursday",
-  "friday",
-  "saturday",
-] as const;
+export const daysOfWeek = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"] as const;
 export type DayOfWeek = typeof daysOfWeek[number];
 
 export interface MeetingTime {
@@ -129,3 +107,9 @@ export interface Section extends SectionInfo, FacultyMeetingTime {
 export interface TermSubjectCourseMapping {
   [subjectCode: string]: { number: string; crns: string[] }[];
 }
+
+// Search
+type SubjectGroup = { type: "subject"; subjectCode: string };
+type CourseGroup = { type: "course"; subjectCode: string; courseNumber: string };
+type CRNGroup = { type: "crn"; crn: string };
+export type SearchGroup = SubjectGroup | CourseGroup | CRNGroup;
