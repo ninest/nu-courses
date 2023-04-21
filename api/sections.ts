@@ -4,7 +4,7 @@ import { transformFacultyMeetTime } from "@/transformers/faculty-meet-times.ts";
 import { transformSeats } from "@/transformers/seats.ts";
 import { Hono } from "hono";
 import { DATA_DIR_PATH } from "../constants/paths.ts";
-import { Section, SectionInfo, TermSubjectCourseMapping } from "../types.ts";
+import { FacultyMeetingTime, Section, SectionInfo, TermSubjectCourseMapping } from "../types.ts";
 import { readJSON } from "../util/file.ts";
 
 export const sectionsRouter = new Hono();
@@ -93,9 +93,11 @@ const getSectionData = async (section: SectionInfo): Promise<Section> => {
     getFacultyMeetTimes(section),
     getCourseSeats(section),
   ]);
-  const facultyMeetTime = facultyMeetTimesJson.map(transformFacultyMeetTime)[0];
+  const facultyMeetTimes = facultyMeetTimesJson.map(
+    transformFacultyMeetTime
+  ) as FacultyMeetingTime[];
   const seats = transformSeats(seatsHtml);
-  return { ...section, ...facultyMeetTime, seats };
+  return { ...section, meetingTimes: facultyMeetTimes, seats };
 };
 
 const getSectionDataWithRetries = async (

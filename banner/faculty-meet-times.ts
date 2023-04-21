@@ -6,7 +6,7 @@ export const getFacultyMeetTimes = async (section: SectionInfo) => {
       new URLSearchParams({
         term: section.term,
         courseReferenceNumber: section.crn,
-      }),
+      })
   );
   const json = await response.json();
   return json.fmt;

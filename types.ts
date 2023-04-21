@@ -99,7 +99,8 @@ export interface Seats {
   };
 }
 
-export interface Section extends SectionInfo, FacultyMeetingTime {
+export interface Section extends SectionInfo {
+  meetingTimes: FacultyMeetingTime[]
   seats: Seats;
 }
 
