@@ -17,18 +17,23 @@ searchRouter.post("/", async (c) => {
   for await (const searchGroup of searchGroups) {
     switch (searchGroup.type) {
       case "subject": {
-        const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/courses/${searchGroup.subjectCode}.json`);
+        const courses = (await readJSON<Course[]>(
+          `${DATA_DIR_PATH}/courses/${searchGroup.subjectCode}.json`
+        )) as Course[];
         courses.forEach((course) => results.push(course));
         break;
       }
       case "course": {
-        const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/courses/${searchGroup.subjectCode}.json`);
-        const course = courses?.find(
-          (c) => c.subject === searchGroup.subjectCode && c.number === searchGroup.courseNumber
+        const courses = await readJSON<Course[]>(
+          `${DATA_DIR_PATH}/courses/${searchGroup.subjectCode}.json`
         );
-        if (!course) return c.json({ message: "Invalid course number or course" }, 400);
+        const filteredCourses = courses?.filter(
+          (c) =>
+            c.subject === searchGroup.subjectCode && c.number.startsWith(searchGroup.courseNumber)
+        ) as Course[];
+        if (!filteredCourses) return c.json({ message: "Invalid course number or course" }, 400);
 
-        results.push(course);
+        filteredCourses.forEach((course) => results.push(course));
         break;
       }
       case "crn": {
@@ -37,7 +42,7 @@ searchRouter.post("/", async (c) => {
         const filteredCourses = courses?.filter((course) => {
           const crns = course.sections?.map((section) => section.crn);
           return crns.includes(crn);
-        });
+        }) as Course[];
         filteredCourses.forEach((course) => results.push(course));
         break;
       }
