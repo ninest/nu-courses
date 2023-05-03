@@ -1,25 +1,17 @@
 import { DATA_DIR_PATH } from "@/constants/paths.ts";
-import { Course, MinimizedCourse, Subject } from "@/types.ts";
+import { Course, Subject } from "@/types.ts";
 import { readJSON, writeJSON } from "@/util/file.ts";
 
 /* Combine all courses into a single file */
 
 const subjects = await readJSON<Subject[]>(`${DATA_DIR_PATH}/subjects.json`);
 
-const allCourses: MinimizedCourse[] = [];
+const allCourses: Course[] = [];
 
 for await (const subject of subjects!) {
   try {
-    const courses = await readJSON<Course[]>(
-      `${DATA_DIR_PATH}/courses/${subject.code}.json`,
-    )!;
-    const minimizedCourses: MinimizedCourse[] = courses?.map((course) => ({
-      subject: course.subject,
-      number: course.number,
-      title: course.title,
-      sections: course.sections
-    })) ?? [];
-    allCourses.push(...minimizedCourses);
+    const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/courses/${subject.code}.json`)!;
+    courses?.forEach((course) => allCourses.push(course));
   } catch {
     // TODO
   }

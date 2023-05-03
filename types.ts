@@ -1,5 +1,5 @@
 export const campuses = ["nu", "cps", "law"] as const;
-export type Campus = typeof campuses[number];
+export type Campus = (typeof campuses)[number];
 
 export interface Term {
   code: string;
@@ -37,10 +37,24 @@ export type Requisite = Pick<Course, "subject" | "number">;
 export type PrerequisiteItem = "Or" | "And" | "(" | ")" | Requisite | string;
 
 // To be used in combine courses, only containing required data
-export type MinimizedCourse = Pick<Course, "subject" | "number" | "title" | "sections">;
+export type MinimizedCourse = Pick<Course, "subject" | "number">;
 
-export const nuPath = ["ND", "EI", "IC", "FQ", "SI", "AD", "DD", "ER", "WF", "WD", "WI", "EX", "CE"] as const;
-export type NUPath = typeof nuPath[number];
+export const nuPath = [
+  "ND",
+  "EI",
+  "IC",
+  "FQ",
+  "SI",
+  "AD",
+  "DD",
+  "ER",
+  "WF",
+  "WD",
+  "WI",
+  "EX",
+  "CE",
+] as const;
+export type NUPath = (typeof nuPath)[number];
 export const nuPathMap: Record<NUPath, string> = {
   ND: "Natural/Designed World",
   EI: "Creative Express/Innov",
@@ -71,8 +85,16 @@ export interface Professor {
   name: string;
 }
 
-export const daysOfWeek = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"] as const;
-export type DayOfWeek = typeof daysOfWeek[number];
+export const daysOfWeek = [
+  "sunday",
+  "monday",
+  "tuesday",
+  "wednesday",
+  "thursday",
+  "friday",
+  "saturday",
+] as const;
+export type DayOfWeek = (typeof daysOfWeek)[number];
 
 export interface MeetingTime {
   startTime: string;
@@ -100,7 +122,7 @@ export interface Seats {
 }
 
 export interface Section extends SectionInfo {
-  meetingTimes: FacultyMeetingTime[]
+  meetingTimes: FacultyMeetingTime[];
   seats: Seats;
 }
 
