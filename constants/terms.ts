@@ -25,10 +25,10 @@ export const TERMS = [
   },
   {
     code: "202260",
-    description: "Summer 2 2022",
+    description: "Summer II 2022",
   },
   {
     code: "202240",
-    description: "Summer 1 2022 Semester",
+    description: "Summer I 2022",
   },
 ];
