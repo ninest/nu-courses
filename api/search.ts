@@ -31,7 +31,6 @@ searchRouter.post("/", async (c) => {
           // TODO: fuzzy search
           if (
             course.title.toLowerCase().includes(searchGroup.query.trim()) ||
-            course.description?.toLowerCase().includes(searchGroup.query.trim()) ||
             course.number?.toLowerCase().includes(searchGroup.query.trim())
           ) {
             results.push(course);
@@ -57,7 +56,7 @@ searchRouter.post("/", async (c) => {
         const filteredCourses = courses?.filter((c) =>
           c.number.startsWith(searchGroup.courseNumber)
         ) as Course[];
-        filteredCourses.forEach((course) => results.push(course));
+        filteredCourses?.forEach((course) => results.push(course));
         break;
       }
       case "crn": {
