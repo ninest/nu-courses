@@ -1,11 +1,11 @@
 import { DATA_DIR_PATH } from "@/constants/paths.ts";
+import { Course, SearchGroup } from "@/types.ts";
 import { readJSON } from "@/util/file.ts";
 import { Hono } from "hono";
-import { SearchGroup, Subject, Course } from "@/types.ts";
 
 export const searchRouter = new Hono();
 
-searchRouter.get("/", async (c) => {
+searchRouter.get("/", (c) => {
   return c.json({ ping: "pong" });
 });
 
@@ -23,6 +23,22 @@ searchRouter.post("/", async (c) => {
         courses.forEach((course) => results.push(course));
         break;
       }
+      case "subject-query": {
+        const courses = (await readJSON<Course[]>(
+          `${DATA_DIR_PATH}/courses/${searchGroup.subjectCode}.json`
+        )) as Course[];
+        courses.forEach((course) => {
+          // TODO: fuzzy search
+          if (
+            course.title.toLowerCase().includes(searchGroup.query.trim()) ||
+            course.description?.toLowerCase().includes(searchGroup.query.trim()) ||
+            course.number?.toLowerCase().includes(searchGroup.query.trim())
+          ) {
+            results.push(course);
+          }
+        });
+        break;
+      }
       case "course": {
         const courses = await readJSON<Course[]>(
           `${DATA_DIR_PATH}/courses/${searchGroup.subjectCode}.json`
@@ -36,6 +52,14 @@ searchRouter.post("/", async (c) => {
         filteredCourses.forEach((course) => results.push(course));
         break;
       }
+      case "number": {
+        const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/all-courses.json`);
+        const filteredCourses = courses?.filter((c) =>
+          c.number.startsWith(searchGroup.courseNumber)
+        ) as Course[];
+        filteredCourses.forEach((course) => results.push(course));
+        break;
+      }
       case "crn": {
         const crn = searchGroup.crn.toString();
         const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/all-courses.json`);
@@ -44,6 +68,23 @@ searchRouter.post("/", async (c) => {
           return crns.includes(crn);
         }) as Course[];
         filteredCourses.forEach((course) => results.push(course));
+        break;
+      }
+      case "query": {
+        const courses = (await readJSON<Course[]>(
+          `${DATA_DIR_PATH}/all-courses.json`
+        )) as Course[];
+        courses.forEach((course) => {
+          // TODO: fuzzy search
+          if (
+            course.subject.toLowerCase().includes(searchGroup.query.trim()) ||
+            course.title.toLowerCase().includes(searchGroup.query.trim()) ||
+            course.description?.toLowerCase().includes(searchGroup.query.trim()) ||
+            course.number?.toLowerCase().includes(searchGroup.query.trim())
+          ) {
+            results.push(course);
+          }
+        });
         break;
       }
       default: {

@@ -133,6 +133,15 @@ export interface TermSubjectCourseMapping {
 
 // Search
 type SubjectGroup = { type: "subject"; subjectCode: string };
+type SubjectQueryGroup = { type: "subject-query"; subjectCode: string; query: string };
 type CourseGroup = { type: "course"; subjectCode: string; courseNumber: string };
+type NumberGroup = { type: "number"; courseNumber: string };
 type CRNGroup = { type: "crn"; crn: string };
-export type SearchGroup = SubjectGroup | CourseGroup | CRNGroup;
+type QueryGroup = { type: "query"; query: string };
+export type SearchGroup =
+  | SubjectGroup
+  | SubjectQueryGroup
+  | CourseGroup
+  | NumberGroup
+  | CRNGroup
+  | QueryGroup;
