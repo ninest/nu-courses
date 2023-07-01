@@ -28,10 +28,12 @@
       { "term": "202410", "crn": "14552" },
       { "term": "202410", "crn": "10085" },
       { "term": "202410", "crn": "14236" },
-      { "term": "202410", "crn": "20208" },
       { "term": "202410", "crn": "19451" },
       { "term": "202410", "crn": "19452" },
       { "term": "202410", "crn": "19453" },
+      { "term": "202410", "crn": "20208" },
+      { "term": "202410", "crn": "20514" },
+      { "term": "202410", "crn": "21145" },
       { "term": "202360", "crn": "60864" },
       { "term": "202360", "crn": "61044" },
       { "term": "202360", "crn": "61070" },
@@ -200,7 +202,15 @@
     ],
     "description": "Introduces and sensitizes students to the forms, practices, and effects of racism and discrimination on the various populations in the United States and presents frameworks for understanding and working with people with histories of discrimination and different cultural identities. Pays special attention to human services with diverse populations in schools, prisons, and employment assistance programs.",
     "coreqs": [],
-    "prereqs": [{ "subject": "SOCL", "number": "1101" }]
+    "prereqs": [
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
   },
   {
     "subject": "SOCL",
@@ -546,6 +556,7 @@
     "nuPath": ["CE", "WI"],
     "sections": [
       { "term": "202410", "crn": "17303" },
+      { "term": "202410", "crn": "20739" },
       { "term": "202330", "crn": "33045" },
       { "term": "202310", "crn": "19701" },
       { "term": "202310", "crn": "20795" }
@@ -553,6 +564,34 @@
     "description": "Offers students an opportunity to integrate and apply knowledge of the discipline by building on completed course work and conducting original research on a topic of their choice. Requires students to produce a research paper due at the end of the semester. This seminar operates as an intellectual workshop in which students share the process, as well as the results, of their research with the group. The class comes together to inform, guide, critique, and support one another's research efforts in a collaborative fashion. Students are expected to make constructive comments on the work of others and to freely exchange ideas.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "SOCL",
+    "number": "4973",
+    "title": "Native&Pacific Islander Women",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20570" }],
+    "description": "Designed as a specialized themes course for students with experience in sociology and/or anthropology. Takes advantage of unique opportunities—visiting guests, special thematic interests—which are not part of the regular curriculum. May be repeated up to three times.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ANTH", "number": "1101" },
+      "Or",
+      { "subject": "CRIM", "number": "1100" },
+      "Or",
+      { "subject": "HUSV", "number": "1101" },
+      "Or",
+      { "subject": "INTL", "number": "1101" },
+      "Or",
+      { "subject": "POLS", "number": "1140" },
+      "Or",
+      { "subject": "POLS", "number": "1160" },
+      "Or",
+      { "subject": "SOCL", "number": "1101" },
+      "Or",
+      { "subject": "WMNS", "number": "1103" }
+    ]
   },
   {
     "subject": "SOCL",
@@ -687,7 +726,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202410", "crn": "19457" }],
-    "description": "Offers a graduate-level seminar in the sociology of race and ethnic relations. Explores the key social, economic, political, and ideological forces shaping race and ethnic relations in the United States, past and present, and the main theoretical, methodological, and substantive debates in the &#8220;race and ethnicity&#8221; subfield of sociology. Course topics include, but are not limited to, the conceptual and intellectual foundations of the study of race and ethnic relations; the sources and consequences of ethnic and racial identities; urban poverty and dynamics of racial residential segregation; the role of wealth in creating and perpetuating racial inequality; the &#8220;new black middle class&#8221;; and contemporary debates regarding racial prejudice, discrimination, and redistributive public policies in the United States.",
+    "description": "Offers a graduate-level seminar in the sociology of race and ethnic relations. Explores the key social, economic, political, and ideological forces shaping race and ethnic relations in the United States, past and present, and the main theoretical, methodological, and substantive debates in the “race and ethnicity” subfield of sociology. Course topics include, but are not limited to, the conceptual and intellectual foundations of the study of race and ethnic relations; the sources and consequences of ethnic and racial identities; urban poverty and dynamics of racial residential segregation; the role of wealth in creating and perpetuating racial inequality; the “new black middle class”; and contemporary debates regarding racial prejudice, discrimination, and redistributive public policies in the United States.",
     "coreqs": [],
     "prereqs": []
   },
@@ -722,7 +761,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19459" }],
+    "sections": [],
     "description": "Examines the ways in which work organizations powerfully shape individual and social life. Traces such influences with particular emphasis on how organizations differentially affect the distribution of job rewards across class, gender and racial/ethnic lines. Topics include the historical evolution of the management/worker relationship, job segregation by both race and gender, the impact of new technologies on social inequality, the relation between gender and professional careers, govermental efforts to ensure equal opportunity, and the impact of workplace transformation on racial and gender inequalities at work.",
     "coreqs": [],
     "prereqs": []
@@ -735,6 +774,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202350", "crn": "53390" },
       { "term": "202330", "crn": "40217" },
       { "term": "202330", "crn": "40344" },
       { "term": "202330", "crn": "40553" },
@@ -784,6 +824,9 @@
     "sections": [
       { "term": "202410", "crn": "15732" },
       { "term": "202350", "crn": "51280" },
+      { "term": "202350", "crn": "53130" },
+      { "term": "202350", "crn": "53131" },
+      { "term": "202350", "crn": "53135" },
       { "term": "202330", "crn": "38242" },
       { "term": "202330", "crn": "39606" },
       { "term": "202330", "crn": "40060" },
@@ -835,10 +878,9 @@
       { "term": "202350", "crn": "50453" },
       { "term": "202350", "crn": "52109" },
       { "term": "202350", "crn": "52110" },
-      { "term": "202350", "crn": "52111" },
       { "term": "202350", "crn": "52112" },
-      { "term": "202350", "crn": "52113" },
       { "term": "202350", "crn": "52872" },
+      { "term": "202350", "crn": "53248" },
       { "term": "202330", "crn": "39216" },
       { "term": "202330", "crn": "39217" },
       { "term": "202330", "crn": "39218" },

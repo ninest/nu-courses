@@ -10,6 +10,7 @@
   { "code": "ARMY", "description": "Army ROTC" },
   { "code": "ARTG", "description": "Art - Design" },
   { "code": "ARTF", "description": "Art - Fundamentals" },
+  { "code": "ARTE", "description": "Art - General" },
   { "code": "ARTH", "description": "Art - History" },
   { "code": "ARTD", "description": "Art - Media Arts" },
   { "code": "ARTS", "description": "Art - Studio" },
@@ -32,6 +33,7 @@
   { "code": "CS", "description": "Computer Science" },
   { "code": "CSYE", "description": "Computer Systems Engineering" },
   { "code": "EEAM", "description": "Coop/Exper Ed - Arts/Med/Dsgn" },
+  { "code": "EEBA", "description": "Coop/Exper Ed - Business" },
   { "code": "EESC", "description": "Coop/Exper Ed - Science" },
   { "code": "EESH", "description": "Coop/Exper Ed - Soc Sci/Hum" },
   { "code": "COOP", "description": "Cooperative Education" },
@@ -122,6 +124,7 @@
   { "code": "PHDL", "description": "PhD Experiential Leadership" },
   { "code": "PHSC", "description": "Pharmaceutical Science" },
   { "code": "PMST", "description": "Pharmaceutics" },
+  { "code": "PMCL", "description": "Pharmacology" },
   { "code": "PHMD", "description": "Pharmacy Practice" },
   { "code": "PHIL", "description": "Philosophy" },
   { "code": "PHLS", "description": "Philosophy - CPS Spec" },
@@ -150,12 +153,9 @@
   { "code": "TELE", "description": "Telecommunication Systems" },
   { "code": "THTR", "description": "Theatre" },
   { "code": "WMNS", "description": "Women's/Gender/Sexualty Stdies" },
-  { "code": "EEBA", "description": "Coop/Exper Ed - Business" },
   { "code": "ABRU", "description": "Study USA" },
   { "code": "TECE", "description": "Entrepreneurship Technological" },
   { "code": "PLSC", "description": "Political Science - CPS Spec" },
-  { "code": "ARTE", "description": "Art - General" },
   { "code": "LAW", "description": "Law" },
-  { "code": "LS", "description": "Legal Studies" },
-  { "code": "PMCL", "description": "Pharmacology" }
+  { "code": "LS", "description": "Legal Studies" }
 ]

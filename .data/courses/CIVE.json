@@ -127,6 +127,39 @@
   },
   {
     "subject": "CIVE",
+    "number": "2300",
+    "title": "Environmental Measurements in Natural and Engineered Systems",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20601" }],
+    "description": "Presents the theory and application of field and laboratory methods for measurement of water and air quality parameters, soil properties, and environmental processes. Introduces the complexities and challenges associated with characterization and measurements of environmental processes in natural and engineered systems. Emphasizes data analysis, report writing, development of problem-solving skills, and teamwork using real-life laboratory and field experiments and class projects.",
+    "coreqs": [{ "subject": "CIVE", "number": "2301" }],
+    "prereqs": [
+      { "subject": "CHEM", "number": "1151" },
+      "Or",
+      { "subject": "CHEM", "number": "1161" },
+      "Or",
+      { "subject": "CHEM", "number": "1211" }
+    ]
+  },
+  {
+    "subject": "CIVE",
+    "number": "2301",
+    "title": "Lab for CIVE 2300",
+    "scheduleType": "Lab",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "20603" },
+      { "term": "202410", "crn": "20602" }
+    ],
+    "description": "Accompanies CIVE 2300. Covers topics from that course through various experiments. Includes a project.",
+    "coreqs": [{ "subject": "CIVE", "number": "2300" }],
+    "prereqs": []
+  },
+  {
+    "subject": "CIVE",
     "number": "2320",
     "title": "Structural Analysis",
     "scheduleType": "Lecture",
@@ -281,6 +314,24 @@
   },
   {
     "subject": "CIVE",
+    "number": "3335",
+    "title": "Environmental Engineering Chemistry and Chemical Technologies",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20582" }],
+    "description": "Covers chemistry principles required for describing chemical processing of elements in natural systems, distribution of pollutants in the environment, and chemical use in engineered treatment systems. Focuses on equilibria and reaction kinetics for acid-base, gas-water, precipitation-dissolution, metal complexation, oxidation-reduction, and sorption reactions. Discusses specific applications to pollutant reactions in surface waters, ground waters, soils, drinking water treatment, wastewater treatment, and the atmosphere. Performs laboratory demonstrations and design of chemical treatment technologies for water quality improvement.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "CHEM", "number": "1151" },
+      "Or",
+      { "subject": "CHEM", "number": "1161" },
+      "Or",
+      { "subject": "CHEM", "number": "1211" }
+    ]
+  },
+  {
+    "subject": "CIVE",
     "number": "3425",
     "title": "Steel Structure Design",
     "scheduleType": "Lecture",
@@ -430,7 +481,6 @@
     "nuPath": ["WI"],
     "sections": [
       { "term": "202410", "crn": "10009" },
-      { "term": "202340", "crn": "41373" },
       { "term": "202310", "crn": "10011" },
       { "term": "202240", "crn": "41736" }
     ],
@@ -599,6 +649,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "19803" },
+      { "term": "202410", "crn": "15595" },
       { "term": "202330", "crn": "38174" },
       { "term": "202330", "crn": "38175" }
     ],
@@ -697,6 +748,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "19804" },
+      { "term": "202410", "crn": "15416" },
       { "term": "202330", "crn": "38180" },
       { "term": "202330", "crn": "38181" }
     ],
@@ -768,7 +820,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19805" }],
+    "sections": [
+      { "term": "202410", "crn": "19805" },
+      { "term": "202410", "crn": "20898" }
+    ],
     "description": "Offers an evidence-based glimpse of what has been called a clear and present danger to mankind. Analyzes case studies from the magic of the butterfly effect in chaos theory to the deep challenges in physics, biogeochemistry, and data sciences. Covers topics from experimental design to satellite-based remote sensing, all the way to the design and operations of next-generation hydraulic infrastructures, transportation systems, smart grids, and communication networks, including the impacts on coastal or inland cities, the resilience to weather hazards, and the sustainability of water-energy-food resources. Includes policy issues and risk-informed trade-offs in renewable energy, environmental regulations, and emissions control. Graduate students are required to complete a mandatory class project.",
     "coreqs": [],
     "prereqs": []
@@ -792,7 +847,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38186" }],
+    "sections": [
+      { "term": "202410", "crn": "14923" },
+      { "term": "202330", "crn": "38186" }
+    ],
     "description": "Discusses urban transportation planning and engineering for modes other than highway. Covers travel demand forecasting for both the short and long term including impact analysis methods, simple elasticity models, and the four-step model system of trip generation, trip distribution, modal split, and network assignment. Introduces transit service analysis and design. Other topics include capacity, service, and engineering design basics for different travel modes, such as bus, airport, rail, and bicycle. Considers the environmental impact, economic evaluation, and financial impact of different modes of transportation.",
     "coreqs": [],
     "prereqs": []
@@ -909,7 +967,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "14925" },
+      { "term": "202410", "crn": "21264" },
       { "term": "202330", "crn": "34814" },
       { "term": "202310", "crn": "16019" }
     ],
@@ -924,7 +982,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20151" }],
+    "sections": [
+      { "term": "202410", "crn": "20151" },
+      { "term": "202410", "crn": "20905" }
+    ],
     "description": "Offers an interdisciplinary course covering the fundamentals of time series and spatial statistics with applications in engineering, science, and business. Introduces analysis and forecasting methods for time series, spatial, and spatiotemporal data. Discusses classical time or frequency domain methods, as well as recent techniques motivated from computer science, physics, statistics, or engineering. Case studies relate to ongoing research and to real-world examples. A demo project is selected by the instructor based on discussion with individual students. A computer-based final project can be tailored to student interests in environmental engineering, sustainability sciences, security threat assessments, social sciences, business, or management science and finance. Requires undergraduate probability and statistics (CIVE 3464 or equivalent); background in programming languages such as MATLAB or R helpful but not required.",
     "coreqs": [],
     "prereqs": []
@@ -1117,6 +1178,18 @@
       "Or",
       { "subject": "CHME", "number": "7350" }
     ]
+  },
+  {
+    "subject": "CIVE",
+    "number": "7301",
+    "title": "Advanced Soil Mechanics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20873" }],
+    "description": "Studies characterization of soils, soil mineralogy and chemistry, stresses within a soil mass, basic porous media flow principles, effective stress principle, compaction, drained and undrained stress-strain-strength concepts, and consolidation theory and its application. Requires one semester of undergraduate soil mechanics.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "CIVE",
@@ -1332,7 +1405,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "51580" }],
+    "sections": [],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1350,6 +1423,8 @@
       { "term": "202410", "crn": "18208" },
       { "term": "202410", "crn": "18515" },
       { "term": "202410", "crn": "19313" },
+      { "term": "202410", "crn": "20777" },
+      { "term": "202340", "crn": "42148" },
       { "term": "202330", "crn": "40201" },
       { "term": "202330", "crn": "39591" },
       { "term": "202330", "crn": "40663" },
@@ -1373,6 +1448,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "19258" },
+      { "term": "202410", "crn": "20938" },
       { "term": "202310", "crn": "21711" }
     ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision.",
@@ -1392,14 +1468,9 @@
       { "term": "202410", "crn": "18551" },
       { "term": "202410", "crn": "19091" },
       { "term": "202410", "crn": "12109" },
-      { "term": "202340", "crn": "40923" },
+      { "term": "202410", "crn": "20915" },
+      { "term": "202410", "crn": "20975" },
       { "term": "202350", "crn": "50561" },
-      { "term": "202350", "crn": "50652" },
-      { "term": "202350", "crn": "50707" },
-      { "term": "202350", "crn": "51384" },
-      { "term": "202350", "crn": "52096" },
-      { "term": "202350", "crn": "52164" },
-      { "term": "202350", "crn": "52168" },
       { "term": "202330", "crn": "40237" },
       { "term": "202330", "crn": "40632" },
       { "term": "202330", "crn": "35420" },
@@ -1424,7 +1495,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "19034" },
-      { "term": "202350", "crn": "50713" },
       { "term": "202310", "crn": "21485" }
     ],
     "description": "Offers continued thesis work conducted under the supervision of a departmental faculty.",
@@ -1442,8 +1512,7 @@
       { "term": "202410", "crn": "16224" },
       { "term": "202410", "crn": "14827" },
       { "term": "202410", "crn": "19253" },
-      { "term": "202350", "crn": "50542" },
-      { "term": "202350", "crn": "52240" },
+      { "term": "202340", "crn": "42287" },
       { "term": "202330", "crn": "40330" },
       { "term": "202330", "crn": "40438" },
       { "term": "202330", "crn": "39892" }
@@ -1464,8 +1533,6 @@
       { "term": "202410", "crn": "16081" },
       { "term": "202410", "crn": "16154" },
       { "term": "202410", "crn": "19052" },
-      { "term": "202350", "crn": "50767" },
-      { "term": "202350", "crn": "51035" },
       { "term": "202330", "crn": "35234" },
       { "term": "202330", "crn": "40297" },
       { "term": "202310", "crn": "17944" },
@@ -1482,7 +1549,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "51057" }],
+    "sections": [],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1494,10 +1561,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202350", "crn": "50696" },
-      { "term": "202350", "crn": "50760" }
-    ],
+    "sections": [],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1509,7 +1573,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "50486" }],
+    "sections": [],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1528,31 +1592,30 @@
       { "term": "202410", "crn": "14789" },
       { "term": "202410", "crn": "16069" },
       { "term": "202410", "crn": "19266" },
+      { "term": "202410", "crn": "20770" },
       { "term": "202410", "crn": "19278" },
       { "term": "202410", "crn": "19328" },
       { "term": "202410", "crn": "14837" },
       { "term": "202360", "crn": "61274" },
       { "term": "202360", "crn": "60585" },
       { "term": "202360", "crn": "60817" },
-      { "term": "202350", "crn": "50533" },
-      { "term": "202350", "crn": "50921" },
+      { "term": "202360", "crn": "61758" },
       { "term": "202350", "crn": "50935" },
       { "term": "202350", "crn": "50938" },
       { "term": "202350", "crn": "52324" },
       { "term": "202350", "crn": "50967" },
       { "term": "202350", "crn": "50983" },
-      { "term": "202350", "crn": "50994" },
       { "term": "202350", "crn": "51083" },
-      { "term": "202350", "crn": "51105" },
       { "term": "202350", "crn": "51372" },
       { "term": "202350", "crn": "51375" },
       { "term": "202350", "crn": "51397" },
-      { "term": "202350", "crn": "51403" },
       { "term": "202350", "crn": "51415" },
       { "term": "202350", "crn": "51485" },
       { "term": "202350", "crn": "51503" },
       { "term": "202350", "crn": "51505" },
       { "term": "202350", "crn": "51553" },
+      { "term": "202350", "crn": "53084" },
+      { "term": "202350", "crn": "53178" },
       { "term": "202330", "crn": "40527" },
       { "term": "202330", "crn": "37992" },
       { "term": "202330", "crn": "40528" },
@@ -1584,18 +1647,13 @@
     "sections": [
       { "term": "202410", "crn": "16097" },
       { "term": "202410", "crn": "19256" },
+      { "term": "202410", "crn": "20912" },
+      { "term": "202410", "crn": "21190" },
       { "term": "202350", "crn": "50701" },
-      { "term": "202350", "crn": "50715" },
-      { "term": "202350", "crn": "50763" },
       { "term": "202350", "crn": "51064" },
       { "term": "202350", "crn": "50949" },
-      { "term": "202350", "crn": "51028" },
-      { "term": "202350", "crn": "51048" },
-      { "term": "202350", "crn": "51132" },
-      { "term": "202350", "crn": "51535" },
-      { "term": "202350", "crn": "52213" },
-      { "term": "202350", "crn": "50026" },
-      { "term": "202350", "crn": "51465" },
+      { "term": "202350", "crn": "53047" },
+      { "term": "202350", "crn": "53380" },
       { "term": "202330", "crn": "40662" },
       { "term": "202330", "crn": "36977" },
       { "term": "202330", "crn": "39789" },
@@ -1618,13 +1676,7 @@
       { "term": "202410", "crn": "19096" },
       { "term": "202410", "crn": "19161" },
       { "term": "202410", "crn": "19179" },
-      { "term": "202350", "crn": "50810" },
-      { "term": "202350", "crn": "50965" },
-      { "term": "202350", "crn": "50996" },
-      { "term": "202350", "crn": "51067" },
-      { "term": "202350", "crn": "51094" },
-      { "term": "202350", "crn": "51114" },
-      { "term": "202350", "crn": "51803" },
+      { "term": "202410", "crn": "21139" },
       { "term": "202350", "crn": "51804" },
       { "term": "202350", "crn": "52736" },
       { "term": "202350", "crn": "52737" },
@@ -1664,31 +1716,22 @@
       { "term": "202410", "crn": "12258" },
       { "term": "202410", "crn": "13867" },
       { "term": "202410", "crn": "18871" },
+      { "term": "202410", "crn": "20544" },
+      { "term": "202410", "crn": "20545" },
+      { "term": "202410", "crn": "20546" },
+      { "term": "202410", "crn": "20547" },
       { "term": "202360", "crn": "60735" },
       { "term": "202360", "crn": "61103" },
       { "term": "202360", "crn": "61259" },
-      { "term": "202340", "crn": "41489" },
-      { "term": "202350", "crn": "50487" },
       { "term": "202350", "crn": "50351" },
-      { "term": "202350", "crn": "50523" },
       { "term": "202350", "crn": "50456" },
-      { "term": "202350", "crn": "50535" },
       { "term": "202350", "crn": "50569" },
       { "term": "202350", "crn": "50937" },
       { "term": "202350", "crn": "50995" },
-      { "term": "202350", "crn": "51075" },
       { "term": "202350", "crn": "51333" },
       { "term": "202350", "crn": "51380" },
-      { "term": "202350", "crn": "51400" },
-      { "term": "202350", "crn": "51401" },
-      { "term": "202350", "crn": "51427" },
       { "term": "202350", "crn": "50076" },
-      { "term": "202350", "crn": "50096" },
       { "term": "202350", "crn": "50844" },
-      { "term": "202350", "crn": "50910" },
-      { "term": "202350", "crn": "50928" },
-      { "term": "202350", "crn": "50974" },
-      { "term": "202350", "crn": "51079" },
       { "term": "202350", "crn": "51395" },
       { "term": "202350", "crn": "51805" },
       { "term": "202350", "crn": "52738" },

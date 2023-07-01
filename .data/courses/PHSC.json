@@ -218,10 +218,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "10448" },
-      { "term": "202310", "crn": "10482" }
-    ],
+    "sections": [{ "term": "202310", "crn": "10482" }],
     "description": "Develops an understanding of pharmaceutical dosage forms, with emphasis on solids, liquids, semisolids, parenterals, inhalation, and novel drug delivery systems. Combines the discussion of pharmaceutical products developed in industry and those compounded in local pharmacies. Focuses on application of mathematical principles and problem-solving skills in pharmaceutical compounding.",
     "coreqs": [],
     "prereqs": [
@@ -326,10 +323,7 @@
     "scheduleType": "Lecture",
     "credits": 5,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "10332" },
-      { "term": "202310", "crn": "10358" }
-    ],
+    "sections": [{ "term": "202310", "crn": "10358" }],
     "description": "Introduces the principles and basic concepts of pharmacology and the general mechanisms of drug action including drug receptor interactions. Discusses the major drug classes affecting the peripheral autonomic and central nervous systems including anxiolytics, sedative-hypnotics, anesthetics, anticonvulsants, neuroleptics, antidepressants, and antimanic agents. Considers therapeutic uses, mechanisms of drug action, and undesirable actions including side effects and adverse reactions.",
     "coreqs": [],
     "prereqs": [
@@ -424,6 +418,71 @@
       { "term": "202310", "crn": "13638" }
     ],
     "description": "Presents key concepts and challenges of drug design, development, and evaluation. Integrates the principles of drug design, development, and delivery in a discussion of both small-molecule formulations and biologics. Contextualizes the hallmarks along the path of preclinical drug design to clinical translation. Components of the course include Team-Based Learning (TBL) and professionalism. The TBL sessions offer students an opportunity to work on course-related team applications and include graded peer evaluations.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHSC",
+    "number": "5110",
+    "title": "Integrated Science and Therapeutics 1",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20663" }],
+    "description": "Integrates foundational concepts of pharmacology, medicinal chemistry, pathophysiology, and pharmacotherapeutics to treat patients with hypertension, diabetes, and hyperlipidemia. Studies knowledge, skills, and attitudes pertaining to drug action, drug-receptor interactions, structure-activity relationships, dose-response relationships, drug mechanisms of action, therapeutic uses, and adverse effects. Offers students an opportunity to develop patient evaluation skills using the Pharmacists' Patient Care Process and identification of drug therapy problems. Emphasizes self-care, patient education, assessment, medication administration, management and monitoring, and preventative health and population-based health outcomes.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "PHSC", "number": "2303" },
+      "And",
+      { "subject": "PHSC", "number": "2304" },
+      "And",
+      { "subject": "ENGW", "number": "3306" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
+  },
+  {
+    "subject": "PHSC",
+    "number": "5130",
+    "title": "Foundations of Pharmaceutical Sciences 1",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20662" }],
+    "description": "Examines physical and chemical properties of drugs and discusses pharmaceutical products developed in industry and compounded in pharmacies. Focuses on application of mathematical principles and problem-solving skills in pharmaceutical compounding of dosage forms including solids, liquids, parenterals, inhalation, and novel drug delivery systems. Discusses thermodynamics, colligative properties, ionic equilibriums and buffers, solubility, protein binding, and reaction kinetics.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      "(",
+      { "subject": "MATH", "number": "1241" },
+      "Or",
+      { "subject": "MATH", "number": "1245" },
+      "Or",
+      { "subject": "MATH", "number": "1341" },
+      ")",
+      "And",
+      { "subject": "CHEM", "number": "2313" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
+  },
+  {
+    "subject": "PHSC",
+    "number": "5181",
+    "title": "Integrated Learning Lab 1",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "20673" },
+      { "term": "202410", "crn": "20674" },
+      { "term": "202410", "crn": "20675" },
+      { "term": "202410", "crn": "20676" }
+    ],
+    "description": "Offers students an opportunity to develop and assimilate knowledge, skills, and attitudes related to the pharmaceutical care of patients to supplement and augment pharmacy curricular topics within an immersive learning experience. Includes pharmaceutics, healthcare systems, professional communication skills, research methods, drug information, jurisprudence, patient counseling, and aseptic technique/compounding. Uses innovative digital tools, environments, equipment, learning materials, and pedagogical methods that promote the development and refinement of problem-solving skills, adaptability/resilience, and a team mindset that can be applied during experiential activities (co-op/introductory pharmacy practice experience/advanced pharmacy practice experience), as well as future careers.",
     "coreqs": [],
     "prereqs": []
   },
@@ -574,6 +633,7 @@
     "sections": [
       { "term": "202410", "crn": "13235" },
       { "term": "202410", "crn": "18837" },
+      { "term": "202350", "crn": "53214" },
       { "term": "202310", "crn": "13671" },
       { "term": "202310", "crn": "21283" }
     ],
@@ -786,10 +846,12 @@
       { "term": "202410", "crn": "16262" },
       { "term": "202410", "crn": "18609" },
       { "term": "202410", "crn": "19040" },
-      { "term": "202350", "crn": "52212" },
-      { "term": "202350", "crn": "52252" },
-      { "term": "202350", "crn": "52411" },
-      { "term": "202350", "crn": "52412" },
+      { "term": "202410", "crn": "20692" },
+      { "term": "202410", "crn": "20833" },
+      { "term": "202410", "crn": "20834" },
+      { "term": "202410", "crn": "20923" },
+      { "term": "202350", "crn": "53063" },
+      { "term": "202350", "crn": "53238" },
       { "term": "202330", "crn": "33510" },
       { "term": "202330", "crn": "37143" },
       { "term": "202330", "crn": "40398" },
@@ -812,7 +874,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "50762" }],
+    "sections": [{ "term": "202350", "crn": "53346" }],
     "description": "Offers continued registration while student completes master's thesis or other research project to meet the research requirement in pharmaceutical science.",
     "coreqs": [],
     "prereqs": []
@@ -842,6 +904,18 @@
     "nuPath": [],
     "sections": [{ "term": "202350", "crn": "50628" }],
     "description": "Presents the principles of writing a proposal based on the NIH R01 grant proposal template used by the department. Participants develop their own proposal in collaboration with their faculty advisor or the immediate project supervisor designated by their faculty advisor (the project principle investigator). Offers students an opportunity to meet with their own project principle investigators to develop content and map out the project aims and experimental design and to produce a revised draft of their thesis proposal. Each student must have initiated MS or PhD thesis research and have some preliminary data; PhD students must have passed their qualifying exam; MS students must petition the graduate committee in writing for permission to enroll.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHSC",
+    "number": "7986",
+    "title": "Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "53353" }],
+    "description": "Offers students an opportunity to conduct full-time research under faculty supervision.",
     "coreqs": [],
     "prereqs": []
   },

@@ -136,7 +136,7 @@
     "title": "Marketing and Society",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["ER", "EX", "SI"],
+    "nuPath": ["SI", "ER", "EX"],
     "sections": [
       { "term": "202410", "crn": "20496" },
       { "term": "202330", "crn": "33257" }
@@ -312,6 +312,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15314" },
+      { "term": "202410", "crn": "20939" },
       { "term": "202340", "crn": "41888" },
       { "term": "202330", "crn": "38154" },
       { "term": "202310", "crn": "16651" }
@@ -327,7 +328,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38155" }],
+    "sections": [
+      { "term": "202410", "crn": "20724" },
+      { "term": "202330", "crn": "38155" }
+    ],
     "description": "Offers students an advanced-level experiential learning opportunity working directly with a faculty mentor on an academic marketing research project. Depending on the mutual interests of students and faculty, research may be behavioral/experimental or quantitative/analytical in nature. Engages students in multiple aspects of a research project: literature review; theory development; hypothesis generation; research design; data analysis and visualization; and developing insights for managers, researchers, and policy. Students meet weekly with the course instructors for skill-building sessions and lab meetings.",
     "coreqs": [],
     "prereqs": []
@@ -341,7 +345,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10820" },
-      { "term": "202410", "crn": "15287" },
+      { "term": "202410", "crn": "20928" },
       { "term": "202340", "crn": "41876" },
       { "term": "202330", "crn": "33675" },
       { "term": "202330", "crn": "38531" },
@@ -486,7 +490,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39034" }],
+    "sections": [
+      { "term": "202410", "crn": "20577" },
+      { "term": "202330", "crn": "39034" }
+    ],
     "description": "Examines the key drivers and building blocks of digital business transformations underlying the best marketing practices of the platform economy and discusses how companies can successfully take advantage of emerging multisided platforms and market-driven network externalities. Offers students an opportunity to learn how platforms change the way firms and consumers transact; to identify customer groups whose affiliation with the platform is most valuable; to understand the dynamics and limitations of platform-based network effects; to design competitive platform-based marketing strategies; and to develop plans for turning products and services into sustainable platforms. Explores consumer-based perspectives to highlight potential biases and discrimination arising in the platform economy. Considers various approaches for establishing fair and appropriate regulations and policies to mitigate such issues.",
     "coreqs": [],
     "prereqs": []
@@ -510,7 +517,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38777" }],
+    "sections": [
+      { "term": "202410", "crn": "20725" },
+      { "term": "202330", "crn": "38777" }
+    ],
     "description": "Offers an advanced-level experiential learning opportunity for students considering an academic career in marketing. Research may be behavioral/experimental or quantitative/analytical in nature. Engages students in multiple aspects of a research project: literature review; theory development; hypothesis generation; research design; data analysis and visualization; and developing insights for managers, researchers, and policy. Students participate in formal research training; attend weekly meetings with the faculty leads for the course; present their research; and submit a research paper at the end of the semester.",
     "coreqs": [],
     "prereqs": []
@@ -798,10 +808,7 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "12822" },
-      { "term": "202310", "crn": "13192" }
-    ],
+    "sections": [{ "term": "202310", "crn": "13192" }],
     "description": "Reviews the product portfolio concept, examining the need for balanced portfolios and focusing on issues related to product proliferation and simplification. Discusses market-based pricing strategies, sales efforts, distribution, and communication in the context of enhancing the firm's product position in the marketplace. Focuses on developing and executing sales. Explores business-to-business and business-to-customer strategies.",
     "coreqs": [],
     "prereqs": []
@@ -887,8 +894,23 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39558" }],
+    "sections": [
+      { "term": "202410", "crn": "20506" },
+      { "term": "202330", "crn": "39558" }
+    ],
     "description": "Offers students an advanced-level experiential learning opportunity to actively participate to solve client-centric challenges facing businesses and other organizations using data analytics and digital technology applications. Faculty and organizations present a variety of such challenges, and students are guided through solving these challenges. Discusses how new technologies affect human behavior, examines how digital convergence impacts society, and studies how to apply state-of-the-art methods in machine learning to create value for businesses. Students practice communicating and enabling change within organizations. Focuses on building students’ technical and managerial skills to develop capacities to situate a problem in a wider research context and to develop a communication approach to deliver technical information to different audiences.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MKTG",
+    "number": "7001",
+    "title": "Interdisciplinary Research in Marketing Science",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20842" }],
+    "description": "Exposes students to cutting-edge research in quantitative marketing to help them define and advance their interdisciplinary research interests. Explains the process of generating feasible, interesting, and managerially relevant research ideas. Focuses on research opportunities arising from applications of new algorithms and technologies to generate consumer insights and automate product recommendations; improve privacy-preserving personalization; understand the increasingly complex advertising landscape and smart devices ecosystem; capture and analyze large unstructured data such as biomarkers, geolocation, networks, video, voice, and text in order to improve consumer experiences. Designed for graduate students with a background in computational social science, computer science, data analytics, digital humanities, economics, engineering, and network science who are interested in consumer-focused interdisciplinary empirical research projects. Expects students to produce a major paper suitable for publication.",
     "coreqs": [],
     "prereqs": []
   },

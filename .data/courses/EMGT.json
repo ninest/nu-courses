@@ -8,12 +8,14 @@
     "nuPath": ["EX"],
     "sections": [
       { "term": "202410", "crn": "12067" },
+      { "term": "202410", "crn": "11689" },
       { "term": "202410", "crn": "18129" },
+      { "term": "202410", "crn": "20870" },
       { "term": "202360", "crn": "60226" },
       { "term": "202360", "crn": "60555" },
-      { "term": "202340", "crn": "41383" },
       { "term": "202340", "crn": "40384" },
       { "term": "202340", "crn": "41492" },
+      { "term": "202340", "crn": "42209" },
       { "term": "202330", "crn": "32433" },
       { "term": "202330", "crn": "31478" },
       { "term": "202330", "crn": "31774" },
@@ -96,6 +98,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12544" },
+      { "term": "202410", "crn": "19829" },
       { "term": "202410", "crn": "10589" },
       { "term": "202410", "crn": "15346" },
       { "term": "202340", "crn": "41415" },
@@ -128,15 +131,28 @@
   },
   {
     "subject": "EMGT",
+    "number": "6700",
+    "title": "Digital Product Design and Management",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "21238" },
+      { "term": "202410", "crn": "21239" }
+    ],
+    "description": "Examines the theory and practice of digital product design and management, tailored for engineering students. The development of quality digital products is of critical importance yet companies are still delivering products that take too long to manufacture, cost too much, and are not wanted by customers. Explores human, entrepreneurial, managerial, and engineering aspects of product management using a \"learning-by-doing\" approach to build product management skills. Designed for engineering students without product management experience but an interest in this area of study.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EMGT",
     "number": "7374",
     "title": "ST:Advanced Product Management",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "16119" },
       { "term": "202410", "crn": "17760" },
-      { "term": "202410", "crn": "20422" },
       { "term": "202330", "crn": "36779" },
       { "term": "202330", "crn": "38680" },
       { "term": "202330", "crn": "39867" },
@@ -155,10 +171,26 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202350", "crn": "52313" },
+      { "term": "202360", "crn": "61714" },
+      { "term": "202340", "crn": "42318" },
       { "term": "202330", "crn": "33534" }
     ],
     "description": "Offers theoretical or experimental work under individual faculty supervision. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EMGT",
+    "number": "7990",
+    "title": "Thesis",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "20947" },
+      { "term": "202350", "crn": "53277" }
+    ],
+    "description": "Offers analytical and/or experimental work conducted under the direction of the faculty in fulfillment of the requirements for the degree. Requires first-year students to attend a graduate seminar program that introduces the students to the methods of choosing a research topic, conducting research, and preparing a thesis. Requires successful completion of the seminar program. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   }

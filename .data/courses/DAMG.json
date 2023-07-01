@@ -26,11 +26,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "15020" },
       { "term": "202410", "crn": "15021" },
       { "term": "202410", "crn": "16749" },
-      { "term": "202410", "crn": "20158" },
-      { "term": "202410", "crn": "20233" },
       { "term": "202350", "crn": "51669" },
       { "term": "202330", "crn": "36505" },
       { "term": "202330", "crn": "36506" },
@@ -124,6 +121,26 @@
   },
   {
     "subject": "DAMG",
+    "number": "7325",
+    "title": "Introduction to Information Technology Auditing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "15031" }],
+    "description": "Designed to provide a foundation for the study and professional career development of information technology (IT) auditing. Introduces the fundamentals of IT auditing, core reasons why this is a specialized area of auditing, and the principle objectives of IT auditing and its relationship to integrated financial or operational auditing. Offers an insight into management‘s objectives regarding IT risk management. Uses the Cobit governance and control framework to emphasize management issues regarding control of IT and the achievement of value through managed IT processes. Introduces three primary types of IT audits: the audits of computerized information systems, IT processing environments, and the process of developing and implementing information systems.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "DAMG", "number": "6105" },
+      "And",
+      "(",
+      { "subject": "DAMG", "number": "6210" },
+      "Or",
+      { "subject": "INFO", "number": "6210" },
+      ")"
+    ]
+  },
+  {
+    "subject": "DAMG",
     "number": "7350",
     "title": "Systems and Cybersecurity Fundamentals",
     "scheduleType": "Lecture",
@@ -132,7 +149,6 @@
     "sections": [
       { "term": "202410", "crn": "15032" },
       { "term": "202410", "crn": "18862" },
-      { "term": "202410", "crn": "18863" },
       { "term": "202330", "crn": "36518" }
     ],
     "description": "Presents the principles of data and technology that define systems and cybersecurity from a socio-technical perspective. Offers students an opportunity to gain insight into the importance of systems security within cybersecurity and the integral role that information systems analysts play in developing cybersecure systems that people use. Through hands-on dynamic learning, students explore foundational cybersecurity principles, security architecture, risk management, attacks and mitigation strategies using Kali Linux, cyber incident response, and emerging IT/IS technologies.",
@@ -156,7 +172,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15034" },
+      { "term": "202410", "crn": "21203" },
       { "term": "202350", "crn": "52765" },
+      { "term": "202350", "crn": "53179" },
       { "term": "202330", "crn": "36519" },
       { "term": "202310", "crn": "16165" },
       { "term": "202260", "crn": "61419" }

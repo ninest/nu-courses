@@ -18,6 +18,8 @@
       { "term": "202410", "crn": "13613" },
       { "term": "202410", "crn": "11436" },
       { "term": "202410", "crn": "20213" },
+      { "term": "202410", "crn": "20645" },
+      { "term": "202410", "crn": "20647" },
       { "term": "202330", "crn": "38812" },
       { "term": "202330", "crn": "31771" },
       { "term": "202330", "crn": "38813" },
@@ -44,7 +46,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "11438" },
       { "term": "202410", "crn": "11439" },
       { "term": "202410", "crn": "13705" },
       { "term": "202410", "crn": "11440" },
@@ -105,13 +106,6 @@
       { "term": "202410", "crn": "18022" },
       { "term": "202410", "crn": "18023" },
       { "term": "202410", "crn": "11443" },
-      { "term": "202410", "crn": "18024" },
-      { "term": "202410", "crn": "18232" },
-      { "term": "202410", "crn": "18233" },
-      { "term": "202410", "crn": "18234" },
-      { "term": "202410", "crn": "18840" },
-      { "term": "202410", "crn": "18841" },
-      { "term": "202410", "crn": "18842" },
       { "term": "202410", "crn": "11444" },
       { "term": "202410", "crn": "11445" },
       { "term": "202410", "crn": "11446" },
@@ -368,6 +362,7 @@
       { "term": "202340", "crn": "40443" },
       { "term": "202340", "crn": "41382" },
       { "term": "202340", "crn": "41890" },
+      { "term": "202340", "crn": "42130" },
       { "term": "202330", "crn": "31616" },
       { "term": "202330", "crn": "37116" },
       { "term": "202330", "crn": "31617" },
@@ -452,7 +447,11 @@
       "Or",
       { "subject": "ENGL", "number": "1102" },
       "Or",
-      { "subject": "ENGL", "number": "1111" }
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -475,7 +474,11 @@
       "Or",
       { "subject": "ENGL", "number": "1102" },
       "Or",
-      { "subject": "ENGL", "number": "1111" }
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -594,7 +597,11 @@
       "Or",
       { "subject": "ENGL", "number": "1102" },
       "Or",
-      { "subject": "ENGL", "number": "1111" }
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -604,8 +611,8 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "17622" }],
-    "description": "Offers writing instruction for students in criminal justice. Students practice and reflect on writing in professional, public, and academic genres&#8212;such as reports, protocols, press releases, and public service announcements&#8212;relevant for careers in criminal justice and related fields. In a workshop setting, offers students an opportunity to evaluate a wide variety of sources and develop expertise in audience analysis, critical research, peer review, and revision.",
+    "sections": [],
+    "description": "Offers writing instruction for students in criminal justice. Students practice and reflect on writing in professional, public, and academic genres—such as reports, protocols, press releases, and public service announcements—relevant for careers in criminal justice and related fields. In a workshop setting, offers students an opportunity to evaluate a wide variety of sources and develop expertise in audience analysis, critical research, peer review, and revision.",
     "coreqs": [],
     "prereqs": [
       { "subject": "ENGW", "number": "1102" },
@@ -665,7 +672,11 @@
       "Or",
       { "subject": "ENGL", "number": "1102" },
       "Or",
-      { "subject": "ENGL", "number": "1111" }
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -743,7 +754,11 @@
       "Or",
       { "subject": "ENGL", "number": "1102" },
       "Or",
-      { "subject": "ENGL", "number": "1111" }
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -759,7 +774,6 @@
       { "term": "202410", "crn": "11521" },
       { "term": "202410", "crn": "11522" },
       { "term": "202410", "crn": "13536" },
-      { "term": "202410", "crn": "20376" },
       { "term": "202360", "crn": "60450" },
       { "term": "202340", "crn": "40502" },
       { "term": "202340", "crn": "41442" },
@@ -786,7 +800,11 @@
       "Or",
       { "subject": "ENGL", "number": "1102" },
       "Or",
-      { "subject": "ENGL", "number": "1111" }
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -810,7 +828,11 @@
       "Or",
       { "subject": "ENGL", "number": "1102" },
       "Or",
-      { "subject": "ENGL", "number": "1111" }
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -838,7 +860,11 @@
       "Or",
       { "subject": "ENGL", "number": "1102" },
       "Or",
-      { "subject": "ENGL", "number": "1111" }
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -882,7 +908,11 @@
       "Or",
       { "subject": "ENGL", "number": "1102" },
       "Or",
-      { "subject": "ENGL", "number": "1111" }
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -977,7 +1007,11 @@
       "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" }
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   }
 ]

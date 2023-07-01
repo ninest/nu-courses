@@ -48,8 +48,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "14474" },
-      { "term": "202410", "crn": "18440" },
-      { "term": "202410", "crn": "19591" },
       { "term": "202310", "crn": "15241" },
       { "term": "202310", "crn": "20875" }
     ],
@@ -78,7 +76,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "14479" },
-      { "term": "202410", "crn": "18086" },
       { "term": "202310", "crn": "15249" },
       { "term": "202310", "crn": "20518" }
     ],
@@ -133,15 +130,24 @@
   },
   {
     "subject": "SLPA",
+    "number": "2400",
+    "title": "Neuroscience of Language",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20819" }],
+    "description": "Offers an opportunity to examine language and its relation to other domains of science that have historically been studied in isolation, including memory, emotion, sensory processing, decision making, and motivation. Provides an overview of several areas of language, as well as what modern neuroscience teaches about how the brain processes language.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SLPA",
     "number": "4500",
     "title": "Language Disorders across the Life Span",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "19593" },
-      { "term": "202410", "crn": "19594" }
-    ],
+    "sections": [{ "term": "202410", "crn": "19593" }],
     "description": "Offers students an opportunity to obtain the foundation needed to work with children and adults with frequently referred language disorders that are typical consequences of congenital and acquired central and peripheral nervous-system impairments. Emphasizes the anatomy/etiology/neurology/physiology of common disorders, characteristics of these disorders, and intervention approaches (diagnostic and therapeutic). Addresses prevention, outcome, efficacy, and service-delivery considerations.",
     "coreqs": [],
     "prereqs": [{ "subject": "SLPA", "number": "1102" }]
@@ -200,7 +206,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10655" },
-      { "term": "202410", "crn": "19598" },
       { "term": "202310", "crn": "10717" }
     ],
     "description": "Provides students with the opportunity to acquire a basic understanding of human neuroanatomy and neurophysiology as related to normal aspects of speech, hearing, and language. Reviews central and peripheral nervous system anatomy and physiology developmentally from embryologic through the life span perspectives. Neurology of common speech-language pathologies are similarly addressed.",
@@ -307,13 +312,24 @@
   },
   {
     "subject": "SLPA",
+    "number": "6300",
+    "title": "Speech Science",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20693" }],
+    "description": "Focuses on the basics of acoustics and its relationship with speech production and speech perception. Highlights the relationship between physiological aspects of speech production and their influence on the resulting acoustics of speech. Considers both normative and disordered speech production and perception. Discusses acoustic analysis and clinical approaches to remediation.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SLPA",
     "number": "6301",
     "title": "Speech Science",
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "12970" },
       { "term": "202310", "crn": "13353" },
       { "term": "202310", "crn": "19230" }
     ],
@@ -361,7 +377,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10656" },
-      { "term": "202410", "crn": "15204" },
       { "term": "202310", "crn": "10718" }
     ],
     "description": "Familiarizes students with theoretical, empirical, and practical views of the etiology, assessment, and treatment of disorders of the speech sound system. Focuses on disorders that are developmental in nature (as opposed to emerging after normal speech sound development has occurred). Includes a review of articulatory phonetics, discussion of relevant linguistic principles, and study of theory and data relevant to the course of normal speech sound system development.",
@@ -477,7 +492,6 @@
     "credits": 0.5,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "15793" },
       { "term": "202330", "crn": "36610" },
       { "term": "202310", "crn": "17640" }
     ],
@@ -508,11 +522,22 @@
     "credits": 0.5,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "12107" },
       { "term": "202330", "crn": "36611" },
       { "term": "202310", "crn": "12370" }
     ],
     "description": "Offers students in the field of communication disorders an opportunity to obtain supervised off-campus clinical experience delivering language-based early literacy services to young children in a manner consistent with the American Speech-Language-Hearing Association (ASHA) position that speech-language pathologists can and should play a critical and direct role in literacy development/use.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SLPA",
+    "number": "6339",
+    "title": "Language Literacy in Practice",
+    "scheduleType": "Off-campus instruction w/ lec",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20807" }],
+    "description": "Focuses on early literacy skill acquisition in the field of speech-language pathology. Introduces the historical framework of learning to read, elements of reading, reading assessment and intervention, and the integration of theoretical knowledge and clinical experience in school-based therapy settings. Offers students an opportunity for hands-on delivery of language-based early literacy services to young school-age children who may be at risk for delayed language and/or early reading difficulties.",
     "coreqs": [],
     "prereqs": []
   },
@@ -525,7 +550,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13799" },
-      { "term": "202410", "crn": "15791" },
       { "term": "202310", "crn": "17638" }
     ],
     "description": "Explores communication disorders from infancy through the preschool period. Considers at-risk populations, as well as those with known etiologies. Addresses information on incidence, characteristics, principles and methods of assessment and intervention, multicultural issues, service delivery models, and current issues in the research literature. Examines theoretical issues and their implication for language intervention.",
@@ -713,7 +737,6 @@
       { "term": "202410", "crn": "16067" },
       { "term": "202410", "crn": "18438" },
       { "term": "202410", "crn": "19226" },
-      { "term": "202350", "crn": "51955" },
       { "term": "202330", "crn": "30742" },
       { "term": "202330", "crn": "38865" },
       { "term": "202330", "crn": "38866" },

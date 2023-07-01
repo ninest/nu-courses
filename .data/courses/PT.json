@@ -56,7 +56,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202340", "crn": "41851" }],
+    "sections": [],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -106,8 +106,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18411" },
-      { "term": "202360", "crn": "61366" },
-      { "term": "202340", "crn": "41722" },
       { "term": "202330", "crn": "34721" },
       { "term": "202310", "crn": "20846" }
     ],
@@ -124,7 +122,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "20193" },
-      { "term": "202360", "crn": "61367" },
       { "term": "202340", "crn": "40862" },
       { "term": "202240", "crn": "41049" }
     ],
@@ -154,8 +151,6 @@
     "sections": [
       { "term": "202410", "crn": "20194" },
       { "term": "202410", "crn": "20195" },
-      { "term": "202360", "crn": "61368" },
-      { "term": "202360", "crn": "61369" },
       { "term": "202340", "crn": "40863" },
       { "term": "202340", "crn": "40864" },
       { "term": "202240", "crn": "41050" },
@@ -175,7 +170,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202360", "crn": "61370" },
-      { "term": "202340", "crn": "41723" },
       { "term": "202330", "crn": "34722" }
     ],
     "description": "Covers foundational knowledge of pathological processes of major body systems. Addresses general medicine, laboratory medicine, and pathophysiology as related to patient conditions that impact physical therapy management. Case-based discussion allows for integration of pathology and pharmacology content.",
@@ -282,7 +276,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "10573" },
       { "term": "202330", "crn": "36281" },
       { "term": "202310", "crn": "10620" }
     ],
@@ -302,9 +295,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "10574" },
-      { "term": "202410", "crn": "10570" },
-      { "term": "202410", "crn": "10778" },
       { "term": "202330", "crn": "36282" },
       { "term": "202330", "crn": "36283" },
       { "term": "202330", "crn": "36284" },
@@ -338,10 +328,7 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": ["CE", "EI", "FQ", "WI"],
-    "sections": [
-      { "term": "202410", "crn": "10572" },
-      { "term": "202310", "crn": "10619" }
-    ],
+    "sections": [{ "term": "202310", "crn": "10619" }],
     "description": "Provides students with the opportunity to conduct an independent project under the mentorship of physical therapy faculty in areas such as research, education, clinical practice, administration, or service learning.",
     "coreqs": [],
     "prereqs": [
@@ -683,6 +670,7 @@
     "sections": [
       { "term": "202410", "crn": "19240" },
       { "term": "202410", "crn": "19274" },
+      { "term": "202350", "crn": "53085" },
       { "term": "202330", "crn": "40321" },
       { "term": "202310", "crn": "21693" },
       { "term": "202310", "crn": "21727" }
@@ -867,6 +855,22 @@
   },
   {
     "subject": "PT",
+    "number": "6230",
+    "title": "Capst Human Movement Rehab Sci",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "53285" }],
+    "description": "Offers students an opportunity for active engagement to shape the focus of the course and the capstone experience. Encourages production of high-quality written work and professional presentation methods. Students produce a peer-reviewed journal article that includes the methodology, results, limitations, and recommendations for further action based on the outcomes of their projects.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "PT", "number": "7010" },
+      "And",
+      { "subject": "PT", "number": "7020" }
+    ]
+  },
+  {
+    "subject": "PT",
     "number": "6233",
     "title": "Advanced Physical Therapy Topics in Orthopedics",
     "scheduleType": "Lecture",
@@ -1017,6 +1021,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "20822" },
       { "term": "202330", "crn": "38678" },
       { "term": "202310", "crn": "16466" },
       { "term": "202310", "crn": "16467" }
@@ -1230,8 +1235,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202350", "crn": "51704" },
-      { "term": "202350", "crn": "51705" },
-      { "term": "202350", "crn": "52466" }
+      { "term": "202350", "crn": "51705" }
     ],
     "description": "Accompanies PT 6405. Studies the theoretical basis and clinical application of examination, evaluation, diagnosis, prognosis, and interventions of orthopedic dysfunction of the lower quarter and associated spine that are commonly encountered by physical therapists. Uses an evidence-based, problem-solving approach to prioritize and plan patient care, including medical screening and identifying need for referral. Includes selected topics that reflect the evidence-based philosophies of various noted practitioners in the field of orthopedic physical therapy.",
     "coreqs": [{ "subject": "PT", "number": "6405" }],
@@ -1326,11 +1330,20 @@
     "scheduleType": "Off-campus instruction",
     "credits": 9,
     "nuPath": [],
-    "sections": [
-      { "term": "202350", "crn": "51054" },
-      { "term": "202330", "crn": "30795" }
-    ],
+    "sections": [{ "term": "202330", "crn": "30795" }],
     "description": "Designed to provide students with the opportunity to meet entry-level requirements to practice as physical therapists. Supervised and guided by a licensed physical therapist, students practice examination, evaluation, intervention, documentation, and administrative skills and are expected to function at the level of a new graduate by the completion of this experience. Includes a written assignment. Helps students, through reflection of what they have learned, identify who they are as professionals, establish early career goals, and provide insight for the need to be a lifelong learner.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "PT", "number": "6442" }]
+  },
+  {
+    "subject": "PT",
+    "number": "6450",
+    "title": "Clinical Education 3",
+    "scheduleType": "Off-campus instruction",
+    "credits": 8,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "53143" }],
+    "description": "Offers learners an opportunity to practice examination, evaluation, and intervention skills previously learned in the classroom and on co-op. Learners work under the supervision and guidance of a licensed physical therapist and function as members of the healthcare team providing consultation and educational services to others. Offers learners an opportunity to refine documentation skills, to develop administrative skills, and to supervise support personnel. Requires a written assignment designed to identify areas of practice that need to be strengthened during Clinical Education 1. Learners must have transportation available, since assignment to clinical sites outside of Boston and Massachusetts is likely. Learners are responsible for costs of all transportation, housing, background checks, uniforms, and other requirements of the clinical site.",
     "coreqs": [],
     "prereqs": [{ "subject": "PT", "number": "6442" }]
   },
@@ -1622,6 +1635,7 @@
     "sections": [
       { "term": "202410", "crn": "16138" },
       { "term": "202350", "crn": "51118" },
+      { "term": "202350", "crn": "53317" },
       { "term": "202330", "crn": "40579" },
       { "term": "202310", "crn": "18306" }
     ],
@@ -1639,6 +1653,7 @@
     "sections": [
       { "term": "202410", "crn": "19021" },
       { "term": "202410", "crn": "19175" },
+      { "term": "202350", "crn": "53315" },
       { "term": "202330", "crn": "40268" },
       { "term": "202310", "crn": "21468" },
       { "term": "202310", "crn": "21626" }
@@ -1655,6 +1670,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202350", "crn": "53316" },
       { "term": "202330", "crn": "39994" },
       { "term": "202330", "crn": "40272" }
     ],
@@ -1672,7 +1688,12 @@
     "sections": [
       { "term": "202410", "crn": "19145" },
       { "term": "202410", "crn": "19146" },
+      { "term": "202410", "crn": "20783" },
+      { "term": "202410", "crn": "20827" },
       { "term": "202350", "crn": "52803" },
+      { "term": "202350", "crn": "53025" },
+      { "term": "202350", "crn": "53296" },
+      { "term": "202350", "crn": "53375" },
       { "term": "202330", "crn": "40273" },
       { "term": "202330", "crn": "40274" },
       { "term": "202310", "crn": "21596" },

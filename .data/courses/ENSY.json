@@ -136,8 +136,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202340", "crn": "41367" },
-      { "term": "202340", "crn": "42050" }
+      { "term": "202410", "crn": "20773" },
+      { "term": "202410", "crn": "20772" }
     ],
     "description": "Focuses on the principles and working fundamentals of photovoltaic (PV) energy conversion, while emphasizing currently available solar technologies. Studies the semiconductor processes and advanced characterization theories. Examines design, fabrication, characterization of the PV modules, and different generations of solar cells and their properties. Advanced topics include thin film cells, compound semiconductors multijunction, multiband cells, spectral conversion, and introduces organic devices. Offers insight about the energy consumption crisis, sustainable energy sources, PV system components, and solar markets. Also discusses issues relating to PV systems, economics, and sustainability.",
     "coreqs": [],
@@ -195,8 +195,6 @@
     "sections": [
       { "term": "202410", "crn": "14412" },
       { "term": "202410", "crn": "15350" },
-      { "term": "202360", "crn": "61386" },
-      { "term": "202360", "crn": "61387" },
       { "term": "202310", "crn": "15155" },
       { "term": "202310", "crn": "16696" }
     ],

@@ -9,6 +9,7 @@
     "sections": [
       { "term": "202410", "crn": "10640" },
       { "term": "202410", "crn": "10688" },
+      { "term": "202410", "crn": "20629" },
       { "term": "202330", "crn": "30763" },
       { "term": "202330", "crn": "31922" },
       { "term": "202310", "crn": "10701" },
@@ -101,6 +102,18 @@
       { "term": "202240", "crn": "41678" }
     ],
     "description": "Introduces students to the uses of power and influence in the surroundings in which they work, working with and managing people, and achieving the goals they set for themselves. Offers students an opportunity to make sense of their own on-the-job learning experiences and to explore basic diagnostic and action-planning skills that they can later use on the job. Exposes students to a variety of cases that demonstrate the effective and ineffective uses of power in different types of organizational contexts and at different points in a manager's career and how to consider difficult ethical questions as well.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HRMG",
+    "number": "6222",
+    "title": "The Entrepreneurial Mindset of Leaders",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20533" }],
+    "description": "Examines the entrepreneurial mindset: the relationship between successful business leadership and the psychological techniques and characteristics that thriving entrepreneurs possess. Studies the interpersonal and interactional side of building impactful ventures that matter and provide value, drawing from a mix of live cases and experiential exercises. Introduces a conceptual foundation and offers practical tools for addressing situations that students are likely to face in entrepreneurship and in leadership roles.",
     "coreqs": [],
     "prereqs": []
   },

@@ -28,8 +28,11 @@
       { "term": "202410", "crn": "14579" },
       { "term": "202410", "crn": "18591" },
       { "term": "202410", "crn": "18592" },
-      { "term": "202410", "crn": "18367" },
       { "term": "202410", "crn": "18873" },
+      { "term": "202410", "crn": "18367" },
+      { "term": "202410", "crn": "21054" },
+      { "term": "202410", "crn": "21055" },
+      { "term": "202410", "crn": "21056" },
       { "term": "202360", "crn": "60706" },
       { "term": "202340", "crn": "40029" },
       { "term": "202340", "crn": "40028" },
@@ -102,6 +105,7 @@
       { "term": "202340", "crn": "40143" },
       { "term": "202340", "crn": "40144" },
       { "term": "202340", "crn": "41410" },
+      { "term": "202340", "crn": "41457" },
       { "term": "202330", "crn": "30904" },
       { "term": "202330", "crn": "30905" },
       { "term": "202330", "crn": "31096" },
@@ -157,6 +161,7 @@
       { "term": "202410", "crn": "17817" },
       { "term": "202410", "crn": "18593" },
       { "term": "202410", "crn": "18999" },
+      { "term": "202410", "crn": "21211" },
       { "term": "202360", "crn": "60031" },
       { "term": "202360", "crn": "60030" },
       { "term": "202360", "crn": "60592" },
@@ -457,7 +462,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "40793" }],
+    "sections": [
+      { "term": "202360", "crn": "61750" },
+      { "term": "202330", "crn": "40793" }
+    ],
     "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -983,6 +991,18 @@
       { "term": "202310", "crn": "13694" }
     ],
     "description": "Highlights managerial decisions affecting a company’s performance in generating revenues, controlling costs, and producing profits. Begins with a brief review of financial accounting, then focuses on the development and use of information, especially financial information, for managerial decisions related to the firm’s planning—operations—control cycle.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ACCT",
+    "number": "7976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202360", "crn": "61715" }],
+    "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   }

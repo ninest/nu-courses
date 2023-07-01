@@ -67,7 +67,9 @@
     "prereqs": [
       { "subject": "PORT", "number": "1102" },
       "Or",
-      { "subject": "PORT", "number": "1302" }
+      { "subject": "PORT", "number": "1302" },
+      "Or",
+      { "subject": "PORT", "number": "1501" }
     ]
   },
   {

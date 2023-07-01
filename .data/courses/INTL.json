@@ -167,7 +167,6 @@
     "sections": [
       { "term": "202410", "crn": "10366" },
       { "term": "202410", "crn": "13668" },
-      { "term": "202340", "crn": "41693" },
       { "term": "202330", "crn": "30347" },
       { "term": "202330", "crn": "36962" },
       { "term": "202310", "crn": "10392" },
@@ -332,7 +331,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["IC", "WI"],
-    "sections": [{ "term": "202410", "crn": "20223" }],
+    "sections": [],
     "description": "Explores Africa’s changing place in the world. Studies the history of Africa and explores the role of ethnography in the making of colonial Africa and the cultural transformations and continuities produced by the emergence of African cities during and after colonialism. Studies postcolonial Africa to critically and comparatively engage with contemporary issues facing African societies. Considers the efflorescence of new cultural forms of music, art, film, and literature, in conjunction with new sources of identity such as nationality, religion, ethnicity, consumption, and migration. \nANTH 4510 and INTL 4510 are cross-listed.",
     "coreqs": [],
     "prereqs": [

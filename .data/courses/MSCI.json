@@ -1,6 +1,30 @@
 [
   {
     "subject": "MSCI",
+    "number": "5001",
+    "title": "Human Factors and Situational Awareness",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20573" }],
+    "description": "Investigates the human factors and stressors that may be encountered by professionals engaged in expedition medicine and clinical practice. Explores several core concepts including collaboration and lateral thinking, time-pressured tasks, incentivizing, sleep deprivation, and debriefing. Offers team-based activities that utilize didactics, group work, and gaming to accomplish an array of tasks.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MSCI",
+    "number": "5002",
+    "title": "Crisis Resource Management and Case Studies",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20574" }],
+    "description": "Investigates the history of crisis resource management and reviews the characteristics of high-performance teams. Explores expectation violation; surprise; cognitive bias; cognitive unloading; clinical decision making; and methods for debriefing, mitigation, and planning.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MSCI",
     "number": "6001",
     "title": "Principles of Healthcare Advocacy",
     "scheduleType": "Lecture",
@@ -11,6 +35,18 @@
       { "term": "202310", "crn": "21077" }
     ],
     "description": "Seeks to prepare healthcare leaders in legislative advocacy and self-advocacy. Legislative advocacy examines relevant health policy research and analysis. Explores self-advocacy aspects within an organization, including communication, interpersonal relationships, and project leadership. Offers students an opportunity to successfully engage in political discussion and advocate for ideas as leaders.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MSCI",
+    "number": "6002",
+    "title": "Workforce Metrics: Measuring, Comparing, and Privileging the Interprofessional Healthcare Team",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202360", "crn": "61543" }],
+    "description": "Introduces fundamentals of metrics and analysis surrounding productivity, outcomes, competencies, and retention in a healthcare workforce. Emphasizes applied methodology. Examines dashboard anatomy, metric categories, dashboard analysis, the clinical competency-dashboard relationship, and special considerations for healthcare metric tracking.",
     "coreqs": [],
     "prereqs": []
   },
@@ -43,5 +79,17 @@
     "description": "Surveys the principles essential to conduct ethical research in medical sciences. Explores and critically evaluates the concepts, methods, and applications of research and research methods. Offers students an opportunity to propose and develop a research project to inform an important healthcare issue influencing the practice, administration, or policies of healthcare.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "MSCI",
+    "number": "7990",
+    "title": "Thesis",
+    "scheduleType": "Individual Instruction",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202360", "crn": "61529" }],
+    "description": "Offers students an opportunity to successfully develop and complete the Doctor of Medical Science thesis. The thesis project focuses on healthcare-related research, leadership issues, policy development, management, service delivery, or evaluation.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "MSCI", "number": "6900" }]
   }
 ]

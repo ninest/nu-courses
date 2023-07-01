@@ -87,7 +87,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "52478" }],
+    "sections": [],
     "description": "Continues TELR 7442, a thesis-scale project in technology commercialization. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student’s technological depth and fostering the student’s leadership development.​​",
     "coreqs": [],
     "prereqs": [{ "subject": "TELR", "number": "7442" }]

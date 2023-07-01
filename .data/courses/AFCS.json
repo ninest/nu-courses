@@ -10,5 +10,25 @@
     "description": "Introduces the history of Afro-Latin America and of Black identities particular to this region. Frameworks such as transnational migration and diaspora provide an entry to the specific histories of African-descended people in the countries in the region known as Latin America and contemporary interpretations and revisions of that history. Covers topics including the history of slavery in the Americas; the Haitian Revolution; debates about \"racial democracy\"; and the relationship between gender, race, and empire. Explores the relationship between scholarship and struggle, social analysis, and social transformation.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "AFCS",
+    "number": "2380",
+    "title": "Black Families and Incarceration",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD"],
+    "sections": [{ "term": "202410", "crn": "21174" }],
+    "description": "Focuses on how the Black family functions, both interpersonally and as a social unit within a carceral state. Introduces the diverse institutional, cultural, and historical issues relating to past and present circumstances from the effects of slavery and colonization on the Black family structure. Explores policies and practices within carceral institutions dealing with childhood, motherhood, and fatherhood. Assesses the social and psychological harms of incarceration on Black children and their families.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
   }
 ]

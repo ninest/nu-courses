@@ -35,6 +35,16 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "21073" },
+      { "term": "202410", "crn": "21074" },
+      { "term": "202410", "crn": "21075" },
+      { "term": "202410", "crn": "21076" },
+      { "term": "202410", "crn": "21077" },
+      { "term": "202410", "crn": "21078" },
+      { "term": "202410", "crn": "21079" },
+      { "term": "202410", "crn": "21080" },
+      { "term": "202410", "crn": "21081" },
+      { "term": "202410", "crn": "21082" },
       { "term": "202330", "crn": "39665" },
       { "term": "202330", "crn": "39671" },
       { "term": "202330", "crn": "40423" },
@@ -240,7 +250,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18243" },
+      { "term": "202410", "crn": "21022" },
       { "term": "202310", "crn": "20676" }
     ],
     "description": "Offers an overview of different forms of art and design research. Designed to guide students in crafting a plan for navigating their own individual path through the program. Creates a shared vocabulary for interdisciplinary research and sets expectations for the remainder of each student’s highly individualized path. Throughout the semester, the class reads and discusses key texts on interdisciplinary arts and design and media research; researches and reports on case studies of other research that relates to the direction of their research, including dissertations by prior students from CAMD and other institutions; and participates in guest presentations/discussions by program faculty regarding the integration of research and practice.",
@@ -318,5 +328,42 @@
     "description": "Offers the candidate, working with a thesis advisor, an opportunity to continue to complete the research project defined and proposed in INAM 7100. The research is carried out in an independent manner, with periodic presentations to the thesis committee. These presentations define the benchmarks for determination of successful progress in the project. The ultimate result is an exhibition, screening, performance, or other form of public display or presentation, together with a thesis paper or written corollary.",
     "coreqs": [],
     "prereqs": [{ "subject": "INAM", "number": "7100" }]
+  },
+  {
+    "subject": "INAM",
+    "number": "7996",
+    "title": "Thesis Continuation - HT",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202350", "crn": "53148" },
+      { "term": "202350", "crn": "53389" }
+    ],
+    "description": "Offers continued work on the thesis project.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "INAM", "number": "7990" }]
+  },
+  {
+    "subject": "INAM",
+    "number": "8986",
+    "title": "Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202350", "crn": "53254" },
+      { "term": "202350", "crn": "53261" },
+      { "term": "202350", "crn": "53265" },
+      { "term": "202350", "crn": "53267" },
+      { "term": "202350", "crn": "53275" },
+      { "term": "202350", "crn": "53279" },
+      { "term": "202350", "crn": "53280" },
+      { "term": "202350", "crn": "53290" },
+      { "term": "202350", "crn": "53347" }
+    ],
+    "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated up to three times.",
+    "coreqs": [],
+    "prereqs": []
   }
 ]

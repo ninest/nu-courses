@@ -60,6 +60,7 @@
     "nuPath": ["EI"],
     "sections": [
       { "term": "202410", "crn": "12777" },
+      { "term": "202410", "crn": "20859" },
       { "term": "202310", "crn": "13141" }
     ],
     "description": "Offers students an opportunity to learn how contemporary narrative theories evolved and their uses in various media. Examines various mediated texts to understand how best to use storytelling strategies for students' own narrative-forward games so as to best take advantage of designing narratives for different platforms and audiences. Uses presentations and performances to enhance students' understanding of how audiences assimilate information and to critique. Students write, play, and study narrative-driven games in the context of various narrative theories and practice writing with the awareness and intention that actors and audiences will read their work and respond.",
@@ -159,13 +160,7 @@
     ],
     "description": "Offers an experiential learning course in which students collaborate with faculty on a project for credit, which may include research, game creation, or a combination of the two. Offers students an opportunity to co-produce a publishable, distributable, or exhibitable game and/or research paper, which can become part of the student's portfolio. Course may be taught by an individual faculty member or team-taught to explore a specific topic, such as documentary games, art games, physical interfaces, installations, historical games, live-action role-playing, etc. Offers students an opportunity to gain experience working on a real-world project, as well as being credited for collaboration with an established practitioner/researcher. May be repeated once.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "GAME", "number": "1110" },
-      "And",
-      { "subject": "GAME", "number": "2500" },
-      "And",
-      { "subject": "GAME", "number": "2650" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "GAME",
@@ -177,6 +172,7 @@
     "sections": [
       { "term": "202410", "crn": "14480" },
       { "term": "202410", "crn": "17956" },
+      { "term": "202410", "crn": "20865" },
       { "term": "202310", "crn": "15251" },
       { "term": "202310", "crn": "20384" }
     ],
@@ -210,6 +206,7 @@
     "sections": [
       { "term": "202410", "crn": "11012" },
       { "term": "202410", "crn": "12309" },
+      { "term": "202410", "crn": "20866" },
       { "term": "202340", "crn": "41955" },
       { "term": "202330", "crn": "34272" },
       { "term": "202330", "crn": "39846" },
@@ -249,6 +246,22 @@
       "Or",
       { "subject": "ENGL", "number": "1102" },
       ")"
+    ]
+  },
+  {
+    "subject": "GAME",
+    "number": "4000",
+    "title": "Game Mechanics &Systems Design",
+    "scheduleType": "Studio",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20651" }],
+    "description": "Prerequisite GAME 1110 and GAME 2500 or instructor permission. \n\nStudents focus on designing game mechanics that fit the games and spaces where they are used. We will begin by designing, prototyping, and implementing individual game mechanics and then move on to combining simple mechanics into complex interconnected systems. Includes hand coding mechanics, using Unity’s new Bolt visual coding tools and finding and incorporating existing systems in Unity. \n \nDesigned as a complimantary course to GAME 3400 / GSND 6250 courses. Game Design Patterns are utilized as the backbone of the course pedagogy.  Reinforces the concepts of GAME 3400 /GSND 6250 which focuses on game design through the lens of game levels and their architecture, though the courses can be taken in any order.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "GAME", "number": "1110" },
+      "Or",
+      { "subject": "GAME", "number": "2500" }
     ]
   },
   {

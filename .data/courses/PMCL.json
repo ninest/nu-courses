@@ -1,6 +1,18 @@
 [
   {
     "subject": "PMCL",
+    "number": "6250",
+    "title": "Ion Channel Physiology and Pharmacology",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "21014" }],
+    "description": "Focuses on ion channel proteins, their structure and function, as well as pharmacology. Drug action is pursued based on mechanisms used to control the gating/trafficking of ion channels that modulate their activity and cell surface localization.Introduces students to molecular modeling and dynamic simulations that can capture the gating process and ion permeation of ion channels and provide a mechanistic guide of structure-based drug design. Reviews ion channels and the drugs that target them that apply to a wide variety of medical conditions, such as arrhythmias, hypertension, epilepsy, pain, local anesthesia, cystic fibrosis, and depression. Offers students an opportunity to perform simulations on ion channels with known drugs to establish models for future lead design and development studies.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PMCL",
     "number": "6261",
     "title": "Pharmacology 2",
     "scheduleType": "Lecture",

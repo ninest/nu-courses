@@ -10,6 +10,7 @@
       { "term": "202410", "crn": "11720" },
       { "term": "202410", "crn": "17995" },
       { "term": "202410", "crn": "18131" },
+      { "term": "202410", "crn": "20885" },
       { "term": "202330", "crn": "30843" },
       { "term": "202310", "crn": "11937" },
       { "term": "202310", "crn": "20423" },
@@ -33,6 +34,7 @@
       { "term": "202410", "crn": "20031" },
       { "term": "202410", "crn": "20494" },
       { "term": "202360", "crn": "61414" },
+      { "term": "202360", "crn": "61550" },
       { "term": "202330", "crn": "33992" },
       { "term": "202330", "crn": "38095" },
       { "term": "202330", "crn": "38096" },
@@ -160,7 +162,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202410", "crn": "20470" }],
+    "sections": [],
     "description": "Introduces students to Korean popular culture with texts ranging from comics, films, K-drama, pop music, and popular novellas in translation. Explores how \"Hallyu\" (the Korean wave) reverberated through different Asian regions and the rest of the globe in the 1990s and 2000s and continues into the present through global fandoms and streaming platforms. Critically examines the rising popularity of Korean popular cultural genres and influences in various global contexts in relation to race, class, gender, ethnicity, social media, and youth culture.",
     "coreqs": [],
     "prereqs": []
@@ -184,10 +186,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "SI"],
-    "sections": [
-      { "term": "202410", "crn": "19518" },
-      { "term": "202310", "crn": "19060" }
-    ],
+    "sections": [{ "term": "202310", "crn": "19060" }],
     "description": "Explores contending theories of identity and nationalism—a powerful force in international and domestic politics. Examines topics such as the process of identity creation, the choice of national symbols, how group boundaries are established, the role of identity in conflict and state building, and the debate over nationalism’s constructed or primordial nature. POLS 3418 and CLTR 3418 are cross-listed.",
     "coreqs": [],
     "prereqs": [
@@ -224,10 +223,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "WI"],
-    "sections": [
-      { "term": "202410", "crn": "19519" },
-      { "term": "202330", "crn": "38097" }
-    ],
+    "sections": [{ "term": "202330", "crn": "38097" }],
     "description": "Offers an overview of the major trends in Latin American narrative, poetry, drama, and essays, from Bernal Diaz through Borges and Bolaño. Studies broad cultural and political contexts, especially the Cold War period and the impact of neoliberalism. Conducted in Spanish.",
     "coreqs": [],
     "prereqs": [

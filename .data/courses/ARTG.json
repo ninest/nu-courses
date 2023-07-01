@@ -26,11 +26,13 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "17901" },
-      { "term": "202410", "crn": "17951" },
       { "term": "202410", "crn": "17952" },
       { "term": "202410", "crn": "17965" },
       { "term": "202410", "crn": "17966" },
       { "term": "202410", "crn": "17967" },
+      { "term": "202410", "crn": "20696" },
+      { "term": "202410", "crn": "21004" },
+      { "term": "202410", "crn": "20995" },
       { "term": "202410", "crn": "18084" },
       { "term": "202330", "crn": "38384" },
       { "term": "202330", "crn": "38385" },
@@ -57,15 +59,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
-      { "term": "202410", "crn": "11669" },
-      { "term": "202410", "crn": "11856" },
-      { "term": "202410", "crn": "12118" },
-      { "term": "202410", "crn": "12476" },
-      { "term": "202410", "crn": "12836" },
-      { "term": "202410", "crn": "15541" },
-      { "term": "202410", "crn": "15715" },
       { "term": "202360", "crn": "60664" },
-      { "term": "202360", "crn": "61359" },
       { "term": "202340", "crn": "40399" },
       { "term": "202340", "crn": "41451" },
       { "term": "202330", "crn": "31912" },
@@ -93,6 +87,51 @@
     "description": "Explores common design practices, principles, and vocabularies, introducing the design process as a method of inquiry and problem solving through studio projects. Emphasizes the importance of an awareness of audience and context in the creation of meaningful communications and experiences. Explores the practice of design as an iterative process, offering students an opportunity to obtain an understanding of the value of systems thinking and the importance of feedback and exchange as a means for assessing the quality of design's effectiveness in helping users achieve their goals.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "ARTG",
+    "number": "1270",
+    "title": "Design: Process + Practices",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20625" }],
+    "description": "Introduces students to a range of design practices demonstrated through case studies, activities in lecture and workshop, and presentations by design practitioners.",
+    "coreqs": [{ "subject": "ARTG", "number": "1271" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTG",
+    "number": "1271",
+    "title": "Studio for Design: Process + Practices",
+    "scheduleType": "Studio",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "20681" },
+      { "term": "202410", "crn": "20682" },
+      { "term": "202410", "crn": "20683" },
+      { "term": "202410", "crn": "20684" }
+    ],
+    "description": "Explores common design practices, principles, and vocabularies, introducing the design process as a method of inquiry and problem solving through studio projects in the areas of graphic, information, interaction, and experience design. Emphasizes the importance of an awareness of audience and context in the creation of meaningful communications and experiences. Explores the practice of design as an iterative process, fostering an understanding of the value of systems thinking and the importance of feedback and exchange as a means for assessing the quality of design’s effectiveness in helping participants achieve their goals.",
+    "coreqs": [{ "subject": "ARTG", "number": "1270" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTG",
+    "number": "2242",
+    "title": "Information Design Principles",
+    "scheduleType": "Studio",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "21019" },
+      { "term": "202410", "crn": "21020" },
+      { "term": "202410", "crn": "21021" }
+    ],
+    "description": "Introduces foundational concepts, methods, and procedures for the creation of data-rich information graphics. Investigates and implements visual systems and information structures such as maps, graphs, infographics, charts, and diagrams. Explores conceptual and visual solutions, and the creative process of organizing, visualizing, and communicating information. Examines design solutions that make complex information easier to understand and use. Course experiences include: analysis of design case studies and other critical readings, lectures, class discussions, and individual in-studio design work.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "ARTF", "number": "1122" }]
   },
   {
     "subject": "ARTG",
@@ -174,11 +213,9 @@
       { "term": "202410", "crn": "10192" },
       { "term": "202410", "crn": "10538" },
       { "term": "202410", "crn": "12099" },
-      { "term": "202410", "crn": "12798" },
-      { "term": "202410", "crn": "13215" },
       { "term": "202410", "crn": "14773" },
+      { "term": "202410", "crn": "20736" },
       { "term": "202360", "crn": "60551" },
-      { "term": "202340", "crn": "40112" },
       { "term": "202340", "crn": "40913" },
       { "term": "202330", "crn": "30379" },
       { "term": "202330", "crn": "30953" },
@@ -304,12 +341,11 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
-      { "term": "202410", "crn": "10526" },
       { "term": "202410", "crn": "11041" },
       { "term": "202410", "crn": "13273" },
       { "term": "202410", "crn": "13792" },
-      { "term": "202410", "crn": "14484" },
-      { "term": "202410", "crn": "15502" },
+      { "term": "202410", "crn": "20758" },
+      { "term": "202410", "crn": "20836" },
       { "term": "202360", "crn": "60714" },
       { "term": "202340", "crn": "41078" },
       { "term": "202330", "crn": "30184" },
@@ -334,16 +370,27 @@
   },
   {
     "subject": "ARTG",
+    "number": "3400",
+    "title": "Topics In Interaction Design Inquiry",
+    "scheduleType": "Studio",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "21038" },
+      { "term": "202410", "crn": "21035" }
+    ],
+    "description": "Focuses on a specific intermediate-level topic of timely relevance to the domain of interaction design. May be repeated up to two times for a maximum of 12 semester hours. Topics vary each semester.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "ARTG", "number": "2400" }]
+  },
+  {
+    "subject": "ARTG",
     "number": "3450",
     "title": "Graphic Design 2",
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
-      { "term": "202410", "crn": "10185" },
-      { "term": "202410", "crn": "11843" },
-      { "term": "202410", "crn": "14485" },
-      { "term": "202410", "crn": "18556" },
       { "term": "202340", "crn": "40836" },
       { "term": "202330", "crn": "30487" },
       { "term": "202330", "crn": "31996" },
@@ -367,9 +414,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "10182" },
-      { "term": "202410", "crn": "10479" },
-      { "term": "202410", "crn": "14049" },
       { "term": "202360", "crn": "60884" },
       { "term": "202340", "crn": "41079" },
       { "term": "202330", "crn": "30376" },
@@ -385,6 +429,23 @@
     "description": "Introduces basic concepts, methods, and procedures of information design with a focus on mapping information. Students investigate visual systems and information structures such as maps, graphs, charts, and diagrams. Emphasizes the creative process of organizing, visualizing, and communicating data by making complex information easier to understand and use.",
     "coreqs": [],
     "prereqs": [{ "subject": "ARTG", "number": "3350" }]
+  },
+  {
+    "subject": "ARTG",
+    "number": "3452",
+    "title": "Topics In Graphic Design Inquiry",
+    "scheduleType": "Studio",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "21036" },
+      { "term": "202410", "crn": "21083" },
+      { "term": "202410", "crn": "21042" },
+      { "term": "202410", "crn": "21037" }
+    ],
+    "description": "Focuses on a specific intermediate-level topic of timely relevance to the domain of graphic design. May be repeated up to two times for a maximum of 12 semester hours.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "ARTG", "number": "2252" }]
   },
   {
     "subject": "ARTG",
@@ -434,7 +495,7 @@
     "prereqs": [
       { "subject": "ARTG", "number": "1250" },
       "Or",
-      { "subject": "ARTG", "number": "1255" }
+      { "subject": "ARTF", "number": "2233" }
     ]
   },
   {
@@ -445,7 +506,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "12773" },
       { "term": "202330", "crn": "32511" },
       { "term": "202330", "crn": "38392" },
       { "term": "202310", "crn": "13137" }
@@ -466,8 +526,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "12056" },
-      { "term": "202410", "crn": "14051" },
       { "term": "202330", "crn": "32512" },
       { "term": "202330", "crn": "34266" },
       { "term": "202310", "crn": "12300" },
@@ -489,6 +547,7 @@
       { "term": "202410", "crn": "14457" },
       { "term": "202410", "crn": "16889" },
       { "term": "202410", "crn": "16891" },
+      { "term": "202410", "crn": "21103" },
       { "term": "202330", "crn": "38393" },
       { "term": "202330", "crn": "38394" },
       { "term": "202330", "crn": "39133" },
@@ -549,6 +608,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "16892" },
+      { "term": "202410", "crn": "17681" },
+      { "term": "202410", "crn": "20747" },
       { "term": "202330", "crn": "39728" },
       { "term": "202330", "crn": "39574" },
       { "term": "202330", "crn": "39806" },
@@ -648,7 +710,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "13607" },
+      { "term": "202410", "crn": "21015" },
       { "term": "202330", "crn": "39739" },
       { "term": "202310", "crn": "14109" },
       { "term": "202260", "crn": "61371" }
@@ -668,7 +730,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "37500" }],
+    "sections": [
+      { "term": "202410", "crn": "21025" },
+      { "term": "202330", "crn": "37500" }
+    ],
     "description": "Introduces human visual cognition as it applies to information design and visualization. Focuses on perception, attention, pattern recognition, information acquisition, memory, and creation of mental models. Explores reasoning, cognition, decision making, and problem solving in relation to visual artifacts. Students who do not meet course restrictions may seek permission of instructor or program coordinator.",
     "coreqs": [],
     "prereqs": []
@@ -697,8 +762,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15599" },
-      { "term": "202410", "crn": "19136" },
-      { "term": "202340", "crn": "41714" },
+      { "term": "202410", "crn": "21016" },
       { "term": "202330", "crn": "32869" },
       { "term": "202310", "crn": "17309" },
       { "term": "202310", "crn": "21587" }
@@ -732,7 +796,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13098" },
-      { "term": "202410", "crn": "14793" },
+      { "term": "202410", "crn": "21041" },
       { "term": "202310", "crn": "13497" },
       { "term": "202310", "crn": "15759" }
     ],
@@ -811,7 +875,10 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36723" }],
+    "sections": [
+      { "term": "202410", "crn": "21024" },
+      { "term": "202330", "crn": "36723" }
+    ],
     "description": "Continues the exploration of data representations in a variety of media. Focuses on interactive and time-based techniques. Emphasizes computational methods of data collection, manipulation, and encoding. Requires graduate standing or permission of program coordinator or instructor. May be repeated once.",
     "coreqs": [],
     "prereqs": [

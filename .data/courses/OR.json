@@ -11,11 +11,13 @@
       { "term": "202410", "crn": "14346" },
       { "term": "202410", "crn": "12468" },
       { "term": "202410", "crn": "12247" },
+      { "term": "202410", "crn": "12949" },
       { "term": "202410", "crn": "12573" },
       { "term": "202410", "crn": "15877" },
       { "term": "202410", "crn": "12124" },
       { "term": "202410", "crn": "15747" },
       { "term": "202410", "crn": "14345" },
+      { "term": "202410", "crn": "18657" },
       { "term": "202360", "crn": "61404" },
       { "term": "202340", "crn": "41121" },
       { "term": "202340", "crn": "42047" },
@@ -51,7 +53,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18607" },
-      { "term": "202350", "crn": "52058" },
       { "term": "202330", "crn": "33325" },
       { "term": "202310", "crn": "21045" }
     ],
@@ -136,7 +137,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "40044" }],
+    "sections": [
+      { "term": "202410", "crn": "21249" },
+      { "term": "202330", "crn": "40044" }
+    ],
     "description": "Offers analytical and/or experimental work conducted under the direction of the faculty in fulfillment of the requirements for the degree. Requires first-year students to attend a graduate seminar program that introduces the students to the methods of choosing a research topic, conducting research, and preparing a thesis. Requires successful completion of the seminar program. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []

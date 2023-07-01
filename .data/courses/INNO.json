@@ -1,6 +1,21 @@
 [
   {
     "subject": "INNO",
+    "number": "2206",
+    "title": "Global Social Enterprise",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "20512" },
+      { "term": "202410", "crn": "20518" }
+    ],
+    "description": "Designed to provide students with an in-depth exposure to entrepreneurship in the social sector, a rapidly growing segment of the global economy. Uses the case method to expose students to leading entrepreneurs who have developed and implemented business models to solve social problems such as extreme poverty, disease, illiteracy, and economic and social dislocation. Focuses on uniquely creative and driven people who have dedicated their lives to making a difference in the lives of others through values-based entrepreneurship.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INNO",
     "number": "2301",
     "title": "Innovation!",
     "scheduleType": "Lecture",
@@ -83,6 +98,22 @@
   },
   {
     "subject": "INNO",
+    "number": "4504",
+    "title": "Integrated Studies in Corporate Innovation",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20818" }],
+    "description": "Offers students an opportunity to experience corporate innovation in the classroom. Corporate innovation involves an enterprise experimenting with modern practices, technology, strategies, and opportunities to make its existing business model more competitive in the current marketplace. Students, as a class, represent a specific firm and tackle these corporate innovation challenges by adopting a culture that embraces new technology and actively seeks out ways to enhance the firm’s business model. With this proactive approach to corporate innovation, the students can visualize how enterprises can remain agile in the face of rising competition. The goal is to learn how corporations may even identify new opportunities before any startup has a chance to establish itself in the market.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENTR", "number": "2301" },
+      "Or",
+      { "subject": "INNO", "number": "2301" }
+    ]
+  },
+  {
+    "subject": "INNO",
     "number": "4506",
     "title": "Seminar in Social Innovation and Entrepreneurship",
     "scheduleType": "Seminar",
@@ -116,7 +147,7 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20227" }],
+    "sections": [],
     "description": "Reviews the key theories and tools needed to understand how technological change creates new markets and prompts new business models, how technology-based firms can outcompete rivals in fast-growing markets characterized by high uncertainty, and how the evolution of technology in an industry affects the type of firm capabilities needed to succeed over time.",
     "coreqs": [],
     "prereqs": []

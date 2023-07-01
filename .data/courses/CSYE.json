@@ -7,6 +7,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "18409" },
       { "term": "202410", "crn": "20157" },
       { "term": "202350", "crn": "52635" },
       { "term": "202330", "crn": "32900" },
@@ -31,9 +32,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "12167" },
       { "term": "202410", "crn": "15974" },
       { "term": "202410", "crn": "15975" },
+      { "term": "202410", "crn": "20976" },
       { "term": "202330", "crn": "36837" },
       { "term": "202330", "crn": "36838" },
       { "term": "202330", "crn": "36845" },
@@ -75,10 +76,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "13306" },
       { "term": "202410", "crn": "13846" },
       { "term": "202410", "crn": "13209" },
-      { "term": "202410", "crn": "13337" },
       { "term": "202330", "crn": "32159" },
       { "term": "202330", "crn": "32951" },
       { "term": "202330", "crn": "32658" },
@@ -104,7 +103,12 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33211" }],
+    "sections": [
+      { "term": "202410", "crn": "13354" },
+      { "term": "202410", "crn": "13765" },
+      { "term": "202410", "crn": "20557" },
+      { "term": "202330", "crn": "33211" }
+    ],
     "description": "Covers basic concepts of operating systems and system programming, such as utility programs, subsystems, and multiple-program systems. Main topics include processes, interprocess communication, and synchronization; memory allocation, segmentation, and paging; loading, linking, and libraries; resource allocation, scheduling, and performance evaluation; file systems, storage devices, and I/O systems; and protection, security, and privacy. Emphasizes key concepts through code design and development.",
     "coreqs": [],
     "prereqs": [{ "subject": "INFO", "number": "6205" }]
@@ -128,12 +132,29 @@
   },
   {
     "subject": "CSYE",
+    "number": "6700",
+    "title": "Technical Writing and Professional Development",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "20974" },
+      { "term": "202330", "crn": "34411" }
+    ],
+    "description": "Emphasizes professional communication skills through intensive verbal practice and technical writing application. Students work together in groups and individually to practice verbal and written communication to increase their English competency and comfort level for work in the United States. Offers students an opportunity to develop their ability to communicate technical skills sets in a professional setting. This course does not count toward graduation requirements.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CSYE",
     "number": "7105",
     "title": "High-Performance Parallel Machine Learning and AI",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "14559" },
+      { "term": "202410", "crn": "20528" },
       { "term": "202310", "crn": "15390" },
       { "term": "202260", "crn": "61418" }
     ],
@@ -178,6 +199,24 @@
   },
   {
     "subject": "CSYE",
+    "number": "7215",
+    "title": "Foundations of Parallel, Concurrent, and Multithreaded Programming",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "10658" }],
+    "description": "Covers all aspects of concurrent program design, development, and implementation utilizing the Java multithreading API/facilities. Topics covered include thread safety and lifetime issues, block structured versus explicit synchronization, intrinsic versus explicit locking, thread pools, liveness issues, deadlock, livelock, race conditions, atomicity, performance and scalability, execution policies, test strategies. Major Java multithreading API/facilities covered include synchronized blocks, wait sets, intrinsic locks and condition variables, synchronized and concurrent collections, executor framework. Comparisons between the Java multithreading API and the Posix Pthreads multithreading standard are provided.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "CSYE", "number": "6200" },
+      "Or",
+      { "subject": "INFO", "number": "5100" },
+      "Or",
+      { "subject": "INFO", "number": "5100" }
+    ]
+  },
+  {
+    "subject": "CSYE",
     "number": "7220",
     "title": "Deployment and Operation of Software Applications",
     "scheduleType": "Lecture",
@@ -200,6 +239,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "18911" },
       { "term": "202410", "crn": "18983" },
       { "term": "202410", "crn": "18973" },
       { "term": "202410", "crn": "19819" },
@@ -243,13 +283,13 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13653" },
+      { "term": "202410", "crn": "14006" },
+      { "term": "202410", "crn": "18598" },
       { "term": "202410", "crn": "18770" },
       { "term": "202410", "crn": "18855" },
       { "term": "202410", "crn": "20155" },
       { "term": "202350", "crn": "51223" },
       { "term": "202350", "crn": "52637" },
-      { "term": "202350", "crn": "52881" },
-      { "term": "202350", "crn": "52913" },
       { "term": "202330", "crn": "32164" },
       { "term": "202330", "crn": "32907" },
       { "term": "202330", "crn": "34025" },
@@ -299,8 +339,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18442" },
       { "term": "202410", "crn": "18872" },
+      { "term": "202410", "crn": "19821" },
+      { "term": "202410", "crn": "20525" },
+      { "term": "202410", "crn": "21235" },
+      { "term": "202410", "crn": "21109" },
+      { "term": "202410", "crn": "21045" },
       { "term": "202350", "crn": "51288" },
       { "term": "202350", "crn": "52766" },
       { "term": "202330", "crn": "36937" },
@@ -321,7 +365,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18384" },
       { "term": "202410", "crn": "18625" },
       { "term": "202330", "crn": "40372" },
       { "term": "202310", "crn": "20819" },

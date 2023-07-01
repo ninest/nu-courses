@@ -351,6 +351,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "16950" },
       { "term": "202340", "crn": "40986" },
       { "term": "202330", "crn": "36806" },
       { "term": "202240", "crn": "41245" }
@@ -429,7 +430,6 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "20224" },
       { "term": "202330", "crn": "30791" },
       { "term": "202330", "crn": "33546" },
       { "term": "202330", "crn": "30935" },
@@ -447,7 +447,6 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "20225" },
       { "term": "202410", "crn": "20393" },
       { "term": "202310", "crn": "12627" }
     ],
@@ -504,10 +503,7 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "20226" },
-      { "term": "202240", "crn": "40243" }
-    ],
+    "sections": [{ "term": "202240", "crn": "40243" }],
     "description": "Introduces students to the financing process for ventures from early stage to exit. Exposes students to various financing options, which may include crowdsourcing, the American JOBS Act, and foreign-sourced capital, as well as different types of debt and equity financing. Offers students an opportunity to learn about analyzing financial aspects of term sheets, including valuation methodologies and other financing documents.",
     "coreqs": [],
     "prereqs": []
@@ -597,7 +593,6 @@
     "sections": [
       { "term": "202410", "crn": "13268" },
       { "term": "202410", "crn": "13269" },
-      { "term": "202410", "crn": "19385" },
       { "term": "202410", "crn": "19887" },
       { "term": "202310", "crn": "13719" },
       { "term": "202310", "crn": "13720" },
@@ -606,6 +601,18 @@
       { "term": "202260", "crn": "61057" }
     ],
     "description": "Introduces a number of entrepreneurship and innovation topics, including innovation and entrepreneurship as a value-creating activity for economies and firms; types of innovation (technological, process, products, business models); fundamentals of product development (design thinking, rapid prototyping, ethnography); startup creation and articulating a value proposition; the role and traits of the entrepreneur; maximizing odds of success and minimizing odds of failure; growing the startup and creating a market; finding or creating the right niche; pivoting and judo strategy; lean startup approach; innovation in established firms and resistance to change; organizational inertia; business model change; and technological discontinuities.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ENTR",
+    "number": "7976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202340", "crn": "42094" }],
+    "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   }

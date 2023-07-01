@@ -13,7 +13,6 @@
       { "term": "202410", "crn": "16557" },
       { "term": "202410", "crn": "19973" },
       { "term": "202410", "crn": "19974" },
-      { "term": "202410", "crn": "20255" },
       { "term": "202330", "crn": "32552" },
       { "term": "202330", "crn": "32554" },
       { "term": "202310", "crn": "12577" },
@@ -48,14 +47,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "12298" },
       { "term": "202410", "crn": "12299" },
-      { "term": "202410", "crn": "13736" },
-      { "term": "202410", "crn": "16558" },
-      { "term": "202410", "crn": "19976" },
-      { "term": "202410", "crn": "19977" },
-      { "term": "202410", "crn": "19978" },
-      { "term": "202410", "crn": "20256" },
       { "term": "202330", "crn": "32550" },
       { "term": "202330", "crn": "32551" },
       { "term": "202310", "crn": "12579" },
@@ -96,6 +88,27 @@
       "Or",
       { "subject": "BIOL", "number": "6308" }
     ]
+  },
+  {
+    "subject": "BINF",
+    "number": "6310",
+    "title": "Introduction to Computational Methods in Bioinformatics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "20961" },
+      { "term": "202410", "crn": "20952" },
+      { "term": "202410", "crn": "20962" },
+      { "term": "202410", "crn": "20953" },
+      { "term": "202410", "crn": "20963" },
+      { "term": "202410", "crn": "20954" },
+      { "term": "202410", "crn": "20955" },
+      { "term": "202410", "crn": "20964" }
+    ],
+    "description": "BINF 6310 replaces BINF 6308. If you are a new (incoming) student, please register for BINF 6310.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BINF",
@@ -146,6 +159,39 @@
   },
   {
     "subject": "BINF",
+    "number": "6430",
+    "title": "Transcriptomics in Bioinformatics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "20966" },
+      { "term": "202410", "crn": "20993" }
+    ],
+    "description": "Introduces the study of the complete RNA transcriptome, otherwise known as “transcriptomics.” Covers the molecular genetics that underlie RNA and its various sequencing protocols (e.g., RNA-seq, ATAC-seq, and scRNA-seq), data preprocessing, transcriptome assembly, differential gene expression, and gene set enrichment analysis. Throughout the course and in collaboration with our academic partners, students take part in experiential learning by processing and analyzing various real-world RNA-seq datasets, including bulk RNA and single-cell sequencing.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "BINF", "number": "6308" },
+      "Or",
+      { "subject": "BINF", "number": "6308" },
+      ")",
+      "And",
+      "(",
+      { "subject": "BINF", "number": "6309" },
+      "Or",
+      { "subject": "BINF", "number": "6309" },
+      ")",
+      "And",
+      "(",
+      { "subject": "BINF", "number": "6200" },
+      "Or",
+      { "subject": "BINF", "number": "6200" },
+      ")"
+    ]
+  },
+  {
+    "subject": "BINF",
     "number": "6500",
     "title": "Professional Development for Co-op",
     "scheduleType": "Lecture",
@@ -181,10 +227,6 @@
       { "term": "202360", "crn": "61007" },
       { "term": "202360", "crn": "61330" },
       { "term": "202360", "crn": "61331" },
-      { "term": "202340", "crn": "41360" },
-      { "term": "202340", "crn": "41671" },
-      { "term": "202340", "crn": "41672" },
-      { "term": "202350", "crn": "51753" },
       { "term": "202350", "crn": "52400" },
       { "term": "202350", "crn": "52401" },
       { "term": "202260", "crn": "61372" }
@@ -222,13 +264,10 @@
       { "term": "202360", "crn": "61332" },
       { "term": "202360", "crn": "61333" },
       { "term": "202340", "crn": "40425" },
-      { "term": "202340", "crn": "41673" },
-      { "term": "202340", "crn": "41674" },
       { "term": "202340", "crn": "41675" },
       { "term": "202350", "crn": "51045" },
       { "term": "202350", "crn": "52402" },
       { "term": "202350", "crn": "52403" },
-      { "term": "202350", "crn": "52404" },
       { "term": "202330", "crn": "32641" },
       { "term": "202330", "crn": "39091" },
       { "term": "202310", "crn": "21240" },
@@ -250,6 +289,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13350" },
+      { "term": "202340", "crn": "42125" },
+      { "term": "202350", "crn": "53336" },
       { "term": "202330", "crn": "33061" },
       { "term": "202310", "crn": "13807" },
       { "term": "202260", "crn": "61284" }

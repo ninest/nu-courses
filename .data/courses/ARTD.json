@@ -51,11 +51,8 @@
       { "term": "202410", "crn": "10293" },
       { "term": "202410", "crn": "10312" },
       { "term": "202410", "crn": "13724" },
-      { "term": "202410", "crn": "14494" },
       { "term": "202410", "crn": "15181" },
       { "term": "202410", "crn": "20242" },
-      { "term": "202360", "crn": "60657" },
-      { "term": "202360", "crn": "60658" },
       { "term": "202340", "crn": "40618" },
       { "term": "202330", "crn": "30386" },
       { "term": "202330", "crn": "30385" },
@@ -89,8 +86,6 @@
       { "term": "202410", "crn": "15183" },
       { "term": "202410", "crn": "17641" },
       { "term": "202410", "crn": "20243" },
-      { "term": "202360", "crn": "60659" },
-      { "term": "202360", "crn": "60660" },
       { "term": "202340", "crn": "40619" },
       { "term": "202330", "crn": "30441" },
       { "term": "202330", "crn": "34256" },
@@ -189,6 +184,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16885" },
+      { "term": "202410", "crn": "20356" },
       { "term": "202310", "crn": "19237" }
     ],
     "description": "Art in the Age of Mass Surveillance:  In this special studio course (only offered in Fall 2022) students will learn about and create art projects that engage with the social impact of surveillance technologies using mediums of their choice, including photography, video arts, animation, data visualization, interactive media, painting/drawing, etcetera. Students will look carefully at AI and social media, in addition to other less obvious manifestations of data collection and implementation. If you are interested and do not meet the prerequisites, please email Professor Gradecki for approval (j.gradecki@northeastern.edu). Then forward the approval email to CAMD Advising (camdadvising@northeastern.edu) for an override.",
@@ -266,7 +262,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15412" },
-      { "term": "202340", "crn": "41075" },
       { "term": "202310", "crn": "16909" },
       { "term": "202240", "crn": "41429" }
     ],
@@ -333,7 +328,6 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
-      { "term": "202410", "crn": "11271" },
       { "term": "202410", "crn": "12129" },
       { "term": "202330", "crn": "39061" },
       { "term": "202330", "crn": "39062" },

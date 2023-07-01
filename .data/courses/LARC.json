@@ -39,6 +39,7 @@
     "nuPath": ["ND"],
     "sections": [
       { "term": "202410", "crn": "11346" },
+      { "term": "202410", "crn": "20943" },
       { "term": "202310", "crn": "11523" }
     ],
     "description": "Addresses fundamental techniques of sustainable site design in the built environment, including earthworks, water, and soils, using current-day storm events. Primary topics include topography, site grading, study models, universal accessibility, and storm water considerations in urban and other built environments. Introduces students to urban tree planting techniques, graphic communications, basic site materials, and construction details.",
@@ -111,6 +112,7 @@
     "nuPath": ["ND"],
     "sections": [
       { "term": "202410", "crn": "11349" },
+      { "term": "202410", "crn": "20942" },
       { "term": "202310", "crn": "11526" }
     ],
     "description": "Uses the study of New England’s plant communities and plant identification as a framework to consider the evolution of the New England landscape from European colonization to the present. Combines field study with lectures and class discussion. Human activity, land use, and settlement patterns all influence the development of landscape, and our cultural history is expressed in the species demographics, land forms, and ecosystem dynamics of our environment.",
@@ -150,6 +152,24 @@
   },
   {
     "subject": "LARC",
+    "number": "5110",
+    "title": "Advanced Design for Urban Environments Studio",
+    "scheduleType": "Studio",
+    "credits": 6,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20881" }],
+    "description": "Focuses on ecological, economic, and social resiliency of designed urban environments in response to globalization. Contemporary case studies of urban change provide the basis for design investigation into issues such as the impact of shifting industries on Detroit (deurbanization) or Shenzhen (rapid densification); shifting weather and water patterns in densely populated regions; societal shifts, from generational demographics to political upheavals and militarization/demilitarization of the urban landscape. Emphasizes the integration of interdisciplinary perspectives and advanced design analysis, conceptualization, and visualization skills into development of a global perspective on managing change in the built environment.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ARCH", "number": "3170" },
+      "Or",
+      { "subject": "LARC", "number": "3170" },
+      "Or",
+      { "subject": "SUEN", "number": "6110" }
+    ]
+  },
+  {
+    "subject": "LARC",
     "number": "5120",
     "title": "Comprehensive Design Studio",
     "scheduleType": "Studio",
@@ -180,6 +200,24 @@
     "description": "Introduces fundamental-to-advanced concepts in the field of landscape and urban ecology. Focuses on the landscape-scale spatial structure, temporal patterns, and geographic ranges produced by the intersection of large-scale environmental and human processes. Emphasizes spatial taxonomies (patch, corridor, mosaic, granularity, edge, ecotone) produced across diverse landscape types influenced by human development and landscape dynamics in the built environment (disturbance, fragmentation, accumulation, and succession). Incorporates basic techniques in geographic-information-system software.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "LARC",
+    "number": "5220",
+    "title": "Sustainable Landscape Practices",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "21085" }],
+    "description": "Offers a lecture/workshop/field-based course that builds upon landscape technology skills introduced in LARC 2230 and LARC 2240, with a focus on ecotechnologies operating in the built environment. Core topics include design and implementation metrics, material life-cycle management, funding models, and aesthetic and cultural aspects. Potential topics include green roofs, green walls, bioswales, pervious pavements, constructed wetlands, &#8220;complete street&#8221; elements, geosensor networks, alternative waste management, water detention and energy generation methods, and living infrastructures for coastal environments.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "LARC", "number": "2240" },
+      "Or",
+      { "subject": "ARCH", "number": "2240" },
+      "Or",
+      { "subject": "ARCH", "number": "2240" }
+    ]
   },
   {
     "subject": "LARC",

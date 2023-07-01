@@ -23,10 +23,9 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
-      { "term": "202410", "crn": "15094" },
       { "term": "202410", "crn": "19444" },
+      { "term": "202410", "crn": "15094" },
       { "term": "202410", "crn": "19445" },
-      { "term": "202340", "crn": "41686" },
       { "term": "202330", "crn": "30271" },
       { "term": "202330", "crn": "36801" },
       { "term": "202330", "crn": "39254" },
@@ -248,13 +247,36 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": ["EI", "EX"],
-    "sections": [
-      { "term": "202410", "crn": "17326" },
-      { "term": "202310", "crn": "19725" }
-    ],
+    "sections": [{ "term": "202310", "crn": "19725" }],
     "description": "Reflects on the social, economic, ecological, and cultural value of anthropology as a field, as well as an experiential learning space for transforming anthropological research into material understandable by the general public. Offers students an opportunity to learn methodologies across visual, collaborative, and engaged anthropologies, as well as to study the ethical considerations and specific skills necessary to communicate effectively in a variety of modalities.",
     "coreqs": [],
     "prereqs": [{ "subject": "ANTH", "number": "1101" }]
+  },
+  {
+    "subject": "ANTH",
+    "number": "4210",
+    "title": "Anthropology of Eastern Europe",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["SI"],
+    "sections": [{ "term": "202410", "crn": "21146" }],
+    "description": "Explores the societies, cultures, and politics of Eastern Europe, focusing on social upheaval and cultural change after the fall of state socialism. Examines themes including capitalist transition, European integration, ethnic and religious conflict, nation-building, and state contestation, maintaining a focus on the everyday realities of Eastern Europeans. Covers key theoretical debates about East-West geopolitical polarity, drawing on decolonial and postcolonial perspectives to challenge representations of Eastern Europe as transitional, peripheral, or backwards.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ANTH", "number": "1101" },
+      "Or",
+      { "subject": "CRIM", "number": "1100" },
+      "Or",
+      { "subject": "HUSV", "number": "1101" },
+      "Or",
+      { "subject": "POLS", "number": "1140" },
+      "Or",
+      { "subject": "POLS", "number": "1160" },
+      "Or",
+      { "subject": "SOCL", "number": "1101" },
+      "Or",
+      { "subject": "WMNS", "number": "1103" }
+    ]
   },
   {
     "subject": "ANTH",
@@ -264,7 +286,7 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [{ "term": "202410", "crn": "20386" }],
-    "description": "Offers a seminar on the societies and cultures of Southeast Asia. Uses an interdisciplinary approach to this diverse and dynamic geopolitical region, with readings from anthropology, history, political science, and literature. Covers the major political and cultural changes that have shaped Southeast Asia in relation to the world&#8212;from the age of colonial expansion, to the rise of nation-states, to the present global era. Examines central questions in the ethnography of Southeast Asia, emphasizing the postcolonial legacies of Southeast Asia, states and violence, culture and mobility, and pressing contemporary issues in globalizing Southeast Asia. ANTH 4350 and INTL 4350 are cross-listed.",
+    "description": "Offers a seminar on the societies and cultures of Southeast Asia. Uses an interdisciplinary approach to this diverse and dynamic geopolitical region, with readings from anthropology, history, political science, and literature. Covers the major political and cultural changes that have shaped Southeast Asia in relation to the world—from the age of colonial expansion, to the rise of nation-states, to the present global era. Examines central questions in the ethnography of Southeast Asia, emphasizing the postcolonial legacies of Southeast Asia, states and violence, culture and mobility, and pressing contemporary issues in globalizing Southeast Asia. ANTH 4350 and INTL 4350 are cross-listed.",
     "coreqs": [],
     "prereqs": [
       { "subject": "SOCL", "number": "1101" },
@@ -331,7 +353,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["IC", "WI"],
-    "sections": [{ "term": "202410", "crn": "19448" }],
+    "sections": [],
     "description": "Explores Africa’s changing place in the world. Studies the history of Africa and explores the role of ethnography in the making of colonial Africa and the cultural transformations and continuities produced by the emergence of African cities during and after colonialism. Studies postcolonial Africa to critically and comparatively engage with contemporary issues facing African societies. Considers the efflorescence of new cultural forms of music, art, film, and literature, in conjunction with new sources of identity such as nationality, religion, ethnicity, consumption, and migration. AFRS 4510, ANTH 4510 and INTL 4510 are cross-listed.",
     "coreqs": [],
     "prereqs": [
@@ -396,7 +418,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
-      { "term": "202410", "crn": "19449" },
+      { "term": "202410", "crn": "21185" },
       { "term": "202330", "crn": "30837" }
     ],
     "description": "Designed to deal with anthropological theory and work with students who are asked to apply these theories to some of their own work. Content may vary.",

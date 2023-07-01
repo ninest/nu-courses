@@ -144,9 +144,7 @@
     "sections": [
       { "term": "202410", "crn": "15170" },
       { "term": "202410", "crn": "15171" },
-      { "term": "202410", "crn": "17229" },
       { "term": "202410", "crn": "17228" },
-      { "term": "202410", "crn": "17773" },
       { "term": "202330", "crn": "39551" },
       { "term": "202330", "crn": "38757" },
       { "term": "202330", "crn": "32251" },
@@ -348,6 +346,18 @@
   },
   {
     "subject": "WMNS",
+    "number": "3900",
+    "title": "Gender and Black World Literatures",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "IC"],
+    "sections": [{ "term": "202410", "crn": "20788" }],
+    "description": "This course is crosslisted with AFRS 3900 and ENGL 3900.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "WMNS",
     "number": "4520",
     "title": "Race, Class, and Gender",
     "scheduleType": "Seminar",
@@ -430,6 +440,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "20752" },
       { "term": "202330", "crn": "32708" },
       { "term": "202330", "crn": "38760" },
       { "term": "202310", "crn": "16972" },
@@ -437,6 +448,18 @@
       { "term": "202240", "crn": "41828" }
     ],
     "description": "This course is taught on MIT's campus at the GCWS and follows MIT's schedule (meets Sept 8 - Dec 8). Dr. Eleanor Craig (Harvard) and Dr. Dana Miranda (UMass Boston) will be the instructors.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "WMNS",
+    "number": "7976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "53364" }],
+    "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   }

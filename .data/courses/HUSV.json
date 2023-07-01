@@ -104,7 +104,6 @@
     "nuPath": ["IC"],
     "sections": [
       { "term": "202410", "crn": "14217" },
-      { "term": "202410", "crn": "20245" },
       { "term": "202330", "crn": "38743" },
       { "term": "202310", "crn": "14871" }
     ],
@@ -127,7 +126,15 @@
     ],
     "description": "Cross-listed with SOCL & AFAM 2355.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
   },
   {
     "subject": "HUSV",

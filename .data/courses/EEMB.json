@@ -64,8 +64,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202340", "crn": "40889" },
-      { "term": "202340", "crn": "40890" },
       { "term": "202330", "crn": "32070" },
       { "term": "202330", "crn": "32071" },
       { "term": "202330", "crn": "32072" },
@@ -805,10 +803,7 @@
     "scheduleType": "Seminar",
     "credits": 2,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "20007" },
-      { "term": "202330", "crn": "38337" }
-    ],
+    "sections": [{ "term": "202410", "crn": "20007" }],
     "description": "Offers students an opportunity to lead critical discussions of recent and classic papers from primary and secondary literature in marine sciences. Discusses the important scientific paradigms and addresses strengths and weaknesses of these papers from the perspective of scientific communication, including design and presentation of data in figures and tables; the role of synthesis in justifying new concepts; and how terminology and jargon evolve in scientific subdisciplines. Students write occasional reviews of these papers as if they had just been submitted to a journal for consideration.",
     "coreqs": [],
     "prereqs": []
@@ -834,7 +829,11 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "14645" },
+      { "term": "202410", "crn": "21181" },
+      { "term": "202410", "crn": "21182" },
       { "term": "202350", "crn": "51293" },
+      { "term": "202350", "crn": "53319" },
+      { "term": "202350", "crn": "53407" },
       { "term": "202330", "crn": "38338" },
       { "term": "202330", "crn": "39765" },
       { "term": "202310", "crn": "15534" }
@@ -850,10 +849,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 2,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "16980" },
-      { "term": "202350", "crn": "52531" }
-    ],
+    "sections": [{ "term": "202410", "crn": "16980" }],
     "description": "Designed to prepare PhD students with a concentration in marine sciences for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
     "prereqs": []
@@ -867,7 +863,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13398" },
-      { "term": "202350", "crn": "52532" },
       { "term": "202330", "crn": "38340" },
       { "term": "202310", "crn": "13872" }
     ],
@@ -884,7 +879,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15601" },
-      { "term": "202350", "crn": "52533" },
       { "term": "202310", "crn": "17314" }
     ],
     "description": "Designed to prepare PhD students with a concentration in sustainability for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
@@ -900,7 +894,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16981" },
-      { "term": "202350", "crn": "52534" },
       { "term": "202330", "crn": "38342" },
       { "term": "202310", "crn": "19344" }
     ],
@@ -916,7 +909,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202350", "crn": "52380" },
       { "term": "202330", "crn": "40410" },
       { "term": "202330", "crn": "40830" }
     ],
@@ -933,7 +925,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11846" },
-      { "term": "202350", "crn": "52535" },
       { "term": "202330", "crn": "33023" },
       { "term": "202310", "crn": "12071" }
     ],
@@ -950,6 +941,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11847" },
+      { "term": "202360", "crn": "61563" },
       { "term": "202350", "crn": "50354" },
       { "term": "202330", "crn": "31739" },
       { "term": "202310", "crn": "12072" }
@@ -967,7 +959,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11848" },
-      { "term": "202350", "crn": "50355" },
       { "term": "202330", "crn": "38343" },
       { "term": "202310", "crn": "12073" }
     ],

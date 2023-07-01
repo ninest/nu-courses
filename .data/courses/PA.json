@@ -109,6 +109,18 @@
   },
   {
     "subject": "PA",
+    "number": "6209",
+    "title": "Clinical Laboratory and Diagnostic Methods 1",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20862" }],
+    "description": "Covers a variety of diagnostic and therapeutic evaluations including clinical laboratory methods of hematology, transfusion medicine, clinical chemistry, urinalysis and body fluids, radiologic studies inclusive of chest x-ray, and introduction to electrocardiography. Includes basic principles of diagnostic and therapeutic patient evaluation, radiology, indications and interpretation of clinical laboratory studies, demonstration and practice of various diagnostic methods, and electrocardiography theory and interpretation.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PA",
     "number": "6311",
     "title": "Principles of Medicine 1",
     "scheduleType": "Lecture",
@@ -259,15 +271,24 @@
   },
   {
     "subject": "PA",
+    "number": "6329",
+    "title": "Healthcare Delivery",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "53019" }],
+    "description": "Explores the principal components of the healthcare delivery system, emphasizing its social, political, and economic evolution and development. Discusses trends and their implications.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PA",
     "number": "6330",
     "title": "Research Design",
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [
-      { "term": "202350", "crn": "50021" },
-      { "term": "202330", "crn": "39807" }
-    ],
+    "sections": [{ "term": "202330", "crn": "39807" }],
     "description": "Considers research methods and designs used in varied professional settings. Emphasizes development of research techniques, including the ability to define research problems; write hypotheses; review and interpret literature; apply research designs; organize, analyze, and present data; and draw relevant conclusions.",
     "coreqs": [],
     "prereqs": []

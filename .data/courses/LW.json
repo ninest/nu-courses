@@ -151,7 +151,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18922" },
-      { "term": "202350", "crn": "52932" },
       { "term": "202310", "crn": "21369" }
     ],
     "description": "This course focuses on federal and state environmental laws. Topics include pollution control, waste management, and cleanup of contaminated land and water. The course explores legislative policy and regulatory decisions as well as enforcement issues. We will give attention to questions of environmental justice and to the strategic use of legal tools in working to ensure safe and healthy surroundings for diverse groups of people.",
@@ -193,7 +192,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [{ "term": "202410", "crn": "18925" }],
-    "description": "This course explores how the law treats individuals with disabilities. We will analyze what is meant by the term &#8220;disability&#8221; and consider constitutional review of state actions discriminating against individuals with disabilities. Particular attention will be given to the the rights and obligations created by the Rehabilitation Act, the Americans with Disabilities Act and the Individuals with Disabilities Education Act. The rights of individuals with disabilities to be educated, work, receive healthcare, and enjoy public accommodations will be considered in depth. This course is designed for students wishing to represent individuals with disabilities as well as students who may represent employers and public accommodations.",
+    "description": "This course explores how the law treats individuals with disabilities. We will analyze what is meant by the term “disability” and consider constitutional review of state actions discriminating against individuals with disabilities. Particular attention will be given to the the rights and obligations created by the Rehabilitation Act, the Americans with Disabilities Act and the Individuals with Disabilities Education Act. The rights of individuals with disabilities to be educated, work, receive healthcare, and enjoy public accommodations will be considered in depth. This course is designed for students wishing to represent individuals with disabilities as well as students who may represent employers and public accommodations.",
     "coreqs": [],
     "prereqs": []
   },
@@ -228,7 +227,7 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "52934" }],
+    "sections": [],
     "description": "This course surveys the international human rights legal system. It includes the promotion and protection of economic, social, and cultural rights (such as rights to health, food, water, and education) and civil and political rights (such as equality and non-discrimination, the right to human security, the prohibition on torture, and rights to religious and cultural expression). We begin by examining the history and theoretical origins of human rights law. We then engage the legal framework under international and regional human rights treaties and interpretations of them by international, regional and domestic courts and other actors. We examine international, regional and domestic mechanisms for monitoring compliance. Finally, we grapple with tensions among cultural and religious imperatives and traditional human rights.",
     "coreqs": [],
     "prereqs": []
@@ -252,7 +251,7 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "52940" }],
+    "sections": [],
     "description": "This course addresses legal requirements and institutions dealing with animal and plant species, biological resources, habitats, and ecosystems. Major themes include biological diversity, endangered and threatened species, public and private rights in migratory resources, public trust doctrine, the allocation of power among federal, state, and local governments, and the roles of administrative agencies in ecosystem management. The course provides opportunities to explore specific topics of interest such as environmental ethics, wetlands protection, fisheries law, Native American hunting rights and fishing rights, and management of national parks, forests, and grazing lands.",
     "coreqs": [],
     "prereqs": []
@@ -279,7 +278,7 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "52935" }],
+    "sections": [],
     "description": "Examines the evolution of the juvenile court system and issues related to juvenile justice and child welfare. Includes the study of procedural and substantive principles related to court subject matter, including delinquency, youthful offender, status offense, and abuse and neglect jurisdiction. In attempting to focus on connecting theory to practice, the class employs a contextual lens by considering the larger communities and systems that affect children, families, and public safety. This entails consideration of the consequences of decisions and policies in and out of courtrooms. Related topics include adolescent development; racial, ethnic, and gender equity; access to educational and mental health services; and public health.",
     "coreqs": [],
     "prereqs": []
@@ -339,10 +338,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "18927" },
-      { "term": "202350", "crn": "52937" }
-    ],
+    "sections": [{ "term": "202410", "crn": "18927" }],
     "description": "Offers students the opportunity to critically engage with design methods and principles in the development of new solutions and ideas for our legal systems, institutions, and problems. Examines methodologies derived from the fields of product, service, and critical design and emphasizes hands-on student engagement with structured creative processes, field observations, prototyping or other methods derived from a diversity of creative disciplines. Students apply these methodologies and skills in the formulation of a response to a timely design question. Students’ exploration of critical design fosters a vision of a future world where everyone is empowered to use the law.",
     "coreqs": [],
     "prereqs": []
@@ -354,7 +350,7 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "52938" }],
+    "sections": [],
     "description": "Examines how we construct the cradle/school-to-prison pipeline while focusing on several pivotal points that channel largely poor Black and Brown students into it. With an eye toward practical application, offers students an opportunity to learn about, critique, problem-solve, and create pipeline-disrupting solutions looking to restorative justice as a time-honored justice paradigm alternative to our Western constructions.",
     "coreqs": [],
     "prereqs": []

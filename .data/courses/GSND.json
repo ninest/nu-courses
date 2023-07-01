@@ -29,8 +29,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12106" },
+      { "term": "202410", "crn": "20697" },
       { "term": "202410", "crn": "15526" },
-      { "term": "202410", "crn": "15527" },
       { "term": "202410", "crn": "20229" },
       { "term": "202310", "crn": "12369" },
       { "term": "202310", "crn": "17139" },
@@ -117,7 +117,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202340", "crn": "41910" },
+      { "term": "202410", "crn": "20820" },
       { "term": "202330", "crn": "39532" }
     ],
     "description": "Explores a variety of advanced topics in game design, including the multimedia, multidisciplinary nature of games. Taught by faculty according to their research interests and expertise.",
@@ -300,5 +300,17 @@
     "description": "Offers students an opportunity to obtain practical experience working on a project with a faculty member. Allows students to work with faculty in the program to develop their own project.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "GSND",
+    "number": "7996",
+    "title": "Thesis Continuation - Half-Time",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20652" }],
+    "description": "Offers continued work on the thesis project.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "GSND", "number": "7990" }]
   }
 ]

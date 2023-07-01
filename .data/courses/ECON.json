@@ -261,7 +261,7 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
-      { "term": "202410", "crn": "13594" },
+      { "term": "202410", "crn": "20585" },
       { "term": "202310", "crn": "14093" },
       { "term": "202240", "crn": "40396" }
     ],
@@ -485,6 +485,7 @@
       { "term": "202410", "crn": "12780" },
       { "term": "202410", "crn": "12874" },
       { "term": "202410", "crn": "14516" },
+      { "term": "202410", "crn": "20529" },
       { "term": "202360", "crn": "60353" },
       { "term": "202340", "crn": "40432" },
       { "term": "202330", "crn": "32876" },
@@ -629,10 +630,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "19917" },
-      { "term": "202330", "crn": "34719" }
-    ],
+    "sections": [{ "term": "202330", "crn": "34719" }],
     "description": "Studies functional skills economists use in health policy analysis, how to apply economic models, and the tools of data and statistical analysis, with the goal of answering health policy questions. Topics include individual health decisions, health insurance coverage and access to care, the behavior of hospitals and health insurers, the Medicare and Medicaid programs, prescription drug prices, innovation/R&D in the pharmaceutical sector, and topics in public health. Offers students an opportunity to develop the knowledge and tools required to understand, discuss, and provide informed perspective on national policy debates, such as the Affordable Care Act, rising healthcare prices and lack of affordability, the benefits and drawbacks of a national single-payer health insurance program, and public health topics such as rising mortality and prescription opioid and heroin abuse.",
     "coreqs": [],
     "prereqs": [
@@ -719,12 +717,25 @@
   },
   {
     "subject": "ECON",
+    "number": "3425",
+    "title": "Energy Economics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20608" }],
+    "description": "Introduces theoretical and empirical perspectives on energy demand and energy supply. Energy is vital to modern economies. Emphasizes the role markets play in determining how to use energy and its sources and the scope for public policy to address market imperfections. Discusses oil, natural gas, coal, nuclear power, and renewable energy (such as hydro-, wind, and solar power). Covers the public policy issues around greenhouse gas emissions and energy security.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "ECON", "number": "1116" }]
+  },
+  {
+    "subject": "ECON",
     "number": "3440",
     "title": "Public Finance",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "20633" },
       { "term": "202340", "crn": "41692" },
       { "term": "202310", "crn": "20295" }
     ],
@@ -756,7 +767,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19017" }],
+    "sections": [
+      { "term": "202410", "crn": "20541" },
+      { "term": "202310", "crn": "19017" }
+    ],
     "description": "Explores the application of economic principles to the solution of managerial decision-making problems in areas such as demand estimation, cost estimation and control, pricing and marketing strategies, employee incentives, financing of capital investments, and responses to government regulation and taxation. Case studies and simulation models are typically used as pedagogical tools.",
     "coreqs": [],
     "prereqs": [{ "subject": "ECON", "number": "1116" }]
@@ -805,6 +819,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "20542" },
       { "term": "202360", "crn": "61354" },
       { "term": "202310", "crn": "20195" },
       { "term": "202240", "crn": "40699" }
@@ -862,6 +877,22 @@
   },
   {
     "subject": "ECON",
+    "number": "3635",
+    "title": "International Economics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20753" }],
+    "description": "Covers Ricardian and neoclassical theories of trade; trade policies; tariffs, quotas, voluntary export restraints, and customs union; global trade regime; GATT (General Agreement on Tariffs and Trade) and WTO (World Trade Organization); balance-of-payments accounts; foreign exchange markets; monetary and portfolio balance approaches to external balance; fixed or flexible exchange rates; and international monetary system.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ECON", "number": "1115" },
+      "And",
+      { "subject": "ECON", "number": "1116" }
+    ]
+  },
+  {
+    "subject": "ECON",
     "number": "3711",
     "title": "Economics of Race",
     "scheduleType": "Lecture",
@@ -883,7 +914,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "14232" },
+      { "term": "202410", "crn": "20575" },
       { "term": "202310", "crn": "14894" }
     ],
     "description": "Covers selected topic matter in the field of microeconomics. The specific topic is chosen by the instructor. May be repeated up to five times.",
@@ -897,10 +928,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "19918" },
-      { "term": "202330", "crn": "38955" }
-    ],
+    "sections": [{ "term": "202330", "crn": "38955" }],
     "description": "Covers Ricardian and neoclassical theories of trade; trade policies; tariffs, quotas, voluntary export restraints, and customs union; global trade regime; GATT (General Agreement on Tariffs and Trade) and WTO (World Trade Organization); balance-of-payments accounts; foreign exchange markets; monetary and portfolio balance approaches to external balance; fixed or flexible exchange rates; and international monetary system.",
     "coreqs": [],
     "prereqs": [
@@ -1014,6 +1042,7 @@
       { "term": "202410", "crn": "12376" },
       { "term": "202410", "crn": "16678" },
       { "term": "202360", "crn": "60304" },
+      { "term": "202360", "crn": "61702" },
       { "term": "202340", "crn": "40394" },
       { "term": "202330", "crn": "38956" },
       { "term": "202330", "crn": "38957" },
@@ -1112,6 +1141,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10687" },
+      { "term": "202410", "crn": "21262" },
       { "term": "202330", "crn": "36757" },
       { "term": "202310", "crn": "10764" }
     ],
@@ -1127,7 +1157,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "16679" },
       { "term": "202410", "crn": "17879" },
       { "term": "202310", "crn": "19022" },
       { "term": "202310", "crn": "20304" }
@@ -1159,8 +1188,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "19919" },
       { "term": "202410", "crn": "19920" },
+      { "term": "202410", "crn": "20604" },
+      { "term": "202410", "crn": "20698" },
       { "term": "202330", "crn": "38960" },
       { "term": "202330", "crn": "39066" },
       { "term": "202310", "crn": "16376" },
@@ -1264,9 +1294,8 @@
       { "term": "202360", "crn": "61149" },
       { "term": "202360", "crn": "61153" },
       { "term": "202360", "crn": "61240" },
+      { "term": "202360", "crn": "61675" },
       { "term": "202340", "crn": "41471" },
-      { "term": "202340", "crn": "41595" },
-      { "term": "202350", "crn": "51133" },
       { "term": "202330", "crn": "37622" },
       { "term": "202310", "crn": "12065" },
       { "term": "202310", "crn": "21176" },
@@ -1304,7 +1333,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "17810" },
       { "term": "202330", "crn": "36136" },
       { "term": "202310", "crn": "20232" }
     ],
@@ -1459,6 +1487,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202360", "crn": "61573" },
       { "term": "202330", "crn": "39925" },
       { "term": "202330", "crn": "40378" },
       { "term": "202310", "crn": "20520" }
@@ -1481,14 +1510,25 @@
   },
   {
     "subject": "ECON",
+    "number": "9000",
+    "title": "PhD Candidacy Achieved",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20689" }],
+    "description": "Econ PhD and PhD Advanced Entry students only.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ECON",
     "number": "9986",
     "title": "Research",
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "16683" },
-      { "term": "202350", "crn": "51679" },
+      { "term": "202410", "crn": "20690" },
       { "term": "202350", "crn": "52356" },
       { "term": "202330", "crn": "36992" },
       { "term": "202330", "crn": "38963" },
@@ -1506,8 +1546,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "10595" },
-      { "term": "202350", "crn": "51680" },
+      { "term": "202410", "crn": "20691" },
       { "term": "202330", "crn": "32630" }
     ],
     "description": "First of two consecutive semesters to meet the residency requirement of the doctoral program.",
@@ -1522,7 +1561,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "15705" },
+      { "term": "202410", "crn": "20694" },
       { "term": "202350", "crn": "51681" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
@@ -1537,8 +1576,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "10723" },
-      { "term": "202350", "crn": "52176" },
+      { "term": "202410", "crn": "20695" },
       { "term": "202330", "crn": "32631" },
       { "term": "202310", "crn": "10806" }
     ],

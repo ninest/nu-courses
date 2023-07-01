@@ -26,8 +26,10 @@
       { "term": "202410", "crn": "19143" },
       { "term": "202410", "crn": "18078" },
       { "term": "202410", "crn": "18715" },
+      { "term": "202410", "crn": "21099" },
+      { "term": "202410", "crn": "21100" },
+      { "term": "202410", "crn": "21102" },
       { "term": "202340", "crn": "40044" },
-      { "term": "202340", "crn": "40262" },
       { "term": "202330", "crn": "30038" },
       { "term": "202330", "crn": "30242" },
       { "term": "202330", "crn": "30241" },
@@ -272,7 +274,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202260", "crn": "61483" }],
+    "sections": [
+      { "term": "202360", "crn": "61746" },
+      { "term": "202260", "crn": "61483" }
+    ],
     "description": "Allows students who have received approval to undertake independent study in lieu of any course required in the various concentrations. Students present proposals to an Independent Studies Committee for evaluation and approval. Every proposal requires a detailed outline of the objectives and plan of study and must be accompanied by a supporting statement from the supervising faculty member under whose direction the study takes place. A copy of the final report prepared by the student is presented to the appropriate Independent Studies Committee. Further information about the Independent Studies Program can be obtained from concentration coordinators. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []

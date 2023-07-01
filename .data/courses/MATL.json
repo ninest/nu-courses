@@ -105,6 +105,18 @@
   },
   {
     "subject": "MATL",
+    "number": "7945",
+    "title": "Master's Project",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "53022" }],
+    "description": "Offers theoretical or experimental work under individual faculty supervision.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MATL",
     "number": "7990",
     "title": "Thesis",
     "scheduleType": "Individual Instruction",

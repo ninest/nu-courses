@@ -21,6 +21,7 @@
     "sections": [
       { "term": "202410", "crn": "10964" },
       { "term": "202410", "crn": "11048" },
+      { "term": "202410", "crn": "21183" },
       { "term": "202360", "crn": "60556" },
       { "term": "202340", "crn": "41956" },
       { "term": "202310", "crn": "11084" },
@@ -103,10 +104,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "13767" },
-      { "term": "202310", "crn": "14295" }
-    ],
+    "sections": [{ "term": "202310", "crn": "14295" }],
     "description": "Explores the design of innovative personal health human-computer interface technologies. Examples include assistive technologies that aid persons with disabilities, consumer wellness promotion applications, patient education and counseling systems, interfaces for reviewing personal health records, and elder care and social network systems that monitor health and support independent living. Offers students an opportunity to work in teams to build a prototype personal health interface system to solve a real problem. Topics include needs assessment and participatory research, iterative user interface design methods for health interface development, computational sensing of health states and behavior, software architectures for iteratively testing prototype personal health interface technologies, human-computer interaction issues related to personal health technology, and technology transfer requirements to support future validation studies of technology.",
     "coreqs": [],
     "prereqs": []
@@ -299,6 +297,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12548" },
+      { "term": "202410", "crn": "21179" },
       { "term": "202310", "crn": "12864" }
     ],
     "description": "Introduces the field of health data analytics. Topics include understanding stakeholder needs; the variety of types of health data; software tools; as well as case studies from pharma, public health, electronic health records, claims data, and home-monitoring data. Emphasizes the importance of understanding the complexity and potential biases in how health data (direct or indirect) is collected and represented. Presents all data-analytic discussions within a context of health data and stakeholder information needs. Offers students an opportunity to practice presenting the results of analyses. Requires a basic knowledge of statistics.",
@@ -366,8 +365,16 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12428" },
+      { "term": "202410", "crn": "20951" },
+      { "term": "202410", "crn": "21111" },
       { "term": "202410", "crn": "16126" },
-      { "term": "202350", "crn": "50853" },
+      { "term": "202350", "crn": "53006" },
+      { "term": "202350", "crn": "53128" },
+      { "term": "202350", "crn": "53129" },
+      { "term": "202350", "crn": "53175" },
+      { "term": "202350", "crn": "53232" },
+      { "term": "202350", "crn": "53233" },
+      { "term": "202350", "crn": "53342" },
       { "term": "202330", "crn": "40261" },
       { "term": "202330", "crn": "33552" },
       { "term": "202330", "crn": "34074" },
@@ -388,11 +395,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202350", "crn": "51915" },
       { "term": "202350", "crn": "51970" },
-      { "term": "202350", "crn": "52064" },
-      { "term": "202350", "crn": "52075" },
-      { "term": "202350", "crn": "52076" }
+      { "term": "202350", "crn": "52075" }
     ],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision.",
     "coreqs": [],
@@ -421,10 +425,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202350", "crn": "51084" },
-      { "term": "202350", "crn": "52951" }
-    ],
+    "sections": [{ "term": "202350", "crn": "52951" }],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
     "prereqs": [{ "subject": "HINF", "number": "9990" }]
@@ -440,13 +441,9 @@
       { "term": "202410", "crn": "14609" },
       { "term": "202410", "crn": "12546" },
       { "term": "202410", "crn": "14633" },
-      { "term": "202340", "crn": "40737" },
-      { "term": "202350", "crn": "50933" },
       { "term": "202350", "crn": "51009" },
-      { "term": "202350", "crn": "50976" },
       { "term": "202350", "crn": "50977" },
       { "term": "202350", "crn": "50978" },
-      { "term": "202350", "crn": "50979" },
       { "term": "202330", "crn": "32635" },
       { "term": "202330", "crn": "34091" },
       { "term": "202330", "crn": "34092" },

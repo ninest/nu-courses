@@ -137,7 +137,7 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202360", "crn": "61507" }],
+    "sections": [],
     "description": "Focuses on a unique aspect of the French language. Specific topics reflect current developments in the language and expressed student interests. Focuses on the use of the language for specific purposes or its use in specialized contexts (e.g., media, business, health).",
     "coreqs": [],
     "prereqs": [{ "subject": "FRNH", "number": "2102" }]

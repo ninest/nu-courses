@@ -14,7 +14,7 @@
       { "term": "202410", "crn": "14524" },
       { "term": "202410", "crn": "14525" },
       { "term": "202410", "crn": "19599" },
-      { "term": "202410", "crn": "19600" },
+      { "term": "202410", "crn": "19601" },
       { "term": "202330", "crn": "31006" },
       { "term": "202330", "crn": "32623" },
       { "term": "202330", "crn": "35895" },
@@ -42,6 +42,7 @@
     "sections": [
       { "term": "202410", "crn": "13257" },
       { "term": "202410", "crn": "11065" },
+      { "term": "202410", "crn": "15102" },
       { "term": "202340", "crn": "40808" },
       { "term": "202330", "crn": "33286" },
       { "term": "202330", "crn": "31517" },
@@ -192,7 +193,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20250" }],
+    "sections": [],
     "description": "Addresses current issues in rural health. Maine, one of the nation’s most rural states, is the primary case example. Highlights interdisciplinary approaches to identifying priority health concerns, addressing root causes of diseases and poor health and developing sustainable policy and programmatic interventions for improving health outcomes of individuals, families, and communities in rural areas. Reviews models of rural healthcare delivery, rural public health systems and practices, rural public policy and health reform, the role of health technologies in rural practice, and health disparities among vulnerable rural populations (including but not limited to immigrants, migrant workers, older people, people living with disabilities, LGBTQIA+ persons, and indigenous/first peoples). Critically analyzes the complex contextual factors that must be addressed to sustainably improve health outcomes in rural settings.",
     "coreqs": [],
     "prereqs": []
@@ -222,6 +223,7 @@
     "nuPath": ["CE"],
     "sections": [
       { "term": "202410", "crn": "19613" },
+      { "term": "202340", "crn": "42270" },
       { "term": "202330", "crn": "32148" },
       { "term": "202330", "crn": "39109" }
     ],
@@ -252,8 +254,6 @@
     "credits": 4,
     "nuPath": ["CE"],
     "sections": [
-      { "term": "202410", "crn": "19615" },
-      { "term": "202410", "crn": "19617" },
       { "term": "202330", "crn": "34292" },
       { "term": "202330", "crn": "34293" },
       { "term": "202330", "crn": "35901" },

@@ -505,9 +505,7 @@
       "Or",
       { "subject": "CHEM", "number": "1161" },
       "Or",
-      { "subject": "CHEM", "number": "1214" },
-      "Or",
-      { "subject": "CHEM", "number": "1220" }
+      { "subject": "CHEM", "number": "1214" }
     ]
   },
   {
@@ -760,7 +758,11 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39851" }],
+    "sections": [
+      { "term": "202410", "crn": "20848" },
+      { "term": "202410", "crn": "20935" },
+      { "term": "202330", "crn": "39851" }
+    ],
     "description": "Examines selected topics in geology through an understanding of the basic processes, materials, and evolution. Topics include basin analysis, landform evolution, volcanology, or regional geology. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -865,7 +867,6 @@
     "nuPath": ["EI"],
     "sections": [
       { "term": "202410", "crn": "10564" },
-      { "term": "202410", "crn": "20343" },
       { "term": "202340", "crn": "40280" },
       { "term": "202330", "crn": "35002" },
       { "term": "202310", "crn": "10611" },
@@ -953,12 +954,16 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202410", "crn": "20021" }],
-    "description": "Investigates the myriad ways that natural systems intersect with human-dominated landscapes, including urban hydrology, nutrient cycling, and the distribution of organisms in cities. Urbanization is rapidly expanding with over half of humans currently inhabiting urban landscapes. The conversion of natural areas to human-dominated landscapes is resulting in the loss of biodiversity, habitat connectivity, and ecosystem services. It is also changing how we perceive and value natural systems. Evaluates the ecology <em>in</em> cities but also ecology<em> of</em> cities, including how cities integrate into larger landscapes; ecosystem service provisioning; and the biological, cultural, and psychological value of urban nature for people. Culminates by looking to the future of how urban spaces adapt to climate change, increasing populations, and other emerging issues.",
+    "description": "Investigates the myriad ways that natural systems intersect with human-dominated landscapes, including urban hydrology, nutrient cycling, and the distribution of organisms in cities. Urbanization is rapidly expanding with over half of humans currently inhabiting urban landscapes. The conversion of natural areas to human-dominated landscapes is resulting in the loss of biodiversity, habitat connectivity, and ecosystem services. It is also changing how we perceive and value natural systems. Evaluates the ecology in cities but also ecology of cities, including how cities integrate into larger landscapes; ecosystem service provisioning; and the biological, cultural, and psychological value of urban nature for people. Culminates by looking to the future of how urban spaces adapt to climate change, increasing populations, and other emerging issues.",
     "coreqs": [],
     "prereqs": [
+      "(",
       { "subject": "EEMB", "number": "2302" },
       "Or",
-      { "subject": "ENVR", "number": "1400" }
+      { "subject": "ENVR", "number": "1400" },
+      ")",
+      "Or",
+      "Graduate Admission"
     ]
   },
   {
@@ -990,8 +995,10 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18401" },
+      { "term": "202410", "crn": "20775" },
       { "term": "202340", "crn": "41990" },
-      { "term": "202350", "crn": "52286" },
+      { "term": "202350", "crn": "53023" },
+      { "term": "202350", "crn": "53194" },
       { "term": "202330", "crn": "39874" },
       { "term": "202330", "crn": "40191" },
       { "term": "202310", "crn": "20836" }
@@ -1101,7 +1108,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "52094" }],
+    "sections": [],
     "description": "Provides eligible students with an opportunity for part-time work experience.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "6000" }]
@@ -1116,7 +1123,7 @@
     "sections": [
       { "term": "202410", "crn": "17820" },
       { "term": "202360", "crn": "60581" },
-      { "term": "202340", "crn": "40972" },
+      { "term": "202340", "crn": "42112" },
       { "term": "202350", "crn": "50861" },
       { "term": "202330", "crn": "35063" },
       { "term": "202310", "crn": "20243" },

@@ -9,6 +9,7 @@
     "sections": [
       { "term": "202410", "crn": "11947" },
       { "term": "202410", "crn": "14036" },
+      { "term": "202410", "crn": "20530" },
       { "term": "202310", "crn": "12178" },
       { "term": "202310", "crn": "14661" }
     ],
@@ -82,6 +83,21 @@
       { "term": "202330", "crn": "34486" }
     ],
     "description": "Offers a comprehensive overview of the  commercialization process for nano- and  biomedical technologies. Discusses the key elements of a successful  business plan, including scientific innovation, market assessment, customer discovery,  intellectual property protection,  business modeling, and value extraction.  Also covers regulatory processes  and market-specific strategies for  raising capital.  Offers students an opportunity to gain entrepreneurship skills through the creation of a team business proposal. Students have opportunities to interact with guest entrepreneurs.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "NNMD",
+    "number": "6500",
+    "title": "Professional Development for Co-op",
+    "scheduleType": "Lecture",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "20535" },
+      { "term": "202410", "crn": "20531" }
+    ],
+    "description": "Introduces the cooperative education program. Presents co-op policies, procedures, and expectations of the program and co-op employers. Covers career paths, choices, professional behaviors, work culture, and career decision making. Offers students an opportunity to assess their workplace skills, interests, and values and discuss how they impact personal career choices; prepare a professional-style resumé; study proper interviewing techniques; and gain an understanding of the opportunities available to them for co-op. Familiarizes students with workplace issues relative to their field of study and presents how to use NUworks in the job-search and referral process.",
     "coreqs": [],
     "prereqs": []
   }

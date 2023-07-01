@@ -162,7 +162,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "12682" },
       { "term": "202330", "crn": "31146" },
       { "term": "202310", "crn": "13024" }
     ],
@@ -717,6 +716,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "17188" },
+      { "term": "202410", "crn": "21060" },
       { "term": "202310", "crn": "19559" }
     ],
     "description": "Uses United States Supreme Court decisions and other reading material to examine the substantive and procedural guarantees of the Bill of Rights and the Fourteenth Amendment and their relation to a liberal democratic society.",
@@ -861,6 +861,18 @@
   },
   {
     "subject": "POLS",
+    "number": "7205",
+    "title": "Seminar in American Government and Politics",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20583" }],
+    "description": "Focuses on major research approaches and corresponding academic literature in U.S. politics. Examines the scholarly analysis of key actors in U.S. politics, including the presidency, Congress, the judiciary, and political parties.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "POLS",
     "number": "7206",
     "title": "Seminar in Comparative Politics",
     "scheduleType": "Seminar",
@@ -890,7 +902,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "17190" }],
+    "sections": [],
     "description": "Focuses on American political parties and includes analyses of party organizations and decision-making systems, leader/activist differences in policy and ideology, party reform, policy commitments, campaign finance, media, voting behavior, and an overview and assessment of contemporary elections and campaigns.",
     "coreqs": [],
     "prereqs": []
@@ -968,6 +980,18 @@
   },
   {
     "subject": "POLS",
+    "number": "7362",
+    "title": "Nationalism",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20631" }],
+    "description": "Focuses on contending theories of nationalism and nationalist movements. Topics include cultural objectification and the establishment of group boundaries, ethnic elites and cultural hegemony, mass mobilization, intergroup socioeconomic disparities, nationalism and modernity, nationalist parties and their policy strategies, and the &#8220;constitution&#8221; of race, particularly in the Americas.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "POLS",
     "number": "7366",
     "title": "Genocide in a Comparative Perspective",
     "scheduleType": "Seminar",
@@ -986,6 +1010,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202340", "crn": "42141" },
+      { "term": "202350", "crn": "53288" },
+      { "term": "202350", "crn": "53328" },
       { "term": "202330", "crn": "40363" },
       { "term": "202330", "crn": "40437" },
       { "term": "202330", "crn": "40466" },
@@ -1016,6 +1043,18 @@
   },
   {
     "subject": "POLS",
+    "number": "7990",
+    "title": "Thesis",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "53268" }],
+    "description": "Offers thesis supervision by individual members of the department. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "POLS",
     "number": "8407",
     "title": "Internship",
     "scheduleType": "Off-campus instruction",
@@ -1023,7 +1062,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202360", "crn": "60765" },
-      { "term": "202350", "crn": "50605" },
       { "term": "202260", "crn": "61058" }
     ],
     "description": "Offers work experience (at least fifteen hours per week) that includes planning, research, policy development, and other administrative aspects in a government or nonprofit organization. May be repeated without limit.",
@@ -1039,7 +1077,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12684" },
-      { "term": "202350", "crn": "50859" },
       { "term": "202310", "crn": "13026" }
     ],
     "description": "Offers the student the opportunity to prepare for the PhD qualifying exam under faculty supervision.",
@@ -1053,7 +1090,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "50847" }],
+    "sections": [],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1084,7 +1121,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12685" },
-      { "term": "202350", "crn": "52923" },
       { "term": "202330", "crn": "31999" }
     ],
     "description": "Offers dissertation supervision by individual members of the department.",

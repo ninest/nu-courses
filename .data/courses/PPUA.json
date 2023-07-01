@@ -280,6 +280,18 @@
   },
   {
     "subject": "PPUA",
+    "number": "5265",
+    "title": " Urb/Regnl Policy Dev Countrie",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20626" }],
+    "description": "Explores the issues facing rapidly growing cities in the developing world. By 2040, more than half of the world's population will live in cities. Analyzes the forces driving a country's economic development and social change. Focuses on urbanization in poorer countries by examining what causes rapid urbanization; why informal economies are so pervasive and how governments approach this issue; the implications increasing popular demands for involvement in decisions have for urban planning and policy; and how governments respond to globalization and with what distributional impacts. Addresses specific sectoral issues and approaches to urban planning and policy in such areas as housing, climate change and hazard preparedness, economic development, transportation, and urban design and public space.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PPUA",
     "number": "5266",
     "title": "Urban Theory and Science",
     "scheduleType": "Seminar",
@@ -347,7 +359,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "15283" },
       { "term": "202330", "crn": "35876" },
       { "term": "202310", "crn": "16600" }
     ],
@@ -463,6 +474,18 @@
   },
   {
     "subject": "PPUA",
+    "number": "6220",
+    "title": "How Healthcare Works: Business and Policy Innovations",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20632" }],
+    "description": "Offers a high-level introduction to the past, current, and future states of the U.S. healthcare system, including key business and policy innovations introduced over time to improve access, quality, and affordability. Emphasizes learning about how the business and policy of healthcare works in the United States, with comparisons drawn to other countries’ healthcare systems. Analyzes the potential contributions to health system improvement made by healthcare reform, technologies such as artificial intelligence, and other disruptive innovations. Designed for graduate students interested in learning more about healthcare industry operations and the business and policy innovations that drive performance improvements in this sector.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PPUA",
     "number": "6410",
     "title": "Urban Informatics Portfolio",
     "scheduleType": "Individual Instruction",
@@ -470,7 +493,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12762" },
-      { "term": "202350", "crn": "50530" },
       { "term": "202330", "crn": "32652" },
       { "term": "202310", "crn": "13123" }
     ],
@@ -562,6 +584,7 @@
     "sections": [
       { "term": "202410", "crn": "12135" },
       { "term": "202410", "crn": "15884" },
+      { "term": "202410", "crn": "20708" },
       { "term": "202340", "crn": "41660" },
       { "term": "202330", "crn": "32063" },
       { "term": "202330", "crn": "35012" },
@@ -582,6 +605,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12138" },
+      { "term": "202410", "crn": "21250" },
       { "term": "202330", "crn": "32067" },
       { "term": "202310", "crn": "12405" }
     ],
@@ -715,7 +739,6 @@
       { "term": "202410", "crn": "18809" },
       { "term": "202360", "crn": "60801" },
       { "term": "202360", "crn": "61187" },
-      { "term": "202340", "crn": "41621" },
       { "term": "202310", "crn": "21255" },
       { "term": "202260", "crn": "61104" },
       { "term": "202260", "crn": "61553" },
@@ -746,12 +769,11 @@
       { "term": "202360", "crn": "61150" },
       { "term": "202360", "crn": "61154" },
       { "term": "202360", "crn": "61239" },
-      { "term": "202340", "crn": "40494" },
       { "term": "202340", "crn": "40580" },
       { "term": "202340", "crn": "40689" },
-      { "term": "202340", "crn": "40976" },
+      { "term": "202340", "crn": "42114" },
       { "term": "202340", "crn": "40977" },
-      { "term": "202340", "crn": "41472" },
+      { "term": "202350", "crn": "53377" },
       { "term": "202330", "crn": "35414" },
       { "term": "202330", "crn": "37267" },
       { "term": "202330", "crn": "37268" },
@@ -790,6 +812,7 @@
     "sections": [
       { "term": "202410", "crn": "18815" },
       { "term": "202360", "crn": "60599" },
+      { "term": "202340", "crn": "42127" },
       { "term": "202330", "crn": "40141" },
       { "term": "202310", "crn": "21261" },
       { "term": "202260", "crn": "60711" }
@@ -807,7 +830,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13813" },
-      { "term": "202350", "crn": "52193" },
       { "term": "202330", "crn": "37549" },
       { "term": "202330", "crn": "37802" },
       { "term": "202310", "crn": "14347" }
@@ -839,7 +861,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32245" }],
+    "sections": [
+      { "term": "202410", "crn": "21217" },
+      { "term": "202330", "crn": "32245" }
+    ],
     "description": "Examines the characteristics of resilient cities, especially those located in coastal regions. Investigates the capacity of cities to respond to major disruptions to their social and ecological systems. Includes extensive use of case studies, such as the 2004 Indian Ocean tsunami and Hurricane Katrina in 2005, as well as readings on cities and social systems. Offers students an opportunity to analyze an urban area and provide recommendations for improving its resilience. POLS 7346 and PPUA 7346 are cross-listed.",
     "coreqs": [],
     "prereqs": []
@@ -866,7 +891,6 @@
     "sections": [
       { "term": "202410", "crn": "12312" },
       { "term": "202410", "crn": "15823" },
-      { "term": "202410", "crn": "17247" },
       { "term": "202330", "crn": "32062" },
       { "term": "202330", "crn": "35105" },
       { "term": "202330", "crn": "37316" },
@@ -890,6 +914,8 @@
     "sections": [
       { "term": "202410", "crn": "18689" },
       { "term": "202410", "crn": "18989" },
+      { "term": "202410", "crn": "21059" },
+      { "term": "202410", "crn": "21069" },
       { "term": "202360", "crn": "60818" },
       { "term": "202330", "crn": "39100" },
       { "term": "202330", "crn": "40027" },
@@ -898,6 +924,21 @@
       { "term": "202260", "crn": "61132" }
     ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PPUA",
+    "number": "8960",
+    "title": "Exam Preparation - Doctoral",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202350", "crn": "53193" },
+      { "term": "202350", "crn": "53322" }
+    ],
+    "description": "Offers the student the opportunity to prepare for the PhD qualifying exam under faculty supervision.",
     "coreqs": [],
     "prereqs": []
   },
@@ -933,9 +974,9 @@
       { "term": "202410", "crn": "19056" },
       { "term": "202410", "crn": "19260" },
       { "term": "202350", "crn": "50812" },
+      { "term": "202350", "crn": "53297" },
       { "term": "202350", "crn": "52282" },
       { "term": "202350", "crn": "52283" },
-      { "term": "202350", "crn": "52296" },
       { "term": "202350", "crn": "52311" },
       { "term": "202330", "crn": "35883" },
       { "term": "202330", "crn": "35884" },
@@ -951,6 +992,21 @@
   },
   {
     "subject": "PPUA",
+    "number": "9980",
+    "title": " Exper. PhD Research Residency",
+    "scheduleType": "Off-campus instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "20768" },
+      { "term": "202350", "crn": "53240" }
+    ],
+    "description": "Comprises a research residency experience in an organization whose mission and activities are aligned within the School of Public Policy and Urban Affairs. The research residency is designed to help develop dissertation ideas or research papers or to obtain access to resources helpful to dissertation development or research. A faculty member serves as an advisor for the residency experience, but individuals within the organization in which the student is working are asked to serve as formal mentors for the student residency experience.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PPUA",
     "number": "9990",
     "title": "Dissertation Term 1",
     "scheduleType": "Individual Instruction",
@@ -958,6 +1014,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18378" },
+      { "term": "202350", "crn": "53339" },
       { "term": "202330", "crn": "40100" },
       { "term": "202310", "crn": "20813" }
     ],
@@ -972,7 +1029,11 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39659" }],
+    "sections": [
+      { "term": "202410", "crn": "21094" },
+      { "term": "202350", "crn": "53108" },
+      { "term": "202330", "crn": "39659" }
+    ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
     "prereqs": [{ "subject": "PPUA", "number": "9990" }]
@@ -989,8 +1050,11 @@
       { "term": "202410", "crn": "15605" },
       { "term": "202410", "crn": "17248" },
       { "term": "202410", "crn": "19343" },
+      { "term": "202410", "crn": "20743" },
       { "term": "202350", "crn": "51361" },
       { "term": "202350", "crn": "52316" },
+      { "term": "202350", "crn": "53224" },
+      { "term": "202350", "crn": "53251" },
       { "term": "202330", "crn": "35890" },
       { "term": "202330", "crn": "40101" },
       { "term": "202310", "crn": "16089" },

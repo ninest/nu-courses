@@ -47,7 +47,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "17919" },
-      { "term": "202360", "crn": "61383" },
       { "term": "202340", "crn": "41740" },
       { "term": "202330", "crn": "38998" },
       { "term": "202310", "crn": "20346" }
@@ -125,7 +124,6 @@
       { "term": "202410", "crn": "17254" },
       { "term": "202410", "crn": "20477" },
       { "term": "202360", "crn": "60558" },
-      { "term": "202340", "crn": "40499" },
       { "term": "202330", "crn": "37398" },
       { "term": "202330", "crn": "34063" },
       { "term": "202310", "crn": "14852" },
@@ -268,6 +266,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "20508" },
       { "term": "202360", "crn": "61496" },
       { "term": "202340", "crn": "41986" },
       { "term": "202330", "crn": "30281" },
@@ -287,6 +286,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "20509" },
       { "term": "202360", "crn": "61497" },
       { "term": "202340", "crn": "41983" },
       { "term": "202330", "crn": "30280" },
@@ -875,5 +875,20 @@
     "description": "Offers preparation for and performance of a senior recital (forty to sixty minutes of music) under the guidance of the student's primary instrumental or vocal instructor.",
     "coreqs": [],
     "prereqs": [{ "subject": "MUSC", "number": "3410" }]
+  },
+  {
+    "subject": "MUSC",
+    "number": "4992",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "20924" },
+      { "term": "202410", "crn": "21058" }
+    ],
+    "description": "Focuses on independent work in a selected area of music under the direction of a member of the department. Enrollment is limited to qualified students by special arrangement with the supervising faculty member and with the approval of the department chair. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
   }
 ]

@@ -147,8 +147,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13380" },
-      { "term": "202360", "crn": "60441" },
-      { "term": "202340", "crn": "40450" },
       { "term": "202330", "crn": "31763" },
       { "term": "202310", "crn": "13844" },
       { "term": "202260", "crn": "60468" }
@@ -182,7 +180,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "40058" }],
+    "sections": [
+      { "term": "202410", "crn": "20992" },
+      { "term": "202330", "crn": "40058" }
+    ],
     "description": "Studies how to conduct scientific research in exercise science. Offers students an opportunity to propose a research project and design appropriate methodology to complete the project. Includes discussions on developing research hypotheses, comparing study designs, selecting appropriate statistical analyses, and managing data collection. Incorporates interpretation of published research to support the proposed research. Students present their own research plans through scientific writing.",
     "coreqs": [],
     "prereqs": []

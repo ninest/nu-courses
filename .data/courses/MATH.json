@@ -120,7 +120,8 @@
       { "term": "202410", "crn": "14648" },
       { "term": "202410", "crn": "17989" },
       { "term": "202410", "crn": "18053" },
-      { "term": "202360", "crn": "61411" },
+      { "term": "202410", "crn": "21116" },
+      { "term": "202360", "crn": "61556" },
       { "term": "202340", "crn": "40011" },
       { "term": "202340", "crn": "40116" },
       { "term": "202330", "crn": "30334" },
@@ -301,7 +302,6 @@
       { "term": "202410", "crn": "10370" },
       { "term": "202410", "crn": "12839" },
       { "term": "202410", "crn": "11102" },
-      { "term": "202410", "crn": "11232" },
       { "term": "202410", "crn": "11233" },
       { "term": "202410", "crn": "11345" },
       { "term": "202410", "crn": "13428" },
@@ -311,6 +311,9 @@
       { "term": "202410", "crn": "18485" },
       { "term": "202410", "crn": "19147" },
       { "term": "202410", "crn": "19148" },
+      { "term": "202410", "crn": "21117" },
+      { "term": "202410", "crn": "21118" },
+      { "term": "202410", "crn": "21119" },
       { "term": "202330", "crn": "39902" },
       { "term": "202330", "crn": "30321" },
       { "term": "202330", "crn": "32523" },
@@ -433,6 +436,7 @@
     "sections": [
       { "term": "202410", "crn": "10528" },
       { "term": "202410", "crn": "10126" },
+      { "term": "202410", "crn": "21009" },
       { "term": "202410", "crn": "11343" },
       { "term": "202410", "crn": "13430" },
       { "term": "202410", "crn": "13431" },
@@ -596,7 +600,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13937" },
-      { "term": "202410", "crn": "15278" },
       { "term": "202410", "crn": "13952" },
       { "term": "202410", "crn": "13951" },
       { "term": "202410", "crn": "13950" },
@@ -1215,6 +1218,28 @@
   },
   {
     "subject": "MATH",
+    "number": "4577",
+    "title": "Commutative Algebra",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20517" }],
+    "description": "Introduces the basics of commutative algebra. Emphasizes rigorously building the mathematical background needed for studying this subject in more depth. Seeks to prepare students for more advanced classes in algebraic geometry, robotics, invariant theory of finite groups, and cryptography. Covers geometry, algebra, and algorithms; Grobner bases; elimination theory; the algebra-geometry dictionary; robotics and automatic geometric theorem proving.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "MATH", "number": "2331" },
+      "And",
+      { "subject": "MATH", "number": "1365" },
+      ")",
+      "Or",
+      { "subject": "MATH", "number": "3175" },
+      "Or",
+      { "subject": "MATH", "number": "4576" }
+    ]
+  },
+  {
+    "subject": "MATH",
     "number": "4581",
     "title": "Statistics and Stochastic Processes",
     "scheduleType": "Lecture",
@@ -1288,7 +1313,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20495" }],
+    "sections": [],
     "description": "Reviews actuarial models for life insurance, including survival models, life tables, life insurance, life annuities, premium and policy values, multiple state models, joint-life and last survivor models, pensions, and emerging costs for life insurance. Designed to be especially useful for students preparing for the fourth actuarial exam, LTAM (Long-Term Actuarial Mathematics), of the Society of Actuaries.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "4682" }]
@@ -1438,7 +1463,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "52413" }],
+    "sections": [],
     "description": "Offers students an opportunity for internship work. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1453,8 +1478,8 @@
     "sections": [
       { "term": "202410", "crn": "12965" },
       { "term": "202360", "crn": "61146" },
-      { "term": "202340", "crn": "40427" },
-      { "term": "202350", "crn": "50463" },
+      { "term": "202340", "crn": "42111" },
+      { "term": "202350", "crn": "53030" },
       { "term": "202330", "crn": "32537" },
       { "term": "202310", "crn": "13348" },
       { "term": "202260", "crn": "61512" },
@@ -1507,7 +1532,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "18691" }],
+    "sections": [
+      { "term": "202410", "crn": "20519" },
+      { "term": "202310", "crn": "18691" }
+    ],
     "description": "Continues MATH 5121. Introduces homology and cohomology theory. Studies singular homology, homological algebra (exact sequences, axioms), Mayer-Vietoris sequence, CW-complexes and cellular homology, calculation of homology of cellular spaces, and homology with coefficients. Moves on to cohomology theory, universal coefficients theorems, Bockstein homomorphism, Knnneth formula, cup and cap products, Hopf invariant, Borsuk-Ulam theorem, and Brouwer and Lefschetz-Hopf fixed-point theorems. Ends with a study of duality in manifolds including orientation bundle, Poincaré duality, Lefschetz duality, Alexander duality, Euler class, Lefschetz numbers, Gysin sequence, intersection form, and signature.",
     "coreqs": [],
     "prereqs": []
@@ -1546,7 +1574,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31454" }],
+    "sections": [
+      { "term": "202410", "crn": "20548" },
+      { "term": "202330", "crn": "31454" }
+    ],
     "description": "Offers theory and methods of maximizing and minimizing solutions to various types of problems. Studies combinatorial problems including mixed integer programming problems (MIP); pure integer programming problems (IP); Boolean programming problems; and linear programming problems (LP). Topics include convex subsets and polyhedral subsets of n-space; relationship between an LP problem and its dual LP problem, and the duality theorem; simplex algorithm, and Kuhn-Tucker conditions for optimality for nonlinear functions; and network problems, such as minimum cost and maximum flow-minimum cut. Also may cover complexity of algorithms; problem classes P (problems with polynomial-time algorithms) and NP (problems with nondeterministic polynomial-time algorithms); Turing machines; and NP-completeness of traveling salesman problem and other well-known problems.",
     "coreqs": [],
     "prereqs": []
@@ -1582,6 +1613,22 @@
     "description": "Introduces both the mathematical theory of learning and the implementation of modern machine-learning algorithms appropriate for data science. Modeling everything from social organization to financial predictions, machine-learning algorithms allow us to discover information about complex systems, even when the underlying probability distributions are unknown. Algorithms discussed include regression, decision trees, clustering, and dimensionality reduction. Offers students an opportunity to learn the implications of the mathematical choices underpinning the use of each algorithm, how the results can be interpreted in actionable ways, and how to apply their knowledge through the analysis of a variety of data sets and models.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "MATH",
+    "number": "7301",
+    "title": "Functional Analysis",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20527" }],
+    "description": "Provides an introduction to essential results of functional analysis and some of its applications. The main abstract facts can be understood independently. Proof of some important basic theorems about Hilbert and Banach spaces (Hahn-Banach theorem, open mapping theorem) are omitted, in order to allow more time for applications of the abstract techniques, such as compact operators; Peter-Weyl theorem for compact groups; spectral theory; Gelfand's theory of commutative C*-algebras; mean ergodic theorem; Fourier transforms and Sobolev embedding theorems; and distributions and elliptic operators.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "MATH", "number": "5102" },
+      "Or",
+      { "subject": "MATH", "number": "5102" }
+    ]
   },
   {
     "subject": "MATH",
@@ -1662,10 +1709,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202340", "crn": "41758" },
-      { "term": "202240", "crn": "41081" }
-    ],
+    "sections": [{ "term": "202240", "crn": "41081" }],
     "description": "Continues MATH 7241. Studies probability theory, with an emphasis on its use in modeling and queueing theory. Starts with basic properties of exponential random variables, and then applies this to the study of the Poisson process. Queueing theory forms the bulk of the course, with analysis of single-server queues, multiserver queues, and networks of queues. Also includes material on continuous-time Markov processes, renewal theory, and Brownian motion.",
     "coreqs": [],
     "prereqs": [
@@ -1715,12 +1759,31 @@
   },
   {
     "subject": "MATH",
+    "number": "7359",
+    "title": "Elliptic Curves and Modular Forms",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "20718" }],
+    "description": "Introduces elliptic curves and modular forms. Examines elliptic curves as algebraic varieties over the complex numbers, finite fields, and local and global fields. Related topics include the j-invariant, the Tate module and the Weil pairing, zeta functions and the Weil conjectures, and the Mordell-Weil theorem. Modular forms are defined on moduli spaces of elliptic curves. Related topics include Eisenstein series, cusp forms, congruence subgroups of SL2(Z), modularity and the Taniyama-Shimura conjecture, and Fermat’s Last Theorem.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "MATH", "number": "5111" },
+      "Or",
+      { "subject": "MATH", "number": "5112" }
+    ]
+  },
+  {
+    "subject": "MATH",
     "number": "7362",
     "title": "Topics in Algebra",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39098" }],
+    "sections": [
+      { "term": "202410", "crn": "20513" },
+      { "term": "202330", "crn": "39098" }
+    ],
     "description": "Focuses on various advanced topics in algebra, the specific subject matter depending on the interests of the instructor and of the students. Topics may include homological algebra, commutative algebra, representation theory, or combinatorial aspects of commutative algebra. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1837,6 +1900,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202340", "crn": "42211" },
       { "term": "202330", "crn": "39099" },
       { "term": "202310", "crn": "20431" }
     ],
@@ -1883,7 +1947,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "16132" }],
+    "sections": [
+      { "term": "202410", "crn": "20857" },
+      { "term": "202310", "crn": "16132" }
+    ],
     "description": "Introduces graduate students to current research in geometry, topology, mathematical physics, and in other areas of mathematics. Requires permission of instructor for undergraduate mathematics students. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1931,6 +1998,12 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "20741" },
+      { "term": "202410", "crn": "20749" },
+      { "term": "202360", "crn": "61577" },
+      { "term": "202360", "crn": "61627" },
+      { "term": "202340", "crn": "42095" },
+      { "term": "202340", "crn": "42289" },
       { "term": "202330", "crn": "39782" },
       { "term": "202260", "crn": "61424" },
       { "term": "202260", "crn": "61426" }
@@ -1947,6 +2020,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202360", "crn": "61545" },
+      { "term": "202360", "crn": "61628" },
+      { "term": "202340", "crn": "42096" },
       { "term": "202310", "crn": "18695" },
       { "term": "202310", "crn": "20271" },
       { "term": "202310", "crn": "20524" },
@@ -1964,6 +2040,16 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "20742" },
+      { "term": "202410", "crn": "20744" },
+      { "term": "202410", "crn": "20746" },
+      { "term": "202410", "crn": "20750" },
+      { "term": "202410", "crn": "20751" },
+      { "term": "202410", "crn": "21151" },
+      { "term": "202360", "crn": "61546" },
+      { "term": "202360", "crn": "61547" },
+      { "term": "202340", "crn": "42097" },
+      { "term": "202350", "crn": "53004" },
       { "term": "202330", "crn": "38671" },
       { "term": "202330", "crn": "38672" },
       { "term": "202330", "crn": "38673" },

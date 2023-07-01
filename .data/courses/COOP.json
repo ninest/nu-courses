@@ -5,9 +5,8 @@
     "title": "Co-op Work Experience",
     "scheduleType": "Off-campus instruction",
     "credits": 0,
-    "nuPath": [],
+    "nuPath": ["EX"],
     "sections": [
-      { "term": "202360", "crn": "61233" },
       { "term": "202350", "crn": "52351" },
       { "term": "202260", "crn": "61600" }
     ],

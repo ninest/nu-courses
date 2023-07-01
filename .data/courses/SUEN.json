@@ -153,10 +153,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [
-      { "term": "202340", "crn": "41606" },
-      { "term": "202240", "crn": "41972" }
-    ],
+    "sections": [{ "term": "202240", "crn": "41972" }],
     "description": "Offers independent work under the direction of members of the department and/or interdisciplinary faculty. Course content is defined and approved by instructor. May be repeated up to 11 times for up to 12 total credits.",
     "coreqs": [],
     "prereqs": []

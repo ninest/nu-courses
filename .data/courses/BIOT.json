@@ -15,6 +15,9 @@
       { "term": "202410", "crn": "15948" },
       { "term": "202410", "crn": "16561" },
       { "term": "202410", "crn": "19984" },
+      { "term": "202410", "crn": "20874" },
+      { "term": "202410", "crn": "20917" },
+      { "term": "202410", "crn": "21230" },
       { "term": "202330", "crn": "33242" },
       { "term": "202330", "crn": "33753" },
       { "term": "202330", "crn": "35843" },
@@ -52,6 +55,8 @@
       { "term": "202410", "crn": "19985" },
       { "term": "202410", "crn": "19986" },
       { "term": "202410", "crn": "20116" },
+      { "term": "202410", "crn": "20883" },
+      { "term": "202410", "crn": "20884" },
       { "term": "202360", "crn": "61334" },
       { "term": "202330", "crn": "33241" },
       { "term": "202330", "crn": "34480" },
@@ -90,6 +95,9 @@
       { "term": "202410", "crn": "19988" },
       { "term": "202410", "crn": "20117" },
       { "term": "202410", "crn": "20118" },
+      { "term": "202410", "crn": "20875" },
+      { "term": "202410", "crn": "20858" },
+      { "term": "202410", "crn": "21232" },
       { "term": "202350", "crn": "52528" },
       { "term": "202330", "crn": "33244" },
       { "term": "202330", "crn": "33245" },
@@ -165,6 +173,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13423" },
+      { "term": "202410", "crn": "20868" },
       { "term": "202310", "crn": "13898" }
     ],
     "description": "Introduces the fundamental molecular interactions involved in immunological responses as well as in measuring and testing in a research and regulated environment. Other drug-safety-related topics include adventitious agents (viruses, microorganisms, mycoplasma) and risk factors such as product-related substances (aggregates and post-translationally modified variants), endotoxins, DNA, host-cell proteins, process contaminants such as antibiotics, and the means of testing and removing these through validated processes.",
@@ -225,6 +234,7 @@
       { "term": "202410", "crn": "13421" },
       { "term": "202410", "crn": "13422" },
       { "term": "202410", "crn": "19989" },
+      { "term": "202410", "crn": "20847" },
       { "term": "202330", "crn": "35847" },
       { "term": "202310", "crn": "13896" },
       { "term": "202310", "crn": "13897" }
@@ -250,6 +260,24 @@
   },
   {
     "subject": "BIOT",
+    "number": "5621",
+    "title": "Protein Principles in Biotechnology",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "20960" },
+      { "term": "202410", "crn": "20973" },
+      { "term": "202410", "crn": "20967" },
+      { "term": "202410", "crn": "20968" },
+      { "term": "202410", "crn": "20969" }
+    ],
+    "description": "Discusses the fundamentals in structural biology and biochemistry in drug design and applied biotechnology with special focus on protein chemistry. Explores the nature, structure, and function of proteins in the context of analytical analysis, molecular medicine, and drug discovery. Emphasizes bioinformatics and computational systems biology. Specifically investigates the analysis of ongoing research projects, case studies, and practical concepts of biotechnology.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BIOT",
     "number": "5631",
     "title": "Cell Culture Processes for Biopharmaceutical Production",
     "scheduleType": "Lecture",
@@ -264,6 +292,9 @@
       { "term": "202410", "crn": "15959" },
       { "term": "202410", "crn": "19990" },
       { "term": "202410", "crn": "20119" },
+      { "term": "202410", "crn": "20876" },
+      { "term": "202410", "crn": "20877" },
+      { "term": "202410", "crn": "21231" },
       { "term": "202340", "crn": "41676" },
       { "term": "202330", "crn": "33243" },
       { "term": "202330", "crn": "33262" },
@@ -330,6 +361,7 @@
     "sections": [
       { "term": "202410", "crn": "11710" },
       { "term": "202410", "crn": "13418" },
+      { "term": "202410", "crn": "20853" },
       { "term": "202310", "crn": "11927" },
       { "term": "202310", "crn": "13893" }
     ],
@@ -355,6 +387,8 @@
       { "term": "202410", "crn": "19991" },
       { "term": "202410", "crn": "19992" },
       { "term": "202410", "crn": "20401" },
+      { "term": "202410", "crn": "20855" },
+      { "term": "202410", "crn": "21034" },
       { "term": "202340", "crn": "41961" },
       { "term": "202310", "crn": "13408" },
       { "term": "202310", "crn": "13517" },
@@ -371,7 +405,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20034" }],
+    "sections": [
+      { "term": "202410", "crn": "20034" },
+      { "term": "202410", "crn": "20850" }
+    ],
     "description": "The ever-changing landscape of the biotechnology field requires constant training. This course is designed to familiarize participants with some of the most cutting-edge topics available in molecular biology today: stem cells, RNA interference, CRISPR/CAS9, CAR T-cells, gene therapy, and more. Offers participants an opportunity to learn the theory behind these new technologies, how they are done, and their power in scientific discovery and treatment.",
     "coreqs": [],
     "prereqs": []
@@ -545,6 +582,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15065" },
+      { "term": "202410", "crn": "20845" },
+      { "term": "202410", "crn": "20934" },
       { "term": "202310", "crn": "16248" }
     ],
     "description": "Discusses the importance of sterile operations in producing drug products, as part of good manufacturing practice (GMP). Emphasizes sterile manufacturing operations for all drugs.",
@@ -559,6 +598,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202360", "crn": "61583" },
       { "term": "202350", "crn": "50236" },
       { "term": "202350", "crn": "51908" },
       { "term": "202350", "crn": "52853" }
@@ -579,6 +619,8 @@
       { "term": "202410", "crn": "13136" },
       { "term": "202410", "crn": "18755" },
       { "term": "202410", "crn": "20362" },
+      { "term": "202410", "crn": "20537" },
+      { "term": "202410", "crn": "20538" },
       { "term": "202350", "crn": "52634" },
       { "term": "202330", "crn": "31993" },
       { "term": "202330", "crn": "32603" },
@@ -615,7 +657,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "19352" },
-      { "term": "202350", "crn": "50787" },
       { "term": "202330", "crn": "40443" },
       { "term": "202310", "crn": "21806" }
     ],
@@ -634,12 +675,19 @@
       { "term": "202410", "crn": "15312" },
       { "term": "202410", "crn": "17899" },
       { "term": "202410", "crn": "17900" },
+      { "term": "202360", "crn": "61648" },
+      { "term": "202360", "crn": "61673" },
       { "term": "202360", "crn": "61335" },
       { "term": "202360", "crn": "61336" },
+      { "term": "202340", "crn": "42110" },
+      { "term": "202340", "crn": "42113" },
       { "term": "202340", "crn": "41473" },
       { "term": "202340", "crn": "41474" },
+      { "term": "202350", "crn": "53044" },
       { "term": "202350", "crn": "51396" },
       { "term": "202350", "crn": "52262" },
+      { "term": "202350", "crn": "53045" },
+      { "term": "202350", "crn": "53369" },
       { "term": "202330", "crn": "40079" },
       { "term": "202310", "crn": "16649" },
       { "term": "202310", "crn": "20326" },
@@ -666,6 +714,8 @@
       { "term": "202410", "crn": "18813" },
       { "term": "202360", "crn": "60830" },
       { "term": "202360", "crn": "61190" },
+      { "term": "202340", "crn": "42126" },
+      { "term": "202350", "crn": "53057" },
       { "term": "202330", "crn": "40140" },
       { "term": "202310", "crn": "21259" },
       { "term": "202260", "crn": "61158" },
@@ -706,6 +756,7 @@
       { "term": "202410", "crn": "20066" },
       { "term": "202410", "crn": "20067" },
       { "term": "202360", "crn": "61337" },
+      { "term": "202340", "crn": "42138" },
       { "term": "202350", "crn": "52545" },
       { "term": "202350", "crn": "52546" },
       { "term": "202330", "crn": "31804" },

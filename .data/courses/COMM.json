@@ -8,7 +8,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10465" },
-      { "term": "202410", "crn": "11653" },
       { "term": "202410", "crn": "10744" },
       { "term": "202330", "crn": "33716" },
       { "term": "202310", "crn": "10499" },
@@ -55,7 +54,6 @@
       { "term": "202410", "crn": "10319" },
       { "term": "202410", "crn": "15516" },
       { "term": "202410", "crn": "17205" },
-      { "term": "202410", "crn": "11154" },
       { "term": "202410", "crn": "12075" },
       { "term": "202410", "crn": "12829" },
       { "term": "202410", "crn": "14019" },
@@ -66,6 +64,7 @@
       { "term": "202410", "crn": "20247" },
       { "term": "202360", "crn": "60196" },
       { "term": "202360", "crn": "61048" },
+      { "term": "202360", "crn": "61619" },
       { "term": "202360", "crn": "61123" },
       { "term": "202360", "crn": "61511" },
       { "term": "202340", "crn": "40030" },
@@ -127,7 +126,6 @@
       { "term": "202410", "crn": "12831" },
       { "term": "202410", "crn": "19553" },
       { "term": "202410", "crn": "14493" },
-      { "term": "202410", "crn": "19554" },
       { "term": "202360", "crn": "61304" },
       { "term": "202360", "crn": "60676" },
       { "term": "202360", "crn": "61055" },
@@ -163,6 +161,7 @@
     "nuPath": ["FQ"],
     "sections": [
       { "term": "202410", "crn": "17207" },
+      { "term": "202410", "crn": "21210" },
       { "term": "202330", "crn": "38488" },
       { "term": "202330", "crn": "40176" }
     ],
@@ -243,6 +242,7 @@
     "sections": [
       { "term": "202410", "crn": "19555" },
       { "term": "202410", "crn": "19556" },
+      { "term": "202410", "crn": "21062" },
       { "term": "202360", "crn": "60355" },
       { "term": "202340", "crn": "40374" },
       { "term": "202330", "crn": "32525" },
@@ -293,7 +293,6 @@
     "nuPath": ["IC", "SI"],
     "sections": [
       { "term": "202410", "crn": "11267" },
-      { "term": "202410", "crn": "14021" },
       { "term": "202330", "crn": "34345" },
       { "term": "202330", "crn": "33718" },
       { "term": "202310", "crn": "11430" },
@@ -311,7 +310,6 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
-      { "term": "202410", "crn": "13645" },
       { "term": "202360", "crn": "60631" },
       { "term": "202310", "crn": "14157" },
       { "term": "202260", "crn": "60805" },
@@ -345,10 +343,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ER"],
-    "sections": [
-      { "term": "202410", "crn": "19557" },
-      { "term": "202330", "crn": "38596" }
-    ],
+    "sections": [{ "term": "202330", "crn": "38596" }],
     "description": "Focuses on ethical principles, issues, and dilemmas in communication. Covers professional codes as well as personal, interpersonal, small group, organizational, and societal factors affecting ethical mediated communication. Designed to stimulate the moral imagination, reveal ethical issues inherent in communication, and provide resources for making and defending choices on ethical grounds.",
     "coreqs": [],
     "prereqs": []
@@ -472,7 +467,6 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
-      { "term": "202410", "crn": "12400" },
       { "term": "202410", "crn": "10970" },
       { "term": "202410", "crn": "11045" },
       { "term": "202360", "crn": "60221" },
@@ -528,12 +522,9 @@
     "sections": [
       { "term": "202410", "crn": "11429" },
       { "term": "202410", "crn": "11430" },
-      { "term": "202410", "crn": "12808" },
       { "term": "202410", "crn": "13035" },
-      { "term": "202410", "crn": "14023" },
       { "term": "202360", "crn": "60354" },
       { "term": "202340", "crn": "40187" },
-      { "term": "202340", "crn": "41635" },
       { "term": "202330", "crn": "39550" },
       { "term": "202330", "crn": "38491" },
       { "term": "202330", "crn": "31666" },
@@ -645,7 +636,6 @@
     "nuPath": ["EI"],
     "sections": [
       { "term": "202410", "crn": "13646" },
-      { "term": "202410", "crn": "15173" },
       { "term": "202340", "crn": "41191" },
       { "term": "202330", "crn": "38495" },
       { "term": "202330", "crn": "34350" },
@@ -680,7 +670,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["SI"],
-    "sections": [{ "term": "202410", "crn": "20503" }],
+    "sections": [],
     "description": "Surveys core concepts, histories, and controversies in the design, use, and critical study of communication technologies that both shape and are shaped by social relationships and social institutions (such as work, education, religion, and the family). Offers students an opportunity to learn about different definitions of communication, technology, and society; examine the values and assumptions of social actors who build communication technologies across various cultures and countries; and gain insights into how communication technologies are interpreted, resisted, and remade through ever-shifting institutional and interpersonal social dynamics. Through canonical works and contemporary case studies, students examine communication, technology, and society in the context of relationships, design, identity, mobility, value, labor, ethics, community, and belonging.",
     "coreqs": [],
     "prereqs": []
@@ -741,10 +731,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC"],
-    "sections": [
-      { "term": "202410", "crn": "19563" },
-      { "term": "202340", "crn": "41636" }
-    ],
+    "sections": [{ "term": "202340", "crn": "41636" }],
     "description": "Offers students an opportunity to engage with a specific genre, using historical and critical methods, to better understand this reciprocal relationship between a people and their moment. Successful completion of this course enables one to recall, compare, and give examples of key concepts and theories in popular communication; understand how the popular shapes and is shaped by its people; understand the historical context of a popular genre; critically analyze a genre with respect to social, economic, and political values and events; and demonstrate proficiency in communicating one's analyses. Genres of popular communication—be they self-help books, speculative fiction, or fashion blogs—reflect the aspirations and fears of a people at their moment in history. Simultaneously, popular communication shapes people’s sense of identity, purpose, and worth.",
     "coreqs": [],
     "prereqs": []
@@ -841,10 +828,12 @@
       { "term": "202410", "crn": "17213" },
       { "term": "202410", "crn": "13036" },
       { "term": "202410", "crn": "19564" },
+      { "term": "202360", "crn": "61634" },
       { "term": "202360", "crn": "60386" },
       { "term": "202360", "crn": "61064" },
       { "term": "202340", "crn": "40145" },
       { "term": "202340", "crn": "41389" },
+      { "term": "202340", "crn": "42200" },
       { "term": "202330", "crn": "35016" },
       { "term": "202330", "crn": "38497" },
       { "term": "202330", "crn": "39984" },
@@ -876,6 +865,7 @@
     "credits": 4,
     "nuPath": ["DD", "WI"],
     "sections": [
+      { "term": "202410", "crn": "20672" },
       { "term": "202410", "crn": "19565" },
       { "term": "202330", "crn": "33722" },
       { "term": "202310", "crn": "14043" }
@@ -902,6 +892,7 @@
     "sections": [
       { "term": "202410", "crn": "19566" },
       { "term": "202410", "crn": "15176" },
+      { "term": "202410", "crn": "18281" },
       { "term": "202330", "crn": "39547" },
       { "term": "202310", "crn": "16401" },
       { "term": "202310", "crn": "20714" }
@@ -1004,6 +995,7 @@
     "nuPath": ["ER", "WI"],
     "sections": [
       { "term": "202410", "crn": "13135" },
+      { "term": "202410", "crn": "20903" },
       { "term": "202330", "crn": "33277" },
       { "term": "202310", "crn": "13544" }
     ],
@@ -1154,10 +1146,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "19653" },
-      { "term": "202330", "crn": "38597" }
-    ],
+    "sections": [{ "term": "202330", "crn": "38597" }],
     "description": "Demonstrates practices and techniques employed in the field including organization of events and functions. Studies campaign planning, research, and media relationships.",
     "coreqs": [],
     "prereqs": [{ "subject": "JRNL", "number": "3425" }]
@@ -1169,7 +1158,7 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": ["EI"],
-    "sections": [{ "term": "202410", "crn": "19569" }],
+    "sections": [],
     "description": "Addresses the changes in editing practices through digitization and offers students advanced training in nonlinear editing utilizing Avid Media Composer. Introduces the terms and concepts of nonlinear editing as well as the technical/creative aspects of postproduction. Students are expected to have a working knowledge of digital video equipment and Macintosh computer skills.",
     "coreqs": [],
     "prereqs": []
@@ -1196,12 +1185,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "19571" },
-      { "term": "202410", "crn": "19572" },
-      { "term": "202410", "crn": "19573" },
-      { "term": "202330", "crn": "39246" }
-    ],
+    "sections": [{ "term": "202330", "crn": "39246" }],
     "description": "Immerses students in a real-life television newsroom experience. Exposes students to all aspects of TV news production: from news gathering, producing, and being in front of the camera to the behind-the-scenes work of operating multiple cameras, live switching, audio mixing, and studio lighting. Allows students to be an integral part of a newsroom team, working as reporters, anchors, videographers, and editors to gather content and work in the studio to produce a Northeastern newscast covering news on campus and beyond. Involves hands-on reporting and production where the stories are real and so are the deadlines.",
     "coreqs": [],
     "prereqs": []
@@ -1261,7 +1245,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["CE", "IC"],
-    "sections": [{ "term": "202410", "crn": "15178" }],
+    "sections": [],
     "description": "Exposes students to contemporary perspectives on rhetorical theory and its use in society. 'Contemporary' refers to the models and  theorists from the second halves  of the 20th and the 21st centuries.  'Rhetoric' refers to strategic communication employed to reach the persuasive goal of an agent. 'Theory' is used in the holistic sense as the interested observation and careful scrutiny of an object. As a capstone course, the course also provides a transition for students from the role of receptive learners to independent researchers who can identify, answer, and defend research questions at the intersection of rhetorical theory and its neighbors (theories of argumentation, humor, style, politeness, courtship, and the like).",
     "coreqs": [],
     "prereqs": []
@@ -1296,7 +1280,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["CE", "EX"],
-    "sections": [{ "term": "202330", "crn": "32055" }],
+    "sections": [
+      { "term": "202410", "crn": "20677" },
+      { "term": "202330", "crn": "32055" }
+    ],
     "description": "Offers students an opportunity to complete a semester-long, intensive research and writing capstone project related to the field of strategic communication. Research topics can span business, politics, advocacy, entertainment, public health, the environment, and other societal sectors. Building on previous course work, students have an opportunity to gain a deeper scholarly and professional understanding of strategic communication; cultivate professional and academic contacts; and demonstrate mastery of relevant theoretical concepts, professional principles, research methods, and writing approaches. Encourages students to share and translate their findings for relevant academic and professional communities.",
     "coreqs": [],
     "prereqs": []
@@ -1475,7 +1462,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36859" }],
+    "sections": [
+      { "term": "202410", "crn": "20678" },
+      { "term": "202330", "crn": "36859" }
+    ],
     "description": "Offers students an opportunity to complete a semester-long, intensive research and writing capstone project related to the field of strategic communication. Research topics can span business, politics, advocacy, entertainment, public health, the environment, and other societal sectors. Building on previous course work, students have an opportunity to gain a deeper scholarly and professional understanding of strategic communication; cultivate professional and academic contacts; and demonstrate mastery of relevant theoretical concepts, professional principles, research methods, and writing approaches. Encourages students to share and translate their findings for relevant academic and professional communities.",
     "coreqs": [],
     "prereqs": []

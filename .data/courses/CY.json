@@ -11,8 +11,8 @@
       { "term": "202410", "crn": "14930" },
       { "term": "202410", "crn": "14931" },
       { "term": "202410", "crn": "16861" },
-      { "term": "202410", "crn": "18269" },
       { "term": "202360", "crn": "61365" },
+      { "term": "202360", "crn": "61579" },
       { "term": "202340", "crn": "41357" },
       { "term": "202340", "crn": "41718" },
       { "term": "202330", "crn": "33655" },
@@ -30,7 +30,11 @@
     ],
     "description": "Presents an overview of basic principles and security concepts related to information systems, including workstation security, system security, and communications security. Discusses legal, ethical, and human factors and professional issues associated with cybersecurity, including the ability to differentiate between laws and ethics. Offers students an opportunity to use a substantial variety of existing software tools to probe both computer systems and networks in order to learn how these systems function, how data moves within these systems, and how these systems might be vulnerable. Covers security methods, controls, procedures, economics of cybercrime, criminal procedure, and forensics.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CS", "number": "2500" }]
+    "prereqs": [
+      { "subject": "CS", "number": "2500" },
+      "Or",
+      { "subject": "DS", "number": "2000" }
+    ]
   },
   {
     "subject": "CY",
@@ -47,6 +51,18 @@
     "description": "Introduces the fundamental principles of designing and implementing secure programs and systems. Presents and analyzes prevalent classes of attacks against systems. Discusses techniques for identifying the presence of vulnerabilities in system design and implementation, preventing the introduction of or successful completion of attacks, limiting the damage incurred by attacks, and strategies for recovering from system compromises. Offers opportunities for hands-on practice of real-world attack and defense in several domains, including systems administration, the Web, and mobile devices. Presents the ethical considerations of security research and practice.",
     "coreqs": [],
     "prereqs": [{ "subject": "CS", "number": "3650" }]
+  },
+  {
+    "subject": "CY",
+    "number": "4170",
+    "title": "The Law, Ethics, and Policy of Data and Digital Technologies",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["ER", "WI"],
+    "sections": [{ "term": "202410", "crn": "21001" }],
+    "description": "Describes the legal and ethical issues associated with collection, use, disclosure, and protection of digital information. Emphasizes legal infrastructure relating to privacy, data ethics, data security, hacking, automation, and intellectual property. Articulates the basic set of rules and rights that are relevant to data practices and protection, evaluates how these rules apply in context, and critically analyzes their efficacy and social impact.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "CY",
@@ -183,6 +199,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "20699" },
       { "term": "202330", "crn": "34445" },
       { "term": "202310", "crn": "13988" }
     ],
@@ -402,6 +419,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "20704" },
       { "term": "202330", "crn": "38775" },
       { "term": "202330", "crn": "35732" },
       { "term": "202310", "crn": "15067" },
@@ -413,16 +431,34 @@
   },
   {
     "subject": "CY",
+    "number": "7995",
+    "title": "Project",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202350", "crn": "53174" }],
+    "description": "Offers students an opportunity to participate in a direct cybersecurity project under the supervision of a faculty member. May be repeated once for a total of 8 credits.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CY",
     "number": "8982",
     "title": "Readings",
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "20778" },
       { "term": "202410", "crn": "18041" },
       { "term": "202410", "crn": "18819" },
       { "term": "202350", "crn": "52843" },
       { "term": "202350", "crn": "52844" },
+      { "term": "202350", "crn": "52999" },
+      { "term": "202350", "crn": "53000" },
+      { "term": "202350", "crn": "53120" },
+      { "term": "202350", "crn": "53121" },
+      { "term": "202350", "crn": "52996" },
       { "term": "202330", "crn": "35090" },
       { "term": "202330", "crn": "35134" },
       { "term": "202330", "crn": "35183" },
@@ -446,6 +482,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "20831" },
       { "term": "202410", "crn": "18729" },
       { "term": "202410", "crn": "19221" },
       { "term": "202310", "crn": "21173" },
@@ -465,7 +502,6 @@
     "sections": [
       { "term": "202410", "crn": "15953" },
       { "term": "202410", "crn": "19051" },
-      { "term": "202410", "crn": "18810" },
       { "term": "202410", "crn": "19054" },
       { "term": "202330", "crn": "40162" },
       { "term": "202330", "crn": "40331" },
@@ -488,9 +524,12 @@
     "sections": [
       { "term": "202410", "crn": "15569" },
       { "term": "202410", "crn": "16184" },
+      { "term": "202410", "crn": "20771" },
       { "term": "202410", "crn": "18957" },
-      { "term": "202350", "crn": "52808" },
       { "term": "202350", "crn": "52880" },
+      { "term": "202350", "crn": "52964" },
+      { "term": "202350", "crn": "53104" },
+      { "term": "202350", "crn": "53362" },
       { "term": "202330", "crn": "35120" },
       { "term": "202330", "crn": "37619" },
       { "term": "202330", "crn": "37706" },
