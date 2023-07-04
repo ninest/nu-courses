@@ -74,15 +74,20 @@ searchRouter.post("/", async (c) => {
           `${DATA_DIR_PATH}/all-courses.json`
         )) as Course[];
         courses.forEach((course) => {
-          // TODO: fuzzy search
-          if (
-            course.subject.toLowerCase().includes(searchGroup.query.trim()) ||
-            course.title.toLowerCase().includes(searchGroup.query.trim()) ||
-            course.description?.toLowerCase().includes(searchGroup.query.trim()) ||
-            course.number?.toLowerCase().includes(searchGroup.query.trim())
-          ) {
-            results.push(course);
-          }
+          searchGroup.query
+            .trim()
+            .split(" ")
+            .forEach((part) => {
+              // TODO: fuzzy search
+              if (
+                course.subject.toLowerCase().includes(part.toLocaleLowerCase()) ||
+                course.title.toLowerCase().includes(part.toLocaleLowerCase()) ||
+                course.description?.toLowerCase().includes(part.toLocaleLowerCase()) ||
+                course.number?.toLowerCase().includes(part.toLocaleLowerCase())
+              ) {
+                results.push(course);
+              }
+            });
         });
         break;
       }
