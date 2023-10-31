@@ -277,7 +277,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19998" }],
+    "sections": [],
     "description": "Focuses on one of a range of topics from the perspective of current linguistics, such as American dialectics, contemporary syntactic theory, language and law, women's and men's language, words and word structures, or issues in linguistics and literature. May be repeated without limit.",
     "coreqs": [],
     "prereqs": [

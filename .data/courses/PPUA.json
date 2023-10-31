@@ -89,10 +89,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "17244" },
-      { "term": "202310", "crn": "19619" }
-    ],
+    "sections": [{ "term": "202310", "crn": "19619" }],
     "description": "Examines the policy impacts of legal and illegal immigration in the United States, emphasizing the ways immigration shapes urban America. Discusses trends in immigration; elements of U.S. immigration policy; impacts of immigration on labor markets, economic development, housing, education, healthcare, criminal justice, race relations, and social policy (e.g., welfare); and effects on broader mass culture. Also considers the range of policy tools available in addressing these impacts.",
     "coreqs": [],
     "prereqs": []
@@ -479,7 +476,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20632" }],
+    "sections": [],
     "description": "Offers a high-level introduction to the past, current, and future states of the U.S. healthcare system, including key business and policy innovations introduced over time to improve access, quality, and affordability. Emphasizes learning about how the business and policy of healthcare works in the United States, with comparisons drawn to other countries’ healthcare systems. Analyzes the potential contributions to health system improvement made by healthcare reform, technologies such as artificial intelligence, and other disruptive innovations. Designed for graduate students interested in learning more about healthcare industry operations and the business and policy innovations that drive performance improvements in this sector.",
     "coreqs": [],
     "prereqs": []
@@ -720,10 +717,7 @@
     "scheduleType": "Off-campus instruction",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "19086" },
-      { "term": "202310", "crn": "21537" }
-    ],
+    "sections": [{ "term": "202310", "crn": "21537" }],
     "description": "Offers students who wish to pursue additional directed reading and independent research related to the internship placement an approved public- or nonprofit-sector internship. Students must complete minimum internship work hours as defined by academic program. Research project is determined in consultation with faculty. Supervising faculty assign a final integrative or reflective project. May be repeated once for up to 6 total credits.",
     "coreqs": [],
     "prereqs": []
@@ -736,7 +730,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18809" },
       { "term": "202360", "crn": "60801" },
       { "term": "202360", "crn": "61187" },
       { "term": "202310", "crn": "21255" },
@@ -756,12 +749,10 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "13219" },
       { "term": "202410", "crn": "18796" },
-      { "term": "202410", "crn": "14639" },
       { "term": "202410", "crn": "15951" },
       { "term": "202410", "crn": "14640" },
-      { "term": "202410", "crn": "18799" },
+      { "term": "202410", "crn": "21726" },
       { "term": "202360", "crn": "60580" },
       { "term": "202360", "crn": "60596" },
       { "term": "202360", "crn": "60797" },
@@ -810,7 +801,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18815" },
+      { "term": "202410", "crn": "21810" },
       { "term": "202360", "crn": "60599" },
       { "term": "202340", "crn": "42127" },
       { "term": "202330", "crn": "40141" },
@@ -912,10 +903,11 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18689" },
       { "term": "202410", "crn": "18989" },
       { "term": "202410", "crn": "21059" },
       { "term": "202410", "crn": "21069" },
+      { "term": "202410", "crn": "22286" },
+      { "term": "202410", "crn": "22408" },
       { "term": "202360", "crn": "60818" },
       { "term": "202330", "crn": "39100" },
       { "term": "202330", "crn": "40027" },
@@ -950,7 +942,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "19307" },
       { "term": "202360", "crn": "60712" },
       { "term": "202330", "crn": "40573" },
       { "term": "202310", "crn": "21761" },
@@ -969,9 +960,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13815" },
-      { "term": "202410", "crn": "14967" },
       { "term": "202410", "crn": "19008" },
-      { "term": "202410", "crn": "19056" },
       { "term": "202410", "crn": "19260" },
       { "term": "202350", "crn": "50812" },
       { "term": "202350", "crn": "53297" },
@@ -1014,6 +1003,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18378" },
+      { "term": "202410", "crn": "21656" },
       { "term": "202350", "crn": "53339" },
       { "term": "202330", "crn": "40100" },
       { "term": "202310", "crn": "20813" }
@@ -1047,9 +1037,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "14971" },
-      { "term": "202410", "crn": "15605" },
-      { "term": "202410", "crn": "17248" },
-      { "term": "202410", "crn": "19343" },
       { "term": "202410", "crn": "20743" },
       { "term": "202350", "crn": "51361" },
       { "term": "202350", "crn": "52316" },

@@ -44,18 +44,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [
-      { "term": "202410", "crn": "20353" },
-      { "term": "202360", "crn": "61345" },
-      { "term": "202330", "crn": "38252" }
-    ],
+    "sections": [{ "term": "202330", "crn": "38252" }],
     "description": "Examines popular and scientific notions about sex, gender relations, family, and kinship. Examines why our images of family, masculinity, and femininity are not universal by analyzing the patterns of sex roles, sexual practices, and kinship in other cultures. Discusses how and why relations between men and women change during times of socioeconomic and political change.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ANTH", "number": "1101" },
-      "Or",
-      { "subject": "SOCL", "number": "1101" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ANTH",

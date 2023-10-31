@@ -45,7 +45,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "19830" },
-      { "term": "202360", "crn": "60538" },
       { "term": "202330", "crn": "32892" }
     ],
     "description": "Studies fundamental principles in fluid mechanics and thermal systems analysis. Topics include hydrostatics (pressure distribution, forces on submerged surfaces, and buoyancy); Newton's law of viscosity; integral forms of basic laws (conservation of mass, momentum, and energy); pipe flow analysis; concept of boundary layer; and drag coefficient. Presents Navier-Stokes equations as differential forms of conservative properties. Introduces theories of thermal energy transport, including conduction, convection, and thermal radiation; the design of thermal systems; and fundamentals of calculus, such as linear algebra, vector fields, and curvilinear coordinate systems required for introducing concepts of fluid dynamics and heat transfer. Discusses surface and volume integrals, conservative vector fields, and surface flux. Green's, divergence, and Stokes theorems are introduced for vector and scalar fields.",
@@ -135,10 +134,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "20773" },
-      { "term": "202410", "crn": "20772" }
-    ],
+    "sections": [],
     "description": "Focuses on the principles and working fundamentals of photovoltaic (PV) energy conversion, while emphasizing currently available solar technologies. Studies the semiconductor processes and advanced characterization theories. Examines design, fabrication, characterization of the PV modules, and different generations of solar cells and their properties. Advanced topics include thin film cells, compound semiconductors multijunction, multiband cells, spectral conversion, and introduces organic devices. Offers insight about the energy consumption crisis, sustainable energy sources, PV system components, and solar markets. Also discusses issues relating to PV systems, economics, and sustainability.",
     "coreqs": [],
     "prereqs": []

@@ -59,7 +59,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "40422" }],
+    "sections": [
+      { "term": "202410", "crn": "21644" },
+      { "term": "202330", "crn": "40422" }
+    ],
     "description": "Continues PHDL 7662. Offers an authentic experience in an authentic setting to develop and present a plan for the demonstration of an organizational challenge and produce a written documentary report on the project to the satisfaction of an advising committee. Requires engagement and training with a sponsoring organization to improve a process and assess opportunity or a proposal solution that is of significant value to the organization and demonstrates a measurable impact while enhancing the PhD student’s PhD education and intellectual agility while fostering leadership development.",
     "coreqs": [],
     "prereqs": []

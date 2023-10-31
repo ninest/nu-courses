@@ -66,7 +66,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC"],
-    "sections": [{ "term": "202410", "crn": "20149" }],
+    "sections": [],
     "description": "Provides an introduction to some of the qualities that have made French film one of the great national cinemas. Focuses on both form and content; relates outstanding directors' major works to the French culture and society of their period. Conducted in English.",
     "coreqs": [],
     "prereqs": []

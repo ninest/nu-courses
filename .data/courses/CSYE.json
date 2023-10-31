@@ -7,7 +7,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "12892" },
+      { "term": "202410", "crn": "13315" },
       { "term": "202410", "crn": "18409" },
+      { "term": "202410", "crn": "18410" },
       { "term": "202410", "crn": "20157" },
       { "term": "202350", "crn": "52635" },
       { "term": "202330", "crn": "32900" },
@@ -60,13 +63,7 @@
     ],
     "description": "Designed to build on previous experience in concepts of object-oriented design courses with equal focus in the three areas of architecture, design, and implementation. Instruction and hands-on exercises cover both server-side and client-side web programming. Offers students an opportunity to build a conceptual understanding and to gain practical experience with popular frameworks (Spring MVC, Hibernate, and Dojo or jQuery) that increase productivity, empower developers, and greatly simplify web development. The goal is to be able to build the server side and client side of substantial web-based, client-server, database-intensive, multitier applications.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CSYE", "number": "6200" },
-      "Or",
-      { "subject": "CSYE", "number": "6202" },
-      "Or",
-      { "subject": "CSYE", "number": "6205" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CSYE",
@@ -76,6 +73,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "13306" },
       { "term": "202410", "crn": "13846" },
       { "term": "202410", "crn": "13209" },
       { "term": "202330", "crn": "32159" },
@@ -104,14 +102,20 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "13354" },
       { "term": "202410", "crn": "13765" },
-      { "term": "202410", "crn": "20557" },
+      { "term": "202410", "crn": "21519" },
+      { "term": "202410", "crn": "21475" },
       { "term": "202330", "crn": "33211" }
     ],
     "description": "Covers basic concepts of operating systems and system programming, such as utility programs, subsystems, and multiple-program systems. Main topics include processes, interprocess communication, and synchronization; memory allocation, segmentation, and paging; loading, linking, and libraries; resource allocation, scheduling, and performance evaluation; file systems, storage devices, and I/O systems; and protection, security, and privacy. Emphasizes key concepts through code design and development.",
     "coreqs": [],
-    "prereqs": [{ "subject": "INFO", "number": "6205" }]
+    "prereqs": [
+      { "subject": "CSYE", "number": "6200" },
+      "Or",
+      { "subject": "INFO", "number": "5100" },
+      "Or",
+      { "subject": "INFO", "number": "5100" }
+    ]
   },
   {
     "subject": "CSYE",
@@ -121,8 +125,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "14005" },
-      { "term": "202410", "crn": "18565" },
       { "term": "202330", "crn": "38560" },
       { "term": "202310", "crn": "21002" }
     ],
@@ -154,7 +156,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "14559" },
-      { "term": "202410", "crn": "20528" },
       { "term": "202310", "crn": "15390" },
       { "term": "202260", "crn": "61418" }
     ],
@@ -204,7 +205,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "10658" }],
+    "sections": [],
     "description": "Covers all aspects of concurrent program design, development, and implementation utilizing the Java multithreading API/facilities. Topics covered include thread safety and lifetime issues, block structured versus explicit synchronization, intrinsic versus explicit locking, thread pools, liveness issues, deadlock, livelock, race conditions, atomicity, performance and scalability, execution policies, test strategies. Major Java multithreading API/facilities covered include synchronized blocks, wait sets, intrinsic locks and condition variables, synchronized and concurrent collections, executor framework. Comparisons between the Java multithreading API and the Posix Pthreads multithreading standard are provided.",
     "coreqs": [],
     "prereqs": [
@@ -239,10 +240,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "14735" },
       { "term": "202410", "crn": "18911" },
-      { "term": "202410", "crn": "18983" },
-      { "term": "202410", "crn": "18973" },
       { "term": "202410", "crn": "19819" },
+      { "term": "202410", "crn": "21727" },
       { "term": "202330", "crn": "38561" },
       { "term": "202330", "crn": "38563" },
       { "term": "202310", "crn": "21358" }
@@ -282,12 +283,13 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "12893" },
       { "term": "202410", "crn": "13653" },
       { "term": "202410", "crn": "14006" },
       { "term": "202410", "crn": "18598" },
       { "term": "202410", "crn": "18770" },
       { "term": "202410", "crn": "18855" },
-      { "term": "202410", "crn": "20155" },
+      { "term": "202410", "crn": "19820" },
       { "term": "202350", "crn": "51223" },
       { "term": "202350", "crn": "52637" },
       { "term": "202330", "crn": "32164" },
@@ -339,12 +341,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18872" },
-      { "term": "202410", "crn": "19821" },
       { "term": "202410", "crn": "20525" },
-      { "term": "202410", "crn": "21235" },
-      { "term": "202410", "crn": "21109" },
-      { "term": "202410", "crn": "21045" },
+      { "term": "202410", "crn": "21608" },
       { "term": "202350", "crn": "51288" },
       { "term": "202350", "crn": "52766" },
       { "term": "202330", "crn": "36937" },
@@ -355,7 +353,23 @@
     ],
     "description": "Offers topics of current interest in computer systems engineering. May be repeated without limit.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "CSYE", "number": "6200" },
+      "Or",
+      { "subject": "INFO", "number": "5100" }
+    ]
+  },
+  {
+    "subject": "CSYE",
+    "number": "7380",
+    "title": "Theory and Practical Applications of AI Generative Modeling",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "21751" }],
+    "description": "Covers transformer-based language models (e.g., ChatGPT and Bard); generative image models (e.g., GAN and variational autoencoder); and generative models for structured data (e.g., Bayesian networks). Explores generative models for data of major modalities, namely, textual, image, and structured relational. Offers students an opportunity to learn how to build such models for practical applications in different verticals using Python and numerous publicly available libraries in Keras/TensorFlow and PyTorch. Given recent surges in generative modeling tools, generative modeling technologies and applications are necessary skills for students entering the field of industrial data science.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "INFO", "number": "6205" }]
   },
   {
     "subject": "CSYE",
@@ -365,7 +379,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18625" },
       { "term": "202330", "crn": "40372" },
       { "term": "202310", "crn": "20819" },
       { "term": "202310", "crn": "21063" }
@@ -382,7 +395,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "16248" },
       { "term": "202330", "crn": "37848" },
       { "term": "202310", "crn": "18538" }
     ],

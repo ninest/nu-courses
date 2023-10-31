@@ -36,7 +36,8 @@
       { "term": "202410", "crn": "19532" },
       { "term": "202410", "crn": "19533" },
       { "term": "202410", "crn": "20113" },
-      { "term": "202410", "crn": "20249" }
+      { "term": "202410", "crn": "20249" },
+      { "term": "202410", "crn": "21355" }
     ],
     "description": "Designed for students across the entire University who wish to learn about innovation—the creative process, the different types of innovation, how innovations are created, and how innovations can be transformed into commercial reality either as new products or new services and either in startups, existing corporations, and nonprofit entities. Offers students an opportunity to obtain the fundamental insight needed to understand the innovation process and to become a player in it.",
     "coreqs": [],
@@ -76,10 +77,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "20115" },
-      { "term": "202410", "crn": "20396" }
-    ],
+    "sections": [{ "term": "202410", "crn": "20115" }],
     "description": "Explores impact investing, a transformative way to work with money to achieve a more inclusive and sustainable economy. Large investors are entering the world of impact investing, a rapidly emerging space where social and ecological effects of finance are championed over maximizing shareholder value. New investment vehicles such as social impact bonds and Web exchanges are changing the role of financing institutions to better serve the needs of low-income populations around the world. Applies interdisciplinary frameworks, tools, and cases, with hands-on teamwork and guest speakers, to critically examine the field. Offers students an opportunity to learn to develop and test concepts that integrate social responsibility, sustainability, and mutual accountability into current financial and economic systems while expanding social capital markets.",
     "coreqs": [],
     "prereqs": []
@@ -147,7 +145,7 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202410", "crn": "21698" }],
     "description": "Reviews the key theories and tools needed to understand how technological change creates new markets and prompts new business models, how technology-based firms can outcompete rivals in fast-growing markets characterized by high uncertainty, and how the evolution of technology in an industry affects the type of firm capabilities needed to succeed over time.",
     "coreqs": [],
     "prereqs": []
@@ -169,12 +167,41 @@
   },
   {
     "subject": "INNO",
+    "number": "6226",
+    "title": "Leading Digital Transformation in Organizations",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "22124" }],
+    "description": "Examines how the global economy is being transformed by digital and information technologies. Companies increasingly use these technologies to develop and deliver products and services, interact with customers and stakeholders, operate their businesses more efficiently, and disrupt traditional business models with innovative digital solutions. Analyzes how digital technologies offer established companies opportunities to reduce costs, operate more quickly, and offer customers codesign and coproduction options. Studies how firms adapt to new conditions by adopting information technology and the barriers to entry inherent in every organization.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INNO",
+    "number": "6250",
+    "title": "Integrated and Applied Technology Leadership Project",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "21966" }],
+    "description": "Offers three executive seminars in which students build \"chapters\" that comprise their Integrated and Applied Technology Leadership (IATL) project. Primarily examines the technical and managerial challenges of implementing complex technology-based products—from system modeling, integration of modules, requirements verification, and formal specifications to the definition and overall coordination of the development team's efforts. Covers multiple product environments. Pairs students with mentors based on initial project proposal. Regular meetings with mentors offer students opportunities to refine the project and reinforce the business needs. May be repeated once.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INNO",
     "number": "6318",
     "title": "Innovation Driven Strategy",
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202360", "crn": "61397" }],
+    "sections": [
+      { "term": "202410", "crn": "21481" },
+      { "term": "202410", "crn": "21482" },
+      { "term": "202410", "crn": "21483" },
+      { "term": "202360", "crn": "61397" }
+    ],
     "description": "Introduces a number of entrepreneurship and innovation topics, including innovation and entrepreneurship as a value-creating activity for economies and firms; types of innovation (technological, process, products, business models); fundamentals of product development (design thinking, rapid prototyping, ethnography); startup creation and articulating a value proposition; the role and traits of the entrepreneur; maximizing odds of success and minimizing odds of failure; growing the startup and creating a market; finding or creating the right niche; pivoting and judo strategy; lean startup approach; innovation in established firms and resistance to change; organizational inertia; business model change; and technological discontinuities.",
     "coreqs": [],
     "prereqs": []

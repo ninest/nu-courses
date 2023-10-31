@@ -110,8 +110,7 @@
     "sections": [
       { "term": "202410", "crn": "20681" },
       { "term": "202410", "crn": "20682" },
-      { "term": "202410", "crn": "20683" },
-      { "term": "202410", "crn": "20684" }
+      { "term": "202410", "crn": "20683" }
     ],
     "description": "Explores common design practices, principles, and vocabularies, introducing the design process as a method of inquiry and problem solving through studio projects in the areas of graphic, information, interaction, and experience design. Emphasizes the importance of an awareness of audience and context in the creation of meaningful communications and experiences. Explores the practice of design as an iterative process, fostering an understanding of the value of systems thinking and the importance of feedback and exchange as a means for assessing the quality of design’s effectiveness in helping participants achieve their goals.",
     "coreqs": [{ "subject": "ARTG", "number": "1270" }],
@@ -455,7 +454,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "12055" },
       { "term": "202410", "crn": "14050" },
       { "term": "202410", "crn": "14441" },
       { "term": "202330", "crn": "32513" },
@@ -520,6 +518,18 @@
   },
   {
     "subject": "ARTG",
+    "number": "3464",
+    "title": "Topics In Experience Design Inquiry",
+    "scheduleType": "Studio",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "21039" }],
+    "description": "Focuses on a specific intermediate-level topic of timely relevance to the domain of experience design. May be repeated up to two times for a maximum of 12 semester hours.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "ARTG", "number": "3462" }]
+  },
+  {
+    "subject": "ARTG",
     "number": "3700",
     "title": "Interaction Design 2: Mobile",
     "scheduleType": "Seminar",
@@ -547,7 +557,6 @@
       { "term": "202410", "crn": "14457" },
       { "term": "202410", "crn": "16889" },
       { "term": "202410", "crn": "16891" },
-      { "term": "202410", "crn": "21103" },
       { "term": "202330", "crn": "38393" },
       { "term": "202330", "crn": "38394" },
       { "term": "202330", "crn": "39133" },
@@ -663,6 +672,7 @@
     "sections": [
       { "term": "202410", "crn": "14052" },
       { "term": "202410", "crn": "15352" },
+      { "term": "202410", "crn": "21962" },
       { "term": "202310", "crn": "14683" },
       { "term": "202310", "crn": "16702" }
     ],
@@ -796,7 +806,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13098" },
+      { "term": "202410", "crn": "14793" },
       { "term": "202410", "crn": "21041" },
+      { "term": "202410", "crn": "21752" },
       { "term": "202310", "crn": "13497" },
       { "term": "202310", "crn": "15759" }
     ],
@@ -831,6 +843,7 @@
     "sections": [
       { "term": "202410", "crn": "12772" },
       { "term": "202410", "crn": "20359" },
+      { "term": "202410", "crn": "21695" },
       { "term": "202310", "crn": "13136" }
     ],
     "description": "Examines theoretical foundations, concepts, and methods of visual notational systems used in the effective analysis and communication of existing experiences and in the envisioning of conditions for future experiences. Notational systems are sets of graphic signs and codes that denote or prescribe specific actions, forces, operations, events, or performances that occur over time. Students engage with concepts and models through readings, discussion, case study analyses, and speculative design projects. Evaluates the role that notational systems play in documenting, analyzing, and understanding the human goals, actions, behaviors, and perceptions key to experience and assesses their value in designing for agency and new experiences. Students who do not meet course restrictions may seek permission of instructor or program coordinator.",
@@ -846,6 +859,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13601" },
+      { "term": "202410", "crn": "21753" },
       { "term": "202310", "crn": "14101" }
     ],
     "description": "This course may have restrictions for Art + Design programs , all students (CAMD or from other colleges) are welcome to request registration based on availability and on a first come first serve basis. To request registration for a course, please contact Ariel Rodriguez to complete the A + D Grad Registration Request Form.",
@@ -968,7 +982,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "17488" },
+      { "term": "202410", "crn": "21234" },
       { "term": "202310", "crn": "16908" },
       { "term": "202310", "crn": "19894" }
     ],

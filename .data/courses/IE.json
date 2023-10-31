@@ -536,7 +536,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202340", "crn": "42189" }],
+    "sections": [
+      { "term": "202410", "crn": "22316" },
+      { "term": "202340", "crn": "42189" }
+    ],
     "description": "Offers theoretical or experimental work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -555,6 +558,7 @@
       { "term": "202410", "crn": "12131" },
       { "term": "202410", "crn": "15813" },
       { "term": "202410", "crn": "16037" },
+      { "term": "202410", "crn": "18478" },
       { "term": "202410", "crn": "16176" },
       { "term": "202340", "crn": "41745" },
       { "term": "202330", "crn": "31276" },
@@ -600,6 +604,7 @@
       { "term": "202410", "crn": "19844" },
       { "term": "202410", "crn": "19845" },
       { "term": "202410", "crn": "19846" },
+      { "term": "202410", "crn": "21439" },
       { "term": "202330", "crn": "40196" },
       { "term": "202330", "crn": "40199" }
     ],
@@ -635,6 +640,8 @@
       { "term": "202410", "crn": "13577" },
       { "term": "202410", "crn": "13725" },
       { "term": "202410", "crn": "19847" },
+      { "term": "202410", "crn": "21136" },
+      { "term": "202410", "crn": "21333" },
       { "term": "202360", "crn": "61388" },
       { "term": "202340", "crn": "41746" },
       { "term": "202350", "crn": "52817" },
@@ -667,6 +674,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "14619" },
       { "term": "202410", "crn": "15220" },
       { "term": "202410", "crn": "15818" },
       { "term": "202410", "crn": "18554" },
@@ -730,7 +738,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "12652" },
       { "term": "202360", "crn": "60375" },
       { "term": "202330", "crn": "36106" },
       { "term": "202310", "crn": "12994" },
@@ -745,9 +752,7 @@
       "Or",
       { "subject": "IE", "number": "6200" },
       "Or",
-      { "subject": "MATH", "number": "7241" },
-      "Or",
-      { "subject": "IE", "number": "6400" }
+      { "subject": "MATH", "number": "7241" }
     ]
   },
   {
@@ -866,8 +871,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "17500" },
-      { "term": "202410", "crn": "17501" },
       { "term": "202310", "crn": "19906" },
       { "term": "202310", "crn": "19907" }
     ],
@@ -876,9 +879,7 @@
     "prereqs": [
       { "subject": "IE", "number": "6200" },
       "Or",
-      { "subject": "MATH", "number": "7241" },
-      "Or",
-      { "subject": "IE", "number": "6400" }
+      { "subject": "MATH", "number": "7241" }
     ]
   },
   {
@@ -889,23 +890,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18406" },
       { "term": "202330", "crn": "38689" },
       { "term": "202310", "crn": "20841" }
     ],
     "description": "Covers fundamentals of reinforcement learning (RL) and its applications in engineering areas. Provides an overview of the RL concepts and important algorithms. Demonstrates applications of RL to address engineering problems in manufacturing, supply chain, healthcare, and engineering economics. Offers students an opportunity to master their skills to apply RL to practical engineering projects through a series of lab sessions.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "IE", "number": "5374" },
-      "Or",
-      { "subject": "IE", "number": "5374" },
-      "Or",
-      { "subject": "IE", "number": "6200" },
-      "Or",
-      { "subject": "IE", "number": "6400" },
-      "Or",
-      { "subject": "MATH", "number": "7241" }
-    ]
+    "prereqs": [{ "subject": "IE", "number": "6200" }]
   },
   {
     "subject": "IE",
@@ -918,6 +908,8 @@
       { "term": "202410", "crn": "18402" },
       { "term": "202410", "crn": "18404" },
       { "term": "202410", "crn": "18405" },
+      { "term": "202410", "crn": "21284" },
+      { "term": "202410", "crn": "21365" },
       { "term": "202340", "crn": "41748" },
       { "term": "202330", "crn": "38691" },
       { "term": "202330", "crn": "38692" },
@@ -970,8 +962,6 @@
     "sections": [
       { "term": "202410", "crn": "20534" },
       { "term": "202410", "crn": "20808" },
-      { "term": "202360", "crn": "61393" },
-      { "term": "202360", "crn": "61394" },
       { "term": "202330", "crn": "38988" }
     ],
     "description": "Offers topics of interest to the staff member conducting this class for advanced study. May be repeated without limit.",
@@ -989,10 +979,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "12577" },
-      { "term": "202310", "crn": "12895" }
-    ],
+    "sections": [{ "term": "202310", "crn": "12895" }],
     "description": "Offers students an opportunity to develop and present a plan for the demonstration of a marketable technology product or prototype with an industrial-engineering focus. Constitutes the first half of a thesis-scale project in technology commercialization. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student's technological and engineering depth and fostering the student's leadership development.",
     "coreqs": [],
     "prereqs": []
@@ -1017,7 +1004,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "18407" },
       { "term": "202410", "crn": "18460" },
+      { "term": "202410", "crn": "22145" },
       { "term": "202330", "crn": "38694" },
       { "term": "202310", "crn": "20895" }
     ],
@@ -1044,6 +1033,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13224" },
+      { "term": "202410", "crn": "17502" },
       { "term": "202410", "crn": "21070" },
       { "term": "202350", "crn": "50756" },
       { "term": "202350", "crn": "52921" },
@@ -1086,10 +1076,10 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18915" },
-      { "term": "202410", "crn": "19123" },
       { "term": "202410", "crn": "19329" },
-      { "term": "202410", "crn": "19353" },
+      { "term": "202410", "crn": "21309" },
+      { "term": "202410", "crn": "21338" },
+      { "term": "202410", "crn": "22209" },
       { "term": "202360", "crn": "61495" },
       { "term": "202340", "crn": "41975" },
       { "term": "202340", "crn": "42170" },
@@ -1120,7 +1110,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "19176" },
       { "term": "202350", "crn": "52352" },
       { "term": "202350", "crn": "53373" },
       { "term": "202330", "crn": "38049" },
@@ -1141,9 +1130,12 @@
       { "term": "202410", "crn": "17917" },
       { "term": "202410", "crn": "18475" },
       { "term": "202410", "crn": "18673" },
+      { "term": "202410", "crn": "22522" },
       { "term": "202410", "crn": "15962" },
+      { "term": "202410", "crn": "22325" },
       { "term": "202410", "crn": "13381" },
       { "term": "202410", "crn": "13386" },
+      { "term": "202410", "crn": "22358" },
       { "term": "202360", "crn": "60612" },
       { "term": "202360", "crn": "60852" },
       { "term": "202330", "crn": "30868" },
@@ -1169,8 +1161,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "15978" },
-      { "term": "202410", "crn": "15992" },
+      { "term": "202410", "crn": "22552" },
       { "term": "202360", "crn": "60831" },
       { "term": "202360", "crn": "60857" },
       { "term": "202330", "crn": "40510" },
@@ -1189,10 +1180,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "11404" },
       { "term": "202410", "crn": "18254" },
-      { "term": "202410", "crn": "14867" },
-      { "term": "202410", "crn": "16274" },
       { "term": "202350", "crn": "53367" },
       { "term": "202350", "crn": "52481" },
       { "term": "202330", "crn": "32336" },
@@ -1230,8 +1218,12 @@
       { "term": "202410", "crn": "14851" },
       { "term": "202410", "crn": "19330" },
       { "term": "202410", "crn": "13895" },
+      { "term": "202410", "crn": "21947" },
       { "term": "202410", "crn": "16128" },
       { "term": "202410", "crn": "16171" },
+      { "term": "202410", "crn": "22002" },
+      { "term": "202410", "crn": "22359" },
+      { "term": "202410", "crn": "22360" },
       { "term": "202360", "crn": "60855" },
       { "term": "202360", "crn": "60638" },
       { "term": "202360", "crn": "60858" },
@@ -1267,21 +1259,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "17627" },
-      { "term": "202410", "crn": "17683" },
-      { "term": "202410", "crn": "17684" },
-      { "term": "202410", "crn": "17685" },
-      { "term": "202410", "crn": "17686" },
-      { "term": "202410", "crn": "17687" },
-      { "term": "202410", "crn": "17688" },
-      { "term": "202410", "crn": "17689" },
-      { "term": "202410", "crn": "17690" },
-      { "term": "202410", "crn": "17691" },
-      { "term": "202410", "crn": "17692" },
-      { "term": "202410", "crn": "17693" },
-      { "term": "202410", "crn": "17694" },
-      { "term": "202410", "crn": "17695" },
-      { "term": "202410", "crn": "17696" },
-      { "term": "202410", "crn": "17698" },
+      { "term": "202410", "crn": "22126" },
       { "term": "202330", "crn": "35361" },
       { "term": "202310", "crn": "20095" },
       { "term": "202310", "crn": "20099" },
@@ -1301,10 +1279,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "17628" },
-      { "term": "202410", "crn": "18977" },
-      { "term": "202410", "crn": "18981" },
-      { "term": "202410", "crn": "19113" },
       { "term": "202410", "crn": "21169" },
       { "term": "202330", "crn": "36847" },
       { "term": "202330", "crn": "39464" },
@@ -1330,20 +1304,14 @@
     "sections": [
       { "term": "202410", "crn": "19277" },
       { "term": "202410", "crn": "10608" },
-      { "term": "202410", "crn": "19327" },
-      { "term": "202410", "crn": "16021" },
-      { "term": "202410", "crn": "10718" },
       { "term": "202410", "crn": "14500" },
       { "term": "202410", "crn": "10554" },
       { "term": "202410", "crn": "13893" },
       { "term": "202410", "crn": "14733" },
-      { "term": "202410", "crn": "13385" },
       { "term": "202410", "crn": "14770" },
       { "term": "202410", "crn": "13383" },
       { "term": "202410", "crn": "13882" },
-      { "term": "202410", "crn": "16025" },
       { "term": "202410", "crn": "14774" },
-      { "term": "202410", "crn": "14815" },
       { "term": "202410", "crn": "16075" },
       { "term": "202410", "crn": "16178" },
       { "term": "202410", "crn": "20560" },

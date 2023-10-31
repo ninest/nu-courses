@@ -171,7 +171,11 @@
       "Or",
       { "subject": "ENGW", "number": "1111" },
       "Or",
-      { "subject": "ENGW", "number": "1102" }
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -310,7 +314,7 @@
     "title": "History of the Jews in the Modern World",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["DD", "SI"],
+    "nuPath": ["SI", "DD"],
     "sections": [{ "term": "202330", "crn": "38522" }],
     "description": "Surveys the history of the Jews in the modern world, with an emphasis on global cultural exchange. Examines Jewish interaction with non-Jewish society from Europe to North Africa, the Middle East, the Soviet Union, Israel, and the United States; and explores this relationship’s creative and destructive consequences. Focuses on how Jewish society, culture, religious practice, and political definition changed in relation to a variety of processes now associated with modernity, such as urbanization, industrialization, state centralization, and the development of nationalism and secularism.",
     "coreqs": [],
@@ -339,7 +343,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["SI"],
-    "sections": [{ "term": "202410", "crn": "19681" }],
+    "sections": [],
     "description": "Explores the history of information in the United States—how and why conceptions, technologies, and politics of information have evolved, as well as the various ways Americans have confronted information-related crises at various moments in time. Offers students an opportunity to develop more sophisticated understandings of historical and ongoing controversies over the history, politics, technologies, and ethics of information, as well as to be able to bring valuable historical context as they evaluate and address the challenges posed by today’s rapidly shifting information ecosystem. In an age of clickbait and media bots, deepfakes and data surveillance, information is a fraught category—resulting in weakened trust in expertise, institutions, and democracy—but Americans have long struggled with the ethics and politics of information.",
     "coreqs": [],
     "prereqs": []
@@ -396,7 +400,6 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
-      { "term": "202410", "crn": "13045" },
       { "term": "202330", "crn": "39545" },
       { "term": "202310", "crn": "13443" },
       { "term": "202310", "crn": "20424" },
@@ -579,7 +582,11 @@
       "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" }
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -790,7 +797,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "19685" },
       { "term": "202410", "crn": "20346" },
       { "term": "202410", "crn": "20347" },
       { "term": "202330", "crn": "39486" },
@@ -996,7 +1002,7 @@
     "sections": [
       { "term": "202410", "crn": "13005" },
       { "term": "202410", "crn": "15967" },
-      { "term": "202410", "crn": "17802" },
+      { "term": "202410", "crn": "22392" },
       { "term": "202330", "crn": "39729" },
       { "term": "202330", "crn": "37027" },
       { "term": "202330", "crn": "37084" },
@@ -1016,10 +1022,7 @@
     "scheduleType": "Off-campus instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "15360" },
-      { "term": "202310", "crn": "16720" }
-    ],
+    "sections": [{ "term": "202310", "crn": "16720" }],
     "description": "Offers students the opportunity to teach individual college-level courses within the Department of History under the general supervision of a senior faculty member. Open to doctoral students.",
     "coreqs": [],
     "prereqs": []
@@ -1047,10 +1050,7 @@
     "scheduleType": "Off-campus instruction",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "15496" },
-      { "term": "202310", "crn": "17063" }
-    ],
+    "sections": [{ "term": "202310", "crn": "17063" }],
     "description": "Gives students a second opportunity to acquire practical experience in an historical agency. Requires ten hours a week for one semester under the direction of an agency supervisor and a departmental adviser.",
     "coreqs": [],
     "prereqs": []
@@ -1083,6 +1083,10 @@
       { "term": "202410", "crn": "20748" },
       { "term": "202410", "crn": "20826" },
       { "term": "202410", "crn": "21176" },
+      { "term": "202410", "crn": "22318" },
+      { "term": "202410", "crn": "22320" },
+      { "term": "202410", "crn": "22468" },
+      { "term": "202410", "crn": "22498" },
       { "term": "202330", "crn": "40059" },
       { "term": "202330", "crn": "40097" }
     ],
@@ -1146,10 +1150,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "15388" },
-      { "term": "202310", "crn": "16869" }
-    ],
+    "sections": [{ "term": "202310", "crn": "16869" }],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
     "prereqs": [{ "subject": "HIST", "number": "9990" }]
@@ -1162,7 +1163,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "15367" },
       { "term": "202410", "crn": "11347" },
       { "term": "202410", "crn": "17586" },
       { "term": "202350", "crn": "50754" },

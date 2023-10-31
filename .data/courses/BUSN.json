@@ -20,10 +20,9 @@
       { "term": "202410", "crn": "10080" },
       { "term": "202410", "crn": "10996" },
       { "term": "202410", "crn": "10997" },
-      { "term": "202410", "crn": "10999" },
       { "term": "202410", "crn": "15717" },
-      { "term": "202410", "crn": "15726" },
       { "term": "202410", "crn": "16044" },
+      { "term": "202360", "crn": "60679" },
       { "term": "202340", "crn": "41352" },
       { "term": "202330", "crn": "31011" },
       { "term": "202330", "crn": "31012" },
@@ -91,6 +90,7 @@
       { "term": "202410", "crn": "17448" },
       { "term": "202410", "crn": "18547" },
       { "term": "202410", "crn": "18548" },
+      { "term": "202410", "crn": "21691" },
       { "term": "202330", "crn": "36678" },
       { "term": "202330", "crn": "36679" },
       { "term": "202330", "crn": "36667" },
@@ -248,6 +248,30 @@
   },
   {
     "subject": "BUSN",
+    "number": "6296",
+    "title": "Introduction to Data Storytelling and Visualization for Business",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "21476" }],
+    "description": "Studies the skills required to effectively tell stories with data to drive business decisions. Covers data analysis, interpretation, and visualization techniques. Emphasizes understanding audience perspectives and mastering business presentation techniques. Offers students an opportunity to cultivate the ability to communicate complex data findings in a simple, concise, and influential manner to both technical and nontechnical audiences, thereby fostering data-driven decision making.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BUSN",
+    "number": "6299",
+    "title": "Building Profitable and Sustainable Online Experiences",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "21474" }],
+    "description": "Offers a rigorous introduction to the craft of using data, behavioral science, and machine learning to create highly personalized and engaging app experiences that make users happy. Focuses on free-to-play apps and presents case studies covering personalization systems with proven lift in engagement, retention, and monetization.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BUSN",
     "number": "6324",
     "title": "Predictive Analytics for Managers",
     "scheduleType": "Lecture",
@@ -290,9 +314,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "19362" },
-      { "term": "202410", "crn": "19363" },
-      { "term": "202410", "crn": "19364" },
       { "term": "202330", "crn": "33465" },
       { "term": "202310", "crn": "21816" },
       { "term": "202310", "crn": "21817" },
@@ -401,6 +422,18 @@
   },
   {
     "subject": "BUSN",
+    "number": "6379",
+    "title": "Entrepreneurial Ecosystems",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "21349" }],
+    "description": "Examines the development, growth strategies, and stewardship of entrepreneurial ecosystems and “startup communities.” Defines and measures ecosystems. Studies the ways that governments, corporations, and community groups attempt to shape ecosystem development. Surveys leading authorities in the field and looks at real-world examples of success and partial success from several different perspectives.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BUSN",
     "number": "6382",
     "title": "Real Options",
     "scheduleType": "Lecture",
@@ -442,7 +475,10 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202340", "crn": "41897" }],
+    "sections": [
+      { "term": "202410", "crn": "22249" },
+      { "term": "202340", "crn": "41897" }
+    ],
     "description": "Examines the application of strategy frameworks and practices for crafting individual professional strategies. Applies concepts of mindfulness and strategic thinking to formulate strategic actions to create a pathway toward personal vision within a professional world. Offers students an opportunity to define and identify their personal vision, match their vision to external and internal environments, and formulate their personal strategy for a market entry.",
     "coreqs": [],
     "prereqs": []

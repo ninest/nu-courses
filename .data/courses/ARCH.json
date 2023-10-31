@@ -94,7 +94,7 @@
       { "term": "202240", "crn": "40987" }
     ],
     "description": "Introduces students to architecture, as understood through buildings, cities, and landscapes from antiquity to the present. Studies important monuments in the global history of architecture, as well as tools for analyzing the built environment. Considers buildings in relation to their political, social, economic, and cultural context, and as expressions of diversity in human societies and cultural perspectives. Topics include the language of architecture, architectural drawings, the classical orders, the problem of ornament, construction techniques, materials, site,and the role of the patron. Develops students' eye for composition in two and three dimensions, aesthetic discrimination of detail, ability to see buildings as part of a larger social and cultural fabric, and critical judgment in speaking and writing.",
-    "coreqs": [],
+    "coreqs": [{ "subject": "ARCH", "number": "1311" }],
     "prereqs": []
   },
   {
@@ -109,11 +109,11 @@
       { "term": "202410", "crn": "11825" },
       { "term": "202410", "crn": "11826" },
       { "term": "202410", "crn": "12001" },
-      { "term": "202410", "crn": "13308" },
       { "term": "202410", "crn": "14584" },
       { "term": "202410", "crn": "14585" },
       { "term": "202410", "crn": "14598" },
       { "term": "202410", "crn": "14800" },
+      { "term": "202410", "crn": "22330" },
       { "term": "202330", "crn": "31712" },
       { "term": "202330", "crn": "33027" },
       { "term": "202330", "crn": "36310" },
@@ -154,7 +154,6 @@
       { "term": "202410", "crn": "10211" },
       { "term": "202410", "crn": "10212" },
       { "term": "202410", "crn": "10214" },
-      { "term": "202410", "crn": "10163" },
       { "term": "202360", "crn": "61356" },
       { "term": "202330", "crn": "38856" },
       { "term": "202330", "crn": "38857" },
@@ -331,7 +330,7 @@
     "title": "Modern Architecture (HON)",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["IC", "SI", "WI"],
+    "nuPath": ["WI", "IC", "SI"],
     "sections": [
       { "term": "202330", "crn": "33725" },
       { "term": "202330", "crn": "31930" }
@@ -405,7 +404,6 @@
       { "term": "202410", "crn": "15224" },
       { "term": "202410", "crn": "15225" },
       { "term": "202410", "crn": "17319" },
-      { "term": "202410", "crn": "17645" },
       { "term": "202340", "crn": "41703" },
       { "term": "202330", "crn": "36312" },
       { "term": "202330", "crn": "34467" },
@@ -430,7 +428,6 @@
     "sections": [
       { "term": "202410", "crn": "11006" },
       { "term": "202410", "crn": "11007" },
-      { "term": "202410", "crn": "11008" },
       { "term": "202410", "crn": "17138" },
       { "term": "202410", "crn": "17139" },
       { "term": "202310", "crn": "11130" },
@@ -482,7 +479,6 @@
     "nuPath": ["WI"],
     "sections": [
       { "term": "202410", "crn": "12025" },
-      { "term": "202410", "crn": "20087" },
       { "term": "202330", "crn": "37022" },
       { "term": "202330", "crn": "38852" },
       { "term": "202310", "crn": "12264" },
@@ -550,7 +546,6 @@
     "nuPath": ["EX"],
     "sections": [
       { "term": "202410", "crn": "12593" },
-      { "term": "202410", "crn": "12594" },
       { "term": "202410", "crn": "13559" },
       { "term": "202410", "crn": "13558" },
       { "term": "202410", "crn": "12595" },
@@ -705,8 +700,6 @@
       { "term": "202410", "crn": "12810" },
       { "term": "202410", "crn": "13042" },
       { "term": "202410", "crn": "17141" },
-      { "term": "202410", "crn": "14607" },
-      { "term": "202410", "crn": "17142" },
       { "term": "202410", "crn": "17143" },
       { "term": "202310", "crn": "13178" },
       { "term": "202310", "crn": "13440" },
@@ -791,7 +784,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10781" },
-      { "term": "202410", "crn": "11170" },
       { "term": "202410", "crn": "20093" },
       { "term": "202410", "crn": "20094" },
       { "term": "202410", "crn": "20209" },

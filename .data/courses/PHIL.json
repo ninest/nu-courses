@@ -92,7 +92,7 @@
     "title": "Debating Ethical Controversies",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["ER", "SI"],
+    "nuPath": ["ER", "EX", "SI"],
     "sections": [
       { "term": "202410", "crn": "14904" },
       { "term": "202330", "crn": "36043" },
@@ -165,6 +165,7 @@
       { "term": "202410", "crn": "17997" },
       { "term": "202410", "crn": "18052" },
       { "term": "202410", "crn": "18134" },
+      { "term": "202410", "crn": "21274" },
       { "term": "202360", "crn": "60430" },
       { "term": "202340", "crn": "40430" },
       { "term": "202340", "crn": "40917" },
@@ -575,7 +576,11 @@
       "Or",
       { "subject": "ENGW", "number": "1111" },
       "Or",
-      { "subject": "ENGW", "number": "1102" }
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -602,7 +607,11 @@
       "Or",
       { "subject": "ENGW", "number": "1111" },
       "Or",
-      { "subject": "ENGW", "number": "1102" }
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -734,7 +743,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20053" }],
+    "sections": [],
     "description": "Provides the student the opportunity to learn to recognize, appreciate, and criticize philosophical themes in literature. Includes readings from acknowledged classics by philosophical authors. Requires prior completion of two philosophy courses.",
     "coreqs": [],
     "prereqs": []
@@ -917,10 +926,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "20058" },
-      { "term": "202330", "crn": "38623" }
-    ],
+    "sections": [{ "term": "202330", "crn": "38623" }],
     "description": "Covers issues of justice and the public good in relation to the creation, collection, storage, analysis, processing, dissemination, and use of information. Discusses theories of justice and human rights, as well as ethical theories such as utilitarianism and principlism. Topics include intellectual and cultural property, freedom of expression, access to information, fair representation, and information privacy. Discusses how to create and use information technologies that promote individual flourishing and the public good while avoiding bias, exploitation, and manipulation.",
     "coreqs": [],
     "prereqs": [

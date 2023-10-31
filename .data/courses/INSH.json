@@ -22,7 +22,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["AD", "ND"],
-    "sections": [{ "term": "202410", "crn": "17150" }],
+    "sections": [],
     "description": "Introduces programming skills and computational methods through application to topics in the social sciences and humanities. Methods include computational text analysis, network analysis, mapping software and analysis, computational approaches to data, big data, and/or social simulation. Offers students an opportunity to develop an understanding of the use and significance of computational tools for social sciences and humanities. No previous programming experience required.",
     "coreqs": [],
     "prereqs": []
@@ -90,6 +90,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "22109" },
       { "term": "202360", "crn": "60722" },
       { "term": "202360", "crn": "60723" },
       { "term": "202260", "crn": "61008" },
@@ -324,7 +325,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18798" },
+      { "term": "202410", "crn": "21495" },
       { "term": "202360", "crn": "61152" },
       { "term": "202360", "crn": "61674" },
       { "term": "202310", "crn": "21244" },

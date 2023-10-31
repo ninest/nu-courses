@@ -608,7 +608,11 @@
       "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" }
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -1077,6 +1081,26 @@
   },
   {
     "subject": "ENGL",
+    "number": "4993",
+    "title": "Independent Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202340", "crn": "42327" }],
+    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" }
+    ]
+  },
+  {
+    "subject": "ENGL",
     "number": "5103",
     "title": "Proseminar",
     "scheduleType": "Seminar",
@@ -1295,7 +1319,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "53307" }],
+    "sections": [
+      { "term": "202360", "crn": "61824" },
+      { "term": "202350", "crn": "53307" }
+    ],
     "description": "Offered by arrangement. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1308,9 +1335,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "17583" },
       { "term": "202410", "crn": "17944" },
-      { "term": "202410", "crn": "17958" },
       { "term": "202330", "crn": "39795" },
       { "term": "202330", "crn": "40288" },
       { "term": "202330", "crn": "40289" },
@@ -1331,7 +1356,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "17770" },
       { "term": "202330", "crn": "39546" },
       { "term": "202310", "crn": "20190" }
     ],
@@ -1346,7 +1370,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20994" }],
+    "sections": [
+      { "term": "202410", "crn": "20994" },
+      { "term": "202410", "crn": "21861" }
+    ],
     "description": "Gives students the opportunity to observe a senior faculty member teaching an undergraduate course in American or British literature, literary studies, rhetoric, composition studies, or linguistics. Students meet regularly with the faculty member to discuss teaching practices and other pedagogical issues and submit a term project discussing the experience in the context of the scholarship of teaching. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1389,8 +1416,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15624" },
-      { "term": "202410", "crn": "14262" },
-      { "term": "202410", "crn": "17335" },
+      { "term": "202410", "crn": "21362" },
       { "term": "202350", "crn": "51339" },
       { "term": "202330", "crn": "34368" },
       { "term": "202330", "crn": "34367" },
@@ -1411,8 +1437,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "17338" },
-      { "term": "202410", "crn": "17339" },
       { "term": "202350", "crn": "52830" },
       { "term": "202350", "crn": "53308" },
       { "term": "202330", "crn": "38870" },
@@ -1431,6 +1455,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "21448" },
+      { "term": "202410", "crn": "21449" },
       { "term": "202350", "crn": "52383" },
       { "term": "202330", "crn": "38809" },
       { "term": "202330", "crn": "40456" }
@@ -1448,14 +1474,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "14386" },
-      { "term": "202410", "crn": "11684" },
-      { "term": "202410", "crn": "15620" },
       { "term": "202410", "crn": "11685" },
-      { "term": "202410", "crn": "11686" },
-      { "term": "202410", "crn": "15623" },
-      { "term": "202410", "crn": "17334" },
-      { "term": "202410", "crn": "15621" },
-      { "term": "202410", "crn": "17337" },
+      { "term": "202410", "crn": "21363" },
       { "term": "202350", "crn": "50776" },
       { "term": "202350", "crn": "50777" },
       { "term": "202350", "crn": "51216" },

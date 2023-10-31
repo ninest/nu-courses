@@ -93,10 +93,7 @@
     "scheduleType": "Lecture",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "20535" },
-      { "term": "202410", "crn": "20531" }
-    ],
+    "sections": [{ "term": "202410", "crn": "20531" }],
     "description": "Introduces the cooperative education program. Presents co-op policies, procedures, and expectations of the program and co-op employers. Covers career paths, choices, professional behaviors, work culture, and career decision making. Offers students an opportunity to assess their workplace skills, interests, and values and discuss how they impact personal career choices; prepare a professional-style resumé; study proper interviewing techniques; and gain an understanding of the opportunities available to them for co-op. Familiarizes students with workplace issues relative to their field of study and presents how to use NUworks in the job-search and referral process.",
     "coreqs": [],
     "prereqs": []

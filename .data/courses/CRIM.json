@@ -24,6 +24,7 @@
     "nuPath": ["SI"],
     "sections": [
       { "term": "202410", "crn": "10987" },
+      { "term": "202410", "crn": "21523" },
       { "term": "202410", "crn": "15364" },
       { "term": "202410", "crn": "18606" },
       { "term": "202410", "crn": "18075" },
@@ -213,7 +214,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD"],
-    "sections": [{ "term": "202410", "crn": "21173" }],
+    "sections": [],
     "description": "Focuses on how the Black family functions, both interpersonally and as a social unit within a carceral state. Introduces the diverse institutional, cultural, and historical issues relating to past and present circumstances from the effects of slavery and colonization on the Black family structure. Explores policies and practices within carceral institutions dealing with childhood, motherhood, and fatherhood. Assesses the social and psychological harms of incarceration on Black children and their families.",
     "coreqs": [],
     "prereqs": [
@@ -647,10 +648,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "17846" },
-      { "term": "202310", "crn": "20270" }
-    ],
+    "sections": [{ "term": "202310", "crn": "20270" }],
     "description": "Studies the historical and contemporary issues regarding the purpose and function of police in U.S. communities. Focuses on understanding variation in crime-control strategies across ecological settings, which complicates police leaders' efforts to reach balance between appropriately responding to citizen calls for service and proactive policing. Highlights effective policing efforts, which routinely involve bringing officers and community residents together in the hope of solving problems. Critically assesses the role of systemic racism and contemporary police practices that impact police-community relationships.",
     "coreqs": [],
     "prereqs": []
@@ -664,7 +662,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13227" },
-      { "term": "202410", "crn": "15925" },
+      { "term": "202360", "crn": "61783" },
       { "term": "202360", "crn": "60799" },
       { "term": "202330", "crn": "35066" },
       { "term": "202330", "crn": "35213" },
@@ -695,7 +693,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202340", "crn": "41732" }],
+    "sections": [
+      { "term": "202410", "crn": "22248" },
+      { "term": "202340", "crn": "41732" }
+    ],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -806,6 +807,12 @@
     "sections": [
       { "term": "202410", "crn": "18948" },
       { "term": "202410", "crn": "21253" },
+      { "term": "202410", "crn": "21637" },
+      { "term": "202410", "crn": "21897" },
+      { "term": "202410", "crn": "21935" },
+      { "term": "202410", "crn": "22152" },
+      { "term": "202410", "crn": "22161" },
+      { "term": "202360", "crn": "61794" },
       { "term": "202350", "crn": "53273" },
       { "term": "202350", "crn": "53294" },
       { "term": "202330", "crn": "39730" },
@@ -861,6 +868,8 @@
       { "term": "202410", "crn": "11431" },
       { "term": "202410", "crn": "11432" },
       { "term": "202410", "crn": "18239" },
+      { "term": "202410", "crn": "21591" },
+      { "term": "202410", "crn": "21590" },
       { "term": "202350", "crn": "50666" },
       { "term": "202350", "crn": "50669" },
       { "term": "202350", "crn": "50670" },
@@ -894,14 +903,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "19198" },
       { "term": "202410", "crn": "14682" },
-      { "term": "202410", "crn": "13730" },
-      { "term": "202410", "crn": "14798" },
-      { "term": "202410", "crn": "13731" },
-      { "term": "202410", "crn": "15693" },
-      { "term": "202410", "crn": "15697" },
-      { "term": "202410", "crn": "18123" },
+      { "term": "202410", "crn": "21592" },
       { "term": "202330", "crn": "33430" },
       { "term": "202310", "crn": "21650" },
       { "term": "202310", "crn": "17506" },
@@ -919,10 +922,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "14308" },
-      { "term": "202410", "crn": "14309" },
-      { "term": "202410", "crn": "14310" },
-      { "term": "202410", "crn": "18469" },
+      { "term": "202410", "crn": "21589" },
       { "term": "202330", "crn": "34883" },
       { "term": "202330", "crn": "34884" },
       { "term": "202330", "crn": "34886" },
@@ -940,11 +940,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "12266" },
       { "term": "202410", "crn": "13732" },
-      { "term": "202410", "crn": "13734" },
       { "term": "202410", "crn": "11433" },
-      { "term": "202410", "crn": "14704" },
       { "term": "202410", "crn": "14748" },
       { "term": "202410", "crn": "19178" },
       { "term": "202410", "crn": "12896" },

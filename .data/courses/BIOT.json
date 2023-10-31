@@ -16,7 +16,6 @@
       { "term": "202410", "crn": "16561" },
       { "term": "202410", "crn": "19984" },
       { "term": "202410", "crn": "20874" },
-      { "term": "202410", "crn": "20917" },
       { "term": "202410", "crn": "21230" },
       { "term": "202330", "crn": "33242" },
       { "term": "202330", "crn": "33753" },
@@ -293,7 +292,6 @@
       { "term": "202410", "crn": "19990" },
       { "term": "202410", "crn": "20119" },
       { "term": "202410", "crn": "20876" },
-      { "term": "202410", "crn": "20877" },
       { "term": "202410", "crn": "21231" },
       { "term": "202340", "crn": "41676" },
       { "term": "202330", "crn": "33243" },
@@ -407,7 +405,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "20034" },
-      { "term": "202410", "crn": "20850" }
+      { "term": "202410", "crn": "20850" },
+      { "term": "202410", "crn": "22518" }
     ],
     "description": "The ever-changing landscape of the biotechnology field requires constant training. This course is designed to familiarize participants with some of the most cutting-edge topics available in molecular biology today: stem cells, RNA interference, CRISPR/CAS9, CAR T-cells, gene therapy, and more. Offers participants an opportunity to learn the theory behind these new technologies, how they are done, and their power in scientific discovery and treatment.",
     "coreqs": [],
@@ -421,6 +420,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "21442" },
       { "term": "202330", "crn": "33067" },
       { "term": "202330", "crn": "33068" },
       { "term": "202330", "crn": "38646" }
@@ -475,8 +475,20 @@
     "scheduleType": "Seminar",
     "credits": 0,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202410", "crn": "21447" }],
     "description": "Offers students an applied project setting in which to apply their curricular learning. Working with a sponsor, students refine an applied research topic, perform research, develop recommendations that are shared with a partner sponsor, and create a plan for implementing their recommendations. Seeks to benefit students with a curriculum that supports the development of key business communication skills, project and client management skills, and frameworks for business analysis. Offers students an opportunity to learn from sponsor feedback, review 'lessons learned,' and incorporate suggestions from this review to improve and further develop their career development and professional plan. May be repeated twice.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BIOT",
+    "number": "5976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "22324" }],
+    "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -564,6 +576,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "21443" },
       { "term": "202330", "crn": "35855" },
       { "term": "202330", "crn": "39051" },
       { "term": "202330", "crn": "39340" },
@@ -583,7 +596,6 @@
     "sections": [
       { "term": "202410", "crn": "15065" },
       { "term": "202410", "crn": "20845" },
-      { "term": "202410", "crn": "20934" },
       { "term": "202310", "crn": "16248" }
     ],
     "description": "Discusses the importance of sterile operations in producing drug products, as part of good manufacturing practice (GMP). Emphasizes sterile manufacturing operations for all drugs.",
@@ -616,7 +628,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11855" },
-      { "term": "202410", "crn": "13136" },
       { "term": "202410", "crn": "18755" },
       { "term": "202410", "crn": "20362" },
       { "term": "202410", "crn": "20537" },
@@ -656,7 +667,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "19352" },
+      { "term": "202410", "crn": "22333" },
+      { "term": "202410", "crn": "22508" },
       { "term": "202330", "crn": "40443" },
       { "term": "202310", "crn": "21806" }
     ],
@@ -675,6 +687,8 @@
       { "term": "202410", "crn": "15312" },
       { "term": "202410", "crn": "17899" },
       { "term": "202410", "crn": "17900" },
+      { "term": "202410", "crn": "21494" },
+      { "term": "202410", "crn": "21997" },
       { "term": "202360", "crn": "61648" },
       { "term": "202360", "crn": "61673" },
       { "term": "202360", "crn": "61335" },
@@ -711,7 +725,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18813" },
       { "term": "202360", "crn": "60830" },
       { "term": "202360", "crn": "61190" },
       { "term": "202340", "crn": "42126" },
@@ -733,6 +746,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "21315" },
       { "term": "202350", "crn": "51709" },
       { "term": "202330", "crn": "39596" }
     ],
@@ -774,6 +788,22 @@
       { "term": "202240", "crn": "40280" }
     ],
     "description": "Presents a laboratory course in biotechnology with a focus on cutting-edge instrumentation that is currently used in the field.  Directs special attention at the practical aspects of laboratory work in this field, for example, techniques in sample preparation, procedures for protein analysis, and new bioinformatic approaches.  Focuses on the emerging field of chemiproteomics, which is the study of the interaction of small molecules with the proteome, that is, the full complement of proteins expressed in an individual cell or organism.  Exposes the student to hands-on experience with modern instrumentation, such as mass spectrometry and high performance liquid chromatography.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BIOT",
+    "number": "7983",
+    "title": "Special Topics in Biotechnology",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "21994" },
+      { "term": "202410", "crn": "21995" },
+      { "term": "202410", "crn": "21996" }
+    ],
+    "description": "Implementing Real-World Data to Stimulate Drug Development:\nThis graduate-level course will examine real-world data in the AllofUs (AoU) dataset, looking at post-marketing surveillance (PMS) or a phase IV study. This class will facilitate your understanding of the research techniques required to analyze data, build upon your biopharmaceutical analytical skills and the basic principles involved in molecular interactions. Most importantly, the research performed in this class will build upon your knowledge of using real-world data to drive drug development and inform clinical trial design.",
     "coreqs": [],
     "prereqs": []
   }

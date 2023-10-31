@@ -18,6 +18,7 @@
       { "term": "202410", "crn": "15747" },
       { "term": "202410", "crn": "14345" },
       { "term": "202410", "crn": "18657" },
+      { "term": "202410", "crn": "21366" },
       { "term": "202360", "crn": "61404" },
       { "term": "202340", "crn": "41121" },
       { "term": "202340", "crn": "42047" },
@@ -52,7 +53,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18607" },
       { "term": "202330", "crn": "33325" },
       { "term": "202310", "crn": "21045" }
     ],
@@ -84,7 +84,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "13158" },
       { "term": "202330", "crn": "31809" },
       { "term": "202310", "crn": "13572" }
     ],
@@ -99,7 +98,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "16772" }],
+    "sections": [],
     "description": "Studies convex optimization, a branch of optimization techniques that deals with convex problems. Convex optimization problems appear in many real-world applications and at the same time are theoretically very interesting. Offers students an opportunity to obtain the skills required for solving convex problems and using techniques of convex analysis in solving nonconvex problems. Covers convex analysis, convex optimization problems, second-order cone programming, semidefinite programming, optimality conditions and duality theory, convex geometric problems, theory of computational complexity and convergence rate of algorithms, interior point methods, and relaxations and approximation algorithms. Applications include convex optimization, nonconvex quadratic optimization, combinatorial and network optimization problems, and optimal control problems.",
     "coreqs": [],
     "prereqs": [{ "subject": "OR", "number": "6205" }]
@@ -113,7 +112,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11845" },
-      { "term": "202410", "crn": "15353" },
       { "term": "202330", "crn": "31052" },
       { "term": "202310", "crn": "12070" },
       { "term": "202310", "crn": "16707" }
@@ -139,6 +137,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "21249" },
+      { "term": "202410", "crn": "21561" },
       { "term": "202330", "crn": "40044" }
     ],
     "description": "Offers analytical and/or experimental work conducted under the direction of the faculty in fulfillment of the requirements for the degree. Requires first-year students to attend a graduate seminar program that introduces the students to the methods of choosing a research topic, conducting research, and preparing a thesis. Requires successful completion of the seminar program. May be repeated without limit.",

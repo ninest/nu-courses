@@ -34,7 +34,6 @@
       { "term": "202410", "crn": "10048" },
       { "term": "202410", "crn": "10047" },
       { "term": "202410", "crn": "17125" },
-      { "term": "202410", "crn": "20891" },
       { "term": "202330", "crn": "30061" },
       { "term": "202330", "crn": "30060" },
       { "term": "202330", "crn": "38101" },
@@ -279,6 +278,18 @@
     "nuPath": [],
     "sections": [{ "term": "202340", "crn": "41653" }],
     "description": "Focuses on a unique aspect of the Spanish language. The specific topics are chosen to reflect current developments in the language and expressed student interests. Focuses on the use of the language for specific purposes or its use in specialized settings (e.g., media, business, health). Requires at least an intermediate level of skill in the language. May be repeated up to three times.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SPNS",
+    "number": "5976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "22301" }],
+    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   }

@@ -90,6 +90,18 @@
   },
   {
     "subject": "JRNL",
+    "number": "1949",
+    "title": "Covering Race in Pop Culture and the Media",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "IC"],
+    "sections": [{ "term": "202410", "crn": "21470" }],
+    "description": "Engages and revisits how lyrics, songs, movies, articles, and books inform race and how race informs them. As journalists are required to cover a myriad of subjects, it is vital to recognize the various ways in which race informs a cultural awareness. How do people infuse that awareness into what journalists do? Students read, watch movies, and listen to music, all through a lens of critical revision. Examines pop culture and media outputs that have influence over the creation of our perceptions of race while, at the same time, revise how race does and should influence information accessed through the media. Offers students an opportunity to produce high-quality short as well as narrative, long-form, feature-length articles.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "JRNL",
     "number": "2201",
     "title": "Journalism 2: Intermediate Reporting",
     "scheduleType": "Lecture",
@@ -223,9 +235,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "17019" },
-      { "term": "202410", "crn": "19643" },
       { "term": "202410", "crn": "19645" },
-      { "term": "202410", "crn": "19646" },
       { "term": "202330", "crn": "38509" },
       { "term": "202330", "crn": "38510" },
       { "term": "202330", "crn": "39079" },
@@ -593,7 +603,6 @@
       { "term": "202410", "crn": "17032" },
       { "term": "202410", "crn": "17033" },
       { "term": "202410", "crn": "20146" },
-      { "term": "202410", "crn": "20148" },
       { "term": "202410", "crn": "20163" },
       { "term": "202360", "crn": "61402" },
       { "term": "202330", "crn": "38515" },
@@ -647,7 +656,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11828" },
-      { "term": "202410", "crn": "12461" },
       { "term": "202310", "crn": "12050" },
       { "term": "202310", "crn": "12767" }
     ],

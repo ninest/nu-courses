@@ -58,7 +58,6 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "13011" },
       { "term": "202360", "crn": "61307" },
       { "term": "202330", "crn": "31504" }
     ],
@@ -73,7 +72,7 @@
     "scheduleType": "Lab",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "11527" }],
+    "sections": [],
     "description": "Accompanies ARMY 2202. Introduces basic soldier skills and squad-level tactical operations in leadership lab. Includes participation in physical fitness training.",
     "coreqs": [],
     "prereqs": []
@@ -86,7 +85,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "10281" },
       { "term": "202340", "crn": "42156" },
       { "term": "202330", "crn": "35151" }
     ],
@@ -101,7 +99,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "12771" }],
+    "sections": [],
     "description": "Focuses on applied leadership in small-unit operations. Constitutes an academically challenging course where the cadet is required to study, practice, and apply the fundamentals of direct-level leadership and small-unit tactics at the platoon level. At the conclusion of this course, the successful cadet should be capable of planning, coordinating, navigating, motivating, and leading a platoon in the execution of a mission. Seeks to prepare the cadet for the ROTC Cadet Leader Course (CLC), which the cadet attends in the summer at Fort Knox, KY. Requires students to apply their knowledge and leadership competencies outside the classroom in a hands-on performance-oriented environment during leadership labs and other field activities (team-building exercises, leadership development exercises). Requires prior completion of ARMY 1101, ARMY 1102, ARMY 2201, and ARMY 2202 or equivalent military experience.",
     "coreqs": [],
     "prereqs": []
@@ -113,7 +111,7 @@
     "scheduleType": "Lab",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "11528" }],
+    "sections": [],
     "description": "Offers a leadership lab introducing basic soldier skills and squad-level tactical operations.",
     "coreqs": [],
     "prereqs": []
@@ -126,7 +124,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "11967" },
       { "term": "202310", "crn": "12204" },
       { "term": "202240", "crn": "41994" }
     ],
@@ -156,7 +153,7 @@
     "scheduleType": "Lab",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "11529" }],
+    "sections": [],
     "description": "Introduces basic soldier skills and squad-level tactical operations in leadership lab. Includes participation in physical fitness training.",
     "coreqs": [],
     "prereqs": []

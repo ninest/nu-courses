@@ -25,6 +25,7 @@
     "sections": [
       { "term": "202410", "crn": "10427" },
       { "term": "202410", "crn": "18943" },
+      { "term": "202410", "crn": "21330" },
       { "term": "202410", "crn": "10408" },
       { "term": "202410", "crn": "10407" },
       { "term": "202410", "crn": "12864" },
@@ -75,6 +76,8 @@
     "nuPath": ["AD", "SI"],
     "sections": [
       { "term": "202410", "crn": "10426" },
+      { "term": "202410", "crn": "21307" },
+      { "term": "202410", "crn": "21308" },
       { "term": "202410", "crn": "13593" },
       { "term": "202410", "crn": "14546" },
       { "term": "202410", "crn": "14577" },
@@ -133,8 +136,6 @@
       { "term": "202410", "crn": "11142" },
       { "term": "202410", "crn": "11143" },
       { "term": "202410", "crn": "14643" },
-      { "term": "202410", "crn": "14741" },
-      { "term": "202410", "crn": "11227" },
       { "term": "202330", "crn": "31175" },
       { "term": "202330", "crn": "31179" },
       { "term": "202330", "crn": "31180" },
@@ -528,6 +529,10 @@
       { "subject": "ENGW", "number": "1102" },
       "Or",
       { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" },
       "Or",
       { "subject": "ENGL", "number": "1102" },
       ")",
@@ -1035,14 +1040,13 @@
     "title": "Senior Economics Seminar",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": ["CE", "WI"],
+    "nuPath": ["WI", "CE"],
     "sections": [
       { "term": "202410", "crn": "11237" },
       { "term": "202410", "crn": "11338" },
       { "term": "202410", "crn": "12376" },
       { "term": "202410", "crn": "16678" },
       { "term": "202360", "crn": "60304" },
-      { "term": "202360", "crn": "61702" },
       { "term": "202340", "crn": "40394" },
       { "term": "202330", "crn": "38956" },
       { "term": "202330", "crn": "38957" },
@@ -1291,6 +1295,7 @@
     "sections": [
       { "term": "202410", "crn": "11841" },
       { "term": "202410", "crn": "18732" },
+      { "term": "202410", "crn": "21496" },
       { "term": "202360", "crn": "61149" },
       { "term": "202360", "crn": "61153" },
       { "term": "202360", "crn": "61240" },
@@ -1316,7 +1321,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18814" },
+      { "term": "202410", "crn": "21607" },
       { "term": "202360", "crn": "61192" },
       { "term": "202310", "crn": "21260" },
       { "term": "202260", "crn": "61558" }
@@ -1487,6 +1492,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "22337" },
       { "term": "202360", "crn": "61573" },
       { "term": "202330", "crn": "39925" },
       { "term": "202330", "crn": "40378" },
@@ -1515,7 +1521,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20689" }],
+    "sections": [],
     "description": "Econ PhD and PhD Advanced Entry students only.",
     "coreqs": [],
     "prereqs": []
@@ -1545,10 +1551,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "20691" },
-      { "term": "202330", "crn": "32630" }
-    ],
+    "sections": [{ "term": "202330", "crn": "32630" }],
     "description": "First of two consecutive semesters to meet the residency requirement of the doctoral program.",
     "coreqs": [],
     "prereqs": [{ "subject": "ECON", "number": "9000" }]
@@ -1560,10 +1563,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "20694" },
-      { "term": "202350", "crn": "51681" }
-    ],
+    "sections": [{ "term": "202350", "crn": "51681" }],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
     "prereqs": [{ "subject": "ECON", "number": "9990" }]

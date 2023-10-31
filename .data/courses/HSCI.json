@@ -15,6 +15,7 @@
       { "term": "202410", "crn": "14525" },
       { "term": "202410", "crn": "19599" },
       { "term": "202410", "crn": "19601" },
+      { "term": "202410", "crn": "21791" },
       { "term": "202330", "crn": "31006" },
       { "term": "202330", "crn": "32623" },
       { "term": "202330", "crn": "35895" },
@@ -113,7 +114,6 @@
       { "term": "202410", "crn": "15612" },
       { "term": "202410", "crn": "17037" },
       { "term": "202410", "crn": "17038" },
-      { "term": "202410", "crn": "17039" },
       { "term": "202330", "crn": "38411" },
       { "term": "202330", "crn": "31261" },
       { "term": "202330", "crn": "31768" },
@@ -145,7 +145,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "17049" },
       { "term": "202410", "crn": "19696" },
       { "term": "202340", "crn": "41680" },
       { "term": "202330", "crn": "33799" },
@@ -271,10 +270,7 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "17053" },
-      { "term": "202410", "crn": "20323" }
-    ],
+    "sections": [{ "term": "202410", "crn": "17053" }],
     "description": "Introduces students to the generation of real-world evidence (RWE) from real-world data (RWD) collected through different forms of observational health data. Examines how RWE is used to inform regulators and other stakeholder groups in life sciences and healthcare. Emphasizes the role of team science in executing an RWE analysis.",
     "coreqs": [],
     "prereqs": []
@@ -286,10 +282,7 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "17055" },
-      { "term": "202410", "crn": "20324" }
-    ],
+    "sections": [{ "term": "202410", "crn": "20324" }],
     "description": "Introduces students to design principles behind data modeling in life sciences and healthcare. Examines and compares approaches to common data models across different research communities. Explores the rationale for popular data models through the use of industry case studies.",
     "coreqs": [],
     "prereqs": []
@@ -301,10 +294,7 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "17057" },
-      { "term": "202410", "crn": "20325" }
-    ],
+    "sections": [{ "term": "202410", "crn": "17057" }],
     "description": "Surveys approaches to observational research across pharmacoepidemiology, emphasizing approaches used by the Observational Health Data Sciences and Informatics community.",
     "coreqs": [],
     "prereqs": []

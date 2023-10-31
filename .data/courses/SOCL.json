@@ -221,6 +221,7 @@
     "nuPath": ["DD", "SI"],
     "sections": [
       { "term": "202410", "crn": "12399" },
+      { "term": "202410", "crn": "21287" },
       { "term": "202410", "crn": "20221" },
       { "term": "202410", "crn": "20480" },
       { "term": "202340", "crn": "42012" },
@@ -352,7 +353,7 @@
     "title": "The Immigrant Experience: Ethnicity, Race, and Inequality in America",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["SI"],
+    "nuPath": ["EX", "SI"],
     "sections": [
       { "term": "202410", "crn": "19455" },
       { "term": "202330", "crn": "39411" }
@@ -525,10 +526,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [
-      { "term": "202410", "crn": "17927" },
-      { "term": "202330", "crn": "38236" }
-    ],
+    "sections": [{ "term": "202330", "crn": "38236" }],
     "description": "Examines the comparative racialization of Blacks and Asians in the Americas and relations between these communities. Introduces sociological theories of race/ethnicity, a chronology of Afro-Asian relations in the United States, and the impact of 1970s deindustrialization and post–1965 Asian immigration. Covers the internationalism of Black and Asian leaders (e.g., W.E.B. du Bois and Mao Tse-Tung) in the developing nations and the overlapping Civil Rights, Black Power, and Asian American movements.",
     "coreqs": [],
     "prereqs": [
@@ -572,7 +570,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20570" }],
+    "sections": [],
     "description": "Designed as a specialized themes course for students with experience in sociology and/or anthropology. Takes advantage of unique opportunities—visiting guests, special thematic interests—which are not part of the regular curriculum. May be repeated up to three times.",
     "coreqs": [],
     "prereqs": [
@@ -774,6 +772,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "21639" },
+      { "term": "202410", "crn": "22150" },
+      { "term": "202360", "crn": "61784" },
       { "term": "202350", "crn": "53390" },
       { "term": "202330", "crn": "40217" },
       { "term": "202330", "crn": "40344" },
@@ -799,6 +800,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18717" },
+      { "term": "202410", "crn": "21514" },
+      { "term": "202410", "crn": "21518" },
+      { "term": "202410", "crn": "21627" },
       { "term": "202350", "crn": "51745" },
       { "term": "202330", "crn": "38241" },
       { "term": "202330", "crn": "40390" },
@@ -823,6 +827,10 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15732" },
+      { "term": "202410", "crn": "21499" },
+      { "term": "202410", "crn": "21577" },
+      { "term": "202410", "crn": "21967" },
+      { "term": "202410", "crn": "22070" },
       { "term": "202350", "crn": "51280" },
       { "term": "202350", "crn": "53130" },
       { "term": "202350", "crn": "53131" },
@@ -875,12 +883,20 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "19460" },
+      { "term": "202410", "crn": "21451" },
+      { "term": "202410", "crn": "21452" },
+      { "term": "202410", "crn": "21453" },
+      { "term": "202410", "crn": "21454" },
+      { "term": "202410", "crn": "21456" },
+      { "term": "202410", "crn": "22538" },
+      { "term": "202360", "crn": "61814" },
       { "term": "202350", "crn": "50453" },
       { "term": "202350", "crn": "52109" },
       { "term": "202350", "crn": "52110" },
       { "term": "202350", "crn": "52112" },
       { "term": "202350", "crn": "52872" },
       { "term": "202350", "crn": "53248" },
+      { "term": "202350", "crn": "53423" },
       { "term": "202330", "crn": "39216" },
       { "term": "202330", "crn": "39217" },
       { "term": "202330", "crn": "39218" },

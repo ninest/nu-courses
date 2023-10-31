@@ -81,7 +81,6 @@
     "nuPath": ["ND"],
     "sections": [
       { "term": "202410", "crn": "13972" },
-      { "term": "202410", "crn": "20335" },
       { "term": "202330", "crn": "35819" },
       { "term": "202310", "crn": "14579" }
     ],
@@ -100,8 +99,6 @@
       { "term": "202410", "crn": "13973" },
       { "term": "202410", "crn": "13974" },
       { "term": "202410", "crn": "15628" },
-      { "term": "202410", "crn": "18244" },
-      { "term": "202410", "crn": "20337" },
       { "term": "202330", "crn": "35820" },
       { "term": "202330", "crn": "35821" },
       { "term": "202330", "crn": "38345" },
@@ -224,7 +221,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "20012" },
-      { "term": "202410", "crn": "20338" },
       { "term": "202330", "crn": "38347" }
     ],
     "description": "Focuses on the origin and evolution of landscape features by processes operating at or near the earth's surface. Exercises introduce interpretation of air photos, topographic maps, remotely sensed data, and digital elevation models.",
@@ -240,7 +236,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "20013" },
-      { "term": "202410", "crn": "20340" },
       { "term": "202330", "crn": "38348" }
     ],
     "description": "Accompanies ENVR 2340. Covers topics from the course through various experiments.",
@@ -271,7 +266,6 @@
     "nuPath": ["AD", "FQ"],
     "sections": [
       { "term": "202410", "crn": "13518" },
-      { "term": "202360", "crn": "60936" },
       { "term": "202330", "crn": "32397" },
       { "term": "202310", "crn": "14002" },
       { "term": "202260", "crn": "61300" }
@@ -300,8 +294,6 @@
       { "term": "202410", "crn": "14422" },
       { "term": "202410", "crn": "14432" },
       { "term": "202410", "crn": "20014" },
-      { "term": "202360", "crn": "60937" },
-      { "term": "202360", "crn": "61381" },
       { "term": "202330", "crn": "32643" },
       { "term": "202330", "crn": "32398" },
       { "term": "202330", "crn": "32399" },
@@ -374,7 +366,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20244" }],
+    "sections": [],
     "description": "Offers an opportunity to conduct introductory-level research or creative endeavors under faculty supervision.",
     "coreqs": [],
     "prereqs": []
@@ -433,7 +425,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16994" },
-      { "term": "202410", "crn": "20342" },
       { "term": "202330", "crn": "35831" },
       { "term": "202310", "crn": "19357" },
       { "term": "202310", "crn": "20756" }
@@ -1015,7 +1006,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "17819" },
       { "term": "202330", "crn": "37024" },
       { "term": "202310", "crn": "20242" }
     ],
@@ -1108,7 +1098,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202410", "crn": "21641" }],
     "description": "Provides eligible students with an opportunity for part-time work experience.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "6000" }]

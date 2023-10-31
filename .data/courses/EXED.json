@@ -1,0 +1,30 @@
+[
+  {
+    "subject": "EXED",
+    "number": "4945",
+    "title": "Experiential Integration Seminar",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "21461" }],
+    "description": "Guides students in connecting experiential learning to key concepts and skills for the student’s degree program. May be repeated up to five times.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EXED",
+    "number": "6945",
+    "title": "Experiential Integration Seminar",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202410", "crn": "21462" },
+      { "term": "202410", "crn": "21645" },
+      { "term": "202410", "crn": "21646" }
+    ],
+    "description": "Guides students in connecting experiential learning to key concepts and skills for the student’s degree program. May be repeated up to five times.",
+    "coreqs": [],
+    "prereqs": []
+  }
+]

@@ -520,7 +520,7 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202410", "crn": "20191" }],
+    "sections": [],
     "description": "Studies the principles of evidence-based medicine and how to apply them to patient-centered care. Offers students an opportunity to develop skills in critical appraisal of the scientific literature and practical application of the evidence to clinical decision making. Consists of didactic instruction, in-class group projects, and a group-based written assignment. Applies principles of research methodology, biostatistics, and professional writing.",
     "coreqs": [],
     "prereqs": [
@@ -654,10 +654,7 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "20320" },
-      { "term": "202350", "crn": "50607" }
-    ],
+    "sections": [{ "term": "202350", "crn": "50607" }],
     "description": "Offers a global overview of pharmaceutical industry career options and pathways. Focuses on all major functions of the industry, such as clinical research and medical affairs. Additional areas covered include regulatory affairs, health economic and outcomes research, marketing, sales, scientific liaisons, and pharmacovigilance. Explores the phases of drug development and how these phases interact with different departments.",
     "coreqs": [],
     "prereqs": []
@@ -673,17 +670,16 @@
       { "term": "202410", "crn": "12571" },
       { "term": "202410", "crn": "12971" },
       { "term": "202410", "crn": "13843" },
-      { "term": "202410", "crn": "15745" },
       { "term": "202410", "crn": "15746" },
       { "term": "202410", "crn": "17970" },
-      { "term": "202410", "crn": "18836" },
       { "term": "202410", "crn": "18825" },
       { "term": "202410", "crn": "18826" },
-      { "term": "202410", "crn": "18833" },
       { "term": "202410", "crn": "20721" },
       { "term": "202410", "crn": "21141" },
       { "term": "202410", "crn": "21252" },
       { "term": "202410", "crn": "21254" },
+      { "term": "202410", "crn": "21302" },
+      { "term": "202410", "crn": "21464" },
       { "term": "202330", "crn": "32880" },
       { "term": "202330", "crn": "33361" },
       { "term": "202330", "crn": "33559" },
@@ -938,7 +934,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13180" },
-      { "term": "202410", "crn": "14491" },
       { "term": "202350", "crn": "50086" },
       { "term": "202350", "crn": "50498" },
       { "term": "202330", "crn": "30649" },
@@ -958,7 +953,6 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "10600" },
       { "term": "202350", "crn": "50499" },
       { "term": "202350", "crn": "52895" },
       { "term": "202310", "crn": "10654" }
@@ -1040,7 +1034,6 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "10598" },
       { "term": "202410", "crn": "13183" },
       { "term": "202350", "crn": "50082" },
       { "term": "202350", "crn": "50503" },
@@ -1212,7 +1205,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13188" },
-      { "term": "202410", "crn": "17964" },
       { "term": "202350", "crn": "52901" },
       { "term": "202350", "crn": "52902" },
       { "term": "202330", "crn": "33454" },
@@ -1222,6 +1214,18 @@
       { "term": "202310", "crn": "20392" }
     ],
     "description": "Offers students interested in gaining basic or clinical research experience an opportunity to work under the direction of an experienced researcher at an appropriate site. Students can elect either a basic science (lab-based) preceptor or a clinical (patient-based) preceptor. Students can expect to be an active participant in a variety of different research activities and experiences that are deemed appropriate by the preceptor. The research efforts of the student may result in a peer-reviewed research abstract and/or presentation. May be repeated up to two times.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHMD",
+    "number": "6964",
+    "title": "Co-op Work Experience",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "21926" }],
+    "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   }

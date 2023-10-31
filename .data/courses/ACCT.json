@@ -33,6 +33,9 @@
       { "term": "202410", "crn": "21054" },
       { "term": "202410", "crn": "21055" },
       { "term": "202410", "crn": "21056" },
+      { "term": "202410", "crn": "21310" },
+      { "term": "202410", "crn": "21311" },
+      { "term": "202360", "crn": "60678" },
       { "term": "202360", "crn": "60706" },
       { "term": "202340", "crn": "40029" },
       { "term": "202340", "crn": "40028" },
@@ -98,7 +101,6 @@
       { "term": "202410", "crn": "11096" },
       { "term": "202410", "crn": "11097" },
       { "term": "202410", "crn": "11098" },
-      { "term": "202410", "crn": "14622" },
       { "term": "202410", "crn": "17953" },
       { "term": "202340", "crn": "40141" },
       { "term": "202340", "crn": "40142" },
@@ -161,7 +163,6 @@
       { "term": "202410", "crn": "17817" },
       { "term": "202410", "crn": "18593" },
       { "term": "202410", "crn": "18999" },
-      { "term": "202410", "crn": "21211" },
       { "term": "202360", "crn": "60031" },
       { "term": "202360", "crn": "60030" },
       { "term": "202360", "crn": "60592" },
@@ -870,10 +871,7 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "15254" },
-      { "term": "202310", "crn": "16547" }
-    ],
+    "sections": [{ "term": "202310", "crn": "16547" }],
     "description": "Examines the general rules for the taxation of estates and trusts. Topics include trusts that distribute current income only, grantor trusts, irrevocable trusts, charitable vehicles, income in respect of a decedent, estates and trusts that may accumulate income or may distribute corpus, and treatments of excess distributions and beneficiaries.",
     "coreqs": [],
     "prereqs": [{ "subject": "ACCT", "number": "6232" }]

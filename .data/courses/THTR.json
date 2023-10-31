@@ -145,8 +145,8 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI", "IC"],
-    "sections": [{ "term": "202410", "crn": "21061" }],
-    "description": "Explores dance as both performance and history, practice, and theory. Examines the ways in which diverse dance genres&#8212;such as modern, jazz, American ballet, African-American, and hip-hop&#8212;embody ideas about culture, politics, race, and gender. Offers students an opportunity to rehearse and perform dance techniques of various styles and by significant choreographers. Includes research and writing assignments.",
+    "sections": [],
+    "description": "Explores dance as both performance and history, practice, and theory. Examines the ways in which diverse dance genres—such as modern, jazz, American ballet, African-American, and hip-hop—embody ideas about culture, politics, race, and gender. Offers students an opportunity to rehearse and perform dance techniques of various styles and by significant choreographers. Includes research and writing assignments.",
     "coreqs": [],
     "prereqs": []
   },
@@ -189,7 +189,6 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
-      { "term": "202410", "crn": "19485" },
       { "term": "202410", "crn": "16340" },
       { "term": "202330", "crn": "38158" },
       { "term": "202330", "crn": "38159" },
@@ -299,7 +298,7 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19502" }],
+    "sections": [],
     "description": "Emphasizes awareness of the body as an essential part of the actor’s training. Focuses on individual and group training to strengthen and free the body, enliven the imagination, and maximize onstage physical presence. Explores various methods of established movement training techniques. Students synthesize what they learn from those explorations to create their own movement performance pieces.",
     "coreqs": [],
     "prereqs": []
@@ -359,10 +358,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC"],
-    "sections": [
-      { "term": "202410", "crn": "16342" },
-      { "term": "202310", "crn": "18674" }
-    ],
+    "sections": [{ "term": "202310", "crn": "18674" }],
     "description": "Traces the creative evolution of the stage musical from its 19th-century origins to current Broadway hits; from popular entertainment to an important theatrical art. Offers students an opportunity to examine this unique and original art form from multiple perspectives—historical, cultural, political, and aesthetic—and to develop insights into the concepts and methods of such pioneering composers, lyricists, and theatre artists as Gilbert and Sullivan, Cole Porter, Rodgers and Hammerstein, Leonard Bernstein, and Stephen Sondheim.",
     "coreqs": [],
     "prereqs": []
@@ -409,10 +405,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC"],
-    "sections": [
-      { "term": "202410", "crn": "15359" },
-      { "term": "202310", "crn": "16719" }
-    ],
+    "sections": [{ "term": "202310", "crn": "16719" }],
     "description": "Offers a comprehensive experiential survey of professional theatre today. Students attend Boston-area productions that reflect a diverse range of styles and aesthetics, with special emphasis on the creation of new plays. Through preparatory readings and lectures, combined with postplay critical assessments (oral and in writing) and interactions with theatre artists (playwrights, actors, directors), offers students an opportunity to examine and discover how to interpret the art of contemporary theatre in the United States, from fringe companies to Broadway, as audience members and aspiring artists. Requires attendance at plays outside of class time.",
     "coreqs": [],
     "prereqs": []

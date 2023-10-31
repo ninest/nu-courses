@@ -7,7 +7,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "14631" },
+      { "term": "202410", "crn": "14632" },
       { "term": "202410", "crn": "14634" },
+      { "term": "202410", "crn": "20238" },
       { "term": "202330", "crn": "34417" },
       { "term": "202330", "crn": "34418" },
       { "term": "202330", "crn": "34419" },
@@ -27,6 +30,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "18473" },
+      { "term": "202410", "crn": "18479" },
+      { "term": "202410", "crn": "18480" },
+      { "term": "202410", "crn": "20239" },
       { "term": "202330", "crn": "38571" },
       { "term": "202330", "crn": "38572" },
       { "term": "202330", "crn": "38573" },
@@ -46,9 +53,13 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "18912" },
+      { "term": "202410", "crn": "12111" },
+      { "term": "202410", "crn": "13737" },
+      { "term": "202410", "crn": "13793" },
+      { "term": "202410", "crn": "17790" },
       { "term": "202410", "crn": "18913" },
       { "term": "202410", "crn": "20159" },
+      { "term": "202410", "crn": "20240" },
       { "term": "202350", "crn": "52856" },
       { "term": "202350", "crn": "52863" },
       { "term": "202350", "crn": "52914" },
@@ -79,6 +90,11 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "12265" },
+      { "term": "202410", "crn": "13312" },
+      { "term": "202410", "crn": "17791" },
+      { "term": "202410", "crn": "20241" },
+      { "term": "202410", "crn": "20153" },
       { "term": "202350", "crn": "52855" },
       { "term": "202350", "crn": "52852" },
       { "term": "202350", "crn": "52915" },
@@ -104,10 +120,15 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13307" },
+      { "term": "202410", "crn": "13309" },
       { "term": "202410", "crn": "13550" },
+      { "term": "202410", "crn": "16750" },
+      { "term": "202410", "crn": "13743" },
       { "term": "202410", "crn": "15876" },
       { "term": "202410", "crn": "18771" },
       { "term": "202410", "crn": "20156" },
+      { "term": "202410", "crn": "21312" },
+      { "term": "202410", "crn": "21628" },
       { "term": "202350", "crn": "51943" },
       { "term": "202330", "crn": "33199" },
       { "term": "202330", "crn": "33200" },
@@ -165,8 +186,10 @@
       { "term": "202410", "crn": "13003" },
       { "term": "202410", "crn": "13373" },
       { "term": "202410", "crn": "15703" },
-      { "term": "202410", "crn": "16751" },
+      { "term": "202410", "crn": "21291" },
       { "term": "202410", "crn": "18386" },
+      { "term": "202410", "crn": "21358" },
+      { "term": "202410", "crn": "19024" },
       { "term": "202350", "crn": "52639" },
       { "term": "202330", "crn": "32314" },
       { "term": "202330", "crn": "32924" },
@@ -201,10 +224,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13272" },
-      { "term": "202410", "crn": "12897" },
       { "term": "202410", "crn": "12989" },
       { "term": "202410", "crn": "13330" },
-      { "term": "202410", "crn": "13687" },
       { "term": "202410", "crn": "13688" },
       { "term": "202410", "crn": "19823" },
       { "term": "202410", "crn": "21066" },
@@ -247,6 +268,9 @@
     "sections": [
       { "term": "202410", "crn": "13275" },
       { "term": "202410", "crn": "12889" },
+      { "term": "202410", "crn": "20802" },
+      { "term": "202410", "crn": "20803" },
+      { "term": "202410", "crn": "21359" },
       { "term": "202350", "crn": "52878" },
       { "term": "202350", "crn": "52910" },
       { "term": "202330", "crn": "36523" },
@@ -269,6 +293,8 @@
       { "term": "202410", "crn": "13335" },
       { "term": "202410", "crn": "18859" },
       { "term": "202410", "crn": "18864" },
+      { "term": "202410", "crn": "21847" },
+      { "term": "202410", "crn": "21851" },
       { "term": "202350", "crn": "52885" },
       { "term": "202350", "crn": "52944" },
       { "term": "202350", "crn": "53237" },
@@ -355,6 +381,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "13374" },
       { "term": "202410", "crn": "13548" },
       { "term": "202410", "crn": "18856" },
       { "term": "202410", "crn": "18865" },
@@ -409,7 +436,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "13260" },
       { "term": "202330", "crn": "32920" },
       { "term": "202310", "crn": "13710" }
     ],
@@ -466,8 +492,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "14007" },
       { "term": "202410", "crn": "19825" },
-      { "term": "202410", "crn": "21271" },
       { "term": "202350", "crn": "52906" },
       { "term": "202350", "crn": "52886" },
       { "term": "202330", "crn": "39399" },
@@ -546,6 +572,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18472" },
+      { "term": "202410", "crn": "21093" },
       { "term": "202330", "crn": "38583" },
       { "term": "202310", "crn": "20908" },
       { "term": "202260", "crn": "61432" }
@@ -608,10 +635,7 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "13547" },
-      { "term": "202330", "crn": "33701" }
-    ],
+    "sections": [{ "term": "202330", "crn": "33701" }],
     "description": "Covers recent advances in neural nets and deep learning techniques with applications to large-scale engineering problems.",
     "coreqs": [],
     "prereqs": [{ "subject": "INFO", "number": "6205" }]
@@ -624,6 +648,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "12969" },
       { "term": "202350", "crn": "52643" },
       { "term": "202330", "crn": "36524" },
       { "term": "202330", "crn": "39605" },
@@ -659,7 +684,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20543" }],
+    "sections": [],
     "description": "Focuses on the fundamentals of engineering patient medical records as timelines of medical encounters that capture critical clinical decisions made in various contexts such as assessments, diagnoses, treatments, etc. Emphasizes semantically rich clinical information models to support predictive analysis in order to recognize patterns of disease early. Record systems typically focus on data recording for legal purposes, ignoring the critical needs of patients and caregivers. Introduces innovative software design and architecture techniques that recognize the complex interaction between patients and caregivers, provide immediately available detailed information for both, and thus invigorate clinical workplaces. Covers techniques for engineering medical applications as sociotechnical systems that promote the safety, effectiveness, and efficiency of core clinical operations.",
     "coreqs": [],
     "prereqs": [
@@ -677,7 +702,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12757" },
-      { "term": "202410", "crn": "20154" },
+      { "term": "202410", "crn": "21273" },
       { "term": "202410", "crn": "14242" },
       { "term": "202340", "crn": "41886" },
       { "term": "202340", "crn": "42008" },
@@ -705,11 +730,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "13002" },
-      { "term": "202410", "crn": "19029" },
-      { "term": "202310", "crn": "13389" }
-    ],
+    "sections": [{ "term": "202310", "crn": "13389" }],
     "description": "Emphasizes the essential coding skills for implementing self-enforcing, multiparty, mutually beneficial, contractual rights and obligations on top of blockchain technologies. Offers students an opportunity to learn how to leverage the principles and mechanisms of “decentralized autonomous organization” to programmatically coordinate the interaction between participating parties at a global scale without the need for trusting a third party and how to build blockchain-type applications that automate the interaction of a network of participating entities such as buyers, sellers, suppliers, insurance, and finance.",
     "coreqs": [],
     "prereqs": [{ "subject": "INFO", "number": "7500" }]
@@ -738,7 +759,6 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "16753" },
       { "term": "202330", "crn": "36961" },
       { "term": "202310", "crn": "19101" }
     ],
@@ -754,7 +774,6 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "16754" },
       { "term": "202330", "crn": "36957" },
       { "term": "202310", "crn": "19102" }
     ],
@@ -803,7 +822,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "16755" }],
+    "sections": [],
     "description": "Offers theoretical and experimental work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
     "prereqs": []

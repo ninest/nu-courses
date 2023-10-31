@@ -107,7 +107,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20039" }],
+    "sections": [],
     "description": "Builds on GRMN 3101 and continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
     "coreqs": [],
     "prereqs": [
@@ -142,6 +142,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "22207" },
       { "term": "202310", "crn": "21649" },
       { "term": "202240", "crn": "41775" }
     ],

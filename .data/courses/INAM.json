@@ -36,15 +36,11 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "21073" },
-      { "term": "202410", "crn": "21074" },
-      { "term": "202410", "crn": "21075" },
       { "term": "202410", "crn": "21076" },
       { "term": "202410", "crn": "21077" },
       { "term": "202410", "crn": "21078" },
       { "term": "202410", "crn": "21079" },
       { "term": "202410", "crn": "21080" },
-      { "term": "202410", "crn": "21081" },
-      { "term": "202410", "crn": "21082" },
       { "term": "202330", "crn": "39665" },
       { "term": "202330", "crn": "39671" },
       { "term": "202330", "crn": "40423" },
@@ -155,10 +151,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "14250" },
-      { "term": "202310", "crn": "14928" }
-    ],
+    "sections": [{ "term": "202310", "crn": "14928" }],
     "description": "Introduces core theoretical foundations of the creative practice and creativity studies fields. Considers interdisciplinary, contemporary, and critical frameworks alongside themes such as creative economies; performance and reception studies; placemaking; social and ecological justice; critical race and gender studies; and the intersection of ethics, culture, politics, and public policy around modes of creative practice.",
     "coreqs": [],
     "prereqs": []
@@ -224,7 +217,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "19203" },
-      { "term": "202410", "crn": "19276" },
+      { "term": "202410", "crn": "21948" },
+      { "term": "202360", "crn": "61801" },
       { "term": "202330", "crn": "40038" },
       { "term": "202330", "crn": "40147" },
       { "term": "202330", "crn": "40216" },
@@ -352,6 +346,11 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "21446" },
+      { "term": "202410", "crn": "21480" },
+      { "term": "202410", "crn": "22087" },
+      { "term": "202410", "crn": "22529" },
+      { "term": "202360", "crn": "61825" },
       { "term": "202350", "crn": "53254" },
       { "term": "202350", "crn": "53261" },
       { "term": "202350", "crn": "53265" },

@@ -92,21 +92,12 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
-      { "term": "202410", "crn": "15198" },
       { "term": "202330", "crn": "35154" },
       { "term": "202310", "crn": "16452" }
     ],
     "description": "Examines racism, racial identity, and theories of social change and racial empowerment primarily within the U.S. context. Highlights different ways in which racism and racial privilege have been experienced by different racial communities, more specifically at the micro-, meso-, and macro-levels. Offers students an opportunity to learn ways to promote racial empowerment and equity. Using theory from primarily psychology and sociology, the course investigates the impact of social systems and institutions on individual-level and group experiences of racism. Investigates students’ own racial identities, a deeper understanding of institutional inequalities and intersectionality, and practical skills in leadership and community building that can promote positive social change and racial equality.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1113" },
-      "Or",
-      { "subject": "ENGW", "number": "1114" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "AFAM",
@@ -139,7 +130,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202410", "crn": "20467" }],
+    "sections": [],
     "description": "Examines the comparative racialization of Blacks and Asians in the Americas and relations between these communities. Introduces sociological theories of race/ethnicity, a chronology of Afro-Asian relations in the United States, and the impact of 1970s deindustrialization and post–1965 Asian immigration. Covers the internationalism of Black and Asian leaders (e.g., W.E.B. du Bois and Mao Tse-Tung) in the developing nations and the overlapping Civil Rights, Black Power, and Asian American movements.",
     "coreqs": [],
     "prereqs": [

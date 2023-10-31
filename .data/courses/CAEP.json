@@ -29,7 +29,6 @@
     "sections": [
       { "term": "202410", "crn": "15266" },
       { "term": "202410", "crn": "17850" },
-      { "term": "202410", "crn": "19195" },
       { "term": "202360", "crn": "61398" },
       { "term": "202330", "crn": "35578" },
       { "term": "202330", "crn": "37102" },
@@ -82,7 +81,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["SI"],
-    "sections": [{ "term": "202410", "crn": "19534" }],
+    "sections": [],
     "description": "Explores college student activism from historical foundations, present-day causes, and the possible burgeoning motivations for student activism. Describes student movements in the context of the times in which they exist, such as free speech, antiwar, Occupy Wall Street, and Black Lives Matter, as well as in the time of a pandemic and social unrest. Presents activism as college student development and as a continuing catalyst for changing higher education. Considers the role of media and social media in student activism. Explores the significance of quasi/backlash student movements such as the white student scholarship movement. Offers students an opportunity to work in task groups to think critically about the next generation of student activism.",
     "coreqs": [],
     "prereqs": []
@@ -106,7 +105,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD"],
-    "sections": [{ "term": "202410", "crn": "17742" }],
+    "sections": [],
     "description": "Explores the impact of the Black Power movement on American colleges and universities. Examines the history of the movement and its relationship to the civil rights movement and the various impacts of Black Power on contemporary higher education. Traces how the movement led to distinct ideologies, scholarship, practices, and terminology that provided new lenses through which institutions of higher education viewed Negroes in terms of the preservation, transmittal, and enrichment of their culture by means of instruction and scholarly and scientific work. Explores Negro college students’ adoption of a Black identity and making demands on campuses that manifested in curricula, programs, and services that represented this identity.",
     "coreqs": [],
     "prereqs": []
@@ -151,7 +150,6 @@
     "nuPath": ["DD"],
     "sections": [
       { "term": "202410", "crn": "10633" },
-      { "term": "202410", "crn": "15960" },
       { "term": "202310", "crn": "10694" },
       { "term": "202310", "crn": "18007" }
     ],
@@ -168,6 +166,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15871" },
+      { "term": "202410", "crn": "20906" },
       { "term": "202310", "crn": "17843" }
     ],
     "description": "Introduces students to the major theories of development and their implications for intervention. Presents and discusses infant/toddlers' development, risk, and disability in the areas of cognition, communication, motor skills, social/emotional development, and adaptive skills, and considers variation in development as a result of multiple factors. Is team-taught by professors drawn from school psychology, special education, speech-language pathology, counseling psychology, nursing, and physical therapy.",
@@ -193,7 +192,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19948" }],
+    "sections": [],
     "description": "Introduces the reverse translation of behavior from the animal laboratories of Pavlov and Skinner to the world of human behavior change via applied behavior analysis, and back to the socially significant behavior of animals that live in proximity to humans. Discusses how to identify problem behaviors of dogs, cats, and other animals and how to ethically assess and analyze these behaviors through this lens, as well as how to design an ethical course of intervention.",
     "coreqs": [],
     "prereqs": []
@@ -205,7 +204,7 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19673" }],
+    "sections": [],
     "description": "Provides an opportunity for students to learn basic concepts in applied research in psychology, education, and related behavioral and mental health fields. Provides a solid foundation for students to conceptualize the purpose, process, and key methods of applied research. Introduces relevant statistical topics within the context of their respective designs.",
     "coreqs": [],
     "prereqs": []
@@ -217,7 +216,7 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19674" }],
+    "sections": [],
     "description": "Introduces the field of pediatric psychology, which studies the role of psychology in health, illness, and healthcare among children and adolescents. Reviews various psychological, emotional, and behavioral factors associated with onset, course, and management of specific pediatric illnesses. Explores related evidence-based prevention and treatment interventions.",
     "coreqs": [],
     "prereqs": []
@@ -248,6 +247,7 @@
     "sections": [
       { "term": "202410", "crn": "10734" },
       { "term": "202410", "crn": "15683" },
+      { "term": "202410", "crn": "21361" },
       { "term": "202310", "crn": "10822" },
       { "term": "202310", "crn": "17477" }
     ],
@@ -306,6 +306,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10582" },
+      { "term": "202410", "crn": "21621" },
       { "term": "202310", "crn": "10633" }
     ],
     "description": "Provides an overview of development from birth through late adolescence. Covers the major theories of human development from a culturally informed, gender-sensitive ecological orientation. Reviews stages and theories of development from an interdisciplinary perspective and related to implications for learning. Examines cognitive, language, social/emotional, play, and physical aspects of development.",
@@ -416,6 +417,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10626" },
+      { "term": "202410", "crn": "21032" },
       { "term": "202310", "crn": "10687" }
     ],
     "description": "Addresses professional development and mental health counseling issues. Also considers professional ethics from ACA, APA, and FTI, with emphasis on the professional functioning of counselors. Discusses current issues in the practice and control of mental health. Also addresses the role of professional organizations and state licensing.",
@@ -495,6 +497,7 @@
     "sections": [
       { "term": "202410", "crn": "13633" },
       { "term": "202410", "crn": "13634" },
+      { "term": "202410", "crn": "21724" },
       { "term": "202330", "crn": "33744" },
       { "term": "202310", "crn": "14141" },
       { "term": "202310", "crn": "14142" }
@@ -562,6 +565,7 @@
     "sections": [
       { "term": "202410", "crn": "13574" },
       { "term": "202410", "crn": "13575" },
+      { "term": "202410", "crn": "21466" },
       { "term": "202330", "crn": "39526" },
       { "term": "202310", "crn": "14072" },
       { "term": "202310", "crn": "14073" }
@@ -612,7 +616,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11989" },
-      { "term": "202410", "crn": "13632" },
       { "term": "202330", "crn": "32855" },
       { "term": "202310", "crn": "12228" },
       { "term": "202310", "crn": "14140" }
@@ -791,7 +794,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11670" },
-      { "term": "202410", "crn": "16350" },
       { "term": "202310", "crn": "11881" },
       { "term": "202310", "crn": "18685" }
     ],
@@ -889,7 +891,6 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "10624" },
       { "term": "202410", "crn": "14594" },
       { "term": "202410", "crn": "15646" },
       { "term": "202410", "crn": "18712" },
@@ -1211,6 +1212,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "22141" },
       { "term": "202360", "crn": "61570" },
       { "term": "202350", "crn": "53054" },
       { "term": "202240", "crn": "41905" }
@@ -1227,6 +1229,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "21640" },
       { "term": "202330", "crn": "30738" },
       { "term": "202330", "crn": "34443" },
       { "term": "202330", "crn": "35178" }
@@ -1306,7 +1309,6 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "15303" },
       { "term": "202410", "crn": "15304" },
       { "term": "202350", "crn": "53039" },
       { "term": "202310", "crn": "16633" },
@@ -1341,6 +1343,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10558" },
+      { "term": "202410", "crn": "21435" },
       { "term": "202310", "crn": "10605" }
     ],
     "description": "Offers supervised school-based field experience coupled with seminar class.",

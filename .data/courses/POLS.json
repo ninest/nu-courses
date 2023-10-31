@@ -79,6 +79,7 @@
       { "term": "202410", "crn": "12681" },
       { "term": "202410", "crn": "13497" },
       { "term": "202410", "crn": "13798" },
+      { "term": "202410", "crn": "21458" },
       { "term": "202410", "crn": "17180" },
       { "term": "202410", "crn": "20218" },
       { "term": "202360", "crn": "60200" },
@@ -256,7 +257,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19511" }],
+    "sections": [],
     "description": "Explores the role of music in politics and the extent to which songs and their performers shape, frame, or otherwise influence political thought among audiences and listeners. Emphasizes contemporary themes and genres, with particular attention to protest songs. Examples are taken both from the United States and abroad.",
     "coreqs": [],
     "prereqs": []
@@ -329,7 +330,11 @@
       "Or",
       { "subject": "ENGW", "number": "1111" },
       "Or",
-      { "subject": "ENGW", "number": "1102" }
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -365,7 +370,9 @@
       "Or",
       { "subject": "MATH", "number": "1341" },
       "Or",
-      { "subject": "MATH", "number": "1342" }
+      { "subject": "MATH", "number": "1342" },
+      "Or",
+      { "subject": "CS", "number": "1800" }
     ]
   },
   {
@@ -746,6 +753,18 @@
   },
   {
     "subject": "POLS",
+    "number": "4703",
+    "title": "Senior Thesis",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": ["CE", "WI"],
+    "sections": [{ "term": "202410", "crn": "22075" }],
+    "description": "Offers students an opportunity to conduct a significant research project under faculty supervision on a topic within the discipline of political science. Research question is formulated and analyzed through data gathering and a review of relevant literature in political science and related fields.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "POLS",
     "number": "4910",
     "title": "Model United Nations",
     "scheduleType": "Seminar",
@@ -926,10 +945,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "17191" },
-      { "term": "202310", "crn": "19562" }
-    ],
+    "sections": [{ "term": "202310", "crn": "19562" }],
     "description": "Offers an overview of the literature on social networks, with literature from political science, sociology, economics, and physics. Analyzes the underlying topology of networks and how we visualize and analyze network data. Key topics include small-world literature and the spread of information and disease. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
     "prereqs": []
@@ -985,8 +1001,8 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20631" }],
-    "description": "Focuses on contending theories of nationalism and nationalist movements. Topics include cultural objectification and the establishment of group boundaries, ethnic elites and cultural hegemony, mass mobilization, intergroup socioeconomic disparities, nationalism and modernity, nationalist parties and their policy strategies, and the &#8220;constitution&#8221; of race, particularly in the Americas.",
+    "sections": [],
+    "description": "Focuses on contending theories of nationalism and nationalist movements. Topics include cultural objectification and the establishment of group boundaries, ethnic elites and cultural hegemony, mass mobilization, intergroup socioeconomic disparities, nationalism and modernity, nationalist parties and their policy strategies, and the “constitution” of race, particularly in the Americas.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1010,6 +1026,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "22303" },
+      { "term": "202410", "crn": "22365" },
       { "term": "202340", "crn": "42141" },
       { "term": "202350", "crn": "53288" },
       { "term": "202350", "crn": "53328" },
@@ -1135,7 +1153,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "14271" },
       { "term": "202350", "crn": "51296" },
       { "term": "202310", "crn": "14963" }
     ],

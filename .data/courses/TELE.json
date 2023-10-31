@@ -39,7 +39,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "11813" },
       { "term": "202330", "crn": "32181" },
       { "term": "202310", "crn": "12034" }
     ],
@@ -130,7 +129,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "12621" }],
+    "sections": [],
     "description": "Introduces the foundational theories and technologies of software-defined networking (SDN), a new paradigm in computer networking that allows a logically centralized software program to control the behavior of an entire physical network. Discusses SDN technologies, such as the OpenFlow specification and OpenDaylight controller, and introduces students to SDN applications and network function virtualization (NFV). Offers hands-on exposure to popular open-source software and technologies through student projects. Requires good knowledge of Java or Python.",
     "coreqs": [],
     "prereqs": [
@@ -215,7 +214,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "14511" },
-      { "term": "202410", "crn": "17606" },
       { "term": "202330", "crn": "34862" },
       { "term": "202330", "crn": "39602" },
       { "term": "202310", "crn": "15292" },
@@ -228,6 +226,18 @@
       "Or",
       { "subject": "TELE", "number": "6510" }
     ]
+  },
+  {
+    "subject": "TELE",
+    "number": "7374",
+    "title": "Communication/Network Security",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "21341" }],
+    "description": "Offers topics of current interest in the Internet of Things. Topics vary from semester to semester. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "TELE",

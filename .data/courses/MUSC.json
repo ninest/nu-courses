@@ -46,7 +46,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "17919" },
       { "term": "202340", "crn": "41740" },
       { "term": "202330", "crn": "38998" },
       { "term": "202310", "crn": "20346" }
@@ -144,7 +143,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202410", "crn": "20126" }],
+    "sections": [],
     "description": "Introduces the music of selected Near Eastern and Arab cultures (such as Persian in the East and Ethiopic and Berber in Africa), as well as the cantillation styles and practices of various chants of the Hebrew, Christian, and Islamic traditions.",
     "coreqs": [],
     "prereqs": []
@@ -213,7 +212,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10387" },
-      { "term": "202410", "crn": "17257" },
       { "term": "202410", "crn": "17258" },
       { "term": "202330", "crn": "32362" },
       { "term": "202330", "crn": "35173" },
@@ -449,6 +447,7 @@
       { "term": "202410", "crn": "13397" },
       { "term": "202410", "crn": "14209" },
       { "term": "202410", "crn": "17260" },
+      { "term": "202410", "crn": "21978" },
       { "term": "202330", "crn": "36547" },
       { "term": "202330", "crn": "36548" },
       { "term": "202330", "crn": "36549" },
@@ -535,7 +534,6 @@
     "credits": 4,
     "nuPath": ["DD", "IC", "EX"],
     "sections": [
-      { "term": "202410", "crn": "17261" },
       { "term": "202360", "crn": "60452" },
       { "term": "202340", "crn": "40202" },
       { "term": "202310", "crn": "19639" },
@@ -628,7 +626,6 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
-      { "term": "202410", "crn": "17266" },
       { "term": "202410", "crn": "20128" },
       { "term": "202340", "crn": "40500" },
       { "term": "202330", "crn": "36655" },
@@ -739,6 +736,7 @@
     "nuPath": ["DD", "SI", "WI"],
     "sections": [
       { "term": "202410", "crn": "20475" },
+      { "term": "202410", "crn": "21282" },
       { "term": "202330", "crn": "39249" }
     ],
     "description": "Combines ethnomusicology and experiential learning by exploring the diverse communities of Boston and their music. Since 17th-century encounters between the Wampanoag Nation and English Puritans, Boston has been characterized by intercultural contact and exchange. Discusses the history and legacies of such encounters, as well as present-day issues of diversity and belonging in Boston. Focuses on how communities reinforce their own cultural bonds through music and discusses alliances formed through shared experiences of diasporic, exilic, refugee, immigrant, and minority status. Through interdisciplinary, ethnographic analysis and practice, offers students an opportunity to explore how these inherently intersectional social dynamics—which engage issues of race, gender, class, ethnicity, etc.—play out through collective and individual musical practices.",
@@ -888,6 +886,18 @@
       { "term": "202410", "crn": "21058" }
     ],
     "description": "Focuses on independent work in a selected area of music under the direction of a member of the department. Enrollment is limited to qualified students by special arrangement with the supervising faculty member and with the approval of the department chair. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MUSC",
+    "number": "6300",
+    "title": "Music Perception and Cognition Research",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["ND", "AD"],
+    "sections": [{ "term": "202410", "crn": "21613" }],
+    "description": "Offers an overview of the perceptual, cognitive, and brain bases of performing, composing, and listening to music for enjoyment and for human benefit. Studies how and why music stimulates our senses and how it can promote health and well-being. Topics include theories and empirical research on pitch, rhythm, harmony, melody, timbre; music and language; development of musical ability; and special populations in musical functions. Meetings include demonstrations and exercises in experiment design and data analysis. Requires an in-depth research project (paper and in-class presentation), in consultation with the instructor. By the end of this course, students should be able to design and conduct their own research study in music perception and cognition.",
     "coreqs": [],
     "prereqs": []
   }

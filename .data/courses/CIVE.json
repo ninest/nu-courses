@@ -111,7 +111,6 @@
     "sections": [
       { "term": "202410", "crn": "10286" },
       { "term": "202410", "crn": "10285" },
-      { "term": "202410", "crn": "10060" },
       { "term": "202410", "crn": "11218" },
       { "term": "202330", "crn": "30092" },
       { "term": "202330", "crn": "30091" },
@@ -150,10 +149,7 @@
     "scheduleType": "Lab",
     "credits": 2,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "20603" },
-      { "term": "202410", "crn": "20602" }
-    ],
+    "sections": [{ "term": "202410", "crn": "20603" }],
     "description": "Accompanies CIVE 2300. Covers topics from that course through various experiments. Includes a project.",
     "coreqs": [{ "subject": "CIVE", "number": "2300" }],
     "prereqs": []
@@ -184,6 +180,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10500" },
+      { "term": "202410", "crn": "20801" },
       { "term": "202330", "crn": "30483" },
       { "term": "202310", "crn": "10538" },
       { "term": "202310", "crn": "19069" }
@@ -876,7 +873,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "14924" },
-      { "term": "202410", "crn": "15418" },
       { "term": "202330", "crn": "38187" },
       { "term": "202330", "crn": "38188" }
     ],
@@ -897,7 +893,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11219" },
-      { "term": "202410", "crn": "15420" },
       { "term": "202330", "crn": "31694" },
       { "term": "202310", "crn": "11375" },
       { "term": "202310", "crn": "16923" }
@@ -982,10 +977,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "20151" },
-      { "term": "202410", "crn": "20905" }
-    ],
+    "sections": [{ "term": "202410", "crn": "20151" }],
     "description": "Offers an interdisciplinary course covering the fundamentals of time series and spatial statistics with applications in engineering, science, and business. Introduces analysis and forecasting methods for time series, spatial, and spatiotemporal data. Discusses classical time or frequency domain methods, as well as recent techniques motivated from computer science, physics, statistics, or engineering. Case studies relate to ongoing research and to real-world examples. A demo project is selected by the instructor based on discussion with individual students. A computer-based final project can be tailored to student interests in environmental engineering, sustainability sciences, security threat assessments, social sciences, business, or management science and finance. Requires undergraduate probability and statistics (CIVE 3464 or equivalent); background in programming languages such as MATLAB or R helpful but not required.",
     "coreqs": [],
     "prereqs": []
@@ -1113,7 +1105,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16729" },
-      { "term": "202410", "crn": "17624" },
       { "term": "202310", "crn": "19075" },
       { "term": "202310", "crn": "20032" }
     ],
@@ -1418,11 +1409,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "19095" },
-      { "term": "202410", "crn": "19234" },
-      { "term": "202410", "crn": "18208" },
-      { "term": "202410", "crn": "18515" },
-      { "term": "202410", "crn": "19313" },
       { "term": "202410", "crn": "20777" },
       { "term": "202340", "crn": "42148" },
       { "term": "202330", "crn": "40201" },
@@ -1446,11 +1432,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "19258" },
-      { "term": "202410", "crn": "20938" },
-      { "term": "202310", "crn": "21711" }
-    ],
+    "sections": [{ "term": "202310", "crn": "21711" }],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision.",
     "coreqs": [],
     "prereqs": []
@@ -1464,9 +1446,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16222" },
-      { "term": "202410", "crn": "18624" },
       { "term": "202410", "crn": "18551" },
-      { "term": "202410", "crn": "19091" },
       { "term": "202410", "crn": "12109" },
       { "term": "202410", "crn": "20915" },
       { "term": "202410", "crn": "20975" },
@@ -1493,10 +1473,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "19034" },
-      { "term": "202310", "crn": "21485" }
-    ],
+    "sections": [{ "term": "202310", "crn": "21485" }],
     "description": "Offers continued thesis work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
     "prereqs": []
@@ -1509,9 +1486,6 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "16224" },
-      { "term": "202410", "crn": "14827" },
-      { "term": "202410", "crn": "19253" },
       { "term": "202340", "crn": "42287" },
       { "term": "202330", "crn": "40330" },
       { "term": "202330", "crn": "40438" },
@@ -1529,10 +1503,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "15919" },
-      { "term": "202410", "crn": "16081" },
-      { "term": "202410", "crn": "16154" },
-      { "term": "202410", "crn": "19052" },
+      { "term": "202410", "crn": "22368" },
+      { "term": "202410", "crn": "22069" },
       { "term": "202330", "crn": "35234" },
       { "term": "202330", "crn": "40297" },
       { "term": "202310", "crn": "17944" },
@@ -1549,7 +1521,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202360", "crn": "61793" }],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1589,13 +1561,11 @@
       { "term": "202410", "crn": "13890" },
       { "term": "202410", "crn": "15722" },
       { "term": "202410", "crn": "14527" },
-      { "term": "202410", "crn": "14789" },
-      { "term": "202410", "crn": "16069" },
       { "term": "202410", "crn": "19266" },
       { "term": "202410", "crn": "20770" },
       { "term": "202410", "crn": "19278" },
-      { "term": "202410", "crn": "19328" },
-      { "term": "202410", "crn": "14837" },
+      { "term": "202410", "crn": "22213" },
+      { "term": "202410", "crn": "22201" },
       { "term": "202360", "crn": "61274" },
       { "term": "202360", "crn": "60585" },
       { "term": "202360", "crn": "60817" },
@@ -1645,13 +1615,13 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "16097" },
-      { "term": "202410", "crn": "19256" },
+      { "term": "202410", "crn": "22020" },
       { "term": "202410", "crn": "20912" },
       { "term": "202410", "crn": "21190" },
       { "term": "202350", "crn": "50701" },
       { "term": "202350", "crn": "51064" },
       { "term": "202350", "crn": "50949" },
+      { "term": "202350", "crn": "51048" },
       { "term": "202350", "crn": "53047" },
       { "term": "202350", "crn": "53380" },
       { "term": "202330", "crn": "40662" },
@@ -1672,11 +1642,12 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "21579" },
+      { "term": "202410", "crn": "22149" },
       { "term": "202410", "crn": "18982" },
-      { "term": "202410", "crn": "19096" },
       { "term": "202410", "crn": "19161" },
-      { "term": "202410", "crn": "19179" },
       { "term": "202410", "crn": "21139" },
+      { "term": "202410", "crn": "21652" },
       { "term": "202350", "crn": "51804" },
       { "term": "202350", "crn": "52736" },
       { "term": "202350", "crn": "52737" },
@@ -1703,17 +1674,12 @@
       { "term": "202410", "crn": "13866" },
       { "term": "202410", "crn": "11682" },
       { "term": "202410", "crn": "14451" },
-      { "term": "202410", "crn": "15887" },
       { "term": "202410", "crn": "14597" },
       { "term": "202410", "crn": "10978" },
       { "term": "202410", "crn": "14737" },
-      { "term": "202410", "crn": "15540" },
-      { "term": "202410", "crn": "15918" },
       { "term": "202410", "crn": "16015" },
       { "term": "202410", "crn": "10858" },
       { "term": "202410", "crn": "10859" },
-      { "term": "202410", "crn": "12175" },
-      { "term": "202410", "crn": "12258" },
       { "term": "202410", "crn": "13867" },
       { "term": "202410", "crn": "18871" },
       { "term": "202410", "crn": "20544" },

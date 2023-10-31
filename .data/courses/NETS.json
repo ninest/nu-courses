@@ -49,10 +49,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "17513" },
-      { "term": "202310", "crn": "19919" }
-    ],
+    "sections": [{ "term": "202310", "crn": "19919" }],
     "description": "Offers an overview of the literature on social networks, with literature from political science, sociology, economics, and physics. Analyzes the underlying topology of networks and how we visualize and analyze network data. Key topics include small-world literature and the spread of information and disease. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
     "prereqs": []
@@ -109,10 +106,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16144" },
-      { "term": "202410", "crn": "16255" },
-      { "term": "202410", "crn": "18824" },
       { "term": "202410", "crn": "19142" },
       { "term": "202410", "crn": "19259" },
+      { "term": "202410", "crn": "21565" },
       { "term": "202350", "crn": "51368" },
       { "term": "202350", "crn": "53221" },
       { "term": "202330", "crn": "37556" },
@@ -159,7 +155,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "40242" }],
+    "sections": [
+      { "term": "202410", "crn": "22536" },
+      { "term": "202330", "crn": "40242" }
+    ],
     "description": "Offers advanced students an opportunity to work with an individual instructor on a topic related to current research. Instructor and student negotiate a written agreement as to what topic(s) are covered and what written or laboratory work forms the basis for the grade. Viewed as a lead-in to dissertation research. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -175,11 +174,10 @@
       { "term": "202410", "crn": "17503" },
       { "term": "202410", "crn": "17504" },
       { "term": "202410", "crn": "17505" },
-      { "term": "202410", "crn": "17506" },
       { "term": "202410", "crn": "17507" },
-      { "term": "202410", "crn": "17508" },
-      { "term": "202410", "crn": "17509" },
       { "term": "202410", "crn": "18998" },
+      { "term": "202410", "crn": "21566" },
+      { "term": "202410", "crn": "22486" },
       { "term": "202350", "crn": "53182" },
       { "term": "202350", "crn": "53183" },
       { "term": "202350", "crn": "53184" },
@@ -210,10 +208,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "15888" },
-      { "term": "202410", "crn": "16070" }
-    ],
+    "sections": [],
     "description": "Offers experimental and theoretical work for PhD candidates. Requires written dissertation and final oral exam.",
     "coreqs": [],
     "prereqs": [{ "subject": "NETS", "number": "9000" }]
@@ -228,12 +223,10 @@
     "sections": [
       { "term": "202410", "crn": "15451" },
       { "term": "202410", "crn": "15866" },
-      { "term": "202410", "crn": "15889" },
       { "term": "202410", "crn": "15952" },
       { "term": "202410", "crn": "16068" },
-      { "term": "202410", "crn": "16072" },
-      { "term": "202410", "crn": "16084" },
       { "term": "202360", "crn": "61757" },
+      { "term": "202350", "crn": "53426" },
       { "term": "202330", "crn": "32695" },
       { "term": "202330", "crn": "37403" },
       { "term": "202330", "crn": "33168" },

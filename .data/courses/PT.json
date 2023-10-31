@@ -262,11 +262,7 @@
     ],
     "description": "Offers students an opportunity to obtain in-depth knowledge in sports medicine. Covers taping and bracing procedures and techniques to assess concussions with various current protocols. Exposes students to current common pathologies within the athletic population. Discusses return-to-play criteria for an athlete once an injury has occurred and has subsequently been treated and rehabilitated.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "PT", "number": "5505" },
-      "Or",
-      { "subject": "PT", "number": "5505" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "PT",
@@ -668,8 +664,12 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "19240" },
       { "term": "202410", "crn": "19274" },
+      { "term": "202410", "crn": "21944" },
+      { "term": "202410", "crn": "21945" },
+      { "term": "202410", "crn": "22102" },
+      { "term": "202410", "crn": "22103" },
+      { "term": "202410", "crn": "22310" },
       { "term": "202350", "crn": "53085" },
       { "term": "202330", "crn": "40321" },
       { "term": "202310", "crn": "21693" },
@@ -945,7 +945,6 @@
     "nuPath": ["DD"],
     "sections": [
       { "term": "202410", "crn": "20199" },
-      { "term": "202410", "crn": "20200" },
       { "term": "202330", "crn": "36288" },
       { "term": "202330", "crn": "36289" },
       { "term": "202260", "crn": "60167" }
@@ -1574,10 +1573,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "16246" },
-      { "term": "202310", "crn": "18532" }
-    ],
+    "sections": [{ "term": "202310", "crn": "18532" }],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1651,8 +1647,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "19021" },
-      { "term": "202410", "crn": "19175" },
       { "term": "202350", "crn": "53315" },
       { "term": "202330", "crn": "40268" },
       { "term": "202310", "crn": "21468" },
@@ -1670,6 +1664,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202410", "crn": "22084" },
       { "term": "202350", "crn": "53316" },
       { "term": "202330", "crn": "39994" },
       { "term": "202330", "crn": "40272" }

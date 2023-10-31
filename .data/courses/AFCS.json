@@ -18,7 +18,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD"],
-    "sections": [{ "term": "202410", "crn": "21174" }],
+    "sections": [],
     "description": "Focuses on how the Black family functions, both interpersonally and as a social unit within a carceral state. Introduces the diverse institutional, cultural, and historical issues relating to past and present circumstances from the effects of slavery and colonization on the Black family structure. Explores policies and practices within carceral institutions dealing with childhood, motherhood, and fatherhood. Assesses the social and psychological harms of incarceration on Black children and their families.",
     "coreqs": [],
     "prereqs": [

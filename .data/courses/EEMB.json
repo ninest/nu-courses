@@ -364,6 +364,18 @@
   },
   {
     "subject": "EEMB",
+    "number": "4992",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202410", "crn": "21898" }],
+    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EEMB",
     "number": "5130",
     "title": "Population Dynamics",
     "scheduleType": "Lecture",
@@ -849,7 +861,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "16980" }],
+    "sections": [],
     "description": "Designed to prepare PhD students with a concentration in marine sciences for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
     "prereqs": []
@@ -862,7 +874,6 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "13398" },
       { "term": "202330", "crn": "38340" },
       { "term": "202310", "crn": "13872" }
     ],
@@ -877,10 +888,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 2,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "15601" },
-      { "term": "202310", "crn": "17314" }
-    ],
+    "sections": [{ "term": "202310", "crn": "17314" }],
     "description": "Designed to prepare PhD students with a concentration in sustainability for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
     "prereqs": []
@@ -958,7 +966,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "11848" },
       { "term": "202330", "crn": "38343" },
       { "term": "202310", "crn": "12073" }
     ],
@@ -974,7 +981,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "19105" },
       { "term": "202350", "crn": "52536" },
       { "term": "202330", "crn": "34800" },
       { "term": "202310", "crn": "21556" }

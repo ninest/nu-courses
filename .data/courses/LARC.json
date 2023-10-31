@@ -138,10 +138,7 @@
     "scheduleType": "Studio",
     "credits": 6,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "12261" },
-      { "term": "202310", "crn": "12530" }
-    ],
+    "sections": [{ "term": "202310", "crn": "12530" }],
     "description": "Introduces sustainable landscape planning techniques with an emphasis on adaptive urbanism. Key topics include the designed and managed relationship of cities to their regional ecologies, such as sub/urbanized watersheds and coastal zones, as well as the spatial, material, and programmatic roles of environmental infrastructures in the civic landscape. Particularly emphasizes the market-based integration of recreation, transit, food, housing, and industrial networks with living systems such as urban forests, riparian corridors, managed habitats, and constructed wetlands.",
     "coreqs": [],
     "prereqs": [
@@ -193,10 +190,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ND"],
-    "sections": [
-      { "term": "202410", "crn": "12262" },
-      { "term": "202310", "crn": "12531" }
-    ],
+    "sections": [{ "term": "202310", "crn": "12531" }],
     "description": "Introduces fundamental-to-advanced concepts in the field of landscape and urban ecology. Focuses on the landscape-scale spatial structure, temporal patterns, and geographic ranges produced by the intersection of large-scale environmental and human processes. Emphasizes spatial taxonomies (patch, corridor, mosaic, granularity, edge, ecotone) produced across diverse landscape types influenced by human development and landscape dynamics in the built environment (disturbance, fragmentation, accumulation, and succession). Incorporates basic techniques in geographic-information-system software.",
     "coreqs": [],
     "prereqs": []
@@ -209,7 +203,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202410", "crn": "21085" }],
-    "description": "Offers a lecture/workshop/field-based course that builds upon landscape technology skills introduced in LARC 2230 and LARC 2240, with a focus on ecotechnologies operating in the built environment. Core topics include design and implementation metrics, material life-cycle management, funding models, and aesthetic and cultural aspects. Potential topics include green roofs, green walls, bioswales, pervious pavements, constructed wetlands, &#8220;complete street&#8221; elements, geosensor networks, alternative waste management, water detention and energy generation methods, and living infrastructures for coastal environments.",
+    "description": "Offers a lecture/workshop/field-based course that builds upon landscape technology skills introduced in LARC 2230 and LARC 2240, with a focus on ecotechnologies operating in the built environment. Core topics include design and implementation metrics, material life-cycle management, funding models, and aesthetic and cultural aspects. Potential topics include green roofs, green walls, bioswales, pervious pavements, constructed wetlands, “complete street” elements, geosensor networks, alternative waste management, water detention and energy generation methods, and living infrastructures for coastal environments.",
     "coreqs": [],
     "prereqs": [
       { "subject": "LARC", "number": "2240" },

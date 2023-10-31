@@ -90,7 +90,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["AD", "WI"],
-    "sections": [{ "term": "202410", "crn": "15480" }],
+    "sections": [],
     "description": "Offers an overview of research methodologies in interpreting and translation studies for students preparing for research capstone projects. Focuses on foundational theoretical knowledge and skills in research design, hypothesis testing, sampling and measurement, research ethics with deaf populations, as well as basic data analysis and interpretation. Offers students an opportunity to evaluate current literature in the discipline, write a project proposal to plan a research study or community-based project, and link social science research methods to sign language interpreting and translation practice.",
     "coreqs": [],
     "prereqs": [{ "subject": "INTP", "number": "3500" }]

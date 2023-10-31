@@ -52,7 +52,6 @@
     "sections": [
       { "term": "202410", "crn": "10320" },
       { "term": "202410", "crn": "10319" },
-      { "term": "202410", "crn": "15516" },
       { "term": "202410", "crn": "17205" },
       { "term": "202410", "crn": "12075" },
       { "term": "202410", "crn": "12829" },
@@ -241,7 +240,6 @@
     "nuPath": ["IC", "EX"],
     "sections": [
       { "term": "202410", "crn": "19555" },
-      { "term": "202410", "crn": "19556" },
       { "term": "202410", "crn": "21062" },
       { "term": "202360", "crn": "60355" },
       { "term": "202340", "crn": "40374" },
@@ -827,7 +825,6 @@
     "sections": [
       { "term": "202410", "crn": "17213" },
       { "term": "202410", "crn": "13036" },
-      { "term": "202410", "crn": "19564" },
       { "term": "202360", "crn": "61634" },
       { "term": "202360", "crn": "60386" },
       { "term": "202360", "crn": "61064" },
@@ -1377,7 +1374,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202410", "crn": "14373" },
       { "term": "202330", "crn": "38501" },
       { "term": "202310", "crn": "15108" }
     ],
@@ -1408,10 +1404,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202410", "crn": "15445" },
-      { "term": "202330", "crn": "39548" }
-    ],
+    "sections": [{ "term": "202330", "crn": "39548" }],
     "description": "Covers the major theories about the role of communication in U.S. politics, public opinion, and public policy. Discusses how to formulate and evaluate your own theory-based hypotheses on the influence of media in American democracy. Emphasizes the role and place of the media in a democratic system devoted to the proposition that the government should be responsive to the \"will of the people.\" The course is organized around five subjects that are central to the study of political communication: communication systems and practices; communication effects: media, politics, and society; the politics of entertainment and the changing political information environment; elections, accountability, and the mass media; and media and political institutions.",
     "coreqs": [],
     "prereqs": []
@@ -1438,7 +1431,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "17216" }],
+    "sections": [],
     "description": "Offers students an opportunity to better understand freedom and limits to freedom, particularly in the realm of speech and expression. Topics covered range from the philosophy of freedom to historical legal cases about free speech and the press to political correctness and the repression of dissent.",
     "coreqs": [],
     "prereqs": []

@@ -58,7 +58,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ER", "SI"],
-    "sections": [{ "term": "202410", "crn": "19899" }],
+    "sections": [],
     "description": "Examines the American response to the Holocaust, in terms of both contemporaneous knowledge and actions and the lasting impact on policy and culture. Starts with early twentieth-century events, such as the Armenian genocide, that shaped later attitudes. Explores the prewar period, particularly U.S. immigration and isolationist policies. Assesses Americans' knowledge of European events as the extermination campaign unfolded and fights ensued over rescue possibilities. Examines changing depictions of the Holocaust that emerged in the postwar period as a result of critical events such as the Eichmann trial and popular television and film portrayals. Finally, considers how perceptions of the Holocaust have shaped subsequent U.S. responses to genocide. HIST 2285, JRNL 2285, and JWSS 2285 are cross-listed.",
     "coreqs": [],
     "prereqs": []
