@@ -6,7 +6,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33259" }],
+    "sections": [
+      { "term": "202430", "crn": "32884" },
+      { "term": "202330", "crn": "33259" }
+    ],
     "description": "Examines key components of strategic decision making in-depth. Strategic decision making involves solving complex business problems to achieve company objectives within a competitive context. Topics covered include understanding the competitive environment, managing uncertainty, identifying and evaluating resource allocation alternatives, and creating action plans to implement strategic decisions. Emphasizes critical thinking and making decisions with incomplete information in a competitive environment.",
     "coreqs": [],
     "prereqs": []
@@ -17,8 +20,25 @@
     "title": "Strategy in Action",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["CE", "SI", "WI"],
+    "nuPath": ["CE", "WI", "SI"],
     "sections": [
+      { "term": "202430", "crn": "30363" },
+      { "term": "202430", "crn": "30361" },
+      { "term": "202430", "crn": "30360" },
+      { "term": "202430", "crn": "30359" },
+      { "term": "202430", "crn": "30358" },
+      { "term": "202430", "crn": "30357" },
+      { "term": "202430", "crn": "31993" },
+      { "term": "202430", "crn": "31364" },
+      { "term": "202430", "crn": "31594" },
+      { "term": "202430", "crn": "31806" },
+      { "term": "202430", "crn": "31912" },
+      { "term": "202430", "crn": "32014" },
+      { "term": "202430", "crn": "32035" },
+      { "term": "202430", "crn": "32064" },
+      { "term": "202430", "crn": "33495" },
+      { "term": "202430", "crn": "34346" },
+      { "term": "202430", "crn": "35630" },
       { "term": "202410", "crn": "10789" },
       { "term": "202410", "crn": "10790" },
       { "term": "202410", "crn": "10791" },
@@ -85,12 +105,26 @@
   },
   {
     "subject": "STRT",
+    "number": "4509",
+    "title": "Strategic Management",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39033" }],
+    "description": "Presents a general management perspective on business strategy, the \"big picture.\" Illustrates how a well-thought-out strategy can lead to sustained, superior performance by firms in a dynamic business environment. Offers students an opportunity to obtain a broad understanding of the importance and complexity of strategic decisions from a practical and problem-oriented approach. Applies concepts, analytic frameworks, and intuition to the strategic issues that real-world companies face.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "STRT",
     "number": "6200",
     "title": "Strategic Decision Making in a Changing Environment",
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30927" },
+      { "term": "202430", "crn": "30929" },
       { "term": "202410", "crn": "10982" },
       { "term": "202410", "crn": "10983" },
       { "term": "202410", "crn": "11171" },
@@ -123,7 +157,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "14949" }],
+    "sections": [
+      { "term": "202430", "crn": "40249" },
+      { "term": "202310", "crn": "14949" }
+    ],
     "description": "Introduces how to measure and manage a workforce strategically, including (1) identifying the strategic work that is truly necessary to execute firm strategy; (2) investing in differentiated management systems that support that work; and (3) designing and implementing targeted measurement systems, such as human resources function and workforce scorecards, designed to help to hold line managers accountable for strategic talent. Emphasizes helping students move from a focus on levels associated with a particular workforce attribute (e.g., what is our cost per hire?) to understanding the impact of the workforce on business-level outcomes (e.g., how might an increase in the quality of our project managers affect new product cycle time?).",
     "coreqs": [],
     "prereqs": []
@@ -135,7 +172,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32219" }],
+    "sections": [
+      { "term": "202430", "crn": "31988" },
+      { "term": "202330", "crn": "32219" }
+    ],
     "description": "Offers students an opportunity to understand general business strategy concepts as they relate to the healthcare industry. Explores how to analyze market opportunities and challenges as they apply to various healthcare organizations, such as hospitals, physician organizations, and nursing homes. Presents and discusses analytical frameworks for making strategic decisions, drawing on different disciplines, including economics, management, and psychology. Strategic issues include mergers and acquisitions, vertical integration, joint ventures and alliances, performance-control systems, and organizational design.",
     "coreqs": [],
     "prereqs": []
@@ -160,6 +200,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37732" },
       { "term": "202410", "crn": "13358" },
       { "term": "202410", "crn": "13355" },
       { "term": "202360", "crn": "60653" },

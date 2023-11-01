@@ -18,7 +18,10 @@
     "scheduleType": "Studio",
     "credits": 6,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31605" }],
+    "sections": [
+      { "term": "202430", "crn": "31452" },
+      { "term": "202330", "crn": "31605" }
+    ],
     "description": "Offers a graduate-level studio following SUEN 6110 and introducing fundamental landscape planning, design, and strategic management of environmental infrastructures at the urban and regional scale. Core topics include the spatial and operational role in the built landscape of living systems—such as constructed wetlands, urban forests, urban wilds, and managed habitats—and their dynamic relationship to recreation, transit, food, housing, and industrial networks. Emphasizes the integration of constructed ecologies into the cultural landscape around issues of environmental justice. Continues the introduction of key tools and media from SUEN 6110, including advanced digital drawing, modeling, and design communication.",
     "coreqs": [],
     "prereqs": [{ "subject": "SUEN", "number": "6110" }]
@@ -42,7 +45,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31606" }],
+    "sections": [
+      { "term": "202430", "crn": "31453" },
+      { "term": "202330", "crn": "31606" }
+    ],
     "description": "Constitutes the second half of a two-part sequence and builds upon material in SUEN 6210. Core topics include an introduction to regional landscape ecology in urbanized watersheds. Focuses on landscape-scale systems and soft infrastructure. Introduces GIS and geo-design software as a lens to learn about and visualize change in regional environments. Offers students an opportunity to advance landscape analysis and visualization skills through further training in vector, raster, and 3D modeling software.",
     "coreqs": [],
     "prereqs": [{ "subject": "SUEN", "number": "6210" }]
@@ -99,7 +105,10 @@
     "scheduleType": "Studio",
     "credits": 6,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31832" }],
+    "sections": [
+      { "term": "202430", "crn": "31658" },
+      { "term": "202330", "crn": "31832" }
+    ],
     "description": "Constitutes the second half of the Master's Research Studio sequence. Using the design thesis established in SUEN 7130, offers students an opportunity to formulate proposals for intervention into a specific urbanized environment. Individual projects progress with instructor guidance from schematic phasing through design development, with a focus on change management and vitalization of the ecologic, economic, social, and aesthetic facets of contemporary cities and regions. Requires individual presentation and defense of master's projects in written, oral, and digital formats. May be repeated once.",
     "coreqs": [],
     "prereqs": [{ "subject": "SUEN", "number": "7130" }]
@@ -126,7 +135,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31833" }],
+    "sections": [
+      { "term": "202430", "crn": "31659" },
+      { "term": "202330", "crn": "31833" }
+    ],
     "description": "Offers a community outreach course as the second in a two-part sequence and builds upon SUEN 7230. The core theme is development of innovative, market-based ecotechnology prototypes for the urban landscape that contribute to the environmental and cultural life of the city. With instructor guidance, offers students an opportunity to identify a potential ecotechnology project to design through engagement with community members, public, or institutional clients. The course outcome includes site documentation; a schematic design proposal produced by students working in groups; and, if appropriate in terms of time, budget, and scale, implementation.",
     "coreqs": [],
     "prereqs": [{ "subject": "SUEN", "number": "7230" }]
@@ -139,6 +151,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31660" },
       { "term": "202410", "crn": "14045" },
       { "term": "202330", "crn": "31834" }
     ],

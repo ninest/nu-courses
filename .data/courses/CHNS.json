@@ -7,6 +7,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30071" },
+      { "term": "202430", "crn": "30990" },
+      { "term": "202430", "crn": "35571" },
       { "term": "202410", "crn": "11010" },
       { "term": "202410", "crn": "14204" },
       { "term": "202410", "crn": "21191" },
@@ -30,6 +33,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32908" },
+      { "term": "202430", "crn": "36281" },
       { "term": "202410", "crn": "14910" },
       { "term": "202410", "crn": "17415" },
       { "term": "202330", "crn": "33287" },
@@ -53,6 +58,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31005" },
       { "term": "202410", "crn": "10041" },
       { "term": "202330", "crn": "31080" },
       { "term": "202310", "crn": "10044" }
@@ -73,6 +79,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32552" },
       { "term": "202410", "crn": "11559" },
       { "term": "202330", "crn": "32867" },
       { "term": "202310", "crn": "11753" }
@@ -111,6 +118,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "30016" },
       { "term": "202410", "crn": "12481" },
       { "term": "202330", "crn": "30018" },
       { "term": "202310", "crn": "12793" }
@@ -131,6 +139,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "32952" },
       { "term": "202410", "crn": "13722" },
       { "term": "202330", "crn": "33340" },
       { "term": "202310", "crn": "14242" }
@@ -151,6 +160,7 @@
     "credits": 1,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "39726" },
       { "term": "202410", "crn": "12788" },
       { "term": "202310", "crn": "13155" },
       { "term": "202240", "crn": "41735" }
@@ -166,7 +176,10 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": ["EX"],
-    "sections": [{ "term": "202330", "crn": "34750" }],
+    "sections": [
+      { "term": "202430", "crn": "39639" },
+      { "term": "202330", "crn": "34750" }
+    ],
     "description": "Focuses on a unique aspect of the Chinese language. The specific topics are chosen to reflect current developments in the language and expressed student interests. Topics focus on the use of the language for specific purposes or its use in specialized settings (e.g., media, business, health). Requires at least an advanced level of skill in the language. May be repeated up to four times.",
     "coreqs": [],
     "prereqs": []

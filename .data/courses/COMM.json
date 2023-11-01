@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33268" },
       { "term": "202410", "crn": "10465" },
       { "term": "202410", "crn": "10744" },
       { "term": "202330", "crn": "33716" },
@@ -26,6 +27,7 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202430", "crn": "30443" },
       { "term": "202410", "crn": "10232" },
       { "term": "202410", "crn": "18077" },
       { "term": "202360", "crn": "60666" },
@@ -50,6 +52,16 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "30442" },
+      { "term": "202430", "crn": "30441" },
+      { "term": "202430", "crn": "31842" },
+      { "term": "202430", "crn": "31558" },
+      { "term": "202430", "crn": "40487" },
+      { "term": "202430", "crn": "33359" },
+      { "term": "202430", "crn": "30510" },
+      { "term": "202430", "crn": "31938" },
+      { "term": "202430", "crn": "34102" },
+      { "term": "202430", "crn": "36500" },
       { "term": "202410", "crn": "10320" },
       { "term": "202410", "crn": "10319" },
       { "term": "202410", "crn": "17205" },
@@ -119,6 +131,14 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "32944" },
+      { "term": "202430", "crn": "39039" },
+      { "term": "202430", "crn": "33357" },
+      { "term": "202430", "crn": "32457" },
+      { "term": "202430", "crn": "33747" },
+      { "term": "202430", "crn": "35629" },
+      { "term": "202430", "crn": "35631" },
+      { "term": "202430", "crn": "40645" },
       { "term": "202410", "crn": "12070" },
       { "term": "202410", "crn": "17206" },
       { "term": "202410", "crn": "12830" },
@@ -159,6 +179,7 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202430", "crn": "36501" },
       { "term": "202410", "crn": "17207" },
       { "term": "202410", "crn": "21210" },
       { "term": "202330", "crn": "38488" },
@@ -176,6 +197,8 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "31559" },
+      { "term": "202430", "crn": "40646" },
       { "term": "202410", "crn": "11727" },
       { "term": "202360", "crn": "60214" },
       { "term": "202340", "crn": "40222" },
@@ -197,6 +220,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "30790" },
       { "term": "202410", "crn": "12076" },
       { "term": "202340", "crn": "40435" },
       { "term": "202330", "crn": "30841" },
@@ -217,6 +241,8 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "32905" },
+      { "term": "202430", "crn": "39843" },
       { "term": "202410", "crn": "11728" },
       { "term": "202360", "crn": "60501" },
       { "term": "202340", "crn": "40604" },
@@ -237,8 +263,10 @@
     "title": "Principles of Organizational Communication",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["IC", "EX"],
+    "nuPath": ["EX", "IC"],
     "sections": [
+      { "term": "202430", "crn": "32273" },
+      { "term": "202430", "crn": "40647" },
       { "term": "202410", "crn": "19555" },
       { "term": "202410", "crn": "21062" },
       { "term": "202360", "crn": "60355" },
@@ -259,6 +287,7 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [
+      { "term": "202430", "crn": "31511" },
       { "term": "202410", "crn": "15169" },
       { "term": "202330", "crn": "31665" },
       { "term": "202310", "crn": "16392" }
@@ -275,6 +304,7 @@
     "credits": 4,
     "nuPath": ["ER", "IC"],
     "sections": [
+      { "term": "202430", "crn": "35416" },
       { "term": "202330", "crn": "36872" },
       { "term": "202310", "crn": "11353" }
     ],
@@ -290,6 +320,8 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [
+      { "term": "202430", "crn": "33748" },
+      { "term": "202430", "crn": "33270" },
       { "term": "202410", "crn": "11267" },
       { "term": "202330", "crn": "34345" },
       { "term": "202330", "crn": "33718" },
@@ -308,6 +340,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "39041" },
       { "term": "202360", "crn": "60631" },
       { "term": "202310", "crn": "14157" },
       { "term": "202260", "crn": "60805" },
@@ -325,6 +358,8 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "39042" },
+      { "term": "202430", "crn": "39043" },
       { "term": "202410", "crn": "11729" },
       { "term": "202410", "crn": "12294" },
       { "term": "202310", "crn": "11946" },
@@ -369,6 +404,8 @@
     "credits": 4,
     "nuPath": ["AD", "ND"],
     "sections": [
+      { "term": "202430", "crn": "39044" },
+      { "term": "202430", "crn": "39045" },
       { "term": "202410", "crn": "13551" },
       { "term": "202310", "crn": "14040" }
     ],
@@ -384,6 +421,10 @@
     "credits": 4,
     "nuPath": ["DD", "ER"],
     "sections": [
+      { "term": "202430", "crn": "33271" },
+      { "term": "202430", "crn": "33749" },
+      { "term": "202430", "crn": "39046" },
+      { "term": "202430", "crn": "39047" },
       { "term": "202410", "crn": "13034" },
       { "term": "202410", "crn": "19558" },
       { "term": "202410", "crn": "19559" },
@@ -429,6 +470,7 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202430", "crn": "39048" },
       { "term": "202410", "crn": "14022" },
       { "term": "202310", "crn": "14643" }
     ],
@@ -444,6 +486,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "36502" },
       { "term": "202410", "crn": "13552" },
       { "term": "202410", "crn": "19560" },
       { "term": "202360", "crn": "60502" },
@@ -465,6 +508,9 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "30787" },
+      { "term": "202430", "crn": "30788" },
+      { "term": "202430", "crn": "30935" },
       { "term": "202410", "crn": "10970" },
       { "term": "202410", "crn": "11045" },
       { "term": "202360", "crn": "60221" },
@@ -492,6 +538,8 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "32340" },
+      { "term": "202430", "crn": "36503" },
       { "term": "202410", "crn": "12295" },
       { "term": "202410", "crn": "11266" },
       { "term": "202410", "crn": "12605" },
@@ -518,6 +566,9 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "36504" },
+      { "term": "202430", "crn": "31512" },
+      { "term": "202430", "crn": "33750" },
       { "term": "202410", "crn": "11429" },
       { "term": "202410", "crn": "11430" },
       { "term": "202410", "crn": "13035" },
@@ -549,6 +600,8 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "30789" },
+      { "term": "202430", "crn": "31526" },
       { "term": "202410", "crn": "10971" },
       { "term": "202410", "crn": "10972" },
       { "term": "202340", "crn": "40096" },
@@ -602,6 +655,7 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "39050" },
       { "term": "202410", "crn": "17209" },
       { "term": "202310", "crn": "19581" }
     ],
@@ -617,6 +671,7 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "36507" },
       { "term": "202410", "crn": "15172" },
       { "term": "202330", "crn": "38494" },
       { "term": "202310", "crn": "16395" }
@@ -633,6 +688,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "36508" },
       { "term": "202410", "crn": "13646" },
       { "term": "202340", "crn": "41191" },
       { "term": "202330", "crn": "38495" },
@@ -698,6 +754,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "34981" },
       { "term": "202410", "crn": "15174" },
       { "term": "202410", "crn": "19561" },
       { "term": "202330", "crn": "36085" },
@@ -715,6 +772,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32748" },
       { "term": "202410", "crn": "19562" },
       { "term": "202330", "crn": "33095" }
     ],
@@ -741,7 +799,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI"],
-    "sections": [{ "term": "202330", "crn": "33014" }],
+    "sections": [
+      { "term": "202430", "crn": "32680" },
+      { "term": "202330", "crn": "33014" }
+    ],
     "description": "Designed to teach students how to conceive, pitch, write an outline, and complete a script for a cutting-edge half-hour comedy pilot or drama that might appear on Netflix, Hulu, Amazon, and other emerging, nonlinear networks. Emphasizes the differences and similarities between writing content for streaming vs. broadcasting. Culminates in a final project, in which small groups of students complete an episodic show that will be judged by a panel of professional television writers. Course objectives are achieved through reading professional scripts, critically viewing television content, and participating in group writing assignments and “table reads.”",
     "coreqs": [],
     "prereqs": []
@@ -794,6 +855,9 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "34983" },
+      { "term": "202430", "crn": "32458" },
+      { "term": "202430", "crn": "39051" },
       { "term": "202410", "crn": "15175" },
       { "term": "202410", "crn": "11730" },
       { "term": "202340", "crn": "40821" },
@@ -823,6 +887,9 @@
     "credits": 4,
     "nuPath": ["WI", "EX"],
     "sections": [
+      { "term": "202430", "crn": "34268" },
+      { "term": "202430", "crn": "36510" },
+      { "term": "202430", "crn": "37898" },
       { "term": "202410", "crn": "17213" },
       { "term": "202410", "crn": "13036" },
       { "term": "202360", "crn": "61634" },
@@ -862,6 +929,8 @@
     "credits": 4,
     "nuPath": ["DD", "WI"],
     "sections": [
+      { "term": "202430", "crn": "39052" },
+      { "term": "202430", "crn": "33272" },
       { "term": "202410", "crn": "20672" },
       { "term": "202410", "crn": "19565" },
       { "term": "202330", "crn": "33722" },
@@ -887,6 +956,8 @@
     "credits": 4,
     "nuPath": ["SI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "37507" },
+      { "term": "202430", "crn": "39053" },
       { "term": "202410", "crn": "19566" },
       { "term": "202410", "crn": "15176" },
       { "term": "202410", "crn": "18281" },
@@ -914,6 +985,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36511" },
+      { "term": "202430", "crn": "32749" },
       { "term": "202410", "crn": "13037" },
       { "term": "202410", "crn": "15431" },
       { "term": "202360", "crn": "60434" },
@@ -964,6 +1037,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "35632" },
       { "term": "202410", "crn": "14362" },
       { "term": "202360", "crn": "61047" },
       { "term": "202340", "crn": "41638" },
@@ -991,6 +1065,8 @@
     "credits": 4,
     "nuPath": ["ER", "WI"],
     "sections": [
+      { "term": "202430", "crn": "32899" },
+      { "term": "202430", "crn": "39054" },
       { "term": "202410", "crn": "13135" },
       { "term": "202410", "crn": "20903" },
       { "term": "202330", "crn": "33277" },
@@ -1008,6 +1084,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "39055" },
       { "term": "202410", "crn": "11973" },
       { "term": "202310", "crn": "12211" }
     ],
@@ -1023,6 +1100,8 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "39056" },
+      { "term": "202430", "crn": "39057" },
       { "term": "202410", "crn": "19567" },
       { "term": "202410", "crn": "19568" }
     ],
@@ -1038,6 +1117,7 @@
     "credits": 4,
     "nuPath": ["SI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "33358" },
       { "term": "202410", "crn": "15177" },
       { "term": "202330", "crn": "33821" },
       { "term": "202310", "crn": "16403" }
@@ -1168,6 +1248,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "31844" },
       { "term": "202410", "crn": "19570" },
       { "term": "202340", "crn": "41639" }
     ],
@@ -1182,7 +1263,11 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39246" }],
+    "sections": [
+      { "term": "202430", "crn": "39058" },
+      { "term": "202430", "crn": "39059" },
+      { "term": "202330", "crn": "39246" }
+    ],
     "description": "Immerses students in a real-life television newsroom experience. Exposes students to all aspects of TV news production: from news gathering, producing, and being in front of the camera to the behind-the-scenes work of operating multiple cameras, live switching, audio mixing, and studio lighting. Allows students to be an integral part of a newsroom team, working as reporters, anchors, videographers, and editors to gather content and work in the studio to produce a Northeastern newscast covering news on campus and beyond. Involves hands-on reporting and production where the stories are real and so are the deadlines.",
     "coreqs": [],
     "prereqs": []
@@ -1210,7 +1295,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["CE", "ER"],
-    "sections": [{ "term": "202310", "crn": "12930" }],
+    "sections": [
+      { "term": "202430", "crn": "39060" },
+      { "term": "202310", "crn": "12930" }
+    ],
     "description": "Seeks to further develop an understanding of the function of communication in life and how that relates to quality of life. Examines the communicative experiences of organizations and relationships using both theoretical approaches and practical experience. Students participate in activities designed to develop knowledge and skills necessary to successfully analyze and address ethical and interpersonal communication issues. Offers students an opportunity to be able to reflect on and assess one's own competence in communication and how one's communication affects one's quality of life and to respectfully consider the ethical complexities of quality-of-life issues in both organizational and interpersonal settings.",
     "coreqs": [],
     "prereqs": []
@@ -1222,7 +1310,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202310", "crn": "14994" }],
+    "sections": [
+      { "term": "202430", "crn": "39061" },
+      { "term": "202310", "crn": "14994" }
+    ],
     "description": "Offers analytic insight on methods people use to communicate different types of social action through body language. Much of our communication is nonverbal, as it is through our body language that we initiate new relationships (both personal and professional) and communicate anger, frustration, happiness, and grief. Offers students an opportunity to develop an understanding of the tools needed to examine the role nonverbal behaviors (body orientation, gaze direction, gesture, laughter, etc.) have in conveying meaning and constructing and negotiating interpersonal relationships. This course incorporates materials from communication, psychology, anthropology, and sociology.",
     "coreqs": [],
     "prereqs": [
@@ -1278,6 +1369,7 @@
     "credits": 4,
     "nuPath": ["CE", "EX"],
     "sections": [
+      { "term": "202430", "crn": "31845" },
       { "term": "202410", "crn": "20677" },
       { "term": "202330", "crn": "32055" }
     ],
@@ -1293,6 +1385,7 @@
     "credits": 4,
     "nuPath": ["CE"],
     "sections": [
+      { "term": "202430", "crn": "37271" },
       { "term": "202330", "crn": "39304" },
       { "term": "202310", "crn": "13436" }
     ],
@@ -1328,6 +1421,7 @@
     "credits": 4,
     "nuPath": ["CE"],
     "sections": [
+      { "term": "202430", "crn": "34984" },
       { "term": "202410", "crn": "15402" },
       { "term": "202330", "crn": "36089" },
       { "term": "202330", "crn": "37387" },
@@ -1344,7 +1438,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["CE"],
-    "sections": [{ "term": "202330", "crn": "39168" }],
+    "sections": [
+      { "term": "202430", "crn": "40691" },
+      { "term": "202330", "crn": "39168" }
+    ],
     "description": "Integrates students’ experiences in cooperative education with classroom concepts and theories. Topics include integrative learning, the field of communication, pathways and careers in communication, and the professional communicator. Offers students the opportunity to demonstrate competency in communication skills such as oral reporting, conducting research in communication, and writing.",
     "coreqs": [],
     "prereqs": []
@@ -1357,6 +1454,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "37901" },
       { "term": "202410", "crn": "18976" },
       { "term": "202330", "crn": "39987" },
       { "term": "202310", "crn": "21423" },
@@ -1389,6 +1487,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34144" },
       { "term": "202410", "crn": "19575" },
       { "term": "202410", "crn": "19576" },
       { "term": "202330", "crn": "34830" }
@@ -1404,7 +1503,11 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39548" }],
+    "sections": [
+      { "term": "202430", "crn": "37508" },
+      { "term": "202430", "crn": "39062" },
+      { "term": "202330", "crn": "39548" }
+    ],
     "description": "Covers the major theories about the role of communication in U.S. politics, public opinion, and public policy. Discusses how to formulate and evaluate your own theory-based hypotheses on the influence of media in American democracy. Emphasizes the role and place of the media in a democratic system devoted to the proposition that the government should be responsive to the \"will of the people.\" The course is organized around five subjects that are central to the study of political communication: communication systems and practices; communication effects: media, politics, and society; the politics of entertainment and the changing political information environment; elections, accountability, and the mass media; and media and political institutions.",
     "coreqs": [],
     "prereqs": []
@@ -1417,6 +1520,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33362" },
       { "term": "202410", "crn": "15179" },
       { "term": "202330", "crn": "33831" }
     ],
@@ -1456,6 +1560,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35406" },
       { "term": "202410", "crn": "20678" },
       { "term": "202330", "crn": "36859" }
     ],

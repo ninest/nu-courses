@@ -7,6 +7,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38771" },
+      { "term": "202430", "crn": "32932" },
       { "term": "202410", "crn": "13442" },
       { "term": "202410", "crn": "16446" },
       { "term": "202330", "crn": "33314" },
@@ -39,6 +41,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31691" },
+      { "term": "202430", "crn": "36282" },
       { "term": "202410", "crn": "12077" },
       { "term": "202410", "crn": "12993" },
       { "term": "202410", "crn": "21281" },
@@ -85,6 +89,7 @@
     "credits": 4,
     "nuPath": ["AD", "WI"],
     "sections": [
+      { "term": "202430", "crn": "32194" },
       { "term": "202410", "crn": "12082" },
       { "term": "202410", "crn": "12402" },
       { "term": "202410", "crn": "12988" },
@@ -126,6 +131,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33831" },
+      { "term": "202430", "crn": "33832" },
+      { "term": "202430", "crn": "34047" },
       { "term": "202410", "crn": "12083" },
       { "term": "202410", "crn": "12084" },
       { "term": "202410", "crn": "12085" },
@@ -157,6 +165,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33084" },
+      { "term": "202430", "crn": "36283" },
       { "term": "202410", "crn": "13904" },
       { "term": "202360", "crn": "60873" },
       { "term": "202330", "crn": "33489" },
@@ -174,7 +184,6 @@
       { "subject": "MATH", "number": "2321" },
       "And",
       { "subject": "MATH", "number": "2341" },
-      ")",
       ")",
       "And",
       "(",
@@ -194,6 +203,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35545" },
       { "term": "202410", "crn": "15189" },
       { "term": "202340", "crn": "40286" },
       { "term": "202330", "crn": "37080" },
@@ -214,7 +224,6 @@
       { "subject": "MATH", "number": "2321" },
       "And",
       { "subject": "MATH", "number": "2341" },
-      ")",
       ")"
     ]
   },
@@ -226,6 +235,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31897" },
+      { "term": "202430", "crn": "36284" },
       { "term": "202410", "crn": "12318" },
       { "term": "202410", "crn": "13905" },
       { "term": "202330", "crn": "32119" },
@@ -243,7 +254,6 @@
       { "subject": "MATH", "number": "2321" },
       "And",
       { "subject": "MATH", "number": "2341" },
-      ")",
       ")",
       "And",
       { "subject": "BIOE", "number": "2355" }
@@ -290,6 +300,7 @@
     "credits": 4,
     "nuPath": ["CE", "EI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "32628" },
       { "term": "202410", "crn": "13046" },
       { "term": "202410", "crn": "13047" },
       { "term": "202330", "crn": "32959" },
@@ -320,6 +331,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39516" },
       { "term": "202410", "crn": "20360" },
       { "term": "202410", "crn": "20361" },
       { "term": "202330", "crn": "38264" }
@@ -336,6 +348,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33833" },
       { "term": "202410", "crn": "16449" },
       { "term": "202330", "crn": "34455" },
       { "term": "202310", "crn": "18788" },
@@ -378,6 +391,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32437" },
+      { "term": "202430", "crn": "37023" },
       { "term": "202410", "crn": "12477" },
       { "term": "202410", "crn": "19462" },
       { "term": "202330", "crn": "32716" },
@@ -429,6 +444,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38772" },
+      { "term": "202430", "crn": "38773" },
       { "term": "202410", "crn": "20060" },
       { "term": "202410", "crn": "20061" }
     ],
@@ -444,6 +461,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31991" },
+      { "term": "202430", "crn": "37024" },
       { "term": "202410", "crn": "12319" },
       { "term": "202340", "crn": "40751" },
       { "term": "202340", "crn": "41985" },
@@ -469,6 +488,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32075" },
+      { "term": "202430", "crn": "37025" },
       { "term": "202410", "crn": "12320" },
       { "term": "202410", "crn": "19463" },
       { "term": "202330", "crn": "32309" },
@@ -491,7 +512,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33795" }],
+    "sections": [
+      { "term": "202430", "crn": "33335" },
+      { "term": "202330", "crn": "33795" }
+    ],
     "description": "Introduces the key roles that physical forces, the extracellular matrix, and cytoskeletal structure play in the development of human diseases. The cell is viewed as an engineering system that is capable of sensing physical cues from its environment, integrating such information from different mechano-sensors, and responding to changes in its external environment in a coherent manner. Uses mathematical and computational models to explain how cells sense and respond to physical cues.",
     "coreqs": [],
     "prereqs": [
@@ -539,7 +563,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "16870" }],
+    "sections": [
+      { "term": "202430", "crn": "38774" },
+      { "term": "202310", "crn": "16870" }
+    ],
     "description": "Focuses on the translation and commercialization of bioengineering products and technology. Offers students an opportunity to gain essential entrepreneurship skills through studying and exercising the key elements and processes in establishing and launching a biotechnology startup. Examines how to assess bioengineering product and technology opportunities, evaluate the technology’s market potential, navigate the landscape of intellectual property protection and FDA regulation for bioengineering products, form a biotechnology startup company, write a business plan, and pitch startups to prospective investors. Covers fundamentals of engineering economics.",
     "coreqs": [],
     "prereqs": []
@@ -582,7 +609,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "18791" }],
+    "sections": [
+      { "term": "202430", "crn": "38775" },
+      { "term": "202310", "crn": "18791" }
+    ],
     "description": "Covers biomedical optics and discusses the theory and practice of biological and medical applications of lasers. Topics covered include fundamentals of light propagation in biological tissues; light-matter interactions such as elastic and inelastic scattering; fluorescence and phosphorescence; diagnostic imaging techniques such as confocal fluorescence microscopy, diffuse optical tomography, and optical coherence tomography; and therapeutic interventional techniques, including photodynamic therapy, laser thermal therapies, and fluorescence-guided surgeries. EECE 5648 and BIOE 5648 are cross-listed.",
     "coreqs": [],
     "prereqs": [
@@ -601,6 +631,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34833" },
       { "term": "202410", "crn": "19466" },
       { "term": "202330", "crn": "35865" }
     ],
@@ -619,7 +650,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "17382" }],
+    "sections": [
+      { "term": "202430", "crn": "38776" },
+      { "term": "202310", "crn": "17382" }
+    ],
     "description": "Covers biopolymer conformations, cell membrane mechanics, chemical reaction kinetics and applications to polymerization and molecular motors, electric fields, and action potential propagation. Recent years have seen a tremendous growth in the use of ideas and methods from physical science and engineering to obtain a better understanding of biological phenomena and for applications of that understanding to societal needs, ranging from health to agriculture. Underlying these efforts are principles from statistical physics that establish the framework for this increasingly popular part of bioengineering.",
     "coreqs": [],
     "prereqs": [
@@ -637,18 +671,26 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "18793" }],
+    "sections": [
+      { "term": "202430", "crn": "38777" },
+      { "term": "202310", "crn": "18793" }
+    ],
     "description": "Develops a set of statistical tools to address poorly posed inverse problems. Interpreting complex and partial information is a routine task in research as well as in our daily lives. Such tasks include estimating quantitative properties of a biological system from indirect noisy measurements, responding to fluctuating environmental signals, or breaking encrypted messages. Common to these diverse questions is a need to construct a predictive model from partial data. Draws on examples from primary literature in biology to study text recognition, trait mapping, sequence alignment, decoding cryptographs, processing of chemoattractive signals to find food, and survival strategies of bacteria in unpredictable environments.",
     "coreqs": [],
     "prereqs": [
       "(",
-      { "subject": "BIOE", "number": "2355" },
+      { "subject": "MATH", "number": "2321" },
+      "And",
+      { "subject": "MATH", "number": "2341" },
+      ")",
       "And",
       "(",
-      { "subject": "BIOE", "number": "5115" },
+      { "subject": "BIOE", "number": "2365" },
       "Or",
-      { "subject": "BIOE", "number": "5440" },
-      ")",
+      "(",
+      { "subject": "CHME", "number": "3315" },
+      "And",
+      { "subject": "CHME", "number": "4315" },
       ")",
       "Or",
       "Graduate Admission"
@@ -674,6 +716,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36287" },
       { "term": "202410", "crn": "15191" },
       { "term": "202330", "crn": "38266" },
       { "term": "202310", "crn": "16440" }
@@ -694,6 +737,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31990" },
       { "term": "202410", "crn": "12321" },
       { "term": "202330", "crn": "32223" },
       { "term": "202310", "crn": "12609" }
@@ -720,6 +764,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32438" },
       { "term": "202410", "crn": "13907" },
       { "term": "202410", "crn": "19468" },
       { "term": "202330", "crn": "32717" },
@@ -749,6 +794,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32439" },
       { "term": "202410", "crn": "12612" },
       { "term": "202330", "crn": "32718" },
       { "term": "202310", "crn": "12940" }
@@ -768,7 +814,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19618" }],
+    "sections": [
+      { "term": "202430", "crn": "38778" },
+      { "term": "202310", "crn": "19618" }
+    ],
     "description": "Covers the field of biomedical data science. Teams of students undertake projects solicited from biomedical PIs in broad areas of biomedical research, using datasets and developing a project work plan. Studies how to estimate a patient’s state of health using their health data and to use modeling and machine learning methods to project that health state to make personalized predictions. Includes lectures on physiology, medicine, and engineering principles (probability, machine learning) relevant to each project; faculty mentors assist student projects with challenges. Requires project updates to the class at regular intervals so that teams gain experience with presenting.",
     "coreqs": [],
     "prereqs": [
@@ -786,7 +835,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38530" }],
+    "sections": [
+      { "term": "202430", "crn": "36542" },
+      { "term": "202330", "crn": "38530" }
+    ],
     "description": "Introduces students to the use of computational methods in studies of systems biology, computational bioengineering, and data science and their extended utilities in a wide variety of applications in science and engineering. Covers basic elements of numerical methods and algorithms for solving different types of differential equations, running simulations, and performing optimization and data analysis. Emphasizes the concept and principle of each algorithm and its usage in R programming in the context of real-world applications in systems biology, bioinformatics, computational biology, and data science.",
     "coreqs": [],
     "prereqs": [
@@ -819,6 +871,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32740" },
+      { "term": "202430", "crn": "37179" },
       { "term": "202410", "crn": "13149" },
       { "term": "202410", "crn": "17636" },
       { "term": "202330", "crn": "33084" },
@@ -852,7 +906,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33341" }],
+    "sections": [
+      { "term": "202430", "crn": "32953" },
+      { "term": "202330", "crn": "33341" }
+    ],
     "description": "Designed to introduce new graduate bioengineering students to the fundamentals of bioengineering research topics and methodology. Includes outside speakers to discuss general topics in bioengineering. Examples of course topics include the medical device qualification and regulatory environment, tissue engineering, cell engineering, mechanobiology, drug delivery, bioimaging, neuromotor control, effective design of experiments, writing research proposals for the National Institutes of Health (NIH) and how to evaluate and write a peer-reviewed journal article, etc. Expects students to read, critically evaluate, and present the research in a bioengineering journal article. Students are then expected to extend their article into a hypothesis-driven proposal in NIH format with an oral defense of the proposal.",
     "coreqs": [],
     "prereqs": []
@@ -865,6 +922,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32440" },
       { "term": "202410", "crn": "12613" },
       { "term": "202330", "crn": "32719" },
       { "term": "202310", "crn": "12941" }
@@ -881,6 +939,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34090" },
       { "term": "202410", "crn": "15193" },
       { "term": "202330", "crn": "34760" },
       { "term": "202310", "crn": "16443" }
@@ -897,6 +956,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40760" },
       { "term": "202410", "crn": "20540" },
       { "term": "202410", "crn": "20926" },
       { "term": "202410", "crn": "22460" },
@@ -978,6 +1038,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40730" },
       { "term": "202410", "crn": "22511" },
       { "term": "202410", "crn": "20821" },
       { "term": "202410", "crn": "21342" },
@@ -1007,6 +1068,11 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40642" },
+      { "term": "202430", "crn": "40643" },
+      { "term": "202430", "crn": "40708" },
+      { "term": "202430", "crn": "40709" },
+      { "term": "202430", "crn": "40710" },
       { "term": "202410", "crn": "14811" },
       { "term": "202410", "crn": "16478" },
       { "term": "202410", "crn": "16480" },
@@ -1054,6 +1120,41 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34286" },
+      { "term": "202430", "crn": "34357" },
+      { "term": "202430", "crn": "34382" },
+      { "term": "202430", "crn": "34452" },
+      { "term": "202430", "crn": "34459" },
+      { "term": "202430", "crn": "34550" },
+      { "term": "202430", "crn": "34577" },
+      { "term": "202430", "crn": "34585" },
+      { "term": "202430", "crn": "35553" },
+      { "term": "202430", "crn": "35961" },
+      { "term": "202430", "crn": "35989" },
+      { "term": "202430", "crn": "34602" },
+      { "term": "202430", "crn": "35787" },
+      { "term": "202430", "crn": "35915" },
+      { "term": "202430", "crn": "36288" },
+      { "term": "202430", "crn": "36289" },
+      { "term": "202430", "crn": "36290" },
+      { "term": "202430", "crn": "36291" },
+      { "term": "202430", "crn": "36292" },
+      { "term": "202430", "crn": "36293" },
+      { "term": "202430", "crn": "37286" },
+      { "term": "202430", "crn": "38010" },
+      { "term": "202430", "crn": "38061" },
+      { "term": "202430", "crn": "38475" },
+      { "term": "202430", "crn": "38702" },
+      { "term": "202430", "crn": "38779" },
+      { "term": "202430", "crn": "38780" },
+      { "term": "202430", "crn": "38781" },
+      { "term": "202430", "crn": "38782" },
+      { "term": "202430", "crn": "38783" },
+      { "term": "202430", "crn": "38784" },
+      { "term": "202430", "crn": "38785" },
+      { "term": "202430", "crn": "38786" },
+      { "term": "202430", "crn": "40717" },
+      { "term": "202430", "crn": "40718" },
       { "term": "202410", "crn": "15886" },
       { "term": "202410", "crn": "14654" },
       { "term": "202410", "crn": "14718" },
@@ -1158,6 +1259,39 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34403" },
+      { "term": "202430", "crn": "34458" },
+      { "term": "202430", "crn": "33521" },
+      { "term": "202430", "crn": "34561" },
+      { "term": "202430", "crn": "34633" },
+      { "term": "202430", "crn": "35457" },
+      { "term": "202430", "crn": "35711" },
+      { "term": "202430", "crn": "35729" },
+      { "term": "202430", "crn": "36294" },
+      { "term": "202430", "crn": "36295" },
+      { "term": "202430", "crn": "36296" },
+      { "term": "202430", "crn": "36297" },
+      { "term": "202430", "crn": "36298" },
+      { "term": "202430", "crn": "36299" },
+      { "term": "202430", "crn": "36300" },
+      { "term": "202430", "crn": "36301" },
+      { "term": "202430", "crn": "36302" },
+      { "term": "202430", "crn": "36303" },
+      { "term": "202430", "crn": "36304" },
+      { "term": "202430", "crn": "36305" },
+      { "term": "202430", "crn": "36306" },
+      { "term": "202430", "crn": "36307" },
+      { "term": "202430", "crn": "36308" },
+      { "term": "202430", "crn": "38788" },
+      { "term": "202430", "crn": "38789" },
+      { "term": "202430", "crn": "38790" },
+      { "term": "202430", "crn": "38791" },
+      { "term": "202430", "crn": "38792" },
+      { "term": "202430", "crn": "38793" },
+      { "term": "202430", "crn": "40719" },
+      { "term": "202430", "crn": "40720" },
+      { "term": "202430", "crn": "40721" },
+      { "term": "202430", "crn": "40722" },
       { "term": "202410", "crn": "16014" },
       { "term": "202410", "crn": "14802" },
       { "term": "202410", "crn": "16115" },
@@ -1199,6 +1333,25 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34223" },
+      { "term": "202430", "crn": "34389" },
+      { "term": "202430", "crn": "34406" },
+      { "term": "202430", "crn": "34467" },
+      { "term": "202430", "crn": "34510" },
+      { "term": "202430", "crn": "34542" },
+      { "term": "202430", "crn": "35335" },
+      { "term": "202430", "crn": "35337" },
+      { "term": "202430", "crn": "35338" },
+      { "term": "202430", "crn": "35339" },
+      { "term": "202430", "crn": "36309" },
+      { "term": "202430", "crn": "36310" },
+      { "term": "202430", "crn": "36313" },
+      { "term": "202430", "crn": "38622" },
+      { "term": "202430", "crn": "38794" },
+      { "term": "202430", "crn": "38795" },
+      { "term": "202430", "crn": "38796" },
+      { "term": "202430", "crn": "40723" },
+      { "term": "202430", "crn": "40724" },
       { "term": "202410", "crn": "15754" },
       { "term": "202410", "crn": "16526" },
       { "term": "202410", "crn": "16527" },
@@ -1245,6 +1398,40 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34373" },
+      { "term": "202430", "crn": "34408" },
+      { "term": "202430", "crn": "34480" },
+      { "term": "202430", "crn": "35732" },
+      { "term": "202430", "crn": "35735" },
+      { "term": "202430", "crn": "34494" },
+      { "term": "202430", "crn": "34515" },
+      { "term": "202430", "crn": "34519" },
+      { "term": "202430", "crn": "32704" },
+      { "term": "202430", "crn": "32989" },
+      { "term": "202430", "crn": "33113" },
+      { "term": "202430", "crn": "35340" },
+      { "term": "202430", "crn": "35341" },
+      { "term": "202430", "crn": "35342" },
+      { "term": "202430", "crn": "35344" },
+      { "term": "202430", "crn": "35345" },
+      { "term": "202430", "crn": "35346" },
+      { "term": "202430", "crn": "36315" },
+      { "term": "202430", "crn": "36316" },
+      { "term": "202430", "crn": "36317" },
+      { "term": "202430", "crn": "36318" },
+      { "term": "202430", "crn": "36319" },
+      { "term": "202430", "crn": "36320" },
+      { "term": "202430", "crn": "36321" },
+      { "term": "202430", "crn": "36322" },
+      { "term": "202430", "crn": "36323" },
+      { "term": "202430", "crn": "36324" },
+      { "term": "202430", "crn": "36325" },
+      { "term": "202430", "crn": "36326" },
+      { "term": "202430", "crn": "36327" },
+      { "term": "202430", "crn": "36328" },
+      { "term": "202430", "crn": "36329" },
+      { "term": "202430", "crn": "36330" },
+      { "term": "202430", "crn": "40725" },
       { "term": "202410", "crn": "14627" },
       { "term": "202410", "crn": "14742" },
       { "term": "202410", "crn": "16071" },

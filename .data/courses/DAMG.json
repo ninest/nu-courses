@@ -7,6 +7,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35191" },
+      { "term": "202430", "crn": "35192" },
+      { "term": "202430", "crn": "35193" },
       { "term": "202410", "crn": "15808" },
       { "term": "202410", "crn": "15704" },
       { "term": "202410", "crn": "15710" },
@@ -27,6 +30,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35197" },
+      { "term": "202430", "crn": "35535" },
+      { "term": "202430", "crn": "37823" },
       { "term": "202410", "crn": "15018" },
       { "term": "202410", "crn": "15019" },
       { "term": "202410", "crn": "15020" },
@@ -64,6 +70,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35203" },
       { "term": "202410", "crn": "15027" },
       { "term": "202350", "crn": "52638" },
       { "term": "202330", "crn": "36513" },
@@ -85,6 +92,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35204" },
       { "term": "202410", "crn": "15028" },
       { "term": "202350", "crn": "52865" },
       { "term": "202330", "crn": "36514" },
@@ -113,6 +121,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35205" },
+      { "term": "202430", "crn": "39497" },
       { "term": "202410", "crn": "15029" },
       { "term": "202410", "crn": "21340" },
       { "term": "202340", "crn": "41887" },
@@ -172,6 +182,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35208" },
+      { "term": "202430", "crn": "35209" },
       { "term": "202410", "crn": "15033" },
       { "term": "202410", "crn": "15034" },
       { "term": "202410", "crn": "21203" },
@@ -197,21 +209,13 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39498" },
+      { "term": "202430", "crn": "39499" },
       { "term": "202410", "crn": "21377" },
       { "term": "202410", "crn": "21437" }
     ],
     "description": "Offers topics of current interest in data architecture and management. May be repeated without limit.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "DAMG", "number": "6105" },
-      "Or",
-      { "subject": "DAMG", "number": "7245" },
-      "Or",
-      { "subject": "DAMG", "number": "7275" },
-      "Or",
-      { "subject": "DAMG", "number": "7370" },
-      "Or",
-      { "subject": "INFO", "number": "6105" }
-    ]
+    "prereqs": []
   }
 ]

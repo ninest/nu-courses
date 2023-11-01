@@ -7,6 +7,16 @@
     "credits": 4,
     "nuPath": ["ND", "SI"],
     "sections": [
+      { "term": "202430", "crn": "39157" },
+      { "term": "202430", "crn": "39330" },
+      { "term": "202430", "crn": "33613" },
+      { "term": "202430", "crn": "33614" },
+      { "term": "202430", "crn": "33615" },
+      { "term": "202430", "crn": "33617" },
+      { "term": "202430", "crn": "33618" },
+      { "term": "202430", "crn": "34694" },
+      { "term": "202430", "crn": "37140" },
+      { "term": "202430", "crn": "40668" },
       { "term": "202410", "crn": "10440" },
       { "term": "202410", "crn": "11816" },
       { "term": "202410", "crn": "12289" },
@@ -80,6 +90,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32730" },
       { "term": "202410", "crn": "15659" },
       { "term": "202330", "crn": "33070" },
       { "term": "202310", "crn": "17437" }
@@ -96,6 +107,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "31054" },
       { "term": "202410", "crn": "11970" },
       { "term": "202340", "crn": "40827" },
       { "term": "202330", "crn": "31137" },
@@ -128,7 +140,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "SI"],
-    "sections": [{ "term": "202330", "crn": "32989" }],
+    "sections": [
+      { "term": "202430", "crn": "32656" },
+      { "term": "202330", "crn": "32989" }
+    ],
     "description": "Studies materials that define and describe love and hate from the fields of literature and literary criticism, social psychology, and criminology and criminal justice. “Love” and “hate” are small words describing powerful emotions with profound effects on individuals and on social groups. Focusing largely on contemporary examples, offers students an opportunity to analyze the differences and areas of overlap in the above fields' approaches to love and hate, to discuss societal responses to these emotions, and to apply the methodologies of each field to research questions of their own. INSH 2101 and PSYC 2101 are cross-listed.",
     "coreqs": [],
     "prereqs": [
@@ -149,6 +164,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33619" },
       { "term": "202410", "crn": "15403" },
       { "term": "202340", "crn": "41181" },
       { "term": "202330", "crn": "34184" },
@@ -167,6 +183,12 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "30286" },
+      { "term": "202430", "crn": "30285" },
+      { "term": "202430", "crn": "31950" },
+      { "term": "202430", "crn": "31013" },
+      { "term": "202430", "crn": "31205" },
+      { "term": "202430", "crn": "39331" },
       { "term": "202410", "crn": "11887" },
       { "term": "202410", "crn": "14192" },
       { "term": "202410", "crn": "17868" },
@@ -240,6 +262,8 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "32732" },
+      { "term": "202430", "crn": "39636" },
       { "term": "202410", "crn": "13505" },
       { "term": "202410", "crn": "21626" },
       { "term": "202360", "crn": "60923" },
@@ -264,6 +288,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30284" },
+      { "term": "202430", "crn": "33336" },
       { "term": "202410", "crn": "10437" },
       { "term": "202410", "crn": "12755" },
       { "term": "202340", "crn": "41695" },
@@ -284,6 +310,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31055" },
+      { "term": "202430", "crn": "37141" },
+      { "term": "202430", "crn": "39332" },
+      { "term": "202430", "crn": "39333" },
       { "term": "202410", "crn": "10436" },
       { "term": "202410", "crn": "19503" },
       { "term": "202340", "crn": "40014" },
@@ -305,6 +335,11 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30283" },
+      { "term": "202430", "crn": "30084" },
+      { "term": "202430", "crn": "33620" },
+      { "term": "202430", "crn": "34696" },
+      { "term": "202430", "crn": "37142" },
       { "term": "202410", "crn": "10435" },
       { "term": "202410", "crn": "11609" },
       { "term": "202410", "crn": "11610" },
@@ -338,6 +373,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30217" },
+      { "term": "202430", "crn": "31661" },
+      { "term": "202430", "crn": "34697" },
       { "term": "202410", "crn": "10434" },
       { "term": "202410", "crn": "12290" },
       { "term": "202410", "crn": "12756" },
@@ -364,6 +402,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39635" },
       { "term": "202410", "crn": "18218" },
       { "term": "202330", "crn": "31790" },
       { "term": "202310", "crn": "20651" }
@@ -380,6 +419,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31056" },
       { "term": "202410", "crn": "11274" },
       { "term": "202330", "crn": "31139" },
       { "term": "202310", "crn": "11437" }
@@ -396,6 +436,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30282" },
       { "term": "202410", "crn": "11754" },
       { "term": "202340", "crn": "41182" },
       { "term": "202330", "crn": "30290" },
@@ -414,6 +455,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32936" },
+      { "term": "202430", "crn": "34698" },
       { "term": "202410", "crn": "10433" },
       { "term": "202410", "crn": "12291" },
       { "term": "202360", "crn": "60505" },
@@ -437,6 +480,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39158" },
       { "term": "202410", "crn": "16389" },
       { "term": "202330", "crn": "31512" },
       { "term": "202310", "crn": "18724" }
@@ -453,6 +497,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30446" },
+      { "term": "202430", "crn": "34699" },
+      { "term": "202430", "crn": "36106" },
+      { "term": "202430", "crn": "39334" },
       { "term": "202410", "crn": "10432" },
       { "term": "202410", "crn": "11273" },
       { "term": "202410", "crn": "16390" },
@@ -496,6 +544,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34700" },
       { "term": "202410", "crn": "14988" },
       { "term": "202330", "crn": "35656" },
       { "term": "202310", "crn": "16106" }
@@ -515,10 +564,17 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "18726" }],
+    "sections": [
+      { "term": "202430", "crn": "39159" },
+      { "term": "202310", "crn": "18726" }
+    ],
     "description": "Explores how our behavior is affected by (and how it affects) our immune system. The brain and the immune system regulate our behavioral responses to the world around us, which helps explain why we feel “down” when we're sick and why we often catch a cold when we're stressed. Offers students an opportunity to better understand how we have evolved to psychologically adapt to environmental challenges—and, importantly, how this can sometimes backfire with mental illness as an outcome. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PSYC", "number": "3458" }]
+    "prereqs": [
+      { "subject": "BIOL", "number": "3405" },
+      "Or",
+      { "subject": "PSYC", "number": "3458" }
+    ]
   },
   {
     "subject": "PSYC",
@@ -549,6 +605,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34701" },
       { "term": "202340", "crn": "40492" },
       { "term": "202330", "crn": "35657" },
       { "term": "202310", "crn": "20766" },
@@ -556,7 +613,11 @@
     ],
     "description": "Examines interactions between drugs, brain, and behavior. Focuses on such topics as synaptic transmission, behavioral functions of specific neurotransmitter systems, pharmacological treatment of mental and neurological disorders, and drug abuse.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PSYC", "number": "3458" }]
+    "prereqs": [
+      { "subject": "BIOL", "number": "3405" },
+      "Or",
+      { "subject": "PSYC", "number": "3458" }
+    ]
   },
   {
     "subject": "PSYC",
@@ -585,6 +646,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33621" },
       { "term": "202410", "crn": "13119" },
       { "term": "202410", "crn": "21692" },
       { "term": "202330", "crn": "34186" },
@@ -600,12 +662,31 @@
   },
   {
     "subject": "PSYC",
+    "number": "4522",
+    "title": "Psychology of Reading",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40508" }],
+    "description": "Provides an overview of issues in the psychology of reading. Topics include the nature of the reading process as a perceptual and cognitive activity, eye movement patterns in reading, stages of reading development, and dyslexia. Examines current theories of reading and text comprehension.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "PSYC", "number": "3464" },
+      "Or",
+      { "subject": "PSYC", "number": "3466" }
+    ]
+  },
+  {
+    "subject": "PSYC",
     "number": "4540",
     "title": "Quantitative Topics in Psychology and Behavioral Neuroscience",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38070" }],
+    "sections": [
+      { "term": "202430", "crn": "36110" },
+      { "term": "202330", "crn": "38070" }
+    ],
     "description": "Surveys key quantitative topics in psychology and behavioral neuroscience. Emphasizes theory and modeling, not statistics. Specific topics vary, but all are drawn from domains in which mathematics and computation play a significant role. Topics may include Fourier analysis with applications to vision and hearing, neural circuit computation, signal detection theory applied to human and nonhuman animals' decisions, measurement of sensory magnitudes in vision and hearing, the linear algebraic theory of color matching in humans, and analysis and models of human response time. Students complete weekly readings and a final project, typically involving use of software for data analysis.",
     "coreqs": [],
     "prereqs": [
@@ -624,6 +705,8 @@
       ")",
       "And",
       "(",
+      { "subject": "BIOL", "number": "3405" },
+      "Or",
       { "subject": "PSYC", "number": "3452" },
       "Or",
       { "subject": "PSYC", "number": "3458" },
@@ -631,8 +714,6 @@
       { "subject": "PSYC", "number": "3464" },
       "Or",
       { "subject": "PSYC", "number": "3466" },
-      "Or",
-      { "subject": "BIOL", "number": "3405" },
       ")"
     ]
   },
@@ -644,19 +725,20 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36111" },
       { "term": "202330", "crn": "38071" },
       { "term": "202310", "crn": "16110" }
     ],
     "description": "Explores the genetic basis of behavior. Behavioral genetics is considered to lie at the intersection of psychology and genetics and is a dynamic field with plenty of possibility. Offers students an opportunity to hone and develop a stronger foundation in the principles of Mendelian, population, and quantitative genetics. Studies the genetic basis for sleep, social behavior, responses to environmental stimuli, learning, memory, addiction, and the etiology of neuropsychiatric disorders.",
     "coreqs": [],
     "prereqs": [
-      "(",
-      { "subject": "PSYC", "number": "3458" },
-      "Or",
-      { "subject": "BIOL", "number": "3405" },
-      ")",
+      { "subject": "BIOL", "number": "2301" },
       "And",
-      { "subject": "BIOL", "number": "2301" }
+      "(",
+      { "subject": "BIOL", "number": "3405" },
+      "Or",
+      { "subject": "PSYC", "number": "3458" },
+      ")"
     ]
   },
   {
@@ -667,6 +749,8 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "39642" },
+      { "term": "202430", "crn": "40765" },
       { "term": "202410", "crn": "11740" },
       { "term": "202330", "crn": "30950" },
       { "term": "202310", "crn": "11959" }
@@ -700,7 +784,10 @@
     "scheduleType": "Lab",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202330", "crn": "39979" }],
+    "sections": [
+      { "term": "202430", "crn": "37893" },
+      { "term": "202330", "crn": "39979" }
+    ],
     "description": "Gives students the opportunity to gain proficiency, through direct experience, in lab analysis of behavior and in evaluating common generalizations about human behavior. Students design and perform experiments in animal and human learning, memory, decision processes, concept formation, and other topics of individual interest.",
     "coreqs": [],
     "prereqs": [
@@ -723,6 +810,8 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "32888" },
+      { "term": "202430", "crn": "39335" },
       { "term": "202410", "crn": "12293" },
       { "term": "202410", "crn": "21560" },
       { "term": "202360", "crn": "60717" },
@@ -761,7 +850,10 @@
     "scheduleType": "Lab",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202310", "crn": "16111" }],
+    "sections": [
+      { "term": "202430", "crn": "39160" },
+      { "term": "202310", "crn": "16111" }
+    ],
     "description": "Provides students the opportunity to acquire firsthand experience in conducting research on issues in the psychology of language. Focuses on experiments and their implications for broader issues of language processing. Involves students in all aspects of each experiment including collecting and analyzing data and preparing lab reports.",
     "coreqs": [],
     "prereqs": [
@@ -798,6 +890,9 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "30281" },
+      { "term": "202430", "crn": "34121" },
+      { "term": "202430", "crn": "37774" },
       { "term": "202410", "crn": "10431" },
       { "term": "202410", "crn": "19505" },
       { "term": "202340", "crn": "40613" },
@@ -844,6 +939,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "36112" },
       { "term": "202410", "crn": "18590" },
       { "term": "202410", "crn": "20555" },
       { "term": "202340", "crn": "40828" },
@@ -953,7 +1049,10 @@
     "scheduleType": "Lab",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202330", "crn": "33264" }],
+    "sections": [
+      { "term": "202430", "crn": "32889" },
+      { "term": "202330", "crn": "33264" }
+    ],
     "description": "Provides instruction in the methods of affective science (i.e., the study of what emotions are and how they work). Students are expected to become members of a functioning lab team, which uses a multimethod approach combined with various theoretical frameworks to guide research in affective science. Offers students an opportunity to develop the ability to read the scientific literature; think critically about research questions; design, conduct, and analyze experiments; and write in APA journal style, as well as to gain valuable interpersonal and organizational skills that come from working on a team.",
     "coreqs": [],
     "prereqs": [
@@ -1057,6 +1156,8 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "36113" },
+      { "term": "202430", "crn": "39161" },
       { "term": "202360", "crn": "61441" },
       { "term": "202340", "crn": "41183" },
       { "term": "202330", "crn": "38073" },
@@ -1084,7 +1185,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["CE", "WI"],
-    "sections": [{ "term": "202330", "crn": "35658" }],
+    "sections": [
+      { "term": "202430", "crn": "34702" },
+      { "term": "202330", "crn": "35658" }
+    ],
     "description": "Offers intensive study and discussion of issues in the psychology of language. Specific topics vary by semester.",
     "coreqs": [],
     "prereqs": [
@@ -1109,8 +1213,9 @@
     "title": "Seminar in Cognition",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": ["WI", "CE"],
+    "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30932" },
       { "term": "202410", "crn": "20176" },
       { "term": "202340", "crn": "41368" },
       { "term": "202330", "crn": "30996" },
@@ -1144,6 +1249,8 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "31142" },
+      { "term": "202430", "crn": "39162" },
       { "term": "202410", "crn": "12608" },
       { "term": "202360", "crn": "60924" },
       { "term": "202340", "crn": "41696" },
@@ -1174,6 +1281,8 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30447" },
+      { "term": "202430", "crn": "31384" },
       { "term": "202410", "crn": "10429" },
       { "term": "202410", "crn": "11275" },
       { "term": "202330", "crn": "30460" },
@@ -1204,6 +1313,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "35315" },
       { "term": "202410", "crn": "19506" },
       { "term": "202330", "crn": "36715" }
     ],
@@ -1229,6 +1339,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "39637" },
       { "term": "202410", "crn": "13507" },
       { "term": "202330", "crn": "34187" },
       { "term": "202310", "crn": "13991" }
@@ -1259,6 +1370,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "32931" },
       { "term": "202330", "crn": "33313" },
       { "term": "202330", "crn": "39829" }
     ],
@@ -1342,7 +1454,10 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38074" }],
+    "sections": [
+      { "term": "202430", "crn": "36114" },
+      { "term": "202330", "crn": "38074" }
+    ],
     "description": "Serves as first-level graduate course in sensation, focusing on theoretical, experimental, and methodological issues. Includes faculty lectures, student presentations, and discussion. Requires permission of instructor for students who are not enrolled in the PhD program in psychology. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1366,7 +1481,10 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21026" }],
+    "sections": [
+      { "term": "202430", "crn": "39163" },
+      { "term": "202310", "crn": "21026" }
+    ],
     "description": "Serves as first-level graduate course in the biological basis of behavior, focusing on theoretical, experimental, and methodological issues. Includes faculty lectures, student presentations, and discussion. Requires permission of instructor for students who are not enrolled in the PhD program in psychology. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1390,7 +1508,10 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38075" }],
+    "sections": [
+      { "term": "202430", "crn": "36115" },
+      { "term": "202330", "crn": "38075" }
+    ],
     "description": "Serves as first-level graduate course in social psychology, focusing on theoretical, experimental, and methodological issues. Includes faculty lectures, student presentations, and discussion. Requires permission of instructor for students who are not enrolled in the PhD program in psychology. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1417,7 +1538,10 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30705" }],
+    "sections": [
+      { "term": "202430", "crn": "30677" },
+      { "term": "202330", "crn": "30705" }
+    ],
     "description": "Continues PSYC 5180. Presents second course in a two-course sequence that surveys a variety of quantitative methods used in experimental psychology. Requires permission of instructor for students who are not enrolled in the PhD program in psychology.",
     "coreqs": [],
     "prereqs": [
@@ -1433,7 +1557,10 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "21065" }],
+    "sections": [
+      { "term": "202430", "crn": "39164" },
+      { "term": "202410", "crn": "21065" }
+    ],
     "description": "Addresses current theoretical and empirical issues in clinical neuroscience. Specific topics vary by semester. May be repeated thrice.",
     "coreqs": [],
     "prereqs": []
@@ -1482,6 +1609,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30675" },
       { "term": "202410", "crn": "10710" },
       { "term": "202330", "crn": "30703" },
       { "term": "202310", "crn": "10787" }
@@ -1497,7 +1625,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "50095" }],
+    "sections": [
+      { "term": "202430", "crn": "34704" },
+      { "term": "202350", "crn": "50095" }
+    ],
     "description": "Continues research for the master's degree.",
     "coreqs": [],
     "prereqs": []
@@ -1522,6 +1653,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30676" },
       { "term": "202410", "crn": "10709" },
       { "term": "202350", "crn": "50064" },
       { "term": "202330", "crn": "30704" },
@@ -1539,6 +1671,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34705" },
       { "term": "202410", "crn": "16166" },
       { "term": "202410", "crn": "21110" },
       { "term": "202410", "crn": "21848" },
@@ -1562,6 +1695,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34310" },
       { "term": "202410", "crn": "12873" },
       { "term": "202350", "crn": "50185" },
       { "term": "202310", "crn": "13248" }
@@ -1578,6 +1712,33 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30674" },
+      { "term": "202430", "crn": "30749" },
+      { "term": "202430", "crn": "30750" },
+      { "term": "202430", "crn": "30751" },
+      { "term": "202430", "crn": "32331" },
+      { "term": "202430", "crn": "30752" },
+      { "term": "202430", "crn": "30753" },
+      { "term": "202430", "crn": "30754" },
+      { "term": "202430", "crn": "31207" },
+      { "term": "202430", "crn": "30755" },
+      { "term": "202430", "crn": "30761" },
+      { "term": "202430", "crn": "33623" },
+      { "term": "202430", "crn": "33624" },
+      { "term": "202430", "crn": "33625" },
+      { "term": "202430", "crn": "33626" },
+      { "term": "202430", "crn": "33627" },
+      { "term": "202430", "crn": "34706" },
+      { "term": "202430", "crn": "36117" },
+      { "term": "202430", "crn": "36118" },
+      { "term": "202430", "crn": "36119" },
+      { "term": "202430", "crn": "39165" },
+      { "term": "202430", "crn": "39166" },
+      { "term": "202430", "crn": "39167" },
+      { "term": "202430", "crn": "39168" },
+      { "term": "202430", "crn": "39169" },
+      { "term": "202430", "crn": "39170" },
+      { "term": "202430", "crn": "39171" },
       { "term": "202410", "crn": "10729" },
       { "term": "202410", "crn": "10731" },
       { "term": "202410", "crn": "12172" },
@@ -1609,7 +1770,36 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "35670" }],
+    "sections": [
+      { "term": "202430", "crn": "34295" },
+      { "term": "202430", "crn": "34294" },
+      { "term": "202430", "crn": "34293" },
+      { "term": "202430", "crn": "34292" },
+      { "term": "202430", "crn": "34291" },
+      { "term": "202430", "crn": "34311" },
+      { "term": "202430", "crn": "34312" },
+      { "term": "202430", "crn": "34707" },
+      { "term": "202430", "crn": "34708" },
+      { "term": "202430", "crn": "34709" },
+      { "term": "202430", "crn": "34710" },
+      { "term": "202430", "crn": "34711" },
+      { "term": "202430", "crn": "34712" },
+      { "term": "202430", "crn": "34713" },
+      { "term": "202430", "crn": "34714" },
+      { "term": "202430", "crn": "34715" },
+      { "term": "202430", "crn": "34716" },
+      { "term": "202430", "crn": "36120" },
+      { "term": "202430", "crn": "36121" },
+      { "term": "202430", "crn": "36122" },
+      { "term": "202430", "crn": "39172" },
+      { "term": "202430", "crn": "39173" },
+      { "term": "202430", "crn": "39174" },
+      { "term": "202430", "crn": "39175" },
+      { "term": "202430", "crn": "39176" },
+      { "term": "202430", "crn": "39177" },
+      { "term": "202430", "crn": "39178" },
+      { "term": "202330", "crn": "35670" }
+    ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
     "prereqs": [{ "subject": "PSYC", "number": "9990" }]
@@ -1622,6 +1812,32 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30756" },
+      { "term": "202430", "crn": "32588" },
+      { "term": "202430", "crn": "30757" },
+      { "term": "202430", "crn": "30758" },
+      { "term": "202430", "crn": "30797" },
+      { "term": "202430", "crn": "30759" },
+      { "term": "202430", "crn": "31206" },
+      { "term": "202430", "crn": "31839" },
+      { "term": "202430", "crn": "30760" },
+      { "term": "202430", "crn": "33448" },
+      { "term": "202430", "crn": "33628" },
+      { "term": "202430", "crn": "33629" },
+      { "term": "202430", "crn": "33630" },
+      { "term": "202430", "crn": "33631" },
+      { "term": "202430", "crn": "33632" },
+      { "term": "202430", "crn": "33633" },
+      { "term": "202430", "crn": "34717" },
+      { "term": "202430", "crn": "36123" },
+      { "term": "202430", "crn": "36124" },
+      { "term": "202430", "crn": "36125" },
+      { "term": "202430", "crn": "39179" },
+      { "term": "202430", "crn": "39180" },
+      { "term": "202430", "crn": "39181" },
+      { "term": "202430", "crn": "39182" },
+      { "term": "202430", "crn": "39183" },
+      { "term": "202430", "crn": "39184" },
       { "term": "202410", "crn": "11533" },
       { "term": "202410", "crn": "12877" },
       { "term": "202410", "crn": "10732" },

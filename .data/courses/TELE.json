@@ -7,6 +7,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31705" },
       { "term": "202410", "crn": "13372" },
       { "term": "202330", "crn": "31885" },
       { "term": "202310", "crn": "13833" }
@@ -23,6 +24,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31706" },
       { "term": "202410", "crn": "11937" },
       { "term": "202330", "crn": "31886" },
       { "term": "202310", "crn": "12166" }
@@ -54,6 +56,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33488" },
       { "term": "202410", "crn": "13161" },
       { "term": "202330", "crn": "34002" },
       { "term": "202310", "crn": "13577" }
@@ -74,6 +77,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32592" },
       { "term": "202410", "crn": "13174" },
       { "term": "202330", "crn": "32918" },
       { "term": "202310", "crn": "13598" }
@@ -94,6 +98,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31707" },
       { "term": "202410", "crn": "11892" },
       { "term": "202330", "crn": "31887" },
       { "term": "202310", "crn": "12120" }
@@ -113,7 +118,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31888" }],
+    "sections": [
+      { "term": "202430", "crn": "31708" },
+      { "term": "202330", "crn": "31888" }
+    ],
     "description": "Explores the technologies that underlie unified communications and collaboration (UCC) applications and communications networks. With the migration of communications infrastructure to the cloud, a democratization of communications is underway that allows customers to build powerful UCC applications on top of networks managed by service providers. UCC applications integrate audio and video conferencing, messaging, virtual whiteboards, and enhanced call control capabilities. Major topics include architecture of communication networks, IP-based voice, video and messaging protocols, public cloud-based communications, browser-based communications, and Communications Platforms-as-a-Service (CPaaS). Uses class projects to offer students an opportunity to get hands-on experience in addressing real-world problems in UCC communications infrastructure, services, and applications.",
     "coreqs": [],
     "prereqs": [
@@ -162,6 +170,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39856" },
+      { "term": "202430", "crn": "35412" },
       { "term": "202410", "crn": "15458" },
       { "term": "202410", "crn": "15449" },
       { "term": "202330", "crn": "36867" },
@@ -181,6 +191,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35413" },
       { "term": "202410", "crn": "15429" },
       { "term": "202410", "crn": "16756" },
       { "term": "202330", "crn": "36868" },
@@ -213,6 +224,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34168" },
       { "term": "202410", "crn": "14511" },
       { "term": "202330", "crn": "34862" },
       { "term": "202330", "crn": "39602" },
@@ -234,7 +246,12 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "21341" }],
+    "sections": [
+      { "term": "202430", "crn": "39832" },
+      { "term": "202430", "crn": "40261" },
+      { "term": "202430", "crn": "40727" },
+      { "term": "202410", "crn": "21341" }
+    ],
     "description": "Offers topics of current interest in the Internet of Things. Topics vary from semester to semester. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []

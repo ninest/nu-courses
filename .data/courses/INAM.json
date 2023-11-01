@@ -1,12 +1,37 @@
 [
   {
     "subject": "INAM",
+    "number": "1300",
+    "title": "The Politics of Narrative in Theatre",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": ["ER"],
+    "sections": [{ "term": "202430", "crn": "39854" }],
+    "description": "Examines drama in everyday life—on stages, streets, and screens—and investigates the tribulations and promises of role-playing in ordinary narratives. Topics may include tragedy and trauma, identity and identification, catharsis and psychoanalysis, and the relationship between sacrifice and personal development. Interrogates how role-playing and drama—in all its forms—permeates our social relations. Experiments with rewriting the dramatic narrative of our everyday life experiences.",
+    "coreqs": [{ "subject": "INAM", "number": "1301" }],
+    "prereqs": []
+  },
+  {
+    "subject": "INAM",
+    "number": "1301",
+    "title": "The Politics of Narrative in Theatre Seminar",
+    "scheduleType": "Seminar",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39855" }],
+    "description": "Accompanies INAM 1300. Engages in detailed discussions about the assigned readings and weekly topics.",
+    "coreqs": [{ "subject": "INAM", "number": "1300" }],
+    "prereqs": []
+  },
+  {
+    "subject": "INAM",
     "number": "2000",
     "title": "Ethics in Creativity",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": ["EI", "ER"],
+    "nuPath": ["EI", "ER", "WI"],
     "sections": [
+      { "term": "202430", "crn": "34160" },
       { "term": "202410", "crn": "14917" },
       { "term": "202330", "crn": "34852" },
       { "term": "202310", "crn": "15991" }
@@ -24,6 +49,18 @@
     "nuPath": [],
     "sections": [{ "term": "202330", "crn": "39676" }],
     "description": "Through this course students will learn to use social media data for marketing and consumer research through the method of digital ethnography. Students will learn tools for observing, collecting, and analyzing social media data to build brand insights and marketing strategy.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INAM",
+    "number": "3200",
+    "title": "Creative Cognition",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["AD", "EI"],
+    "sections": [{ "term": "202430", "crn": "39666" }],
+    "description": "Offers a multidisciplinary exploration into the science of creativity. Many would agree that creativity is a cornerstone of human culture and innovation. But what is creativity, and how can humans cultivate it in life? Topics include idea generation and evaluation, problem solving and insight, psychometric measurements of creativity, the role of creativity in the arts and in human resource management, and the complex relationships between creativity and mental health. Synthesizing a variety of perspectives in creativity research, offers students an opportunity to train themselves to become more creative thinkers and practitioners.",
     "coreqs": [],
     "prereqs": []
   },
@@ -85,6 +122,10 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38206" },
+      { "term": "202430", "crn": "38344" },
+      { "term": "202430", "crn": "38420" },
+      { "term": "202430", "crn": "38455" },
       { "term": "202330", "crn": "40295" },
       { "term": "202330", "crn": "40449" },
       { "term": "202330", "crn": "40526" },
@@ -103,6 +144,15 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39783" },
+      { "term": "202430", "crn": "40501" },
+      { "term": "202430", "crn": "37879" },
+      { "term": "202430", "crn": "37975" },
+      { "term": "202430", "crn": "38548" },
+      { "term": "202430", "crn": "40704" },
+      { "term": "202430", "crn": "40705" },
+      { "term": "202430", "crn": "40706" },
+      { "term": "202430", "crn": "40707" },
       { "term": "202410", "crn": "18429" },
       { "term": "202410", "crn": "18533" },
       { "term": "202410", "crn": "18534" },
@@ -216,6 +266,16 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37952" },
+      { "term": "202430", "crn": "38059" },
+      { "term": "202430", "crn": "38128" },
+      { "term": "202430", "crn": "38257" },
+      { "term": "202430", "crn": "38304" },
+      { "term": "202430", "crn": "38314" },
+      { "term": "202430", "crn": "38342" },
+      { "term": "202430", "crn": "38403" },
+      { "term": "202430", "crn": "38417" },
+      { "term": "202430", "crn": "38472" },
       { "term": "202410", "crn": "19203" },
       { "term": "202410", "crn": "21948" },
       { "term": "202360", "crn": "61801" },
@@ -289,7 +349,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "40336" }],
+    "sections": [
+      { "term": "202430", "crn": "39667" },
+      { "term": "202330", "crn": "40336" }
+    ],
     "description": "Requires students to present their work in progress for feedback by their peers, faculty, and visitors. The work conducted in this seminar serves as the foundation for establishing the topic and method of study employed for the dissertation.",
     "coreqs": [],
     "prereqs": []
@@ -301,7 +364,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21264" }],
+    "sections": [
+      { "term": "202430", "crn": "39668" },
+      { "term": "202310", "crn": "21264" }
+    ],
     "description": "This class will take place in Ryder 180 in the Center for Design.",
     "coreqs": [],
     "prereqs": []
@@ -331,6 +397,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40703" },
       { "term": "202350", "crn": "53148" },
       { "term": "202350", "crn": "53389" }
     ],

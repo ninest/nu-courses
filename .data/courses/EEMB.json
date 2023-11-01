@@ -36,7 +36,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD", "ND"],
-    "sections": [{ "term": "202330", "crn": "33766" }],
+    "sections": [
+      { "term": "202430", "crn": "33312" },
+      { "term": "202330", "crn": "33766" }
+    ],
     "description": "Introduces students to the foundational principles of molecular ecology with an emphasis on applications of high-throughput sequencing techniques to answer questions in ecology and evolutionary biology. Covers foundational topics in ecological and evolutionary genomics (central dogma, structure of nucleic acids, genetic variation, tools in molecular ecology, understanding genomes, and genomics). Practical skills development includes clean technique and proper bench skills; basic command line programming; understanding, quantifying, and analyzing sequence variation; and visualizing genomic data for formal scientific presentations.",
     "coreqs": [{ "subject": "EEMB", "number": "1106" }],
     "prereqs": []
@@ -49,6 +52,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33313" },
+      { "term": "202430", "crn": "34793" },
       { "term": "202330", "crn": "33767" },
       { "term": "202330", "crn": "35808" }
     ],
@@ -87,6 +92,7 @@
     "credits": 4,
     "nuPath": ["FQ", "WI"],
     "sections": [
+      { "term": "202430", "crn": "33314" },
       { "term": "202410", "crn": "13969" },
       { "term": "202410", "crn": "20332" },
       { "term": "202330", "crn": "33768" },
@@ -109,6 +115,11 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33315" },
+      { "term": "202430", "crn": "33316" },
+      { "term": "202430", "crn": "34321" },
+      { "term": "202430", "crn": "34794" },
+      { "term": "202430", "crn": "36349" },
       { "term": "202410", "crn": "13970" },
       { "term": "202410", "crn": "13971" },
       { "term": "202410", "crn": "15499" },
@@ -139,6 +150,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "33834" },
       { "term": "202410", "crn": "12133" },
       { "term": "202340", "crn": "41735" },
       { "term": "202330", "crn": "34460" },
@@ -164,7 +176,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ND", "WI"],
-    "sections": [{ "term": "202330", "crn": "35810" }],
+    "sections": [
+      { "term": "202430", "crn": "34795" },
+      { "term": "202330", "crn": "35810" }
+    ],
     "description": "Examines biological aspects of natural ocean ecosystems and the physical processes that regulate them. Covers distributions, abundances, and interactions of marine organisms; interactions between organisms and the transformation and flux of energy and matter in marine ecosystems; and aspects of physiology related to marine species distributions, abundances, and roles. Students generate, evaluate, discuss, and present data from primary research and apply their knowledge of the scientific method and biological concepts through the creation of a written grant proposal.",
     "coreqs": [{ "subject": "EEMB", "number": "2701" }],
     "prereqs": [
@@ -197,6 +212,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34796" },
+      { "term": "202430", "crn": "34797" },
+      { "term": "202430", "crn": "34798" },
       { "term": "202330", "crn": "35811" },
       { "term": "202330", "crn": "35812" },
       { "term": "202330", "crn": "35813" }
@@ -239,6 +257,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "36350" },
       { "term": "202410", "crn": "20005" },
       { "term": "202330", "crn": "38330" }
     ],
@@ -265,7 +284,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD", "ND"],
-    "sections": [{ "term": "202310", "crn": "19339" }],
+    "sections": [
+      { "term": "202430", "crn": "39189" },
+      { "term": "202310", "crn": "19339" }
+    ],
     "description": "Offers an overview of ecological and conservation genetics, an interdisciplinary science that focuses on understanding the processes that determine genetic diversity at the individual to population level. Focuses on fundamental concepts in evolutionary ecology and population and quantitative genetics, then applies those concepts to solving real-world problems in conservation science. Covers harvested populations, inbreeding, climate change, introduced species, conservation of threatened and endangered species, adaptation, and habitat restoration. Exposes students to multiple sides of these issues and the science that underpins them. Offers students an opportunity to develop the R programming skills required to analyze the complex data sets that often emerge when addressing cutting-edge questions in genetics. Includes writing and coding exercises and mathematical derivations. Emphasizes critical thinking and problem solving.",
     "coreqs": [],
     "prereqs": [
@@ -289,7 +311,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD", "ND"],
-    "sections": [{ "term": "202330", "crn": "35814" }],
+    "sections": [
+      { "term": "202430", "crn": "34799" },
+      { "term": "202330", "crn": "35814" }
+    ],
     "description": "Covers the fundamentals of disease ecology and evolution. Focuses on how disease can impact the physiology of organisms and how this can, in turn, alter communities and ecosystems. Topics include mathematical theory on host-pathogen interactions; empirical studies of human, wildlife, insect, and plant host populations; emerging infectious diseases; effects on host behavior; host-parasite coevolution; multihost and multipathogen systems; and anthropogenic effects on disease. Includes writing exercises, with a special emphasis on critical thinking and problem solving.",
     "coreqs": [],
     "prereqs": [
@@ -311,7 +336,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD", "ND"],
-    "sections": [{ "term": "202330", "crn": "35815" }],
+    "sections": [
+      { "term": "202430", "crn": "34800" },
+      { "term": "202330", "crn": "35815" }
+    ],
     "description": "Focuses on wildlife ecology and management, with an emphasis on terrestrial species. Introduces habitat use, behavior, wildlife conservation, parasites and pathogens, wildlife sampling, wildlife management, food and nutrition, population viability, and conservation genetics. Offers students an opportunity to engage in analyzing primary literature, collection, interpretation, and wildlife data and using basic mathematical models.",
     "coreqs": [],
     "prereqs": [{ "subject": "EEMB", "number": "2302" }]
@@ -443,6 +471,7 @@
     "credits": 2,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "35326" },
       { "term": "202330", "crn": "36731" },
       { "term": "202310", "crn": "20018" }
     ],
@@ -464,6 +493,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35327" },
       { "term": "202330", "crn": "36732" },
       { "term": "202310", "crn": "20019" }
     ],
@@ -479,6 +509,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35328" },
       { "term": "202330", "crn": "36733" },
       { "term": "202310", "crn": "20020" }
     ],
@@ -500,6 +531,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35329" },
       { "term": "202330", "crn": "36734" },
       { "term": "202310", "crn": "20022" }
     ],
@@ -515,6 +547,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35330" },
       { "term": "202330", "crn": "36735" },
       { "term": "202310", "crn": "20021" }
     ],
@@ -567,6 +600,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35331" },
       { "term": "202330", "crn": "36736" },
       { "term": "202310", "crn": "20023" }
     ],
@@ -588,6 +622,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35332" },
       { "term": "202330", "crn": "36737" },
       { "term": "202310", "crn": "20024" }
     ],
@@ -603,6 +638,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35333" },
       { "term": "202330", "crn": "36738" },
       { "term": "202310", "crn": "20025" }
     ],
@@ -622,7 +658,7 @@
     "title": "Experimental Design Marine Ecology",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["AD", "WI"],
+    "nuPath": ["WI", "AD"],
     "sections": [
       { "term": "202410", "crn": "15213" },
       { "term": "202310", "crn": "16477" }
@@ -685,6 +721,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35334" },
       { "term": "202330", "crn": "36739" },
       { "term": "202310", "crn": "20028" }
     ],
@@ -699,7 +736,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38335" }],
+    "sections": [
+      { "term": "202430", "crn": "36354" },
+      { "term": "202330", "crn": "38335" }
+    ],
     "description": "Investigates the major drivers to short-, medium-, and long-term changes in the world’s oceans. Compares the role of natural and human-induced changes in ocean systems. Key areas focus on the role of nonhuman animals in modifying and mitigating oceanic and atmospheric change. Explores the linkages among oceans and atmosphere through examples in the Pacific Northwest and worldwide.",
     "coreqs": [{ "subject": "EEMB", "number": "5541" }],
     "prereqs": []
@@ -711,7 +751,10 @@
     "scheduleType": "Lab",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "37244" }],
+    "sections": [
+      { "term": "202430", "crn": "35637" },
+      { "term": "202330", "crn": "37244" }
+    ],
     "description": "Accompanies EEMB 5540. Students participate in daily, topical, paper discussions, carry out laboratory exercises, or explore and collect data in field exercises. Offers students an opportunity to acquire skills such as using oceanographic equipment, modeling simulations, data collection, and data analysis.",
     "coreqs": [{ "subject": "EEMB", "number": "5540" }],
     "prereqs": []
@@ -791,7 +834,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19341" }],
+    "sections": [
+      { "term": "202430", "crn": "39191" },
+      { "term": "202310", "crn": "19341" }
+    ],
     "description": "Provides an overview of ecological and evolutionary genomics. Covers foundational mathematical concepts in population in quantitative genetics, from individual loci up to whole genomes. Concepts covered include Hardy-Weinberg equilibrium, F statistics, signatures of natural selection in genomes and methods for detecting them, analysis of quantitative genetic evolution, hybridization, and gene expression. Also covers modern statistical methods used to analyze genomic data using the free and open source R programming environment. Builds knowledge through reading of the primary literature and advanced problem sets. The final project requires students to complete a novel data analysis of an open source genomics data set and write a research paper.",
     "coreqs": [],
     "prereqs": []
@@ -803,7 +849,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "35816" }],
+    "sections": [
+      { "term": "202430", "crn": "34801" },
+      { "term": "202330", "crn": "35816" }
+    ],
     "description": "Focuses on wildlife ecology and management, with an emphasis on terrestrial species. Covers habitat use, behavior, wildlife conservation, parasites and pathogens, wildlife sampling, wildlife management, food and nutrition, population viability, and conservation genetics. Engages students in analyzing primary literature and wildlife data, collection, interpretation, and using basic mathematical models.",
     "coreqs": [],
     "prereqs": []
@@ -834,12 +883,25 @@
   },
   {
     "subject": "EEMB",
+    "number": "7103",
+    "title": "Seminar in Sustainability Sciences",
+    "scheduleType": "Seminar",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40418" }],
+    "description": "Explores key papers that have shaped modern theory, methodologies, and practices of sustainability science. Sustainability science hinges on integrating social and ecological sciences to assess the sustainability of human-environment interactions. From the social science dimension, many past studies focused on understanding how values, beliefs, and social norms shape human behavior. From an ecological perspective, much work focused on the influence of various institutional arrangements on resource and environmental sustainability. Importantly, a coupled natural-human or social-ecological systems (SES) perspective focuses on the inherently dynamic nature of these systems and interactions.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EEMB",
     "number": "7674",
     "title": "Marine Biology Research Project",
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36357" },
       { "term": "202410", "crn": "14645" },
       { "term": "202410", "crn": "21181" },
       { "term": "202410", "crn": "21182" },
@@ -861,7 +923,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 2,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202430", "crn": "36358" }],
     "description": "Designed to prepare PhD students with a concentration in marine sciences for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
     "prereqs": []
@@ -874,6 +936,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36359" },
       { "term": "202330", "crn": "38340" },
       { "term": "202310", "crn": "13872" }
     ],
@@ -888,7 +951,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "17314" }],
+    "sections": [
+      { "term": "202430", "crn": "36360" },
+      { "term": "202310", "crn": "17314" }
+    ],
     "description": "Designed to prepare PhD students with a concentration in sustainability for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
     "prereqs": []
@@ -901,6 +967,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36361" },
       { "term": "202410", "crn": "16981" },
       { "term": "202330", "crn": "38342" },
       { "term": "202310", "crn": "19344" }
@@ -917,6 +984,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38318" },
+      { "term": "202430", "crn": "38711" },
       { "term": "202330", "crn": "40410" },
       { "term": "202330", "crn": "40830" }
     ],
@@ -932,6 +1001,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32687" },
       { "term": "202410", "crn": "11846" },
       { "term": "202330", "crn": "33023" },
       { "term": "202310", "crn": "12071" }
@@ -948,6 +1018,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31572" },
       { "term": "202410", "crn": "11847" },
       { "term": "202360", "crn": "61563" },
       { "term": "202350", "crn": "50354" },
@@ -966,6 +1037,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36362" },
       { "term": "202330", "crn": "38343" },
       { "term": "202310", "crn": "12073" }
     ],
@@ -981,6 +1053,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34120" },
       { "term": "202350", "crn": "52536" },
       { "term": "202330", "crn": "34800" },
       { "term": "202310", "crn": "21556" }
@@ -997,6 +1070,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31573" },
       { "term": "202410", "crn": "11849" },
       { "term": "202350", "crn": "50356" },
       { "term": "202330", "crn": "31740" },

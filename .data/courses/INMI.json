@@ -1,0 +1,18 @@
+[
+  {
+    "subject": "INMI",
+    "number": "2500",
+    "title": "California in Global Economy: Business, Policy, and Beyond",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202430", "crn": "40671" }],
+    "description": "Examines the key sectors of California’s economy and discusses their positionality within the global landscape. Presents conceptual foundations and frameworks drawing on strategic management, disruptive innovation, and political economy literatures. Provides students with in-depth sectoral knowledge and exposure to innovation diffusion trends relevant to California’s economy and the world. Offers students an opportunity to learn about business and industry clusters specific to California and to develop an understanding of how California fits into and affects the world economy. Emphasizes the interactions of workforce diversity, radical innovation, and human resource management. Also discusses concepts relating to global talent flows, platform economies, network economies, and go-to-market strategies.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ECON", "number": "1115" },
+      "Or",
+      { "subject": "ECON", "number": "1116" }
+    ]
+  }
+]

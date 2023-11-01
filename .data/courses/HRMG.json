@@ -7,6 +7,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30719" },
+      { "term": "202430", "crn": "31740" },
       { "term": "202410", "crn": "10640" },
       { "term": "202410", "crn": "10688" },
       { "term": "202410", "crn": "20629" },
@@ -85,7 +87,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33801" }],
+    "sections": [
+      { "term": "202430", "crn": "33340" },
+      { "term": "202330", "crn": "33801" }
+    ],
     "description": "Covers key issues and introduces management principles in health organization management. Offers students an opportunity to apply important theoretical ideas, such as systems thinking and organizational learning, to meet challenges effectively, to learn how the healthcare workplace functions, and how to manage in these workplaces. Emphasizes case-based learning, critical thinking, and evidence-based management using individual and group projects. Introduces cutting-edge tools in areas such as work redesign, performance management, brand enhancement, and quality improvement. Addresses the management imperatives of today's healthcare organizations and how to implement strategies and programs to meet those imperatives effectively. Intended for anyone interested in working or managing within the healthcare industry, including the field of public health.",
     "coreqs": [],
     "prereqs": []
@@ -98,6 +103,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36150" },
       { "term": "202330", "crn": "38117" },
       { "term": "202240", "crn": "41678" }
     ],
@@ -124,7 +130,11 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19616" }],
+    "sections": [
+      { "term": "202430", "crn": "39032" },
+      { "term": "202430", "crn": "39812" },
+      { "term": "202310", "crn": "19616" }
+    ],
     "description": "Offers students an opportunity to obtain the insights, frameworks, and tools to effectively manage and develop talent in teams and organizations. Also explores promotion and cross-functional systems that strengthen the organization as well as retention strategies to promote and reward high-quality talent. Managing and developing talent is one of the top three issues on the minds of CEOs from around the world. In fact, CEOs cite managing and developing their leadership talent as the issue that is most important to the future success of their business but that their organizations are least capable of addressing effectively. Offers students an opportunity to engage in various activities intended to illustrate and practice the skills involved in implementing talent management systems.",
     "coreqs": [],
     "prereqs": []
@@ -164,6 +174,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37730" },
       { "term": "202410", "crn": "13359" },
       { "term": "202410", "crn": "13356" },
       { "term": "202340", "crn": "40637" },

@@ -7,6 +7,9 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "32251" },
+      { "term": "202430", "crn": "39850" },
+      { "term": "202430", "crn": "39851" },
       { "term": "202410", "crn": "15313" },
       { "term": "202410", "crn": "17954" },
       { "term": "202360", "crn": "60686" },
@@ -42,6 +45,18 @@
       "Or",
       { "subject": "ENGW", "number": "1114" }
     ]
+  },
+  {
+    "subject": "AFRS",
+    "number": "2410",
+    "title": "Possession, Sacrifice, and Divination in African Diasporic Religions",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202430", "crn": "39442" }],
+    "description": "Examines religious thought and rituals and the Diaspora in a comparative context. Topics include traditional religions, Islam, Christianity, and Judaism in Africa, and the Diaspora. Emphasizes the transformation of religions practiced in Africa when African captives were forced into the three slave trades affecting the continent of Africa: trans-Saharan, Indian Ocean, and transatlantic.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "AFRS",

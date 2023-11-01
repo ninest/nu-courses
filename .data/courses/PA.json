@@ -21,7 +21,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30624" }],
+    "sections": [
+      { "term": "202430", "crn": "30599" },
+      { "term": "202330", "crn": "30624" }
+    ],
     "description": "Emphasizes the structure and function of the human body including cells, tissues, and organs. Highlights interrelationships among systems and regulation of physiological functions involved in maintaining homeostasis. Focuses on features of clinical importance. Covers musculoskeletal, neurologic, cardiovascular, respiratory, gastrointestinal, endocrine, immunologic, and renal systems. Requires cadaver laboratory sessions. This is the second of a two-course sequence.",
     "coreqs": [],
     "prereqs": [{ "subject": "PA", "number": "6200" }]
@@ -48,7 +51,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30698" }],
+    "sections": [
+      { "term": "202430", "crn": "30671" },
+      { "term": "202330", "crn": "30698" }
+    ],
     "description": "Presents the techniques for eliciting an accurate history, performing an appropriate physical examination, making case presentations, and documenting patients' information. Includes issues such as effective communication, confidentiality, cultural competence, and dealing with patients who are terminally ill or disabled. Emphasizes the correlation of pertinent physical findings with their respective clinical conditions. Students participate in all aspects of the clinical encounter.",
     "coreqs": [],
     "prereqs": [{ "subject": "PA", "number": "6203" }]
@@ -75,7 +81,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30697" }],
+    "sections": [
+      { "term": "202430", "crn": "30670" },
+      { "term": "202330", "crn": "30697" }
+    ],
     "description": "Continues PA 6205. Examines the classification, mechanisms of action, and use of a broad spectrum of therapeutic agents. Focuses on dose response, side effects, adverse reactions, and the role of patient concordance in medication effectiveness.",
     "coreqs": [],
     "prereqs": [{ "subject": "PA", "number": "6205" }]
@@ -87,7 +96,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30998" }],
+    "sections": [
+      { "term": "202430", "crn": "30934" },
+      { "term": "202330", "crn": "30998" }
+    ],
     "description": "Covers a variety of diagnostic and therapeutic evaluations including clinical laboratory methods, radiologic studies, and electrocardiography. Includes basic principles of diagnostic and therapeutic patient evaluation, radiology, indications and interpretation of clinical laboratory studies, demonstration and practice of various diagnostic methods, and electrocardiography theory and interpretation.",
     "coreqs": [],
     "prereqs": []
@@ -141,7 +153,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30696" }],
+    "sections": [
+      { "term": "202430", "crn": "30669" },
+      { "term": "202330", "crn": "30696" }
+    ],
     "description": "Continues PA 6311. Presents a systems approach to the principles of disease processes and includes such topics as physiology, pathophysiology, the natural history of disease, diagnostic procedures, and therapeutics measures. This course is thesecond of a three-semester series covering core medical concepts and knowledge grounded in scientific principles and evidence-based medicine on the diseases and conditions commonly encountered in clinical practice.",
     "coreqs": [],
     "prereqs": [{ "subject": "PA", "number": "6311" }]
@@ -201,7 +216,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30695" }],
+    "sections": [
+      { "term": "202430", "crn": "30668" },
+      { "term": "202330", "crn": "30695" }
+    ],
     "description": "Presents the clinical application of neuroanatomy and neurophysiology. Offers the opportunity to develop an understanding of the nervous system's normal functioning as well as a clinical approach to assessing and managing nervous system disorders and disease states, and their effects on patients and their families.",
     "coreqs": [],
     "prereqs": []
@@ -213,7 +231,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30599" }],
+    "sections": [
+      { "term": "202430", "crn": "30578" },
+      { "term": "202330", "crn": "30599" }
+    ],
     "description": "Presents the physiological and psychological fundamentals of child development. Focuses on the major common pediatric illnesses, including their signs, symptoms, and treatment regimens; various immunizations and medications used in pediatrics and their indication and dosage in relation to specific disorders; and management of pediatric emergencies.",
     "coreqs": [],
     "prereqs": []
@@ -288,7 +309,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39807" }],
+    "sections": [
+      { "term": "202430", "crn": "37727" },
+      { "term": "202330", "crn": "39807" }
+    ],
     "description": "Considers research methods and designs used in varied professional settings. Emphasizes development of research techniques, including the ability to define research problems; write hypotheses; review and interpret literature; apply research designs; organize, analyze, and present data; and draw relevant conclusions.",
     "coreqs": [],
     "prereqs": []
@@ -301,6 +325,7 @@
     "credits": 5,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30666" },
       { "term": "202410", "crn": "10697" },
       { "term": "202350", "crn": "50024" },
       { "term": "202330", "crn": "30693" },
@@ -318,6 +343,7 @@
     "credits": 5,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30667" },
       { "term": "202410", "crn": "10696" },
       { "term": "202350", "crn": "50059" },
       { "term": "202330", "crn": "30694" },
@@ -335,6 +361,7 @@
     "credits": 5,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33261" },
       { "term": "202410", "crn": "10700" },
       { "term": "202350", "crn": "50717" },
       { "term": "202330", "crn": "33704" },
@@ -352,6 +379,7 @@
     "credits": 5,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30662" },
       { "term": "202410", "crn": "10728" },
       { "term": "202350", "crn": "50054" },
       { "term": "202330", "crn": "30689" },
@@ -369,6 +397,7 @@
     "credits": 5,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30665" },
       { "term": "202410", "crn": "10698" },
       { "term": "202350", "crn": "50058" },
       { "term": "202330", "crn": "30692" },
@@ -386,6 +415,7 @@
     "credits": 5,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30664" },
       { "term": "202410", "crn": "10699" },
       { "term": "202350", "crn": "50057" },
       { "term": "202330", "crn": "30691" },
@@ -403,6 +433,7 @@
     "credits": 5,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34675" },
       { "term": "202410", "crn": "10702" },
       { "term": "202350", "crn": "50055" },
       { "term": "202330", "crn": "35612" },
@@ -420,6 +451,7 @@
     "credits": 5,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30663" },
       { "term": "202410", "crn": "10701" },
       { "term": "202350", "crn": "50056" },
       { "term": "202330", "crn": "30690" },
@@ -437,6 +469,7 @@
     "credits": 5,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30763" },
       { "term": "202350", "crn": "50053" },
       { "term": "202330", "crn": "30813" },
       { "term": "202310", "crn": "13419" }

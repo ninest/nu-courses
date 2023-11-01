@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36342" },
       { "term": "202410", "crn": "19779" },
       { "term": "202330", "crn": "38322" }
     ],
@@ -91,6 +92,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "30233" },
       { "term": "202410", "crn": "10522" },
       { "term": "202410", "crn": "12377" },
       { "term": "202410", "crn": "10227" },
@@ -119,6 +121,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30514" },
+      { "term": "202430", "crn": "30515" },
       { "term": "202410", "crn": "10207" },
       { "term": "202410", "crn": "12379" },
       { "term": "202410", "crn": "12380" },
@@ -166,6 +170,12 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "32756" },
+      { "term": "202430", "crn": "34229" },
+      { "term": "202430", "crn": "34724" },
+      { "term": "202430", "crn": "34725" },
+      { "term": "202430", "crn": "37107" },
+      { "term": "202430", "crn": "40634" },
       { "term": "202410", "crn": "13087" },
       { "term": "202410", "crn": "13088" },
       { "term": "202410", "crn": "13452" },
@@ -207,6 +217,22 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32757" },
+      { "term": "202430", "crn": "32758" },
+      { "term": "202430", "crn": "34055" },
+      { "term": "202430", "crn": "34056" },
+      { "term": "202430", "crn": "34057" },
+      { "term": "202430", "crn": "34240" },
+      { "term": "202430", "crn": "34241" },
+      { "term": "202430", "crn": "34726" },
+      { "term": "202430", "crn": "34727" },
+      { "term": "202430", "crn": "34728" },
+      { "term": "202430", "crn": "34729" },
+      { "term": "202430", "crn": "34731" },
+      { "term": "202430", "crn": "34732" },
+      { "term": "202430", "crn": "35928" },
+      { "term": "202430", "crn": "37119" },
+      { "term": "202430", "crn": "40635" },
       { "term": "202410", "crn": "13048" },
       { "term": "202410", "crn": "13050" },
       { "term": "202410", "crn": "13053" },
@@ -324,6 +350,17 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32759" },
+      { "term": "202430", "crn": "32760" },
+      { "term": "202430", "crn": "34076" },
+      { "term": "202430", "crn": "34077" },
+      { "term": "202430", "crn": "34242" },
+      { "term": "202430", "crn": "34243" },
+      { "term": "202430", "crn": "34733" },
+      { "term": "202430", "crn": "34734" },
+      { "term": "202430", "crn": "34735" },
+      { "term": "202430", "crn": "34736" },
+      { "term": "202430", "crn": "37120" },
       { "term": "202410", "crn": "13453" },
       { "term": "202410", "crn": "13067" },
       { "term": "202410", "crn": "13068" },
@@ -396,6 +433,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "30232" },
       { "term": "202410", "crn": "10198" },
       { "term": "202330", "crn": "30238" },
       { "term": "202310", "crn": "10208" }
@@ -415,6 +453,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31027" },
+      { "term": "202430", "crn": "30213" },
+      { "term": "202430", "crn": "30212" },
       { "term": "202410", "crn": "10197" },
       { "term": "202410", "crn": "10194" },
       { "term": "202410", "crn": "20523" },
@@ -449,6 +490,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31992" },
+      { "term": "202430", "crn": "31789" },
       { "term": "202410", "crn": "10280" },
       { "term": "202410", "crn": "10007" },
       { "term": "202410", "crn": "10225" },
@@ -473,6 +516,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "30492" },
       { "term": "202410", "crn": "10492" },
       { "term": "202330", "crn": "30507" },
       { "term": "202310", "crn": "10530" }
@@ -492,6 +536,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30196" },
+      { "term": "202430", "crn": "31160" },
       { "term": "202410", "crn": "10494" },
       { "term": "202410", "crn": "10495" },
       { "term": "202330", "crn": "30201" },
@@ -515,6 +561,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30211" },
+      { "term": "202430", "crn": "30002" },
       { "term": "202410", "crn": "10496" },
       { "term": "202410", "crn": "10003" },
       { "term": "202410", "crn": "10497" },
@@ -539,6 +587,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "39238" },
       { "term": "202410", "crn": "13458" },
       { "term": "202310", "crn": "13936" }
     ],
@@ -557,6 +606,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39239" },
+      { "term": "202430", "crn": "39240" },
       { "term": "202410", "crn": "13459" },
       { "term": "202410", "crn": "17930" },
       { "term": "202310", "crn": "13937" },
@@ -577,6 +628,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39241" },
       { "term": "202410", "crn": "13460" },
       { "term": "202310", "crn": "13938" }
     ],
@@ -595,6 +647,14 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30231" },
+      { "term": "202430", "crn": "31859" },
+      { "term": "202430", "crn": "32761" },
+      { "term": "202430", "crn": "33662" },
+      { "term": "202430", "crn": "34737" },
+      { "term": "202430", "crn": "34738" },
+      { "term": "202430", "crn": "37117" },
+      { "term": "202430", "crn": "40636" },
       { "term": "202410", "crn": "10191" },
       { "term": "202410", "crn": "18122" },
       { "term": "202410", "crn": "10491" },
@@ -631,6 +691,39 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30230" },
+      { "term": "202430", "crn": "30229" },
+      { "term": "202430", "crn": "30890" },
+      { "term": "202430", "crn": "31164" },
+      { "term": "202430", "crn": "31304" },
+      { "term": "202430", "crn": "32665" },
+      { "term": "202430", "crn": "32666" },
+      { "term": "202430", "crn": "32762" },
+      { "term": "202430", "crn": "32763" },
+      { "term": "202430", "crn": "31333" },
+      { "term": "202430", "crn": "32764" },
+      { "term": "202430", "crn": "32032" },
+      { "term": "202430", "crn": "32765" },
+      { "term": "202430", "crn": "32766" },
+      { "term": "202430", "crn": "32767" },
+      { "term": "202430", "crn": "33170" },
+      { "term": "202430", "crn": "33172" },
+      { "term": "202430", "crn": "33460" },
+      { "term": "202430", "crn": "33461" },
+      { "term": "202430", "crn": "34212" },
+      { "term": "202430", "crn": "34739" },
+      { "term": "202430", "crn": "34740" },
+      { "term": "202430", "crn": "34741" },
+      { "term": "202430", "crn": "34742" },
+      { "term": "202430", "crn": "37121" },
+      { "term": "202430", "crn": "37862" },
+      { "term": "202430", "crn": "40637" },
+      { "term": "202430", "crn": "40638" },
+      { "term": "202430", "crn": "40639" },
+      { "term": "202430", "crn": "40640" },
+      { "term": "202430", "crn": "40641" },
+      { "term": "202430", "crn": "35542" },
+      { "term": "202430", "crn": "35544" },
       { "term": "202410", "crn": "10189" },
       { "term": "202410", "crn": "10187" },
       { "term": "202410", "crn": "13690" },
@@ -776,6 +869,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30228" },
+      { "term": "202430", "crn": "31931" },
+      { "term": "202430", "crn": "30508" },
       { "term": "202410", "crn": "10177" },
       { "term": "202410", "crn": "12127" },
       { "term": "202410", "crn": "13455" },
@@ -808,6 +904,27 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30227" },
+      { "term": "202430", "crn": "30226" },
+      { "term": "202430", "crn": "30225" },
+      { "term": "202430", "crn": "30224" },
+      { "term": "202430", "crn": "30223" },
+      { "term": "202430", "crn": "30868" },
+      { "term": "202430", "crn": "30222" },
+      { "term": "202430", "crn": "30475" },
+      { "term": "202430", "crn": "30018" },
+      { "term": "202430", "crn": "30869" },
+      { "term": "202430", "crn": "30870" },
+      { "term": "202430", "crn": "30895" },
+      { "term": "202430", "crn": "31156" },
+      { "term": "202430", "crn": "31157" },
+      { "term": "202430", "crn": "31334" },
+      { "term": "202430", "crn": "31335" },
+      { "term": "202430", "crn": "31348" },
+      { "term": "202430", "crn": "37791" },
+      { "term": "202430", "crn": "37792" },
+      { "term": "202430", "crn": "37794" },
+      { "term": "202430", "crn": "37795" },
       { "term": "202410", "crn": "10894" },
       { "term": "202410", "crn": "10228" },
       { "term": "202410", "crn": "11194" },
@@ -951,7 +1068,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33605" }],
+    "sections": [
+      { "term": "202430", "crn": "33173" },
+      { "term": "202330", "crn": "33605" }
+    ],
     "description": "Reviews the basics of bonding and thermodynamics of organic compounds as well as conformational and stereochemical considerations. Presents the structure, nomenclature, and reactivity of hydrocarbons and their functional derivatives. Highlights key reaction mechanisms, providing an introduction to the methodology of organic synthesis.",
     "coreqs": [
       { "subject": "CHEM", "number": "2316" },
@@ -973,6 +1093,8 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33174" },
+      { "term": "202430", "crn": "33663" },
       { "term": "202330", "crn": "33606" },
       { "term": "202330", "crn": "34236" }
     ],
@@ -1032,6 +1154,7 @@
     "credits": 4,
     "nuPath": ["AD", "WI"],
     "sections": [
+      { "term": "202430", "crn": "33175" },
       { "term": "202410", "crn": "13469" },
       { "term": "202340", "crn": "41107" },
       { "term": "202330", "crn": "33607" },
@@ -1069,6 +1192,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33176" },
+      { "term": "202430", "crn": "33434" },
       { "term": "202410", "crn": "14573" },
       { "term": "202410", "crn": "13622" },
       { "term": "202340", "crn": "41108" },
@@ -1094,6 +1219,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33664" },
       { "term": "202410", "crn": "13980" },
       { "term": "202340", "crn": "41109" },
       { "term": "202330", "crn": "34237" },
@@ -1114,7 +1240,10 @@
     "scheduleType": "Recitation/Discussion",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33855" }],
+    "sections": [
+      { "term": "202430", "crn": "33381" },
+      { "term": "202330", "crn": "33855" }
+    ],
     "description": "Accompanies CHEM 2315 and CHEM 2316. Offers students an opportunity to work interactively with instructors and other students to learn and apply the knowledge acquired in lab and lecture.",
     "coreqs": [
       { "subject": "CHEM", "number": "2315" },
@@ -1148,6 +1277,7 @@
     "credits": 4,
     "nuPath": ["AD", "WI"],
     "sections": [
+      { "term": "202430", "crn": "34743" },
       { "term": "202410", "crn": "14996" },
       { "term": "202330", "crn": "35719" },
       { "term": "202310", "crn": "16123" }
@@ -1196,6 +1326,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34744" },
+      { "term": "202430", "crn": "34745" },
       { "term": "202410", "crn": "14997" },
       { "term": "202410", "crn": "14998" },
       { "term": "202330", "crn": "35720" },
@@ -1215,6 +1347,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33177" },
       { "term": "202410", "crn": "13456" },
       { "term": "202330", "crn": "33609" },
       { "term": "202310", "crn": "13934" }
@@ -1251,6 +1384,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33178" },
       { "term": "202410", "crn": "13457" },
       { "term": "202330", "crn": "33610" },
       { "term": "202310", "crn": "13935" }
@@ -1267,6 +1401,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30989" },
       { "term": "202410", "crn": "12768" },
       { "term": "202330", "crn": "31062" },
       { "term": "202310", "crn": "13130" }
@@ -1301,6 +1436,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30029" },
+      { "term": "202430", "crn": "31798" },
       { "term": "202410", "crn": "12396" },
       { "term": "202410", "crn": "12397" },
       { "term": "202330", "crn": "30031" },
@@ -1341,6 +1478,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31733" },
       { "term": "202410", "crn": "11934" },
       { "term": "202340", "crn": "40591" },
       { "term": "202330", "crn": "31915" },
@@ -1351,7 +1489,6 @@
     "coreqs": [{ "subject": "CHEM", "number": "3432" }],
     "prereqs": [
       "(",
-      "(",
       { "subject": "CHEM", "number": "1214" },
       "Or",
       { "subject": "CHEM", "number": "1220" },
@@ -1361,7 +1498,6 @@
       { "subject": "CHEM", "number": "1151" },
       "Or",
       { "subject": "CHEM", "number": "1161" },
-      ")",
       ")",
       "And",
       "(",
@@ -1389,6 +1525,10 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32335" },
+      { "term": "202430", "crn": "31734" },
+      { "term": "202430", "crn": "31735" },
+      { "term": "202430", "crn": "35390" },
       { "term": "202410", "crn": "11935" },
       { "term": "202410", "crn": "11936" },
       { "term": "202410", "crn": "14420" },
@@ -1415,7 +1555,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202410", "crn": "18313" }],
+    "sections": [
+      { "term": "202430", "crn": "39242" },
+      { "term": "202410", "crn": "18313" }
+    ],
     "description": "Presents the following topics: basic concepts of molecular topologies, coordination compounds, coordination chemistry, isomerism, electron-transfer reactions, substitution reactions, molecular rearrangements and reactions at ligands, and biochemical applications.",
     "coreqs": [
       { "subject": "CHEM", "number": "3502" },
@@ -1444,7 +1587,10 @@
     "scheduleType": "Lab",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "18314" }],
+    "sections": [
+      { "term": "202430", "crn": "39243" },
+      { "term": "202410", "crn": "18314" }
+    ],
     "description": "Offers a laboratory course in inorganic chemistry with experiments and projects that track with the topics discussed in CHEM 3501. Designed to provide laboratory experience with the synthesis of coordination compounds and with the instrumental methods used to characterize them.",
     "coreqs": [
       { "subject": "CHEM", "number": "3501" },
@@ -1459,7 +1605,10 @@
     "scheduleType": "Recitation/Discussion",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19780" }],
+    "sections": [
+      { "term": "202430", "crn": "39244" },
+      { "term": "202410", "crn": "19780" }
+    ],
     "description": "Offers students additional opportunities to work interactively with instructors and other students to learn and apply the concepts presented in CHEM 3501.",
     "coreqs": [
       { "subject": "CHEM", "number": "3501" },
@@ -1543,6 +1692,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31736" },
       { "term": "202410", "crn": "11958" },
       { "term": "202340", "crn": "40593" },
       { "term": "202330", "crn": "31918" },
@@ -1565,6 +1715,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31737" },
       { "term": "202410", "crn": "11959" },
       { "term": "202340", "crn": "40594" },
       { "term": "202330", "crn": "31919" },
@@ -1583,6 +1734,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31745" },
       { "term": "202410", "crn": "12000" },
       { "term": "202330", "crn": "31928" },
       { "term": "202310", "crn": "12239" }
@@ -1603,6 +1755,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30490" },
       { "term": "202410", "crn": "10083" },
       { "term": "202330", "crn": "30505" },
       { "term": "202310", "crn": "10089" }
@@ -1623,6 +1776,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30221" },
       { "term": "202410", "crn": "13170" },
       { "term": "202360", "crn": "60032" },
       { "term": "202340", "crn": "40032" },
@@ -1647,6 +1801,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "30214" },
       { "term": "202360", "crn": "60345" },
       { "term": "202330", "crn": "30220" },
       { "term": "202310", "crn": "10041" },
@@ -1671,6 +1826,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33179" },
       { "term": "202410", "crn": "13745" },
       { "term": "202340", "crn": "40595" },
       { "term": "202330", "crn": "33611" },
@@ -1689,6 +1845,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39245" },
       { "term": "202410", "crn": "11834" },
       { "term": "202410", "crn": "12385" },
       { "term": "202410", "crn": "19925" },
@@ -1707,6 +1864,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32512" },
       { "term": "202410", "crn": "13004" },
       { "term": "202330", "crn": "32823" },
       { "term": "202310", "crn": "13391" }
@@ -1764,7 +1922,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33132" }],
+    "sections": [
+      { "term": "202430", "crn": "32780" },
+      { "term": "202330", "crn": "33132" }
+    ],
     "description": "Describes the theory and practice of separating the components of complex mixtures in the gas and liquid phase. Also includes methods to enhance separation efficiency and detection sensitivity. Covers thin-layer, gas, and high-performance liquid chromatography (HPLC) and recently developed techniques based on HPLC including capillary and membrane-based separation, and capillary electrophoresis.",
     "coreqs": [],
     "prereqs": []
@@ -1822,6 +1983,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32330" },
+      { "term": "202430", "crn": "39246" },
       { "term": "202410", "crn": "11375" },
       { "term": "202410", "crn": "17771" },
       { "term": "202340", "crn": "40596" },
@@ -1853,6 +2016,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30577" },
       { "term": "202410", "crn": "10727" },
       { "term": "202330", "crn": "30598" },
       { "term": "202310", "crn": "10813" }
@@ -1860,7 +2024,6 @@
     "description": "Explores the use of natural and unnatural small-molecule chemical tools to probe macromolecules, including affinity labeling and click chemistry. Covers nucleic acid sequencing technologies and solid-phase synthesis of nucleic acids and peptides. Discusses in-vitro selection techniques, aptamers, and quantitative issues in library construction. Uses molecular visualization software tools to investigate structures of macromolecules. Intended for graduate and advanced undergraduate students.",
     "coreqs": [],
     "prereqs": [
-      "(",
       "(",
       { "subject": "CHEM", "number": "2313" },
       "Or",
@@ -1882,7 +2045,6 @@
       "Or",
       { "subject": "CHEM", "number": "3431" },
       ")",
-      ")",
       "Or",
       "Graduate Admission"
     ]
@@ -1895,6 +2057,7 @@
     "credits": 1,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "31591" },
       { "term": "202410", "crn": "12269" },
       { "term": "202330", "crn": "31758" },
       { "term": "202310", "crn": "12541" }
@@ -1902,7 +2065,6 @@
     "description": "Accompanies CHEM 5621. Complements and reinforces the concepts from CHEM 5621 with emphasis on fundamental techniques. Offers an opportunity to complete independent projects in modern chemical biology research.",
     "coreqs": [],
     "prereqs": [
-      "(",
       "(",
       { "subject": "CHEM", "number": "2313" },
       "Or",
@@ -1933,7 +2095,6 @@
       { "subject": "ENGW", "number": "1111" },
       "Or",
       { "subject": "ENGW", "number": "1102" },
-      ")",
       ")",
       "Or",
       "Graduate Admission"
@@ -2065,7 +2226,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30577" }],
+    "sections": [
+      { "term": "202430", "crn": "30558" },
+      { "term": "202330", "crn": "30577" }
+    ],
     "description": "Introduces molecular modeling methods that are basic tools in the study of macromolecules. Is structured partly as a practical laboratory using a popular molecular modeling suite, and also aims to elucidate the underlying physical principles upon which molecular mechanics is based. These principles are presented in supplemental lectures or in laboratory workshops.",
     "coreqs": [],
     "prereqs": []
@@ -2104,7 +2268,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34240" }],
+    "sections": [
+      { "term": "202430", "crn": "33665" },
+      { "term": "202330", "crn": "34240" }
+    ],
     "description": "Offers students an opportunity to obtain a comprehensive grounding in the chemistry of drug metabolism and pharmacokinetics (DMPK) and its application to drug design and optimization. Multiple rounds of chemical synthesis and testing are usually required to discover new drugs with the appropriate balance of properties such as potency and selectivity, efficacy in preclinical models of disease, safety, and pharmacokinetics. Introduces students to modern tools and concepts utilized to screen for favorable DMPK properties, as well as methods to predict human PK from in vitro and preclinical data. Examines the linkage between drug levels in the body, pharmacodynamic response (PK/PD), and drug-drug interactions in the context of the iterative process of chemical drug synthesis.",
     "coreqs": [],
     "prereqs": []
@@ -2116,11 +2283,13 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38326" }],
+    "sections": [
+      { "term": "202430", "crn": "36346" },
+      { "term": "202330", "crn": "38326" }
+    ],
     "description": "Studies renewable energy in terms of photovoltaics, photoelectrochemistry, fuel cells, batteries, and capacitors. Focuses on the aspects of each component and their relationships to one another.",
     "coreqs": [],
     "prereqs": [
-      "(",
       "(",
       { "subject": "CHEM", "number": "2313" },
       "Or",
@@ -2140,7 +2309,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "35727" }],
+    "sections": [
+      { "term": "202430", "crn": "34750" },
+      { "term": "202330", "crn": "35727" }
+    ],
     "description": "Covers symmetry operations; point groups and classification of molecules into point groups; as well as matrix representation of symmetry operations, orthogonality theorem, and its use in determining irreducible representation spanned by a basis. Studies decomposition of reducible representation and direct products, characters and character tables, and reviews quantum mechanics. Also covers infrared and Raman spectroscopy, normal modes of vibrations, determining symmetry of vibrations, the role of symmetry in selection rules, LCAO MO theory, Hückel method, electronic spectroscopy, and vibronic spectroscopy and symmetry.",
     "coreqs": [],
     "prereqs": []
@@ -2164,7 +2336,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ND"],
-    "sections": [{ "term": "202310", "crn": "19221" }],
+    "sections": [
+      { "term": "202430", "crn": "39247" },
+      { "term": "202310", "crn": "19221" }
+    ],
     "description": "Examines the biological, chemical, and physical interactions that shape our global environment. These interactions combine in the global biogeochemical cycles. Industrial emission of gases, use of fertilizers and plastics, and the expansion of cities are altering the biogeochemical cycling of the elements carbon, nitrogen, and phosphorus at rates unprecedented in the geological record. Uses lectures and the latest update to Chapter 6, “Carbon and Other Biogeochemical Cycles,” of the International Panel on Climate Change report to explore the main interactions between human activity, biogeochemical change, and climate. Discusses primary literature to delve deeper into these interactions.",
     "coreqs": [],
     "prereqs": []
@@ -2176,7 +2351,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31064" }],
+    "sections": [
+      { "term": "202430", "crn": "30991" },
+      { "term": "202330", "crn": "31064" }
+    ],
     "description": "Continues CHEM 5626. Surveys types of organic reactions including stereochemistry, influence of structure and medium, mechanistic aspects, and synthetic applications.",
     "coreqs": [],
     "prereqs": [
@@ -2192,7 +2370,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "35729" }],
+    "sections": [
+      { "term": "202430", "crn": "34752" },
+      { "term": "202330", "crn": "35729" }
+    ],
     "description": "Covers host guest complexation by crown ethers, cryptands, podands, spherands, and so forth; molecular recognition including self-replication; peptide and protein structure; coenzymes and metals in bioorganic chemistry; nucleic acid structure; interaction of DNA with proteins and small molecules including DNA-targeted drug design; catalytic RNA; and catalytic antibodies.",
     "coreqs": [],
     "prereqs": [
@@ -2207,12 +2388,27 @@
   },
   {
     "subject": "CHEM",
+    "number": "5688",
+    "title": "Principles of Nuclear Magnetic Resonance",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39248" }],
+    "description": "Presents the physical principles underlying magnetic resonance spectroscopy, including Fourier transform theory, classical and quantum-mechanical treatments of spin angular momentum, the Bloch equations, and spin relaxation. Covers fundamental concepts in time domain magnetic resonance methods, including pulse sequences, selective pulses, phase cycling, coherence pathways, field gradients, and nonuniform sampling. Surveys the NMR methods most commonly applied to chemical structural analysis, including pure shift NMR; 2D correlation (COSY, DQF-COSY, TOCSY, HSQC, HMBC) methods; and cross-relaxation (NOESY, ROESY) methods.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CHEM",
     "number": "5904",
     "title": "Seminar",
     "scheduleType": "Seminar",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "11262" }],
+    "sections": [
+      { "term": "202430", "crn": "39249" },
+      { "term": "202410", "crn": "11262" }
+    ],
     "description": "Focuses on oral reports by master of science and PlusOne participants on current research topics in chemistry and chemical biology. May be repeated up to two times.",
     "coreqs": [],
     "prereqs": []
@@ -2224,7 +2420,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202340", "crn": "41854" }],
+    "sections": [
+      { "term": "202430", "crn": "35376" },
+      { "term": "202340", "crn": "41854" }
+    ],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated up to three times for up to 6 total credits.",
     "coreqs": [],
     "prereqs": []
@@ -2261,12 +2460,25 @@
   },
   {
     "subject": "CHEM",
+    "number": "7990",
+    "title": "Thesis",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39250" }],
+    "description": "Offers thesis supervision by members of the department. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CHEM",
     "number": "8504",
     "title": "Graduate Seminar",
     "scheduleType": "Seminar",
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30764" },
       { "term": "202410", "crn": "10738" },
       { "term": "202410", "crn": "11250" },
       { "term": "202330", "crn": "30814" },
@@ -2315,6 +2527,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32429" },
       { "term": "202410", "crn": "12584" },
       { "term": "202360", "crn": "61582" },
       { "term": "202330", "crn": "32705" },
@@ -2332,6 +2545,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39251" },
       { "term": "202410", "crn": "13629" },
       { "term": "202350", "crn": "50067" },
       { "term": "202350", "crn": "50574" },
@@ -2359,6 +2573,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33666" },
+      { "term": "202430", "crn": "35355" },
       { "term": "202410", "crn": "14326" },
       { "term": "202410", "crn": "14327" },
       { "term": "202410", "crn": "14328" },
@@ -2394,6 +2610,28 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32768" },
+      { "term": "202430", "crn": "32769" },
+      { "term": "202430", "crn": "32770" },
+      { "term": "202430", "crn": "32771" },
+      { "term": "202430", "crn": "32772" },
+      { "term": "202430", "crn": "32773" },
+      { "term": "202430", "crn": "32774" },
+      { "term": "202430", "crn": "32775" },
+      { "term": "202430", "crn": "32776" },
+      { "term": "202430", "crn": "32777" },
+      { "term": "202430", "crn": "32778" },
+      { "term": "202430", "crn": "32779" },
+      { "term": "202430", "crn": "33667" },
+      { "term": "202430", "crn": "33668" },
+      { "term": "202430", "crn": "34621" },
+      { "term": "202430", "crn": "35356" },
+      { "term": "202430", "crn": "35357" },
+      { "term": "202430", "crn": "35776" },
+      { "term": "202430", "crn": "36347" },
+      { "term": "202430", "crn": "36348" },
+      { "term": "202430", "crn": "39252" },
+      { "term": "202430", "crn": "39253" },
       { "term": "202410", "crn": "13074" },
       { "term": "202410", "crn": "13075" },
       { "term": "202410", "crn": "13076" },

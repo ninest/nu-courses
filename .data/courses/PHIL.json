@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34198" },
       { "term": "202410", "crn": "10501" },
       { "term": "202330", "crn": "34896" },
       { "term": "202310", "crn": "10539" }
@@ -23,6 +24,7 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202430", "crn": "30902" },
       { "term": "202410", "crn": "10445" },
       { "term": "202410", "crn": "10969" },
       { "term": "202340", "crn": "41643" },
@@ -43,6 +45,7 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202430", "crn": "31053" },
       { "term": "202410", "crn": "12591" },
       { "term": "202360", "crn": "60349" },
       { "term": "202340", "crn": "40372" },
@@ -92,8 +95,9 @@
     "title": "Debating Ethical Controversies",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["ER", "EX", "SI"],
+    "nuPath": ["ER", "SI", "EX"],
     "sections": [
+      { "term": "202430", "crn": "34955" },
       { "term": "202410", "crn": "14904" },
       { "term": "202330", "crn": "36043" },
       { "term": "202330", "crn": "39280" },
@@ -111,6 +115,7 @@
     "credits": 4,
     "nuPath": ["AD", "FQ"],
     "sections": [
+      { "term": "202430", "crn": "36620" },
       { "term": "202410", "crn": "10118" },
       { "term": "202330", "crn": "38614" },
       { "term": "202310", "crn": "10125" }
@@ -155,6 +160,12 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202430", "crn": "32116" },
+      { "term": "202430", "crn": "32117" },
+      { "term": "202430", "crn": "32320" },
+      { "term": "202430", "crn": "32528" },
+      { "term": "202430", "crn": "34957" },
+      { "term": "202430", "crn": "39423" },
       { "term": "202410", "crn": "11725" },
       { "term": "202410", "crn": "12479" },
       { "term": "202410", "crn": "12767" },
@@ -202,6 +213,7 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202430", "crn": "33656" },
       { "term": "202410", "crn": "11971" },
       { "term": "202330", "crn": "34227" },
       { "term": "202310", "crn": "12208" }
@@ -218,6 +230,12 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202430", "crn": "31343" },
+      { "term": "202430", "crn": "31460" },
+      { "term": "202430", "crn": "31556" },
+      { "term": "202430", "crn": "32001" },
+      { "term": "202430", "crn": "34054" },
+      { "term": "202430", "crn": "37748" },
       { "term": "202410", "crn": "10131" },
       { "term": "202410", "crn": "13171" },
       { "term": "202410", "crn": "11666" },
@@ -266,6 +284,8 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202430", "crn": "32529" },
+      { "term": "202430", "crn": "37248" },
       { "term": "202410", "crn": "14223" },
       { "term": "202360", "crn": "61308" },
       { "term": "202340", "crn": "41750" },
@@ -286,6 +306,7 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202430", "crn": "34958" },
       { "term": "202340", "crn": "41644" },
       { "term": "202330", "crn": "36046" }
     ],
@@ -318,6 +339,8 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "39425" },
+      { "term": "202430", "crn": "39426" },
       { "term": "202410", "crn": "12282" },
       { "term": "202410", "crn": "12284" },
       { "term": "202360", "crn": "60867" },
@@ -368,7 +391,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202310", "crn": "19606" }],
+    "sections": [
+      { "term": "202430", "crn": "39427" },
+      { "term": "202310", "crn": "19606" }
+    ],
     "description": "Explores Islam through its foundations narrative, rituals, doctrines, and ethical teachings. Presents Islam in terms of its diversity by focusing on a series of key debates in Islamic thought and practice from its early history to the present day in cross-cultural perspectives.",
     "coreqs": [],
     "prereqs": []
@@ -408,6 +434,8 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202430", "crn": "33671" },
+      { "term": "202430", "crn": "36767" },
       { "term": "202410", "crn": "14224" },
       { "term": "202330", "crn": "34252" },
       { "term": "202330", "crn": "38768" },
@@ -432,6 +460,18 @@
       { "term": "202240", "crn": "41382" }
     ],
     "description": "Seeks to answer the question, \"What is evil?\" Uses a variety of film genres to examine the definitions of evil in relation to concepts such as power, sin, hate, greed, envy, murder, neglect, fear, terror, tragedy, and “the Other.” Studies the problem of evil from the perspectives of religious studies and philosophy. Examines the various explanations for evil from a variety of Western religious traditions and explores the presentation of ethical dilemmas and moral theory to assess the content of a variety of films. Studies film titles such as The Dark Knight, The Exorcist, Silence of the Lambs, Frankenstein, Life Is Beautiful, Rear Window, Dr. Strangelove, Phone Booth, Crash, Star Wars, and The Wizard of Oz.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHIL",
+    "number": "1667",
+    "title": "Science Fiction and Film: Moral Dilemmas and Ethical Analysis",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "ER"],
+    "sections": [{ "term": "202430", "crn": "39429" }],
+    "description": "Explores how science fiction films function as mythical cautionary tales about moral dilemmas of the twentieth and twenty-first centuries and as projections about how these dilemmas may be resolved or continue in the future. Provides a framework for an ethical analysis and examines how themes such as manifest destiny, nationalism, utopia, good vs. evil, war, and concepts of &#8220;the Other&#8221; are presented in classic and contemporary film. Also shows how science fiction film sometimes reinterprets pre-existing stories from world cultures and world religious traditions, updating earlier moral dilemmas to the contemporary situation.",
     "coreqs": [],
     "prereqs": []
   },
@@ -527,12 +567,25 @@
   },
   {
     "subject": "PHIL",
+    "number": "2302",
+    "title": "Philosophical Problems of War and Peace",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["ER", "SI"],
+    "sections": [{ "term": "202430", "crn": "39430" }],
+    "description": "Concentrates on ethical and philosophical issues about war and peace. Focuses on the nature and justification of war, moral questions about tactics in war, ideas for avoiding war, concepts of and strategies for attaining peace, and the morality of relations between nations.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHIL",
     "number": "2303",
     "title": "Social and Political Philosophy",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202430", "crn": "31643" },
       { "term": "202410", "crn": "17233" },
       { "term": "202330", "crn": "31816" },
       { "term": "202310", "crn": "19608" }
@@ -549,6 +602,10 @@
     "credits": 4,
     "nuPath": ["ER", "IC", "WI"],
     "sections": [
+      { "term": "202430", "crn": "39485" },
+      { "term": "202430", "crn": "39486" },
+      { "term": "202430", "crn": "39488" },
+      { "term": "202430", "crn": "39487" },
       { "term": "202410", "crn": "11726" },
       { "term": "202410", "crn": "13526" },
       { "term": "202410", "crn": "14225" },
@@ -591,6 +648,8 @@
     "credits": 4,
     "nuPath": ["IC", "SI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "31644" },
+      { "term": "202430", "crn": "36624" },
       { "term": "202410", "crn": "12071" },
       { "term": "202410", "crn": "20049" },
       { "term": "202330", "crn": "31817" },
@@ -631,6 +690,54 @@
   },
   {
     "subject": "PHIL",
+    "number": "2395",
+    "title": "Japanese Buddhism",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["ER", "IC", "WI"],
+    "sections": [{ "term": "202430", "crn": "39431" }],
+    "description": "Surveys the major forms of Japanese Buddhism, from the earliest transmission of Buddhism to the maturation of Buddhist thought and practice during the Kamakura and Muromachi periods. Focuses not only on the major schools and figures of each period but also the ways in which Buddhism influenced and shaped Japanese culture. Examines, in particular, the formative influence of Buddhism on Japanese aesthetic sensibilities, samurai culture, and ritual. Focuses thematically on the religious practices that defined each school and how those practices were incorporated into a holistic religious vision.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
+  },
+  {
+    "subject": "PHIL",
+    "number": "2410",
+    "title": "Possession, Sacrifice, and Divination in African Diasporic Religions",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202430", "crn": "39432" }],
+    "description": "Examines religious thought and rituals and its Diaspora in a comparative context. Topics include traditional religions, Islam, Christianity, and Judaism in Africa, and the Diaspora. Emphasizes the transformation of religions practiced in Africa when African captives were forced into the three slave trades affecting the continent of Africa: trans-Saharan, Indian Ocean, and transatlantic.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHIL",
+    "number": "2492",
+    "title": "Indigenous Philosophy",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "IC"],
+    "sections": [{ "term": "202430", "crn": "39433" }],
+    "description": "Explores the work of philosophers from a variety of indigenous traditions. Showcases the diverse and rich contributions of these various traditions by engaging with film, poetry, and argumentative prose. Considers topics such as storytelling as philosophical method, locality as an ethical concept, struggles for tribal sovereignty, politics of blood quantum, environmental justice, decolonizing sex and gender, and indigenous futurism. Examines the place of indigenous thought in the modern nation-state and an increasingly global world. Requires prior completion of one philosophy course.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHIL",
     "number": "2991",
     "title": "Research Practicum",
     "scheduleType": "Individual Instruction",
@@ -647,8 +754,9 @@
     "title": "Interdisciplinary Methods for Politics, Philosophy, and Economics",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["EX", "WI"],
+    "nuPath": ["WI", "EX"],
     "sections": [
+      { "term": "202430", "crn": "36626" },
       { "term": "202410", "crn": "20051" },
       { "term": "202330", "crn": "38620" }
     ],
@@ -663,7 +771,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD", "FQ"],
-    "sections": [{ "term": "202310", "crn": "19610" }],
+    "sections": [
+      { "term": "202430", "crn": "39434" },
+      { "term": "202310", "crn": "19610" }
+    ],
     "description": "Introduces the foundations of probabilistic inference, information theory, and their uses for drawing conclusions from noisy data. Applications include diagnosing diseases with inconclusive medical tests, locating autonomous vehicles when sensors are imperfect, and how best to make inferences with incomplete or partial information. Central topics include distinguishing deductive and probabilistic inference, philosophical interpretations of probability, fundamental justifications for the rules of probability, and key concepts of information theory. Introduces analytic and mathematical methods of analysis in these cases and contemporary computational (i.e., programming) techniques for implementing and applying theories of information and probabilistic inference.",
     "coreqs": [],
     "prereqs": []
@@ -675,7 +786,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EX", "IC", "SI"],
-    "sections": [{ "term": "202310", "crn": "19611" }],
+    "sections": [
+      { "term": "202430", "crn": "39436" },
+      { "term": "202310", "crn": "19611" }
+    ],
     "description": "Requires prior completion of one introductory-level course in the social sciences or humanities.",
     "coreqs": [],
     "prereqs": []
@@ -698,6 +812,18 @@
   },
   {
     "subject": "PHIL",
+    "number": "3333",
+    "title": "Intercollegiate Ethics Bowl Competition",
+    "scheduleType": "Off-campus instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39744" }],
+    "description": "Offers students an opportunity to participate as members of Northeastern's Ethics or Bioethics Bowl team. Students work with their teammates in preparing for regional and national competitions. Preparation includes devising novel arguments for each competition's cases and weekly meetings with teammates leading up to the competition where students polish their arguments, rebuttals, and questions. Culminates with the option of traveling and participating in a regional and possible national debate competition. May be repeated up to seven times.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHIL",
     "number": "3343",
     "title": "Existentialism",
     "scheduleType": "Lecture",
@@ -715,7 +841,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ER", "SI"],
-    "sections": [{ "term": "202330", "crn": "36053" }],
+    "sections": [
+      { "term": "202430", "crn": "34960" },
+      { "term": "202330", "crn": "36053" }
+    ],
     "description": "Requires prior completion of two philosophy and/or science courses, or instructor's permission.",
     "coreqs": [],
     "prereqs": []
@@ -728,6 +857,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34961" },
       { "term": "202410", "crn": "12592" },
       { "term": "202330", "crn": "36054" },
       { "term": "202310", "crn": "12914" }
@@ -755,8 +885,23 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ER", "SI"],
-    "sections": [{ "term": "202330", "crn": "35841" }],
+    "sections": [
+      { "term": "202430", "crn": "34815" },
+      { "term": "202330", "crn": "35841" }
+    ],
     "description": "Examines the legal regulation of gender and sexuality. Investigates concrete legal cases to study the history of constitutional interpretation and the current status of rights for women and sexual minorities. Focuses on important theoretical issues emerging in the writings of diverse feminist and queer legal scholars. Addresses debates over the value of conventional equality approaches in legal doctrine; equality vs. difference perspectives; ways in which legal language constructs gender and sexuality; the incorporation of sexuality and gender in ideologies of law; and the intersections of gender, sexuality, and race in legal doctrine and legal theory. PHIL 3500, POLS 3500, and WMNS 3500 are cross-listed.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHIL",
+    "number": "3512",
+    "title": "Religion, Race, and Politics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "IC"],
+    "sections": [{ "term": "202430", "crn": "40439" }],
+    "description": "Engages the intersections of religion, race, and political power through cultural history, ethnography, and lived religions. Explores the social and cultural categories of our historical and contemporary worlds. Examines how some peoples’ histories have been centered, while others' histories have been marginalized. Explores religion as a social category that reproduces existing relations of power while alternatively supporting social revolution and change. Class engagements are centered on theories of power, understandings of difference, and changes in social structures over time, from the colonial period to the present (1500s–2000s).",
     "coreqs": [],
     "prereqs": []
   },
@@ -791,7 +936,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["CE", "WI"],
-    "sections": [{ "term": "202310", "crn": "15973" }],
+    "sections": [
+      { "term": "202430", "crn": "39438" },
+      { "term": "202310", "crn": "15973" }
+    ],
     "description": "Requires prior completion of three philosophy courses or instructor's permission.",
     "coreqs": [],
     "prereqs": []
@@ -837,8 +985,9 @@
     "title": "Philosophy of Mind",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["CE", "WI"],
+    "nuPath": ["WI", "CE"],
     "sections": [
+      { "term": "202430", "crn": "35139" },
       { "term": "202330", "crn": "36397" },
       { "term": "202310", "crn": "19612" }
     ],
@@ -866,6 +1015,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "33659" },
       { "term": "202330", "crn": "34231" },
       { "term": "202310", "crn": "15974" }
     ],
@@ -879,8 +1029,9 @@
     "title": "Seminar in Religion",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": ["CE", "WI"],
+    "nuPath": ["WI", "CE"],
     "sections": [
+      { "term": "202430", "crn": "33660" },
       { "term": "202410", "crn": "14909" },
       { "term": "202330", "crn": "34232" },
       { "term": "202310", "crn": "15975" }
@@ -946,7 +1097,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19614" }],
+    "sections": [
+      { "term": "202430", "crn": "39439" },
+      { "term": "202310", "crn": "19614" }
+    ],
     "description": "Discusses artificial intelligence and the host of ethical issues it raises: decisions turned over to machine-learning algorithms can be opaque and unfair; autonomous vehicles promise to increase safety but raise challenges for assigning responsibility for accidents; diffusion of AI is likely to transform the labor market in unpredictable ways; and the data that powers machine-learning algorithms raise questions about privacy and security. In order to realize the benefits of AI while responsibly developing and implementing it, it is necessary to identify the ethical issues at stake and work to resolve them. This course takes up the philosophical and ethical questions essential to this project.",
     "coreqs": [],
     "prereqs": [

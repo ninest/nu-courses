@@ -28,6 +28,23 @@
     "credits": 5,
     "nuPath": ["CE", "EI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30383" },
+      { "term": "202430", "crn": "30905" },
+      { "term": "202430", "crn": "32400" },
+      { "term": "202430", "crn": "32514" },
+      { "term": "202430", "crn": "30906" },
+      { "term": "202430", "crn": "30907" },
+      { "term": "202430", "crn": "30908" },
+      { "term": "202430", "crn": "30909" },
+      { "term": "202430", "crn": "30910" },
+      { "term": "202430", "crn": "31114" },
+      { "term": "202430", "crn": "31137" },
+      { "term": "202430", "crn": "32515" },
+      { "term": "202430", "crn": "32518" },
+      { "term": "202430", "crn": "33790" },
+      { "term": "202430", "crn": "31033" },
+      { "term": "202430", "crn": "34129" },
+      { "term": "202430", "crn": "34128" },
       { "term": "202410", "crn": "10463" },
       { "term": "202410", "crn": "12518" },
       { "term": "202410", "crn": "12519" },
@@ -98,8 +115,6 @@
     "coreqs": [],
     "prereqs": [
       { "subject": "MEIE", "number": "4701" },
-      "And",
-      "(",
       "(",
       { "subject": "ME", "number": "4550" },
       "Or",
@@ -114,7 +129,6 @@
       { "subject": "IE", "number": "4516" },
       "And",
       { "subject": "IE", "number": "4530" },
-      ")",
       ")"
     ]
   },
@@ -126,6 +140,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31292" },
       { "term": "202410", "crn": "11086" },
       { "term": "202330", "crn": "31413" },
       { "term": "202310", "crn": "11219" }
@@ -168,7 +183,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36116" }],
+    "sections": [
+      { "term": "202430", "crn": "35002" },
+      { "term": "202330", "crn": "36116" }
+    ],
     "description": "Focuses on responsible conduct of research, research misconduct (plagiarism, falsification, and fabrication), research ethics, and professional and personal development. Offers optional modules on grant proposal preparation, academic career preparation, faculty and professional jobs search, research and teaching statements preparation, how to become an effective teacher, mentorship, entrepreneurship, and industry insights and real-world experiences.",
     "coreqs": [],
     "prereqs": []

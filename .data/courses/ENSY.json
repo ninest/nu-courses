@@ -7,6 +7,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31338" },
+      { "term": "202430", "crn": "32573" },
       { "term": "202410", "crn": "11606" },
       { "term": "202410", "crn": "10883" },
       { "term": "202350", "crn": "52100" },
@@ -27,6 +29,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32571" },
       { "term": "202410", "crn": "12973" },
       { "term": "202340", "crn": "42046" },
       { "term": "202330", "crn": "32891" },
@@ -44,6 +47,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32572" },
       { "term": "202410", "crn": "19830" },
       { "term": "202330", "crn": "32892" }
     ],
@@ -62,7 +66,11 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "40713" }],
+    "sections": [
+      { "term": "202430", "crn": "32747" },
+      { "term": "202430", "crn": "37524" },
+      { "term": "202330", "crn": "40713" }
+    ],
     "description": "Covers fundamentals of hydropowered development projects and their relevant design parameters. Emphasizes harnessing the hydro-energy potentials of both natural and man-made reservoirs. Reviews hydro- and electromechanical equipment and civil structure. Addresses selection procedure and design parameters of the equipment and structure.",
     "coreqs": [],
     "prereqs": []
@@ -116,6 +124,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32914" },
+      { "term": "202430", "crn": "33505" },
       { "term": "202410", "crn": "13237" },
       { "term": "202410", "crn": "15348" },
       { "term": "202330", "crn": "33293" },
@@ -134,7 +144,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [],
+    "sections": [
+      { "term": "202430", "crn": "35667" },
+      { "term": "202430", "crn": "36686" }
+    ],
     "description": "Focuses on the principles and working fundamentals of photovoltaic (PV) energy conversion, while emphasizing currently available solar technologies. Studies the semiconductor processes and advanced characterization theories. Examines design, fabrication, characterization of the PV modules, and different generations of solar cells and their properties. Advanced topics include thin film cells, compound semiconductors multijunction, multiband cells, spectral conversion, and introduces organic devices. Offers insight about the energy consumption crisis, sustainable energy sources, PV system components, and solar markets. Also discusses issues relating to PV systems, economics, and sustainability.",
     "coreqs": [],
     "prereqs": []
@@ -147,6 +160,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36687" },
+      { "term": "202430", "crn": "36688" },
       { "term": "202350", "crn": "52479" },
       { "term": "202330", "crn": "38682" },
       { "term": "202330", "crn": "38683" }
@@ -173,6 +188,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35011" },
       { "term": "202410", "crn": "14617" },
       { "term": "202330", "crn": "36139" },
       { "term": "202310", "crn": "15489" }
@@ -220,9 +236,40 @@
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32957" }],
+    "sections": [
+      { "term": "202430", "crn": "32627" },
+      { "term": "202330", "crn": "32957" }
+    ],
     "description": "Continues ENSY 7440, a thesis-scale project in technology commercialization. Offers students an opportunity to demonstrate their development of a marketable technology product or prototype with an energy systems focus and to produce a written documentary report on the project to the satisfaction of an advising committee. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student's technological and engineering depth and fostering the student's leadership development.",
     "coreqs": [],
     "prereqs": [{ "subject": "ENSY", "number": "7440" }]
+  },
+  {
+    "subject": "ENSY",
+    "number": "7945",
+    "title": "Master's Project",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "33485" },
+      { "term": "202430", "crn": "34549" },
+      { "term": "202430", "crn": "34647" }
+    ],
+    "description": "Offers theoretical or experimental work under individual faculty supervision.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ENSY",
+    "number": "7978",
+    "title": "Independent Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "32971" }],
+    "description": "Offers an individual effort in an area selected by student and advisor and approved by the Department Discipline Committee, resulting in a definitive report. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
   }
 ]

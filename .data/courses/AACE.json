@@ -7,6 +7,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33338" },
       { "term": "202410", "crn": "13163" },
       { "term": "202330", "crn": "33798" },
       { "term": "202310", "crn": "13583" }
@@ -22,7 +23,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36922" }],
+    "sections": [
+      { "term": "202430", "crn": "35454" },
+      { "term": "202330", "crn": "36922" }
+    ],
     "description": "Offers an overview and introduction to knowledge areas and primary skills sets for planning, launching, and sustaining arts and cultural organizations. Key topics include evaluating opportunities in the arts and culture sector; building effective vision, mission, and values for arts and culture initiatives in balance with civic and community contexts; smart approaches to arts and culture funding; developing sustainable and flexible strategic plans; and planning challenges for the contemporary strategic arts organization.",
     "coreqs": [],
     "prereqs": []
@@ -35,6 +39,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34004" },
       { "term": "202410", "crn": "12786" },
       { "term": "202330", "crn": "34649" },
       { "term": "202310", "crn": "13153" }
@@ -50,7 +55,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36728" }],
+    "sections": [
+      { "term": "202430", "crn": "35324" },
+      { "term": "202330", "crn": "36728" }
+    ],
     "description": "Offers nontechnical students an opportunity to obtain a clear and current understanding of key information technology (IT) concepts set in the context of arts and cultural organizations and to empower them to make decisions that map technology to strategy. Covers how to identify technical terms, stakeholders, and issues; evaluate IT challenges; apply best-practice frameworks; and identify business needs and compare technical solutions in order to minimize cost and maximize strategic alignment. Combines readings, casework, video lectures, screen casts, guest videos, and a hands-on approach to researching solutions and leading change. Includes both group and individual deliverables that students synthesize to create and present a final project.",
     "coreqs": [],
     "prereqs": []
@@ -108,6 +116,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36179" },
       { "term": "202340", "crn": "41381" },
       { "term": "202240", "crn": "41744" }
     ],
@@ -123,6 +132,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36180" },
       { "term": "202410", "crn": "19537" },
       { "term": "202330", "crn": "38147" }
     ],

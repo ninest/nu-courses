@@ -7,6 +7,9 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "30940" },
+      { "term": "202430", "crn": "33710" },
+      { "term": "202430", "crn": "39212" },
       { "term": "202410", "crn": "12783" },
       { "term": "202410", "crn": "14247" },
       { "term": "202410", "crn": "21209" },
@@ -47,6 +50,9 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "31961" },
+      { "term": "202430", "crn": "34865" },
+      { "term": "202430", "crn": "34866" },
       { "term": "202410", "crn": "11739" },
       { "term": "202410", "crn": "15358" },
       { "term": "202410", "crn": "19618" },
@@ -70,8 +76,10 @@
     "title": "Foundations of Biostatistics",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["FQ", "AD"],
+    "nuPath": ["AD", "FQ"],
     "sections": [
+      { "term": "202430", "crn": "32595" },
+      { "term": "202430", "crn": "36444" },
       { "term": "202410", "crn": "17071" },
       { "term": "202410", "crn": "17072" },
       { "term": "202330", "crn": "32921" },
@@ -92,6 +100,14 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34867" },
+      { "term": "202430", "crn": "34868" },
+      { "term": "202430", "crn": "34869" },
+      { "term": "202430", "crn": "34870" },
+      { "term": "202430", "crn": "36447" },
+      { "term": "202430", "crn": "36448" },
+      { "term": "202430", "crn": "36449" },
+      { "term": "202430", "crn": "36450" },
       { "term": "202410", "crn": "15322" },
       { "term": "202410", "crn": "15323" },
       { "term": "202410", "crn": "15324" },
@@ -126,6 +142,12 @@
     "credits": 4,
     "nuPath": ["DD", "EI"],
     "sections": [
+      { "term": "202430", "crn": "31211" },
+      { "term": "202430", "crn": "31389" },
+      { "term": "202430", "crn": "31948" },
+      { "term": "202430", "crn": "34872" },
+      { "term": "202430", "crn": "39219" },
+      { "term": "202430", "crn": "39221" },
       { "term": "202410", "crn": "15105" },
       { "term": "202410", "crn": "17093" },
       { "term": "202410", "crn": "19668" },
@@ -166,6 +188,14 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "30011" },
+      { "term": "202430", "crn": "32473" },
+      { "term": "202430", "crn": "33712" },
+      { "term": "202430", "crn": "33713" },
+      { "term": "202430", "crn": "33714" },
+      { "term": "202430", "crn": "34874" },
+      { "term": "202430", "crn": "39223" },
+      { "term": "202430", "crn": "40673" },
       { "term": "202410", "crn": "12662" },
       { "term": "202410", "crn": "15110" },
       { "term": "202410", "crn": "15273" },
@@ -208,6 +238,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33306" },
       { "term": "202410", "crn": "19623" },
       { "term": "202330", "crn": "33759" }
     ],
@@ -223,6 +254,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32741" },
+      { "term": "202430", "crn": "32742" },
+      { "term": "202430", "crn": "33716" },
+      { "term": "202430", "crn": "34878" },
+      { "term": "202430", "crn": "34879" },
+      { "term": "202430", "crn": "39225" },
       { "term": "202410", "crn": "15112" },
       { "term": "202410", "crn": "17105" },
       { "term": "202410", "crn": "17110" },
@@ -265,7 +302,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["SI"],
-    "sections": [],
+    "sections": [{ "term": "202430", "crn": "39227" }],
     "description": "Addresses current issues in rural health. Maine, one of the nation’s most rural states, is the primary case example. Highlights interdisciplinary approaches to identifying priority health concerns, addressing root causes of diseases and poor health and developing sustainable policy and programmatic interventions for improving health outcomes of individuals, families, and communities in rural areas. Reviews models of rural healthcare delivery, rural public health systems and practices, rural public policy and health reform, the role of health technologies in rural practice, and health disparities among vulnerable rural populations (including but not limited to immigrants, migrant workers, older people, people living with disabilities, LGBTQIA+ persons, and indigenous/first peoples). Critically analyzes the complex contextual factors that must be addressed to sustainably improve health outcomes in rural settings.",
     "coreqs": [],
     "prereqs": []
@@ -278,6 +315,12 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "32743" },
+      { "term": "202430", "crn": "32111" },
+      { "term": "202430", "crn": "33307" },
+      { "term": "202430", "crn": "33717" },
+      { "term": "202430", "crn": "39788" },
+      { "term": "202430", "crn": "39790" },
       { "term": "202410", "crn": "14249" },
       { "term": "202410", "crn": "15116" },
       { "term": "202410", "crn": "15117" },
@@ -329,6 +372,12 @@
     "credits": 4,
     "nuPath": ["ND", "WI"],
     "sections": [
+      { "term": "202430", "crn": "33308" },
+      { "term": "202430", "crn": "33719" },
+      { "term": "202430", "crn": "33720" },
+      { "term": "202430", "crn": "35238" },
+      { "term": "202430", "crn": "37666" },
+      { "term": "202430", "crn": "39229" },
       { "term": "202410", "crn": "13631" },
       { "term": "202410", "crn": "13630" },
       { "term": "202410", "crn": "15118" },
@@ -395,6 +444,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32548" },
       { "term": "202410", "crn": "19628" },
       { "term": "202330", "crn": "32863" },
       { "term": "202310", "crn": "12266" }
@@ -415,6 +465,12 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "32112" },
+      { "term": "202430", "crn": "32113" },
+      { "term": "202430", "crn": "33721" },
+      { "term": "202430", "crn": "33722" },
+      { "term": "202430", "crn": "36459" },
+      { "term": "202430", "crn": "36460" },
       { "term": "202410", "crn": "12533" },
       { "term": "202410", "crn": "13573" },
       { "term": "202410", "crn": "15123" },
@@ -457,6 +513,7 @@
     "credits": 3,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "31949" },
       { "term": "202360", "crn": "60224" },
       { "term": "202330", "crn": "32178" },
       { "term": "202260", "crn": "60238" }
@@ -473,6 +530,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31680" },
+      { "term": "202430", "crn": "33723" },
+      { "term": "202430", "crn": "39640" },
       { "term": "202410", "crn": "10761" },
       { "term": "202330", "crn": "31857" },
       { "term": "202330", "crn": "34308" },
@@ -490,6 +550,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31681" },
       { "term": "202410", "crn": "11331" },
       { "term": "202410", "crn": "14543" },
       { "term": "202330", "crn": "31858" },
@@ -508,6 +569,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31922" },
+      { "term": "202430", "crn": "34883" },
       { "term": "202410", "crn": "12283" },
       { "term": "202330", "crn": "32147" },
       { "term": "202330", "crn": "35927" },
@@ -525,6 +588,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30939" },
+      { "term": "202430", "crn": "36462" },
       { "term": "202410", "crn": "12028" },
       { "term": "202330", "crn": "31004" },
       { "term": "202330", "crn": "38449" },
@@ -568,7 +633,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31095" }],
+    "sections": [
+      { "term": "202430", "crn": "31016" },
+      { "term": "202330", "crn": "31095" }
+    ],
     "description": "Presents an overview of global health issues and focuses on less economically developed countries. Covers measures of disease burden; demography of disease and mortality; Millennium Development Goals (under the auspices of the United Nations); infectious diseases such as HIV/AIDS, tuberculosis, and malaria and their prevention; vaccine utilization and potential implications; chronic diseases; tobacco-associated disease; nutritional challenges; behavioral modification; mother and child health; health human resources; and ethical issues in global health. LAW 7630 and PHTH 5230 are cross-listed.",
     "coreqs": [],
     "prereqs": []
@@ -611,6 +679,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33309" },
       { "term": "202360", "crn": "60391" },
       { "term": "202330", "crn": "33763" },
       { "term": "202260", "crn": "60414" }
@@ -627,6 +696,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33310" },
       { "term": "202360", "crn": "60389" },
       { "term": "202330", "crn": "33764" },
       { "term": "202260", "crn": "60412" }
@@ -643,6 +713,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33311" },
       { "term": "202360", "crn": "60390" },
       { "term": "202330", "crn": "33765" },
       { "term": "202260", "crn": "60413" }
@@ -659,6 +730,8 @@
     "credits": 3,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "33724" },
+      { "term": "202430", "crn": "40274" },
       { "term": "202340", "crn": "40287" },
       { "term": "202330", "crn": "34309" },
       { "term": "202310", "crn": "12354" },
@@ -667,13 +740,19 @@
     "description": "Focuses on underlying concepts of health education and explores current health education issues that require intervention. Covers program planning models and theories used in health education. Offers students an opportunity to develop a working knowledge of the planning process for health education through the analysis of case studies and by creating a program plan to address a health issue of their choice. Provides health science students with preparation for HSCI 4710, in which they may choose to implement and evaluate their program plan.",
     "coreqs": [],
     "prereqs": [
+      "(",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" },
+      { "subject": "ENGW", "number": "1102" },
       "Or",
       { "subject": "ENGW", "number": "1111" },
       "Or",
-      { "subject": "ENGW", "number": "1102" },
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" },
+      ")",
       "Or",
       "Graduate Admission"
     ]
@@ -686,6 +765,7 @@
     "credits": 3,
     "nuPath": ["CE"],
     "sections": [
+      { "term": "202430", "crn": "31212" },
       { "term": "202410", "crn": "12029" },
       { "term": "202330", "crn": "31317" },
       { "term": "202310", "crn": "12268" }
@@ -701,7 +781,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31772" }],
+    "sections": [
+      { "term": "202430", "crn": "31604" },
+      { "term": "202330", "crn": "31772" }
+    ],
     "description": "Offers an intermediate-level course covering key principles, concepts, and methods of population-based epidemiologic research. Topics include observational study designs, measures of disease occurrence and association, validity and bias, confounding, effect modification, multivariate analysis for stratification and adjustment, critical appraisal and meta-analysis, mediation analysis, missing data analysis, and concepts and methods for strengthening causal inference. Offers graduate students unique opportunities to engage in practical applications, including critical reviews of published epidemiologic journal articles, and to conduct hands-on analyses of empirical datasets using SAS statistical software. Designed to serve as a foundation for further advanced training in specialized branches of epidemiology, quantitative methods, and epidemiologic research.",
     "coreqs": [],
     "prereqs": [{ "subject": "PHTH", "number": "5202" }]
@@ -714,6 +797,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32114" },
+      { "term": "202430", "crn": "36463" },
       { "term": "202410", "crn": "10716" },
       { "term": "202410", "crn": "13241" },
       { "term": "202330", "crn": "32354" },
@@ -732,6 +817,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30784" },
       { "term": "202340", "crn": "40277" },
       { "term": "202330", "crn": "30835" },
       { "term": "202240", "crn": "40292" }
@@ -747,7 +833,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31415" }],
+    "sections": [
+      { "term": "202430", "crn": "31294" },
+      { "term": "202330", "crn": "31415" }
+    ],
     "description": "Builds upon the fundamental concepts and methods of biostatistics with applications to health disciplines. Topics include hypothesis testing, analysis of variance, linear regression, multiple regression, and logistic regression. Examples and readings are drawn from the public health literature. The SAS statistical software package is introduced and used throughout the course.",
     "coreqs": [],
     "prereqs": [{ "subject": "PHTH", "number": "5210" }]
@@ -820,7 +909,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31719" }],
+    "sections": [
+      { "term": "202430", "crn": "31554" },
+      { "term": "202330", "crn": "31719" }
+    ],
     "description": "Continues PHTH 6400, exploring additional population health research topics and methods and applying more advanced biostatistical and epidemiological analysis methods.",
     "coreqs": [],
     "prereqs": [{ "subject": "PHTH", "number": "6400" }]
@@ -847,7 +939,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "35928" }],
+    "sections": [
+      { "term": "202430", "crn": "34884" },
+      { "term": "202330", "crn": "35928" }
+    ],
     "description": "Exposes students to causal inference approaches, including causal diagrams and counterfactual theory. Students are also asked to draw upon their own research experiences and prior epidemiology training to evaluate public health studies. Covers how to apply the fundamental concepts of counterfactuals and causal diagrams; assess threats to validity in study designs and analysis, including confounding, selection bias, and measurement error/misclassification; evaluate the validity of a public health research study's design and analysis with respect to addressing causal questions; and critically analyze scientific literature and apply findings to clinical or policy decisions. Offers students an opportunity to think critically and rigorously about the implications of study design and analysis toward addressing public health questions.",
     "coreqs": [],
     "prereqs": [{ "subject": "PHTH", "number": "6202" }]
@@ -860,6 +955,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37441" },
       { "term": "202410", "crn": "12387" },
       { "term": "202350", "crn": "50750" },
       { "term": "202330", "crn": "39480" },
@@ -877,6 +973,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36464" },
       { "term": "202410", "crn": "13572" },
       { "term": "202350", "crn": "50741" },
       { "term": "202330", "crn": "38451" },

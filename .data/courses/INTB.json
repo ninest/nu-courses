@@ -7,6 +7,23 @@
     "credits": 4,
     "nuPath": ["ER", "IC"],
     "sections": [
+      { "term": "202430", "crn": "30036" },
+      { "term": "202430", "crn": "30236" },
+      { "term": "202430", "crn": "30235" },
+      { "term": "202430", "crn": "30237" },
+      { "term": "202430", "crn": "30239" },
+      { "term": "202430", "crn": "34125" },
+      { "term": "202430", "crn": "31654" },
+      { "term": "202430", "crn": "31905" },
+      { "term": "202430", "crn": "31998" },
+      { "term": "202430", "crn": "32455" },
+      { "term": "202430", "crn": "32875" },
+      { "term": "202430", "crn": "32876" },
+      { "term": "202430", "crn": "37259" },
+      { "term": "202430", "crn": "40687" },
+      { "term": "202430", "crn": "40688" },
+      { "term": "202430", "crn": "40689" },
+      { "term": "202430", "crn": "40690" },
       { "term": "202410", "crn": "10290" },
       { "term": "202410", "crn": "10289" },
       { "term": "202410", "crn": "10291" },
@@ -76,7 +93,10 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39941" }],
+    "sections": [
+      { "term": "202430", "crn": "37855" },
+      { "term": "202330", "crn": "39941" }
+    ],
     "description": "Functions as a foundational, cornerstone course that frames the Global Engagement Program and assists students in mapping their way forward. Covers cultural and ethical frameworks for understanding the context of global business as an integrated whole. Introduces global leadership competencies combined with multiple assessments to help foster greater self-awareness and establish a baseline for subsequent development. Offers students an opportunity to create a four-year professional development plan (PDP), a living document designed to guide students’ study and development throughout the program and to cultivate the mindset necessary for effective and authentic global leadership.",
     "coreqs": [],
     "prereqs": []
@@ -89,6 +109,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37184" },
+      { "term": "202430", "crn": "37185" },
       { "term": "202410", "crn": "17483" },
       { "term": "202410", "crn": "17484" },
       { "term": "202410", "crn": "17491" },
@@ -113,6 +135,7 @@
     "credits": 4,
     "nuPath": ["ER", "IC"],
     "sections": [
+      { "term": "202430", "crn": "30114" },
       { "term": "202410", "crn": "10073" },
       { "term": "202330", "crn": "30117" },
       { "term": "202310", "crn": "10078" }
@@ -129,6 +152,9 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36152" },
+      { "term": "202430", "crn": "36153" },
+      { "term": "202430", "crn": "36154" },
       { "term": "202410", "crn": "17485" },
       { "term": "202410", "crn": "17495" },
       { "term": "202410", "crn": "17525" },
@@ -151,6 +177,9 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36155" },
+      { "term": "202430", "crn": "36156" },
+      { "term": "202430", "crn": "36157" },
       { "term": "202410", "crn": "17486" },
       { "term": "202410", "crn": "17496" },
       { "term": "202410", "crn": "17526" },
@@ -173,6 +202,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36158" },
       { "term": "202410", "crn": "13107" },
       { "term": "202330", "crn": "38125" },
       { "term": "202310", "crn": "13511" }
@@ -189,6 +219,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "37233" },
       { "term": "202410", "crn": "17527" },
       { "term": "202330", "crn": "39263" },
       { "term": "202310", "crn": "19933" }
@@ -205,6 +236,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32268" },
       { "term": "202410", "crn": "13531" },
       { "term": "202330", "crn": "32520" },
       { "term": "202310", "crn": "14016" }
@@ -246,6 +278,8 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "31248" },
+      { "term": "202430", "crn": "31249" },
       { "term": "202410", "crn": "11337" },
       { "term": "202330", "crn": "31357" },
       { "term": "202330", "crn": "31358" },
@@ -262,7 +296,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34844" }],
+    "sections": [
+      { "term": "202430", "crn": "34153" },
+      { "term": "202330", "crn": "34844" }
+    ],
     "description": "Examines areas of current interest and special topics in the field of international business. May be repeated once.",
     "coreqs": [],
     "prereqs": []
@@ -290,6 +327,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33389" },
       { "term": "202410", "crn": "10612" },
       { "term": "202410", "crn": "10576" },
       { "term": "202340", "crn": "40084" },
@@ -349,6 +387,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35003" },
       { "term": "202410", "crn": "13534" },
       { "term": "202330", "crn": "36117" },
       { "term": "202310", "crn": "14019" }
@@ -365,6 +404,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38444" },
+      { "term": "202430", "crn": "38445" },
+      { "term": "202430", "crn": "38692" },
       { "term": "202340", "crn": "41425" },
       { "term": "202340", "crn": "41426" },
       { "term": "202330", "crn": "40550" },
@@ -385,7 +427,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33329" }],
+    "sections": [
+      { "term": "202430", "crn": "32945" },
+      { "term": "202330", "crn": "33329" }
+    ],
     "description": "Offers students an opportunity to work on faculty-led teams to address a current issue facing a global corporate partner organization. Students interact directly with organizational leaders and employees to scope the project and work as a consulting team, harnessing campus and corporate resources to solve a problem and/or make recommendations. Faculty travel with the students to an international site to continue research, interviews, etc., and report findings to local corporate representatives. Feedback on the project reports are incorporated, and the final project report takes place post-travel with the corporate/sponsoring organizations' representatives.",
     "coreqs": [],
     "prereqs": []
@@ -397,7 +442,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38126" }],
+    "sections": [
+      { "term": "202430", "crn": "36159" },
+      { "term": "202330", "crn": "38126" }
+    ],
     "description": "Exposes students to the opportunities and challenges that digitalization presents for the core tenets and managerial practices of international business. New digital technologies have given rise to digitally born companies that internationalize through online platforms at an exponential pace. Companies from unrelated industries that may have traditionally not competed against each other now co-create value on digital platform ecosystems. Countries are increasingly implementing policies that aim to bridge the digital divide and alleviate poverty. A darker side of digitalization has also emerged. While some countries push for a global and open internet infrastructure, others engage in digital protectionism. Artificial intelligence can further be abused for digital authoritarianism purposes. Data privacy breaches are also rising globally. Examines how companies, industries, and governments should respond.",
     "coreqs": [],
     "prereqs": []

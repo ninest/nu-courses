@@ -7,6 +7,21 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30356" },
+      { "term": "202430", "crn": "30355" },
+      { "term": "202430", "crn": "30195" },
+      { "term": "202430", "crn": "30494" },
+      { "term": "202430", "crn": "30459" },
+      { "term": "202430", "crn": "30460" },
+      { "term": "202430", "crn": "30461" },
+      { "term": "202430", "crn": "30462" },
+      { "term": "202430", "crn": "31148" },
+      { "term": "202430", "crn": "31766" },
+      { "term": "202430", "crn": "31779" },
+      { "term": "202430", "crn": "31906" },
+      { "term": "202430", "crn": "32150" },
+      { "term": "202430", "crn": "35663" },
+      { "term": "202430", "crn": "37854" },
       { "term": "202410", "crn": "10782" },
       { "term": "202410", "crn": "10295" },
       { "term": "202410", "crn": "10296" },
@@ -73,6 +88,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33232" },
+      { "term": "202430", "crn": "34679" },
+      { "term": "202430", "crn": "36181" },
       { "term": "202410", "crn": "12494" },
       { "term": "202410", "crn": "15290" },
       { "term": "202410", "crn": "17383" },
@@ -95,23 +113,14 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30354" },
       { "term": "202410", "crn": "10520" },
       { "term": "202330", "crn": "30366" },
       { "term": "202310", "crn": "10558" }
     ],
     "description": "Offers students an introduction to and overview of the methodological frameworks and tool sets for the design, development, and implementation of data-management solutions. Today, almost no aspect of business operates without a strong reliance on the flow of information. Even small enterprises track huge volumes of data, from sales transactions and supply chain activities to Web site traffic. Knowledge workers and managers at all levels within the organization require an understanding of data management, database design and operations, and associated decision-support and data-analysis tools and systems to complete even day-to-day tasks. Offers students an opportunity to work hands-on, applying these methods and tools to solve actual business problems.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "MISM",
@@ -121,6 +130,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34680" },
       { "term": "202340", "crn": "41765" },
       { "term": "202330", "crn": "35619" }
     ],
@@ -136,6 +146,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32542" },
+      { "term": "202430", "crn": "34681" },
       { "term": "202410", "crn": "13708" },
       { "term": "202330", "crn": "32857" },
       { "term": "202330", "crn": "35620" },
@@ -178,7 +190,11 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34281" }],
+    "sections": [
+      { "term": "202430", "crn": "33697" },
+      { "term": "202430", "crn": "39038" },
+      { "term": "202330", "crn": "34281" }
+    ],
     "description": "Focuses on modern decision models in business analytics with applications to business process design, revenue management, pricing, inventory control, business network planning, and other topics. Introduces concepts including optimization, dynamic programming, cluster analysis, and consumer choice models. Emphasizes data-driven, real-world applications of the mathematical decision tools and concepts presented in the course.",
     "coreqs": [],
     "prereqs": [
@@ -207,6 +223,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "30353" },
       { "term": "202410", "crn": "10521" },
       { "term": "202330", "crn": "30365" },
       { "term": "202310", "crn": "10559" }
@@ -252,6 +269,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39336" },
       { "term": "202410", "crn": "17474" },
       { "term": "202410", "crn": "19134" },
       { "term": "202410", "crn": "21642" },
@@ -271,6 +289,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39671" },
       { "term": "202410", "crn": "12975" },
       { "term": "202410", "crn": "14709" },
       { "term": "202410", "crn": "14710" },
@@ -295,6 +314,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35272" },
       { "term": "202410", "crn": "17438" },
       { "term": "202410", "crn": "17439" },
       { "term": "202410", "crn": "17440" },
@@ -316,7 +336,11 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38150" }],
+    "sections": [
+      { "term": "202430", "crn": "36183" },
+      { "term": "202430", "crn": "39340" },
+      { "term": "202330", "crn": "38150" }
+    ],
     "description": "Focuses on modern decision models in business analytics, with applications to business process design, revenue management, pricing, inventory control, business network planning, and other topics. Includes optimization, simulation, and selected data mining techniques. Emphasizes data-driven, real-world applications of mathematical decision tools and concepts.",
     "coreqs": [],
     "prereqs": [{ "subject": "MISM", "number": "6202" }]
@@ -329,6 +353,10 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34133" },
+      { "term": "202430", "crn": "34134" },
+      { "term": "202430", "crn": "35492" },
+      { "term": "202430", "crn": "36184" },
       { "term": "202410", "crn": "13976" },
       { "term": "202410", "crn": "19888" },
       { "term": "202340", "crn": "40458" },
@@ -353,6 +381,10 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34135" },
+      { "term": "202430", "crn": "34136" },
+      { "term": "202430", "crn": "35443" },
+      { "term": "202430", "crn": "35931" },
       { "term": "202410", "crn": "13251" },
       { "term": "202410", "crn": "19892" },
       { "term": "202360", "crn": "61439" },
@@ -377,6 +409,11 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32753" },
+      { "term": "202430", "crn": "34137" },
+      { "term": "202430", "crn": "34138" },
+      { "term": "202430", "crn": "34148" },
+      { "term": "202430", "crn": "36185" },
       { "term": "202330", "crn": "33102" },
       { "term": "202330", "crn": "34820" },
       { "term": "202330", "crn": "34821" },
@@ -386,7 +423,11 @@
     ],
     "description": "Covers the leading data practices from early adopters, focusing on innovative information design, data quality, data sharing, and data integration perspectives and methods for managing data and business analytics. Explores how data analytics and management can be strategically implemented to transform a company. Discusses theories and contemporary industry practice, and real-world data and cases are used for discussion and projects. Offers students an opportunity to prepare for problem identification and solution perspectives of data-related projects, gearing up for MISM 6214.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "MISM", "number": "6201" },
+      "Or",
+      { "subject": "MISM", "number": "6205" }
+    ]
   },
   {
     "subject": "MISM",
@@ -396,6 +437,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32754" },
       { "term": "202410", "crn": "16110" },
       { "term": "202410", "crn": "16111" },
       { "term": "202410", "crn": "17605" },

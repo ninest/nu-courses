@@ -19,12 +19,30 @@
   },
   {
     "subject": "NNMD",
+    "number": "5271",
+    "title": "Foundations in Nanomedicine: Diagnostics",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "39564" },
+      { "term": "202430", "crn": "39565" },
+      { "term": "202430", "crn": "39566" }
+    ],
+    "description": "Offers an interdisciplinary, state-of-the-art introduction to nanotechnology-based diagnostics. Covers the foundations of in vitro diagnostics and in vivo imaging, including considerations for designing diagnostic tests, device research and development, innovation vs. invention, contrast agents, companion diagnostics, medical device regulation, device reporting requirements, and challenges unique to devices for global health. Highlights examples of diagnostic technologies currently in clinical trials through talks by Northeastern faculty and guest experts from academia, hospitals, and industry.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "NNMD",
     "number": "5272",
     "title": "Nanomedicine Seminar",
     "scheduleType": "Seminar",
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39567" },
+      { "term": "202430", "crn": "39568" },
       { "term": "202410", "crn": "12368" },
       { "term": "202410", "crn": "14037" },
       { "term": "202310", "crn": "12664" },
@@ -57,6 +75,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35496" },
+      { "term": "202430", "crn": "33410" },
+      { "term": "202430", "crn": "37712" },
       { "term": "202340", "crn": "41679" },
       { "term": "202330", "crn": "36997" },
       { "term": "202330", "crn": "33902" },
@@ -83,6 +104,45 @@
       { "term": "202330", "crn": "34486" }
     ],
     "description": "Offers a comprehensive overview of the  commercialization process for nano- and  biomedical technologies. Discusses the key elements of a successful  business plan, including scientific innovation, market assessment, customer discovery,  intellectual property protection,  business modeling, and value extraction.  Also covers regulatory processes  and market-specific strategies for  raising capital.  Offers students an opportunity to gain entrepreneurship skills through the creation of a team business proposal. Students have opportunities to interact with guest entrepreneurs.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "NNMD",
+    "number": "5570",
+    "title": "Preclinical and Clinical Study Design",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "39569" },
+      { "term": "202430", "crn": "39570" },
+      { "term": "202430", "crn": "39571" }
+    ],
+    "description": "Offers an in-depth look at preclinical and clinical considerations for drug discovery and development. Emphasizes identifying and addressing challenges associated with animal models, evaluation of drug-tissue interactions, qualifying for good laboratory practices, clinical trial design, patient stratification, and clinical trial management. Identifies key terminology and statistical considerations used in preclinical and clinical settings. Students practice steps of preclinical and clinical translation through a combination of case studies, data analysis, discussions, and a team project.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "NNMD", "number": "5270" },
+      "Or",
+      { "subject": "NNMD", "number": "5271" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
+  },
+  {
+    "subject": "NNMD",
+    "number": "6272",
+    "title": "Professional Nanomedicine Seminar",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "39572" },
+      { "term": "202430", "crn": "39573" }
+    ],
+    "description": "Presents examples of research and innovation in the field of nanomedicine, with a focus on emerging technologies to solve pressing problems in human health. Features both medical case studies and rotating talks from experts in hospitals, government, academia, and industry. Offers students opportunities to practice scientific and professional skills through interactive nanomedicine activities. May be repeated up to three times.",
     "coreqs": [],
     "prereqs": []
   },

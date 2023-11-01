@@ -7,6 +7,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "33987" },
       { "term": "202410", "crn": "10311" },
       { "term": "202330", "crn": "34627" },
       { "term": "202310", "crn": "10330" }
@@ -38,6 +39,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "36665" },
       { "term": "202410", "crn": "19924" },
       { "term": "202330", "crn": "38659" }
     ],
@@ -52,7 +54,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202330", "crn": "30054" }],
+    "sections": [
+      { "term": "202430", "crn": "30051" },
+      { "term": "202330", "crn": "30054" }
+    ],
     "description": "Introduces the basic issues in linguistics by examining the structural properties of American Sign Language. Includes phonology (formational properties of signs); morphology (word formation, rules, derivation, inflection, complex verbs, classifiers, and verb modulations); semantics (the meaning structure of signs); and syntax (the structure of ASL utterances in terms of old vs. new information and the structure of ASL narratives). Examines sociolinguistic variation of ASL usage (such as region, age, and Black ASL), as well as language attitudes and change over time.",
     "coreqs": [],
     "prereqs": [

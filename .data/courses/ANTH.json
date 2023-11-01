@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33996" },
       { "term": "202410", "crn": "13610" },
       { "term": "202330", "crn": "34636" },
       { "term": "202310", "crn": "14112" }
@@ -23,6 +24,9 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "30264" },
+      { "term": "202430", "crn": "35372" },
+      { "term": "202430", "crn": "37225" },
       { "term": "202410", "crn": "19444" },
       { "term": "202410", "crn": "15094" },
       { "term": "202410", "crn": "19445" },
@@ -57,6 +61,8 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "31272" },
+      { "term": "202430", "crn": "37226" },
       { "term": "202410", "crn": "10503" },
       { "term": "202330", "crn": "31391" },
       { "term": "202330", "crn": "39255" },
@@ -73,7 +79,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "SI"],
-    "sections": [{ "term": "202310", "crn": "19529" }],
+    "sections": [
+      { "term": "202430", "crn": "39280" },
+      { "term": "202310", "crn": "19529" }
+    ],
     "description": "Introduces a cross-cultural, comparative perspective on religious practice and belief. Explores theoretical definitions of and methodological approaches to the study of religion, as well as more specific concepts of ritual, myth, healing, and identity. Select case studies allow for an in-depth look at the unique formations of a few religious practices and groups.",
     "coreqs": [],
     "prereqs": []
@@ -85,7 +94,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["SI"],
-    "sections": [{ "term": "202310", "crn": "19726" }],
+    "sections": [
+      { "term": "202430", "crn": "39281" },
+      { "term": "202310", "crn": "19726" }
+    ],
     "description": "Focuses on the connections between the development of modern nation-states and the control of nature. Explores the role human societies play in such events as climate change, tsunamis, and droughts. Studies how industrialization and the process of science and technology development are related to our transforming environmental conditions, as well as how the social sciences, the sciences, and engineering are transforming to address these issues. Draws on social theory, environmental history, anthropology, sociology, art, design, and open-source technologies to investigate theoretically and methodologically the sources, experiences of, and solutions for environmental health questions.",
     "coreqs": [],
     "prereqs": [
@@ -113,7 +125,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202410", "crn": "19911" }],
+    "sections": [
+      { "term": "202430", "crn": "39378" },
+      { "term": "202410", "crn": "19911" }
+    ],
     "description": "Introduces key issues, themes, and debates in feminist transnational theory, practice, and activism in contemporary contexts and how it has changed under socioeconomic, political, and cultural processes of globalization. Examines differences among women relating to race, class, sexuality, national identity, and political economy in reckoning with possibilities for sustainable social justice. Students interrogate the relationship between the local and global; the production of knowledge in different regional spaces; the pragmatics of political mobilization; the varying contours of “social justice”; and other key issues. Offers students an opportunity to discuss the impact of globalization, neoliberalism, and state and intimate violence on gendered politics and relations and to contend with the politics of difference, to debate its challenges, and to imagine possible futures for transnational gender justice.",
     "coreqs": [],
     "prereqs": []
@@ -151,8 +166,11 @@
     "title": "Political Anthropology",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19530" }],
+    "nuPath": ["IC", "SI"],
+    "sections": [
+      { "term": "202430", "crn": "39282" },
+      { "term": "202310", "crn": "19530" }
+    ],
     "description": "Examines the anthropology of politics, focusing on the anthropology of the state. Studies the history of political anthropology with its roots in British structural-formalism and contextualizes it within the anthropology of Africa and witchcraft. Explores the linkages between the nation and the state, using classic works of Benedict Anderson on nationalism, before commencing an in-depth study of the problems of the state, classical theories of the state and statecraft, and how these ideas are traced to contemporary ethnographies of politics. Students interested in the study of resistance, displacement, social exclusion, citizenship, state violence, and communities may find this course relevant to their interests.",
     "coreqs": [],
     "prereqs": [
@@ -208,7 +226,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19985" }],
+    "sections": [
+      { "term": "202430", "crn": "39283" },
+      { "term": "202310", "crn": "19985" }
+    ],
     "description": "Introduces the foundations of anthropological theory. Examines recurring themes surrounding structure and agency, culture and power, and the tension between the individual and society. Addresses these questions by returning to anthropology's Enlightenment roots, early evolutionary thought, classic and contemporary theories, as well as ongoing critiques of the discipline. Explores different schools of thought, including functionalism, structural functionalism, symbolism, interpretivism, and more recent theoretical developments that address history, political economy, reflexivity, poststructuralism, and feminism, as well as transnational/global and activist approaches. Requires prior completion of two ANTH courses numbered 1000 or above.",
     "coreqs": [],
     "prereqs": [{ "subject": "ANTH", "number": "1101" }]
@@ -246,6 +267,34 @@
   },
   {
     "subject": "ANTH",
+    "number": "4200",
+    "title": "Anthropology of Rural America",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["IC"],
+    "sections": [{ "term": "202430", "crn": "39284" }],
+    "description": "Considers how rural areas are socially, geographically, and culturally constructed by political, social, and racialized forces through both isolationist and extractive practices. Confronts rurality as a political image, showing how it takes on both meanings of belonging and otherness depending on its context and usage. Explores the theoretical concept of rurality and its relationship to colonialism; regional case studies; and intersectional issues of gender, sexuality, race, class, and social inequality. Offers students an opportunity to explore essential topics in and related to the anthropology of rural studies.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ANTH", "number": "1101" },
+      "Or",
+      { "subject": "CRIM", "number": "1100" },
+      "Or",
+      { "subject": "HUSV", "number": "1101" },
+      "Or",
+      { "subject": "INTL", "number": "1101" },
+      "Or",
+      { "subject": "POLS", "number": "1140" },
+      "Or",
+      { "subject": "POLS", "number": "1160" },
+      "Or",
+      { "subject": "SOCL", "number": "1101" },
+      "Or",
+      { "subject": "WMNS", "number": "1103" }
+    ]
+  },
+  {
+    "subject": "ANTH",
     "number": "4210",
     "title": "Anthropology of Eastern Europe",
     "scheduleType": "Seminar",
@@ -260,6 +309,34 @@
       { "subject": "CRIM", "number": "1100" },
       "Or",
       { "subject": "HUSV", "number": "1101" },
+      "Or",
+      { "subject": "POLS", "number": "1140" },
+      "Or",
+      { "subject": "POLS", "number": "1160" },
+      "Or",
+      { "subject": "SOCL", "number": "1101" },
+      "Or",
+      { "subject": "WMNS", "number": "1103" }
+    ]
+  },
+  {
+    "subject": "ANTH",
+    "number": "4220",
+    "title": "South Asian Diasporas",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202430", "crn": "39819" }],
+    "description": "Seeks to provide an understanding of South Asians as one of the largest migrant communities globally, coming from India, Pakistan, Bangladesh, Nepal, Myanmar, Bhutan, and Sri Lanka. Concentrates on the diaspora as a heterogeneous group comprising multiple nationalities, religions, castes, classes, languages, and genders. Examines the history, opportunities, and challenges of South Asian mobility and migration. Draws from texts in sociocultural anthropology, Asian American studies, history, and transnational feminist studies to trace the emergence of a new global regime on migration and citizenship through the unprecedented mobility of South Asians in the 20th and 21st centuries.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ANTH", "number": "1101" },
+      "Or",
+      { "subject": "CRIM", "number": "1100" },
+      "Or",
+      { "subject": "HUSV", "number": "1101" },
+      "Or",
+      { "subject": "INTL", "number": "1101" },
       "Or",
       { "subject": "POLS", "number": "1140" },
       "Or",
@@ -410,6 +487,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30786" },
       { "term": "202410", "crn": "21185" },
       { "term": "202330", "crn": "30837" }
     ],

@@ -7,6 +7,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30449" },
       { "term": "202410", "crn": "10417" },
       { "term": "202410", "crn": "17311" },
       { "term": "202330", "crn": "30462" },
@@ -25,6 +26,9 @@
     "credits": 4,
     "nuPath": ["AD", "FQ"],
     "sections": [
+      { "term": "202430", "crn": "30324" },
+      { "term": "202430", "crn": "32074" },
+      { "term": "202430", "crn": "30323" },
       { "term": "202410", "crn": "10421" },
       { "term": "202410", "crn": "10420" },
       { "term": "202410", "crn": "13137" },
@@ -47,6 +51,11 @@
     "credits": 4,
     "nuPath": ["AD", "FQ"],
     "sections": [
+      { "term": "202430", "crn": "30049" },
+      { "term": "202430", "crn": "34048" },
+      { "term": "202430", "crn": "30326" },
+      { "term": "202430", "crn": "30325" },
+      { "term": "202430", "crn": "35718" },
       { "term": "202410", "crn": "10031" },
       { "term": "202410", "crn": "10030" },
       { "term": "202410", "crn": "10887" },
@@ -82,7 +91,10 @@
     "scheduleType": "Recitation/Discussion",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31016" }],
+    "sections": [
+      { "term": "202430", "crn": "30950" },
+      { "term": "202330", "crn": "31016" }
+    ],
     "description": "Provides small-group discussion format to cover material in MATH 1215.",
     "coreqs": [],
     "prereqs": []
@@ -94,7 +106,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI", "FQ"],
-    "sections": [{ "term": "202330", "crn": "33779" }],
+    "sections": [
+      { "term": "202430", "crn": "33324" },
+      { "term": "202330", "crn": "33779" }
+    ],
     "description": "Presents mathematical connections and foundations for art.  Topics vary and may include aspects of linear perspective and vanishing points, symmetry and patterns, tilings and polygons, Platonic solids and polyhedra, golden ratio, non-Euclidean geometry, hyperbolic geometry, fractals, and other topics.  Includes connections and examples in different cultures.",
     "coreqs": [],
     "prereqs": []
@@ -107,6 +122,16 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202430", "crn": "30322" },
+      { "term": "202430", "crn": "30321" },
+      { "term": "202430", "crn": "30320" },
+      { "term": "202430", "crn": "30319" },
+      { "term": "202430", "crn": "30318" },
+      { "term": "202430", "crn": "30100" },
+      { "term": "202430", "crn": "30050" },
+      { "term": "202430", "crn": "37130" },
+      { "term": "202430", "crn": "40682" },
+      { "term": "202430", "crn": "40683" },
       { "term": "202410", "crn": "10249" },
       { "term": "202410", "crn": "10476" },
       { "term": "202410", "crn": "10533" },
@@ -160,6 +185,11 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202430", "crn": "33643" },
+      { "term": "202430", "crn": "33644" },
+      { "term": "202430", "crn": "37735" },
+      { "term": "202430", "crn": "33645" },
+      { "term": "202430", "crn": "40488" },
       { "term": "202410", "crn": "10360" },
       { "term": "202410", "crn": "20468" },
       { "term": "202410", "crn": "12361" },
@@ -190,6 +220,7 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202430", "crn": "30317" },
       { "term": "202410", "crn": "10062" },
       { "term": "202330", "crn": "30329" },
       { "term": "202310", "crn": "10066" }
@@ -211,7 +242,11 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["FQ"],
-    "sections": [{ "term": "202330", "crn": "34214" }],
+    "sections": [
+      { "term": "202430", "crn": "33647" },
+      { "term": "202430", "crn": "39627" },
+      { "term": "202330", "crn": "34214" }
+    ],
     "description": "Covers differential and integral calculus of one variable and an introduction to differential equations. Includes applications that show how calculus is used to solve problems in science. Also includes a group project related to a real-world problem in students' areas of study. The project involves a differential equation and compares the solution with experiment. Previous examples of projects include modeling of coral reefs, analysis of an epidemic using the data of the World Health Organization, analysis of a two-component kinetic model of drug concentration, and gate analysis of hip to knee experiment and comparison with the solution of the pendulum equation. Prior exposure to high-school-level calculus is recommended.",
     "coreqs": [],
     "prereqs": []
@@ -263,7 +298,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["FQ"],
-    "sections": [{ "term": "202330", "crn": "31448" }],
+    "sections": [
+      { "term": "202430", "crn": "31323" },
+      { "term": "202330", "crn": "31448" }
+    ],
     "description": "Discusses linear algebra and vector geometry in two-, three-, and four-dimensional space. Examines length, dot product, and trigonometry. Introduces linear and affine transformations. Discusses complex numbers in two-space, cross product in three-space, and quaternions in four-space. Provides explicit formulas for rotations in three-space. Examines functions of one argument and treats exponentials and logarithms. Describes parametric curves in space. Discusses binomials, discrete probability, Bézier curves, and random numbers. Concludes with the concept of the derivative, the rules for computing derivatives, and the notion of a differential equation.",
     "coreqs": [],
     "prereqs": []
@@ -276,6 +314,7 @@
     "credits": 6,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202430", "crn": "30310" },
       { "term": "202410", "crn": "10231" },
       { "term": "202330", "crn": "30322" },
       { "term": "202310", "crn": "10244" }
@@ -292,6 +331,17 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202430", "crn": "30309" },
+      { "term": "202430", "crn": "32271" },
+      { "term": "202430", "crn": "32544" },
+      { "term": "202430", "crn": "39628" },
+      { "term": "202430", "crn": "35887" },
+      { "term": "202430", "crn": "37042" },
+      { "term": "202430", "crn": "39629" },
+      { "term": "202430", "crn": "40489" },
+      { "term": "202430", "crn": "40604" },
+      { "term": "202430", "crn": "37131" },
+      { "term": "202430", "crn": "40490" },
       { "term": "202410", "crn": "11926" },
       { "term": "202410", "crn": "10473" },
       { "term": "202410", "crn": "10527" },
@@ -355,6 +405,22 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202430", "crn": "30113" },
+      { "term": "202430", "crn": "30112" },
+      { "term": "202430", "crn": "31786" },
+      { "term": "202430", "crn": "30081" },
+      { "term": "202430", "crn": "30111" },
+      { "term": "202430", "crn": "31009" },
+      { "term": "202430", "crn": "30308" },
+      { "term": "202430", "crn": "30307" },
+      { "term": "202430", "crn": "30306" },
+      { "term": "202430", "crn": "31162" },
+      { "term": "202430", "crn": "31297" },
+      { "term": "202430", "crn": "31557" },
+      { "term": "202430", "crn": "32983" },
+      { "term": "202430", "crn": "33325" },
+      { "term": "202430", "crn": "37043" },
+      { "term": "202430", "crn": "37132" },
       { "term": "202410", "crn": "10753" },
       { "term": "202410", "crn": "14508" },
       { "term": "202410", "crn": "10217" },
@@ -429,6 +495,15 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32462" },
+      { "term": "202430", "crn": "32864" },
+      { "term": "202430", "crn": "32865" },
+      { "term": "202430", "crn": "33326" },
+      { "term": "202430", "crn": "33327" },
+      { "term": "202430", "crn": "33328" },
+      { "term": "202430", "crn": "40679" },
+      { "term": "202430", "crn": "40680" },
+      { "term": "202430", "crn": "40681" },
       { "term": "202410", "crn": "10528" },
       { "term": "202410", "crn": "10126" },
       { "term": "202410", "crn": "21009" },
@@ -469,7 +544,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["FQ", "IC"],
-    "sections": [{ "term": "202330", "crn": "30312" }],
+    "sections": [
+      { "term": "202430", "crn": "30301" },
+      { "term": "202330", "crn": "30312" }
+    ],
     "description": "Traces the development of mathematics from its earliest beginning to the present. Emphasis is on the contributions of various cultures including the Babylonians, Egyptians, Mayans, Greeks, Indians, and Arabs. Computations and constructions are worked out using the techniques and notations of these peoples. The role of mathematics in the development of science is traced throughout, including the contributions of Descartes, Kepler, Fermat, and Newton. More modern developments are discussed as time permits.",
     "coreqs": [],
     "prereqs": []
@@ -482,6 +560,7 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "31152" },
       { "term": "202410", "crn": "10223" },
       { "term": "202410", "crn": "10222" },
       { "term": "202330", "crn": "31255" },
@@ -500,6 +579,19 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202430", "crn": "37081" },
+      { "term": "202430", "crn": "30466" },
+      { "term": "202430", "crn": "30467" },
+      { "term": "202430", "crn": "30473" },
+      { "term": "202430", "crn": "31342" },
+      { "term": "202430", "crn": "30948" },
+      { "term": "202430", "crn": "31821" },
+      { "term": "202430", "crn": "31146" },
+      { "term": "202430", "crn": "31385" },
+      { "term": "202430", "crn": "31582" },
+      { "term": "202430", "crn": "32272" },
+      { "term": "202430", "crn": "35860" },
+      { "term": "202430", "crn": "37581" },
       { "term": "202410", "crn": "10035" },
       { "term": "202410", "crn": "10252" },
       { "term": "202410", "crn": "17347" },
@@ -576,6 +668,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32873" },
       { "term": "202410", "crn": "10523" },
       { "term": "202330", "crn": "33247" },
       { "term": "202310", "crn": "10561" }
@@ -592,6 +685,11 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30303" },
+      { "term": "202430", "crn": "30873" },
+      { "term": "202430", "crn": "34006" },
+      { "term": "202430", "crn": "34429" },
+      { "term": "202430", "crn": "35726" },
       { "term": "202410", "crn": "13937" },
       { "term": "202410", "crn": "13952" },
       { "term": "202410", "crn": "13951" },
@@ -637,6 +735,16 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37026" },
+      { "term": "202430", "crn": "30304" },
+      { "term": "202430", "crn": "32109" },
+      { "term": "202430", "crn": "30014" },
+      { "term": "202430", "crn": "30006" },
+      { "term": "202430", "crn": "31028" },
+      { "term": "202430", "crn": "39630" },
+      { "term": "202430", "crn": "31930" },
+      { "term": "202430", "crn": "32735" },
+      { "term": "202430", "crn": "37044" },
       { "term": "202410", "crn": "10415" },
       { "term": "202410", "crn": "10411" },
       { "term": "202410", "crn": "10081" },
@@ -690,6 +798,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32736" },
       { "term": "202410", "crn": "10524" },
       { "term": "202330", "crn": "33078" },
       { "term": "202310", "crn": "10562" }
@@ -706,6 +815,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30305" },
       { "term": "202410", "crn": "10082" },
       { "term": "202330", "crn": "30317" },
       { "term": "202310", "crn": "10087" }
@@ -722,6 +832,12 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "30208" },
+      { "term": "202430", "crn": "30183" },
+      { "term": "202430", "crn": "31386" },
+      { "term": "202430", "crn": "31387" },
+      { "term": "202430", "crn": "32657" },
+      { "term": "202430", "crn": "37713" },
       { "term": "202410", "crn": "10410" },
       { "term": "202410", "crn": "10409" },
       { "term": "202410", "crn": "12287" },
@@ -767,6 +883,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33091" },
       { "term": "202410", "crn": "13438" },
       { "term": "202410", "crn": "21432" },
       { "term": "202410", "crn": "21431" },
@@ -785,6 +902,8 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "30949" },
+      { "term": "202430", "crn": "32737" },
       { "term": "202410", "crn": "11108" },
       { "term": "202410", "crn": "14408" },
       { "term": "202330", "crn": "31015" },
@@ -820,6 +939,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30096" },
+      { "term": "202430", "crn": "32348" },
       { "term": "202410", "crn": "11123" },
       { "term": "202410", "crn": "12098" },
       { "term": "202410", "crn": "12414" },
@@ -865,6 +986,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40491" },
       { "term": "202410", "crn": "13779" },
       { "term": "202310", "crn": "14307" }
     ],
@@ -902,7 +1024,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31860" }],
+    "sections": [
+      { "term": "202430", "crn": "31682" },
+      { "term": "202330", "crn": "31860" }
+    ],
     "description": "Studies dynamical systems and their applications as they arise from differential equations. Solutions are obtained and analyzed as parameterized curves in the plane and used as a means of understanding the evolution of physical processes. Applications include conservative systems, predator-prey interactions, and cooperation and competition of species.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "2341" }]
@@ -915,6 +1040,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31738" },
+      { "term": "202430", "crn": "32738" },
       { "term": "202360", "crn": "60680" },
       { "term": "202340", "crn": "40189" },
       { "term": "202330", "crn": "31920" },
@@ -959,6 +1086,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30504" },
       { "term": "202340", "crn": "40872" },
       { "term": "202330", "crn": "30521" },
       { "term": "202240", "crn": "41070" }
@@ -980,7 +1108,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36339" }],
+    "sections": [
+      { "term": "202430", "crn": "35112" },
+      { "term": "202330", "crn": "36339" }
+    ],
     "description": "Covers numerical methods to solve ordinary differential equations that are otherwise not solvable using exact methods and that are useful in a variety of applications drawn from classical areas of science and engineering. Studies examples classified as initial and boundary value problems from fluid mechanics and heat transfer. The topics are of fundamental importance in many branches of applied mathematics, physical sciences, and engineering. Possible topics also include the finite element method, which is very useful in structural analysis involving complex geometry.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "2341" }]
@@ -1051,6 +1182,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "35762" },
       { "term": "202410", "crn": "11800" },
       { "term": "202330", "crn": "37452" },
       { "term": "202310", "crn": "12020" }
@@ -1070,7 +1202,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["CE", "WI"],
-    "sections": [{ "term": "202330", "crn": "30946" }],
+    "sections": [
+      { "term": "202430", "crn": "30887" },
+      { "term": "202330", "crn": "30946" }
+    ],
     "description": "Emphasizes the use of a variety of methods—such as optimization, differential equations, probability, and statistics—to study problems that arise in epidemiology, finance, and other real-world settings. Course work includes assigned exercises, a long-term modeling project on a topic of the student's choosing, and a reflection paper.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "3081" }]
@@ -1082,7 +1217,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19712" }],
+    "sections": [
+      { "term": "202430", "crn": "40197" },
+      { "term": "202310", "crn": "19712" }
+    ],
     "description": "Continues MATH 3527. Topics include Diophantine approximation, the Gaussian integers, irrational numbers and transcendental numbers, nonlinear polynomial congruences, systems of linear congruences, mobius inversion, elliptic curves, modular curves, modular forms, and L-functions.",
     "coreqs": [],
     "prereqs": [
@@ -1103,6 +1241,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31920" },
       { "term": "202410", "crn": "11263" },
       { "term": "202330", "crn": "32145" },
       { "term": "202310", "crn": "11426" }
@@ -1123,6 +1262,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32886" },
       { "term": "202410", "crn": "14340" },
       { "term": "202330", "crn": "33261" },
       { "term": "202310", "crn": "15060" }
@@ -1154,6 +1294,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35113" },
       { "term": "202410", "crn": "15271" },
       { "term": "202330", "crn": "36340" },
       { "term": "202310", "crn": "16583" }
@@ -1173,7 +1314,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36580" }],
+    "sections": [
+      { "term": "202430", "crn": "35237" },
+      { "term": "202330", "crn": "36580" }
+    ],
     "description": "Provides a more detailed study of linear transformations and matrices: LU factorization, QR factorization, Spectral theorem and singular value decomposition, Jordan form, positive definite matrices, quadratic forms, partitioned matrices, and norms and numerical issues. Topics and emphasis change from year to year.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "2331" }]
@@ -1206,7 +1350,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32685" }],
+    "sections": [
+      { "term": "202430", "crn": "32410" },
+      { "term": "202330", "crn": "32685" }
+    ],
     "description": "Introduces commutative rings, ideals, integral domains, fields, and the theory of extension fields. Topics include Gaussian integers, Galois groups, and the fundamental theorem of Galois theory. Applications include the impossibility of angle-trisection and the general insolvability of fifth- and higher-degree polynomials. Other topics are covered as time permits.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "3175" }]
@@ -1241,6 +1388,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30481" },
+      { "term": "202430", "crn": "31585" },
       { "term": "202410", "crn": "11835" },
       { "term": "202410", "crn": "11842" },
       { "term": "202360", "crn": "60185" },
@@ -1308,7 +1457,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202430", "crn": "40492" }],
     "description": "Reviews actuarial models for life insurance, including survival models, life tables, life insurance, life annuities, premium and policy values, multiple state models, joint-life and last survivor models, pensions, and emerging costs for life insurance. Designed to be especially useful for students preparing for the fourth actuarial exam, LTAM (Long-Term Actuarial Mathematics), of the Society of Actuaries.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "4682" }]
@@ -1443,6 +1592,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32284" },
       { "term": "202410", "crn": "12462" },
       { "term": "202330", "crn": "32536" },
       { "term": "202310", "crn": "12768" }
@@ -1471,6 +1621,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32285" },
       { "term": "202410", "crn": "12965" },
       { "term": "202360", "crn": "61146" },
       { "term": "202340", "crn": "42111" },
@@ -1491,8 +1642,23 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "40139" }],
+    "sections": [
+      { "term": "202430", "crn": "38052" },
+      { "term": "202330", "crn": "40139" }
+    ],
     "description": "Provides eligible students with an opportunity for work experience abroad. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MATH",
+    "number": "7202",
+    "title": "Partial Differential Equations 1",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39749" }],
+    "description": "Introduces partial differential equations, their theoretical foundations, and their applications, which include optics, propagation of waves (light, sound, and water), electric field theory, and diffusion. Topics include first-order equations by the method of characteristics; linear, quasilinear, and nonlinear equations; applications to traffic flow and geometrical optics; principles for higher-order equations; power series and Cauchy-Kowalevski theorem; classification of second-order equations; linear equations and generalized solutions; wave equations in various space dimensions; domain of dependence and range of influence; Huygens' principle; conservation of energy, dispersion, and dissipation; Laplace's equation; mean values and the maximum principle; the fundamental solution, Green's functions, and Poisson kernels; applications to physics; properties of harmonic functions; the heat equation; eigenfunction expansions; the maximum principle; Fourier transform and the Gaussian kernel; regularity of solutions; scale invariance and the similarity method; Sobolev spaces; and elliptic regularity.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1503,7 +1669,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38598" }],
+    "sections": [
+      { "term": "202430", "crn": "36604" },
+      { "term": "202330", "crn": "38598" }
+    ],
     "description": "Introduces methods and techniques used in contemporary number crunching. Covers floating-point computations involving scalars, vectors, and matrices; solvers for sparse and dense linear systems; matrix decompositions; integration of functions and solutions of ordinary differential equations (ODEs); and Fast Fourier transform. Focuses on finding solutions to practical, real-world problems. Knowledge of programming in Matlab is assumed. Knowledge of other programming languages would be good but not required.",
     "coreqs": [],
     "prereqs": []
@@ -1601,6 +1770,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32959" },
       { "term": "202410", "crn": "14952" },
       { "term": "202330", "crn": "33349" },
       { "term": "202310", "crn": "16059" }
@@ -1664,6 +1834,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36605" },
       { "term": "202410", "crn": "19912" },
       { "term": "202330", "crn": "38599" }
     ],
@@ -1687,6 +1858,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31994" },
+      { "term": "202430", "crn": "37584" },
       { "term": "202410", "crn": "12073" },
       { "term": "202410", "crn": "20063" },
       { "term": "202330", "crn": "32227" },
@@ -1720,7 +1893,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33813" }],
+    "sections": [
+      { "term": "202430", "crn": "33351" },
+      { "term": "202330", "crn": "33813" }
+    ],
     "description": "Introduces mathematical statistics, emphasizing theory of point estimations. Topics include parametric estimations, minimum variance unbiased estimators, sufficiency and completeness, and Rao-Blackwell theorem; asymptotic (large sample) theory, maximum likelihood estimator (MLE), consistency of MLE, asymptotic theory of MLE, and Cramer-Rao bound; and hypothesis testing, Neyman-Pearson fundamental lemma, and likelihood ratio test.",
     "coreqs": [],
     "prereqs": []
@@ -1732,7 +1908,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33267" }],
+    "sections": [
+      { "term": "202430", "crn": "32892" },
+      { "term": "202330", "crn": "33267" }
+    ],
     "description": "Designed as a basic introductory course in statistical methods for graduate students in mathematics as well as various applied sciences. Topics include descriptive statistics, inference for population means, analysis of variance, nonparametric methods, and linear regression. Studies how to use the computer package SPSS, doing statistical analysis and interpreting computer outputs.",
     "coreqs": [],
     "prereqs": []
@@ -1776,10 +1955,23 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37082" },
       { "term": "202410", "crn": "20513" },
       { "term": "202330", "crn": "39098" }
     ],
     "description": "Focuses on various advanced topics in algebra, the specific subject matter depending on the interests of the instructor and of the students. Topics may include homological algebra, commutative algebra, representation theory, or combinatorial aspects of commutative algebra. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MATH",
+    "number": "7363",
+    "title": "Topics in Algebraic Geometry",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39809" }],
+    "description": "Focuses on various advanced topics in algebraic geometry, the specific subject matter depending on the interests of the instructor and of the students. Topics may include integrable systems, cohomology theory of algebraic schemes, study of singularities, geometric invariant theory, and flag varieties and Schubert varieties. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1824,7 +2016,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39516" }],
+    "sections": [
+      { "term": "202430", "crn": "37476" },
+      { "term": "202330", "crn": "39516" }
+    ],
     "description": "Offers various advanced topics in algebraic and geometric topology, the subject matter depending on the instructor and the students. Topics may include Morse theory, fiber bundles and characteristic classes, topology of complex hypersurfaces, knot theory and low-dimensional topology, K-theory, and rational homotopy theory. May be repeated without limit.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "5121" }]
@@ -2021,6 +2216,11 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40360" },
+      { "term": "202430", "crn": "40361" },
+      { "term": "202430", "crn": "40362" },
+      { "term": "202430", "crn": "40363" },
+      { "term": "202430", "crn": "40364" },
       { "term": "202410", "crn": "21850" },
       { "term": "202360", "crn": "61545" },
       { "term": "202360", "crn": "61628" },
@@ -2042,6 +2242,10 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40365" },
+      { "term": "202430", "crn": "40367" },
+      { "term": "202430", "crn": "40366" },
+      { "term": "202430", "crn": "40359" },
       { "term": "202410", "crn": "20742" },
       { "term": "202410", "crn": "20744" },
       { "term": "202410", "crn": "20746" },

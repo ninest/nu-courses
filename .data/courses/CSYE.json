@@ -7,6 +7,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32578" },
+      { "term": "202430", "crn": "36564" },
+      { "term": "202430", "crn": "36565" },
+      { "term": "202430", "crn": "39491" },
       { "term": "202410", "crn": "12892" },
       { "term": "202410", "crn": "13315" },
       { "term": "202410", "crn": "18409" },
@@ -35,6 +39,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35391" },
+      { "term": "202430", "crn": "35392" },
+      { "term": "202430", "crn": "35395" },
       { "term": "202410", "crn": "15974" },
       { "term": "202410", "crn": "15975" },
       { "term": "202410", "crn": "20976" },
@@ -57,13 +64,20 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31299" },
       { "term": "202410", "crn": "11186" },
       { "term": "202330", "crn": "31421" },
       { "term": "202310", "crn": "11339" }
     ],
     "description": "Designed to build on previous experience in concepts of object-oriented design courses with equal focus in the three areas of architecture, design, and implementation. Instruction and hands-on exercises cover both server-side and client-side web programming. Offers students an opportunity to build a conceptual understanding and to gain practical experience with popular frameworks (Spring MVC, Hibernate, and Dojo or jQuery) that increase productivity, empower developers, and greatly simplify web development. The goal is to be able to build the server side and client side of substantial web-based, client-server, database-intensive, multitier applications.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "CSYE", "number": "6200" },
+      "Or",
+      { "subject": "CSYE", "number": "6202" },
+      "Or",
+      { "subject": "CSYE", "number": "6205" }
+    ]
   },
   {
     "subject": "CSYE",
@@ -73,6 +87,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31933" },
+      { "term": "202430", "crn": "32621" },
+      { "term": "202430", "crn": "32385" },
+      { "term": "202430", "crn": "33353" },
       { "term": "202410", "crn": "13306" },
       { "term": "202410", "crn": "13846" },
       { "term": "202410", "crn": "13209" },
@@ -102,6 +120,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39492" },
+      { "term": "202430", "crn": "32841" },
+      { "term": "202430", "crn": "39493" },
       { "term": "202410", "crn": "13765" },
       { "term": "202410", "crn": "21519" },
       { "term": "202410", "crn": "21475" },
@@ -109,13 +130,7 @@
     ],
     "description": "Covers basic concepts of operating systems and system programming, such as utility programs, subsystems, and multiple-program systems. Main topics include processes, interprocess communication, and synchronization; memory allocation, segmentation, and paging; loading, linking, and libraries; resource allocation, scheduling, and performance evaluation; file systems, storage devices, and I/O systems; and protection, security, and privacy. Emphasizes key concepts through code design and development.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CSYE", "number": "6200" },
-      "Or",
-      { "subject": "INFO", "number": "5100" },
-      "Or",
-      { "subject": "INFO", "number": "5100" }
-    ]
+    "prereqs": [{ "subject": "INFO", "number": "6205" }]
   },
   {
     "subject": "CSYE",
@@ -125,6 +140,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36566" },
       { "term": "202330", "crn": "38560" },
       { "term": "202310", "crn": "21002" }
     ],
@@ -140,6 +156,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33797" },
       { "term": "202410", "crn": "20974" },
       { "term": "202330", "crn": "34411" }
     ],
@@ -190,6 +207,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31932" },
       { "term": "202410", "crn": "12250" },
       { "term": "202330", "crn": "32158" },
       { "term": "202310", "crn": "12519" }
@@ -240,6 +258,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33800" },
+      { "term": "202430", "crn": "36567" },
+      { "term": "202430", "crn": "36568" },
+      { "term": "202430", "crn": "36569" },
+      { "term": "202430", "crn": "38215" },
+      { "term": "202430", "crn": "39494" },
       { "term": "202410", "crn": "14735" },
       { "term": "202410", "crn": "18911" },
       { "term": "202410", "crn": "19819" },
@@ -266,6 +290,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33252" },
       { "term": "202410", "crn": "13795" },
       { "term": "202350", "crn": "52636" },
       { "term": "202330", "crn": "33695" },
@@ -283,6 +308,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32583" },
+      { "term": "202430", "crn": "33507" },
+      { "term": "202430", "crn": "36570" },
+      { "term": "202430", "crn": "36572" },
+      { "term": "202430", "crn": "38174" },
+      { "term": "202430", "crn": "40649" },
       { "term": "202410", "crn": "12893" },
       { "term": "202410", "crn": "13653" },
       { "term": "202410", "crn": "14006" },
@@ -341,6 +372,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40726" },
       { "term": "202410", "crn": "20525" },
       { "term": "202410", "crn": "21608" },
       { "term": "202350", "crn": "51288" },
@@ -353,11 +385,7 @@
     ],
     "description": "Offers topics of current interest in computer systems engineering. May be repeated without limit.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CSYE", "number": "6200" },
-      "Or",
-      { "subject": "INFO", "number": "5100" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CSYE",
@@ -366,7 +394,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "21751" }],
+    "sections": [
+      { "term": "202430", "crn": "39495" },
+      { "term": "202410", "crn": "21751" }
+    ],
     "description": "Covers transformer-based language models (e.g., ChatGPT and Bard); generative image models (e.g., GAN and variational autoencoder); and generative models for structured data (e.g., Bayesian networks). Explores generative models for data of major modalities, namely, textual, image, and structured relational. Offers students an opportunity to learn how to build such models for practical applications in different verticals using Python and numerous publicly available libraries in Keras/TensorFlow and PyTorch. Given recent surges in generative modeling tools, generative modeling technologies and applications are necessary skills for students entering the field of industrial data science.",
     "coreqs": [],
     "prereqs": [{ "subject": "INFO", "number": "6205" }]

@@ -41,6 +41,10 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "32907" },
+      { "term": "202430", "crn": "31388" },
+      { "term": "202430", "crn": "34251" },
+      { "term": "202430", "crn": "40665" },
       { "term": "202410", "crn": "13257" },
       { "term": "202410", "crn": "11065" },
       { "term": "202410", "crn": "15102" },
@@ -90,6 +94,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "36424" },
       { "term": "202410", "crn": "19603" },
       { "term": "202330", "crn": "38410" },
       { "term": "202310", "crn": "11549" }
@@ -106,6 +111,12 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36425" },
+      { "term": "202430", "crn": "31158" },
+      { "term": "202430", "crn": "30009" },
+      { "term": "202430", "crn": "32110" },
+      { "term": "202430", "crn": "36427" },
+      { "term": "202430", "crn": "36428" },
       { "term": "202410", "crn": "10020" },
       { "term": "202410", "crn": "12660" },
       { "term": "202410", "crn": "11738" },
@@ -145,6 +156,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33339" },
       { "term": "202410", "crn": "19696" },
       { "term": "202340", "crn": "41680" },
       { "term": "202330", "crn": "33799" },
@@ -163,6 +175,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "33707" },
       { "term": "202410", "crn": "13650" },
       { "term": "202410", "crn": "20036" },
       { "term": "202330", "crn": "34291" },
@@ -221,6 +234,7 @@
     "credits": 4,
     "nuPath": ["CE"],
     "sections": [
+      { "term": "202430", "crn": "31923" },
       { "term": "202410", "crn": "19613" },
       { "term": "202340", "crn": "42270" },
       { "term": "202330", "crn": "32148" },
@@ -238,6 +252,7 @@
     "credits": 4,
     "nuPath": ["CE"],
     "sections": [
+      { "term": "202430", "crn": "31924" },
       { "term": "202410", "crn": "19614" },
       { "term": "202330", "crn": "32149" }
     ],
@@ -270,7 +285,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "17053" }],
+    "sections": [
+      { "term": "202430", "crn": "39210" },
+      { "term": "202410", "crn": "17053" }
+    ],
     "description": "Introduces students to the generation of real-world evidence (RWE) from real-world data (RWD) collected through different forms of observational health data. Examines how RWE is used to inform regulators and other stakeholder groups in life sciences and healthcare. Emphasizes the role of team science in executing an RWE analysis.",
     "coreqs": [],
     "prereqs": []
@@ -282,7 +300,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20324" }],
+    "sections": [
+      { "term": "202430", "crn": "36442" },
+      { "term": "202410", "crn": "20324" }
+    ],
     "description": "Introduces students to design principles behind data modeling in life sciences and healthcare. Examines and compares approaches to common data models across different research communities. Explores the rationale for popular data models through the use of industry case studies.",
     "coreqs": [],
     "prereqs": []
@@ -294,10 +315,61 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "17057" }],
+    "sections": [
+      { "term": "202430", "crn": "36443" },
+      { "term": "202410", "crn": "17057" }
+    ],
     "description": "Surveys approaches to observational research across pharmacoepidemiology, emphasizing approaches used by the Observational Health Data Sciences and Informatics community.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "HSCI",
+    "number": "5151",
+    "title": "Methods for Observational Research 2",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39659" }],
+    "description": "Examines advanced methods in conducting observational research across pharmacoepidemiology, emphasizing approaches used by the Observational Health Data Sciences and Informatics community. Focuses on using open-source software and open-science principles to conduct and interpret a real-world evidence (RWE) study.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "HSCI", "number": "5150" },
+      "Or",
+      { "subject": "HSCI", "number": "5150" }
+    ]
+  },
+  {
+    "subject": "HSCI",
+    "number": "5160",
+    "title": "Standardization of Real-World Data",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39660" }],
+    "description": "Introduces students to the principles of interoperability protocols in healthcare and life sciences to support clinical data standardization. Explores the process of extract, transform, and load (ETL) in the harmonization of healthcare data. Emphasizes real-world case studies driving current standardization approaches.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "HSCI", "number": "5140" },
+      "Or",
+      { "subject": "HSCI", "number": "5140" }
+    ]
+  },
+  {
+    "subject": "HSCI",
+    "number": "5170",
+    "title": "Data Model Transformation",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39661" }],
+    "description": "Examines the process for transforming data into a common representation that can be used across research environments. Covers the technical and business processes for data model adoption. Establishes the framework for evaluating data quality and the implementation of agile principles in data model release management.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "HSCI", "number": "5140" },
+      "Or",
+      { "subject": "HSCI", "number": "5140" }
+    ]
   },
   {
     "subject": "HSCI",

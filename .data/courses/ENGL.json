@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32948" },
       { "term": "202410", "crn": "12419" },
       { "term": "202330", "crn": "33334" },
       { "term": "202310", "crn": "12723" }
@@ -46,6 +47,8 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [
+      { "term": "202430", "crn": "34895" },
+      { "term": "202430", "crn": "40697" },
       { "term": "202410", "crn": "11272" },
       { "term": "202330", "crn": "35947" },
       { "term": "202310", "crn": "11435" }
@@ -86,6 +89,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "32618" },
       { "term": "202410", "crn": "21128" },
       { "term": "202410", "crn": "12459" },
       { "term": "202330", "crn": "32947" },
@@ -112,7 +116,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202330", "crn": "31907" }],
+    "sections": [
+      { "term": "202430", "crn": "31726" },
+      { "term": "202330", "crn": "31907" }
+    ],
     "description": "Introduces students to research about the histories, theories, and practices informing how people learn to write and how writing is used in home, school, work, and civic contexts. Explores writing and writing instruction in the United States and in international contexts, including the social and political significance of writing in particular cultural contexts with an emphasis on diversity, equity, and inclusion. Class projects emphasize methods such as archival research, case study research, multimodal composing, and community-based writing that invite students to think about their own experiences and practices of other groups.",
     "coreqs": [],
     "prereqs": [
@@ -200,6 +207,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "39075" },
       { "term": "202310", "crn": "19567" },
       { "term": "202310", "crn": "20790" }
     ],
@@ -223,6 +231,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "40698" },
       { "term": "202410", "crn": "20205" },
       { "term": "202330", "crn": "38799" }
     ],
@@ -348,7 +357,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202330", "crn": "39673" }],
+    "sections": [
+      { "term": "202430", "crn": "39076" },
+      { "term": "202330", "crn": "39673" }
+    ],
     "description": "Examines the literature and cultures of postcolonial nations in the Caribbean, Africa, Asia, and elsewhere through the lens of gender. Designed to familiarize students with the relationships between cultural paradigms associated with gender and transnational experiences of colonialism. Focuses on the variety of artistic strategies employed by writers to communicate the impacts of gender and sexuality on contemporary postcolonial themes such as neocolonialism, nationalism, and diaspora. Writers may include Chimamanda Adichie, Nawal El Saadawi, Marjane Satrapi, Bessie Head, Arundhati Roy, Banana Yoshimoto, Sonia Singh, and Dionne Brand.",
     "coreqs": [],
     "prereqs": [
@@ -368,8 +380,31 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202330", "crn": "39321" }],
+    "sections": [
+      { "term": "202430", "crn": "39377" },
+      { "term": "202330", "crn": "39321" }
+    ],
     "description": "Surveys the diversity of American women’s writing to ask what it means to describe writers as disparate as Phillis Wheatley, Edith Wharton, Toni Morrison, and Alison Bechdel as part of the same 'tradition.' With attention to all genres of American women’s writing, introduces issues of race, genre and gender; literary identification; canons; the politics of recuperation; silence and masquerade; gender and sexuality; intersectionality; sexual and literary politics, compulsory heterosexuality, and more.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
+  },
+  {
+    "subject": "ENGL",
+    "number": "2470",
+    "title": "Asian-American Literature",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "IC"],
+    "sections": [{ "term": "202430", "crn": "39077" }],
+    "description": "Introduces students to American writers of Chinese, Japanese, Korean, Filipino, South Asian, and Southeast Asian descent. Focuses on works published since the 1960s. Pays close attention to prevalent themes, sociohistorical contexts, and literary form.",
     "coreqs": [],
     "prereqs": [
       { "subject": "ENGW", "number": "1111" },
@@ -428,7 +463,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "SI"],
-    "sections": [{ "term": "202330", "crn": "38800" }],
+    "sections": [
+      { "term": "202430", "crn": "36797" },
+      { "term": "202330", "crn": "38800" }
+    ],
     "description": "Explores the history, development, and roles of academic and popular science writing, beginning with a critical examination of the origins of scientific genres. Students describe, define, and contextualize science writing genres. Reviews the ethical foundations and problems of current scientific genres. Offers students an opportunity to participate in the global dissemination of scientific knowledge and knowledge creation through a variety of writing assignments.",
     "coreqs": [],
     "prereqs": []
@@ -461,6 +499,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "33282" },
       { "term": "202410", "crn": "19956" },
       { "term": "202360", "crn": "60436" },
       { "term": "202360", "crn": "60889" },
@@ -492,6 +531,7 @@
     "credits": 4,
     "nuPath": ["EI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "39078" },
       { "term": "202410", "crn": "20206" },
       { "term": "202310", "crn": "16555" },
       { "term": "202310", "crn": "21050" }
@@ -515,7 +555,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI", "WI"],
-    "sections": [{ "term": "202330", "crn": "38801" }],
+    "sections": [
+      { "term": "202430", "crn": "36798" },
+      { "term": "202330", "crn": "38801" }
+    ],
     "description": "Explores the ways in which composing processes and meaning are impacted when writing moves from material media (e.g., print, images, voice, and performance) to digital media (e.g., hypertexts, digital stories, and videos). Readings cover aspects of digital writing as semiotic (e.g., domains of meaning, mode, materiality, delivery, ensembles of meaning) and draw on theories of multimodality to explore digital remediations of writing. Culminates in an electronic portfolio and collective exhibit.",
     "coreqs": [],
     "prereqs": [
@@ -535,7 +578,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC", "WI"],
-    "sections": [{ "term": "202310", "crn": "14865" }],
+    "sections": [
+      { "term": "202430", "crn": "39079" },
+      { "term": "202310", "crn": "14865" }
+    ],
     "description": "Explores the various ways that linguistic diversity shapes our everyday, academic, and professional lives. Offers students an opportunity to learn about language policy, the changing place of World English in globalization, and what contemporary theories of linguistic diversity, such as translingualism, mean for writing. Invites students to explore their own multilingual communities or histories through empirical or archival research.",
     "coreqs": [],
     "prereqs": [
@@ -622,7 +668,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC"],
-    "sections": [{ "term": "202310", "crn": "19570" }],
+    "sections": [
+      { "term": "202430", "crn": "39080" },
+      { "term": "202310", "crn": "19570" }
+    ],
     "description": "The idea and ideals of love and romance in contemporary American (and English) culture have been shaped by a number of literary texts from the medieval period: the story of King Arthur, Guinevere, and Lancelot is the best known. Medieval readers loved reading about unrequited love and romantic triangles—and apparently, so do we. In fact, in “Dreaming the Middle Ages,” Umberto Eco argues that the history of the notion of love as “a devastating unhappy happiness” is rooted in the Middle Ages—this notion still has traction today, as John Cusack’s hapless character in High Fidelity (2000), Rob Gordon, demonstrates when he says:\nWhat came first? The music or the misery? People worry about kids playing with guns, or watching violent videos, that some sort of cultural violence will take them over. Nobody worries about kids listening to thousands of songs, literally thousands of songs, about heartbreak, rejection, pain, misery, and loss. Did I listen to pop music because I was miserable, or was I miserable because I listened to pop music?\nThus Rob riffs on Oscar Wilde’s famous statement, “Life imitates Art far more than Art imitates Life.” We shall discuss! We’ll read a number of medieval romances and pair them with modern written retellings and films set in the Middle Ages. We’ll explore representations of love, romance, and sexual desire, and study how romances construct masculinity and femininity and attempt to confirm heteronormativity as the ideal—and also how romances, medieval and modern, also have the power to destabilize the binaries of masculine and feminine as well as disrupt the heteronormative. Requirements: a Reading Journal and two papers, one due at midpoint and one at the end of class.",
     "coreqs": [],
     "prereqs": [
@@ -642,7 +691,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20333" }],
+    "sections": [
+      { "term": "202430", "crn": "40734" },
+      { "term": "202410", "crn": "20333" }
+    ],
     "description": "Focuses on a particular topic in 17th- or 18th-century British or American literature, such as women and the novel or the captivity narrative.",
     "coreqs": [],
     "prereqs": [
@@ -702,7 +754,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC"],
-    "sections": [{ "term": "202330", "crn": "34362" }],
+    "sections": [
+      { "term": "202430", "crn": "33761" },
+      { "term": "202330", "crn": "34362" }
+    ],
     "description": "Introduces students to the persuasive work of legal texts, procedures, and institutions. Investigates the range of critical approaches to the study of law and rhetoric, as well as the implications of understanding law as rhetorical. Draws on texts produced by lawyers and judges, classical rhetoricians, contemporary rhetorical critics, and legal scholars.",
     "coreqs": [],
     "prereqs": [
@@ -722,7 +777,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD", "EI", "EX"],
-    "sections": [{ "term": "202310", "crn": "19572" }],
+    "sections": [
+      { "term": "202430", "crn": "39082" },
+      { "term": "202310", "crn": "19572" }
+    ],
     "description": "Examines innovations that have reshaped how humans share information, e.g., the alphabet, the book, the printing press, the postal system, the computer. Focuses on debates over privacy, memory, intellectual property, and textual authority that have historically accompanied the rise of new media forms and genres. Offers students an opportunity to gain skills for working with texts using the rapidly changing tools of the present, e.g., geographic information systems, data mining, textual analysis.",
     "coreqs": [],
     "prereqs": [
@@ -763,6 +821,7 @@
     "credits": 4,
     "nuPath": ["EI", "EX", "IC", "WI"],
     "sections": [
+      { "term": "202430", "crn": "36800" },
       { "term": "202410", "crn": "17427" },
       { "term": "202340", "crn": "41654" },
       { "term": "202330", "crn": "38803" },
@@ -789,6 +848,7 @@
     "credits": 4,
     "nuPath": ["EI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "37251" },
       { "term": "202410", "crn": "17202" },
       { "term": "202330", "crn": "39282" },
       { "term": "202310", "crn": "19573" }
@@ -813,6 +873,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "37252" },
       { "term": "202410", "crn": "19957" },
       { "term": "202330", "crn": "38804" },
       { "term": "202330", "crn": "39283" }
@@ -838,6 +899,26 @@
     "nuPath": ["EI"],
     "sections": [{ "term": "202410", "crn": "20363" }],
     "description": "Offers an advanced workshop in writing and reading original fiction. Features in-class discussion of student work.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" }
+    ]
+  },
+  {
+    "subject": "ENGL",
+    "number": "3380",
+    "title": "Nature Writing",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["EI", "WI"],
+    "sections": [{ "term": "202430", "crn": "39083" }],
+    "description": "Offers writers an opportunity to hone their skills in a workshop focused on a particular topic or form, such as advocacy writing, public policy writing, autobiography and memoir, rhetoric for writers, speculative fiction, or screenwriting.",
     "coreqs": [],
     "prereqs": [
       { "subject": "ENGL", "number": "1102" },
@@ -879,7 +960,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["EX", "IC", "WI"],
-    "sections": [{ "term": "202330", "crn": "38805" }],
+    "sections": [
+      { "term": "202430", "crn": "36802" },
+      { "term": "202330", "crn": "38805" }
+    ],
     "description": "Introduces students to the rich archival holdings in the greater Boston area, as well as to online archives. Offers students an opportunity to obtain training in the materials and methods of primary source research. Primary materials include a wide range of resources, including books, manuscripts, letters, pamphlets, broadsides, journals, maps, illustrations, and photographs. May focus on Shakespeare’s archive, archives for social justice, literary uses of archives, queer archives, people of color in the archive, or other themes.",
     "coreqs": [],
     "prereqs": [
@@ -925,6 +1009,26 @@
     "nuPath": [],
     "sections": [{ "term": "202410", "crn": "19958" }],
     "description": "Focuses on Ralph Waldo Emerson and Henry David Thoreau, two major American Romantic writers whose ideas about the individual, spirituality, nature, and politics have had a wide-ranging impact on American culture. Readings include essays, poetry, and journals by these two Massachusetts-based authors.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
+  },
+  {
+    "subject": "ENGL",
+    "number": "3700",
+    "title": "Narrative Medicine",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["IC"],
+    "sections": [{ "term": "202430", "crn": "39084" }],
+    "description": "Introduces students to the field of narrative medicine, which explores literary analysis as a set of tools for medical practice. Offers students an opportunity to develop close reading and analytical skills that are useful for improving doctor-patient relationships and patient care. Requires students to complete essays that cultivate these skills.",
     "coreqs": [],
     "prereqs": [
       { "subject": "ENGW", "number": "1111" },
@@ -996,6 +1100,9 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "33058" },
+      { "term": "202430", "crn": "35449" },
+      { "term": "202430", "crn": "40699" },
       { "term": "202410", "crn": "10288" },
       { "term": "202330", "crn": "33460" },
       { "term": "202330", "crn": "36914" },
@@ -1122,6 +1229,12 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37716" },
+      { "term": "202430", "crn": "38134" },
+      { "term": "202430", "crn": "38271" },
+      { "term": "202430", "crn": "38469" },
+      { "term": "202430", "crn": "38581" },
+      { "term": "202430", "crn": "38652" },
       { "term": "202360", "crn": "61576" },
       { "term": "202330", "crn": "39796" },
       { "term": "202330", "crn": "40222" },
@@ -1210,7 +1323,11 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "16624" }],
+    "sections": [
+      { "term": "202430", "crn": "39085" },
+      { "term": "202430", "crn": "39086" },
+      { "term": "202310", "crn": "16624" }
+    ],
     "description": "Topics in Literary Study - Trauma, Memory, and Contemporary Literature: This course explores how contemporary literature addresses itself to trauma, and the practice and process of memory.  How does contemporary literature express trauma, and how has it been shaped by it? Across a range of genres—and including works about racism, illness, slavery, the Holocaust, and recent wars—we will examine how literary-artistic form can express, conceptualize, and hold the knowledge of trauma, whether in novels, graphic novels, memoir, poetry, or film. We will also look closely the question of the function and role of memory in literature, thinking about collective and cultural memory, in addition to anchoring ourselves in contemporary theories of trauma and event.  Recent controversial public writing (as by Parul Sehgal on trauma and Philip Gourevitch on the value of memory) will also be considered.  Works may include novels such as Morrison’s Beloved, Coetzee’s Disgrace, Hemon’s The Lazarus Project, and Saunders’s Lincoln in the Bardo; graphic novels such as Spiegelman’s Maus, Sacco’s The Fixer, Martínez and Hall’s Wake, and Czerwiec’s Taking Turns; experimental poetry by Juliana Spahr and Claudia Rankine, and film such as Alain Resnais’s Hiroshima Mon Amour.",
     "coreqs": [],
     "prereqs": []
@@ -1237,7 +1354,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36601" }],
+    "sections": [
+      { "term": "202430", "crn": "35255" },
+      { "term": "202330", "crn": "36601" }
+    ],
     "description": "Examines such subjects as literature and the visual arts, literature and psychology, and literary impressionism. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1291,7 +1411,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38808" }],
+    "sections": [
+      { "term": "202430", "crn": "36804" },
+      { "term": "202330", "crn": "38808" }
+    ],
     "description": "Engages MA and PhD students in the theory, practice, and praxis of teaching writing at the university level, drawing on recent scholarship in rhetoric and writing studies. Explores theories and practices regarding the nature of written expression; the role of diversity, inclusion, and equity in writing instruction; the research on how people learn to write and how that writing might be assessed; the historical contexts for required writing in U.S. higher education; the nature of multimodal composing; and the environments and activities that best help students learn writing.",
     "coreqs": [],
     "prereqs": []
@@ -1304,6 +1427,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34897" },
       { "term": "202410", "crn": "17349" },
       { "term": "202330", "crn": "35957" },
       { "term": "202310", "crn": "19749" }
@@ -1335,6 +1459,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37715" },
+      { "term": "202430", "crn": "38199" },
+      { "term": "202430", "crn": "38200" },
+      { "term": "202430", "crn": "38408" },
       { "term": "202410", "crn": "17944" },
       { "term": "202330", "crn": "39795" },
       { "term": "202330", "crn": "40288" },
@@ -1356,6 +1484,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37506" },
       { "term": "202330", "crn": "39546" },
       { "term": "202310", "crn": "20190" }
     ],
@@ -1386,6 +1515,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33519" },
       { "term": "202410", "crn": "10691" },
       { "term": "202350", "crn": "50815" },
       { "term": "202330", "crn": "34043" },
@@ -1415,6 +1545,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33764" },
+      { "term": "202430", "crn": "33763" },
+      { "term": "202430", "crn": "38158" },
       { "term": "202410", "crn": "15624" },
       { "term": "202410", "crn": "21362" },
       { "term": "202350", "crn": "51339" },
@@ -1437,6 +1570,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36866" },
+      { "term": "202430", "crn": "40471" },
       { "term": "202350", "crn": "52830" },
       { "term": "202350", "crn": "53308" },
       { "term": "202330", "crn": "38870" },
@@ -1473,6 +1608,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33408" },
+      { "term": "202430", "crn": "36806" },
+      { "term": "202430", "crn": "38608" },
       { "term": "202410", "crn": "14386" },
       { "term": "202410", "crn": "11685" },
       { "term": "202410", "crn": "21363" },

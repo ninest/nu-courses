@@ -7,6 +7,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30279" },
       { "term": "202410", "crn": "17272" },
       { "term": "202330", "crn": "30286" },
       { "term": "202310", "crn": "19667" }
@@ -14,9 +15,9 @@
     "description": "Continues MUSI 1203. Examines the role and function of various musical elements by analyzing examples from popular music. Examines structure, lyrics, and instrumentation in popular music. Offers students an opportunity to further develop ear training and sight-singing skills.",
     "coreqs": [],
     "prereqs": [
-      { "subject": "MUSI", "number": "1203" },
+      { "subject": "MUSC", "number": "1201" },
       "Or",
-      { "subject": "MUSC", "number": "1201" }
+      { "subject": "MUSI", "number": "1203" }
     ]
   },
   {
@@ -27,6 +28,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32120" },
+      { "term": "202430", "crn": "37001" },
       { "term": "202410", "crn": "14210" },
       { "term": "202410", "crn": "17273" },
       { "term": "202410", "crn": "17274" },
@@ -47,7 +50,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI"],
-    "sections": [{ "term": "202310", "crn": "19670" }],
+    "sections": [
+      { "term": "202430", "crn": "39353" },
+      { "term": "202310", "crn": "19670" }
+    ],
     "description": "Offers students an opportunity to learn the necessary techniques to utilize current Musical Instrument Digital Interface (MIDI) and audio technology in the production of professional-quality song demos, including intermediate to advanced skills and concepts of MIDI, synthesis, multitrack recording, mixing, and sound processing. Covers musical approaches to the effective assembly and arranging of sound materials using professional digital audio workstations (DAWs). Focuses on techniques to import and export both MIDI and audio data to greater facilitate collaboration within the virtual classroom as well as using external collaborators (across a variety of DAWs and platforms). Songwriting skills are also critiqued.",
     "coreqs": [],
     "prereqs": []
@@ -75,6 +81,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30276" },
+      { "term": "202430", "crn": "33056" },
       { "term": "202410", "crn": "10373" },
       { "term": "202410", "crn": "11212" },
       { "term": "202340", "crn": "40103" },
@@ -109,7 +117,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["SI"],
-    "sections": [{ "term": "202310", "crn": "19674" }],
+    "sections": [
+      { "term": "202430", "crn": "39355" },
+      { "term": "202310", "crn": "19674" }
+    ],
     "description": "Explores the balance of interests at the heart of copyright law, including enhancing the public interest, supporting innovation, and protecting private property rights. Offers students an opportunity to gain an appreciation of the significance of copyright in the structure, operation, and customs of the creative industries. Focuses on the unique character of music-related copyright issues and addresses the music industries’ outsized impact on the development of copyright policy in the United States.",
     "coreqs": [],
     "prereqs": []
@@ -134,6 +145,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "30275" },
       { "term": "202410", "crn": "11305" },
       { "term": "202330", "crn": "30282" },
       { "term": "202310", "crn": "11472" },
@@ -189,7 +201,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19676" }],
+    "sections": [
+      { "term": "202430", "crn": "39356" },
+      { "term": "202310", "crn": "19676" }
+    ],
     "description": "Provides an in-depth investigation of the field of musical artist management. Explores the artist-manager relationship, the management contract, artist evaluation, image formulation, the artist's development team, achieving a recording contract, merchandising, endorsements, sponsorships, touring, and financial management.",
     "coreqs": [],
     "prereqs": [{ "subject": "MUSI", "number": "1230" }]
@@ -228,7 +243,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD", "EI"],
-    "sections": [{ "term": "202310", "crn": "19677" }],
+    "sections": [
+      { "term": "202430", "crn": "39357" },
+      { "term": "202310", "crn": "19677" }
+    ],
     "description": "Provides an in-depth exploration of the principles and practices of concert promotion and venue management. Focuses on areas such as concert promotion, venue advertising, talent buying, contractual requirements, insurance, government regulation, American Society of Composers, Authors, and Publishers (ASCAP)/BMI licenses, personnel management, and concert production and administration.",
     "coreqs": [],
     "prereqs": [{ "subject": "MUSI", "number": "1230" }]
@@ -241,6 +259,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "34002" },
       { "term": "202410", "crn": "12104" },
       { "term": "202330", "crn": "34647" },
       { "term": "202310", "crn": "12365" }
@@ -271,7 +290,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202310", "crn": "19678" }],
+    "sections": [
+      { "term": "202430", "crn": "39358" },
+      { "term": "202310", "crn": "19678" }
+    ],
     "description": "Offers students an opportunity to obtain the cultural curiosity and adaptive dexterity needed to analyze diverse global music industries in their historical, cultural, economic, and political contexts. Through the labels, scenes, and digital spaces that form the professional settings for today’s global music professionals—explored in course readings, creative case studies, and summative research projects—identifies the many ways in which diverse industries consolidate music production, distribution, and consumption. Students encounter and analyze diverse professional practices and creative products and critique music’s value—financial, social, political, ideological, and personal. In addition, students practice critical reading and observation and identify traditions within the social sciences and cultural criticism that provide valuable theoretical lenses for the interpretation of global music industries in context.",
     "coreqs": [],
     "prereqs": [{ "subject": "MUSI", "number": "1230" }]
@@ -299,6 +321,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39359" },
+      { "term": "202430", "crn": "39360" },
+      { "term": "202430", "crn": "39361" },
       { "term": "202330", "crn": "39019" },
       { "term": "202310", "crn": "20082" },
       { "term": "202240", "crn": "41088" }
@@ -337,6 +362,7 @@
     "credits": 4,
     "nuPath": ["CE", "SI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "37007" },
       { "term": "202410", "crn": "17282" },
       { "term": "202330", "crn": "39020" },
       { "term": "202310", "crn": "19679" }
@@ -365,6 +391,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38715" },
       { "term": "202330", "crn": "40834" },
       { "term": "202310", "crn": "21678" },
       { "term": "202310", "crn": "21808" }

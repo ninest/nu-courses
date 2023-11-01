@@ -5,8 +5,12 @@
     "title": "Introduction to Mindfulness",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": ["IC", "EX"],
+    "nuPath": ["EX", "IC"],
     "sections": [
+      { "term": "202430", "crn": "33820" },
+      { "term": "202430", "crn": "35518" },
+      { "term": "202430", "crn": "39631" },
+      { "term": "202430", "crn": "40633" },
       { "term": "202410", "crn": "13960" },
       { "term": "202410", "crn": "16347" },
       { "term": "202410", "crn": "19672" },
@@ -27,6 +31,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34664" },
+      { "term": "202430", "crn": "35558" },
+      { "term": "202430", "crn": "39099" },
       { "term": "202410", "crn": "15266" },
       { "term": "202410", "crn": "17850" },
       { "term": "202360", "crn": "61398" },
@@ -48,6 +55,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36666" },
       { "term": "202410", "crn": "13612" },
       { "term": "202330", "crn": "38660" },
       { "term": "202310", "crn": "14114" }
@@ -64,6 +72,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33821" },
+      { "term": "202430", "crn": "39100" },
       { "term": "202410", "crn": "16348" },
       { "term": "202410", "crn": "17851" },
       { "term": "202330", "crn": "34438" },
@@ -93,7 +103,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD"],
-    "sections": [{ "term": "202330", "crn": "38661" }],
+    "sections": [
+      { "term": "202430", "crn": "36667" },
+      { "term": "202330", "crn": "38661" }
+    ],
     "description": "Introduces students to Adverse Childhood Experiences (ACE) and their prevalence in the childhoods of certain college student populations. Examines how these potentially traumatic events that occur during the ages of 0–17 are linked to chronic health problems, mental illness, and substance misuse in adulthood. Studies how the manifestation of ACE during the college years has implications for student development theory application and administration of services and programs on campuses, as well as ACE’s impact on education, job opportunities, and college student degree attainment. Explores the classifications of ACE—pandemic, natural disaster, terrorist attack, or racial and social injustice—and the possible implications of living through, making life adjustments, or absorbing constant media coverage as a result of these experiences.",
     "coreqs": [],
     "prereqs": []
@@ -105,7 +118,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD"],
-    "sections": [],
+    "sections": [{ "term": "202430", "crn": "40475" }],
     "description": "Explores the impact of the Black Power movement on American colleges and universities. Examines the history of the movement and its relationship to the civil rights movement and the various impacts of Black Power on contemporary higher education. Traces how the movement led to distinct ideologies, scholarship, practices, and terminology that provided new lenses through which institutions of higher education viewed Negroes in terms of the preservation, transmittal, and enrichment of their culture by means of instruction and scholarly and scientific work. Explores Negro college students’ adoption of a Black identity and making demands on campuses that manifested in curricula, programs, and services that represented this identity.",
     "coreqs": [],
     "prereqs": []
@@ -118,6 +131,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30215" },
       { "term": "202410", "crn": "10176" },
       { "term": "202330", "crn": "30221" }
     ],
@@ -133,11 +147,24 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30179" },
       { "term": "202410", "crn": "10175" },
       { "term": "202330", "crn": "30183" },
       { "term": "202310", "crn": "10183" }
     ],
     "description": "Explores those characteristics that constitute a mentally healthy person, factors in society that impact emotional health, the mind-body relationship, stress, and ways to achieve a higher level of emotional well-being. Offers students the opportunity to work in triads, small groups, and large group discussions. Role-play is utilized where appropriate. Requires prior completion of one introductory social science course.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CAEP",
+    "number": "4525",
+    "title": "Introduction to Professional Psychology",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40742" }],
+    "description": "Offers students an opportunity to gain an understanding of the roles and functions psychologists have in different work settings and how psychological theory, techniques, and research can be applied in real-world situations. Studies the several different areas of professional psychology, including counseling psychology, school psychology, clinical psychology, early intervention, applied behavior analysis, and organizational psychology. Students also have an opportunity to learn how to prepare themselves for graduate school and how to put together an application to graduate school programs. Intended for students considering graduate study in psychology or allied disciplines.",
     "coreqs": [],
     "prereqs": []
   },
@@ -180,7 +207,11 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33474" }],
+    "sections": [
+      { "term": "202430", "crn": "33070" },
+      { "term": "202430", "crn": "39101" },
+      { "term": "202330", "crn": "33474" }
+    ],
     "description": "Covers assessment models and the multidomain tests used in early intervention. Students become familiar with informal and formal instruments used in different areas including cognition speech and language, motor, and social/emotional domains. Explains the process and responsibilities for the writing of individualized service plans (ISPs), as well as variety of intervention models, methods, and strategies to be implemented in natural environments. Is taught by professors drawn from special education, speech-language pathology, counseling psychology, nursing, and physical therapy. Students participate in Northeastern’s Global Early Intervention Network.",
     "coreqs": [],
     "prereqs": []
@@ -218,6 +249,18 @@
     "nuPath": [],
     "sections": [],
     "description": "Introduces the field of pediatric psychology, which studies the role of psychology in health, illness, and healthcare among children and adolescents. Reviews various psychological, emotional, and behavioral factors associated with onset, course, and management of specific pediatric illnesses. Explores related evidence-based prevention and treatment interventions.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CAEP",
+    "number": "5879",
+    "title": "Trauma and Mental Health",
+    "scheduleType": "Seminar",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39103" }],
+    "description": "Introduces the foundations of trauma theory to offer students a trauma-sensitive perspective to the continuum of practice from policy making to direct client service. Reviews the neurophysiology of trauma. Examines causative factors and evidence-based treatments of trauma-related mental health issues (e.g., PTSD). Reviews current theory and research on topical areas related to trauma including intimate partner violence, child abuse, sexual assault, school and community violence, war and terrorism, and other emerging trauma issues.",
     "coreqs": [],
     "prereqs": []
   },
@@ -262,7 +305,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33342" }],
+    "sections": [
+      { "term": "202430", "crn": "32954" },
+      { "term": "202330", "crn": "33342" }
+    ],
     "description": "Introduces topics in research and evaluation from a consumer perspective. Covers types of research studies and methodologies, philosophical bases for perspectives, research design, evaluation and outcomes assessment, data analysis techniques, clinical and qualitative approaches, and interpretation of research findings.",
     "coreqs": [],
     "prereqs": []
@@ -275,6 +321,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30696" },
+      { "term": "202430", "crn": "30566" },
+      { "term": "202430", "crn": "39104" },
       { "term": "202330", "crn": "30740" },
       { "term": "202330", "crn": "30586" }
     ],
@@ -335,7 +384,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32901" }],
+    "sections": [
+      { "term": "202430", "crn": "32579" },
+      { "term": "202330", "crn": "32901" }
+    ],
     "description": "Designed for the twenty-first century and the critical issues that have evolved in the field. Includes current information on issues in human sexuality (and acts as a forum for the discussion of current trends), which may include HIV/AIDS, abortion, ethics and morality in genetic engineering, sex education in the school and home, teen sexuality and pregnancy, personal behaviors, social aspects of acquaintance rape, early sexual experiences, divorce, and remarriage. Allows for the development of counseling skills needed to deal with various issues.",
     "coreqs": [],
     "prereqs": []
@@ -363,7 +415,11 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30616" }],
+    "sections": [
+      { "term": "202430", "crn": "30592" },
+      { "term": "202430", "crn": "39105" },
+      { "term": "202330", "crn": "30616" }
+    ],
     "description": "Identifies categories of human difficulty and abnormal behavior through current DSM terminology. Is based in a cultural and gender competent bio-psycho-social model over the life span. Discusses both preventive and individual interventions for each category. Also introduces treatment planning and treatment guidelines.",
     "coreqs": [],
     "prereqs": [{ "subject": "CAEP", "number": "6200" }]
@@ -375,7 +431,11 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30739" }],
+    "sections": [
+      { "term": "202430", "crn": "30695" },
+      { "term": "202430", "crn": "39106" },
+      { "term": "202330", "crn": "30739" }
+    ],
     "description": "Covers DSM-IV and major forms of psychopathology including the neuroses (obsessional states, hysteria, anxiety states, and phobias), the pyschoses (schizophrenia, mania, depression, and paranoia), psychosomatic, sociopathy, conduct disorders, organic disorders, and mental retardation. Discusses the relationship between categories of special education disabilities (emotional impairment, autism, and so on) and DSM-IV.",
     "coreqs": [],
     "prereqs": []
@@ -403,7 +463,11 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30780" }],
+    "sections": [
+      { "term": "202430", "crn": "30733" },
+      { "term": "202430", "crn": "40228" },
+      { "term": "202330", "crn": "30780" }
+    ],
     "description": "Addresses organizational and systems impact, stressors, and change efforts. Draws from the community, consultation, organizational, prevention, and social psychology literature. Considers understanding of health promotion in social and institutional contexts. Also explores crisis, coping, and social change.",
     "coreqs": [],
     "prereqs": []
@@ -462,6 +526,11 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31242" },
+      { "term": "202430", "crn": "34486" },
+      { "term": "202430", "crn": "34665" },
+      { "term": "202430", "crn": "34666" },
+      { "term": "202430", "crn": "39107" },
       { "term": "202330", "crn": "31349" },
       { "term": "202330", "crn": "35301" },
       { "term": "202330", "crn": "35579" },
@@ -479,6 +548,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31532" },
+      { "term": "202430", "crn": "32296" },
       { "term": "202350", "crn": "50747" },
       { "term": "202330", "crn": "31692" },
       { "term": "202330", "crn": "32549" }
@@ -495,6 +566,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33294" },
       { "term": "202410", "crn": "13633" },
       { "term": "202410", "crn": "13634" },
       { "term": "202410", "crn": "21724" },
@@ -514,6 +586,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31321" },
+      { "term": "202430", "crn": "33295" },
+      { "term": "202430", "crn": "39108" },
       { "term": "202350", "crn": "50768" },
       { "term": "202330", "crn": "31446" },
       { "term": "202330", "crn": "33745" }
@@ -546,6 +621,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31322" },
+      { "term": "202430", "crn": "33060" },
       { "term": "202350", "crn": "50611" },
       { "term": "202350", "crn": "51671" },
       { "term": "202330", "crn": "31447" },
@@ -563,6 +640,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37486" },
+      { "term": "202430", "crn": "39109" },
       { "term": "202410", "crn": "13574" },
       { "term": "202410", "crn": "13575" },
       { "term": "202410", "crn": "21466" },
@@ -615,6 +694,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32541" },
       { "term": "202410", "crn": "11989" },
       { "term": "202330", "crn": "32855" },
       { "term": "202310", "crn": "12228" },
@@ -659,6 +739,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33822" },
       { "term": "202410", "crn": "11637" },
       { "term": "202410", "crn": "11990" },
       { "term": "202330", "crn": "34439" },
@@ -677,6 +758,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33823" },
+      { "term": "202430", "crn": "33824" },
       { "term": "202350", "crn": "50769" },
       { "term": "202330", "crn": "34440" },
       { "term": "202330", "crn": "34441" }
@@ -716,6 +799,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36669" },
+      { "term": "202430", "crn": "30933" },
       { "term": "202330", "crn": "38663" },
       { "term": "202330", "crn": "30997" }
     ],
@@ -746,6 +831,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34667" },
+      { "term": "202430", "crn": "34668" },
+      { "term": "202430", "crn": "39110" },
       { "term": "202330", "crn": "35581" },
       { "term": "202330", "crn": "35582" }
     ],
@@ -809,13 +897,16 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32163" },
+      { "term": "202430", "crn": "34669" },
+      { "term": "202430", "crn": "37475" },
       { "term": "202330", "crn": "32411" },
       { "term": "202330", "crn": "35583" },
       { "term": "202330", "crn": "39515" }
     ],
     "description": "Overviews different consultation theories including behavioral, psychodynamic, and systems perspectives. Offers a focus on skill development with respect to a broad-based and pragmatic approach to client-centered behavioral consultation. Uses computer networks and e-mail in client-centered and peer consultation. Offers evaluation of the implementation and outcomes of consultation and related service delivery programs.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "CAEP", "number": "6347" }]
   },
   {
     "subject": "CAEP",
@@ -839,7 +930,11 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32068" }],
+    "sections": [
+      { "term": "202430", "crn": "31858" },
+      { "term": "202430", "crn": "39111" },
+      { "term": "202330", "crn": "32068" }
+    ],
     "description": "Covers use, abuse, and treatment of both legal and illegal psychoactive drug agents. Includes an introduction to psychotropic medications, overview of illicit substance use, differential substance abuse, interventions and treatment, and related social issues.",
     "coreqs": [],
     "prereqs": [{ "subject": "CAEP", "number": "6200" }]
@@ -946,6 +1041,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32164" },
+      { "term": "202430", "crn": "36670" },
       { "term": "202330", "crn": "32412" },
       { "term": "202330", "crn": "38664" }
     ],
@@ -961,6 +1058,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35458" },
       { "term": "202410", "crn": "15825" },
       { "term": "202340", "crn": "41465" },
       { "term": "202330", "crn": "36927" },
@@ -979,6 +1077,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30865" },
       { "term": "202410", "crn": "10867" },
       { "term": "202330", "crn": "30919" },
       { "term": "202310", "crn": "10970" }
@@ -989,12 +1088,27 @@
   },
   {
     "subject": "CAEP",
+    "number": "7702",
+    "title": "Scholarship, Teaching, and Leadership in Applied Psychology",
+    "scheduleType": "Seminar",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40743" }],
+    "description": "Studies teaching, scholarship, and leadership within a system of higher education. Explores how teaching and scholarship are related to tenure and promotion processes. Considers ethical issues that arise in university settings (e.g., human subject protection, academic integrity). Offers students an opportunity to develop a research agenda and engage in the peer review process as an author and reviewer, as well as practice using various teaching philosophies, course development, and delivery. Contemplates university and professional leadership positions within the field of applied psychology.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CAEP",
     "number": "7710",
     "title": "Advanced Clinical Assessment",
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33747" }],
+    "sections": [
+      { "term": "202430", "crn": "33296" },
+      { "term": "202330", "crn": "33747" }
+    ],
     "description": "Covers contemporary cognitive and personality testing as used in a variety of practice settings. Covers such areas as pain management, risk assessment, and learning styles. PhD students only.",
     "coreqs": [],
     "prereqs": []
@@ -1036,7 +1150,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202340", "crn": "41949" }],
+    "sections": [
+      { "term": "202430", "crn": "33825" },
+      { "term": "202340", "crn": "41949" }
+    ],
     "description": "Investigates techniques and models for exploring research questions and testing hypotheses developed in the first semester. Explores structural and advanced correlational models using linear and nonlinear approaches, multivariate data analysis, psychometric statistical theory and techniques, and qualitative inquiry. Requires considerable hands-on experience with real data sets. Explores qualitative and methodological approaches to ecological analysis of systems and contexts. Requires students to do problems on the computer and/or by hand using data sets assigned in class. Utilizes SPSS and other computer analysis packages including graphic methods of depicting data. Also covers specialized applications (text analysis software, survey design and scoring software, or specialized graphing programs). Students do projects, prepare reports of an analysis from the data set, and turn in a written report in APA format suitable for publication.",
     "coreqs": [],
     "prereqs": []
@@ -1048,7 +1165,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30781" }],
+    "sections": [
+      { "term": "202430", "crn": "30734" },
+      { "term": "202330", "crn": "30781" }
+    ],
     "description": "Considers assessment and intervention from an ecological/systems perspective on a case-by-case basis. Uses individual, group, family, organizational, and community modalities. Emphasizes case conceptualization as a framework for treatment planning and evaluation. Emphasis is on impact of social systems and sociocultural factors. Restricted to PhD students with previous work in group and family counseling.",
     "coreqs": [],
     "prereqs": []
@@ -1060,7 +1180,10 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30733" }],
+    "sections": [
+      { "term": "202430", "crn": "30689" },
+      { "term": "202330", "crn": "30733" }
+    ],
     "description": "Designed to provide a systematic orientation to the ethical and professional issues faced by mental health practitioners in their teaching, research, and practice in a seminar setting. Addresses APA ethical guidelines, legal aspects of psychological practice including licensing, confidentiality in practice and research, historical perspective, supervision and training issues, and current topics of professional concern in counseling and school psychology practice. Considers relevant court decisions affecting psychological practice with children, adults, and family.",
     "coreqs": [],
     "prereqs": []
@@ -1091,6 +1214,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30688" },
+      { "term": "202430", "crn": "31060" },
       { "term": "202340", "crn": "42150" },
       { "term": "202330", "crn": "30732" },
       { "term": "202330", "crn": "31144" }
@@ -1130,6 +1255,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30687" },
+      { "term": "202430", "crn": "31061" },
       { "term": "202340", "crn": "42151" },
       { "term": "202350", "crn": "53345" },
       { "term": "202330", "crn": "30731" },
@@ -1182,7 +1309,10 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30730" }],
+    "sections": [
+      { "term": "202430", "crn": "30686" },
+      { "term": "202330", "crn": "30730" }
+    ],
     "description": "Offers a critical examination from an ecological/systems perspective of conceptual developmental and clinical elements of contemporary psychotherapy theories. Emphasis is on object relations, social constructionist, and constructivist theories of personality and therapeutic change. Includes selected theoretical and research readings, lectures in student-led discussion. Evaluates critical issues and future directions of contemporary theoretical schools and considers varied approaches to case examples. The different theoretical approaches are examined through the lenses of gender, class, and cultural adequacy. Restricted to PhD students.",
     "coreqs": [],
     "prereqs": []
@@ -1195,12 +1325,25 @@
     "credits": 0.5,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31610" },
       { "term": "202410", "crn": "10619" },
       { "term": "202350", "crn": "50343" },
       { "term": "202330", "crn": "31778" },
       { "term": "202310", "crn": "10680" }
     ],
     "description": "Required of all doctoral students in counseling/school psychology PhD programs. Requires a minimum of forty hours per week for twelve months or twenty hours per week for twenty-four months in an accredited (or equivalent by permission) mental health training setting. In addition to internship site supervision and training seminars, interns attend, in person or online, a university-based seminar and complete case assignments. Restricted to PhD students. May be repeated up to four times, not to exceed 3 credits.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CAEP",
+    "number": "7799",
+    "title": "Doctoral Internship 2",
+    "scheduleType": "Off-campus instruction",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "30685" }],
+    "description": "Continues CAEP 7798. Restricted to PhD students.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1229,6 +1372,14 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30694" },
+      { "term": "202430", "crn": "34387" },
+      { "term": "202430", "crn": "36051" },
+      { "term": "202430", "crn": "37526" },
+      { "term": "202430", "crn": "39112" },
+      { "term": "202430", "crn": "39113" },
+      { "term": "202430", "crn": "39114" },
+      { "term": "202430", "crn": "39115" },
       { "term": "202410", "crn": "21640" },
       { "term": "202330", "crn": "30738" },
       { "term": "202330", "crn": "34443" },
@@ -1263,6 +1414,8 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30693" },
+      { "term": "202430", "crn": "36672" },
       { "term": "202330", "crn": "30737" },
       { "term": "202330", "crn": "38666" },
       { "term": "202240", "crn": "41922" }
@@ -1279,6 +1432,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35459" },
       { "term": "202350", "crn": "50623" },
       { "term": "202330", "crn": "36929" }
     ],
@@ -1294,6 +1448,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36673" },
       { "term": "202350", "crn": "51878" },
       { "term": "202330", "crn": "38667" }
     ],
@@ -1326,6 +1481,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35460" },
       { "term": "202410", "crn": "18816" },
       { "term": "202330", "crn": "36931" },
       { "term": "202310", "crn": "21262" }
@@ -1358,6 +1514,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32434" },
+      { "term": "202430", "crn": "39116" },
       { "term": "202340", "crn": "42154" },
       { "term": "202330", "crn": "32711" }
     ],
@@ -1392,6 +1550,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30555" },
+      { "term": "202430", "crn": "35506" },
+      { "term": "202430", "crn": "35507" },
       { "term": "202330", "crn": "30573" },
       { "term": "202330", "crn": "37012" },
       { "term": "202330", "crn": "37013" }
@@ -1408,6 +1569,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31773" },
       { "term": "202410", "crn": "11891" },
       { "term": "202340", "crn": "42275" },
       { "term": "202330", "crn": "31974" },
@@ -1425,6 +1587,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35882" },
       { "term": "202410", "crn": "21201" },
       { "term": "202360", "crn": "60845" },
       { "term": "202350", "crn": "51129" },
@@ -1442,6 +1605,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32088" },
       { "term": "202410", "crn": "11033" },
       { "term": "202310", "crn": "11160" }
     ],
@@ -1456,7 +1620,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "41830" }],
+    "sections": [
+      { "term": "202430", "crn": "34658" },
+      { "term": "202240", "crn": "41830" }
+    ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
     "prereqs": [{ "subject": "CAEP", "number": "9990" }]
@@ -1468,7 +1635,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "41855" }],
+    "sections": [
+      { "term": "202430", "crn": "35524" },
+      { "term": "202240", "crn": "41855" }
+    ],
     "description": "Supports the continued development of the dissertation.",
     "coreqs": [],
     "prereqs": [

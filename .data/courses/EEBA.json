@@ -6,7 +6,10 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202340", "crn": "41987" }],
+    "sections": [
+      { "term": "202430", "crn": "39338" },
+      { "term": "202340", "crn": "41987" }
+    ],
     "description": "Offers guided instruction about problem identification, problem-solving skills, and working as a team to meet the needs of internal and external stakeholders. The instructor and selected industry experts work with student teams through lectures, question-and-answer sessions, and team feedback sessions to offer real-world feedback. Offers students an opportunity to leverage skills and thinking through an immersive experience; develop observations and reflections of complex situations or challenges; frame the challenges, drawing on concepts, observed patterns, and experiences; synthesize insights into a creative solution; and apply the learnings to new situations.",
     "coreqs": [],
     "prereqs": []

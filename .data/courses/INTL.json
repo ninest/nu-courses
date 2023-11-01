@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34792" },
       { "term": "202410", "crn": "11620" },
       { "term": "202330", "crn": "35807" },
       { "term": "202310", "crn": "11822" }
@@ -23,6 +24,9 @@
     "credits": 4,
     "nuPath": ["SI", "EX"],
     "sections": [
+      { "term": "202430", "crn": "30336" },
+      { "term": "202430", "crn": "31163" },
+      { "term": "202430", "crn": "35445" },
       { "term": "202410", "crn": "10853" },
       { "term": "202410", "crn": "11969" },
       { "term": "202410", "crn": "14961" },
@@ -69,6 +73,18 @@
   },
   {
     "subject": "INTL",
+    "number": "2100",
+    "title": "Modern Israel",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39263" }],
+    "description": "Introduces students to an Israel rarely seen in the news: Films, art, music, short stories, food, and spiritual movements show Israel from a different point of view and expose students to the questions Israelis ask themselves in order to define their own identity. Modern Israel is a fascinating, vibrant, talented, imperfect nation of people from 100 different countries. Thus, conflicts, tensions and contradictions lie at its heart: Ashkenazi Jews complain the country is too Levantine; Sephardi Jews complain about deprivation; Israeli Arabs complain about their position in the nation; Orthodox Jews say the state is not sufficiently religious; seculars consider it antiquated in nature. Immigrants from Russia and Ethiopia, foreign guest workers, water crises, and the Arab-Israeli conflict also figure in the story.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INTL",
     "number": "2200",
     "title": "America and the Middle East",
     "scheduleType": "Lecture",
@@ -105,7 +121,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202310", "crn": "16733" }],
+    "sections": [
+      { "term": "202430", "crn": "39264" },
+      { "term": "202310", "crn": "16733" }
+    ],
     "description": "Examines the relationship between race and the movement of people around the globe. Offers students an opportunity to acquire a concrete understanding of how race and ethnicity (as social constructions) have developed as people have migrated (under free will or forced circumstances) within and across geopolitical territories (i.e., colonies, countries) in the past (1400s) and through the present. Ethnoracial-related conflicts connected to migration (i.e., rebellions by the enslaved during the Atlantic slave trade, Rwandan genocide, Syrian civil war) may also be explored.",
     "coreqs": [],
     "prereqs": []
@@ -118,11 +137,24 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33654" },
       { "term": "202410", "crn": "13502" },
       { "term": "202330", "crn": "34225" },
       { "term": "202310", "crn": "13986" }
     ],
     "description": "Introduces a range of research methods employed in the study of international affairs. Offers students an opportunity to develop competency in the most commonly used quantitative and qualitative research tools in the social sciences and related humanities. Topics include empirical and normative research traditions, generalizability, historical analyses, hypothesis testing, literature reviews, qualitative and quantitative approaches, research ethics, survey research, units of analysis, and more.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INTL",
+    "number": "3150",
+    "title": "Global Philanthropy",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["ER", "SI"],
+    "sections": [{ "term": "202430", "crn": "39265" }],
+    "description": "Analyzes whether transnational philanthropy can solve problems of global poverty, development, and human welfare. Introduces students to relevant normative and empirical scholarship drawn from moral philosophy, postcolonial critical theory, development economics, and comparative politics. Offers students an opportunity to obtain the analytical tools needed to assess the promise and pitfalls of global philanthropy. Invites the application of these skills through a sustained funding simulation.",
     "coreqs": [],
     "prereqs": []
   },
@@ -134,6 +166,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39266" },
       { "term": "202410", "crn": "16334" },
       { "term": "202330", "crn": "38210" },
       { "term": "202310", "crn": "18663" }
@@ -165,6 +198,8 @@
     "credits": 4,
     "nuPath": ["SI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30335" },
+      { "term": "202430", "crn": "35481" },
       { "term": "202410", "crn": "10366" },
       { "term": "202410", "crn": "13668" },
       { "term": "202330", "crn": "30347" },
@@ -198,6 +233,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36272" },
       { "term": "202410", "crn": "17795" },
       { "term": "202330", "crn": "38250" },
       { "term": "202310", "crn": "20215" }
@@ -228,7 +264,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39225" }],
+    "sections": [
+      { "term": "202430", "crn": "37196" },
+      { "term": "202330", "crn": "39225" }
+    ],
     "description": "Presents an analysis of the goals, methods, and achievements of Russian policy in the post-Soviet era toward Eastern Europe, Western Europe, the Middle East, Central and East Asia, and the United States against the background of Soviet behavior toward these areas in the recent past.",
     "coreqs": [],
     "prereqs": [
@@ -265,6 +304,7 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "36235" },
       { "term": "202410", "crn": "19656" },
       { "term": "202330", "crn": "38211" }
     ],
@@ -279,7 +319,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19236" }],
+    "sections": [
+      { "term": "202430", "crn": "39268" },
+      { "term": "202310", "crn": "19236" }
+    ],
     "description": "Analyzes the history and politics of forced migration, concentrating on the negative “push” factors that force people to migrate and the positive “pull” factors that motivate them to seek sanctuary in particular places. While millons of people worldwide are displaced by war and other forms of violence, the history of forced migration and processes of seeking and granting refuge are often poorly understood. Investigates the development of legal and institutional frameworks that govern forced migration and assesses its political and humanitarian implications. Rejecting dominant views of displaced people as “victims” or as “problems” to “solve,” the course addresses displaced people as complex historical actors whose experiences are tied to legacies and processes of imperialism, state violence, war, and globalization.",
     "coreqs": [],
     "prereqs": []
@@ -292,7 +335,7 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [{ "term": "202410", "crn": "21497" }],
-    "description": "Offers a seminar on the societies and cultures of Southeast Asia. Uses an interdisciplinary approach to this diverse and dynamic geopolitical region, with readings from anthropology, history, political science, and literature. Covers the major political and cultural changes that have shaped Southeast Asia in relation to the world&#8212;from the age of colonial expansion, to the rise of nation-states, to the present global era. Examines central questions in the ethnography of Southeast Asia, emphasizing the postcolonial legacies of Southeast Asia, states and violence, culture and mobility, and pressing contemporary issues in globalizing Southeast Asia. ANTH 4350 and INTL 4350 are cross-listed.",
+    "description": "Offers a seminar on the societies and cultures of Southeast Asia. Uses an interdisciplinary approach to this diverse and dynamic geopolitical region, with readings from anthropology, history, political science, and literature. Covers the major political and cultural changes that have shaped Southeast Asia in relation to the world—from the age of colonial expansion, to the rise of nation-states, to the present global era. Examines central questions in the ethnography of Southeast Asia, emphasizing the postcolonial legacies of Southeast Asia, states and violence, culture and mobility, and pressing contemporary issues in globalizing Southeast Asia. ANTH 4350 and INTL 4350 are cross-listed.",
     "coreqs": [],
     "prereqs": [
       { "subject": "SOCL", "number": "1101" },
@@ -424,6 +467,9 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "33082" },
+      { "term": "202430", "crn": "31324" },
+      { "term": "202430", "crn": "31590" },
       { "term": "202410", "crn": "14424" },
       { "term": "202410", "crn": "16336" },
       { "term": "202330", "crn": "33486" },
@@ -450,12 +496,27 @@
   },
   {
     "subject": "INTL",
+    "number": "5010",
+    "title": "International Human Rights Law and Policy",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40227" }],
+    "description": "Examines the law, politics, policy, and advocacy practices of international human rights. Focuses on the dilemmas that ensue and the political, policy, and philosophical implications of human rights. Explores the role of international and domestic law in enacting and enforcing human rights claims, the institutions of international human rights law, and the relationships between different types of rights. Places human rights in the context of colonialism, racism, and economic inequality. Analyzes how and when human rights law and practice can adequately address global challenges as well as when they fall short.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INTL",
     "number": "5100",
     "title": "Climate and Development",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["SI"],
-    "sections": [{ "term": "202330", "crn": "33613" }],
+    "sections": [
+      { "term": "202430", "crn": "33181" },
+      { "term": "202330", "crn": "33613" }
+    ],
     "description": "Serves as an introduction to climate change and development processes in developing countries. Exposes students to key debates in the fields of climate change and international development. Offers students an opportunity to learn about the approaches to climate adaptation, the relationship between adaptation and development, and concepts of resilience and transformation. Using a comparative case study approach, explores the importance of the local context; the intersections of politics, economics, and culture; ecology and human-environment relationships; and the role (and challenges) of finance and development assistance. Climate impacts threaten to reverse many of the development gains of the last century, and the most vulnerable are likely to be the most impacted by climate change. At the same time, opportunities exist to ensure climate-compatible development pathways. Cross-listed with PPUA 5100.",
     "coreqs": [],
     "prereqs": []
@@ -468,6 +529,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37468" },
       { "term": "202410", "crn": "20111" },
       { "term": "202330", "crn": "39508" },
       { "term": "202310", "crn": "19714" }

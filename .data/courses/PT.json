@@ -16,12 +16,33 @@
   },
   {
     "subject": "PT",
+    "number": "3300",
+    "title": "Human Gross Anatomy",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "36681" }],
+    "description": "Covers the structure and function of the human body. Emphasizes the skeletal, muscular, digestive, cardiopulmonary, and peripheral nervous systems. Using a regional and systemic approach, explores the details of the limbs, thorax, abdomen, and pelvic regions of the body. Considers basic abnormalities of structure and function via clinical application of these systems.",
+    "coreqs": [{ "subject": "PT", "number": "3301" }],
+    "prereqs": [
+      { "subject": "BIOL", "number": "1111" },
+      "Or",
+      { "subject": "BIOL", "number": "1113" },
+      "Or",
+      { "subject": "BIOL", "number": "2217" }
+    ]
+  },
+  {
+    "subject": "PT",
     "number": "3400",
     "title": "Human Kinesiology",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ND"],
-    "sections": [{ "term": "202330", "crn": "34720" }],
+    "sections": [
+      { "term": "202430", "crn": "34059" },
+      { "term": "202330", "crn": "34720" }
+    ],
     "description": "Studies normal movement through the analysis of muscle and joint function. Introduces fundamental examples of pathokinesiology, aberrant motions, and gait and posture. Emphasizes the analysis of the major joints and regions of the body.",
     "coreqs": [],
     "prereqs": [
@@ -105,6 +126,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34060" },
       { "term": "202410", "crn": "18411" },
       { "term": "202330", "crn": "34721" },
       { "term": "202310", "crn": "20846" }
@@ -169,6 +191,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34061" },
       { "term": "202360", "crn": "61370" },
       { "term": "202330", "crn": "34722" }
     ],
@@ -272,6 +295,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35079" },
       { "term": "202330", "crn": "36281" },
       { "term": "202310", "crn": "10620" }
     ],
@@ -291,6 +315,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35080" },
+      { "term": "202430", "crn": "35081" },
+      { "term": "202430", "crn": "35082" },
       { "term": "202330", "crn": "36282" },
       { "term": "202330", "crn": "36283" },
       { "term": "202330", "crn": "36284" },
@@ -310,6 +337,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30579" },
       { "term": "202330", "crn": "30600" },
       { "term": "202330", "crn": "36620" }
     ],
@@ -416,7 +444,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36287" }],
+    "sections": [
+      { "term": "202430", "crn": "35085" },
+      { "term": "202330", "crn": "36287" }
+    ],
     "description": "Designed to help students develop an understanding of biomechanical concepts, as they apply to the analysis of human movement and function, through experiential learning. Introduces emerging methodologies and techniques in the field of biomechanics, particularly as they relate to human movement. Course activities require both computational analyses and conceptual understanding. Exposes students to types of data acquisition, reduction, analysis, and interpretations. Includes those factors that identify limitations to the action and measurement of human movement. Offers students an opportunity to integrate knowledge emerging from multiple disciplines, including biomechanics, movement sciences, biology, and physics, as those disciplines apply to functional human movement.",
     "coreqs": [],
     "prereqs": []
@@ -428,11 +459,13 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32936" }],
+    "sections": [
+      { "term": "202430", "crn": "32608" },
+      { "term": "202330", "crn": "32936" }
+    ],
     "description": "Examines the detailed structure of the human nervous system, linking structure to function at both the clinical and neurobiological level. Offers students an opportunity to obtain a solid functional anatomical foundation for neuroscience. Reviews basic neuroanatomy and then provides a detailed look into the structure of the nuclei within the central nervous system and their connectivity. Examines the role of these structures in motor and sensory function as well as in complex cognitive functions at a physiological and clinical level.",
     "coreqs": [{ "subject": "PT", "number": "5411" }],
     "prereqs": [
-      "(",
       "(",
       { "subject": "BIOL", "number": "1113" },
       "Or",
@@ -448,7 +481,6 @@
       "Or",
       { "subject": "PSYC", "number": "3458" },
       ")",
-      ")",
       "Or",
       "Graduate Admission"
     ]
@@ -460,7 +492,10 @@
     "scheduleType": "Lab",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32937" }],
+    "sections": [
+      { "term": "202430", "crn": "32609" },
+      { "term": "202330", "crn": "32937" }
+    ],
     "description": "Examines the detailed structure of the human nervous system in specimens of the human brain and spinal cord as well as in images of stained sections of these tissues and magnetic resonance images (MRI). The structure of individual nuclei and the main sensory and motor tracts of the nervous system are examined and discussed by students working in small groups. Although focusing on anatomical details, the lab introduces the student to clinical diagnosis of neurological cases.",
     "coreqs": [{ "subject": "PT", "number": "5410" }],
     "prereqs": []
@@ -473,6 +508,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34062" },
       { "term": "202360", "crn": "61371" },
       { "term": "202330", "crn": "34723" }
     ],
@@ -496,6 +532,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34063" },
       { "term": "202360", "crn": "61372" },
       { "term": "202330", "crn": "34724" }
     ],
@@ -523,6 +560,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34064" },
+      { "term": "202430", "crn": "34065" },
       { "term": "202360", "crn": "61373" },
       { "term": "202360", "crn": "61374" },
       { "term": "202330", "crn": "34725" },
@@ -631,6 +670,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34066" },
       { "term": "202330", "crn": "34728" },
       { "term": "202260", "crn": "60166" }
     ],
@@ -664,12 +704,14 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39844" },
       { "term": "202410", "crn": "19274" },
       { "term": "202410", "crn": "21944" },
       { "term": "202410", "crn": "21945" },
       { "term": "202410", "crn": "22102" },
       { "term": "202410", "crn": "22103" },
       { "term": "202410", "crn": "22310" },
+      { "term": "202410", "crn": "22554" },
       { "term": "202350", "crn": "53085" },
       { "term": "202330", "crn": "40321" },
       { "term": "202310", "crn": "21693" },
@@ -944,6 +986,8 @@
     "credits": 3,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202430", "crn": "35086" },
+      { "term": "202430", "crn": "35087" },
       { "term": "202410", "crn": "20199" },
       { "term": "202330", "crn": "36288" },
       { "term": "202330", "crn": "36289" },
@@ -981,6 +1025,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34067" },
       { "term": "202410", "crn": "20201" },
       { "term": "202330", "crn": "34729" }
     ],
@@ -1020,6 +1065,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36683" },
       { "term": "202410", "crn": "20822" },
       { "term": "202330", "crn": "38678" },
       { "term": "202310", "crn": "16466" },
@@ -1036,7 +1082,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36290" }],
+    "sections": [
+      { "term": "202430", "crn": "35088" },
+      { "term": "202330", "crn": "36290" }
+    ],
     "description": "Studies the theoretical basis and clinical application of examination and intervention of orthopedic dysfunction of the upper quarter and associated spine that are commonly encountered by physical therapists. Uses an evidence-based, problem-solving approach to prioritize and plan patient care, including medical screening and identifying need for referral. Includes selected topics that reflect the evidence-based philosophies of various noted practitioners in the field of orthopedic physical therapy.",
     "coreqs": [{ "subject": "PT", "number": "6306" }],
     "prereqs": [
@@ -1055,6 +1104,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35089" },
+      { "term": "202430", "crn": "35090" },
+      { "term": "202430", "crn": "35091" },
       { "term": "202330", "crn": "36291" },
       { "term": "202330", "crn": "36292" },
       { "term": "202330", "crn": "36293" }
@@ -1252,6 +1304,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35092" },
       { "term": "202410", "crn": "20202" },
       { "term": "202330", "crn": "36294" }
     ],
@@ -1310,6 +1363,7 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32676" },
       { "term": "202410", "crn": "10596" },
       { "term": "202410", "crn": "10968" },
       { "term": "202410", "crn": "11109" },
@@ -1411,6 +1465,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34068" },
       { "term": "202410", "crn": "20203" },
       { "term": "202330", "crn": "34730" }
     ],
@@ -1425,7 +1480,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36621" }],
+    "sections": [
+      { "term": "202430", "crn": "35263" },
+      { "term": "202330", "crn": "36621" }
+    ],
     "description": "Offers students an opportunity to work directly with a faculty mentor(s) on scholarship activities to be disseminated (e.g., peer-reviewed journal article, conference poster) in the future. Students are assigned faculty mentor(s). Mentors determine the type of project students conduct for two semesters. Students are responsible for communicating with their mentor(s) throughout the semester and for completing the work that has been assigned by the specified deadlines. Additionally, students are expected to work cooperatively with fellow students assigned to the group to develop their project.",
     "coreqs": [],
     "prereqs": [{ "subject": "PT", "number": "6511" }]
@@ -1552,6 +1610,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37960" },
       { "term": "202410", "crn": "15210" },
       { "term": "202360", "crn": "60789" },
       { "term": "202340", "crn": "41724" },
@@ -1600,7 +1659,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "35103" }],
+    "sections": [
+      { "term": "202430", "crn": "34333" },
+      { "term": "202330", "crn": "35103" }
+    ],
     "description": "Covers technologies that have relevance to rehabilitation of individuals with disorders of movement. Topics include measurement of human movement, electroencephalography (EEG), functional magnetic resonance imaging (fMRI), electromyography (EMG), virtual reality and gaming, robotics, neuroprosthetics, noninvasive brain stimulation, and peripheral stimulation. Exposes students to a historical perspective on how the technology evolved, applications of the technology, an overview of how the technology works, existing variants, strengths, limitations/gaps, and future directions.",
     "coreqs": [],
     "prereqs": []
@@ -1613,6 +1675,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34313" },
       { "term": "202410", "crn": "14375" },
       { "term": "202330", "crn": "35074" },
       { "term": "202310", "crn": "15112" }
@@ -1629,6 +1692,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38473" },
       { "term": "202410", "crn": "16138" },
       { "term": "202350", "crn": "51118" },
       { "term": "202350", "crn": "53317" },
@@ -1647,6 +1711,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38180" },
       { "term": "202350", "crn": "53315" },
       { "term": "202330", "crn": "40268" },
       { "term": "202310", "crn": "21468" },
@@ -1664,6 +1729,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37908" },
+      { "term": "202430", "crn": "38184" },
       { "term": "202410", "crn": "22084" },
       { "term": "202350", "crn": "53316" },
       { "term": "202330", "crn": "39994" },
@@ -1681,6 +1748,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38185" },
+      { "term": "202430", "crn": "38186" },
       { "term": "202410", "crn": "19145" },
       { "term": "202410", "crn": "19146" },
       { "term": "202410", "crn": "20783" },

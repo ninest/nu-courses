@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32302" },
       { "term": "202410", "crn": "10794" },
       { "term": "202410", "crn": "10795" },
       { "term": "202410", "crn": "10796" },
@@ -27,6 +28,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30234" },
+      { "term": "202430", "crn": "34784" },
+      { "term": "202430", "crn": "34785" },
       { "term": "202330", "crn": "30240" },
       { "term": "202330", "crn": "35798" },
       { "term": "202330", "crn": "35800" },
@@ -77,7 +81,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "35803" }],
+    "sections": [
+      { "term": "202430", "crn": "34788" },
+      { "term": "202330", "crn": "35803" }
+    ],
     "description": "Addresses principles and applications of entrepreneurship in the healthcare industry, focusing on healthcare ventures and technology. Explores different business organizations, including sole proprietorships, partnerships, corporations, joint ventures and not-for-profit enterprises. Such explorations offer students an opportunity to identify and evaluate business skills and commitment necessary to successfully operate an entrepreneurial venture and address the challenges and rewards of entrepreneurship. Considers the requirements, costs, and benefits of various forms of financial options open to entrepreneurs. Presentations and discussions are led by accomplished entrepreneurs and practitioners engaged in healthcare teaching, research, and business. Case studies identify the challenges and rewards of successful entrepreneurial ventures that set positive examples for budding entrepreneurs in leading change and innovation.",
     "coreqs": [],
     "prereqs": []
@@ -133,6 +140,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40674" },
       { "term": "202410", "crn": "15506" },
       { "term": "202310", "crn": "17078" }
     ],
@@ -147,17 +155,26 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": ["ER", "ND"],
-    "sections": [{ "term": "202330", "crn": "30989" }],
+    "sections": [
+      { "term": "202430", "crn": "30926" },
+      { "term": "202330", "crn": "30989" }
+    ],
     "description": "Offers an interactive course covering aspects of research designs used in experimental and observational studies, hypothesis testing, and an introduction to basic biostatistics. Offers students an opportunity to critically examine selected articles from the clinical literature, to analyze the framing of the research question and the methods used to insure the validity and generalizability of the study's findings, and to assess for potential ethical issues in research design and conduct. Clinical trials, observational studies, and problem sets illustrate principles of research design, conduct, and data analysis.",
     "coreqs": [],
     "prereqs": [
+      "(",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" },
+      { "subject": "ENGW", "number": "1102" },
       "Or",
       { "subject": "ENGW", "number": "1111" },
       "Or",
-      { "subject": "ENGW", "number": "1102" },
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" },
+      ")",
       "Or",
       "Graduate Admission"
     ]
@@ -215,7 +232,10 @@
     "scheduleType": "Lecture",
     "credits": 6,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31725" }],
+    "sections": [
+      { "term": "202430", "crn": "31560" },
+      { "term": "202330", "crn": "31725" }
+    ],
     "description": "Covers foundational concepts of pharmacy practice, including patient evaluation; identification of drug-related problems; pathophysiology; and clinical management of diseases of the respiratory, cardiovascular, and endocrine systems. Specifically covers asthma and COPD, hypertension, hyperlipidemia, diabetes, fluids/electrolytes, and renal disorders. Reviews, system-by-system, the mechanisms of these diseases and their evidence-based prevention and treatment strategies. Offers students an opportunity to apply scientific knowledge and principles of medicinal chemistry, pharmacology, pharmaceutics, and pharmacokinetics to the design of rational, evidence-based therapeutic strategies to provide care to patients in inpatient, ambulatory, and community settings. Emphasizes pathophysiology, self-care, patient education, assessment, medication administration, management, monitoring, and preventative health and population-based health outcomes.",
     "coreqs": [{ "subject": "PHMD", "number": "4612" }],
     "prereqs": [
@@ -234,6 +254,12 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31561" },
+      { "term": "202430", "crn": "31564" },
+      { "term": "202430", "crn": "31565" },
+      { "term": "202430", "crn": "31566" },
+      { "term": "202430", "crn": "31567" },
+      { "term": "202430", "crn": "31568" },
       { "term": "202330", "crn": "31726" },
       { "term": "202330", "crn": "31729" },
       { "term": "202330", "crn": "31730" },
@@ -388,7 +414,10 @@
     "scheduleType": "Lecture",
     "credits": 6,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31791" }],
+    "sections": [
+      { "term": "202430", "crn": "31621" },
+      { "term": "202330", "crn": "31791" }
+    ],
     "description": "Covers the pathophysiology and clinical management of men's and women's health issues and neurological, psychiatric, and oncologic disorders. Reinforces foundational concepts of pharmacy practice and diseases covered in PHMD 4611, PHMD 4612, and PHMD 4613, while completing a system-by-system review of the mechanisms of infectious diseases and their evidence-based prevention and treatment strategies. Offers students an opportunity to design rational therapeutic strategies to provide care to patients with these disease states in inpatient, ambulatory, and community settings. Emphasizes pathophysiology, self-care, patient education, assessment, medication administration, management, monitoring, and preventative health and population-based health outcomes.",
     "coreqs": [
       { "subject": "PHMD", "number": "4642" },
@@ -404,6 +433,12 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31622" },
+      { "term": "202430", "crn": "31623" },
+      { "term": "202430", "crn": "31624" },
+      { "term": "202430", "crn": "31625" },
+      { "term": "202430", "crn": "31626" },
+      { "term": "202430", "crn": "31627" },
       { "term": "202330", "crn": "31792" },
       { "term": "202330", "crn": "31793" },
       { "term": "202330", "crn": "31796" },
@@ -426,6 +461,10 @@
     "credits": 0.5,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31628" },
+      { "term": "202430", "crn": "31629" },
+      { "term": "202430", "crn": "31630" },
+      { "term": "202430", "crn": "34050" },
       { "term": "202330", "crn": "31800" },
       { "term": "202330", "crn": "31801" },
       { "term": "202330", "crn": "31802" },
@@ -571,6 +610,8 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32253" },
+      { "term": "202430", "crn": "36467" },
       { "term": "202330", "crn": "32504" },
       { "term": "202330", "crn": "38454" }
     ],
@@ -613,7 +654,10 @@
     "scheduleType": "Seminar",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36489" }],
+    "sections": [
+      { "term": "202430", "crn": "35184" },
+      { "term": "202330", "crn": "36489" }
+    ],
     "description": "Offers students an opportunity to collect relevant information to make informed decisions concerning the selection of advanced pharmacy practice experiences (APPEs). Designed to provide new knowledge (e.g., what is expected of a P4 student) and to strengthen existing knowledge (e.g., from didactic courses) to offer a smooth transition from the didactic courses to APPEs.",
     "coreqs": [],
     "prereqs": []
@@ -667,6 +711,21 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "32561" },
+      { "term": "202430", "crn": "32969" },
+      { "term": "202430", "crn": "33146" },
+      { "term": "202430", "crn": "32375" },
+      { "term": "202430", "crn": "33400" },
+      { "term": "202430", "crn": "35494" },
+      { "term": "202430", "crn": "35498" },
+      { "term": "202430", "crn": "37495" },
+      { "term": "202430", "crn": "37496" },
+      { "term": "202430", "crn": "37497" },
+      { "term": "202430", "crn": "37626" },
+      { "term": "202430", "crn": "38115" },
+      { "term": "202430", "crn": "38179" },
+      { "term": "202430", "crn": "38759" },
+      { "term": "202430", "crn": "40510" },
       { "term": "202410", "crn": "12571" },
       { "term": "202410", "crn": "12971" },
       { "term": "202410", "crn": "13843" },
@@ -711,12 +770,26 @@
   },
   {
     "subject": "PHMD",
+    "number": "5976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40078" }],
+    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated for up to 4 total credits.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHMD",
     "number": "6440",
     "title": "Internal Medicine Advanced Pharmacy Practice Experience",
     "scheduleType": "Off-campus instruction",
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30612" },
+      { "term": "202430", "crn": "30804" },
       { "term": "202410", "crn": "10606" },
       { "term": "202410", "crn": "10889" },
       { "term": "202350", "crn": "50094" },
@@ -739,6 +812,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30611" },
+      { "term": "202430", "crn": "32916" },
       { "term": "202410", "crn": "10605" },
       { "term": "202410", "crn": "13175" },
       { "term": "202350", "crn": "50093" },
@@ -761,6 +836,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30610" },
+      { "term": "202430", "crn": "30805" },
       { "term": "202410", "crn": "10604" },
       { "term": "202410", "crn": "10890" },
       { "term": "202350", "crn": "50092" },
@@ -783,6 +860,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30609" },
+      { "term": "202430", "crn": "30806" },
       { "term": "202410", "crn": "10603" },
       { "term": "202410", "crn": "10891" },
       { "term": "202350", "crn": "50091" },
@@ -821,6 +900,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38591" },
+      { "term": "202430", "crn": "39260" },
       { "term": "202410", "crn": "20918" },
       { "term": "202350", "crn": "52087" },
       { "term": "202330", "crn": "40704" }
@@ -837,6 +918,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32917" },
+      { "term": "202430", "crn": "34656" },
       { "term": "202410", "crn": "13701" },
       { "term": "202410", "crn": "13176" },
       { "term": "202350", "crn": "50090" },
@@ -858,6 +941,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30608" },
+      { "term": "202430", "crn": "32918" },
       { "term": "202410", "crn": "13261" },
       { "term": "202350", "crn": "52893" },
       { "term": "202350", "crn": "52894" },
@@ -876,6 +961,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30626" },
+      { "term": "202430", "crn": "32919" },
       { "term": "202410", "crn": "10737" },
       { "term": "202410", "crn": "13177" },
       { "term": "202350", "crn": "50089" },
@@ -898,6 +985,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30625" },
+      { "term": "202430", "crn": "32920" },
       { "term": "202410", "crn": "10601" },
       { "term": "202410", "crn": "20919" },
       { "term": "202350", "crn": "50088" },
@@ -916,6 +1005,7 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30624" },
       { "term": "202410", "crn": "13179" },
       { "term": "202350", "crn": "50786" },
       { "term": "202330", "crn": "30650" },
@@ -933,6 +1023,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30623" },
+      { "term": "202430", "crn": "32921" },
       { "term": "202410", "crn": "13180" },
       { "term": "202350", "crn": "50086" },
       { "term": "202350", "crn": "50498" },
@@ -953,6 +1045,7 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33298" },
       { "term": "202350", "crn": "50499" },
       { "term": "202350", "crn": "52895" },
       { "term": "202310", "crn": "10654" }
@@ -969,6 +1062,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30621" },
+      { "term": "202430", "crn": "32922" },
       { "term": "202410", "crn": "10599" },
       { "term": "202410", "crn": "13181" },
       { "term": "202350", "crn": "50085" },
@@ -990,6 +1085,7 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30620" },
       { "term": "202410", "crn": "13699" },
       { "term": "202410", "crn": "18025" },
       { "term": "202350", "crn": "50084" },
@@ -1012,6 +1108,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30619" },
+      { "term": "202430", "crn": "32923" },
       { "term": "202410", "crn": "10715" },
       { "term": "202410", "crn": "13182" },
       { "term": "202350", "crn": "50083" },
@@ -1034,6 +1132,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32622" },
+      { "term": "202430", "crn": "32924" },
       { "term": "202410", "crn": "13183" },
       { "term": "202350", "crn": "50082" },
       { "term": "202350", "crn": "50503" },
@@ -1055,6 +1155,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30618" },
+      { "term": "202430", "crn": "32925" },
       { "term": "202410", "crn": "10736" },
       { "term": "202410", "crn": "13700" },
       { "term": "202350", "crn": "50081" },
@@ -1077,6 +1179,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37899" },
+      { "term": "202430", "crn": "39261" },
       { "term": "202410", "crn": "10597" },
       { "term": "202410", "crn": "20920" },
       { "term": "202350", "crn": "50080" },
@@ -1096,6 +1200,7 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32926" },
       { "term": "202410", "crn": "20921" },
       { "term": "202410", "crn": "20922" },
       { "term": "202350", "crn": "52897" },
@@ -1113,6 +1218,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33299" },
+      { "term": "202430", "crn": "39262" },
       { "term": "202410", "crn": "13184" },
       { "term": "202410", "crn": "15616" },
       { "term": "202350", "crn": "50520" },
@@ -1133,6 +1240,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30617" },
+      { "term": "202430", "crn": "32927" },
       { "term": "202410", "crn": "10735" },
       { "term": "202410", "crn": "13185" },
       { "term": "202350", "crn": "50196" },
@@ -1154,6 +1263,8 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30616" },
+      { "term": "202430", "crn": "32928" },
       { "term": "202410", "crn": "10714" },
       { "term": "202410", "crn": "13186" },
       { "term": "202350", "crn": "50078" },
@@ -1188,6 +1299,7 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30807" },
       { "term": "202350", "crn": "50645" },
       { "term": "202330", "crn": "30860" },
       { "term": "202330", "crn": "33453" }
@@ -1204,6 +1316,9 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33052" },
+      { "term": "202430", "crn": "37751" },
+      { "term": "202430", "crn": "37753" },
       { "term": "202410", "crn": "13188" },
       { "term": "202350", "crn": "52901" },
       { "term": "202350", "crn": "52902" },

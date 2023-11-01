@@ -16,12 +16,25 @@
   },
   {
     "subject": "AFAM",
+    "number": "1113",
+    "title": "Black Popular Culture",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "IC"],
+    "sections": [{ "term": "202430", "crn": "38802" }],
+    "description": "Surveys U.S. and international Black popular culture from the mid-1950s to the present through music, movies, music videos, and other forms of multimedia, paying close attention to social commentary, political critique, economic inference, cultural formation, explications of religious and spiritual beliefs, and the like. Discusses and ponders issues of representation, identity, values, and aesthetics. Offers students an opportunity to rethink and reexamine the intent, impact, and circulation of Black popular culture as a method and means of expression and communication.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "AFAM",
     "number": "1225",
     "title": "Gender, Race, and Medicine",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202430", "crn": "34950" },
       { "term": "202330", "crn": "36031" },
       { "term": "202310", "crn": "19055" }
     ],
@@ -92,12 +105,41 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202430", "crn": "34370" },
       { "term": "202330", "crn": "35154" },
       { "term": "202310", "crn": "16452" }
     ],
     "description": "Examines racism, racial identity, and theories of social change and racial empowerment primarily within the U.S. context. Highlights different ways in which racism and racial privilege have been experienced by different racial communities, more specifically at the micro-, meso-, and macro-levels. Offers students an opportunity to learn ways to promote racial empowerment and equity. Using theory from primarily psychology and sociology, the course investigates the impact of social systems and institutions on individual-level and group experiences of racism. Investigates students’ own racial identities, a deeper understanding of institutional inequalities and intersectionality, and practical skills in leadership and community building that can promote positive social change and racial equality.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
+  },
+  {
+    "subject": "AFAM",
+    "number": "2455",
+    "title": "American Women Writers",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["DD", "IC"],
+    "sections": [{ "term": "202430", "crn": "38803" }],
+    "description": "Surveys the diversity of American women’s writing to ask what it means to describe writers as disparate as Phillis Wheatley, Edith Wharton, Toni Morrison, and Alison Bechdel as part of the same 'tradition.' With attention to all genres of American women’s writing, introduces issues of race, genre and gender; literary identification; canons; the politics of recuperation; silence and masquerade; gender and sexuality; intersectionality; sexual and literary politics, compulsory heterosexuality, and more.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
   },
   {
     "subject": "AFAM",
@@ -108,6 +150,18 @@
     "nuPath": ["DD"],
     "sections": [{ "term": "202410", "crn": "20810" }],
     "description": "Provides students with an overview of the role and treatment of racial/ethnic minorities in the criminal justice system. Covers historical and theoretical frameworks for understanding the relationship between race, crime, and criminal justice. In so doing, students become familiar with trends and patterns in criminal offending by racial/ethnic minorities, as well as system response to such behavior.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "AFAM",
+    "number": "3270",
+    "title": "Race, Ethnicity, and Inequality",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202430", "crn": "40601" }],
+    "description": "Focuses on the social construction of race and ethnicity and the nature of dominant/minority relations in the United States. Emphasizes the peculiar evolution of race relations in U.S. history, the political and economic conditions that have transformed race relations, and the nature of contemporary racial and ethnic relations in the United States. Topics include immigration, ethnic and racial identity, discrimination, and race-based policies (e.g., residential restrictive codes, Jim Crow segregation). Offers students an opportunity to develop a critical lens from which to observe and interpret contemporary debates over structural racism.",
     "coreqs": [],
     "prereqs": []
   },

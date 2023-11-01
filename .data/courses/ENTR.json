@@ -7,6 +7,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31075" },
       { "term": "202410", "crn": "11147" },
       { "term": "202410", "crn": "13669" },
       { "term": "202330", "crn": "31159" },
@@ -43,11 +44,24 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31650" },
       { "term": "202410", "crn": "13162" },
       { "term": "202330", "crn": "31823" },
       { "term": "202310", "crn": "13578" }
     ],
     "description": "Covers business, personal, and family issues found in family owned and managed companies, including management of the business, succession planning, entitlement, hiring, nonfamily employees, boards of advisors and directors, compensation, managing conflict, and communications. Designed for individuals who plan to enter into the management of a family business. Focuses on small and midsize firms with annual revenue of $5 million to $500 million.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ENTR",
+    "number": "2225",
+    "title": "Examining Family Business Dynamics Through Film",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39673" }],
+    "description": "Examines various television shows and films to critically analyze and evaluate family relationships and family business dynamics. Discusses how these media reflect research and theories related to family businesses and how a \"healthy family\" helps to ensure a \"healthy business.\" Observes examples of important family psychology concepts like sibling rivalry, entitlement, generational conflict, gender stereotypes, divorce, and spousal conflict. Also covers family business concepts like primogeniture, entitlement, succession, stagnation, wealth management, innovation, and gender discrimination. Emphasizes understanding family businesses as a source and consequence of diversity, using a global lens to showcase the similarities and differences among family firms around the world.",
     "coreqs": [],
     "prereqs": []
   },
@@ -107,6 +121,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31076" },
+      { "term": "202430", "crn": "31077" },
+      { "term": "202430", "crn": "40472" },
       { "term": "202410", "crn": "11126" },
       { "term": "202410", "crn": "11127" },
       { "term": "202410", "crn": "20122" },
@@ -175,6 +192,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31651" },
       { "term": "202410", "crn": "11815" },
       { "term": "202330", "crn": "31825" },
       { "term": "202310", "crn": "12036" }
@@ -191,6 +209,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31652" },
       { "term": "202410", "crn": "11128" },
       { "term": "202330", "crn": "31826" },
       { "term": "202330", "crn": "37004" },
@@ -280,6 +299,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39004" },
+      { "term": "202430", "crn": "39005" },
+      { "term": "202430", "crn": "40473" },
       { "term": "202410", "crn": "10388" },
       { "term": "202410", "crn": "12823" },
       { "term": "202330", "crn": "38111" },
@@ -346,12 +368,25 @@
   },
   {
     "subject": "ENTR",
+    "number": "4983",
+    "title": "Special Topics in Entrepreneurship",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "36955" }],
+    "description": "Covers special topics in entrepreneurship. May be repeated once.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ENTR",
     "number": "5000",
     "title": "New Venture Development",
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35375" },
       { "term": "202410", "crn": "16950" },
       { "term": "202340", "crn": "40986" },
       { "term": "202330", "crn": "36806" },
@@ -401,6 +436,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32100" },
       { "term": "202330", "crn": "32339" },
       { "term": "202330", "crn": "30939" }
     ],
@@ -416,6 +452,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31117" },
       { "term": "202330", "crn": "31208" },
       { "term": "202330", "crn": "31209" }
     ],
@@ -431,6 +468,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30744" },
+      { "term": "202430", "crn": "33135" },
       { "term": "202330", "crn": "30791" },
       { "term": "202330", "crn": "33546" },
       { "term": "202330", "crn": "30935" },
@@ -490,6 +529,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31774" },
       { "term": "202340", "crn": "41896" },
       { "term": "202330", "crn": "31976" }
     ],
@@ -567,7 +607,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202360", "crn": "61385" }],
+    "sections": [
+      { "term": "202430", "crn": "40606" },
+      { "term": "202360", "crn": "61385" }
+    ],
     "description": "Covers the intersection of customer research with product design, specifically lean design and how to map abstract attributes that customers seek into concrete product designs that can actually be built. Other topics include managing the technology business interface, creating product teams, and drafting product development plans. Open to first-year graduate students.",
     "coreqs": [],
     "prereqs": []

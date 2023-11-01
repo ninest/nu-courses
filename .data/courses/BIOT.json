@@ -7,6 +7,13 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32868" },
+      { "term": "202430", "crn": "33301" },
+      { "term": "202430", "crn": "34817" },
+      { "term": "202430", "crn": "34818" },
+      { "term": "202430", "crn": "35097" },
+      { "term": "202430", "crn": "36643" },
+      { "term": "202430", "crn": "39535" },
       { "term": "202410", "crn": "11011" },
       { "term": "202410", "crn": "11879" },
       { "term": "202410", "crn": "13014" },
@@ -45,6 +52,12 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32867" },
+      { "term": "202430", "crn": "33850" },
+      { "term": "202430", "crn": "34819" },
+      { "term": "202430", "crn": "36644" },
+      { "term": "202430", "crn": "36645" },
+      { "term": "202430", "crn": "36646" },
       { "term": "202410", "crn": "11619" },
       { "term": "202410", "crn": "12834" },
       { "term": "202410", "crn": "13017" },
@@ -83,6 +96,17 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32870" },
+      { "term": "202430", "crn": "32871" },
+      { "term": "202430", "crn": "33851" },
+      { "term": "202430", "crn": "34203" },
+      { "term": "202430", "crn": "36647" },
+      { "term": "202430", "crn": "37077" },
+      { "term": "202430", "crn": "37944" },
+      { "term": "202430", "crn": "39536" },
+      { "term": "202430", "crn": "39537" },
+      { "term": "202430", "crn": "39538" },
+      { "term": "202430", "crn": "39539" },
       { "term": "202410", "crn": "11290" },
       { "term": "202410", "crn": "17204" },
       { "term": "202410", "crn": "13015" },
@@ -128,6 +152,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39727" },
       { "term": "202410", "crn": "12640" },
       { "term": "202310", "crn": "12981" }
     ],
@@ -143,6 +168,10 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32424" },
+      { "term": "202430", "crn": "32425" },
+      { "term": "202430", "crn": "37034" },
+      { "term": "202430", "crn": "40369" },
       { "term": "202350", "crn": "52646" },
       { "term": "202330", "crn": "32700" },
       { "term": "202330", "crn": "32701" }
@@ -187,6 +216,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33302" },
+      { "term": "202430", "crn": "34820" },
+      { "term": "202430", "crn": "39540" },
       { "term": "202330", "crn": "33754" },
       { "term": "202330", "crn": "35846" }
     ],
@@ -202,6 +234,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37062" },
       { "term": "202410", "crn": "15059" },
       { "term": "202410", "crn": "15060" },
       { "term": "202350", "crn": "52405" },
@@ -230,6 +263,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34821" },
       { "term": "202410", "crn": "13421" },
       { "term": "202410", "crn": "13422" },
       { "term": "202410", "crn": "19989" },
@@ -250,6 +284,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34822" },
+      { "term": "202430", "crn": "34823" },
       { "term": "202330", "crn": "35848" },
       { "term": "202330", "crn": "35849" }
     ],
@@ -265,6 +301,14 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39541" },
+      { "term": "202430", "crn": "39542" },
+      { "term": "202430", "crn": "39543" },
+      { "term": "202430", "crn": "39544" },
+      { "term": "202430", "crn": "39545" },
+      { "term": "202430", "crn": "39546" },
+      { "term": "202430", "crn": "39547" },
+      { "term": "202430", "crn": "39548" },
       { "term": "202410", "crn": "20960" },
       { "term": "202410", "crn": "20973" },
       { "term": "202410", "crn": "20967" },
@@ -283,6 +327,13 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32869" },
+      { "term": "202430", "crn": "32887" },
+      { "term": "202430", "crn": "34824" },
+      { "term": "202430", "crn": "34825" },
+      { "term": "202430", "crn": "36651" },
+      { "term": "202430", "crn": "39549" },
+      { "term": "202430", "crn": "39550" },
       { "term": "202410", "crn": "11829" },
       { "term": "202410", "crn": "12275" },
       { "term": "202410", "crn": "13016" },
@@ -338,6 +389,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31633" },
+      { "term": "202430", "crn": "32723" },
+      { "term": "202430", "crn": "39551" },
       { "term": "202330", "crn": "31806" },
       { "term": "202330", "crn": "33063" }
     ],
@@ -373,12 +427,25 @@
   },
   {
     "subject": "BIOT",
+    "number": "5800",
+    "title": "Gene Therapies",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39835" }],
+    "description": "Provides an overview of specific gene therapy applications and diseases that are, or may be, a target of gene therapies. Includes case study analysis of gene therapies with publicly available information, as well as tools for proper identification of gene targets in disease states.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BIOT",
     "number": "5810",
     "title": "Cutting-Edge Applications in Molecular Biotechnology",
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39552" },
       { "term": "202410", "crn": "13013" },
       { "term": "202410", "crn": "13113" },
       { "term": "202410", "crn": "17915" },
@@ -404,6 +471,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39836" },
       { "term": "202410", "crn": "20034" },
       { "term": "202410", "crn": "20850" },
       { "term": "202410", "crn": "22518" }
@@ -420,6 +488,10 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32727" },
+      { "term": "202430", "crn": "32728" },
+      { "term": "202430", "crn": "36652" },
+      { "term": "202430", "crn": "39553" },
       { "term": "202410", "crn": "21442" },
       { "term": "202330", "crn": "33067" },
       { "term": "202330", "crn": "33068" },
@@ -451,7 +523,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38647" }],
+    "sections": [
+      { "term": "202430", "crn": "36653" },
+      { "term": "202330", "crn": "38647" }
+    ],
     "description": "Explores the science behind how regulatory pathways were developed and how vaccines were approved for human use. The pathway for vaccine approvals by national regulatory authorities has been well established for decades. The SARS-CoV-2 pandemic created an immediate need to create new vaccines, which also created a new need for the regulatory approval of these vaccines. Examines how SARS-CoV-2 vaccines caused an increased interest in the regulatory science behind vaccine regulatory approval, specifically exploring the use of emergency use authorization (EUA) in getting SARS-CoV-2 vaccines to market. Discusses how the use of EUAs changed the regulatory science landscape of vaccines.",
     "coreqs": [],
     "prereqs": []
@@ -463,7 +538,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38648" }],
+    "sections": [
+      { "term": "202430", "crn": "36654" },
+      { "term": "202330", "crn": "38648" }
+    ],
     "description": "Discusses the molecular tools used for vaccine design and development, including the experimental tools used for attenuated whole-organism vaccines, purified macromolecule vaccines, and DNA or mRNA vaccines. Emphasizes vector design and development and specifically the challenges associated with vaccine design and development. Also studies computational tools that aid vaccine development.",
     "coreqs": [],
     "prereqs": []
@@ -475,7 +553,11 @@
     "scheduleType": "Seminar",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "21447" }],
+    "sections": [
+      { "term": "202430", "crn": "39554" },
+      { "term": "202430", "crn": "39887" },
+      { "term": "202410", "crn": "21447" }
+    ],
     "description": "Offers students an applied project setting in which to apply their curricular learning. Working with a sponsor, students refine an applied research topic, perform research, develop recommendations that are shared with a partner sponsor, and create a plan for implementing their recommendations. Seeks to benefit students with a curriculum that supports the development of key business communication skills, project and client management skills, and frameworks for business analysis. Offers students an opportunity to learn from sponsor feedback, review 'lessons learned,' and incorporate suggestions from this review to improve and further develop their career development and professional plan. May be repeated twice.",
     "coreqs": [],
     "prereqs": []
@@ -515,6 +597,16 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32589" },
+      { "term": "202430", "crn": "32724" },
+      { "term": "202430", "crn": "32725" },
+      { "term": "202430", "crn": "34826" },
+      { "term": "202430", "crn": "34827" },
+      { "term": "202430", "crn": "35104" },
+      { "term": "202430", "crn": "36656" },
+      { "term": "202430", "crn": "37881" },
+      { "term": "202430", "crn": "37882" },
+      { "term": "202430", "crn": "40086" },
       { "term": "202410", "crn": "13419" },
       { "term": "202410", "crn": "13420" },
       { "term": "202410", "crn": "15064" },
@@ -543,6 +635,18 @@
   },
   {
     "subject": "BIOT",
+    "number": "6290",
+    "title": "Foundation in Quality for Biotechnology",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39670" }],
+    "description": "Presents concepts, tools, and techniques for real-world, on-the-job application of quality that is practical for a wide range of organizations. Offers an insight into the mindset of quality, along with an overview of the concepts, principles, processes, and activities involved in quality assurance, quality control, and regulatory compliance within the life sciences Industry. Emphasizes understanding the business of biotech; the remit of global regulatory agencies; principles and processes for establishing and enforcing regulation and guidance; quality management systems, operations, and compliance; quality leadership; quality planning; and careers in the quality profession. Includes presentations from a variety of industry experts.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BIOT",
     "number": "6300",
     "title": "Pharmaceutical Microbiology",
     "scheduleType": "Lecture",
@@ -563,7 +667,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20025" }],
+    "sections": [
+      { "term": "202430", "crn": "39555" },
+      { "term": "202410", "crn": "20025" }
+    ],
     "description": "Focuses on the laws and regulations related to pharmaceuticals manufacture and administration. Discusses an overview of laws and regulations and provides guidance in the context of why they exist, their evolution, and implementation. Specifically focuses on the laws and regulations around good manufacturing practices (GMP), postapproval safety concerns, regulation of manufacture, violations and enforcement, and what to expect during an inspection from a regulatory body. Surveys the laws and regulations on a global level focusing on specific examples related to the United States, Europe, Asia, and other regulatory agencies.",
     "coreqs": [],
     "prereqs": []
@@ -576,6 +683,10 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34829" },
+      { "term": "202430", "crn": "37035" },
+      { "term": "202430", "crn": "37305" },
+      { "term": "202430", "crn": "37883" },
       { "term": "202410", "crn": "21443" },
       { "term": "202330", "crn": "35855" },
       { "term": "202330", "crn": "39051" },
@@ -627,6 +738,11 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31790" },
+      { "term": "202430", "crn": "32341" },
+      { "term": "202430", "crn": "39556" },
+      { "term": "202430", "crn": "39557" },
+      { "term": "202430", "crn": "39558" },
       { "term": "202410", "crn": "11855" },
       { "term": "202410", "crn": "18755" },
       { "term": "202410", "crn": "20362" },
@@ -661,12 +777,25 @@
   },
   {
     "subject": "BIOT",
+    "number": "6610",
+    "title": "Biosecurity and Bioterrorism",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39559" }],
+    "description": "Examines the national and international political, legal, and policy dimensions of response to threats of bioterrorism and resurging epidemics. Explores how the interagency community works at local, tribal, state, national, and international levels to meet these growing challenges. Resurging epidemics are now gaining national attention in a way not seen for generations. These threats join the long-standing challenges of potential domestic and foreign state-sponsored biowarfare attacks and the growing awareness of the threat of bioterrorism.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BIOT",
     "number": "6954",
     "title": "Co-op Work Experience - Half-Time",
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38338" },
       { "term": "202410", "crn": "22333" },
       { "term": "202410", "crn": "22508" },
       { "term": "202330", "crn": "40443" },
@@ -684,6 +813,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37993" },
       { "term": "202410", "crn": "15312" },
       { "term": "202410", "crn": "17899" },
       { "term": "202410", "crn": "17900" },
@@ -725,6 +855,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38053" },
       { "term": "202360", "crn": "60830" },
       { "term": "202360", "crn": "61190" },
       { "term": "202340", "crn": "42126" },
@@ -762,6 +893,15 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31631" },
+      { "term": "202430", "crn": "31632" },
+      { "term": "202430", "crn": "32726" },
+      { "term": "202430", "crn": "33303" },
+      { "term": "202430", "crn": "34238" },
+      { "term": "202430", "crn": "35259" },
+      { "term": "202430", "crn": "35317" },
+      { "term": "202430", "crn": "37011" },
+      { "term": "202430", "crn": "39793" },
       { "term": "202410", "crn": "14035" },
       { "term": "202410", "crn": "15067" },
       { "term": "202410", "crn": "15593" },
@@ -799,6 +939,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39889" },
       { "term": "202410", "crn": "21994" },
       { "term": "202410", "crn": "21995" },
       { "term": "202410", "crn": "21996" }

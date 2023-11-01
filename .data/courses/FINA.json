@@ -7,6 +7,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32291" },
+      { "term": "202430", "crn": "32290" },
+      { "term": "202430", "crn": "32289" },
+      { "term": "202430", "crn": "32305" },
+      { "term": "202430", "crn": "32304" },
+      { "term": "202430", "crn": "38080" },
       { "term": "202410", "crn": "12315" },
       { "term": "202410", "crn": "12316" },
       { "term": "202410", "crn": "12317" },
@@ -34,6 +40,21 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30396" },
+      { "term": "202430", "crn": "30395" },
+      { "term": "202430", "crn": "30077" },
+      { "term": "202430", "crn": "30394" },
+      { "term": "202430", "crn": "30115" },
+      { "term": "202430", "crn": "32963" },
+      { "term": "202430", "crn": "33811" },
+      { "term": "202430", "crn": "34141" },
+      { "term": "202430", "crn": "35368" },
+      { "term": "202430", "crn": "35369" },
+      { "term": "202430", "crn": "35727" },
+      { "term": "202430", "crn": "36164" },
+      { "term": "202430", "crn": "40383" },
+      { "term": "202430", "crn": "40429" },
+      { "term": "202430", "crn": "40660" },
       { "term": "202410", "crn": "10386" },
       { "term": "202410", "crn": "10385" },
       { "term": "202410", "crn": "10384" },
@@ -106,6 +127,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30853" },
+      { "term": "202430", "crn": "30854" },
       { "term": "202410", "crn": "10801" },
       { "term": "202410", "crn": "11598" },
       { "term": "202340", "crn": "40260" },
@@ -133,6 +156,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30888" },
       { "term": "202410", "crn": "11001" },
       { "term": "202330", "crn": "30947" },
       { "term": "202310", "crn": "11124" },
@@ -150,6 +174,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33812" },
+      { "term": "202430", "crn": "39025" },
+      { "term": "202430", "crn": "39651" },
       { "term": "202410", "crn": "14245" },
       { "term": "202410", "crn": "17803" },
       { "term": "202340", "crn": "41864" },
@@ -176,6 +203,13 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "30393" },
+      { "term": "202430", "crn": "30392" },
+      { "term": "202430", "crn": "30391" },
+      { "term": "202430", "crn": "30390" },
+      { "term": "202430", "crn": "30780" },
+      { "term": "202430", "crn": "30781" },
+      { "term": "202430", "crn": "36165" },
       { "term": "202410", "crn": "10380" },
       { "term": "202410", "crn": "10379" },
       { "term": "202410", "crn": "10378" },
@@ -223,6 +257,15 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30389" },
+      { "term": "202430", "crn": "30388" },
+      { "term": "202430", "crn": "30386" },
+      { "term": "202430", "crn": "30385" },
+      { "term": "202430", "crn": "30782" },
+      { "term": "202430", "crn": "30783" },
+      { "term": "202430", "crn": "31515" },
+      { "term": "202430", "crn": "31653" },
+      { "term": "202430", "crn": "36741" },
       { "term": "202410", "crn": "10376" },
       { "term": "202410", "crn": "10375" },
       { "term": "202410", "crn": "10278" },
@@ -274,7 +317,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20606" }],
+    "sections": [
+      { "term": "202430", "crn": "39026" },
+      { "term": "202410", "crn": "20606" }
+    ],
     "description": "Examines environmental, social, governance, and socially responsible investing. Focuses on responsible investing from the perspective of investors and asset managers. Reviews the history and current landscape using a quantitative approach by evaluating the potential trade-offs between returns and impact. Considers how to incorporate ESG factors into investment decisions and use data-driven approaches to assess various investment products to determine if they are meeting their stated goals.",
     "coreqs": [],
     "prereqs": [
@@ -293,6 +339,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32885" },
       { "term": "202410", "crn": "14626" },
       { "term": "202360", "crn": "61418" },
       { "term": "202330", "crn": "33260" },
@@ -351,6 +398,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39815" },
       { "term": "202410", "crn": "10516" },
       { "term": "202330", "crn": "30396" },
       { "term": "202330", "crn": "34798" },
@@ -389,7 +437,12 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20319" }],
+    "sections": [
+      { "term": "202430", "crn": "39027" },
+      { "term": "202430", "crn": "39028" },
+      { "term": "202430", "crn": "39029" },
+      { "term": "202410", "crn": "20319" }
+    ],
     "description": "Introduces Python and its data-oriented library ecosystem (NumPy, Pandas, Matplotlib, Statsmodels, SciPy, etc.). Python is one of the most widely used open-source, cross-platform programming languages. Focuses on developing a strong foundation for working with financial data in Python and implementing various financial models.",
     "coreqs": [],
     "prereqs": [
@@ -406,18 +459,13 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34686" },
       { "term": "202330", "crn": "35628" },
       { "term": "202310", "crn": "19829" }
     ],
     "description": "Introduces the fundamental concepts and an overview of the blockchain and cryptocurrency space. Offers a background in fundamental concepts in blockchain technology and functionality. Explores the basics of how blockchains record and verify information, including the related definitions and terminology. Provides an in-depth overview of blockchain applications in finance. Concludes by examining the legal and regulatory framework, along with potential risks and hurdles faced by blockchain technologies.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ACCT", "number": "3401" },
-      "Or",
-      { "subject": "FINA", "number": "3301" },
-      "Or",
-      { "subject": "FINA", "number": "3303" }
-    ]
+    "prereqs": [{ "subject": "FINA", "number": "4335" }]
   },
   {
     "subject": "FINA",
@@ -427,6 +475,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33813" },
       { "term": "202410", "crn": "17310" },
       { "term": "202360", "crn": "61420" },
       { "term": "202330", "crn": "34428" },
@@ -449,6 +498,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33815" },
       { "term": "202410", "crn": "13529" },
       { "term": "202330", "crn": "34429" },
       { "term": "202330", "crn": "34430" },
@@ -494,6 +544,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33240" },
       { "term": "202410", "crn": "20507" },
       { "term": "202330", "crn": "33683" }
     ],
@@ -513,6 +564,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32359" },
       { "term": "202340", "crn": "41866" },
       { "term": "202330", "crn": "32625" },
       { "term": "202240", "crn": "41033" }
@@ -534,7 +586,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20474" }],
+    "sections": [
+      { "term": "202430", "crn": "39653" },
+      { "term": "202410", "crn": "20474" }
+    ],
     "description": "Emphasizes the development of personal financial management knowledge by applying the techniques and perspectives of financial planning professionals. Builds upon and applies skills gained in FINA 2201 to personal finance decisions such as retirement planning, home mortgages, and overall risk management. Offers students an opportunity to develop their own financial plan and understand how that plan will change as they age and their life situation changes. Note that while this course is not designed to prepare students to take the Certified Financial Planner exam, many of the topics, such as retirement planning, investment and securities planning, and estate planning, are among those discussed.",
     "coreqs": [],
     "prereqs": [
@@ -553,6 +608,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36167" },
       { "term": "202410", "crn": "12649" },
       { "term": "202330", "crn": "38134" },
       { "term": "202310", "crn": "12991" }
@@ -567,12 +623,25 @@
   },
   {
     "subject": "FINA",
+    "number": "4460",
+    "title": "Algorithmic and Robo-Trading",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39030" }],
+    "description": "Covers the basis and implementation of trading strategies commonly used by investment professionals, such as fundamental analysis, factor investing, covariance models, and high-frequency trading. Today’s asset management industry increasingly incorporates the delivery and execution of investment strategies through automated algorithms. Offers students an opportunity to understand the advantages and limitations of systematic trading and execution strategies. Students apply and modify such strategies and evaluate their performance using real-time data and incorporate aspects of Big Data in their quantitative strategies. Familiarity with a programming language such as Python is expected.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "FINA", "number": "4335" }]
+  },
+  {
+    "subject": "FINA",
     "number": "4512",
     "title": "Financial Risk Management",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40738" },
       { "term": "202410", "crn": "10517" },
       { "term": "202410", "crn": "12045" },
       { "term": "202340", "crn": "41867" },
@@ -597,6 +666,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32139" },
       { "term": "202410", "crn": "17434" },
       { "term": "202330", "crn": "32382" },
       { "term": "202310", "crn": "19838" }
@@ -617,6 +687,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39031" },
       { "term": "202410", "crn": "20515" },
       { "term": "202410", "crn": "20516" }
     ],
@@ -636,6 +707,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39654" },
       { "term": "202410", "crn": "15286" },
       { "term": "202310", "crn": "16605" }
     ],
@@ -655,6 +727,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34119" },
       { "term": "202410", "crn": "14260" },
       { "term": "202340", "crn": "41868" },
       { "term": "202330", "crn": "34799" },
@@ -719,6 +792,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32949" },
+      { "term": "202430", "crn": "33816" },
       { "term": "202410", "crn": "11556" },
       { "term": "202410", "crn": "13652" },
       { "term": "202330", "crn": "33336" },
@@ -738,12 +813,29 @@
   },
   {
     "subject": "FINA",
+    "number": "4983",
+    "title": "Special Topics in Finance",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40739" }],
+    "description": "ST: Economics of Financial Market Structure",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "FINA", "number": "3301" },
+      "Or",
+      { "subject": "FINA", "number": "3303" }
+    ]
+  },
+  {
+    "subject": "FINA",
     "number": "6200",
     "title": "Value Creation through Financial Decision Making",
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30722" },
       { "term": "202410", "crn": "10642" },
       { "term": "202340", "crn": "40282" },
       { "term": "202330", "crn": "30766" },
@@ -789,6 +881,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30721" },
+      { "term": "202430", "crn": "36279" },
       { "term": "202410", "crn": "10846" },
       { "term": "202410", "crn": "15807" },
       { "term": "202410", "crn": "15384" },
@@ -829,6 +923,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36168" },
       { "term": "202410", "crn": "12653" },
       { "term": "202350", "crn": "52455" },
       { "term": "202330", "crn": "38135" },
@@ -858,6 +953,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30720" },
       { "term": "202410", "crn": "13165" },
       { "term": "202410", "crn": "11035" },
       { "term": "202330", "crn": "30764" },
@@ -892,6 +988,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30730" },
       { "term": "202410", "crn": "17332" },
       { "term": "202330", "crn": "30775" },
       { "term": "202310", "crn": "19732" }
@@ -940,6 +1037,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32751" },
       { "term": "202410", "crn": "15351" },
       { "term": "202330", "crn": "30936" },
       { "term": "202330", "crn": "35935" },
@@ -960,6 +1058,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36169" },
       { "term": "202350", "crn": "52465" },
       { "term": "202330", "crn": "38136" }
     ],
@@ -1003,6 +1102,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36170" },
+      { "term": "202430", "crn": "39655" },
       { "term": "202410", "crn": "13154" },
       { "term": "202410", "crn": "17812" },
       { "term": "202340", "crn": "41871" },
@@ -1108,6 +1209,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39656" },
       { "term": "202410", "crn": "20403" },
       { "term": "202360", "crn": "61422" },
       { "term": "202360", "crn": "61423" },
@@ -1142,6 +1244,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34687" },
       { "term": "202410", "crn": "20702" },
       { "term": "202360", "crn": "61424" },
       { "term": "202330", "crn": "35629" },
@@ -1160,6 +1263,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30879" },
       { "term": "202330", "crn": "30937" },
       { "term": "202330", "crn": "31128" }
     ],
@@ -1247,7 +1351,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33152" }],
+    "sections": [
+      { "term": "202430", "crn": "32794" },
+      { "term": "202330", "crn": "33152" }
+    ],
     "description": "Builds upon FINA 6318. Focuses on capital allocation and both equity and fixed-income markets. Covers the fundamentals of stock and bond valuation, as well as a brief review of macroeconomic concepts including the role of the Federal Reserve, growth, and inflation. Culminates with coverage of firm capital structure and the weighted average cost of capital (WACC).",
     "coreqs": [],
     "prereqs": [
@@ -1307,6 +1414,10 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33241" },
+      { "term": "202430", "crn": "34688" },
+      { "term": "202430", "crn": "35185" },
+      { "term": "202430", "crn": "36171" },
       { "term": "202330", "crn": "33684" },
       { "term": "202330", "crn": "35631" },
       { "term": "202330", "crn": "36492" }
@@ -1323,6 +1434,10 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33242" },
+      { "term": "202430", "crn": "34689" },
+      { "term": "202430", "crn": "35143" },
+      { "term": "202430", "crn": "36172" },
       { "term": "202330", "crn": "33685" },
       { "term": "202330", "crn": "35632" },
       { "term": "202330", "crn": "36409" }
@@ -1339,6 +1454,10 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33392" },
+      { "term": "202430", "crn": "34690" },
+      { "term": "202430", "crn": "35132" },
+      { "term": "202430", "crn": "36173" },
       { "term": "202330", "crn": "33871" },
       { "term": "202330", "crn": "35633" },
       { "term": "202330", "crn": "36381" },
@@ -1356,6 +1475,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39785" },
       { "term": "202410", "crn": "17333" },
       { "term": "202340", "crn": "41873" },
       { "term": "202310", "crn": "19733" },
@@ -1373,6 +1493,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36175" },
       { "term": "202410", "crn": "17437" },
       { "term": "202360", "crn": "61426" },
       { "term": "202310", "crn": "19841" },
@@ -1406,6 +1527,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33515" },
       { "term": "202410", "crn": "21046" },
       { "term": "202340", "crn": "41874" },
       { "term": "202330", "crn": "34038" }
@@ -1437,7 +1559,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20946" }],
+    "sections": [
+      { "term": "202430", "crn": "39657" },
+      { "term": "202410", "crn": "20946" }
+    ],
     "description": "Covers methods of managing data and extracting insights from real-world financial sources. Topics include extracting and organizing data from financial, geospatial and supply chain sources; financial aggregation; and reporting. Applications include current and emergent data sources employed in finance, risk-weighted assets, market and credit risk modeling, stress testing, and climate risk. Studies major sources of financial data, data visualization, and architecture. Offers hands-on instruction in tools used in the financial industry to process datasets.",
     "coreqs": [],
     "prereqs": [{ "subject": "FINA", "number": "6203" }]
@@ -1450,6 +1575,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38095" },
+      { "term": "202430", "crn": "31083" },
       { "term": "202410", "crn": "11141" },
       { "term": "202410", "crn": "22073" },
       { "term": "202350", "crn": "50411" },
@@ -1469,6 +1596,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30942" },
+      { "term": "202430", "crn": "38348" },
       { "term": "202410", "crn": "11144" },
       { "term": "202410", "crn": "22193" },
       { "term": "202350", "crn": "50751" },

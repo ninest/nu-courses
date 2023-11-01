@@ -7,6 +7,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30060" },
+      { "term": "202430", "crn": "30025" },
+      { "term": "202430", "crn": "30059" },
       { "term": "202410", "crn": "10051" },
       { "term": "202410", "crn": "10050" },
       { "term": "202410", "crn": "10049" },
@@ -31,6 +34,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30058" },
+      { "term": "202430", "crn": "30057" },
+      { "term": "202430", "crn": "36140" },
       { "term": "202410", "crn": "10048" },
       { "term": "202410", "crn": "10047" },
       { "term": "202410", "crn": "17125" },
@@ -58,6 +64,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30056" },
+      { "term": "202430", "crn": "34691" },
+      { "term": "202430", "crn": "36141" },
       { "term": "202410", "crn": "10046" },
       { "term": "202410", "crn": "10045" },
       { "term": "202410", "crn": "10840" },
@@ -85,6 +94,9 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "30055" },
+      { "term": "202430", "crn": "31295" },
+      { "term": "202430", "crn": "32358" },
       { "term": "202410", "crn": "10839" },
       { "term": "202410", "crn": "11051" },
       { "term": "202410", "crn": "12869" },
@@ -115,6 +127,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30066" },
+      { "term": "202430", "crn": "30031" },
+      { "term": "202430", "crn": "34334" },
       { "term": "202410", "crn": "12870" },
       { "term": "202410", "crn": "10844" },
       { "term": "202410", "crn": "14205" },
@@ -140,8 +155,10 @@
     "title": "Advanced Spanish 2: Hispanic and Latinx Identity",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "30015" },
+      { "term": "202430", "crn": "32351" },
       { "term": "202410", "crn": "10827" },
       { "term": "202410", "crn": "12600" },
       { "term": "202330", "crn": "30017" },
@@ -165,6 +182,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36142" },
       { "term": "202340", "crn": "41652" },
       { "term": "202330", "crn": "38103" }
     ],
@@ -201,13 +219,28 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202330", "crn": "38104" }],
+    "sections": [
+      { "term": "202430", "crn": "36143" },
+      { "term": "202330", "crn": "38104" }
+    ],
     "description": "Explores the authentic use of advanced grammar, focusing on improving both speaking and writing skills. Presents advanced grammatical structures, analyzes their use in authentic cultural texts, and applies them to both spoken and written tasks. Offers students an opportunity to discuss cultural topics with peers and native speakers, as well as to develop an ePortfolio of written texts and engage in the peer-editing process.",
     "coreqs": [],
     "prereqs": [
       { "subject": "SPNS", "number": "3101" },
       "Or",
-      { "subject": "SPNS", "number": "3102" }
+      { "subject": "SPNS", "number": "3102" },
+      "Or",
+      "Placement in SPNS 3102",
+      "And",
+      "(",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" },
+      ")"
     ]
   },
   {
@@ -254,6 +287,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39461" },
       { "term": "202310", "crn": "19490" },
       { "term": "202240", "crn": "41707" }
     ],
@@ -266,7 +300,9 @@
       "Or",
       { "subject": "SPNS", "number": "3601" },
       "Or",
-      { "subject": "SPNS", "number": "3602" }
+      { "subject": "SPNS", "number": "3602" },
+      "Or",
+      "Placement in SPNS 3102"
     ]
   },
   {

@@ -13,6 +13,18 @@
   },
   {
     "subject": "PMCL",
+    "number": "6252",
+    "title": "Small-Molecule Target and Ligand Pharmacology",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39578" }],
+    "description": "Focuses on ligand-gated ion channel proteins, G-protein coupled receptors and enzymes, their structure and function, as well as pharmacology. Drug action is pursued based on mechanisms used to control cell signaling and gene expression. Offers students an opportunity to apply physiologic systems and drugs used to treat related pathologies, as well as in silico modeling, to study these effects.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PMCL",
     "number": "6261",
     "title": "Pharmacology 2",
     "scheduleType": "Lecture",
@@ -27,6 +39,22 @@
       "Or",
       { "subject": "PHSC", "number": "5100" },
       ")"
+    ]
+  },
+  {
+    "subject": "PMCL",
+    "number": "6262",
+    "title": "Receptor Pharmacology",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39579" }],
+    "description": "Reviews receptors for drug substances and for endogenous ligands in a format that combines lecture presentations and discussion. Focuses on the evaluation of current literature. Covers techniques available to study receptors, various models for receptor-ligand interactions, stereochemical aspects of receptor interactions, receptor-mediated coupling mechanisms, and evaluation of several specific receptor systems.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "PHSC", "number": "5100" },
+      "Or",
+      { "subject": "PHSC", "number": "5100" }
     ]
   }
 ]

@@ -23,6 +23,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "32011" },
       { "term": "202410", "crn": "11721" },
       { "term": "202340", "crn": "40845" },
       { "term": "202330", "crn": "32244" },
@@ -53,6 +54,7 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202430", "crn": "34953" },
       { "term": "202330", "crn": "36041" },
       { "term": "202310", "crn": "19065" }
     ],
@@ -143,6 +145,9 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "36758" },
+      { "term": "202430", "crn": "32018" },
+      { "term": "202430", "crn": "34070" },
       { "term": "202410", "crn": "15170" },
       { "term": "202410", "crn": "17228" },
       { "term": "202330", "crn": "39551" },
@@ -191,7 +196,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202310", "crn": "20089" }],
+    "sections": [
+      { "term": "202430", "crn": "39371" },
+      { "term": "202310", "crn": "20089" }
+    ],
     "description": "This course is crosslisted with HIST 2373.",
     "coreqs": [],
     "prereqs": []
@@ -203,7 +211,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202330", "crn": "39674" }],
+    "sections": [
+      { "term": "202430", "crn": "39097" },
+      { "term": "202330", "crn": "39674" }
+    ],
     "description": "Examines the literature and cultures of postcolonial nations in the Caribbean, Africa, Asia, and elsewhere through the lens of gender. Designed to familiarize students with the relationships between cultural paradigms associated with gender and transnational experiences of colonialism. Focuses on the variety of artistic strategies employed by writers to communicate the impacts of gender and sexuality on contemporary postcolonial themes such as neocolonialism, nationalism, and diaspora. Writers may include Chimamanda Adichie, Nawal El Saadawi, Marjane Satrapi, Bessie Head, Arundhati Roy, Banana Yoshimoto, Sonia Singh, and Dionne Brand.",
     "coreqs": [],
     "prereqs": [
@@ -213,7 +224,35 @@
       "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" }
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
+  },
+  {
+    "subject": "WMNS",
+    "number": "2455",
+    "title": "American Women Writers",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["DD", "IC"],
+    "sections": [{ "term": "202430", "crn": "39372" }],
+    "description": "This course is crosslisted with ENGL 2455 and AFAM 2455.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -230,6 +269,18 @@
     "description": "This course is crosslisted with INTL 2480.",
     "coreqs": [],
     "prereqs": [{ "subject": "INTL", "number": "1101" }]
+  },
+  {
+    "subject": "WMNS",
+    "number": "2501",
+    "title": "Breaking the Glass Ceiling: Women in Theatre",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "IC"],
+    "sections": [{ "term": "202430", "crn": "38844" }],
+    "description": "This course is crosslisted with THTR 2500.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -254,6 +305,7 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202430", "crn": "33651" },
       { "term": "202410", "crn": "12601" },
       { "term": "202330", "crn": "34219" },
       { "term": "202310", "crn": "12925" }
@@ -270,6 +322,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "39373" },
       { "term": "202410", "crn": "14220" },
       { "term": "202310", "crn": "14878" }
     ],
@@ -285,6 +338,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "34782" },
       { "term": "202330", "crn": "35779" },
       { "term": "202310", "crn": "19004" }
     ],
@@ -324,6 +378,7 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202430", "crn": "34072" },
       { "term": "202410", "crn": "18087" },
       { "term": "202330", "crn": "34734" },
       { "term": "202310", "crn": "20519" }
@@ -339,7 +394,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ER", "SI"],
-    "sections": [{ "term": "202330", "crn": "35838" }],
+    "sections": [
+      { "term": "202430", "crn": "34813" },
+      { "term": "202330", "crn": "35838" }
+    ],
     "description": "This course is crosslisted with POLS 3500 and PHIL 3500.",
     "coreqs": [],
     "prereqs": []
@@ -351,7 +409,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202410", "crn": "20788" }],
+    "sections": [
+      { "term": "202430", "crn": "40696" },
+      { "term": "202410", "crn": "20788" }
+    ],
     "description": "This course is crosslisted with AFRS 3900 and ENGL 3900.",
     "coreqs": [],
     "prereqs": []
@@ -440,6 +501,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32432" },
+      { "term": "202430", "crn": "40605" },
       { "term": "202410", "crn": "20752" },
       { "term": "202330", "crn": "32708" },
       { "term": "202330", "crn": "38760" },

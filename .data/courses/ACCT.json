@@ -7,6 +7,26 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30440" },
+      { "term": "202430", "crn": "30411" },
+      { "term": "202430", "crn": "30410" },
+      { "term": "202430", "crn": "30409" },
+      { "term": "202430", "crn": "30408" },
+      { "term": "202430", "crn": "30407" },
+      { "term": "202430", "crn": "30406" },
+      { "term": "202430", "crn": "30078" },
+      { "term": "202430", "crn": "30013" },
+      { "term": "202430", "crn": "30042" },
+      { "term": "202430", "crn": "30278" },
+      { "term": "202430", "crn": "30209" },
+      { "term": "202430", "crn": "31293" },
+      { "term": "202430", "crn": "32874" },
+      { "term": "202430", "crn": "33243" },
+      { "term": "202430", "crn": "38094" },
+      { "term": "202430", "crn": "37223" },
+      { "term": "202430", "crn": "40607" },
+      { "term": "202430", "crn": "40608" },
+      { "term": "202430", "crn": "40609" },
       { "term": "202410", "crn": "10403" },
       { "term": "202410", "crn": "10402" },
       { "term": "202410", "crn": "12042" },
@@ -96,6 +116,16 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30851" },
+      { "term": "202430", "crn": "30852" },
+      { "term": "202430", "crn": "31017" },
+      { "term": "202430", "crn": "31018" },
+      { "term": "202430", "crn": "31019" },
+      { "term": "202430", "crn": "31020" },
+      { "term": "202430", "crn": "31021" },
+      { "term": "202430", "crn": "31022" },
+      { "term": "202430", "crn": "35652" },
+      { "term": "202430", "crn": "35653" },
       { "term": "202410", "crn": "10799" },
       { "term": "202410", "crn": "10800" },
       { "term": "202410", "crn": "11096" },
@@ -144,6 +174,20 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30405" },
+      { "term": "202430", "crn": "30404" },
+      { "term": "202430", "crn": "30403" },
+      { "term": "202430", "crn": "30402" },
+      { "term": "202430", "crn": "30401" },
+      { "term": "202430", "crn": "30277" },
+      { "term": "202430", "crn": "30778" },
+      { "term": "202430", "crn": "31161" },
+      { "term": "202430", "crn": "31647" },
+      { "term": "202430", "crn": "31904" },
+      { "term": "202430", "crn": "32283" },
+      { "term": "202430", "crn": "35367" },
+      { "term": "202430", "crn": "36146" },
+      { "term": "202430", "crn": "40610" },
       { "term": "202410", "crn": "10446" },
       { "term": "202410", "crn": "10398" },
       { "term": "202410", "crn": "10397" },
@@ -227,6 +271,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30779" },
       { "term": "202410", "crn": "10812" },
       { "term": "202330", "crn": "30830" },
       { "term": "202310", "crn": "10911" }
@@ -247,6 +292,8 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "30400" },
+      { "term": "202430", "crn": "30097" },
       { "term": "202410", "crn": "10396" },
       { "term": "202410", "crn": "10395" },
       { "term": "202410", "crn": "11125" },
@@ -274,7 +321,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39597" }],
+    "sections": [
+      { "term": "202430", "crn": "37557" },
+      { "term": "202330", "crn": "39597" }
+    ],
     "description": "Focuses on the analysis, interpretation, reformulation, and prediction of financial data, including profitability analysis, operating versus nonoperating performance evaluation, credit analysis, reformulation of financial statements, forecasting of financial statements, analysis of intercorporate investments, cash flow analysis, accounting-based equity valuation, cash-based equity valuation, assessment of earnings quality and earnings management, and the assessment of intangible assets. Emphasizes the analysis and application of financial statement information for investment, credit, and management decisions, including advisory and consulting services. Considerable importance is placed on evaluation, interpretation, and use of accounting data for decision making. Such knowledge will enable one to participate in and manage important business decisions.",
     "coreqs": [],
     "prereqs": [
@@ -291,6 +341,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34009" },
       { "term": "202410", "crn": "10394" },
       { "term": "202340", "crn": "41862" },
       { "term": "202330", "crn": "34655" },
@@ -312,6 +363,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30398" },
       { "term": "202410", "crn": "10392" },
       { "term": "202330", "crn": "30410" },
       { "term": "202310", "crn": "10419" },
@@ -329,6 +381,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30194" },
       { "term": "202410", "crn": "11883" },
       { "term": "202330", "crn": "30199" },
       { "term": "202310", "crn": "12111" },
@@ -346,6 +399,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30399" },
       { "term": "202410", "crn": "10784" },
       { "term": "202360", "crn": "61415" },
       { "term": "202330", "crn": "30411" },
@@ -365,6 +419,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30397" },
+      { "term": "202430", "crn": "30483" },
       { "term": "202410", "crn": "10391" },
       { "term": "202410", "crn": "10390" },
       { "term": "202330", "crn": "30498" },
@@ -479,6 +535,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31741" },
       { "term": "202410", "crn": "10648" },
       { "term": "202410", "crn": "10689" },
       { "term": "202330", "crn": "31923" },
@@ -498,6 +555,7 @@
     "credits": 1.5,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30724" },
       { "term": "202340", "crn": "40087" },
       { "term": "202330", "crn": "30768" },
       { "term": "202310", "crn": "11500" },
@@ -690,7 +748,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30767" }],
+    "sections": [
+      { "term": "202430", "crn": "30723" },
+      { "term": "202330", "crn": "30767" }
+    ],
     "description": "Examines the strategic decisions that managers need to make concerning the acquisition, measurement, and management of firm resources. Focuses on the strategic use of cost information for planning and controlling, and the use of cost analysis in making critical business decisions.",
     "coreqs": [],
     "prereqs": [{ "subject": "ACCT", "number": "6221" }]
@@ -794,7 +855,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31369" }],
+    "sections": [
+      { "term": "202430", "crn": "31260" },
+      { "term": "202330", "crn": "31369" }
+    ],
     "description": "Addresses the most common types of taxes imposed by state and local governments. Examines state and local income, sales, excise, property, and city taxes. Emphasis is on the underlying principles governing the application of each type of tax and the interrelationships where they exist.",
     "coreqs": [],
     "prereqs": [
@@ -883,7 +947,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36769" }],
+    "sections": [
+      { "term": "202430", "crn": "35358" },
+      { "term": "202330", "crn": "36769" }
+    ],
     "description": "Surveys insurance products used for financial planning. Topics include life, accident, health, disability, long-term care, homeowner, auto, and personal liability, with emphasis on personal risk management and the use of insurance products in the financial planning process.",
     "coreqs": [],
     "prereqs": [{ "subject": "ACCT", "number": "5232" }]
@@ -940,7 +1007,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "35869" }],
+    "sections": [
+      { "term": "202430", "crn": "34835" },
+      { "term": "202330", "crn": "35869" }
+    ],
     "description": "Investigates the reporting of uncertain positions and accounting treatment accorded current and deferred income tax liabilities and expenses. Topics include accounting for uncertain tax positions, accounting methods and periods (particularly in cases where the accounting and tax records differ), special elections available to taxpayers, installment reporting, inventory methods, long-term contract accounting, and cash vs. accrual reporting.",
     "coreqs": [],
     "prereqs": []
@@ -999,7 +1069,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202360", "crn": "61715" }],
+    "sections": [
+      { "term": "202360", "crn": "61715" },
+      { "term": "202360", "crn": "61830" }
+    ],
     "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []

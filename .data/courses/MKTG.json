@@ -7,6 +7,23 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30352" },
+      { "term": "202430", "crn": "30351" },
+      { "term": "202430", "crn": "30350" },
+      { "term": "202430", "crn": "30349" },
+      { "term": "202430", "crn": "30348" },
+      { "term": "202430", "crn": "31313" },
+      { "term": "202430", "crn": "31341" },
+      { "term": "202430", "crn": "31588" },
+      { "term": "202430", "crn": "31655" },
+      { "term": "202430", "crn": "31907" },
+      { "term": "202430", "crn": "32151" },
+      { "term": "202430", "crn": "32456" },
+      { "term": "202430", "crn": "32881" },
+      { "term": "202430", "crn": "33508" },
+      { "term": "202430", "crn": "34008" },
+      { "term": "202430", "crn": "37243" },
+      { "term": "202430", "crn": "40675" },
       { "term": "202410", "crn": "10351" },
       { "term": "202410", "crn": "10350" },
       { "term": "202410", "crn": "10349" },
@@ -102,6 +119,13 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30857" },
+      { "term": "202430", "crn": "30858" },
+      { "term": "202430", "crn": "31025" },
+      { "term": "202430", "crn": "31026" },
+      { "term": "202430", "crn": "31079" },
+      { "term": "202430", "crn": "31080" },
+      { "term": "202430", "crn": "34398" },
       { "term": "202410", "crn": "10813" },
       { "term": "202410", "crn": "10814" },
       { "term": "202410", "crn": "10815" },
@@ -134,8 +158,9 @@
     "title": "Marketing and Society",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["EX", "SI", "ER"],
+    "nuPath": ["ER", "EX", "SI"],
     "sections": [
+      { "term": "202430", "crn": "32882" },
       { "term": "202410", "crn": "20496" },
       { "term": "202330", "crn": "33257" }
     ],
@@ -151,11 +176,24 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34684" },
       { "term": "202410", "crn": "16947" },
       { "term": "202330", "crn": "35623" },
       { "term": "202310", "crn": "19310" }
     ],
     "description": "Introduces the fundamental techniques of quantitative data analysis and visualization in the marketing context. Emphasizes real-world consumer data and applications using R. Offers students an opportunity to learn a wide variety of foundational data-driven inference methods and progress to more advanced coursework delving into analyzing and understanding complex behavioral data. No previous experience in data analysis or programming required.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MKTG",
+    "number": "2720",
+    "title": "Enabling Technologies for Consumer Engagement",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39071" }],
+    "description": "Introduces how organizations use the latest technologies for enhancing consumer engagement. Uses case studies and exercises to offer a broad overview of creative marketing applications across multiple industries and touchpoints. Examples may include augmented reality, virtual reality, mixed reality, internet of things, real-time interactivity, geolocation tools, wearables, dynamic content personalization, automation, social media, chatbots, voice assistants, and artificial intelligence.",
     "coreqs": [],
     "prereqs": []
   },
@@ -167,6 +205,10 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "30347" },
+      { "term": "202430", "crn": "30346" },
+      { "term": "202430", "crn": "30345" },
+      { "term": "202430", "crn": "31081" },
       { "term": "202410", "crn": "10342" },
       { "term": "202410", "crn": "10341" },
       { "term": "202410", "crn": "10340" },
@@ -204,6 +246,11 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "30344" },
+      { "term": "202430", "crn": "30343" },
+      { "term": "202430", "crn": "30342" },
+      { "term": "202430", "crn": "30785" },
+      { "term": "202430", "crn": "32883" },
       { "term": "202410", "crn": "10339" },
       { "term": "202410", "crn": "10338" },
       { "term": "202410", "crn": "10337" },
@@ -263,7 +310,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38153" }],
+    "sections": [
+      { "term": "202430", "crn": "36186" },
+      { "term": "202330", "crn": "38153" }
+    ],
     "description": "Examines how to capture, manage, analyze, and apply consumer data to gain a better understanding of consumer attitudes, preferences, and thought processes with the goal of helping organizations improve customer experience. Focuses on defining, designing, and solving marketing problems through data analysis and experimental design.",
     "coreqs": [],
     "prereqs": [
@@ -284,6 +334,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31995" },
+      { "term": "202430", "crn": "33234" },
       { "term": "202410", "crn": "12324" },
       { "term": "202330", "crn": "32228" },
       { "term": "202330", "crn": "33674" },
@@ -306,6 +358,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36187" },
+      { "term": "202430", "crn": "39072" },
       { "term": "202410", "crn": "15314" },
       { "term": "202410", "crn": "20939" },
       { "term": "202340", "crn": "41888" },
@@ -339,6 +393,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33235" },
+      { "term": "202430", "crn": "37377" },
       { "term": "202410", "crn": "10820" },
       { "term": "202410", "crn": "20928" },
       { "term": "202340", "crn": "41876" },
@@ -367,6 +423,9 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "31516" },
+      { "term": "202430", "crn": "31908" },
+      { "term": "202430", "crn": "33236" },
       { "term": "202410", "crn": "11131" },
       { "term": "202410", "crn": "13109" },
       { "term": "202360", "crn": "61492" },
@@ -395,6 +454,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31909" },
       { "term": "202410", "crn": "14418" },
       { "term": "202330", "crn": "32132" },
       { "term": "202310", "crn": "15166" }
@@ -455,6 +515,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36189" },
       { "term": "202410", "crn": "17763" },
       { "term": "202330", "crn": "38156" },
       { "term": "202310", "crn": "20175" }
@@ -471,6 +532,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37517" },
       { "term": "202410", "crn": "20502" },
       { "term": "202330", "crn": "39557" }
     ],
@@ -528,6 +590,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30718" },
+      { "term": "202430", "crn": "34424" },
+      { "term": "202430", "crn": "34581" },
       { "term": "202410", "crn": "10637" },
       { "term": "202410", "crn": "10636" },
       { "term": "202340", "crn": "41361" },
@@ -556,6 +621,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39073" },
+      { "term": "202430", "crn": "34949" },
       { "term": "202340", "crn": "41878" },
       { "term": "202330", "crn": "36030" },
       { "term": "202330", "crn": "30938" }
@@ -626,6 +693,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30875" },
       { "term": "202330", "crn": "30933" },
       { "term": "202330", "crn": "30934" },
       { "term": "202240", "crn": "40689" }
@@ -688,6 +756,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35452" },
       { "term": "202410", "crn": "20497" },
       { "term": "202340", "crn": "41880" },
       { "term": "202350", "crn": "52453" },
@@ -750,7 +819,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38157" }],
+    "sections": [
+      { "term": "202430", "crn": "36190" },
+      { "term": "202330", "crn": "38157" }
+    ],
     "description": "Introduces how to measure, analyze, and evaluate the profit impact of marketing actions (MAP) by bringing together marketing, strategy, and finance. Your organization is going to spend millions on a new marketing or strategic initiative, but how will you know if it is working? Marketing performance measurement and feedback systems enable managers to take smarter risks by assessing experimental projects and forecasting the profit potential of bigger, bolder initiatives. Offers students an opportunity to explore systems that summarize marketing productivity and suggest steps for performance improvement in marketing strategy and tactics.",
     "coreqs": [],
     "prereqs": [
@@ -770,7 +842,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32768" }],
+    "sections": [
+      { "term": "202430", "crn": "32464" },
+      { "term": "202330", "crn": "32768" }
+    ],
     "description": "Introduces informationcentric methods that help to choose which customer markets are worth pursuing; that identify what benefits would be most attractive to offer these customers; and that develop, communicate, and deliver products and services that provide value to both customers and organizations. In the current customercentric marketplace, every member within an organization is responsible for understanding and engaging customers, regardless of their specific functional role. Properly collecting and utilizing data from inside and outside the organization is necessary to support this process. Using real-world cases, scenarios, and data, offers students an opportunity to learn how customer relationships can be created and sustained.",
     "coreqs": [],
     "prereqs": []
@@ -783,6 +858,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33809" },
+      { "term": "202430", "crn": "34425" },
       { "term": "202410", "crn": "15288" },
       { "term": "202410", "crn": "15799" },
       { "term": "202340", "crn": "41881" },
@@ -855,6 +932,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33810" },
       { "term": "202410", "crn": "13270" },
       { "term": "202410", "crn": "13271" },
       { "term": "202410", "crn": "19891" },
@@ -874,7 +952,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33154" }],
+    "sections": [
+      { "term": "202430", "crn": "32796" },
+      { "term": "202330", "crn": "33154" }
+    ],
     "description": "Examines the specific elements of marketing management, including market research, metrics, positioning, planning, and the marketing mix. Focuses on developing student skills in putting together a marketing plan based on a thorough understanding of the market. Emphasizes predicting consumer behavior, developing points of difference and parity, calibrating the different elements of the market offering, and going to market with clear performance indicators.",
     "coreqs": [],
     "prereqs": [{ "subject": "MKTG", "number": "6318" }]
@@ -887,6 +968,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37518" },
       { "term": "202410", "crn": "20506" },
       { "term": "202330", "crn": "39558" }
     ],

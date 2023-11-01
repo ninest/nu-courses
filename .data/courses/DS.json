@@ -7,6 +7,11 @@
     "credits": 2,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "32486" },
+      { "term": "202430", "crn": "32813" },
+      { "term": "202430", "crn": "33447" },
+      { "term": "202430", "crn": "39303" },
+      { "term": "202430", "crn": "39750" },
       { "term": "202410", "crn": "14014" },
       { "term": "202410", "crn": "14013" },
       { "term": "202410", "crn": "14942" },
@@ -33,6 +38,22 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36778" },
+      { "term": "202430", "crn": "36779" },
+      { "term": "202430", "crn": "36780" },
+      { "term": "202430", "crn": "36781" },
+      { "term": "202430", "crn": "36782" },
+      { "term": "202430", "crn": "36786" },
+      { "term": "202430", "crn": "37207" },
+      { "term": "202430", "crn": "36785" },
+      { "term": "202430", "crn": "37256" },
+      { "term": "202430", "crn": "40262" },
+      { "term": "202430", "crn": "40263" },
+      { "term": "202430", "crn": "40264" },
+      { "term": "202430", "crn": "40265" },
+      { "term": "202430", "crn": "40504" },
+      { "term": "202430", "crn": "39751" },
+      { "term": "202430", "crn": "40590" },
       { "term": "202410", "crn": "15097" },
       { "term": "202410", "crn": "15099" },
       { "term": "202410", "crn": "15005" },
@@ -96,6 +117,8 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "33698" },
+      { "term": "202430", "crn": "34245" },
       { "term": "202410", "crn": "14349" },
       { "term": "202410", "crn": "14943" },
       { "term": "202340", "crn": "41719" },
@@ -117,6 +140,16 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33699" },
+      { "term": "202430", "crn": "34940" },
+      { "term": "202430", "crn": "34941" },
+      { "term": "202430", "crn": "34942" },
+      { "term": "202430", "crn": "34943" },
+      { "term": "202430", "crn": "34944" },
+      { "term": "202430", "crn": "34945" },
+      { "term": "202430", "crn": "34946" },
+      { "term": "202430", "crn": "36788" },
+      { "term": "202430", "crn": "39304" },
       { "term": "202410", "crn": "14350" },
       { "term": "202410", "crn": "14944" },
       { "term": "202410", "crn": "14945" },
@@ -150,6 +183,10 @@
     "credits": 4,
     "nuPath": ["AD", "ND"],
     "sections": [
+      { "term": "202430", "crn": "37383" },
+      { "term": "202430", "crn": "37384" },
+      { "term": "202430", "crn": "37385" },
+      { "term": "202430", "crn": "39647" },
       { "term": "202410", "crn": "19720" },
       { "term": "202410", "crn": "13735" },
       { "term": "202410", "crn": "15465" },
@@ -183,6 +220,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37306" },
       { "term": "202410", "crn": "14947" },
       { "term": "202330", "crn": "39341" },
       { "term": "202310", "crn": "16054" }
@@ -199,6 +237,8 @@
     "credits": 4,
     "nuPath": ["AD", "EX", "WI"],
     "sections": [
+      { "term": "202430", "crn": "32192" },
+      { "term": "202430", "crn": "37386" },
       { "term": "202410", "crn": "13524" },
       { "term": "202340", "crn": "41721" },
       { "term": "202330", "crn": "32440" },
@@ -221,7 +261,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD"],
-    "sections": [{ "term": "202330", "crn": "39342" }],
+    "sections": [
+      { "term": "202430", "crn": "37307" },
+      { "term": "202330", "crn": "39342" }
+    ],
     "description": "Introduces data and information storage approaches for structured and unstructured data. Covers how to build large-scale information storage structures using distributed storage facilities. Explores data quality assurance, storage reliability, and challenges of working with very large data volumes. Studies how to model multidimensional data. Implements distributed databases. Considers multitier storage design, storage area networks, and distributed data stores. Applies algorithms, including graph traversal, hashing, and sorting, to complex data storage systems. Considers complexity theory and hardness of large-scale data storage and retrieval. Requires use of nonrelational, document, key-column, key-value, and graph databases and programming in R, Python, and C++.",
     "coreqs": [],
     "prereqs": [
@@ -242,6 +285,9 @@
     "credits": 4,
     "nuPath": ["AD", "CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "37085" },
+      { "term": "202430", "crn": "37310" },
+      { "term": "202430", "crn": "39652" },
       { "term": "202410", "crn": "12632" },
       { "term": "202410", "crn": "19963" },
       { "term": "202360", "crn": "61604" },
@@ -254,14 +300,13 @@
     "coreqs": [],
     "prereqs": [
       "(",
-      "(",
       { "subject": "DS", "number": "4100" },
       "Or",
       { "subject": "DS", "number": "3000" },
       ")",
       "And",
       "(",
-      { "subject": "CS", "number": "3810" },
+      { "subject": "CS", "number": "2810" },
       "Or",
       { "subject": "ECON", "number": "2350" },
       "Or",
@@ -274,7 +319,6 @@
       { "subject": "PHTH", "number": "2210" },
       "Or",
       { "subject": "PSYC", "number": "2320" },
-      ")",
       ")",
       "Or",
       "(",
@@ -292,11 +336,24 @@
     "credits": 4,
     "nuPath": ["AD", "CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "39305" },
       { "term": "202410", "crn": "19721" },
       { "term": "202330", "crn": "39372" },
       { "term": "202330", "crn": "40435" }
     ],
     "description": "Continues with supervised and unsupervised predictive modeling, data mining, and machine-learning concepts. Covers mathematical and computational aspects of learning algorithms, including kernels, time-series data, collaborative filtering, support vector machines, neural networks, Bayesian learning and Monte Carlo methods, multiple regression, and optimization. Uses mathematical proofs and empirical analysis to assess validity and performance of algorithms. Studies additional computational aspects of probability, statistics, and linear algebra that support algorithms. Requires programming in R and Python. Applies concepts to common problem domains, including spam filtering.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "DS", "number": "4400" }]
+  },
+  {
+    "subject": "DS",
+    "number": "4440",
+    "title": "Practical Neural Networks",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["AD"],
+    "sections": [{ "term": "202430", "crn": "39306" }],
+    "description": "Offers a hands-on introduction to modern neural network (\"deep learning\") methods and tools. Covers fundamentals of neural networks and introduces standard and new architectures from simple feedforward networks to recurrent and “transformer” architectures. Also covers stochastic gradient descent and backpropagation, along with related parameter estimation techniques. Emphasizes using these technologies in practice, via modern toolkits. Reviews applications of these models to various types of data, including images and text.",
     "coreqs": [],
     "prereqs": [{ "subject": "DS", "number": "4400" }]
   },
@@ -308,6 +365,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32576" },
+      { "term": "202430", "crn": "39716" },
+      { "term": "202430", "crn": "40741" },
       { "term": "202410", "crn": "17375" },
       { "term": "202410", "crn": "16869" },
       { "term": "202410", "crn": "20314" },
@@ -331,6 +391,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39717" },
+      { "term": "202430", "crn": "35142" },
+      { "term": "202430", "crn": "39824" },
       { "term": "202410", "crn": "17376" },
       { "term": "202410", "crn": "20171" },
       { "term": "202410", "crn": "20315" },
@@ -355,6 +418,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39718" },
+      { "term": "202430", "crn": "35178" },
+      { "term": "202430", "crn": "37460" },
+      { "term": "202430", "crn": "37462" },
       { "term": "202410", "crn": "17377" },
       { "term": "202410", "crn": "20172" },
       { "term": "202410", "crn": "20316" },
@@ -381,6 +448,8 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "39825" },
+      { "term": "202430", "crn": "39826" },
       { "term": "202410", "crn": "12617" },
       { "term": "202410", "crn": "17378" },
       { "term": "202410", "crn": "19962" },
@@ -404,6 +473,10 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "32319" },
+      { "term": "202430", "crn": "36793" },
+      { "term": "202430", "crn": "37471" },
+      { "term": "202430", "crn": "39719" },
       { "term": "202410", "crn": "20476" },
       { "term": "202410", "crn": "21007" },
       { "term": "202350", "crn": "52764" },
@@ -424,6 +497,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39720" },
+      { "term": "202430", "crn": "39827" },
+      { "term": "202430", "crn": "39828" },
+      { "term": "202430", "crn": "40442" },
       { "term": "202410", "crn": "17923" },
       { "term": "202410", "crn": "19722" },
       { "term": "202350", "crn": "52733" },
@@ -446,6 +523,18 @@
       "And",
       { "subject": "DS", "number": "5230" }
     ]
+  },
+  {
+    "subject": "DS",
+    "number": "5983",
+    "title": "Large Language Models",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40731" }],
+    "description": "Description: Large language models (LLMs) are advanced machine learning architectures designed to understand and generate human-like text by training on vast amounts of data, allowing them to excel in tasks like translation, summarization, and question answering. This course introduces students to the foundations, methodologies, and implications of large language models. By the end of this course, students will have the skills to understand, evaluate, and work with LLMs in a variety of scenarios.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "DS",

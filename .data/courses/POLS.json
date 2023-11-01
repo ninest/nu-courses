@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39831" },
       { "term": "202410", "crn": "10025" },
       { "term": "202330", "crn": "36619" },
       { "term": "202310", "crn": "10027" }
@@ -23,6 +24,8 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "31570" },
+      { "term": "202430", "crn": "33363" },
       { "term": "202410", "crn": "13938" },
       { "term": "202410", "crn": "13939" },
       { "term": "202410", "crn": "17178" },
@@ -49,6 +52,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30287" },
+      { "term": "202430", "crn": "33264" },
+      { "term": "202430", "crn": "35616" },
       { "term": "202410", "crn": "10979" },
       { "term": "202410", "crn": "13234" },
       { "term": "202410", "crn": "12680" },
@@ -76,6 +82,11 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "31209" },
+      { "term": "202430", "crn": "31571" },
+      { "term": "202430", "crn": "31781" },
+      { "term": "202430", "crn": "33364" },
+      { "term": "202430", "crn": "37261" },
       { "term": "202410", "crn": "12681" },
       { "term": "202410", "crn": "13497" },
       { "term": "202410", "crn": "13798" },
@@ -105,7 +116,7 @@
     "title": "The Holocaust and Comparative Genocide",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["ER", "SI"],
+    "nuPath": ["SI", "ER"],
     "sections": [
       { "term": "202410", "crn": "13940" },
       { "term": "202310", "crn": "14541" },
@@ -123,6 +134,11 @@
     "credits": 4,
     "nuPath": ["ER", "IC", "WI"],
     "sections": [
+      { "term": "202430", "crn": "32745" },
+      { "term": "202430", "crn": "31916" },
+      { "term": "202430", "crn": "33370" },
+      { "term": "202430", "crn": "33658" },
+      { "term": "202430", "crn": "37298" },
       { "term": "202410", "crn": "12142" },
       { "term": "202410", "crn": "13498" },
       { "term": "202410", "crn": "14288" },
@@ -163,6 +179,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31062" },
       { "term": "202330", "crn": "31146" },
       { "term": "202310", "crn": "13024" }
     ],
@@ -177,7 +194,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20123" }],
+    "sections": [
+      { "term": "202430", "crn": "39313" },
+      { "term": "202410", "crn": "20123" }
+    ],
     "description": "Introduces students to a range of positions in contemporary political theory, familiarizing them with key texts, authors, and debates, such as those concerning critiques of power, global justice, and pluralism. Explores a range of methodological and theoretical approaches associated with these texts and examines some of their implications in the assessment of modern societies, their values, and institutional arrangements. Offers students an opportunity to develop the ability to critically reflect on the nature and scope of political discourse.",
     "coreqs": [],
     "prereqs": []
@@ -229,6 +249,8 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "36271" },
+      { "term": "202430", "crn": "37262" },
       { "term": "202410", "crn": "17182" },
       { "term": "202330", "crn": "38249" },
       { "term": "202330", "crn": "39295" },
@@ -245,7 +267,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19554" }],
+    "sections": [
+      { "term": "202430", "crn": "39314" },
+      { "term": "202310", "crn": "19554" }
+    ],
     "description": "Offers an overview of immigration politics from a comparative perspective. Examines the history of immigration to the United States and Europe, focusing on migration, naturalization, assimilation, and integration policies. Details the political processes that have led to different policies over time and across countries.",
     "coreqs": [],
     "prereqs": []
@@ -282,12 +307,27 @@
   },
   {
     "subject": "POLS",
+    "number": "2378",
+    "title": "Race and Ethnic Politics in the United States",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202430", "crn": "39745" }],
+    "description": "Explores how race and ethnicity influence American political institutions and the behaviors of their residents. Defines concepts like race and ethnicity and the impact that immigration has on diversifying the American polity. Investigates the three dominant ethno-racial minority groups (i.e., Black and African Americans, Asian Americans, and Latinos/as/x) and their political behaviors. Surveys topics such as the formation of partisan identification (i.e., Democrats and Republicans); political representation; policy preferences and public opinions; and mobilization and group-based participation.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "POLS",
     "number": "2390",
     "title": "Science, Technology, and Public Policy",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34223" }],
+    "sections": [
+      { "term": "202430", "crn": "33653" },
+      { "term": "202330", "crn": "34223" }
+    ],
     "description": "Considers the role of science and technology in the policymaking process, not only as a tool but also as a subject of policymaking. Cases include government involvement in innovation and economic growth, the role of the military in the development of science and technology, the governance and regulation of the effects of scientific and technological progress, public funding of science and technology, and ethical aspects of science and technology, including the emerging focus on anticipatory and participatory governance.",
     "coreqs": [],
     "prereqs": []
@@ -299,8 +339,23 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["SI"],
-    "sections": [{ "term": "202330", "crn": "35681" }],
+    "sections": [
+      { "term": "202430", "crn": "34718" },
+      { "term": "202330", "crn": "35681" }
+    ],
     "description": "Examines the political forces, governmental institutions, socioeconomic factors, and global trends that shape environmental policy at national and subnational levels in the United States. A spectrum of different environmental issues is discussed, with some comparison of policy activity in the U.S., other nations, and at the global level.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "POLS",
+    "number": "2396",
+    "title": "The Psychology of Misinformation",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["SI"],
+    "sections": [{ "term": "202430", "crn": "40503" }],
+    "description": "Examines the psychological processes involved in the believing, sharing, and correcting of misinformation. Explores the cognitive and social factors that contribute to the spread of misinformation and its impact on individuals and society. Introduces methods of experiment design and opportunities to engage in experimental research for understanding misinformation.",
     "coreqs": [],
     "prereqs": []
   },
@@ -312,6 +367,9 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "31996" },
+      { "term": "202430", "crn": "33265" },
+      { "term": "202430", "crn": "40692" },
       { "term": "202410", "crn": "10206" },
       { "term": "202410", "crn": "13495" },
       { "term": "202340", "crn": "40602" },
@@ -330,11 +388,7 @@
       "Or",
       { "subject": "ENGW", "number": "1111" },
       "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1113" },
-      "Or",
-      { "subject": "ENGW", "number": "1114" }
+      { "subject": "ENGW", "number": "1102" }
     ]
   },
   {
@@ -345,6 +399,8 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "30947" },
+      { "term": "202430", "crn": "31210" },
       { "term": "202410", "crn": "14706" },
       { "term": "202410", "crn": "17184" },
       { "term": "202360", "crn": "60498" },
@@ -370,9 +426,7 @@
       "Or",
       { "subject": "MATH", "number": "1341" },
       "Or",
-      { "subject": "MATH", "number": "1342" },
-      "Or",
-      { "subject": "CS", "number": "1800" }
+      { "subject": "MATH", "number": "1342" }
     ]
   },
   {
@@ -383,6 +437,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "39379" },
       { "term": "202410", "crn": "17157" },
       { "term": "202310", "crn": "19524" }
     ],
@@ -424,8 +479,23 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33714" }],
+    "sections": [
+      { "term": "202430", "crn": "33266" },
+      { "term": "202330", "crn": "33714" }
+    ],
     "description": "Examines the nature of the judiciary in the United States. Focuses on courts and various aspects of the judicial process, including judicial selection, judicial decision making, the impact of judicial decisions on society, and public opinion of courts. After exploring, from various methodological perspectives, how and why courts behave as they do, the course turns its attention to questions about the role of courts in U.S. politics.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "POLS", "number": "1150" }]
+  },
+  {
+    "subject": "POLS",
+    "number": "3304",
+    "title": "Presidential Nominating Process",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39315" }],
+    "description": "Offers students an in-depth examination of the process the two major American parties use to nominate their presidential candidates. Major topics include the history and evolution of the presidential nomination process; the contemporary rules regime; the behavior of candidates, voters, and the media; vice presidential selection; the role of the national conventions; and prospects for reform. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
     "prereqs": [{ "subject": "POLS", "number": "1150" }]
   },
@@ -437,6 +507,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36388" },
       { "term": "202340", "crn": "40244" },
       { "term": "202330", "crn": "38369" },
       { "term": "202310", "crn": "13025" },
@@ -527,6 +598,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34719" },
       { "term": "202410", "crn": "13942" },
       { "term": "202330", "crn": "35682" },
       { "term": "202310", "crn": "14544" }
@@ -542,7 +614,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "SI"],
-    "sections": [{ "term": "202310", "crn": "19557" }],
+    "sections": [
+      { "term": "202430", "crn": "39316" },
+      { "term": "202310", "crn": "19557" }
+    ],
     "description": "Explores contending theories of identity and nationalism—a powerful force in international and domestic politics. Examines topics such as the process of identity creation, the choice of national symbols, how group boundaries are established, the role of identity in conflict and state building, and the debate over nationalism’s constructed or primordial nature. POLS 3418 and CLTR 3418 are cross-listed.",
     "coreqs": [],
     "prereqs": [
@@ -558,7 +633,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "14545" }],
+    "sections": [
+      { "term": "202430", "crn": "39317" },
+      { "term": "202310", "crn": "14545" }
+    ],
     "description": "Analyzes U.S. national security policy, with an emphasis on traditional and nontraditional threats, including threats from state and nonstate actors. Studies the national security policy process with special attention to developing countermeasures as well as resilience.",
     "coreqs": [],
     "prereqs": [
@@ -631,7 +709,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39125" }],
+    "sections": [
+      { "term": "202430", "crn": "37108" },
+      { "term": "202330", "crn": "39125" }
+    ],
     "description": "Presents an analysis of the goals, methods, and achievements of Russian policy in the post-Soviet era toward Eastern Europe, Western Europe, the Middle East, Central and East Asia, and the United States against the background of Soviet behavior toward these areas in the recent past.",
     "coreqs": [],
     "prereqs": [
@@ -682,10 +763,29 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38373" }],
+    "sections": [
+      { "term": "202430", "crn": "39808" },
+      { "term": "202330", "crn": "38373" }
+    ],
     "description": "Focuses on China's political system and the major issues confronted: leadership recruitment and succession, economic policies and development, class and class struggle, political culture and socialization, human rights, civil society, the media, and both internal and external security concerns. Examines how ideology, development, culture, and the pursuit of China's national interest affect governance.",
     "coreqs": [],
     "prereqs": [{ "subject": "POLS", "number": "1155" }]
+  },
+  {
+    "subject": "POLS",
+    "number": "3487",
+    "title": "Politics of Developing Nations",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39318" }],
+    "description": "Examines the political, governmental, social, economic, cultural, environmental, and geopolitical dimensions of change in nations regarded as &#8220;developing&#8221; by international standards. Covers a broad spectrum of types of nations including those in Eastern and Central Europe but pays particular attention to those in Asia, Africa, and Central and South America.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "POLS", "number": "1155" },
+      "Or",
+      { "subject": "INTL", "number": "1101" }
+    ]
   },
   {
     "subject": "POLS",
@@ -694,7 +794,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ER", "SI"],
-    "sections": [{ "term": "202330", "crn": "35840" }],
+    "sections": [
+      { "term": "202430", "crn": "34814" },
+      { "term": "202330", "crn": "35840" }
+    ],
     "description": "Examines the legal regulation of gender and sexuality. Investigates concrete legal cases to study the history of constitutional interpretation and the current status of rights for women and sexual minorities. Focuses on important theoretical issues emerging in the writings of diverse feminist and queer legal scholars. Addresses debates over the value of conventional equality approaches in legal doctrine; equality vs. difference perspectives; ways in which legal language constructs gender and sexuality; the incorporation of sexuality and gender in ideologies of law; and the intersections of gender, sexuality, and race in legal doctrine and legal theory. PHIL 3500, POLS 3500, and WMNS 3500 are cross-listed.",
     "coreqs": [],
     "prereqs": []
@@ -738,6 +841,11 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30087" },
+      { "term": "202430", "crn": "31373" },
+      { "term": "202430", "crn": "33267" },
+      { "term": "202430", "crn": "37821" },
+      { "term": "202430", "crn": "40693" },
       { "term": "202410", "crn": "10502" },
       { "term": "202410", "crn": "15152" },
       { "term": "202330", "crn": "30090" },
@@ -792,6 +900,18 @@
   },
   {
     "subject": "POLS",
+    "number": "4918",
+    "title": "Model NATO",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["EX", "SI"],
+    "sections": [{ "term": "202430", "crn": "39319" }],
+    "description": "Offers students an opportunity to participate in teams that research assigned nations and represent those nations in a model role-playing exercise of the North Atlantic Treaty Organization (NATO). Students may be selected to represent Northeastern University at the National Model NATO program in Washington, D.C. May be repeated up to two times.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "POLS", "number": "1160" }]
+  },
+  {
+    "subject": "POLS",
     "number": "4937",
     "title": "Dialogue of Civilizations: Government and Politics Abroad",
     "scheduleType": "Off-campus instruction",
@@ -840,7 +960,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "40636" }],
+    "sections": [
+      { "term": "202430", "crn": "38530" },
+      { "term": "202330", "crn": "40636" }
+    ],
     "description": "Offers assigned reading under the supervision of a faculty member. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -909,7 +1032,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19560" }],
+    "sections": [
+      { "term": "202430", "crn": "39320" },
+      { "term": "202310", "crn": "19560" }
+    ],
     "description": "Focuses on major research approaches and corresponding academic literature in international relations.  Examines major fields of study, including international security, international regimes, international organizations, globalization, and international political economy.",
     "coreqs": [],
     "prereqs": []
@@ -921,7 +1047,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202430", "crn": "39321" }],
     "description": "Focuses on American political parties and includes analyses of party organizations and decision-making systems, leader/activist differences in policy and ideology, party reform, policy commitments, campaign finance, media, voting behavior, and an overview and assessment of contemporary elections and campaigns.",
     "coreqs": [],
     "prereqs": []
@@ -935,6 +1061,18 @@
     "nuPath": [],
     "sections": [{ "term": "202330", "crn": "39423" }],
     "description": "Studies the judicial process in the United States, emphasizing federal courts. Focuses on theories and empirical research regarding judicial decision making, how and why judges decide what they do, and the resulting political effects.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "POLS",
+    "number": "7325",
+    "title": "Contemporary Issues in Third World Development",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39322" }],
+    "description": "Examines the major themes in development studies today. Explores approaches to the development and production, population growth, equity and poverty, rural and urban development, health and nutrition, education, and the international context of development assistance. Students considering a development administration concentration should try to take this course as their first in the field of development.",
     "coreqs": [],
     "prereqs": []
   },
@@ -958,6 +1096,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35584" },
       { "term": "202410", "crn": "17192" },
       { "term": "202330", "crn": "37141" },
       { "term": "202310", "crn": "19563" },
@@ -989,7 +1128,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32246" }],
+    "sections": [
+      { "term": "202430", "crn": "32013" },
+      { "term": "202330", "crn": "32246" }
+    ],
     "description": "Examines the characteristics of resilient cities, especially those located in coastal regions. Investigates the capacity of cities to respond to major disruptions to their social and ecological systems. Includes extensive use of case studies, such as the 2004 Indian Ocean tsunami and Hurricane Katrina in 2005, as well as readings on cities and social systems. Offers students an opportunity to analyze an urban area and provide recommendations for improving its resilience. POLS 7346 and PPUA 7346 are cross-listed.",
     "coreqs": [],
     "prereqs": []
@@ -1020,12 +1162,31 @@
   },
   {
     "subject": "POLS",
+    "number": "7387",
+    "title": "Global Governance",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39323" }],
+    "description": "Introduces the concept of global governance and the core architectural elements of the current system of global governance. Examines the key policy purposes and tasks carried out by global governance processes.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "POLS",
     "number": "7976",
     "title": "Directed Study",
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38274" },
+      { "term": "202430", "crn": "38332" },
+      { "term": "202430", "crn": "38360" },
+      { "term": "202430", "crn": "38579" },
+      { "term": "202430", "crn": "38532" },
+      { "term": "202430", "crn": "38594" },
+      { "term": "202430", "crn": "38653" },
       { "term": "202410", "crn": "22303" },
       { "term": "202410", "crn": "22365" },
       { "term": "202340", "crn": "42141" },
@@ -1094,6 +1255,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34074" },
       { "term": "202410", "crn": "12684" },
       { "term": "202310", "crn": "13026" }
     ],
@@ -1121,6 +1283,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32960" },
       { "term": "202410", "crn": "15153" },
       { "term": "202350", "crn": "52922" },
       { "term": "202330", "crn": "33350" },
@@ -1138,6 +1301,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31795" },
       { "term": "202410", "crn": "12685" },
       { "term": "202330", "crn": "31999" }
     ],
@@ -1153,6 +1317,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34075" },
       { "term": "202350", "crn": "51296" },
       { "term": "202310", "crn": "14963" }
     ],
@@ -1168,6 +1333,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30765" },
       { "term": "202410", "crn": "12686" },
       { "term": "202350", "crn": "52924" },
       { "term": "202330", "crn": "30815" },

@@ -7,6 +7,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33986" },
+      { "term": "202430", "crn": "30054" },
+      { "term": "202430", "crn": "35761" },
       { "term": "202410", "crn": "10075" },
       { "term": "202410", "crn": "13012" },
       { "term": "202410", "crn": "10804" },
@@ -33,6 +36,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30053" },
+      { "term": "202430", "crn": "32792" },
       { "term": "202410", "crn": "13173" },
       { "term": "202410", "crn": "10071" },
       { "term": "202340", "crn": "41123" },
@@ -56,6 +61,18 @@
     "description": "This course focuses on classifier /depicting signs, and includes ASL vocabulary related to medical /body systems.",
     "coreqs": [],
     "prereqs": [{ "subject": "AMSL", "number": "1101" }]
+  },
+  {
+    "subject": "AMSL",
+    "number": "1512",
+    "title": "ASL Numbers and Fingerspelling",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39849" }],
+    "description": "Offers students an opportunity to improve receptive and expressive skills in the specific areas of ASL fingerspelling and ASL numbers. Includes a brief history of fingerspelling. Focuses on strategies for understanding fingerspelling/word phrases and number recognition; recognizing number patterns (e.g., ordinal and cardinal numbers, height, age, time); and additional strategies for understanding and using numbers and fingerspelling in context. Uses drills to improve speed, clarity, and fluency skills.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "AMSL", "number": "1102" }]
   },
   {
     "subject": "AMSL",
@@ -83,7 +100,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30055" }],
+    "sections": [
+      { "term": "202430", "crn": "30052" },
+      { "term": "202330", "crn": "30055" }
+    ],
     "description": "Continues AMSL 2101. Emphasizes further development of receptive and expressive skills, finger spelling, vocabulary building, grammatical structures; encourages more extensive use of nonmanual behaviors, classifiers, body postures, and signing space. Continues exposure to regional and ethnic sign variations and political and educational institutions of Deaf people. Offers intensive practice involving expressive and receptive skills in storytelling and dialogue. Introduces language forms used in American Sign Language poetry and the features of culture as they are displayed in art.",
     "coreqs": [],
     "prereqs": [{ "subject": "AMSL", "number": "2101" }]
@@ -122,7 +142,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30008" }],
+    "sections": [
+      { "term": "202430", "crn": "30008" },
+      { "term": "202330", "crn": "30008" }
+    ],
     "description": "Continues AMSL 3101. Focuses on further development and refinement of American Sign Language competence in various discourse settings, predominantly formal and consultative. Continues development of lexical semantics and uses individual diagnostic assessment of ASL competence to determine individual competency goals.",
     "coreqs": [],
     "prereqs": [{ "subject": "AMSL", "number": "3101" }]
@@ -149,7 +172,10 @@
     "scheduleType": "Off-campus instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38658" }],
+    "sections": [
+      { "term": "202430", "crn": "36664" },
+      { "term": "202330", "crn": "38658" }
+    ],
     "description": "Offers students an opportunity to study at an officially bilingual university, with American Sign Language and English used for instruction and by the university.",
     "coreqs": [],
     "prereqs": []

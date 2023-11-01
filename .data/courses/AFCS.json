@@ -1,6 +1,18 @@
 [
   {
     "subject": "AFCS",
+    "number": "1261",
+    "title": "Global Caribbean",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40737" }],
+    "description": "Focuses on the culture and history of Caribbean societies in global perspective. Explores Caribbean creativity and resilience across English, French, and Spanish linguistic and political spheres with examples from literature, art, music, food, technology, and performance. Considers the global reach of Caribbean diasporas, highlighting the long local histories of Caribbean communities in Boston. Follows four key themes—indigeneity, blackness, diaspora, and creolization—to understand this unique point of entry for the study of race, gender, and sexuality in the Americas.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "AFCS",
     "number": "2330",
     "title": "Afro-Latin American Studies",
     "scheduleType": "Lecture",
@@ -30,5 +42,17 @@
       "Or",
       { "subject": "ENGW", "number": "1114" }
     ]
+  },
+  {
+    "subject": "AFCS",
+    "number": "3210",
+    "title": "Black Abolition Studies: Carcerality, Liberation, and Resistance",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["DD"],
+    "sections": [{ "term": "202430", "crn": "38804" }],
+    "description": "Analyzes how Black people have resisted carcerality in social and political organizing from the 16th century to the present. Explores historical understandings of abolition as the end of slavery and the current abolition project of ending prisons, policing, and other institutions that are shaped by the legacy of slavery. Offers students an opportunity to critically analyze and engage contemporary social movements and political discourse in their everyday lives. Topics include the Haitian Revolution, maroon communities, 19th-century slavery abolitionists, anti-lynching organizing, chain gangs, Black political prisoners, contemporary carceral abolition, and abolitionist texts and films.",
+    "coreqs": [],
+    "prereqs": []
   }
 ]

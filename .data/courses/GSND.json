@@ -117,6 +117,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37492" },
       { "term": "202410", "crn": "20820" },
       { "term": "202330", "crn": "39532" }
     ],
@@ -132,6 +133,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32555" },
+      { "term": "202430", "crn": "35269" },
+      { "term": "202430", "crn": "38064" },
+      { "term": "202430", "crn": "40662" },
       { "term": "202330", "crn": "32872" },
       { "term": "202330", "crn": "40152" }
     ],
@@ -161,7 +166,12 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "37089" }],
+    "sections": [
+      { "term": "202430", "crn": "35550" },
+      { "term": "202430", "crn": "39000" },
+      { "term": "202430", "crn": "40663" },
+      { "term": "202330", "crn": "37089" }
+    ],
     "description": "Explores theories of perception, motivation, needs, learning, goals, and belief systems as they pertain to games and play. Examines psychological principles, including visual and audio perception, emotions, behavior, personality, and the more recent scientific discoveries around psychological models explaining play behavior or motivation theories behind play. Introduces how players learn in and from games based on the relationship of play to learning theories. Forms a solid theoretical basis for a new segmentation tool—psychographics. Explores visual and cultural archetypes, digging into comics, movie sets, and cartoons to distillate what makes people tick in certain ways relating to universal theories of perception and gestalt theories. Applies the theories through critical analysis of play behavior and games.",
     "coreqs": [],
     "prereqs": [
@@ -234,7 +244,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39741" }],
+    "sections": [
+      { "term": "202430", "crn": "37661" },
+      { "term": "202330", "crn": "39741" }
+    ],
     "description": "Introduces the topic of game analytics, defined as the process of discovering and communicating patterns in data with a goal of solving problems and developing predictions in user behavior supporting decision management, driving action, and/or improving game products. Covers the fundamental tools, methods, and principles of game analytics, including the knowledge-discovery process, data collection, feature extraction and selection, pattern recognition to aid in prediction and churn analysis, visualization, and reporting. Covers analytics across game forms, notably online games and delivery platforms. Presents analytical tools recommended during development and tools designed for ongoing maintenance of games.",
     "coreqs": [],
     "prereqs": []
@@ -246,8 +259,24 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39713" }],
+    "sections": [
+      { "term": "202430", "crn": "35271" },
+      { "term": "202430", "crn": "37633" },
+      { "term": "202330", "crn": "39713" }
+    ],
     "description": "Studies principles of procedural content generation and generative methods, including modular design, the role of randomness in design, and designing for emergence. Examines the role of generative design in games and its impact on both designers and players. Through assignments and a semester-long project, encourages student creation of generative systems for playful experiences. In advanced course assignments, students are expected to evaluate the experience by applying game analytics and metrics and conducting user evaluations.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "GSND",
+    "number": "6520",
+    "title": "3D Modeling and Asset Creation Principles",
+    "scheduleType": "Studio",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39001" }],
+    "description": "Introduces the principles of 3D computer modeling and asset creation. Class lectures and demonstrations are accompanied by substantial hands-on exploration. Offers students an opportunity to gain fundamental skills for modeling, surfacing, lighting, and rendering. Projects progress from creating simple geometric objects to exploring systems for developing more complex assets, including characters and virtual environments. Topics include polygonal surface modeling tools/techniques, topology/edge flow, retopology, UV layout, surfacing/materials, lighting, physically based rendering and asset optimization for games, and real-time applications.",
     "coreqs": [],
     "prereqs": []
   },
@@ -279,6 +308,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32384" },
+      { "term": "202430", "crn": "37086" },
+      { "term": "202430", "crn": "39002" },
       { "term": "202330", "crn": "39102" },
       { "term": "202310", "crn": "13802" }
     ],
@@ -294,6 +326,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38175" },
+      { "term": "202430", "crn": "38176" },
+      { "term": "202430", "crn": "39003" },
       { "term": "202410", "crn": "21981" },
       { "term": "202330", "crn": "40263" },
       { "term": "202330", "crn": "40264" }
@@ -309,7 +344,11 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20652" }],
+    "sections": [
+      { "term": "202430", "crn": "33689" },
+      { "term": "202430", "crn": "33690" },
+      { "term": "202410", "crn": "20652" }
+    ],
     "description": "Offers continued work on the thesis project.",
     "coreqs": [],
     "prereqs": [{ "subject": "GSND", "number": "7990" }]

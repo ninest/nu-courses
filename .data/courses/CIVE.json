@@ -77,6 +77,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30090" },
       { "term": "202410", "crn": "10287" },
       { "term": "202330", "crn": "30093" },
       { "term": "202310", "crn": "10306" }
@@ -109,6 +110,10 @@
     "credits": 1,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "30089" },
+      { "term": "202430", "crn": "30088" },
+      { "term": "202430", "crn": "30093" },
+      { "term": "202430", "crn": "36201" },
       { "term": "202410", "crn": "10286" },
       { "term": "202410", "crn": "10285" },
       { "term": "202410", "crn": "11218" },
@@ -131,7 +136,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20601" }],
+    "sections": [
+      { "term": "202430", "crn": "38861" },
+      { "term": "202410", "crn": "20601" }
+    ],
     "description": "Presents the theory and application of field and laboratory methods for measurement of water and air quality parameters, soil properties, and environmental processes. Introduces the complexities and challenges associated with characterization and measurements of environmental processes in natural and engineered systems. Emphasizes data analysis, report writing, development of problem-solving skills, and teamwork using real-life laboratory and field experiments and class projects.",
     "coreqs": [{ "subject": "CIVE", "number": "2301" }],
     "prereqs": [
@@ -149,7 +157,11 @@
     "scheduleType": "Lab",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20603" }],
+    "sections": [
+      { "term": "202430", "crn": "38862" },
+      { "term": "202430", "crn": "38863" },
+      { "term": "202410", "crn": "20603" }
+    ],
     "description": "Accompanies CIVE 2300. Covers topics from that course through various experiments. Includes a project.",
     "coreqs": [{ "subject": "CIVE", "number": "2300" }],
     "prereqs": []
@@ -162,6 +174,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30418" },
+      { "term": "202430", "crn": "38864" },
       { "term": "202410", "crn": "10284" },
       { "term": "202330", "crn": "30430" },
       { "term": "202310", "crn": "10303" },
@@ -179,6 +193,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30470" },
+      { "term": "202430", "crn": "38865" },
       { "term": "202410", "crn": "10500" },
       { "term": "202410", "crn": "20801" },
       { "term": "202330", "crn": "30483" },
@@ -214,6 +230,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30417" },
       { "term": "202410", "crn": "10475" },
       { "term": "202330", "crn": "30429" },
       { "term": "202310", "crn": "10512" }
@@ -230,6 +247,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31533" },
       { "term": "202410", "crn": "10283" },
       { "term": "202410", "crn": "11099" },
       { "term": "202330", "crn": "31693" },
@@ -275,6 +293,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30456" },
       { "term": "202360", "crn": "60042" },
       { "term": "202330", "crn": "30469" },
       { "term": "202260", "crn": "60045" }
@@ -295,6 +314,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30458" },
+      { "term": "202430", "crn": "30457" },
+      { "term": "202430", "crn": "30017" },
       { "term": "202360", "crn": "60041" },
       { "term": "202360", "crn": "60542" },
       { "term": "202360", "crn": "60356" },
@@ -335,6 +357,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31894" },
       { "term": "202410", "crn": "11755" },
       { "term": "202330", "crn": "32116" },
       { "term": "202310", "crn": "11974" }
@@ -350,7 +373,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32772" }],
+    "sections": [
+      { "term": "202430", "crn": "32466" },
+      { "term": "202330", "crn": "32772" }
+    ],
     "description": "Introduces the importance of microorganisms and plants to the natural and built environments and evidence-based decision making for complex systems constrained and defined by multiple metrics. Seeks to provide a fundamental understanding of microorganisms (metabolisms, growth, genetics, resource requirements, and niche) and their role in the global ecosystem (element cycling, energy flows, food webs). Examines the role of plants and microbes in both engineered and natural environmental systems and bidirectional interactions between the natural and the built environments. Framed around a series of case studies that highlight the challenges of and strategies for engineering in the earth system context, such as microbially mediated infrastructure corrosion; ecological effects of nutrient pollution; bioaccumulation; green infrastructure and remediation (constructed wetlands, bioremediation); and wastewater treatment.",
     "coreqs": [],
     "prereqs": [
@@ -369,6 +395,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32467" },
       { "term": "202410", "crn": "13962" },
       { "term": "202330", "crn": "32773" },
       { "term": "202310", "crn": "14566" }
@@ -391,6 +418,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34783" },
+      { "term": "202430", "crn": "36202" },
       { "term": "202410", "crn": "10282" },
       { "term": "202410", "crn": "19802" },
       { "term": "202330", "crn": "35780" },
@@ -409,6 +438,7 @@
     "credits": 3,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "32468" },
       { "term": "202410", "crn": "13963" },
       { "term": "202330", "crn": "32774" },
       { "term": "202310", "crn": "14567" }
@@ -433,6 +463,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32562" },
       { "term": "202410", "crn": "13964" },
       { "term": "202330", "crn": "32882" },
       { "term": "202310", "crn": "14568" }
@@ -449,6 +480,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "31895" },
       { "term": "202410", "crn": "12333" },
       { "term": "202330", "crn": "32117" },
       { "term": "202310", "crn": "12621" }
@@ -505,6 +537,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30414" },
       { "term": "202360", "crn": "60020" },
       { "term": "202330", "crn": "30426" },
       { "term": "202260", "crn": "60022" }
@@ -520,7 +553,10 @@
     "scheduleType": "Studio",
     "credits": 5,
     "nuPath": ["CE", "EI", "WI"],
-    "sections": [{ "term": "202330", "crn": "30026" }],
+    "sections": [
+      { "term": "202430", "crn": "30024" },
+      { "term": "202330", "crn": "30026" }
+    ],
     "description": "Using teams, students design a civil engineering project that primarily involves the environmental subdiscipline. Design teams are advised by a faculty member and engineering practitioners. Lectures cover supplemental technical background specific to the project, as well as cross-disciplinary aspects of project development, value engineering, aesthetics, and constructability. Integrates project design with further development of student communications skills; students present the design to practicing engineers and interested parties such as community groups.",
     "coreqs": [],
     "prereqs": [
@@ -552,13 +588,14 @@
     "scheduleType": "Studio",
     "credits": 5,
     "nuPath": ["CE", "EI", "WI"],
-    "sections": [{ "term": "202330", "crn": "30025" }],
+    "sections": [
+      { "term": "202430", "crn": "30023" },
+      { "term": "202330", "crn": "30025" }
+    ],
     "description": "Using teams, students design a civil engineering project that primarily involves the structural subdiscipline. Design teams are advised by a faculty member and engineering practitioners. Lectures cover supplemental technical background specific to the project, as well as cross-disciplinary aspects of project development, value engineering, aesthetics, and constructability. Integrates project design with further development of student communications skills; students present the design to practicing engineers and interested parties such as community groups.",
     "coreqs": [],
     "prereqs": [
       "(",
-      "(",
-      "(",
       { "subject": "CIVE", "number": "2324" },
       "And",
       { "subject": "CIVE", "number": "3425" },
@@ -575,9 +612,6 @@
       "And",
       { "subject": "CIVE", "number": "5522" },
       ")",
-      ")",
-      "Or",
-      "(",
       "(",
       { "subject": "CIVE", "number": "2324" },
       "Or",
@@ -587,7 +621,6 @@
       { "subject": "CIVE", "number": "4542" },
       "And",
       { "subject": "CS", "number": "3000" },
-      ")",
       ")",
       "And",
       "(",
@@ -610,7 +643,10 @@
     "scheduleType": "Studio",
     "credits": 5,
     "nuPath": ["CE", "EI", "WI"],
-    "sections": [{ "term": "202330", "crn": "30024" }],
+    "sections": [
+      { "term": "202430", "crn": "30022" },
+      { "term": "202330", "crn": "30024" }
+    ],
     "description": "Using teams, students design a civil engineering project that primarily involves the transportation subdiscipline. Design teams are advised by a faculty member and engineering practitioners. Lectures cover supplemental technical background specific to the project, as well as cross-disciplinary aspects of project development, value engineering, aesthetics, and constructability. Integrates project design with further development of student communications skills; students present the design to practicing engineers and interested parties such as community groups.",
     "coreqs": [],
     "prereqs": [
@@ -675,7 +711,11 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38176" }],
+    "sections": [
+      { "term": "202430", "crn": "36205" },
+      { "term": "202430", "crn": "38866" },
+      { "term": "202330", "crn": "38176" }
+    ],
     "description": "Overviews the organization of construction firms at the general corporate level and the project level. Covers cost, schedule, budget, and financial control of projects. Also examines the flow of information between parties to the project.",
     "coreqs": [],
     "prereqs": [
@@ -691,13 +731,37 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38177" }],
+    "sections": [
+      { "term": "202430", "crn": "36206" },
+      { "term": "202330", "crn": "38177" }
+    ],
     "description": "Offers a comprehensive overview of alternative construction project delivery systems in the public and private sectors; project life cycle including project development, schedule, cost and risk management, quality assurance/quality control, project management, and project closeout; innovative financing strategies including contractor financing, franchises, and super turnkey. Focuses on the analysis of design/bid/build execution compared to design/build and construction management systems of delivery. Examines international projects, contracts, and partnering options—for example JVs and alliances—as vehicles to ensure the meeting of project objectives. Uses case studies to identify and practice the management skills required for successful D/B project execution including effective communication, negotiations, and team building.",
     "coreqs": [],
     "prereqs": [
       { "subject": "CIVE", "number": "4575" },
       "Or",
       { "subject": "CIVE", "number": "7220" }
+    ]
+  },
+  {
+    "subject": "CIVE",
+    "number": "5250",
+    "title": "Organic Pollutants in the Environment",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "38867" },
+      { "term": "202430", "crn": "38868" }
+    ],
+    "description": "Introduces principles that govern the fate and transport of organic chemicals released to the environment. Topics include chemical structure and thermodynamic properties and how they predict physical processes that control the distribution of contaminants between the atmosphere, fresh and marine surface waters, groundwater, soils, sediments, and biota. Introduces models and methods for predicting fate and transport of organic contaminants within and between environmental media, including molecular diffusion, transport across boundaries, and box models. Explores concepts linking environmental chemistry with ecotoxicology, including bioaccumulation, food web models, and risk assessment. Uses case studies and real-world scenarios to illustrate concepts.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "CHEM", "number": "1151" },
+      "Or",
+      { "subject": "CHEM", "number": "1211" },
+      "Or",
+      "Graduate Admission"
     ]
   },
   {
@@ -750,6 +814,18 @@
       { "term": "202330", "crn": "38181" }
     ],
     "description": "Covers the conceptual and mathematical basis of life cycle assessment (LCA), including engineering models of industrial energy use and emissions and environmental science models of fate and transport, exposure, and toxicology. LCA is a widely used systems-modeling method for quantifying the emissions and environmental/health implications of a product over its life cycle, from manufacturing to use to disposal. This guides design, technology decisions, and policy on topics ranging from consumer products to green buildings to large-scale energy technologies. Presents Monte Carlo simulation, structural path analysis, and model sensitivity analysis for the industrial network structure that underlies LCA modeling. Offers students an opportunity to receive hands-on training for open-source LCA software packages and then carry out independent group projects for real clients in industry and government.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CIVE",
+    "number": "5280",
+    "title": "Remote Sensing of the Environment",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "38869" }],
+    "description": "Introduces remote sensing techniques, including obtaining, visualizing, and analyzing satellite data. Examines physical processes, methods, and data products used in satellite remote sensing of the Earth’s environment. Topics include active and passive remote sensing methods based on fundamentals of electromagnetic radiation, concepts used to develop data products from the remotely sensed measurements, and a suite of satellite data products to investigate current and past conditions of the Earth’s terrestrial and ocean surfaces. Uses geographic information systems (GIS) and student-developed programs to view and interpret satellite data. Knowledge of GIS, R, and Python is preferred.",
     "coreqs": [],
     "prereqs": []
   },
@@ -859,7 +935,11 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19073" }],
+    "sections": [
+      { "term": "202430", "crn": "38870" },
+      { "term": "202430", "crn": "38871" },
+      { "term": "202310", "crn": "19073" }
+    ],
     "description": "Covers street and intersection design for meeting societal needs related to traffic capacity, level of service, safety, walkability, bikeability, and the quality of public space. Intersection analysis and design topics include traffic flow theory and measurement; capacity; queuing and delay for both vehicles and pedestrians; and signal timing plan design, including design for pedestrian crossings. Street design topics include street functions; speed control; street and intersection layout; bicycling facilities, including bike lanes and separated bike paths; and pedestrian facilities, including sidewalks and crossings. Offers students an opportunity to practice with standard design manuals and intersection analysis software.",
     "coreqs": [],
     "prereqs": []
@@ -892,6 +972,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31534" },
+      { "term": "202430", "crn": "33401" },
       { "term": "202410", "crn": "11219" },
       { "term": "202330", "crn": "31694" },
       { "term": "202310", "crn": "11375" },
@@ -908,6 +990,18 @@
       "Or",
       "Graduate Admission"
     ]
+  },
+  {
+    "subject": "CIVE",
+    "number": "5525",
+    "title": "Prestressed Concrete Design",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "38872" }],
+    "description": "Introduces analysis and flexural design of prestressed concrete members, allowable stress in concrete and steel, pre- and posttensioned concrete beams, strength evaluation, and prestressed concrete bridge design. Requires one semester of undergraduate concrete design or one semester of undergraduate structural analysis.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "CIVE",
@@ -949,7 +1043,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ND"],
-    "sections": [{ "term": "202310", "crn": "19228" }],
+    "sections": [
+      { "term": "202430", "crn": "38873" },
+      { "term": "202310", "crn": "19228" }
+    ],
     "description": "Examines the biological, chemical, and physical interactions that shape our global environment. These interactions combine in the global biogeochemical cycles. Industrial emission of gases, use of fertilizers and plastics, and the expansion of cities are altering the biogeochemical cycling of the elements carbon, nitrogen, and phosphorus at rates unprecedented in the geological record. Uses lectures and the latest update to Chapter 6, “Carbon and Other Biogeochemical Cycles,” of the International Panel on Climate Change report to explore the main interactions between human activity, biogeochemical change, and climate. Discusses primary literature to delve deeper into these interactions.",
     "coreqs": [],
     "prereqs": []
@@ -962,11 +1059,29 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38874" },
+      { "term": "202430", "crn": "38875" },
+      { "term": "202430", "crn": "34131" },
+      { "term": "202430", "crn": "39890" },
+      { "term": "202430", "crn": "38876" },
+      { "term": "202430", "crn": "39891" },
       { "term": "202410", "crn": "21264" },
       { "term": "202330", "crn": "34814" },
       { "term": "202310", "crn": "16019" }
     ],
     "description": "Offered when the need for a special topic is evident to faculty and students. Topics are initiated by appropriate faculty members and discipline committee and approved by the department. May be repeated up to two times for up to 12 total credits.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CIVE",
+    "number": "5978",
+    "title": "Independent Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "37880" }],
+    "description": "Offers theoretical or experimental work under individual faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -996,12 +1111,27 @@
   },
   {
     "subject": "CIVE",
+    "number": "7150",
+    "title": "Data-Driven Decision Support for Civil and Environmental Engineering",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "38877" }],
+    "description": "Presents supervised and unsupervised methods for dealing with large data sets and their application to support decision making in various civil and environmental engineering areas. Focuses on predictive models and methods for knowledge mining. Discusses applications from the transportation, urban mobility, and infrastructure maintenance domains. Topics include classification: linear regression, logistic regression, K-NN, and other classifiers; dimensionality reduction; clustering: K-means, hierarchical clustering, Gaussian mixture models, density-based clustering; model validation; and text mining. Demonstrates the applicability and underlying principles of the various methods through case studies with extensive data sets. Applications include classification of pavement distress images; mobility patterns; real-time transportation demand prediction; and text mining from reports. Background in probability and statistics and familiarity with Python/R recommended.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CIVE",
     "number": "7151",
     "title": "Urban Informatics and Processing",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38189" }],
+    "sections": [
+      { "term": "202430", "crn": "36214" },
+      { "term": "202330", "crn": "38189" }
+    ],
     "description": "Offers a comprehensive review of urban informatics in civil and infrastructure engineering research. Discusses the usage of these data and offers students hands-on opportunities to extensively analyze, comprehend, and visualize five types of data sets: construction and infrastructure development; urban mobility and traffic; sensors in built environments; geosocial networks; and social media. Provides extensive data sets for practices. Python is the main platform for analysis and visualization.",
     "coreqs": [],
     "prereqs": []
@@ -1046,6 +1176,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31943" },
+      { "term": "202430", "crn": "31944" },
       { "term": "202330", "crn": "32172" },
       { "term": "202330", "crn": "32173" }
     ],
@@ -1091,7 +1223,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "40195" }],
+    "sections": [
+      { "term": "202430", "crn": "38107" },
+      { "term": "202330", "crn": "40195" }
+    ],
     "description": "Examines the processes of physical and chemical phenomena related to water quality and water treatment within environmental engineering. Presents the use of fundamental theory, mathematical description, and applied knowledge of these processes and how they are used to characterize water quality in natural systems (lakes, rivers) and to predict performance in engineered systems (water treatment systems). Uses a mass balance and reaction kinetics approach to derive analysis and design equations for water treatment unit operations. Covers physical and chemical processes, including reaction kinetics, flow regimes, dissolved solute removal, particulate removal, phase transfer processes, and redox processes. Includes laboratory demonstrations. Basic knowledge of water quality, environmental chemistry, and differential equations preferred.",
     "coreqs": [],
     "prereqs": []
@@ -1109,6 +1244,21 @@
       { "term": "202310", "crn": "20032" }
     ],
     "description": "Covers the vertical and lateral fluxes and stores of water within the terrestrial hydrologic cycle such as precipitation (rain and snow); infiltration; runoff; snowmelt; evapotranspiration; streamflow; groundwater recharge/discharge; and surface (snowpack, lakes, rivers) and subsurface (soil moisture and groundwater) storages. Individual simulation models are developed to represent key processes within the hydrologic cycle. Process models are then integrated to approximate the hydrologic cycle of a watershed. Covers model parameterization, calibration, validation, and uncertainty (model parameters and forcings). Knowledge of geographic information systems and programming is recommended.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CIVE",
+    "number": "7272",
+    "title": "Air Quality Management",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "38878" },
+      { "term": "202430", "crn": "38879" }
+    ],
+    "description": "Explores engineering theory and practice related to air resources management. Focuses on modeling dispersion and reactions for atmospheric pollutants and on analysis of systems for controlling gaseous and particulate emissions including dry collection, wet collection, absorption, and catalytic processes. Also addresses biological and chemical aspects of air pollution including toxicological issues, physiological effects of aerosols, analysis of organic and inorganic constituents of the atmosphere, and rationale for establishing air quality criteria and standards. Requires one semester of undergraduate chemistry.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1208,6 +1358,18 @@
   },
   {
     "subject": "CIVE",
+    "number": "7312",
+    "title": "Earthquake Engineering",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "38880" }],
+    "description": "Studies plate tectonics, seismology, faults and characteristics, ground motions, seismic hazard analysis, dynamic response of single degree-of-freedom system, response spectrum, site effects, and seismic design considerations for buildings, bridges, and earth-retaining structures. Requires one semester of undergraduate statics.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CIVE",
     "number": "7330",
     "title": "Advanced Structural Analysis",
     "scheduleType": "Lecture",
@@ -1259,6 +1421,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32820" },
+      { "term": "202430", "crn": "32821" },
       { "term": "202330", "crn": "33187" },
       { "term": "202330", "crn": "33188" }
     ],
@@ -1304,6 +1468,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36863" },
+      { "term": "202430", "crn": "36864" },
       { "term": "202330", "crn": "38867" },
       { "term": "202330", "crn": "38868" }
     ],
@@ -1319,6 +1485,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36218" },
+      { "term": "202430", "crn": "36219" },
       { "term": "202330", "crn": "38193" },
       { "term": "202330", "crn": "38194" }
     ],
@@ -1360,6 +1528,18 @@
   },
   {
     "subject": "CIVE",
+    "number": "7383",
+    "title": "Sediment Transport and Applications",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "38881" }],
+    "description": "Builds on the fundamentals of fluid mechanics and nearshore hydrodynamics to explore the deceptively simple, yet universally complex, problem of sediment transport: how to describe and predict sand movement under water. Explores this question via simple one-line models and complex 3D models of sediment transport; the lab and field experiments underpinning these models; the particular challenge of mixed media transport, including the issues associated with different sediment grain sizes; the structure and importance of turbulence closure models; and coastal resilience and coastal community issues reliant on sediment transport physics.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "CIVE", "number": "7281" }]
+  },
+  {
+    "subject": "CIVE",
     "number": "7385",
     "title": "Public Transportation",
     "scheduleType": "Lecture",
@@ -1375,12 +1555,25 @@
   },
   {
     "subject": "CIVE",
+    "number": "7387",
+    "title": "Design Aspects of Roadway Safety",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "38882" }],
+    "description": "Concentrates on roadway design features that affect safety, including system users and design elements. Topics include crash causation and countermeasures, statistical procedures for crash analysis, and geometric design improvements for roads and intersections. Analyzes crash data, including both intersecting and nonintersecting locations. Presents concepts, including design, to create a safer transportation system while addressing specific high-crash locations.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CIVE",
     "number": "7400",
     "title": "CIV & Eviron Enginrg Seminar",
     "scheduleType": "Seminar",
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31014" },
       { "term": "202410", "crn": "11100" },
       { "term": "202330", "crn": "31089" },
       { "term": "202310", "crn": "11238" }
@@ -1409,6 +1602,11 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38113" },
+      { "term": "202430", "crn": "35723" },
+      { "term": "202430", "crn": "37551" },
+      { "term": "202430", "crn": "38553" },
+      { "term": "202430", "crn": "38568" },
       { "term": "202410", "crn": "20777" },
       { "term": "202340", "crn": "42148" },
       { "term": "202330", "crn": "40201" },
@@ -1445,6 +1643,16 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38149" },
+      { "term": "202430", "crn": "38526" },
+      { "term": "202430", "crn": "35503" },
+      { "term": "202430", "crn": "34579" },
+      { "term": "202430", "crn": "35521" },
+      { "term": "202430", "crn": "35792" },
+      { "term": "202430", "crn": "36013" },
+      { "term": "202430", "crn": "36075" },
+      { "term": "202430", "crn": "37725" },
+      { "term": "202430", "crn": "37849" },
       { "term": "202410", "crn": "16222" },
       { "term": "202410", "crn": "18551" },
       { "term": "202410", "crn": "12109" },
@@ -1486,6 +1694,11 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38241" },
+      { "term": "202430", "crn": "32630" },
+      { "term": "202430", "crn": "38333" },
+      { "term": "202430", "crn": "35486" },
+      { "term": "202430", "crn": "37807" },
       { "term": "202340", "crn": "42287" },
       { "term": "202330", "crn": "40330" },
       { "term": "202330", "crn": "40438" },
@@ -1503,6 +1716,12 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34432" },
+      { "term": "202430", "crn": "35920" },
+      { "term": "202430", "crn": "36004" },
+      { "term": "202430", "crn": "38208" },
+      { "term": "202430", "crn": "40423" },
+      { "term": "202430", "crn": "40424" },
       { "term": "202410", "crn": "22368" },
       { "term": "202410", "crn": "22069" },
       { "term": "202330", "crn": "35234" },
@@ -1521,7 +1740,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202360", "crn": "61793" }],
+    "sections": [
+      { "term": "202430", "crn": "35997" },
+      { "term": "202360", "crn": "61793" }
+    ],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1558,6 +1780,16 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38421" },
+      { "term": "202430", "crn": "33551" },
+      { "term": "202430", "crn": "36001" },
+      { "term": "202430", "crn": "36059" },
+      { "term": "202430", "crn": "38422" },
+      { "term": "202430", "crn": "38481" },
+      { "term": "202430", "crn": "34625" },
+      { "term": "202430", "crn": "37558" },
+      { "term": "202430", "crn": "38443" },
+      { "term": "202430", "crn": "40425" },
       { "term": "202410", "crn": "13890" },
       { "term": "202410", "crn": "15722" },
       { "term": "202410", "crn": "14527" },
@@ -1615,6 +1847,12 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38552" },
+      { "term": "202430", "crn": "33582" },
+      { "term": "202430", "crn": "35383" },
+      { "term": "202430", "crn": "35487" },
+      { "term": "202430", "crn": "35541" },
+      { "term": "202430", "crn": "37709" },
       { "term": "202410", "crn": "22020" },
       { "term": "202410", "crn": "20912" },
       { "term": "202410", "crn": "21190" },
@@ -1642,6 +1880,21 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34227" },
+      { "term": "202430", "crn": "34410" },
+      { "term": "202430", "crn": "34466" },
+      { "term": "202430", "crn": "34472" },
+      { "term": "202430", "crn": "34584" },
+      { "term": "202430", "crn": "35384" },
+      { "term": "202430", "crn": "35849" },
+      { "term": "202430", "crn": "36222" },
+      { "term": "202430", "crn": "36223" },
+      { "term": "202430", "crn": "36224" },
+      { "term": "202430", "crn": "36225" },
+      { "term": "202430", "crn": "36226" },
+      { "term": "202430", "crn": "36228" },
+      { "term": "202430", "crn": "40426" },
+      { "term": "202430", "crn": "40427" },
       { "term": "202410", "crn": "21579" },
       { "term": "202410", "crn": "22149" },
       { "term": "202410", "crn": "18982" },
@@ -1671,6 +1924,34 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33457" },
+      { "term": "202430", "crn": "33482" },
+      { "term": "202430", "crn": "33509" },
+      { "term": "202430", "crn": "33556" },
+      { "term": "202430", "crn": "33540" },
+      { "term": "202430", "crn": "33594" },
+      { "term": "202430", "crn": "34213" },
+      { "term": "202430", "crn": "33558" },
+      { "term": "202430", "crn": "33576" },
+      { "term": "202430", "crn": "33585" },
+      { "term": "202430", "crn": "33586" },
+      { "term": "202430", "crn": "34218" },
+      { "term": "202430", "crn": "34221" },
+      { "term": "202430", "crn": "34289" },
+      { "term": "202430", "crn": "34435" },
+      { "term": "202430", "crn": "34568" },
+      { "term": "202430", "crn": "34594" },
+      { "term": "202430", "crn": "35385" },
+      { "term": "202430", "crn": "35386" },
+      { "term": "202430", "crn": "36229" },
+      { "term": "202430", "crn": "36230" },
+      { "term": "202430", "crn": "36231" },
+      { "term": "202430", "crn": "37452" },
+      { "term": "202430", "crn": "37454" },
+      { "term": "202430", "crn": "37455" },
+      { "term": "202430", "crn": "37456" },
+      { "term": "202430", "crn": "37457" },
+      { "term": "202430", "crn": "40428" },
       { "term": "202410", "crn": "13866" },
       { "term": "202410", "crn": "11682" },
       { "term": "202410", "crn": "14451" },

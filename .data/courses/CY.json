@@ -7,6 +7,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33218" },
+      { "term": "202430", "crn": "33219" },
+      { "term": "202430", "crn": "33756" },
+      { "term": "202430", "crn": "37272" },
       { "term": "202410", "crn": "13935" },
       { "term": "202410", "crn": "14930" },
       { "term": "202410", "crn": "14931" },
@@ -44,6 +48,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34149" },
       { "term": "202410", "crn": "13522" },
       { "term": "202330", "crn": "34839" },
       { "term": "202310", "crn": "14006" }
@@ -59,7 +64,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ER", "WI"],
-    "sections": [{ "term": "202410", "crn": "21001" }],
+    "sections": [
+      { "term": "202430", "crn": "39307" },
+      { "term": "202410", "crn": "21001" }
+    ],
     "description": "Describes the legal and ethical issues associated with collection, use, disclosure, and protection of digital information. Emphasizes legal infrastructure relating to privacy, data ethics, data security, hacking, automation, and intellectual property. Articulates the basic set of rules and rights that are relevant to data practices and protection, evaluates how these rules apply in context, and critically analyzes their efficacy and social impact.",
     "coreqs": [],
     "prereqs": []
@@ -72,6 +80,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33220" },
       { "term": "202410", "crn": "13523" },
       { "term": "202330", "crn": "33658" },
       { "term": "202310", "crn": "14007" }
@@ -95,7 +104,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39392" }],
+    "sections": [
+      { "term": "202430", "crn": "37357" },
+      { "term": "202330", "crn": "39392" }
+    ],
     "description": "Presents the foundations to understand security and privacy threats as well as defenses in wireless and mobile systems, especially in the era of softwarization of wireless networks. Studies the proliferation of wireless systems within a wide variety of contexts such as telephony, navigation, sensor networks, and critical infrastructures. Examines the security challenges inherent in the broadcast nature of wireless technologies and the increased availability of software-defined radios. Offers students an opportunity to obtain experience in describing and classifying security goals and attacks in modern wireless networks, to identify the unique security implications of these effects, and how to mitigate security issues associated with them.",
     "coreqs": [],
     "prereqs": []
@@ -107,7 +119,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["FQ"],
-    "sections": [{ "term": "202330", "crn": "39270" }],
+    "sections": [
+      { "term": "202430", "crn": "37239" },
+      { "term": "202330", "crn": "39270" }
+    ],
     "description": "Studies the design of cryptographic schemes that enable secure communication and computation. Emphasizes cryptography as a mathematically rigorous discipline with precise definitions, theorems, and proofs and highlights deep connections to information theory, computational complexity, and number theory. Topics include pseudorandomness; symmetric-key cryptosystems and block ciphers such as AES; hash functions; public-key cryptosystems, including ones based on factoring and discrete logarithms; signature schemes; secure multiparty computation and applications such as auctions and voting; and zero-knowledge proofs.",
     "coreqs": [],
     "prereqs": [
@@ -127,10 +142,37 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["CE", "WI"],
-    "sections": [{ "term": "202330", "crn": "34355" }],
+    "sections": [
+      { "term": "202430", "crn": "33757" },
+      { "term": "202330", "crn": "34355" }
+    ],
     "description": "Provides the culmination of the learned principles and methodologies for identifying and addressing cybersecurity issues in organizations. Offers students an opportunity to work in small groups to identify and scope a current cybersecurity problem/challenge. Requires students to submit a written proposal about the project, complete with motivation, literature research, and reasons for the study; create a work plan to develop a solution to include the development and identification of the data necessary to properly solve the problem/challenge; and create a final report.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "CY", "number": "3740" },
+      "Or",
+      { "subject": "CY", "number": "4740" }
+    ]
+  },
+  {
+    "subject": "CY",
+    "number": "4973",
+    "title": "Usable Security and Privacy",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39308" }],
+    "description": "Examines fundamental principles of usable security and privacy, applying  them in a variety of practical contexts. Fundamental principles include mathematical models, social science theories, and legal approaches to privacy; ethics; sources of vulnerability such as activities and systemic inequalities; and the relationship of human-centered and technical aspects. Examples of practical contexts include authentication, warnings, phishing, developer practices, user understanding and sources of advice, censorship and surveillance, anonymity and pseudonymity, secure messaging, dark patterns, misinformation, and usability of cryptographic tools such as multi-party computation. Learning experiences will emphasize hands-on experience with both academic and practical topics.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "CS", "number": "3000" },
+      "And",
+      "(",
+      { "subject": "CS", "number": "3500" },
+      "Or",
+      { "subject": "DS", "number": "3500" },
+      ")"
+    ]
   },
   {
     "subject": "CY",
@@ -140,6 +182,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36768" },
+      { "term": "202430", "crn": "40602" },
       { "term": "202410", "crn": "19713" },
       { "term": "202330", "crn": "38769" },
       { "term": "202310", "crn": "15741" }
@@ -156,6 +200,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36769" },
+      { "term": "202430", "crn": "39309" },
+      { "term": "202430", "crn": "40224" },
       { "term": "202410", "crn": "14342" },
       { "term": "202410", "crn": "19893" },
       { "term": "202330", "crn": "38770" },
@@ -199,6 +246,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33827" },
       { "term": "202410", "crn": "20699" },
       { "term": "202330", "crn": "34445" },
       { "term": "202310", "crn": "13988" }
@@ -215,6 +263,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36770" },
       { "term": "202410", "crn": "19894" },
       { "term": "202330", "crn": "38771" },
       { "term": "202310", "crn": "20155" }
@@ -231,6 +280,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40588" },
       { "term": "202410", "crn": "14343" },
       { "term": "202330", "crn": "34447" },
       { "term": "202310", "crn": "15066" }
@@ -256,6 +306,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40589" },
       { "term": "202410", "crn": "19895" },
       { "term": "202330", "crn": "34448" },
       { "term": "202330", "crn": "38772" },
@@ -306,6 +357,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36773" },
       { "term": "202410", "crn": "17747" },
       { "term": "202330", "crn": "38774" },
       { "term": "202310", "crn": "20157" }
@@ -322,6 +374,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40225" },
+      { "term": "202430", "crn": "39310" },
       { "term": "202410", "crn": "21943" },
       { "term": "202350", "crn": "51700" },
       { "term": "202330", "crn": "39233" },
@@ -381,6 +435,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37205" },
+      { "term": "202430", "crn": "40385" },
+      { "term": "202430", "crn": "40748" },
       { "term": "202410", "crn": "16862" },
       { "term": "202310", "crn": "19213" }
     ],
@@ -395,7 +452,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39393" }],
+    "sections": [
+      { "term": "202430", "crn": "37358" },
+      { "term": "202330", "crn": "39393" }
+    ],
     "description": "Focuses on security and privacy of mobile and wireless systems. Provides the foundations to understand the security and privacy threats and defenses in wireless and mobile systems, especially in an era where wireless network functions are implemented in software instead of traditional hardware-based solutions. Covers topics on availability/integrity issues in wireless networks, Wi-Fi and cellular network security, broadcast authentication techniques, jamming and antijamming techniques, etc. Emphasizes hands-on practical exercises to strengthen the understanding of concepts covered during the lectures. Reviews the state of the art in wireless security research through readings. Offers students an opportunity to execute a semester-long project in the broad area of wireless security.",
     "coreqs": [],
     "prereqs": []
@@ -420,6 +480,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39311" },
       { "term": "202410", "crn": "20704" },
       { "term": "202330", "crn": "38775" },
       { "term": "202330", "crn": "35732" },
@@ -462,6 +523,18 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34231" },
+      { "term": "202430", "crn": "34327" },
+      { "term": "202430", "crn": "34356" },
+      { "term": "202430", "crn": "34385" },
+      { "term": "202430", "crn": "34391" },
+      { "term": "202430", "crn": "34589" },
+      { "term": "202430", "crn": "38085" },
+      { "term": "202430", "crn": "38219" },
+      { "term": "202430", "crn": "38260" },
+      { "term": "202430", "crn": "38434" },
+      { "term": "202430", "crn": "38437" },
+      { "term": "202430", "crn": "40586" },
       { "term": "202410", "crn": "20778" },
       { "term": "202410", "crn": "21379" },
       { "term": "202410", "crn": "21380" },
@@ -496,6 +569,13 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39983" },
+      { "term": "202430", "crn": "39984" },
+      { "term": "202430", "crn": "39985" },
+      { "term": "202430", "crn": "39986" },
+      { "term": "202430", "crn": "39987" },
+      { "term": "202430", "crn": "39988" },
+      { "term": "202430", "crn": "39989" },
       { "term": "202410", "crn": "20831" },
       { "term": "202410", "crn": "21822" },
       { "term": "202310", "crn": "21173" },
@@ -513,6 +593,13 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40016" },
+      { "term": "202430", "crn": "40017" },
+      { "term": "202430", "crn": "40018" },
+      { "term": "202430", "crn": "40019" },
+      { "term": "202430", "crn": "40020" },
+      { "term": "202430", "crn": "40021" },
+      { "term": "202430", "crn": "40022" },
       { "term": "202330", "crn": "40162" },
       { "term": "202330", "crn": "40331" },
       { "term": "202310", "crn": "17998" },
@@ -532,6 +619,12 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34478" },
+      { "term": "202430", "crn": "35856" },
+      { "term": "202430", "crn": "35905" },
+      { "term": "202430", "crn": "38020" },
+      { "term": "202430", "crn": "39885" },
+      { "term": "202430", "crn": "39886" },
       { "term": "202410", "crn": "15569" },
       { "term": "202410", "crn": "16184" },
       { "term": "202410", "crn": "20771" },

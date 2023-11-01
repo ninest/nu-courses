@@ -7,6 +7,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37362" },
+      { "term": "202430", "crn": "37363" },
+      { "term": "202430", "crn": "37968" },
       { "term": "202410", "crn": "16423" },
       { "term": "202410", "crn": "16424" },
       { "term": "202410", "crn": "16425" },
@@ -85,6 +88,8 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "30091" },
+      { "term": "202430", "crn": "37532" },
       { "term": "202410", "crn": "12688" },
       { "term": "202410", "crn": "12689" },
       { "term": "202410", "crn": "14506" },
@@ -118,6 +123,14 @@
     "credits": 1,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "30205" },
+      { "term": "202430", "crn": "30189" },
+      { "term": "202430", "crn": "30482" },
+      { "term": "202430", "crn": "30086" },
+      { "term": "202430", "crn": "35643" },
+      { "term": "202430", "crn": "35644" },
+      { "term": "202430", "crn": "37533" },
+      { "term": "202430", "crn": "40620" },
       { "term": "202410", "crn": "10423" },
       { "term": "202410", "crn": "10511" },
       { "term": "202410", "crn": "10510" },
@@ -196,6 +209,9 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "30432" },
+      { "term": "202430", "crn": "36331" },
+      { "term": "202430", "crn": "37097" },
       { "term": "202410", "crn": "10486" },
       { "term": "202330", "crn": "30444" },
       { "term": "202330", "crn": "35733" },
@@ -224,6 +240,23 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30201" },
+      { "term": "202430", "crn": "30192" },
+      { "term": "202430", "crn": "30968" },
+      { "term": "202430", "crn": "30431" },
+      { "term": "202430", "crn": "30202" },
+      { "term": "202430", "crn": "30098" },
+      { "term": "202430", "crn": "30828" },
+      { "term": "202430", "crn": "30512" },
+      { "term": "202430", "crn": "30430" },
+      { "term": "202430", "crn": "30200" },
+      { "term": "202430", "crn": "30464" },
+      { "term": "202430", "crn": "30500" },
+      { "term": "202430", "crn": "34754" },
+      { "term": "202430", "crn": "34755" },
+      { "term": "202430", "crn": "37098" },
+      { "term": "202430", "crn": "38003" },
+      { "term": "202430", "crn": "40621" },
       { "term": "202410", "crn": "10487" },
       { "term": "202410", "crn": "10058" },
       { "term": "202410", "crn": "10842" },
@@ -266,6 +299,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "39117" },
       { "term": "202410", "crn": "19582" },
       { "term": "202360", "crn": "61314" },
       { "term": "202340", "crn": "41994" },
@@ -302,6 +336,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "33158" },
       { "term": "202410", "crn": "13648" },
       { "term": "202340", "crn": "41668" },
       { "term": "202330", "crn": "33572" },
@@ -319,6 +354,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "32783" },
       { "term": "202410", "crn": "13982" },
       { "term": "202340", "crn": "41669" },
       { "term": "202330", "crn": "33135" },
@@ -337,6 +373,7 @@
     "credits": 4,
     "nuPath": ["ER", "ND"],
     "sections": [
+      { "term": "202430", "crn": "34162" },
       { "term": "202410", "crn": "13983" },
       { "term": "202330", "crn": "34855" },
       { "term": "202310", "crn": "14595" }
@@ -353,6 +390,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "33404" },
       { "term": "202410", "crn": "13984" },
       { "term": "202410", "crn": "13985" },
       { "term": "202330", "crn": "33893" },
@@ -372,6 +410,10 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33405" },
+      { "term": "202430", "crn": "33406" },
+      { "term": "202430", "crn": "33407" },
+      { "term": "202430", "crn": "37891" },
       { "term": "202410", "crn": "13986" },
       { "term": "202410", "crn": "13987" },
       { "term": "202410", "crn": "13988" },
@@ -415,6 +457,9 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "33726" },
+      { "term": "202430", "crn": "33727" },
+      { "term": "202430", "crn": "40629" },
       { "term": "202410", "crn": "15394" },
       { "term": "202340", "crn": "40876" },
       { "term": "202330", "crn": "34314" },
@@ -438,6 +483,17 @@
     "credits": 1,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "33728" },
+      { "term": "202430", "crn": "33729" },
+      { "term": "202430", "crn": "33730" },
+      { "term": "202430", "crn": "33731" },
+      { "term": "202430", "crn": "33732" },
+      { "term": "202430", "crn": "33733" },
+      { "term": "202430", "crn": "33734" },
+      { "term": "202430", "crn": "33735" },
+      { "term": "202430", "crn": "35627" },
+      { "term": "202430", "crn": "35628" },
+      { "term": "202430", "crn": "40630" },
       { "term": "202410", "crn": "15395" },
       { "term": "202410", "crn": "18128" },
       { "term": "202340", "crn": "40877" },
@@ -469,6 +525,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33466" },
+      { "term": "202430", "crn": "37099" },
       { "term": "202330", "crn": "33968" },
       { "term": "202330", "crn": "39115" }
     ],
@@ -484,6 +542,12 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33467" },
+      { "term": "202430", "crn": "33468" },
+      { "term": "202430", "crn": "33469" },
+      { "term": "202430", "crn": "33470" },
+      { "term": "202430", "crn": "34759" },
+      { "term": "202430", "crn": "37100" },
       { "term": "202330", "crn": "33969" },
       { "term": "202330", "crn": "33970" },
       { "term": "202330", "crn": "33971" },
@@ -503,6 +567,19 @@
     "credits": 4,
     "nuPath": ["ND", "EX"],
     "sections": [
+      { "term": "202430", "crn": "31962" },
+      { "term": "202430", "crn": "31727" },
+      { "term": "202430", "crn": "32238" },
+      { "term": "202430", "crn": "32781" },
+      { "term": "202430", "crn": "33736" },
+      { "term": "202430", "crn": "34761" },
+      { "term": "202430", "crn": "34762" },
+      { "term": "202430", "crn": "34763" },
+      { "term": "202430", "crn": "34764" },
+      { "term": "202430", "crn": "37047" },
+      { "term": "202430", "crn": "39118" },
+      { "term": "202430", "crn": "40631" },
+      { "term": "202430", "crn": "40632" },
       { "term": "202410", "crn": "12708" },
       { "term": "202410", "crn": "12711" },
       { "term": "202410", "crn": "12713" },
@@ -550,6 +627,9 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "30416" },
+      { "term": "202430", "crn": "32350" },
+      { "term": "202430", "crn": "33159" },
       { "term": "202410", "crn": "12715" },
       { "term": "202410", "crn": "12764" },
       { "term": "202410", "crn": "13566" },
@@ -612,6 +692,24 @@
     "credits": 1,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "30362" },
+      { "term": "202430", "crn": "30197" },
+      { "term": "202430", "crn": "30099" },
+      { "term": "202430", "crn": "30415" },
+      { "term": "202430", "crn": "30501" },
+      { "term": "202430", "crn": "30463" },
+      { "term": "202430", "crn": "31138" },
+      { "term": "202430", "crn": "31139" },
+      { "term": "202430", "crn": "30107" },
+      { "term": "202430", "crn": "30106" },
+      { "term": "202430", "crn": "32344" },
+      { "term": "202430", "crn": "32345" },
+      { "term": "202430", "crn": "32346" },
+      { "term": "202430", "crn": "32347" },
+      { "term": "202430", "crn": "35594" },
+      { "term": "202430", "crn": "35595" },
+      { "term": "202430", "crn": "35596" },
+      { "term": "202430", "crn": "35599" },
       { "term": "202410", "crn": "10404" },
       { "term": "202410", "crn": "10219" },
       { "term": "202410", "crn": "10399" },
@@ -711,6 +809,18 @@
     "credits": 4,
     "nuPath": ["AD", "EI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "31925" },
+      { "term": "202430", "crn": "31926" },
+      { "term": "202430", "crn": "31927" },
+      { "term": "202430", "crn": "31928" },
+      { "term": "202430", "crn": "32446" },
+      { "term": "202430", "crn": "32447" },
+      { "term": "202430", "crn": "32549" },
+      { "term": "202430", "crn": "32782" },
+      { "term": "202430", "crn": "33475" },
+      { "term": "202430", "crn": "34765" },
+      { "term": "202430", "crn": "34766" },
+      { "term": "202430", "crn": "34767" },
       { "term": "202410", "crn": "12126" },
       { "term": "202410", "crn": "12304" },
       { "term": "202410", "crn": "12305" },
@@ -775,6 +885,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39119" },
       { "term": "202340", "crn": "41186" },
       { "term": "202310", "crn": "18768" },
       { "term": "202240", "crn": "41546" }
@@ -820,7 +931,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "18769" }],
+    "sections": [
+      { "term": "202430", "crn": "39120" },
+      { "term": "202310", "crn": "18769" }
+    ],
     "description": "Examines the morphology and phylogeny of the vertebrates.",
     "coreqs": [],
     "prereqs": [
@@ -845,6 +959,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30849" },
       { "term": "202410", "crn": "13567" },
       { "term": "202360", "crn": "60395" },
       { "term": "202340", "crn": "40531" },
@@ -880,6 +995,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39121" },
+      { "term": "202430", "crn": "39122" },
       { "term": "202410", "crn": "19583" },
       { "term": "202360", "crn": "60896" },
       { "term": "202340", "crn": "41105" },
@@ -902,6 +1019,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36335" },
+      { "term": "202430", "crn": "40474" },
       { "term": "202410", "crn": "16958" },
       { "term": "202330", "crn": "38314" },
       { "term": "202310", "crn": "19321" }
@@ -943,6 +1062,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33737" },
       { "term": "202410", "crn": "14383" },
       { "term": "202360", "crn": "60496" },
       { "term": "202340", "crn": "40600" },
@@ -963,6 +1083,8 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "33160" },
+      { "term": "202430", "crn": "33738" },
       { "term": "202410", "crn": "13402" },
       { "term": "202410", "crn": "14723" },
       { "term": "202330", "crn": "33574" },
@@ -995,6 +1117,10 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33161" },
+      { "term": "202430", "crn": "33162" },
+      { "term": "202430", "crn": "33163" },
+      { "term": "202430", "crn": "33739" },
       { "term": "202410", "crn": "13401" },
       { "term": "202410", "crn": "13403" },
       { "term": "202410", "crn": "13404" },
@@ -1040,6 +1166,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32891" },
       { "term": "202410", "crn": "12765" },
       { "term": "202330", "crn": "33266" },
       { "term": "202310", "crn": "13126" }
@@ -1056,6 +1183,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39123" },
       { "term": "202410", "crn": "20649" },
       { "term": "202310", "crn": "18773" }
     ],
@@ -1086,6 +1214,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33740" },
+      { "term": "202430", "crn": "36338" },
       { "term": "202410", "crn": "12557" },
       { "term": "202410", "crn": "13998" },
       { "term": "202410", "crn": "19586" },
@@ -1130,6 +1260,20 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32229" },
+      { "term": "202430", "crn": "32230" },
+      { "term": "202430", "crn": "32231" },
+      { "term": "202430", "crn": "32232" },
+      { "term": "202430", "crn": "32233" },
+      { "term": "202430", "crn": "32234" },
+      { "term": "202430", "crn": "32235" },
+      { "term": "202430", "crn": "32236" },
+      { "term": "202430", "crn": "32237" },
+      { "term": "202430", "crn": "32678" },
+      { "term": "202430", "crn": "33741" },
+      { "term": "202430", "crn": "34232" },
+      { "term": "202430", "crn": "34252" },
+      { "term": "202430", "crn": "34253" },
       { "term": "202410", "crn": "12558" },
       { "term": "202410", "crn": "12559" },
       { "term": "202410", "crn": "12718" },
@@ -1218,6 +1362,16 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "32441" },
+      { "term": "202430", "crn": "32442" },
+      { "term": "202430", "crn": "32443" },
+      { "term": "202430", "crn": "32636" },
+      { "term": "202430", "crn": "33399" },
+      { "term": "202430", "crn": "33431" },
+      { "term": "202430", "crn": "35720" },
+      { "term": "202430", "crn": "35850" },
+      { "term": "202430", "crn": "37609" },
+      { "term": "202430", "crn": "37105" },
       { "term": "202410", "crn": "12719" },
       { "term": "202410", "crn": "12720" },
       { "term": "202410", "crn": "13670" },
@@ -1269,6 +1423,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33742" },
       { "term": "202410", "crn": "13638" },
       { "term": "202330", "crn": "34331" },
       { "term": "202310", "crn": "14149" }
@@ -1289,6 +1444,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32448" },
+      { "term": "202430", "crn": "35131" },
+      { "term": "202430", "crn": "37969" },
       { "term": "202410", "crn": "12774" },
       { "term": "202410", "crn": "14450" },
       { "term": "202410", "crn": "20844" },
@@ -1317,7 +1475,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "18774" }],
+    "sections": [
+      { "term": "202430", "crn": "39124" },
+      { "term": "202310", "crn": "18774" }
+    ],
     "description": "Explores the neurobiology of learning and memory from the level of the synapse up to the neural systems underlying emergent mnemonic function. Topics include the synaptic mechanisms underlying neural plasticity; the molecular basis of mnemonic processes; and the neural circuits serving distinct memory systems. In addition to lecture-based material, students utilize primary research and review articles from the current scientific literature to evaluate data and develop hypotheses via oral presentations and active discussions in the classroom. The overarching goal of the course is to provide a neurobiological perspective on how information is encoded, consolidated, and later retrieved and the significance of dysfunction in these processes associated with neurologic deficits and disease.",
     "coreqs": [],
     "prereqs": [
@@ -1373,6 +1534,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30697" },
       { "term": "202410", "crn": "12722" },
       { "term": "202330", "crn": "30741" },
       { "term": "202310", "crn": "13064" }
@@ -1393,6 +1555,22 @@
       { "term": "202240", "crn": "40663" }
     ],
     "description": "Designed to familiarize students with core biological processes associated with fertilization and early embryogenesis in humans, with an emphasis on clinical relevance. Covers fundamental aspects of female fertility and embryo development, including hormonal control of ovarian follicle growth and ovulation, fertilization, preimplantation embryonic development, implantation, and postimplantation embryonic development through gastrulation. Examines current parameters for determining egg and embryo quality. Additionally, discusses evolving stem-cell-based strategies for the treatment of female reproductive failure.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "BIOL", "number": "2301" },
+      "Or",
+      "Graduate Admission"
+    ]
+  },
+  {
+    "subject": "BIOL",
+    "number": "5306",
+    "title": "Biological Clocks",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40761" }],
+    "description": "Examines the expression of endogenously generated twenty-four-hour (circadian) rhythms in eukaryotic life, emphasizing theoretical foundations as well as current research strategies for understanding how biological clocks work. Presents analytic principles essential for understanding biological rhythmicity in any organism at any level of organization. Emphasizes strategies used to understand the concrete mechanisms underlying biological rhythmicity.",
     "coreqs": [],
     "prereqs": [
       { "subject": "BIOL", "number": "2301" },
@@ -1445,6 +1623,18 @@
   },
   {
     "subject": "BIOL",
+    "number": "5549",
+    "title": "Inventions in Microbial Biotechnology",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39125" }],
+    "description": "Offers readings and seminar-style discussion from the current literature on important inventions and practical applications in biotechnology, with a focus on microbiome and antibiotic discovery, emphasizing new concepts.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BIOL",
     "number": "5573",
     "title": "Medical Microbiology",
     "scheduleType": "Lecture",
@@ -1489,6 +1679,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36340" },
       { "term": "202410", "crn": "14932" },
       { "term": "202330", "crn": "38320" },
       { "term": "202310", "crn": "16036" }
@@ -1499,6 +1690,22 @@
       { "subject": "BIOL", "number": "2323" },
       "Or",
       { "subject": "BIOL", "number": "3611" },
+      "Or",
+      "Graduate Admission"
+    ]
+  },
+  {
+    "subject": "BIOL",
+    "number": "5585",
+    "title": "Evolution",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39126" }],
+    "description": "Discusses history of evolutionary theory and lines of evidence. Emphasis is on mechanisms of speciation. Introduces and discusses current evolutionary topics.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "BIOL", "number": "2301" },
       "Or",
       "Graduate Admission"
     ]
@@ -1526,6 +1733,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32239" },
       { "term": "202410", "crn": "12727" },
       { "term": "202410", "crn": "21618" },
       { "term": "202330", "crn": "32488" },
@@ -1568,6 +1776,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39127" },
       { "term": "202410", "crn": "16440" },
       { "term": "202310", "crn": "18779" }
     ],
@@ -1582,7 +1791,6 @@
       "Or",
       { "subject": "BIOL", "number": "3405" },
       ")",
-      ")",
       "Or",
       "Graduate Admission"
     ]
@@ -1594,7 +1802,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32724" }],
+    "sections": [
+      { "term": "202430", "crn": "32445" },
+      { "term": "202330", "crn": "32724" }
+    ],
     "description": "Describes the basic principles and the current promises and disappointments with immunotherapies of cancer. Provides a historical overview of the main barriers between tumors and antitumor killer cells. The unifying focus of the lectures is the role of immunological and physiological negative regulators, i.e., “brakes” of anti-tumor immune response. A significant part of the course is dedicated to the retrospective evaluation of the last three decades of the immunological and biochemical studies that culminated in identification of the “chief of tumor defense operations,” i.e., a hypoxia-adenosinergic pathway in the tumor microenvironment.",
     "coreqs": [],
     "prereqs": [
@@ -1611,6 +1822,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36341" },
       { "term": "202330", "crn": "38321" },
       { "term": "202310", "crn": "18780" }
     ],
@@ -1626,6 +1838,17 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31592" },
+      { "term": "202430", "crn": "31593" },
+      { "term": "202430", "crn": "32591" },
+      { "term": "202430", "crn": "34769" },
+      { "term": "202430", "crn": "34770" },
+      { "term": "202430", "crn": "34771" },
+      { "term": "202430", "crn": "36774" },
+      { "term": "202430", "crn": "37762" },
+      { "term": "202430", "crn": "38076" },
+      { "term": "202430", "crn": "39128" },
+      { "term": "202430", "crn": "39129" },
       { "term": "202410", "crn": "13617" },
       { "term": "202410", "crn": "13618" },
       { "term": "202410", "crn": "20251" },
@@ -1687,6 +1910,9 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30732" },
+      { "term": "202430", "crn": "36765" },
+      { "term": "202430", "crn": "37187" },
       { "term": "202410", "crn": "12736" },
       { "term": "202410", "crn": "12737" },
       { "term": "202410", "crn": "20539" },
@@ -1724,6 +1950,11 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38642" },
+      { "term": "202430", "crn": "33094" },
+      { "term": "202430", "crn": "31270" },
+      { "term": "202430", "crn": "32449" },
+      { "term": "202430", "crn": "33164" },
       { "term": "202410", "crn": "11706" },
       { "term": "202410", "crn": "22256" },
       { "term": "202360", "crn": "61614" },
@@ -1748,6 +1979,13 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32365" },
+      { "term": "202430", "crn": "30767" },
+      { "term": "202430", "crn": "30559" },
+      { "term": "202430", "crn": "30897" },
+      { "term": "202430", "crn": "30904" },
+      { "term": "202430", "crn": "33165" },
+      { "term": "202430", "crn": "37761" },
       { "term": "202410", "crn": "15802" },
       { "term": "202410", "crn": "14724" },
       { "term": "202410", "crn": "11687" },
@@ -1794,6 +2032,10 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30679" },
+      { "term": "202430", "crn": "31170" },
+      { "term": "202430", "crn": "32065" },
+      { "term": "202430", "crn": "32378" },
       { "term": "202410", "crn": "12739" },
       { "term": "202330", "crn": "30708" },
       { "term": "202330", "crn": "31274" },
@@ -1815,6 +2057,12 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37647" },
+      { "term": "202430", "crn": "37892" },
+      { "term": "202430", "crn": "37929" },
+      { "term": "202430", "crn": "37954" },
+      { "term": "202430", "crn": "38286" },
+      { "term": "202430", "crn": "38462" },
       { "term": "202410", "crn": "10703" },
       { "term": "202410", "crn": "10706" },
       { "term": "202410", "crn": "21427" },
@@ -1841,6 +2089,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34556" },
       { "term": "202410", "crn": "14313" },
       { "term": "202410", "crn": "14314" },
       { "term": "202410", "crn": "21428" },
@@ -1868,6 +2117,14 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37696" },
+      { "term": "202430", "crn": "31818" },
+      { "term": "202430", "crn": "32673" },
+      { "term": "202430", "crn": "30681" },
+      { "term": "202430", "crn": "30680" },
+      { "term": "202430", "crn": "32785" },
+      { "term": "202430", "crn": "31174" },
+      { "term": "202430", "crn": "32450" },
       { "term": "202410", "crn": "12953" },
       { "term": "202410", "crn": "21114" },
       { "term": "202410", "crn": "21115" },

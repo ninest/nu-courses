@@ -7,6 +7,12 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "32185" },
+      { "term": "202430", "crn": "31353" },
+      { "term": "202430", "crn": "31606" },
+      { "term": "202430", "crn": "31813" },
+      { "term": "202430", "crn": "30598" },
+      { "term": "202430", "crn": "35636" },
       { "term": "202410", "crn": "12067" },
       { "term": "202410", "crn": "11689" },
       { "term": "202410", "crn": "18129" },
@@ -44,6 +50,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34994" },
+      { "term": "202430", "crn": "31562" },
       { "term": "202410", "crn": "11648" },
       { "term": "202410", "crn": "10755" },
       { "term": "202350", "crn": "52815" },
@@ -64,6 +72,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30736" },
+      { "term": "202430", "crn": "31793" },
+      { "term": "202430", "crn": "32307" },
       { "term": "202410", "crn": "11597" },
       { "term": "202410", "crn": "12081" },
       { "term": "202410", "crn": "11954" },
@@ -97,6 +108,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36684" },
+      { "term": "202430", "crn": "31587" },
+      { "term": "202430", "crn": "30556" },
       { "term": "202410", "crn": "12544" },
       { "term": "202410", "crn": "19829" },
       { "term": "202410", "crn": "10589" },
@@ -124,7 +138,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36647" }],
+    "sections": [
+      { "term": "202430", "crn": "35274" },
+      { "term": "202330", "crn": "36647" }
+    ],
     "description": "Offers students an opportunity to obtain foundational knowledge of team performance and learn the practical application of principles to enable them to develop practical skills in managing engineering and other technical team development initiatives. Teaming is a critical technique used to make a positive impact on personal and organizational performance and is essential for engineering and other technical disciplines. Designed to help students understand why and how team skills are critical to organizational success, learn how to use team skills to more effectively achieve engineering and technical goals as well as to organize and influence others to work more effectively, and to apply cognition to develop higher-performing teams.",
     "coreqs": [],
     "prereqs": []
@@ -137,6 +154,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39130" },
+      { "term": "202430", "crn": "39131" },
       { "term": "202410", "crn": "21238" },
       { "term": "202410", "crn": "21239" }
     ],
@@ -152,6 +171,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36685" },
       { "term": "202410", "crn": "17760" },
       { "term": "202330", "crn": "36779" },
       { "term": "202330", "crn": "38680" },
@@ -165,12 +185,25 @@
   },
   {
     "subject": "EMGT",
+    "number": "7945",
+    "title": "Master's Project",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "33458" }],
+    "description": "Offers theoretical or experimental work under individual faculty supervision.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EMGT",
     "number": "7978",
     "title": "Independent Study",
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33123" },
       { "term": "202410", "crn": "22464" },
       { "term": "202410", "crn": "22507" },
       { "term": "202410", "crn": "22535" },
@@ -190,6 +223,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38019" },
       { "term": "202410", "crn": "20947" },
       { "term": "202350", "crn": "53277" }
     ],

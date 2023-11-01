@@ -25,7 +25,10 @@
     "scheduleType": "Studio",
     "credits": 6,
     "nuPath": ["ND"],
-    "sections": [{ "term": "202330", "crn": "31351" }],
+    "sections": [
+      { "term": "202430", "crn": "31243" },
+      { "term": "202330", "crn": "31351" }
+    ],
     "description": "Continues LARC 2130. Focuses on sustainable community/campus/neighborhood design at the intersection of large-scale urban and environmental systems. Primary topics include mixed-use programming in relation to systems ranging from zoning and transit to the material flows of human and wildlife habitats. This studio course introduces basic geographical information systems (GIS) and application of landscape ecology principles. Projects examine the role of landscape systems and the formation and reformulation of land development scenarios.",
     "coreqs": [],
     "prereqs": [{ "subject": "LARC", "number": "2130" }]
@@ -53,7 +56,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31352" }],
+    "sections": [
+      { "term": "202430", "crn": "31244" },
+      { "term": "202330", "crn": "31352" }
+    ],
     "description": "Continues LARC 2230. Focuses on construction technologies, methods, and materials for sustainable site elements, including environmental performance infrastructures, circulation systems, and basic site structures. Introduces structural systems for site work via lecture and in-class exercises.",
     "coreqs": [],
     "prereqs": []
@@ -90,7 +96,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ER", "IC", "SI", "WI"],
-    "sections": [{ "term": "202330", "crn": "31353" }],
+    "sections": [
+      { "term": "202430", "crn": "31245" },
+      { "term": "202330", "crn": "31353" }
+    ],
     "description": "Presents the core themes, social theories, ethical debates, and iconic works that shape the field of contemporary landscape architecture and urban design, particularly in the context of environmental change and climate disruption. Focuses on contemporary projects and designers to examine formal characteristics of built works and contextual factors, including social, political, and economic systems and institutions. Challenges students to apply theories of environmental and climate justice to questions about the built environment and the relationship between natural and social systems. Designed to prepare students to address complex sociocultural and environmental issues through thoughtful inquiry and creative expression. Offers students an opportunity to formulate critical design perspectives via reading responses, project analyses, written work, and podcasts.",
     "coreqs": [],
     "prereqs": [
@@ -126,7 +135,10 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31354" }],
+    "sections": [
+      { "term": "202430", "crn": "31246" },
+      { "term": "202330", "crn": "31354" }
+    ],
     "description": "Combines horticultural and ecological field study with studio design exercises to deliver introductory to advanced planting design techniques. Primary topics include how to design phytoremediation strategies for contaminated sites, seasonal planting considerations, strategic phasing, and maintenance techniques. This is a workshop-based course.",
     "coreqs": [],
     "prereqs": []
@@ -172,7 +184,10 @@
     "scheduleType": "Studio",
     "credits": 6,
     "nuPath": ["CE"],
-    "sections": [{ "term": "202330", "crn": "33278" }],
+    "sections": [
+      { "term": "202430", "crn": "32900" },
+      { "term": "202330", "crn": "33278" }
+    ],
     "description": "Offers students an opportunity to design and develop a site or district including all of its requisite systems. Students draw on their landscape architectural education to produce a design both responsive to specific criteria and prototypical of ways to build sustainable and adaptable public landscapes—often described as “resilience.” Projects are expected to respond to and integrate their contexts (urban, environmental, climatic, and economic); meet spatial, performative, and programmatic requirements and technical demands (materials, implementation and management strategies); and dynamic processes at play within and around the project site.",
     "coreqs": [],
     "prereqs": [
@@ -225,6 +240,18 @@
       { "term": "202310", "crn": "12533" }
     ],
     "description": "Offers a discussion-based seminar focusing on case studies of influential works in contemporary landscape, urbanism, and sustainable environmental design. Encourages students to seek interdisciplinary perspectives toward development of critical-thinking skills in relation to forces shaping urban environments in contemporary global culture. A diverse range of material from published design criticism to open-source social media engagement provides basis for discussion and written and oral presentations.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "LARC",
+    "number": "5420",
+    "title": "Professional Practice in Landscape Architecture",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "32901" }],
+    "description": "Offers a lecture- and case-study-based course focusing on strategic planning, business models, organizational structures, logistics, and regulatory paradigms associated with professional practice in landscape architecture. Core topics provide an overview of common technical and business procedures, including RFQs; RFPs; marketing, public relations, and client management; hiring and human resource management; review board/regulatory boards; permitting; and licensure.",
     "coreqs": [],
     "prereqs": []
   }

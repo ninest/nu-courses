@@ -1,12 +1,44 @@
 [
   {
     "subject": "ARTD",
+    "number": "1001",
+    "title": "Media Art, Culture, and Social Justice",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": ["DD", "ER"],
+    "sections": [{ "term": "202430", "crn": "38885" }],
+    "description": "Introduces a wide range of perspectives on and practices of media art and social justice. Exposes students to key concepts, lineages, controversies, and consequences of media practices that expose injustice and seek to build a more equitable and sustainable world. Positions media arts as an intersectional and interdisciplinary practice connecting racial, gender, technological, and spatial/environmental justice. Also serves as an introduction to this dynamic and growing field of professional practice, with illustrative case studies that include interdisciplinary creative work by CAMD faculty as well as leading international practitioners.",
+    "coreqs": [{ "subject": "ARTD", "number": "1002" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTD",
+    "number": "1002",
+    "title": "Seminar for ARTD 1001",
+    "scheduleType": "Seminar",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "38886" },
+      { "term": "202430", "crn": "38887" },
+      { "term": "202430", "crn": "38889" },
+      { "term": "202430", "crn": "38890" },
+      { "term": "202430", "crn": "38891" }
+    ],
+    "description": "Accompanies ARTD 1001. Discusses and directly applies ideas and practices. Offers students an opportunity to articulate their own positions on critical issues by participating in a range of engaging in-class and research activities.",
+    "coreqs": [{ "subject": "ARTD", "number": "1001" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTD",
     "number": "2000",
     "title": "Introduction to Immersive Media",
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35297" },
+      { "term": "202430", "crn": "40619" },
       { "term": "202410", "crn": "15280" },
       { "term": "202330", "crn": "36681" },
       { "term": "202310", "crn": "16596" }
@@ -21,8 +53,10 @@
     "title": "Narrative Basics",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": ["WI", "EX"],
+    "nuPath": ["EX", "WI"],
     "sections": [
+      { "term": "202430", "crn": "31729" },
+      { "term": "202430", "crn": "40618" },
       { "term": "202410", "crn": "12078" },
       { "term": "202330", "crn": "31911" },
       { "term": "202330", "crn": "39319" },
@@ -42,12 +76,30 @@
   },
   {
     "subject": "ARTD",
+    "number": "2340",
+    "title": "Introduction to Computational Creative Practice",
+    "scheduleType": "Studio",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "38897" }],
+    "description": "Examines concepts of computational creative practices, focusing on the use of computational processes for the creation of interactive and generative experiences. Includes computational procedures and concepts for creative purposes such as automation, recursion, and data processing. Students use data and mathematical procedures to generate images, express ideas, and create meaning. Offers students an opportunity to gain practice-based experience with the benefits and limitations of using computational processes; make creative computational projects using code and/or other media such as photography, video, performance installation, etc.; and reflect on what computers can and cannot do well.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTD",
     "number": "2360",
     "title": "Introduction to Photography",
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30374" },
+      { "term": "202430", "crn": "30373" },
+      { "term": "202430", "crn": "33672" },
+      { "term": "202430", "crn": "34298" },
+      { "term": "202430", "crn": "34300" },
+      { "term": "202430", "crn": "40622" },
       { "term": "202410", "crn": "10293" },
       { "term": "202410", "crn": "10312" },
       { "term": "202410", "crn": "13724" },
@@ -81,6 +133,11 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30429" },
+      { "term": "202430", "crn": "33674" },
+      { "term": "202430", "crn": "34116" },
+      { "term": "202430", "crn": "34301" },
+      { "term": "202430", "crn": "40623" },
       { "term": "202410", "crn": "10965" },
       { "term": "202410", "crn": "15182" },
       { "term": "202410", "crn": "15183" },
@@ -110,6 +167,8 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "34962" },
+      { "term": "202430", "crn": "36399" },
       { "term": "202410", "crn": "12180" },
       { "term": "202410", "crn": "15579" },
       { "term": "202410", "crn": "20327" },
@@ -130,6 +189,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33317" },
+      { "term": "202430", "crn": "36400" },
       { "term": "202410", "crn": "10780" },
       { "term": "202410", "crn": "17890" },
       { "term": "202410", "crn": "20328" },
@@ -150,6 +211,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "30372" },
       { "term": "202410", "crn": "10196" },
       { "term": "202330", "crn": "30384" },
       { "term": "202310", "crn": "10206" }
@@ -166,6 +228,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30478" },
       { "term": "202410", "crn": "13898" },
       { "term": "202330", "crn": "30491" },
       { "term": "202310", "crn": "14491" }
@@ -182,6 +245,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38898" },
       { "term": "202410", "crn": "16885" },
       { "term": "202410", "crn": "20356" },
       { "term": "202310", "crn": "19237" }
@@ -206,6 +270,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "32957" },
       { "term": "202410", "crn": "12080" },
       { "term": "202330", "crn": "33347" },
       { "term": "202310", "crn": "12338" }
@@ -226,6 +291,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31783" },
+      { "term": "202430", "crn": "38039" },
       { "term": "202410", "crn": "13647" },
       { "term": "202330", "crn": "31986" },
       { "term": "202330", "crn": "40126" },
@@ -242,7 +309,10 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36646" }],
+    "sections": [
+      { "term": "202430", "crn": "35273" },
+      { "term": "202330", "crn": "36646" }
+    ],
     "description": "Utilizes elements of story and game play in the design of both 2D and 3D environments, integrating architecture, landscape, and set dressing. Introduces real-time procedurally generated terrain and flora, asset optimization, and nonlinear path finding. Explores content ranging from historically accurate and contemporary hyperrealistic to stylized and fanciful.",
     "coreqs": [],
     "prereqs": [
@@ -309,7 +379,10 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33772" }],
+    "sections": [
+      { "term": "202430", "crn": "33318" },
+      { "term": "202330", "crn": "33772" }
+    ],
     "description": "Constitutes an advanced video production and analysis course. Emphasizes the development of personal vision and building a working knowledge of contemporary experimental video art techniques. Offers students an opportunity to expand conceptual ideas and visual language skills by interrogating concepts of time, movement, light, and space within their exploratory working process. Visual research and discussion supplement the studio work.",
     "coreqs": [],
     "prereqs": [
@@ -326,6 +399,8 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "37045" },
+      { "term": "202430", "crn": "37046" },
       { "term": "202410", "crn": "12129" },
       { "term": "202330", "crn": "39061" },
       { "term": "202330", "crn": "39062" },
@@ -342,7 +417,10 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34257" }],
+    "sections": [
+      { "term": "202430", "crn": "33675" },
+      { "term": "202330", "crn": "34257" }
+    ],
     "description": "Emphasizes combining students’ personal aesthetic choices with refined technical skills in this advanced photography seminar. Students integrate personal vision, historical research, and well-defined concepts in their work. Through lectures on contemporary topics and artist studio and museum visits, students situate their own ideas and processes to historical and cultural forces. Focuses on the relevance of contemporary models in which the still image is used, specifically interdisciplinary approaches.",
     "coreqs": [],
     "prereqs": [{ "subject": "ARTD", "number": "3460" }]
@@ -355,6 +433,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35394" },
       { "term": "202410", "crn": "10188" },
       { "term": "202330", "crn": "36843" },
       { "term": "202310", "crn": "10196" }

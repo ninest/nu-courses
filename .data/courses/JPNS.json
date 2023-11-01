@@ -7,6 +7,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32186" },
+      { "term": "202430", "crn": "30032" },
+      { "term": "202430", "crn": "31609" },
+      { "term": "202430", "crn": "32667" },
       { "term": "202410", "crn": "10056" },
       { "term": "202410", "crn": "10055" },
       { "term": "202410", "crn": "11153" },
@@ -35,6 +39,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30062" },
+      { "term": "202430", "crn": "30979" },
       { "term": "202410", "crn": "11811" },
       { "term": "202410", "crn": "14913" },
       { "term": "202340", "crn": "40209" },
@@ -60,6 +66,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30061" },
       { "term": "202410", "crn": "10054" },
       { "term": "202330", "crn": "30064" },
       { "term": "202310", "crn": "10058" }
@@ -80,6 +87,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31325" },
       { "term": "202410", "crn": "10038" },
       { "term": "202330", "crn": "31450" },
       { "term": "202310", "crn": "10040" }
@@ -100,6 +108,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32587" },
       { "term": "202410", "crn": "11596" },
       { "term": "202330", "crn": "32912" },
       { "term": "202310", "crn": "11793" }
@@ -119,7 +128,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "15393" }],
+    "sections": [
+      { "term": "202430", "crn": "31319" },
+      { "term": "202410", "crn": "15393" }
+    ],
     "description": "Builds on JPNS 3101 and continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
     "coreqs": [],
     "prereqs": [

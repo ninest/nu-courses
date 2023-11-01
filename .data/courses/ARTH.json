@@ -7,6 +7,7 @@
     "credits": 2,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "36415" },
       { "term": "202410", "crn": "17514" },
       { "term": "202330", "crn": "38397" },
       { "term": "202310", "crn": "19920" },
@@ -24,6 +25,12 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36416" },
+      { "term": "202430", "crn": "36417" },
+      { "term": "202430", "crn": "36419" },
+      { "term": "202430", "crn": "36420" },
+      { "term": "202430", "crn": "37660" },
+      { "term": "202430", "crn": "38988" },
       { "term": "202410", "crn": "17515" },
       { "term": "202410", "crn": "17516" },
       { "term": "202410", "crn": "17517" },
@@ -55,6 +62,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32033" },
       { "term": "202410", "crn": "12057" },
       { "term": "202330", "crn": "32267" },
       { "term": "202310", "crn": "12301" }
@@ -80,12 +88,26 @@
   },
   {
     "subject": "ARTH",
+    "number": "2200",
+    "title": "Topics in Design History",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40628" }],
+    "description": "Explores various design history topics through pioneering designers whose work has influenced contemporary design culture. Instructor determines format and content.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTH",
     "number": "2210",
     "title": "Modern Art and Design History",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "SI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30479" },
+      { "term": "202430", "crn": "36980" },
       { "term": "202410", "crn": "18655" },
       { "term": "202410", "crn": "20940" },
       { "term": "202340", "crn": "41901" },
@@ -116,6 +138,8 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "30003" },
+      { "term": "202430", "crn": "36981" },
       { "term": "202410", "crn": "15492" },
       { "term": "202410", "crn": "19044" },
       { "term": "202410", "crn": "20930" },
@@ -144,6 +168,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30082" },
       { "term": "202410", "crn": "14237" },
       { "term": "202330", "crn": "30085" },
       { "term": "202310", "crn": "14907" }
@@ -160,6 +185,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31581" },
+      { "term": "202430", "crn": "33685" },
+      { "term": "202430", "crn": "34977" },
       { "term": "202410", "crn": "11827" },
       { "term": "202410", "crn": "15916" },
       { "term": "202360", "crn": "60886" },
@@ -195,6 +223,7 @@
     "credits": 4,
     "nuPath": ["IC", "WI"],
     "sections": [
+      { "term": "202430", "crn": "36422" },
       { "term": "202410", "crn": "16895" },
       { "term": "202340", "crn": "41715" },
       { "term": "202330", "crn": "36079" },
@@ -215,7 +244,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "WI"],
-    "sections": [{ "term": "202310", "crn": "20720" }],
+    "sections": [
+      { "term": "202430", "crn": "36423" },
+      { "term": "202310", "crn": "20720" }
+    ],
     "description": "Explores a variety of advanced topics in visual studies, including historical and cultural models. Taught by faculty according to their research interests and expertise.",
     "coreqs": [],
     "prereqs": []

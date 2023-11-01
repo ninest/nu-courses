@@ -1,0 +1,29 @@
+[
+  {
+    "subject": "EXRE",
+    "number": "5010",
+    "title": "Immersive Media: Extended Realities (XR) History, Theory, and Impact",
+    "scheduleType": "Studio",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "40752" },
+      { "term": "202430", "crn": "40658" }
+    ],
+    "description": "Introduces the historical foundation and conceptual frameworks with which to analyze and interrogate extended reality experiences, including virtual reality, augmented reality, and mixed reality. Covers the theoretical, cultural, and technological developments that have informed contemporary XR. Explores the promises, dreams, and expectations, as well as the ethical concerns and philosophical dilemmas, associated with the field. Offers students an opportunity to create XR experiences and prototype their own ideas.",
+    "coreqs": [{ "subject": "EXRE", "number": "5011" }],
+    "prereqs": []
+  },
+  {
+    "subject": "EXRE",
+    "number": "5020",
+    "title": "Developing Extended Realities (XR)",
+    "scheduleType": "Studio",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40659" }],
+    "description": "Examines how to create extended reality (XR) experiences including virtual reality (VR), augmented reality (AR), and mixed reality (MR). Studies coding and developing projects in XR using current hardware and software, including scripting, sensing, interactions, and preproduction methods that are specific to XR. Examines simulation sickness, sensing, eye tracking, empathy, and narrative in XR.",
+    "coreqs": [],
+    "prereqs": []
+  }
+]

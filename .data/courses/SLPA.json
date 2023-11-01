@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35444" },
       { "term": "202410", "crn": "15512" },
       { "term": "202330", "crn": "36903" },
       { "term": "202310", "crn": "17104" }
@@ -22,7 +23,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ND"],
-    "sections": [{ "term": "202330", "crn": "33477" }],
+    "sections": [
+      { "term": "202430", "crn": "33073" },
+      { "term": "202330", "crn": "33477" }
+    ],
     "description": "Offers an overview of disorders of speech and hearing and their treatment, and a review of normal speech and hearing development. Requires clinical observations of persons with speech, language, and hearing disorders.",
     "coreqs": [],
     "prereqs": []
@@ -34,7 +38,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34369" }],
+    "sections": [
+      { "term": "202430", "crn": "33765" },
+      { "term": "202330", "crn": "34369" }
+    ],
     "description": "Provides an overview of the development of the language system from birth to adolescence. Students compare different theories of language acquisition and understand their implications for intervention approaches; become familiar with broad developmental stages in infancy and childhood in the domains of motor skills, cognition, social skills, and speech and language, and the connections among these domains; understand the social dynamics between parents and children from which early gestures and prespeech vocalizations emerge; utilize some informal measures of language development covering form, content, and use; and understand broad differences in development in multicultural populations including Asian, Hispanic, and African-American children.",
     "coreqs": [],
     "prereqs": []
@@ -62,7 +69,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34370" }],
+    "sections": [
+      { "term": "202430", "crn": "33766" },
+      { "term": "202330", "crn": "34370" }
+    ],
     "description": "Introduces students to articulatory, perceptual, and linguistic aspects of speech sounds, and phonetic transcription of normal and disordered speech using the International Phonetic Alphabet. Utilizes lectures, discussions, laboratory exercises, demonstrations, readings, audiotape exercises, problem sets, quizzes, and examinations.",
     "coreqs": [],
     "prereqs": []
@@ -90,7 +100,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30113" }],
+    "sections": [
+      { "term": "202430", "crn": "30110" },
+      { "term": "202330", "crn": "30113" }
+    ],
     "description": "Introduces facts and theories related to the physical bases of sound as relevant to speech acoustics; anatomy of the hearing mechanisms; psychoacoustics; and speech perception. While primarily concerned with normal communication, the course also includes discussion of communication disorders. Lab demonstrations and problem sets augment lectures and discussions.",
     "coreqs": [],
     "prereqs": []
@@ -103,6 +116,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "38797" },
       { "term": "202410", "crn": "11836" },
       { "term": "202410", "crn": "19592" },
       { "term": "202330", "crn": "37019" },
@@ -120,6 +134,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35569" },
       { "term": "202410", "crn": "15611" },
       { "term": "202330", "crn": "37119" },
       { "term": "202310", "crn": "17342" }
@@ -159,7 +174,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38588" }],
+    "sections": [
+      { "term": "202430", "crn": "36594" },
+      { "term": "202330", "crn": "38588" }
+    ],
     "description": "Offers students an opportunity to obtain the foundation needed to work with adults and children who demonstrate delays and disorders of speech production across the life span. Discusses articulation and phonological development and disorders, phonological differences, disorders of fluency of speech, and disorders of resonance and voice. Presents formal and informal diagnostic and therapeutic intervention for each disorder/difference and discusses the impact of these communication problems in relation to the individual and family.",
     "coreqs": [],
     "prereqs": [
@@ -175,7 +193,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19595" }],
+    "sections": [
+      { "term": "202430", "crn": "38799" },
+      { "term": "202410", "crn": "19595" }
+    ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -262,7 +283,10 @@
     "scheduleType": "Off-campus instruction w/ lec",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34121" }],
+    "sections": [
+      { "term": "202430", "crn": "33572" },
+      { "term": "202330", "crn": "34121" }
+    ],
     "description": "Provides students from school psychology, special education, speech-language pathology and audiology, physical therapy, nursing, and related fields with supervised field work experience in team-oriented interventions for infants and toddlers with disabilities or at risk for developmental delays and their families from linguistically and culturally diverse backgrounds. The practicum class sessions are conceptualized as the linchpin training experience between what the theory addresses in didactic courses and the student’s fieldwork. Students are expected to master early intervention and team participation core competencies to work effectively with infants and toddlers and their families, interdisciplinary team members, and administrative personnel.",
     "coreqs": [],
     "prereqs": []
@@ -275,6 +299,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35256" },
       { "term": "202410", "crn": "11091" },
       { "term": "202330", "crn": "36607" },
       { "term": "202310", "crn": "11225" }
@@ -291,6 +316,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30703" },
       { "term": "202330", "crn": "30747" },
       { "term": "202330", "crn": "38589" }
     ],
@@ -305,7 +331,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34371" }],
+    "sections": [
+      { "term": "202430", "crn": "33767" },
+      { "term": "202330", "crn": "34371" }
+    ],
     "description": "Provides a detailed examination of various approaches to speech reading and auditory training as they apply to children and adults. Offers an integrated approach to management of hearing-impaired individuals.",
     "coreqs": [],
     "prereqs": []
@@ -345,6 +374,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30702" },
       { "term": "202330", "crn": "30746" },
       { "term": "202330", "crn": "38590" }
     ],
@@ -406,7 +436,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32839" }],
+    "sections": [
+      { "term": "202430", "crn": "32526" },
+      { "term": "202330", "crn": "32839" }
+    ],
     "description": "Evaluating and treating swallowing disorders are key focuses of the speech-language pathologies in most clinical work settings (educational and medical), with individuals of all ages. Provides students with the information base needed to work with these challenging and rewarding populations. Focuses on theoretical background and assessment/treatment techniques for dysphagia individuals. Emphasizes outcome and efficacy considerations.",
     "coreqs": [],
     "prereqs": []
@@ -465,12 +498,13 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30740" },
       { "term": "202330", "crn": "30787" },
       { "term": "202330", "crn": "38591" }
     ],
     "description": "Focuses on the neurology, SLP evaluation, and SLP treatment of individuals presenting with any type/types of anarthria/dysarthria and apraxia/dyspraxia of speech. Many of the neurologically impaired children and adults that speech-language pathologists work with present with motor speech disorders. Diagnostically, studies how to complete oral motor examinations (including an assessment of those cranial nerves involved in respiration, phonation, resonance, and articulation) and intelligibility testing. Therapeutically, studies a variety of therapy approaches for the range of motor speech disorders based on severity of impairment and prognosis for recovery/improvement including verbal, nonverbal, prosthetic, and pharmacologic.",
     "coreqs": [],
-    "prereqs": [{ "subject": "SLPA", "number": "6301" }]
+    "prereqs": []
   },
   {
     "subject": "SLPA",
@@ -536,7 +570,10 @@
     "scheduleType": "Off-campus instruction w/ lec",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20807" }],
+    "sections": [
+      { "term": "202430", "crn": "38800" },
+      { "term": "202410", "crn": "20807" }
+    ],
     "description": "Focuses on early literacy skill acquisition in the field of speech-language pathology. Introduces the historical framework of learning to read, elements of reading, reading assessment and intervention, and the integration of theoretical knowledge and clinical experience in school-based therapy settings. Offers students an opportunity for hands-on delivery of language-based early literacy services to young school-age children who may be at risk for delayed language and/or early reading difficulties.",
     "coreqs": [],
     "prereqs": []
@@ -563,7 +600,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33835" }],
+    "sections": [
+      { "term": "202430", "crn": "33365" },
+      { "term": "202330", "crn": "33835" }
+    ],
     "description": "Offers students an opportunity to obtain a foundation of knowledge about the etiology and characteristics of language disorders in school-age children. Addresses the evolving language demands children encounter as they progress through school, the impact of language disorders on academic performance and social interaction in the classroom, the relationship between oral and written language development, as well as the role of the speech-language pathologist in the assessment and treatment of written language disorders. Also designed to teach students in the field of communication disorders about literacy skill use and evaluation and treatment of literacy impairments beyond early childhood.",
     "coreqs": [],
     "prereqs": []
@@ -575,7 +615,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34372" }],
+    "sections": [
+      { "term": "202430", "crn": "33768" },
+      { "term": "202330", "crn": "34372" }
+    ],
     "description": "Offers students an opportunity to obtain foundational skills needed to work with frequently referred adults with aphasia across clinical settings. Speech, language, and cognitive-communication disorders are typical consequences of acquired central and peripheral nervous system adult impairments. Emphasizes the anatomy, etiology, neurology, and physiology of different types of aphasia, characteristics of these, and intervention approaches (diagnostic and therapeutic). Addresses prevention, outcome, efficacy, and service-delivery considerations.",
     "coreqs": [],
     "prereqs": [
@@ -612,6 +655,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30701" },
       { "term": "202410", "crn": "11399" },
       { "term": "202330", "crn": "30745" },
       { "term": "202310", "crn": "11578" }
@@ -628,6 +672,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30700" },
       { "term": "202350", "crn": "50203" },
       { "term": "202330", "crn": "30744" },
       { "term": "202310", "crn": "21603" }
@@ -648,6 +693,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38801" },
       { "term": "202410", "crn": "11703" },
       { "term": "202350", "crn": "51699" },
       { "term": "202330", "crn": "38592" },
@@ -665,6 +711,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36599" },
       { "term": "202410", "crn": "10981" },
       { "term": "202350", "crn": "50548" },
       { "term": "202330", "crn": "30743" },
@@ -730,6 +777,10 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30698" },
+      { "term": "202430", "crn": "33396" },
+      { "term": "202430", "crn": "36861" },
+      { "term": "202430", "crn": "36862" },
       { "term": "202410", "crn": "10653" },
       { "term": "202410", "crn": "19226" },
       { "term": "202330", "crn": "30742" },

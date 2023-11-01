@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31840" },
       { "term": "202410", "crn": "10416" },
       { "term": "202330", "crn": "32049" },
       { "term": "202310", "crn": "10443" }
@@ -23,6 +24,11 @@
     "credits": 4,
     "nuPath": ["EI", "SI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30334" },
+      { "term": "202430", "crn": "30333" },
+      { "term": "202430", "crn": "30465" },
+      { "term": "202430", "crn": "34671" },
+      { "term": "202430", "crn": "37863" },
       { "term": "202410", "crn": "10413" },
       { "term": "202410", "crn": "14055" },
       { "term": "202330", "crn": "30346" },
@@ -45,6 +51,12 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32616" },
+      { "term": "202430", "crn": "32933" },
+      { "term": "202430", "crn": "32996" },
+      { "term": "202430", "crn": "35133" },
+      { "term": "202430", "crn": "35619" },
+      { "term": "202430", "crn": "37852" },
       { "term": "202410", "crn": "13133" },
       { "term": "202410", "crn": "13134" },
       { "term": "202410", "crn": "13164" },
@@ -70,6 +82,8 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "30331" },
+      { "term": "202430", "crn": "30936" },
       { "term": "202410", "crn": "10412" },
       { "term": "202410", "crn": "10472" },
       { "term": "202410", "crn": "12832" },
@@ -102,12 +116,29 @@
   },
   {
     "subject": "JRNL",
+    "number": "2200",
+    "title": "Writing for Public Relations",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["WI"],
+    "sections": [{ "term": "202430", "crn": "39271" }],
+    "description": "Immerses students in various kinds of writing required to conduct effective public relations on behalf of companies, organizations, and individuals, both to enhance their public images and protect their reputations. Explores communications theories and, in particular, how they influence writing in an era dominated by social and digital media. Covers various forms of public relations writing, including press releases, press conferences, media pitches, company histories, video scripts, speeches, and advertorials. Studies how to present client positions through op-eds, letters to the editors, newsletters, and other vehicles; how to adapt communications for company websites and social media channels; and how to draft communications for key company stakeholders, especially employees.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" }
+    ]
+  },
+  {
+    "subject": "JRNL",
     "number": "2201",
     "title": "Journalism 2: Intermediate Reporting",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "30219" },
       { "term": "202410", "crn": "10405" },
       { "term": "202410", "crn": "14487" },
       { "term": "202410", "crn": "17013" },
@@ -157,6 +188,8 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "30332" },
+      { "term": "202430", "crn": "39272" },
       { "term": "202410", "crn": "10260" },
       { "term": "202360", "crn": "60507" },
       { "term": "202330", "crn": "30344" },
@@ -183,6 +216,7 @@
     "credits": 4,
     "nuPath": ["IC", "SI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "33794" },
       { "term": "202410", "crn": "10259" },
       { "term": "202330", "crn": "34407" },
       { "term": "202310", "crn": "10277" }
@@ -234,6 +268,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37063" },
+      { "term": "202430", "crn": "37069" },
+      { "term": "202430", "crn": "39273" },
+      { "term": "202430", "crn": "39796" },
       { "term": "202410", "crn": "17019" },
       { "term": "202410", "crn": "19645" },
       { "term": "202330", "crn": "38509" },
@@ -257,6 +295,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "39274" },
       { "term": "202410", "crn": "20160" },
       { "term": "202310", "crn": "19383" }
     ],
@@ -272,6 +311,8 @@
     "credits": 4,
     "nuPath": ["ER", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30330" },
+      { "term": "202430", "crn": "39275" },
       { "term": "202410", "crn": "10253" },
       { "term": "202410", "crn": "20901" },
       { "term": "202330", "crn": "30342" },
@@ -289,6 +330,7 @@
     "credits": 4,
     "nuPath": ["CE", "ER", "SI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30329" },
       { "term": "202410", "crn": "10251" },
       { "term": "202330", "crn": "30341" },
       { "term": "202310", "crn": "10268" }
@@ -303,8 +345,11 @@
     "title": "Digital Storytelling and Social Media",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["EI", "EX", "WI"],
+    "nuPath": ["EI", "WI", "EX"],
     "sections": [
+      { "term": "202430", "crn": "31841" },
+      { "term": "202430", "crn": "35610" },
+      { "term": "202430", "crn": "36523" },
       { "term": "202410", "crn": "12364" },
       { "term": "202410", "crn": "17021" },
       { "term": "202410", "crn": "19647" },
@@ -352,7 +397,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202310", "crn": "19385" }],
+    "sections": [
+      { "term": "202430", "crn": "39771" },
+      { "term": "202310", "crn": "19385" }
+    ],
     "description": "Explores the role of journalism in delivering science news and information to a general audience through print and digital media. Through readings and analysis of a variety of news media, offers students an opportunity to learn how political debates intersect with and shape scientific developments and how scientific developments can be sensationalized or misunderstood. Students also have an opportunity to learn and apply best journalistic practices to communicate effectively in the media about science, health, environmental, and technology issues whether headed to a newsroom, corporate press office, or scientific institution.",
     "coreqs": [],
     "prereqs": []
@@ -374,12 +422,25 @@
   },
   {
     "subject": "JRNL",
+    "number": "3700",
+    "title": "Data Storytelling",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["AD"],
+    "sections": [{ "term": "202430", "crn": "39276" }],
+    "description": "Explores select topics in data journalism and supports data-driven storytelling projects of various kinds. Course units foster moderate technical learning of applications and software; incorporate theories from relevant fields in data visualization and data science; and emphasize storytelling for broad public audiences. Seeks to foster knowledge of both the classic and cutting-edge forms for telling stories with data. Offers students an opportunity to obtain a sense of rigor in analyzing and using data and statistics and to build knowledge of a variety of tools to clean, analyze, and visualize data. Journalists are becoming more sophisticated in their approaches to quantitative information, drawing on the growing amount of open data sets and using software and techniques borrowed from the social sciences and data science.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "JRNL",
     "number": "4650",
     "title": "Ethics and Issues in Journalism",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["CE", "ER", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30328" },
       { "term": "202410", "crn": "10250" },
       { "term": "202330", "crn": "30340" },
       { "term": "202310", "crn": "10267" }
@@ -418,7 +479,7 @@
     "title": "Photojournalism",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": ["EI", "ER"],
+    "nuPath": ["ER", "EI"],
     "sections": [
       { "term": "202410", "crn": "20471" },
       { "term": "202330", "crn": "38710" },
@@ -451,7 +512,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["EI", "ER"],
-    "sections": [{ "term": "202310", "crn": "19390" }],
+    "sections": [
+      { "term": "202430", "crn": "39277" },
+      { "term": "202310", "crn": "19390" }
+    ],
     "description": "Engages students in the ethical challenges facing journalists historically and in the new media age. Students experiment with techniques used by TV and electronic news producers, including reporting, writing, videotaping, and editing on nonlinear digital editing equipment. Offers students an opportunity to create and produce news stories and upload them to their websites with a variety of software programs for dissemination across video and several multimedia platforms, in line with journalistic and ethical standards.",
     "coreqs": [],
     "prereqs": [
@@ -469,6 +533,18 @@
     "nuPath": ["EI"],
     "sections": [{ "term": "202330", "crn": "38587" }],
     "description": "Immerses students in a real-life television newsroom experience. Exposes students to all aspects of TV news production: from news gathering, producing, and being in front of the camera to the behind-the-scenes work of operating multiple cameras, live switching, audio mixing, and studio lighting. Allows students to be an integral part of a newsroom team, working as reporters, anchors, videographers, and editors to gather content and work in the studio to produce a Northeastern newscast covering news on campus and beyond. Involves hands-on reporting and production where the stories are real and so are the deadlines.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "JRNL",
+    "number": "5320",
+    "title": "Practicing Photojournalism: Community and the Camera",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["EI"],
+    "sections": [{ "term": "202430", "crn": "39278" }],
+    "description": "Addresses current concerns in photojournalism including social justice, environmental justice, and diversity issues through the study of local/community photojournalism. Provides instruction in photographic and visual reporting skills through documenting ongoing concerns within the hyperlocal context of neighborhood and social communities. Guides students to produce original reporting with an emphasis on still photography and basic multimedia. Requires a firm grasp of basic photography concepts including manual exposure control, depth of field, and shutter function. Students should be able to comfortably operate a camera on the manual setting, recognize the differences between lenses, and be familiar with Adobe Photoshop and/or Adobe Lightroom, as well as possess basic writing and reporting skills, including approaching strangers for stories.",
     "coreqs": [],
     "prereqs": []
   },
@@ -521,7 +597,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD"],
-    "sections": [{ "term": "202330", "crn": "34408" }],
+    "sections": [
+      { "term": "202430", "crn": "33795" },
+      { "term": "202330", "crn": "34408" }
+    ],
     "description": "Offers an overview of the concepts, methods, and tools for social science research with a focus on media strategy. Covers how social science methodologies—including developing skills in gathering, organizing, interpreting, and presenting research information using competent and ethically defensible methods—are critical to in-depth media advocacy research.",
     "coreqs": [],
     "prereqs": []
@@ -575,7 +654,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30758" }],
+    "sections": [
+      { "term": "202430", "crn": "30714" },
+      { "term": "202330", "crn": "30758" }
+    ],
     "description": "Builds on skills and concepts covered in JRNL 6200. Covers a variety of Web-based and traditional resources. Employs computer-assisted reporting methodologies to assist students in investigating areas such as government corruption, safety and environmental risks, criminal justice, education, healthcare, real estate, campaign financing, and business and financial transactions. Offers students an opportunity to learn how to access public databases, to reference materials, and to analyze the information.",
     "coreqs": [],
     "prereqs": [{ "subject": "JRNL", "number": "6200" }]
@@ -587,8 +669,23 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32160" }],
+    "sections": [
+      { "term": "202430", "crn": "31934" },
+      { "term": "202330", "crn": "32160" }
+    ],
     "description": "Offers a seminar involving readings and discussions about philosophical and moral principles developed by Mill, Hume, and others, and their application to case studies and work experience in print and broadcast journalism. Issues include deception, conflict of interest, privacy, and corporate ownership. Students also evaluate the role of journalism reviews, codes of ethics, ombudsmen, and news councils.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "JRNL",
+    "number": "6300",
+    "title": "First Amendment in Digital Age",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39279" }],
+    "description": "Acquaints students with legal issues journalists encounter from the common law of libel to communicating on the Internet; from prior restraint to protecting sources. Also serves as an introduction to legal analysis, showing how law develops through statutes and judicial opinions.",
     "coreqs": [],
     "prereqs": []
   },
@@ -600,6 +697,11 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36527" },
+      { "term": "202430", "crn": "36528" },
+      { "term": "202430", "crn": "37074" },
+      { "term": "202430", "crn": "37113" },
+      { "term": "202430", "crn": "39794" },
       { "term": "202410", "crn": "17032" },
       { "term": "202410", "crn": "17033" },
       { "term": "202410", "crn": "20146" },
@@ -627,7 +729,10 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32360" }],
+    "sections": [
+      { "term": "202430", "crn": "32118" },
+      { "term": "202330", "crn": "32360" }
+    ],
     "description": "Constitutes the first of a two-course studio sequence designed to prepare experienced journalists to create new forms of journalism in the digital age. Offers students an opportunity to work with faculty members and peers via class exercises and peer-to-peer project collaboration to identify and develop the subject of a signature master's project. Incorporates lectures on emerging media practices, including parallax scrolling, and instruction on digital journalism tools, including DSLR cameras, as well as reviews and critiques of professional and studio work by faculty and guest speakers.",
     "coreqs": [],
     "prereqs": []
@@ -712,7 +817,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "40776" }],
+    "sections": [
+      { "term": "202430", "crn": "38659" },
+      { "term": "202330", "crn": "40776" }
+    ],
     "description": "Provides eligible students with an opportunity for practical experience. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -725,6 +833,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38018" },
+      { "term": "202430", "crn": "38406" },
+      { "term": "202430", "crn": "38743" },
       { "term": "202330", "crn": "40104" },
       { "term": "202330", "crn": "40512" },
       { "term": "202330", "crn": "40863" },

@@ -7,6 +7,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "30791" },
       { "term": "202410", "crn": "11720" },
       { "term": "202410", "crn": "17995" },
       { "term": "202410", "crn": "18131" },
@@ -29,6 +30,8 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "33483" },
+      { "term": "202430", "crn": "40199" },
       { "term": "202410", "crn": "14564" },
       { "term": "202410", "crn": "20030" },
       { "term": "202410", "crn": "20031" },
@@ -54,7 +57,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202330", "crn": "36035" }],
+    "sections": [
+      { "term": "202430", "crn": "34951" },
+      { "term": "202330", "crn": "36035" }
+    ],
     "description": "Provides an introduction to Japanese film through works by such great masters as Kurosawa, Mizoguchi, and Ozu, as well as works by new directors from the 1980s and 1990s such as Tami, Morita, and Suo. Studies both form and content; relates major works to Japanese culture. Conducted in English.",
     "coreqs": [],
     "prereqs": []
@@ -66,7 +72,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC"],
-    "sections": [],
+    "sections": [{ "term": "202430", "crn": "40505" }],
     "description": "Provides an introduction to some of the qualities that have made French film one of the great national cinemas. Focuses on both form and content; relates outstanding directors' major works to the French culture and society of their period. Conducted in English.",
     "coreqs": [],
     "prereqs": []
@@ -78,7 +84,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "SI"],
-    "sections": [{ "term": "202330", "crn": "36036" }],
+    "sections": [
+      { "term": "202430", "crn": "34952" },
+      { "term": "202330", "crn": "36036" }
+    ],
     "description": "Introduces modern Chinese history and culture through literary works, films, and historical texts. Examines political, social, and cultural changes in China since 1800: the decline of empire; the New Culture Movement of the 1920s; the rise of nationalism and rural revolution; the changing roles of women; the Cultural Revolution of the 1960s; and China's cinematic, literary, and economic engagement with the world since 1978. Taught in English and open to all undergraduates. CLTR 1500 and HIST 1500 are cross-listed.",
     "coreqs": [],
     "prereqs": []
@@ -91,6 +100,7 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [
+      { "term": "202430", "crn": "32279" },
       { "term": "202410", "crn": "10422" },
       { "term": "202330", "crn": "32531" },
       { "term": "202310", "crn": "10449" }
@@ -107,6 +117,8 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "32280" },
+      { "term": "202430", "crn": "40644" },
       { "term": "202410", "crn": "10530" },
       { "term": "202330", "crn": "32532" },
       { "term": "202310", "crn": "10568" }
@@ -134,7 +146,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "SI"],
-    "sections": [{ "term": "202340", "crn": "41894" }],
+    "sections": [
+      { "term": "202430", "crn": "38805" },
+      { "term": "202340", "crn": "41894" }
+    ],
     "description": "Offers students an opportunity to learn about Latin American culture through the study of historical episodes such as colonization, independence, and dictatorships. Explores current issues including migration, globalization, and digital media. Examines writings by Latin American authors and selected films from Latin America. Conducted in English.",
     "coreqs": [],
     "prereqs": []
@@ -147,6 +162,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "30035" },
       { "term": "202410", "crn": "14960" },
       { "term": "202330", "crn": "30037" },
       { "term": "202310", "crn": "16072" }
@@ -174,10 +190,35 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "SI"],
-    "sections": [{ "term": "202330", "crn": "34215" }],
+    "sections": [
+      { "term": "202430", "crn": "33648" },
+      { "term": "202330", "crn": "34215" }
+    ],
     "description": "Introduces the study of world cinema from the past several decades as a form of artistic and cultural expression. Emphasizes the way that different ethnicities and cultures mix and even clash within national boundaries. Readings cover such topics as the postcolonial inheritance, immigration, the boundaries of class, the pressures of modernization, ethnic identities, and historical memory. Examines storytelling in its multicultural aspects and deals with the diverse influences of entertainment cinema and art cinema, as well as measures taken by countries to limit the influx of foreign films in order to protect their own cultural productivity. One overall concern of the course is the place of film in contemporary global culture.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "CLTR",
+    "number": "3240",
+    "title": "Social Justice in Latin American and Latinx Film",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["IC"],
+    "sections": [{ "term": "202430", "crn": "40200" }],
+    "description": "Examines issues in social justice in contemporary works of cinematography from Latin American and Latinx cultures. Critically engages—from a technical (cinematographic) and sociohistorical perspective—topics related to the representations of historically vulnerable populations, such as people of color, women, LGBTQIA+ persons, and indigenous peoples. Conducted in Spanish.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "SPNS", "number": "2102" },
+      "Or",
+      { "subject": "SPNS", "number": "3101" },
+      "Or",
+      { "subject": "SPNS", "number": "3102" },
+      "Or",
+      "Placement in SPNS 3101",
+      "Or",
+      "Placement in SPNS 3102"
+    ]
   },
   {
     "subject": "CLTR",
@@ -186,7 +227,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "SI"],
-    "sections": [{ "term": "202310", "crn": "19060" }],
+    "sections": [
+      { "term": "202430", "crn": "39329" },
+      { "term": "202310", "crn": "19060" }
+    ],
     "description": "Explores contending theories of identity and nationalism—a powerful force in international and domestic politics. Examines topics such as the process of identity creation, the choice of national symbols, how group boundaries are established, the role of identity in conflict and state building, and the debate over nationalism’s constructed or primordial nature. POLS 3418 and CLTR 3418 are cross-listed.",
     "coreqs": [],
     "prereqs": [
@@ -207,6 +251,24 @@
       { "term": "202310", "crn": "13917" }
     ],
     "description": "Focuses on film, literature, and new media. This course offers a panoramic view of the Latin American cultural production after 1989, attempting to characterize the variety of styles and trends. Relates the texts and movies to the socio, political, and economic issues of the moment, i.e., implementation of neoliberal democracies, globalization, neocolonialism, resistance, new social movements, etc. Also studies links between Latin America and the United States and between Latin America and Spain. Focuses on texts written by relatively young authors. Taught in Spanish.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "SPNS", "number": "2102" },
+      "Or",
+      { "subject": "SPNS", "number": "3101" },
+      "Or",
+      { "subject": "SPNS", "number": "3102" }
+    ]
+  },
+  {
+    "subject": "CLTR",
+    "number": "3720",
+    "title": "Literature, Arts, and Poverty in Latin America",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["IC"],
+    "sections": [{ "term": "202430", "crn": "38806" }],
+    "description": "Focuses on the construction, characteristics, and representation of poverty/the poor in Latin American texts from the thirties and sixties and in the works of contemporary Latin American writers and film directors. Discusses the relation of these works to a &#8220;realist tradition&#8221; by studying social, political, and cultural aspects of Latin America from the nineteenth and twentieth centuries. Considers whether we are facing a new kind of realism. Also engages the problem of representation, the &#8220;role of literature&#8221; (ethics and literature), and its relation with politics and the global economy (literature and the market) in the Latin American context. Taught in Spanish.",
     "coreqs": [],
     "prereqs": [
       { "subject": "SPNS", "number": "2102" },

@@ -7,6 +7,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30005" },
       { "term": "202410", "crn": "11276" },
       { "term": "202330", "crn": "30005" },
       { "term": "202310", "crn": "11439" }
@@ -23,6 +24,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30020" },
       { "term": "202410", "crn": "11560" },
       { "term": "202330", "crn": "30022" },
       { "term": "202310", "crn": "11754" }
@@ -43,6 +45,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36139" },
       { "term": "202410", "crn": "19664" },
       { "term": "202330", "crn": "38100" }
     ],
@@ -58,6 +61,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34087" },
       { "term": "202410", "crn": "13649" },
       { "term": "202330", "crn": "34757" },
       { "term": "202310", "crn": "14162" }
@@ -79,7 +83,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202310", "crn": "20244" }],
+    "sections": [
+      { "term": "202430", "crn": "34088" },
+      { "term": "202310", "crn": "20244" }
+    ],
     "description": "Builds on PORT 2101 and focuses on further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through written composition, prepared oral reports, and reading and discussion from contemporary Portuguese materials.",
     "coreqs": [],
     "prereqs": [
@@ -87,16 +94,6 @@
       { "subject": "PORT", "number": "2101" },
       "Or",
       { "subject": "PORT", "number": "2301" },
-      ")",
-      "And",
-      "(",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
       ")"
     ]
   },

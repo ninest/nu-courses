@@ -45,6 +45,7 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "31640" },
       { "term": "202410", "crn": "12341" },
       { "term": "202330", "crn": "31813" },
       { "term": "202310", "crn": "12633" }
@@ -123,6 +124,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32172" },
       { "term": "202410", "crn": "12342" },
       { "term": "202330", "crn": "32420" },
       { "term": "202310", "crn": "12634" }
@@ -151,6 +153,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31637" },
       { "term": "202410", "crn": "12038" },
       { "term": "202340", "crn": "40616" },
       { "term": "202330", "crn": "31810" },
@@ -169,6 +172,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33517" },
       { "term": "202410", "crn": "12654" },
       { "term": "202330", "crn": "34040" },
       { "term": "202310", "crn": "12996" }
@@ -185,6 +189,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31503" },
       { "term": "202410", "crn": "12343" },
       { "term": "202330", "crn": "31656" },
       { "term": "202310", "crn": "12635" }
@@ -205,6 +210,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31116" },
       { "term": "202410", "crn": "13124" },
       { "term": "202330", "crn": "31207" },
       { "term": "202310", "crn": "13531" }
@@ -225,6 +231,8 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "30487" },
+      { "term": "202430", "crn": "31638" },
       { "term": "202410", "crn": "19832" },
       { "term": "202330", "crn": "30502" },
       { "term": "202330", "crn": "31811" }
@@ -257,6 +265,10 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30488" },
+      { "term": "202430", "crn": "31639" },
+      { "term": "202430", "crn": "35300" },
+      { "term": "202430", "crn": "37373" },
       { "term": "202410", "crn": "19833" },
       { "term": "202330", "crn": "30503" },
       { "term": "202330", "crn": "31812" },
@@ -275,6 +287,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32171" },
       { "term": "202410", "crn": "13128" },
       { "term": "202330", "crn": "32419" },
       { "term": "202310", "crn": "13536" }
@@ -299,6 +312,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32520" },
       { "term": "202410", "crn": "12655" },
       { "term": "202330", "crn": "32833" },
       { "term": "202310", "crn": "12997" }
@@ -315,6 +329,13 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35301" },
+      { "term": "202430", "crn": "32521" },
+      { "term": "202430", "crn": "32522" },
+      { "term": "202430", "crn": "32581" },
+      { "term": "202430", "crn": "35302" },
+      { "term": "202430", "crn": "32582" },
+      { "term": "202430", "crn": "32629" },
       { "term": "202410", "crn": "12656" },
       { "term": "202410", "crn": "12657" },
       { "term": "202410", "crn": "13172" },
@@ -359,7 +380,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "40651" }],
+    "sections": [
+      { "term": "202430", "crn": "38542" },
+      { "term": "202330", "crn": "40651" }
+    ],
     "description": "Offers theoretical or experimental work under individual faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -390,6 +414,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33782" },
       { "term": "202410", "crn": "19836" },
       { "term": "202410", "crn": "19837" },
       { "term": "202310", "crn": "17529" },
@@ -408,7 +433,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38684" }],
+    "sections": [
+      { "term": "202430", "crn": "36689" },
+      { "term": "202330", "crn": "38684" }
+    ],
     "description": "Covers fundamental knowledge and skills for using structured data analytics for IE applications. Offers students an opportunity to learn data cleaning and preparation, as well as analytics of data sets, and coding in VBA (writing macros and creating GUI), both as a driver of spreadsheet formulas and as a stand-alone programming language. A final project involves the development and presentation of a structured data analytics application that addresses industrial engineering concepts.",
     "coreqs": [],
     "prereqs": [
@@ -432,7 +460,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33221" }],
+    "sections": [
+      { "term": "202430", "crn": "32850" },
+      { "term": "202330", "crn": "33221" }
+    ],
     "description": "Discusses the key functions of healthcare operations management, such as patient and process flow, process improvement, facility layout, staffing and scheduling, capacity planning, and resource allocation. Focuses on analysis, design, management, and control of health systems and processes that are necessary to provide clinical care. The applications of systems engineering methods, such as optimization, simulation, and queuing models, are discussed through papers and case studies in different care settings (e.g., hospitals, emergency departments, surgery departments, and outpatient clinics) for different diseases (e.g. diabetes, cancer, mental health, cardiovascular disease). Uses spreadsheet tools to model and solve simulation and optimization problems. Requires equivalent course work if prerequisites are not met.",
     "coreqs": [],
     "prereqs": [
@@ -443,12 +474,46 @@
   },
   {
     "subject": "IE",
+    "number": "5500",
+    "title": "Systems Engineering in Public Programs",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39132" }],
+    "description": "Introduces the design, development, analysis, and application of mathematical modeling for addressing public programs and societal needs. Systems engineering and mathematical models form the basis for decision making in both public and private applications. Focusing on societal applications, offers students an opportunity to discover how to incorporate public objectives and characteristics of large systems in the development of models and policies. Examines applications in the operation of public programs (e.g., public health systems, government programs) and public safety (e.g., security, emergency preparedness, and disaster response). Modeling techniques include game theory, data envelopment analysis, cost-benefit analysis, simulation, differential equations, and stochastic optimization. Requires equivalent course work if prerequisites are not met.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "IE", "number": "4515" },
+      "Or",
+      { "subject": "OR", "number": "6205" },
+      ")",
+      "And",
+      "(",
+      { "subject": "IE", "number": "3412" },
+      "Or",
+      { "subject": "IE", "number": "5374" },
+      "Or",
+      { "subject": "MATH", "number": "3081" },
+      "Or",
+      { "subject": "IE", "number": "5374" },
+      "Or",
+      { "subject": "IE", "number": "6200" },
+      "Or",
+      { "subject": "IE", "number": "6400" },
+      ")"
+    ]
+  },
+  {
+    "subject": "IE",
     "number": "5617",
     "title": "Lean Concepts and Applications",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31749" },
+      { "term": "202430", "crn": "36690" },
       { "term": "202410", "crn": "11313" },
       { "term": "202410", "crn": "19839" },
       { "term": "202360", "crn": "60312" },
@@ -471,6 +536,10 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33245" },
+      { "term": "202430", "crn": "33246" },
+      { "term": "202430", "crn": "33247" },
+      { "term": "202430", "crn": "37605" },
       { "term": "202410", "crn": "13568" },
       { "term": "202410", "crn": "13569" },
       { "term": "202410", "crn": "13576" },
@@ -552,6 +621,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31172" },
+      { "term": "202430", "crn": "31563" },
+      { "term": "202430", "crn": "31645" },
+      { "term": "202430", "crn": "34146" },
       { "term": "202410", "crn": "11222" },
       { "term": "202410", "crn": "11407" },
       { "term": "202410", "crn": "11607" },
@@ -600,6 +673,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39134" },
       { "term": "202410", "crn": "19843" },
       { "term": "202410", "crn": "19844" },
       { "term": "202410", "crn": "19845" },
@@ -620,6 +694,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33783" },
+      { "term": "202430", "crn": "34995" },
       { "term": "202330", "crn": "34391" },
       { "term": "202330", "crn": "36104" }
     ],
@@ -635,6 +711,11 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32965" },
+      { "term": "202430", "crn": "33248" },
+      { "term": "202430", "crn": "33486" },
+      { "term": "202430", "crn": "36691" },
+      { "term": "202430", "crn": "36692" },
       { "term": "202410", "crn": "17499" },
       { "term": "202410", "crn": "14740" },
       { "term": "202410", "crn": "13577" },
@@ -674,6 +755,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34340" },
+      { "term": "202430", "crn": "34996" },
+      { "term": "202430", "crn": "39135" },
       { "term": "202410", "crn": "14619" },
       { "term": "202410", "crn": "15220" },
       { "term": "202410", "crn": "15818" },
@@ -701,6 +785,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32002" },
+      { "term": "202430", "crn": "32607" },
+      { "term": "202430", "crn": "31553" },
+      { "term": "202430", "crn": "31552" },
       { "term": "202410", "crn": "12794" },
       { "term": "202410", "crn": "15355" },
       { "term": "202360", "crn": "61389" },
@@ -738,6 +826,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34997" },
       { "term": "202360", "crn": "60375" },
       { "term": "202330", "crn": "36106" },
       { "term": "202310", "crn": "12994" },
@@ -752,6 +841,8 @@
       "Or",
       { "subject": "IE", "number": "6200" },
       "Or",
+      { "subject": "IE", "number": "6400" },
+      "Or",
       { "subject": "MATH", "number": "7241" }
     ]
   },
@@ -762,16 +853,13 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34393" }],
+    "sections": [
+      { "term": "202430", "crn": "33785" },
+      { "term": "202330", "crn": "34393" }
+    ],
     "description": "Covers advanced and emerging topics in manufacturing. Discusses fundamentals of digital and cyber-physical manufacturing including machine communication protocols, control architectures, agent-based and holonic systems, cloud-based and service-oriented manufacturing, and applications of artificial intelligence in manufacturing.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "IE", "number": "5374" },
-      "Or",
-      { "subject": "IE", "number": "5374" },
-      "Or",
-      { "subject": "IE", "number": "6200" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "IE",
@@ -781,6 +869,16 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32524" },
+      { "term": "202430", "crn": "35531" },
+      { "term": "202430", "crn": "33487" },
+      { "term": "202430", "crn": "36973" },
+      { "term": "202430", "crn": "37509" },
+      { "term": "202430", "crn": "37758" },
+      { "term": "202430", "crn": "39846" },
+      { "term": "202430", "crn": "39847" },
+      { "term": "202430", "crn": "40248" },
+      { "term": "202430", "crn": "40714" },
       { "term": "202410", "crn": "12418" },
       { "term": "202410", "crn": "19848" },
       { "term": "202410", "crn": "19849" },
@@ -812,9 +910,9 @@
       "Or",
       { "subject": "IE", "number": "6200" },
       "Or",
-      { "subject": "MATH", "number": "7241" },
+      { "subject": "IE", "number": "6400" },
       "Or",
-      { "subject": "IE", "number": "6400" }
+      { "subject": "MATH", "number": "7241" }
     ]
   },
   {
@@ -825,6 +923,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33249" },
+      { "term": "202430", "crn": "37912" },
       { "term": "202410", "crn": "13131" },
       { "term": "202410", "crn": "17584" },
       { "term": "202410", "crn": "21071" },
@@ -842,9 +942,9 @@
       "Or",
       { "subject": "IE", "number": "6200" },
       "Or",
-      { "subject": "MATH", "number": "7241" },
+      { "subject": "IE", "number": "6400" },
       "Or",
-      { "subject": "IE", "number": "6400" }
+      { "subject": "MATH", "number": "7241" }
     ]
   },
   {
@@ -854,11 +954,16 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39791" }],
+    "sections": [
+      { "term": "202430", "crn": "37711" },
+      { "term": "202330", "crn": "39791" }
+    ],
     "description": "Designed to study the fundamental concepts of quality planning and improvements. Studies analysis and application of modern statistical process control methods including cusum, EWMA, multivariate, and modified control charts. Covers inspection error and design of sampling plans. Topics include software quality assurance, and study of the concepts of Deming, Ishikawa, Feigenbum, and Taguchi's approach in quality planning, organization, and improvement.",
     "coreqs": [],
     "prereqs": [
       { "subject": "IE", "number": "6200" },
+      "Or",
+      { "subject": "IE", "number": "6400" },
       "Or",
       { "subject": "MATH", "number": "7241" }
     ]
@@ -905,6 +1010,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36696" },
+      { "term": "202430", "crn": "36697" },
+      { "term": "202430", "crn": "40715" },
       { "term": "202410", "crn": "18402" },
       { "term": "202410", "crn": "18404" },
       { "term": "202410", "crn": "18405" },
@@ -928,11 +1036,11 @@
       "Or",
       { "subject": "IE", "number": "6200" },
       "Or",
+      { "subject": "IE", "number": "6400" },
+      "Or",
       { "subject": "IE", "number": "6800" },
       "Or",
-      { "subject": "MATH", "number": "7241" },
-      "Or",
-      { "subject": "IE", "number": "6400" }
+      { "subject": "MATH", "number": "7241" }
     ]
   },
   {
@@ -954,23 +1062,43 @@
   },
   {
     "subject": "IE",
+    "number": "7350",
+    "title": "Sociotechnical Systems: Computational Models for Design and Policy",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39137" }],
+    "description": "Presents state-of-the-art computational methods and case studies for modeling and designing sociotechnical systems. Focuses on the dynamic interactions between the social and technical aspects and incorporating computational models of human behavior into design, governance, and policy decisions. Begins with general model thinking methods and discusses the modeling of individual decision making and bounded rationality. Delves into the dynamics of group interaction and strategic multiagent decisions and the emergence of group behavior, particularly in network structures. Includes modeling dynamics of human-AI systems in multiagent setups and empirical analysis of governance mechanisms in sociotechnical systems.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "IE", "number": "6200" },
+      "Or",
+      { "subject": "IE", "number": "6400" },
+      "Or",
+      { "subject": "MATH", "number": "7241" },
+      "Or",
+      { "subject": "NETS", "number": "7334" }
+    ]
+  },
+  {
+    "subject": "IE",
     "number": "7374",
     "title": "ST: Business Intelligence - DI",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36977" },
+      { "term": "202430", "crn": "32913" },
+      { "term": "202430", "crn": "40712" },
+      { "term": "202430", "crn": "40740" },
       { "term": "202410", "crn": "20534" },
       { "term": "202410", "crn": "20808" },
       { "term": "202330", "crn": "38988" }
     ],
     "description": "Offers topics of interest to the staff member conducting this class for advanced study. May be repeated without limit.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "IE", "number": "7300" },
-      "Or",
-      { "subject": "CS", "number": "6140" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "IE",
@@ -991,7 +1119,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32640" }],
+    "sections": [
+      { "term": "202430", "crn": "32371" },
+      { "term": "202330", "crn": "32640" }
+    ],
     "description": "Continues IE 7440, further developing a thesis-scale project in technology commercialization. Offers students an opportunity to demonstrate their development of a marketable technology product or prototype with an industrial engineering focus and produce a written documentary report on the project to the satisfaction of an advising committee. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student's technological and engineering depth and fostering the student's leadership development.",
     "coreqs": [],
     "prereqs": [{ "subject": "IE", "number": "7440" }]
@@ -1004,6 +1135,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36699" },
       { "term": "202410", "crn": "18407" },
       { "term": "202410", "crn": "18460" },
       { "term": "202410", "crn": "22145" },
@@ -1032,6 +1164,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32938" },
       { "term": "202410", "crn": "13224" },
       { "term": "202410", "crn": "17502" },
       { "term": "202410", "crn": "21070" },
@@ -1053,6 +1186,24 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31035" },
+      { "term": "202430", "crn": "32682" },
+      { "term": "202430", "crn": "31180" },
+      { "term": "202430", "crn": "35808" },
+      { "term": "202430", "crn": "31181" },
+      { "term": "202430", "crn": "31182" },
+      { "term": "202430", "crn": "31183" },
+      { "term": "202430", "crn": "31184" },
+      { "term": "202430", "crn": "31827" },
+      { "term": "202430", "crn": "32090" },
+      { "term": "202430", "crn": "35960" },
+      { "term": "202430", "crn": "38648" },
+      { "term": "202430", "crn": "32707" },
+      { "term": "202430", "crn": "33140" },
+      { "term": "202430", "crn": "33490" },
+      { "term": "202430", "crn": "34653" },
+      { "term": "202430", "crn": "35626" },
+      { "term": "202430", "crn": "38118" },
       { "term": "202410", "crn": "16073" },
       { "term": "202410", "crn": "19033" },
       { "term": "202410", "crn": "15714" },
@@ -1076,6 +1227,24 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30811" },
+      { "term": "202430", "crn": "31175" },
+      { "term": "202430", "crn": "31176" },
+      { "term": "202430", "crn": "31177" },
+      { "term": "202430", "crn": "30812" },
+      { "term": "202430", "crn": "31178" },
+      { "term": "202430", "crn": "32367" },
+      { "term": "202430", "crn": "31179" },
+      { "term": "202430", "crn": "31826" },
+      { "term": "202430", "crn": "32698" },
+      { "term": "202430", "crn": "33583" },
+      { "term": "202430", "crn": "33610" },
+      { "term": "202430", "crn": "38295" },
+      { "term": "202430", "crn": "38431" },
+      { "term": "202430", "crn": "38432" },
+      { "term": "202430", "crn": "38546" },
+      { "term": "202430", "crn": "38598" },
+      { "term": "202430", "crn": "38623" },
       { "term": "202410", "crn": "19329" },
       { "term": "202410", "crn": "21309" },
       { "term": "202410", "crn": "21338" },
@@ -1110,6 +1279,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36099" },
       { "term": "202350", "crn": "52352" },
       { "term": "202350", "crn": "53373" },
       { "term": "202330", "crn": "38049" },
@@ -1127,6 +1297,26 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32650" },
+      { "term": "202430", "crn": "32702" },
+      { "term": "202430", "crn": "30813" },
+      { "term": "202430", "crn": "30814" },
+      { "term": "202430", "crn": "30815" },
+      { "term": "202430", "crn": "30816" },
+      { "term": "202430", "crn": "30817" },
+      { "term": "202430", "crn": "34222" },
+      { "term": "202430", "crn": "30818" },
+      { "term": "202430", "crn": "30922" },
+      { "term": "202430", "crn": "31185" },
+      { "term": "202430", "crn": "32974" },
+      { "term": "202430", "crn": "33108" },
+      { "term": "202430", "crn": "37760" },
+      { "term": "202430", "crn": "33133" },
+      { "term": "202430", "crn": "33562" },
+      { "term": "202430", "crn": "33439" },
+      { "term": "202430", "crn": "33493" },
+      { "term": "202430", "crn": "34661" },
+      { "term": "202430", "crn": "39342" },
       { "term": "202410", "crn": "17917" },
       { "term": "202410", "crn": "18475" },
       { "term": "202410", "crn": "18673" },
@@ -1161,6 +1351,17 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30819" },
+      { "term": "202430", "crn": "34531" },
+      { "term": "202430", "crn": "30820" },
+      { "term": "202430", "crn": "30821" },
+      { "term": "202430", "crn": "33596" },
+      { "term": "202430", "crn": "30822" },
+      { "term": "202430", "crn": "30824" },
+      { "term": "202430", "crn": "30823" },
+      { "term": "202430", "crn": "38404" },
+      { "term": "202430", "crn": "30825" },
+      { "term": "202430", "crn": "31186" },
       { "term": "202410", "crn": "22552" },
       { "term": "202360", "crn": "60831" },
       { "term": "202360", "crn": "60857" },
@@ -1180,6 +1381,23 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31366" },
+      { "term": "202430", "crn": "31607" },
+      { "term": "202430", "crn": "31608" },
+      { "term": "202430", "crn": "31615" },
+      { "term": "202430", "crn": "31834" },
+      { "term": "202430", "crn": "32086" },
+      { "term": "202430", "crn": "32087" },
+      { "term": "202430", "crn": "32092" },
+      { "term": "202430", "crn": "32097" },
+      { "term": "202430", "crn": "32708" },
+      { "term": "202430", "crn": "32712" },
+      { "term": "202430", "crn": "33130" },
+      { "term": "202430", "crn": "33587" },
+      { "term": "202430", "crn": "33593" },
+      { "term": "202430", "crn": "33597" },
+      { "term": "202430", "crn": "33600" },
+      { "term": "202430", "crn": "34420" },
       { "term": "202410", "crn": "18254" },
       { "term": "202350", "crn": "53367" },
       { "term": "202350", "crn": "52481" },
@@ -1199,6 +1417,11 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32386" },
+      { "term": "202430", "crn": "34627" },
+      { "term": "202430", "crn": "36026" },
+      { "term": "202430", "crn": "38389" },
+      { "term": "202430", "crn": "38727" },
       { "term": "202410", "crn": "15987" },
       { "term": "202350", "crn": "53113" },
       { "term": "202330", "crn": "40846" }
@@ -1215,6 +1438,21 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31616" },
+      { "term": "202430", "crn": "31618" },
+      { "term": "202430", "crn": "34315" },
+      { "term": "202430", "crn": "34489" },
+      { "term": "202430", "crn": "33599" },
+      { "term": "202430", "crn": "34573" },
+      { "term": "202430", "crn": "34586" },
+      { "term": "202430", "crn": "34595" },
+      { "term": "202430", "crn": "34620" },
+      { "term": "202430", "crn": "35963" },
+      { "term": "202430", "crn": "38280" },
+      { "term": "202430", "crn": "38599" },
+      { "term": "202430", "crn": "39848" },
+      { "term": "202430", "crn": "40477" },
+      { "term": "202430", "crn": "40478" },
       { "term": "202410", "crn": "14851" },
       { "term": "202410", "crn": "19330" },
       { "term": "202410", "crn": "13895" },
@@ -1258,6 +1496,22 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31187" },
+      { "term": "202430", "crn": "31375" },
+      { "term": "202430", "crn": "31838" },
+      { "term": "202430", "crn": "32671" },
+      { "term": "202430", "crn": "32701" },
+      { "term": "202430", "crn": "33112" },
+      { "term": "202430", "crn": "33124" },
+      { "term": "202430", "crn": "33565" },
+      { "term": "202430", "crn": "33119" },
+      { "term": "202430", "crn": "33579" },
+      { "term": "202430", "crn": "34532" },
+      { "term": "202430", "crn": "30658" },
+      { "term": "202430", "crn": "30588" },
+      { "term": "202430", "crn": "30773" },
+      { "term": "202430", "crn": "30901" },
+      { "term": "202430", "crn": "32096" },
       { "term": "202410", "crn": "17627" },
       { "term": "202410", "crn": "22126" },
       { "term": "202330", "crn": "35361" },
@@ -1279,6 +1533,17 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34563" },
+      { "term": "202430", "crn": "35396" },
+      { "term": "202430", "crn": "35397" },
+      { "term": "202430", "crn": "35407" },
+      { "term": "202430", "crn": "37429" },
+      { "term": "202430", "crn": "37430" },
+      { "term": "202430", "crn": "37431" },
+      { "term": "202430", "crn": "37432" },
+      { "term": "202430", "crn": "38471" },
+      { "term": "202430", "crn": "40479" },
+      { "term": "202430", "crn": "40480" },
       { "term": "202410", "crn": "21169" },
       { "term": "202330", "crn": "36847" },
       { "term": "202330", "crn": "39464" },
@@ -1302,6 +1567,27 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31188" },
+      { "term": "202430", "crn": "32672" },
+      { "term": "202430", "crn": "33484" },
+      { "term": "202430", "crn": "34284" },
+      { "term": "202430", "crn": "33132" },
+      { "term": "202430", "crn": "33541" },
+      { "term": "202430", "crn": "33550" },
+      { "term": "202430", "crn": "34492" },
+      { "term": "202430", "crn": "33456" },
+      { "term": "202430", "crn": "33595" },
+      { "term": "202430", "crn": "34396" },
+      { "term": "202430", "crn": "34462" },
+      { "term": "202430", "crn": "30607" },
+      { "term": "202430", "crn": "30606" },
+      { "term": "202430", "crn": "30657" },
+      { "term": "202430", "crn": "30656" },
+      { "term": "202430", "crn": "30743" },
+      { "term": "202430", "crn": "30602" },
+      { "term": "202430", "crn": "30772" },
+      { "term": "202430", "crn": "37433" },
+      { "term": "202430", "crn": "40481" },
       { "term": "202410", "crn": "19277" },
       { "term": "202410", "crn": "10608" },
       { "term": "202410", "crn": "14500" },

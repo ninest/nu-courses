@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34250" },
       { "term": "202410", "crn": "10418" },
       { "term": "202330", "crn": "34995" },
       { "term": "202310", "crn": "10445" }
@@ -23,6 +24,7 @@
     "credits": 4,
     "nuPath": ["EI", "IC"],
     "sections": [
+      { "term": "202430", "crn": "37221" },
       { "term": "202410", "crn": "18120" },
       { "term": "202410", "crn": "20215" },
       { "term": "202410", "crn": "20482" },
@@ -46,6 +48,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36986" },
       { "term": "202340", "crn": "41740" },
       { "term": "202330", "crn": "38998" },
       { "term": "202310", "crn": "20346" }
@@ -61,7 +64,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC"],
-    "sections": [{ "term": "202330", "crn": "30309" }],
+    "sections": [
+      { "term": "202430", "crn": "30298" },
+      { "term": "202330", "crn": "30309" }
+    ],
     "description": "Examines the development of rock-and-roll and its relationship to blues, rhythm and blues, country, folk, and other styles of music. Considers themes such as the role of rock as youth music, the reflections of social realities in rock songs, the relationship of rock to the recording industry and the mass media, and the changing styles of rock. Emphasizes listening skills.",
     "coreqs": [],
     "prereqs": []
@@ -119,6 +125,8 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "35719" },
+      { "term": "202430", "crn": "33532" },
       { "term": "202410", "crn": "14208" },
       { "term": "202410", "crn": "17254" },
       { "term": "202410", "crn": "20477" },
@@ -156,6 +164,8 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "34206" },
+      { "term": "202430", "crn": "36991" },
       { "term": "202410", "crn": "10393" },
       { "term": "202410", "crn": "11336" },
       { "term": "202360", "crn": "60315" },
@@ -189,12 +199,25 @@
   },
   {
     "subject": "MUSC",
+    "number": "1141",
+    "title": "Wired for Sound",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["IC"],
+    "sections": [{ "term": "202430", "crn": "39343" }],
+    "description": "Explores the use of electronics in music of various styles and genres from a historical perspective, beginning in the early twentieth century and moving to the present. Examines the methods and means of electronic sound production. Throughout history, technological innovations have influenced music. Starting in the early twentieth century, electricity and, later, electronics, became a key motivating force in music, both in composing and performing and even in listening. Covers the social and cultural conditions under which electric sound was able to evolve.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MUSC",
     "number": "1142",
     "title": "Pop, Jazz, and Rock Singing",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "36993" },
       { "term": "202410", "crn": "17256" },
       { "term": "202330", "crn": "39005" },
       { "term": "202310", "crn": "19634" }
@@ -211,6 +234,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32119" },
+      { "term": "202430", "crn": "34383" },
       { "term": "202410", "crn": "10387" },
       { "term": "202410", "crn": "17258" },
       { "term": "202330", "crn": "32362" },
@@ -232,6 +257,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34113" },
       { "term": "202410", "crn": "17259" },
       { "term": "202330", "crn": "34791" },
       { "term": "202310", "crn": "19637" }
@@ -248,6 +274,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32611" },
       { "term": "202410", "crn": "18465" },
       { "term": "202330", "crn": "32939" },
       { "term": "202310", "crn": "20900" }
@@ -264,6 +291,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30274" },
       { "term": "202410", "crn": "20508" },
       { "term": "202360", "crn": "61496" },
       { "term": "202340", "crn": "41986" },
@@ -284,6 +312,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30273" },
       { "term": "202410", "crn": "20509" },
       { "term": "202360", "crn": "61497" },
       { "term": "202340", "crn": "41983" },
@@ -316,6 +345,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30272" },
       { "term": "202410", "crn": "12703" },
       { "term": "202330", "crn": "30279" },
       { "term": "202310", "crn": "13045" }
@@ -332,6 +362,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35224" },
       { "term": "202410", "crn": "14918" },
       { "term": "202330", "crn": "36546" },
       { "term": "202310", "crn": "15996" }
@@ -348,6 +379,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30271" },
       { "term": "202410", "crn": "12704" },
       { "term": "202330", "crn": "30278" },
       { "term": "202310", "crn": "13046" }
@@ -364,6 +396,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30004" },
       { "term": "202410", "crn": "12705" },
       { "term": "202330", "crn": "30004" },
       { "term": "202310", "crn": "13047" }
@@ -380,6 +413,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30270" },
       { "term": "202410", "crn": "10245" },
       { "term": "202330", "crn": "30277" },
       { "term": "202310", "crn": "10262" }
@@ -396,6 +430,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30269" },
       { "term": "202410", "crn": "12706" },
       { "term": "202330", "crn": "30276" },
       { "term": "202310", "crn": "13048" }
@@ -412,6 +447,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30041" },
       { "term": "202410", "crn": "12769" },
       { "term": "202330", "crn": "30044" },
       { "term": "202310", "crn": "13133" }
@@ -428,6 +464,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30268" },
       { "term": "202410", "crn": "12707" },
       { "term": "202330", "crn": "30275" },
       { "term": "202310", "crn": "13049" }
@@ -444,6 +481,11 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35225" },
+      { "term": "202430", "crn": "35226" },
+      { "term": "202430", "crn": "35227" },
+      { "term": "202430", "crn": "37530" },
+      { "term": "202430", "crn": "39829" },
       { "term": "202410", "crn": "13397" },
       { "term": "202410", "crn": "14209" },
       { "term": "202410", "crn": "17260" },
@@ -469,6 +511,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30511" },
       { "term": "202410", "crn": "12709" },
       { "term": "202330", "crn": "30528" },
       { "term": "202310", "crn": "13051" }
@@ -485,6 +528,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32909" },
       { "term": "202410", "crn": "13153" },
       { "term": "202330", "crn": "33288" },
       { "term": "202310", "crn": "13566" },
@@ -502,6 +546,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30967" },
       { "term": "202410", "crn": "12710" },
       { "term": "202330", "crn": "31038" },
       { "term": "202310", "crn": "13052" }
@@ -518,6 +563,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35228" },
       { "term": "202410", "crn": "12712" },
       { "term": "202330", "crn": "36550" },
       { "term": "202310", "crn": "13054" }
@@ -551,7 +597,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI", "IC", "WI"],
-    "sections": [{ "term": "202310", "crn": "19640" }],
+    "sections": [
+      { "term": "202430", "crn": "39344" },
+      { "term": "202310", "crn": "19640" }
+    ],
     "description": "Explores the history of the genre of song through a set of examples that have had enormous impact and influence, songs that have “made history.” Using songs selected by the faculty based on their expertise, this course aims to identify the social, cultural, musical, and poetic threads that have woven their way through song repertories, influencing song composition from its origins to the present day. Establishes commonalities and trends in order to understand how “song” has taken on an important cultural status that is unique to a specific time and place and is widespread, linking various songs together.",
     "coreqs": [],
     "prereqs": [
@@ -587,6 +636,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "39345" },
       { "term": "202310", "crn": "19641" },
       { "term": "202310", "crn": "20715" }
     ],
@@ -613,7 +663,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19643" }],
+    "sections": [
+      { "term": "202430", "crn": "39347" },
+      { "term": "202310", "crn": "19643" }
+    ],
     "description": "Provides instruction in the basic gestures used in conducting vocal and instrumental ensembles. Topics include beat patterns, conveying phrasing and articulation, cueing, controlling tempo and dynamics, score study, and rehearsal techniques. Provides an opportunity for students to constitute a laboratory ensemble for regular practicum.",
     "coreqs": [],
     "prereqs": []
@@ -626,6 +679,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "35279" },
       { "term": "202410", "crn": "20128" },
       { "term": "202340", "crn": "40500" },
       { "term": "202330", "crn": "36655" },
@@ -735,6 +789,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "40198" },
       { "term": "202410", "crn": "20475" },
       { "term": "202410", "crn": "21282" },
       { "term": "202330", "crn": "39249" }
@@ -786,12 +841,52 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "32427" },
       { "term": "202410", "crn": "17267" },
       { "term": "202330", "crn": "32703" },
       { "term": "202330", "crn": "39318" },
       { "term": "202310", "crn": "19646" }
     ],
     "description": "Introduces students from a variety of disciplines to the fundamentals of sonic production, transmission, and reception. Topics include impedance, refraction and diffraction, wave mechanics, frequency spectrum, and resonance. Applies core concepts to the understanding of the acoustics of musical instruments and loudspeakers. Explores basic auditory psychophysics. Offers students an opportunity to investigate real-life applications in the domains of music, sonic art, sound design, instrumental design, and recording.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MUSC",
+    "number": "2351",
+    "title": "Music, Sound, and the Screen",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["EI", "IC"],
+    "sections": [{ "term": "202430", "crn": "39348" }],
+    "description": "Examines the function of music and sound design in contemporary visual media: how they are used in relation to images, and how they work with images to generate meaning and shape experience. Topics include film, television, video games, and the internet; and intermedial forms such as title sequences, trailers, music videos, and commercials.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MUSC",
+    "number": "2420",
+    "title": "Music Composition Seminar 1",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["EI", "IC"],
+    "sections": [{ "term": "202430", "crn": "39349" }],
+    "description": "Exposes students to the basic methods of music composition. Analyzes examples from music literature to gain an understanding of the methods employed; students complete several compositions of their own.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MUSC",
+    "number": "2540",
+    "title": "Music For Your Health",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "40419" },
+      { "term": "202430", "crn": "40420" }
+    ],
+    "description": "This course provides musicians and non-musicians alike an overview of the multimodal dimensions and applications of rhythm for performative, communicative, therapeutic, spiritual and social purposes.",
     "coreqs": [],
     "prereqs": []
   },
@@ -818,6 +913,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "37000" },
       { "term": "202330", "crn": "39012" },
       { "term": "202310", "crn": "19663" }
     ],
@@ -831,12 +927,25 @@
   },
   {
     "subject": "MUSC",
+    "number": "3354",
+    "title": "Sound and the Sacred",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "IC", "WI"],
+    "sections": [{ "term": "202430", "crn": "39350" }],
+    "description": "Considers the ways in which religious beliefs, ethics, meaning, and practices are embodied within music and what music contributes to faith identities in a variety of religio-cultural contexts, both present-day and historical. Music plays important roles in religious contexts: Among other things, it connects worshippers to spiritual realms; centers practitioners within continuous traditions; distinguishes between sacred and secular spaces (and places); enables communal cohesion; facilitates transcendent experiences; imbues everyday activities with religious intent; orients believers to ritual practices; and contributes to religious identities, both at the individual and at the collective (or congregational) levels. Approaches the study of music and religion as one that benefits from intense attentional investment, using detailed scholarly works to provide intricately nuanced perspectives.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MUSC",
     "number": "3410",
     "title": "Recital 1",
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35661" },
       { "term": "202410", "crn": "17269" },
       { "term": "202330", "crn": "37296" },
       { "term": "202310", "crn": "19664" },
@@ -860,12 +969,31 @@
   },
   {
     "subject": "MUSC",
+    "number": "4510",
+    "title": "Music and the Brain Research",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["AD", "CE", "ND"],
+    "sections": [{ "term": "202430", "crn": "39352" }],
+    "description": "Offers an overview of the perceptual, cognitive, and neural bases of performing, composing, and listening to music. Topics include acoustics and biological processing of sound; theories and empirical research on pitch, rhythm, harmony, melody, timbre, orchestration; similarities and differences between music and language; evolution and development of musical ability; and special populations in musical functions. Meetings include laboratory demonstrations and exercises in experiment design and data analysis. Requires a final project (paper and in-class presentation).",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "MUSC", "number": "2350" },
+      "Or",
+      { "subject": "MUSC", "number": "3300" },
+      "Or",
+      { "subject": "PSYC", "number": "2320" }
+    ]
+  },
+  {
+    "subject": "MUSC",
     "number": "4622",
     "title": "Recital 2",
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35662" },
       { "term": "202410", "crn": "17271" },
       { "term": "202330", "crn": "37297" },
       { "term": "202310", "crn": "19666" }
@@ -895,9 +1023,21 @@
     "title": "Music Perception and Cognition Research",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["ND", "AD"],
+    "nuPath": ["AD", "ND"],
     "sections": [{ "term": "202410", "crn": "21613" }],
     "description": "Offers an overview of the perceptual, cognitive, and brain bases of performing, composing, and listening to music for enjoyment and for human benefit. Studies how and why music stimulates our senses and how it can promote health and well-being. Topics include theories and empirical research on pitch, rhythm, harmony, melody, timbre; music and language; development of musical ability; and special populations in musical functions. Meetings include demonstrations and exercises in experiment design and data analysis. Requires an in-depth research project (paper and in-class presentation), in consultation with the instructor. By the end of this course, students should be able to design and conduct their own research study in music perception and cognition.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MUSC",
+    "number": "6510",
+    "title": "Music and the Brain Advanced Research",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39364" }],
+    "description": "Reviews contemporary studies in cognitive neuroscience of music, specifically in speech, language, and music. Offers students an opportunity to obtain in-depth training on the methods of cognitive neuroscience of music. Students design and implement a group project, analyze the data, and write up the results in an end-of-term paper.",
     "coreqs": [],
     "prereqs": []
   }

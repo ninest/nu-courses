@@ -19,6 +19,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39443" },
+      { "term": "202430", "crn": "39816" },
       { "term": "202410", "crn": "10964" },
       { "term": "202410", "crn": "11048" },
       { "term": "202410", "crn": "21183" },
@@ -40,6 +42,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30884" },
+      { "term": "202430", "crn": "32716" },
       { "term": "202410", "crn": "11886" },
       { "term": "202330", "crn": "30942" },
       { "term": "202330", "crn": "33056" },
@@ -57,6 +61,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30886" },
+      { "term": "202430", "crn": "30987" },
+      { "term": "202430", "crn": "36607" },
       { "term": "202360", "crn": "61508" },
       { "term": "202330", "crn": "30944" },
       { "term": "202330", "crn": "31060" },
@@ -116,7 +123,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38875" }],
+    "sections": [
+      { "term": "202430", "crn": "36871" },
+      { "term": "202330", "crn": "38875" }
+    ],
     "description": "Explores the deployment and evaluation of innovative health technologies. In this project-based course, students work in teams to deploy and evaluate a health technology. Offers students an opportunity to develop a research plan to measure the effectiveness, usability, and/or feasibility of the technology; recruit study participants; deploy the technology; and analyze the data collected. Also offers students an opportunity to learn about each of these steps and work toward producing a publishable-quality research paper on the technology and results of the efficacy study, as well as to prepare a grant application that extends the technology and research methodology. Additional topics include technology transfer and implications on health policy.",
     "coreqs": [],
     "prereqs": []
@@ -129,6 +139,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33263" },
       { "term": "202350", "crn": "51210" },
       { "term": "202350", "crn": "52406" },
       { "term": "202330", "crn": "33711" }
@@ -145,6 +156,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31349" },
       { "term": "202410", "crn": "10563" },
       { "term": "202330", "crn": "31474" },
       { "term": "202310", "crn": "10610" }
@@ -161,6 +173,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32546" },
       { "term": "202410", "crn": "13143" },
       { "term": "202330", "crn": "32861" },
       { "term": "202310", "crn": "13553" }
@@ -192,6 +205,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30885" },
       { "term": "202410", "crn": "17124" },
       { "term": "202330", "crn": "30943" },
       { "term": "202310", "crn": "19487" }
@@ -208,6 +222,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32734" },
       { "term": "202410", "crn": "11046" },
       { "term": "202330", "crn": "33075" },
       { "term": "202310", "crn": "11174" }
@@ -235,7 +250,10 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31245" }],
+    "sections": [
+      { "term": "202430", "crn": "31143" },
+      { "term": "202330", "crn": "31245" }
+    ],
     "description": "Uses case studies to identify typical issues confronting chief information officers in healthcare organizations, including human resource management, strategic planning, project management, vendor contract negotiations, budgeting, service levels, etc. Requires prior completion of HINF 5101.",
     "coreqs": [],
     "prereqs": []
@@ -276,6 +294,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30883" },
+      { "term": "202430", "crn": "37548" },
       { "term": "202330", "crn": "30941" },
       { "term": "202330", "crn": "39588" }
     ],
@@ -311,6 +331,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32547" },
+      { "term": "202430", "crn": "37078" },
+      { "term": "202430", "crn": "37549" },
       { "term": "202330", "crn": "32862" },
       { "term": "202330", "crn": "39094" },
       { "term": "202330", "crn": "39589" }
@@ -343,6 +366,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37550" },
+      { "term": "202430", "crn": "33514" },
       { "term": "202410", "crn": "10869" },
       { "term": "202410", "crn": "19443" },
       { "term": "202350", "crn": "50019" },
@@ -363,6 +388,11 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38173" },
+      { "term": "202430", "crn": "33141" },
+      { "term": "202430", "crn": "33538" },
+      { "term": "202430", "crn": "33539" },
+      { "term": "202430", "crn": "33543" },
       { "term": "202410", "crn": "20951" },
       { "term": "202410", "crn": "21111" },
       { "term": "202410", "crn": "21381" },
@@ -412,6 +442,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33544" },
       { "term": "202410", "crn": "19200" },
       { "term": "202330", "crn": "34080" }
     ],
@@ -439,6 +470,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32366" },
+      { "term": "202430", "crn": "33552" },
+      { "term": "202430", "crn": "33553" },
       { "term": "202410", "crn": "14609" },
       { "term": "202410", "crn": "12546" },
       { "term": "202410", "crn": "14633" },

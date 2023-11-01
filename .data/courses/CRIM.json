@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34836" },
       { "term": "202410", "crn": "10464" },
       { "term": "202330", "crn": "35870" },
       { "term": "202310", "crn": "10498" }
@@ -23,6 +24,10 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "31057" },
+      { "term": "202430", "crn": "33183" },
+      { "term": "202430", "crn": "35566" },
+      { "term": "202430", "crn": "37370" },
       { "term": "202410", "crn": "10987" },
       { "term": "202410", "crn": "21523" },
       { "term": "202410", "crn": "15364" },
@@ -50,6 +55,9 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "34772" },
+      { "term": "202430", "crn": "34773" },
+      { "term": "202430", "crn": "38807" },
       { "term": "202410", "crn": "14934" },
       { "term": "202410", "crn": "14935" },
       { "term": "202410", "crn": "19495" },
@@ -74,6 +82,9 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "38808" },
+      { "term": "202430", "crn": "38809" },
+      { "term": "202430", "crn": "40648" },
       { "term": "202410", "crn": "15396" },
       { "term": "202410", "crn": "19496" },
       { "term": "202410", "crn": "21095" },
@@ -96,6 +107,7 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [
+      { "term": "202430", "crn": "33830" },
       { "term": "202410", "crn": "16657" },
       { "term": "202360", "crn": "61377" },
       { "term": "202330", "crn": "34450" },
@@ -113,6 +125,7 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202430", "crn": "36633" },
       { "term": "202410", "crn": "14062" },
       { "term": "202330", "crn": "38627" },
       { "term": "202310", "crn": "14694" }
@@ -156,7 +169,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20709" }],
+    "sections": [
+      { "term": "202430", "crn": "38810" },
+      { "term": "202410", "crn": "20709" }
+    ],
     "description": "Introduces students to the history, structure, processes, and philosophies of juvenile justice systems in the United States. Responses to juvenile offenders-ranging from prevention and diversion to institutional corrections and aftercare-are explored in the context of youth policy generally. Focuses on contemporary issues and controversies (system fragmentation, changing conceptions of juvenile offenders, lack of a coherent justice system rationale, racial and gender bias in processing and confinement, and proposals to abolish the juvenile court).",
     "coreqs": [],
     "prereqs": []
@@ -184,6 +200,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34776" },
       { "term": "202410", "crn": "15386" },
       { "term": "202330", "crn": "35769" },
       { "term": "202310", "crn": "16866" }
@@ -200,6 +217,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "38811" },
       { "term": "202410", "crn": "16658" },
       { "term": "202310", "crn": "18997" }
     ],
@@ -235,6 +253,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30105" },
       { "term": "202410", "crn": "10158" },
       { "term": "202330", "crn": "30108" },
       { "term": "202310", "crn": "10165" }
@@ -255,6 +274,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36635" },
       { "term": "202410", "crn": "16659" },
       { "term": "202360", "crn": "61378" },
       { "term": "202360", "crn": "61555" },
@@ -288,6 +308,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34777" },
+      { "term": "202430", "crn": "36636" },
+      { "term": "202430", "crn": "38812" },
       { "term": "202410", "crn": "11340" },
       { "term": "202410", "crn": "14534" },
       { "term": "202410", "crn": "21096" },
@@ -311,7 +334,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19499" }],
+    "sections": [
+      { "term": "202430", "crn": "38813" },
+      { "term": "202410", "crn": "19499" }
+    ],
     "description": "Discusses the definition of common crimes and criminal responsibility. Addresses moral, philosophical, constitutional, and public policy considerations in the use of criminal sanctions to regulate conduct. Requires the knowledge of particular criminal law concepts and the ability to identify them in complex fact patterns and discuss their implications and ramifications. Also requires the application of legal principles to fact situations in a logical way. Case briefing is required.",
     "coreqs": [],
     "prereqs": []
@@ -324,6 +350,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "34778" },
       { "term": "202330", "crn": "35771" },
       { "term": "202310", "crn": "18999" },
       { "term": "202260", "crn": "61230" }
@@ -357,7 +384,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20258" }],
+    "sections": [
+      { "term": "202430", "crn": "40757" },
+      { "term": "202410", "crn": "20258" }
+    ],
     "description": "Introduces theories, skills, and policies that surround chemical dependencies and their treatments. Draws from psychology, sociology, social work, and other human service disciplines. Incorporates a bio-psycho-social-spiritual focus on substance-abusing clients, including information regarding basic assessment of substance abuse and dependence; properties of the different substances; modalities of substance abuse treatment; and individual, group, and family interventions. Offers students an opportunity to investigate the effects of chemical dependency on individuals, families, and communities.",
     "coreqs": [],
     "prereqs": []
@@ -370,6 +400,8 @@
     "credits": 4,
     "nuPath": ["AD", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30216" },
+      { "term": "202430", "crn": "38814" },
       { "term": "202410", "crn": "13723" },
       { "term": "202410", "crn": "21097" },
       { "term": "202340", "crn": "41728" },
@@ -388,6 +420,7 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "30495" },
       { "term": "202410", "crn": "10508" },
       { "term": "202330", "crn": "30510" },
       { "term": "202310", "crn": "10546" }
@@ -404,6 +437,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30491" },
       { "term": "202410", "crn": "10507" },
       { "term": "202330", "crn": "30506" },
       { "term": "202310", "crn": "10545" }
@@ -420,6 +454,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "32165" },
       { "term": "202410", "crn": "14063" },
       { "term": "202330", "crn": "32413" },
       { "term": "202310", "crn": "14696" }
@@ -436,6 +471,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38815" },
       { "term": "202340", "crn": "41729" },
       { "term": "202310", "crn": "14697" }
     ],
@@ -463,6 +499,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "38816" },
       { "term": "202410", "crn": "10988" },
       { "term": "202330", "crn": "30493" },
       { "term": "202310", "crn": "11110" }
@@ -479,6 +516,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "38269" },
       { "term": "202410", "crn": "13000" },
       { "term": "202360", "crn": "61379" },
       { "term": "202330", "crn": "40358" },
@@ -498,6 +536,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "34169" },
       { "term": "202340", "crn": "41731" },
       { "term": "202330", "crn": "34863" }
     ],
@@ -512,7 +551,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38709" }],
+    "sections": [
+      { "term": "202430", "crn": "36713" },
+      { "term": "202330", "crn": "38709" }
+    ],
     "description": "Examines societal security concerns by drawing upon current work in the social sciences, humanities, and physical sciences, as well as research and policy initiatives from public, private, nongovernmental, and nonprofit organizations. Offers students an opportunity to review extensive work on the interconnected nature of different types of risk and on the development of integrated strategies to address threats to security and sustainable growth. Considers the continuing evolution of global social justice, values, and institutions that can support comprehensive security and sustainable growth strategies in the 21st century.",
     "coreqs": [],
     "prereqs": []
@@ -596,6 +638,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38818" },
       { "term": "202410", "crn": "15325" },
       { "term": "202410", "crn": "15342" },
       { "term": "202360", "crn": "61380" },
@@ -616,6 +659,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34780" },
       { "term": "202410", "crn": "15365" },
       { "term": "202410", "crn": "15326" },
       { "term": "202330", "crn": "35777" },
@@ -634,6 +678,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34781" },
       { "term": "202410", "crn": "19501" },
       { "term": "202330", "crn": "35778" }
     ],
@@ -655,12 +700,27 @@
   },
   {
     "subject": "CRIM",
+    "number": "6900",
+    "title": "Crime Analysis",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39778" }],
+    "description": "Offers intensive study of a topic related to criminal justice, selected by the instructor. May be repeated up to four times.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CRIM",
     "number": "6964",
     "title": "Co-op Work Experience",
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34305" },
+      { "term": "202430", "crn": "34414" },
+      { "term": "202430", "crn": "38819" },
       { "term": "202410", "crn": "13227" },
       { "term": "202360", "crn": "61783" },
       { "term": "202360", "crn": "60799" },
@@ -723,7 +783,10 @@
     "scheduleType": "Seminar",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "37014" }],
+    "sections": [
+      { "term": "202430", "crn": "35508" },
+      { "term": "202330", "crn": "37014" }
+    ],
     "description": "Continues and builds upon CRIM 7001. Introduces first-year PhD students to the research of the School of Criminology and Criminal Justice's faculty. Offers students an opportunity to practice the key components of, and tools for, scholarly production, including formulating research questions and theses, conducting literature reviews and using databases, using citation software; time management and organizational strategies; and writing and presenting scholarship in the field, such as journal articles, conference presentations, and other scholarly outlets.",
     "coreqs": [],
     "prereqs": []
@@ -765,7 +828,10 @@
     "scheduleType": "Seminar",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "31554" }],
+    "sections": [
+      { "term": "202430", "crn": "31422" },
+      { "term": "202330", "crn": "31554" }
+    ],
     "description": "Offers students an opportunity to develop and improve their academic writing skills while preparing a sole-authored article for potential publication. Requires each student to present a paper in-progress and, through an iterative process of review and revision, have it ready to submit to a journal by the end of the semester. Students comment, orally and in writing, on the papers presented by the other students over the course of the semester. There are regular assignments from leading texts on mechanics and style in writing and reflections on the peer-review and publication processes from multiple perspectives. May be repeated once.",
     "coreqs": [],
     "prereqs": []
@@ -792,7 +858,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30593" }],
+    "sections": [
+      { "term": "202430", "crn": "30572" },
+      { "term": "202330", "crn": "30593" }
+    ],
     "description": "Covers theoretical criminology and its implications for public policy. Approaches the understanding of crime from an interdisciplinary perspective, with emphasis on recent theoretical developments. Analyzes the connections between systemic racism, inequalities, and crime and the role of bias in the development of the field and criminological theories. Emphasizes evaluating theory in light of empirical research, understanding the implications of theory and research for programs and policies of crime prevention and control, and evaluating current approaches to crime prevention and control.",
     "coreqs": [],
     "prereqs": [{ "subject": "CRIM", "number": "7710" }]
@@ -805,6 +874,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37650" },
+      { "term": "202430", "crn": "37741" },
+      { "term": "202430", "crn": "37770" },
       { "term": "202410", "crn": "18948" },
       { "term": "202410", "crn": "21253" },
       { "term": "202410", "crn": "21637" },
@@ -848,6 +920,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33440" },
       { "term": "202410", "crn": "16039" },
       { "term": "202350", "crn": "51610" },
       { "term": "202330", "crn": "33934" },
@@ -865,6 +938,14 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33611" },
+      { "term": "202430", "crn": "38820" },
+      { "term": "202430", "crn": "34174" },
+      { "term": "202430", "crn": "34173" },
+      { "term": "202430", "crn": "34184" },
+      { "term": "202430", "crn": "34177" },
+      { "term": "202430", "crn": "34176" },
+      { "term": "202430", "crn": "34179" },
       { "term": "202410", "crn": "11431" },
       { "term": "202410", "crn": "11432" },
       { "term": "202410", "crn": "18239" },
@@ -903,6 +984,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33030" },
+      { "term": "202430", "crn": "38821" },
       { "term": "202410", "crn": "14682" },
       { "term": "202410", "crn": "21592" },
       { "term": "202330", "crn": "33430" },
@@ -922,6 +1005,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34185" },
+      { "term": "202430", "crn": "34186" },
+      { "term": "202430", "crn": "34188" },
       { "term": "202410", "crn": "21589" },
       { "term": "202330", "crn": "34883" },
       { "term": "202330", "crn": "34884" },
@@ -940,6 +1026,13 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32071" },
+      { "term": "202430", "crn": "33033" },
+      { "term": "202430", "crn": "33038" },
+      { "term": "202430", "crn": "32370" },
+      { "term": "202430", "crn": "32423" },
+      { "term": "202430", "crn": "37355" },
+      { "term": "202430", "crn": "38822" },
       { "term": "202410", "crn": "13732" },
       { "term": "202410", "crn": "11433" },
       { "term": "202410", "crn": "14748" },

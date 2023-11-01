@@ -7,6 +7,10 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36126" },
+      { "term": "202430", "crn": "36127" },
+      { "term": "202430", "crn": "36128" },
+      { "term": "202430", "crn": "36129" },
       { "term": "202410", "crn": "16404" },
       { "term": "202410", "crn": "16405" },
       { "term": "202410", "crn": "16406" },
@@ -32,6 +36,7 @@
     "credits": 4,
     "nuPath": ["ER", "WI"],
     "sections": [
+      { "term": "202430", "crn": "32675" },
       { "term": "202410", "crn": "13090" },
       { "term": "202410", "crn": "20790" },
       { "term": "202360", "crn": "60536" },
@@ -51,6 +56,7 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31989" },
       { "term": "202410", "crn": "12395" },
       { "term": "202340", "crn": "40245" },
       { "term": "202330", "crn": "32220" },
@@ -96,6 +102,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35926" },
       { "term": "202410", "crn": "13887" },
       { "term": "202360", "crn": "60520" },
       { "term": "202330", "crn": "37742" },
@@ -114,6 +121,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34674" },
       { "term": "202410", "crn": "13202" },
       { "term": "202410", "crn": "17806" },
       { "term": "202360", "crn": "60591" },
@@ -135,6 +143,7 @@
     "credits": 3,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202430", "crn": "30593" },
       { "term": "202410", "crn": "11535" },
       { "term": "202330", "crn": "30617" },
       { "term": "202310", "crn": "11722" }
@@ -151,6 +160,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36103" },
+      { "term": "202430", "crn": "36715" },
+      { "term": "202430", "crn": "40756" },
       { "term": "202410", "crn": "18147" },
       { "term": "202410", "crn": "19335" },
       { "term": "202340", "crn": "41126" },
@@ -163,12 +175,41 @@
   },
   {
     "subject": "HLTH",
+    "number": "5450",
+    "title": "Healthcare Research",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["FQ", "ND", "WI"],
+    "sections": [{ "term": "202430", "crn": "39677" }],
+    "description": "Provides an overview of the research process and its application in clinical arenas. Emphasizes the role of the health professional as a consumer of research, with concern for the ethical management and treatment of patients and their families. Elements of research design and their implications in clinical settings provide the framework for the analysis of research and the development of a research proposal. Also emphasizes the use of research findings for evidence-based practice. Encourages interdisciplinary projects.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
+  },
+  {
+    "subject": "HLTH",
     "number": "5600",
     "title": "Introduction to Patient Safety",
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36144" },
       { "term": "202410", "crn": "16419" },
       { "term": "202330", "crn": "38105" },
       { "term": "202310", "crn": "18756" }
@@ -244,6 +285,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40614" },
       { "term": "202410", "crn": "21983" },
       { "term": "202340", "crn": "41744" },
       { "term": "202340", "crn": "41759" },

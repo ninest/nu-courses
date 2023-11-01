@@ -7,6 +7,10 @@
     "credits": 4,
     "nuPath": ["ND", "SI"],
     "sections": [
+      { "term": "202430", "crn": "30190" },
+      { "term": "202430", "crn": "30871" },
+      { "term": "202430", "crn": "34830" },
+      { "term": "202430", "crn": "34831" },
       { "term": "202410", "crn": "16567" },
       { "term": "202410", "crn": "16569" },
       { "term": "202410", "crn": "16566" },
@@ -52,6 +56,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30850" },
       { "term": "202410", "crn": "16572" },
       { "term": "202330", "crn": "30903" },
       { "term": "202310", "crn": "18911" }
@@ -71,7 +76,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202430", "crn": "39560" }],
     "description": "Introduces approaches to the analysis of interpersonal and institutional discourse and offers multiple opportunities to carry out small-scale analyses of talk-in-interaction. Major topics include conversational involvement and inference, conversation analysis, intertextuality, linguistic politeness, conversational style, framing, positioning, identity construction, epistemics, and conversations within institutional contexts.",
     "coreqs": [],
     "prereqs": [
@@ -88,6 +93,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC", "WI"],
     "sections": [
+      { "term": "202430", "crn": "39561" },
       { "term": "202340", "crn": "41678" },
       { "term": "202310", "crn": "18912" }
     ],
@@ -132,7 +138,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD", "FQ"],
-    "sections": [{ "term": "202310", "crn": "18913" }],
+    "sections": [
+      { "term": "202430", "crn": "39562" },
+      { "term": "202310", "crn": "18913" }
+    ],
     "description": "Examines phonology, the study of the mental representation, organization, and patterning of sounds in human language. Major topics include phonological typology, phonemes, underlying and surface representations, phonological rules and alternations, natural classes of sounds, syllables and prosody, autosegmental phonology, rule-based vs. constraint-based approaches, morphophonology, diachronic phonology, and current theoretic models of sound systems.",
     "coreqs": [],
     "prereqs": [{ "subject": "LING", "number": "2350" }]
@@ -144,7 +153,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD", "FQ"],
-    "sections": [{ "term": "202310", "crn": "18914" }],
+    "sections": [
+      { "term": "202430", "crn": "39563" },
+      { "term": "202310", "crn": "18914" }
+    ],
     "description": "Introduces morphology, the study of the structure, distributional behavior, and use of words. Covers descriptive methods of analysis, hierarchical word structure, morphological processes and rules, productivity, morphological change, and the interaction of morphology with phonology and syntax. Introduces major contemporary theories, including split morphology and single-component architecture.",
     "coreqs": [],
     "prereqs": [{ "subject": "LING", "number": "2350" }]
@@ -317,7 +329,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["CE", "WI"],
-    "sections": [{ "term": "202330", "crn": "34792" }],
+    "sections": [
+      { "term": "202430", "crn": "34114" },
+      { "term": "202330", "crn": "34792" }
+    ],
     "description": "Explores a topic in current linguistics research. Requires prior completion of either two 3000-level LING courses or one 3000-level LING course and permission of instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": [{ "subject": "LING", "number": "2350" }]
@@ -329,7 +344,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["EX"],
-    "sections": [{ "term": "202330", "crn": "32977" }],
+    "sections": [
+      { "term": "202430", "crn": "32645" },
+      { "term": "202330", "crn": "32977" }
+    ],
     "description": "Offers individualized research experience on a chosen topic under the direction of a faculty member. Also includes group meetings of students and the faculty member to study relevant research methods, to discuss relevant research literature, and to present research progress and results. Research content and requisites depend on the instructor, and prior arrangements should be made with the faculty member well in advance of registration. May be repeated up to eight times.",
     "coreqs": [],
     "prereqs": []

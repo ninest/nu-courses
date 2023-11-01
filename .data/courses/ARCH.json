@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39803" },
       { "term": "202410", "crn": "10805" },
       { "term": "202310", "crn": "10904" }
     ],
@@ -22,6 +23,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "32815" },
       { "term": "202410", "crn": "17128" },
       { "term": "202410", "crn": "17317" },
       { "term": "202330", "crn": "33181" },
@@ -41,6 +43,11 @@
     "credits": 6,
     "nuPath": ["EI", "ND"],
     "sections": [
+      { "term": "202430", "crn": "30381" },
+      { "term": "202430", "crn": "30380" },
+      { "term": "202430", "crn": "30379" },
+      { "term": "202430", "crn": "32814" },
+      { "term": "202430", "crn": "32947" },
       { "term": "202410", "crn": "17129" },
       { "term": "202410", "crn": "17130" },
       { "term": "202410", "crn": "17131" },
@@ -72,6 +79,12 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "31145" },
+      { "term": "202430", "crn": "33450" },
+      { "term": "202430", "crn": "34101" },
+      { "term": "202430", "crn": "35098" },
+      { "term": "202430", "crn": "38077" },
+      { "term": "202430", "crn": "38160" },
       { "term": "202410", "crn": "10310" },
       { "term": "202410", "crn": "10309" },
       { "term": "202410", "crn": "18145" },
@@ -105,6 +118,10 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31547" },
+      { "term": "202430", "crn": "32689" },
+      { "term": "202430", "crn": "35099" },
+      { "term": "202430", "crn": "35100" },
       { "term": "202410", "crn": "11824" },
       { "term": "202410", "crn": "11825" },
       { "term": "202410", "crn": "11826" },
@@ -135,6 +152,7 @@
     "credits": 4,
     "nuPath": ["DD", "EI"],
     "sections": [
+      { "term": "202430", "crn": "32152" },
       { "term": "202410", "crn": "13230" },
       { "term": "202330", "crn": "32395" },
       { "term": "202310", "crn": "13659" }
@@ -151,6 +169,13 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36852" },
+      { "term": "202430", "crn": "36853" },
+      { "term": "202430", "crn": "36854" },
+      { "term": "202430", "crn": "37700" },
+      { "term": "202430", "crn": "37976" },
+      { "term": "202430", "crn": "37227" },
+      { "term": "202430", "crn": "40755" },
       { "term": "202410", "crn": "10211" },
       { "term": "202410", "crn": "10212" },
       { "term": "202410", "crn": "10214" },
@@ -183,6 +208,9 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30378" },
+      { "term": "202430", "crn": "30377" },
+      { "term": "202430", "crn": "30076" },
       { "term": "202410", "crn": "20095" },
       { "term": "202410", "crn": "20096" },
       { "term": "202410", "crn": "20097" },
@@ -209,6 +237,11 @@
     "credits": 4,
     "nuPath": ["EI", "ND"],
     "sections": [
+      { "term": "202430", "crn": "36838" },
+      { "term": "202430", "crn": "39804" },
+      { "term": "202430", "crn": "36840" },
+      { "term": "202430", "crn": "36841" },
+      { "term": "202430", "crn": "37109" },
       { "term": "202410", "crn": "12389" },
       { "term": "202330", "crn": "38842" },
       { "term": "202330", "crn": "38843" },
@@ -252,7 +285,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC", "WI"],
-    "sections": [{ "term": "202330", "crn": "34464" }],
+    "sections": [
+      { "term": "202430", "crn": "33836" },
+      { "term": "202330", "crn": "34464" }
+    ],
     "description": "Covers the development of the built environment in China from prehistory to the nineteenth century. Emphasizes technological transformation, structural and stylistic evolvement, cultural exchange, and ideological engagement.",
     "coreqs": [],
     "prereqs": [
@@ -330,8 +366,10 @@
     "title": "Modern Architecture (HON)",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["WI", "IC", "SI"],
+    "nuPath": ["IC", "SI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "33275" },
+      { "term": "202430", "crn": "31746" },
       { "term": "202330", "crn": "33725" },
       { "term": "202330", "crn": "31930" }
     ],
@@ -357,6 +395,16 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33276" },
+      { "term": "202430", "crn": "33277" },
+      { "term": "202430", "crn": "34147" },
+      { "term": "202430", "crn": "32390" },
+      { "term": "202430", "crn": "33278" },
+      { "term": "202430", "crn": "33279" },
+      { "term": "202430", "crn": "36842" },
+      { "term": "202430", "crn": "36843" },
+      { "term": "202430", "crn": "36844" },
+      { "term": "202430", "crn": "39403" },
       { "term": "202330", "crn": "33727" },
       { "term": "202330", "crn": "34833" },
       { "term": "202330", "crn": "32663" },
@@ -388,7 +436,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "WI"],
-    "sections": [{ "term": "202330", "crn": "38850" }],
+    "sections": [
+      { "term": "202430", "crn": "36846" },
+      { "term": "202330", "crn": "38850" }
+    ],
     "description": "Examines how architecture and urban design respond to the challenges of intervening in already built environments, whether in the form of adaptation, extension, conservation, radical transformation, or sustainable reuse. Discusses cultural, social, as well as energy-efficiency-related topics. Includes a critical introduction to the key concepts of architectural intervention, followed by some exemplary design cases, and a special focus on recent and contemporary practices. Architecture deals with time, duration, change, and resilience. Places, not unlike palimpsests, retain multiple traces of former uses. Architects work with locations that inevitably contain a diversity of references and preexisting conditions. Students work on a “curatorial project,\" that is, a conceptual proposal for an ephemeral intervention in an existing site.",
     "coreqs": [],
     "prereqs": []
@@ -401,6 +452,11 @@
     "credits": 4,
     "nuPath": ["WI", "SI"],
     "sections": [
+      { "term": "202430", "crn": "35101" },
+      { "term": "202430", "crn": "33837" },
+      { "term": "202430", "crn": "33838" },
+      { "term": "202430", "crn": "39795" },
+      { "term": "202430", "crn": "37228" },
       { "term": "202410", "crn": "15224" },
       { "term": "202410", "crn": "15225" },
       { "term": "202410", "crn": "17319" },
@@ -426,6 +482,12 @@
     "credits": 6,
     "nuPath": ["CE"],
     "sections": [
+      { "term": "202430", "crn": "39408" },
+      { "term": "202430", "crn": "39409" },
+      { "term": "202430", "crn": "39404" },
+      { "term": "202430", "crn": "39410" },
+      { "term": "202430", "crn": "39411" },
+      { "term": "202430", "crn": "39412" },
       { "term": "202410", "crn": "11006" },
       { "term": "202410", "crn": "11007" },
       { "term": "202410", "crn": "17138" },
@@ -437,7 +499,7 @@
     ],
     "description": "Offers a studio course addressing the architectural and urbanistic consequences at the intersection of large-scale infrastructure and the contemporary city. Focuses on how to integrate buildings and neighborhoods with highways, rail lines, storm water management, bus, bike, parking, rivers, watersheds, and industrial networks.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ARCH", "number": "3155" }]
+    "prereqs": [{ "subject": "ARCH", "number": "2140" }]
   },
   {
     "subject": "ARCH",
@@ -446,10 +508,17 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD", "ND"],
-    "sections": [{ "term": "202330", "crn": "35380" }],
+    "sections": [
+      { "term": "202430", "crn": "34551" },
+      { "term": "202330", "crn": "35380" }
+    ],
     "description": "Explores the interaction of environmental, physical, and energy systems in architecture. Offers students an opportunity to learn the fundamentals of building science as design opportunities to create particular conditions of light and shadow; provide shelter from heat, cold, and rain; and incorporate systems that provide for water, electricity, and sanitation. Course revolves around a series of workshops, labs, and design exercises.",
     "coreqs": [{ "subject": "ARCH", "number": "3211" }],
-    "prereqs": [{ "subject": "ARCH", "number": "2240" }]
+    "prereqs": [
+      { "subject": "ARCH", "number": "2240" },
+      "Or",
+      { "subject": "CIVE", "number": "2260" }
+    ]
   },
   {
     "subject": "ARCH",
@@ -459,6 +528,12 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32816" },
+      { "term": "202430", "crn": "32817" },
+      { "term": "202430", "crn": "32818" },
+      { "term": "202430", "crn": "33280" },
+      { "term": "202430", "crn": "33840" },
+      { "term": "202430", "crn": "36847" },
       { "term": "202330", "crn": "33183" },
       { "term": "202330", "crn": "33184" },
       { "term": "202330", "crn": "33185" },
@@ -478,6 +553,8 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "35513" },
+      { "term": "202430", "crn": "36848" },
       { "term": "202410", "crn": "12025" },
       { "term": "202330", "crn": "37022" },
       { "term": "202330", "crn": "38852" },
@@ -496,6 +573,8 @@
     "credits": 4,
     "nuPath": ["AD", "ND"],
     "sections": [
+      { "term": "202430", "crn": "31546" },
+      { "term": "202430", "crn": "32005" },
       { "term": "202410", "crn": "20088" },
       { "term": "202410", "crn": "20089" },
       { "term": "202410", "crn": "20090" },
@@ -532,7 +611,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["CE", "EX"],
-    "sections": [{ "term": "202330", "crn": "33186" }],
+    "sections": [
+      { "term": "202430", "crn": "32819" },
+      { "term": "202330", "crn": "33186" }
+    ],
     "description": "Offers students an opportunity to deeply explore topics related to architecture and the built environment. Students complete a semester-long intensive research and writing capstone project. Offered in the final year of the BS in Architectural Studies program.",
     "coreqs": [],
     "prereqs": []
@@ -545,6 +627,8 @@
     "credits": 6,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "32153" },
+      { "term": "202430", "crn": "36858" },
       { "term": "202410", "crn": "12593" },
       { "term": "202410", "crn": "13559" },
       { "term": "202410", "crn": "13558" },
@@ -576,6 +660,16 @@
     "credits": 6,
     "nuPath": ["CE"],
     "sections": [
+      { "term": "202430", "crn": "33841" },
+      { "term": "202430", "crn": "33842" },
+      { "term": "202430", "crn": "33843" },
+      { "term": "202430", "crn": "33844" },
+      { "term": "202430", "crn": "33845" },
+      { "term": "202430", "crn": "33846" },
+      { "term": "202430", "crn": "34122" },
+      { "term": "202430", "crn": "34123" },
+      { "term": "202430", "crn": "36859" },
+      { "term": "202430", "crn": "36860" },
       { "term": "202330", "crn": "34469" },
       { "term": "202330", "crn": "34470" },
       { "term": "202330", "crn": "34471" },
@@ -611,6 +705,7 @@
     "credits": 4,
     "nuPath": ["AD", "ND"],
     "sections": [
+      { "term": "202430", "crn": "33375" },
       { "term": "202410", "crn": "10581" },
       { "term": "202330", "crn": "33849" },
       { "term": "202310", "crn": "10631" }
@@ -627,6 +722,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33376" },
       { "term": "202410", "crn": "11837" },
       { "term": "202330", "crn": "33851" },
       { "term": "202330", "crn": "33852" },
@@ -645,7 +741,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30603" }],
+    "sections": [
+      { "term": "202430", "crn": "30582" },
+      { "term": "202330", "crn": "30603" }
+    ],
     "description": "Studies how to integrate into students' building designs all the environmental and tectonic systems that they have covered in previous architecture courses.",
     "coreqs": [],
     "prereqs": [
@@ -719,6 +818,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31134" },
+      { "term": "202430", "crn": "35549" },
       { "term": "202410", "crn": "13362" },
       { "term": "202410", "crn": "13560" },
       { "term": "202410", "crn": "13561" },
@@ -743,7 +844,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["CE"],
-    "sections": [{ "term": "202330", "crn": "32521" }],
+    "sections": [
+      { "term": "202430", "crn": "32269" },
+      { "term": "202330", "crn": "32521" }
+    ],
     "description": "Addresses advanced topics in real estate development and finance and examines innovative models of practice in real estate development available to design professionals. Studies a set of advanced analytical tools and techniques for evaluating the cash flows and economic returns of real estate investment and development. Introduces advanced methods of financing real estate and the structure of capital markets involved in property assets. Uses the case instruction method and includes active, discussion-oriented learning.",
     "coreqs": [],
     "prereqs": []
@@ -770,7 +874,10 @@
     "scheduleType": "Studio",
     "credits": 6,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32522" }],
+    "sections": [
+      { "term": "202430", "crn": "32270" },
+      { "term": "202330", "crn": "32522" }
+    ],
     "description": "Focuses on a series of increasingly complex assignments that emphasize the fundamentals of architectural design. Offers students an opportunity to propose and test proposals through an iterative process using a wide variety of tools and media, including design software, physical models, and freehand sketches. Explores spatial definition, the orchestration of a spatial sequence, modulation of natural light, and responsiveness to existing conditions (whether natural or man-made). Taught as a hands-on design studio (with ample studio access outside class meetings).",
     "coreqs": [],
     "prereqs": []
@@ -802,6 +909,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30574" },
+      { "term": "202430", "crn": "31939" },
+      { "term": "202430", "crn": "30746" },
+      { "term": "202430", "crn": "35103" },
+      { "term": "202430", "crn": "39405" },
+      { "term": "202430", "crn": "40275" },
       { "term": "202330", "crn": "30595" },
       { "term": "202330", "crn": "32168" },
       { "term": "202330", "crn": "30793" },
@@ -835,6 +948,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30581" },
+      { "term": "202430", "crn": "35223" },
       { "term": "202330", "crn": "30602" },
       { "term": "202330", "crn": "36543" }
     ],
@@ -871,6 +986,11 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30580" },
+      { "term": "202430", "crn": "30567" },
+      { "term": "202430", "crn": "33848" },
+      { "term": "202430", "crn": "39406" },
+      { "term": "202430", "crn": "39407" },
       { "term": "202330", "crn": "30601" },
       { "term": "202330", "crn": "30587" },
       { "term": "202330", "crn": "34476" }

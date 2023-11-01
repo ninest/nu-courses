@@ -7,6 +7,7 @@
     "credits": 4,
     "nuPath": ["AD", "ND"],
     "sections": [
+      { "term": "202430", "crn": "34802" },
       { "term": "202410", "crn": "14615" },
       { "term": "202330", "crn": "35817" },
       { "term": "202310", "crn": "15486" },
@@ -35,12 +36,25 @@
   },
   {
     "subject": "ENVR",
+    "number": "1120",
+    "title": "Oceans and Coasts",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["ND"],
+    "sections": [{ "term": "202430", "crn": "39192" }],
+    "description": "Explores the marine and coastal realm and the problems that arise from the human-marine relationship. Begins by studying the history of the ocean and ends with how to create a more sustainable marine world. Topics covered include ocean and estuarine circulation, climate change and ocean response, and the plant and animal life thriving in different parts of the ocean. Includes reading and analyzing the scientific literature, developing and presenting research projects, and group work.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ENVR",
     "number": "1200",
     "title": "Dynamic Earth",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "30094" },
       { "term": "202410", "crn": "16983" },
       { "term": "202330", "crn": "30097" },
       { "term": "202310", "crn": "19346" }
@@ -57,6 +71,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30937" },
+      { "term": "202430", "crn": "33980" },
+      { "term": "202430", "crn": "36363" },
       { "term": "202410", "crn": "16984" },
       { "term": "202410", "crn": "20008" },
       { "term": "202410", "crn": "20009" },
@@ -80,6 +97,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "34803" },
       { "term": "202410", "crn": "13972" },
       { "term": "202330", "crn": "35819" },
       { "term": "202310", "crn": "14579" }
@@ -96,6 +114,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34804" },
+      { "term": "202430", "crn": "34805" },
+      { "term": "202430", "crn": "36364" },
       { "term": "202410", "crn": "13973" },
       { "term": "202410", "crn": "13974" },
       { "term": "202410", "crn": "15628" },
@@ -119,6 +140,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34806" },
       { "term": "202410", "crn": "16986" },
       { "term": "202330", "crn": "35822" },
       { "term": "202310", "crn": "19349" }
@@ -135,6 +157,9 @@
     "credits": 1,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "34807" },
+      { "term": "202430", "crn": "34808" },
+      { "term": "202430", "crn": "36630" },
       { "term": "202410", "crn": "13975" },
       { "term": "202410", "crn": "15504" },
       { "term": "202410", "crn": "15505" },
@@ -174,7 +199,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202310", "crn": "19351" }],
+    "sections": [
+      { "term": "202430", "crn": "39193" },
+      { "term": "202310", "crn": "19351" }
+    ],
     "description": "Describes the physical and chemical characteristics of common rock-forming minerals and geologic processes that form rock and soils in the igneous, sedimentary, and metamorphic environments. Focuses on commonly encountered minerals, soil, and rock types and how these are used to interpret past and present earth processes. This is a writing-intensive course with a required term paper.",
     "coreqs": [{ "subject": "ENVR", "number": "2311" }],
     "prereqs": [
@@ -205,6 +233,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39194" },
+      { "term": "202430", "crn": "39195" },
       { "term": "202310", "crn": "19352" },
       { "term": "202310", "crn": "19353" }
     ],
@@ -265,6 +295,7 @@
     "credits": 4,
     "nuPath": ["AD", "FQ"],
     "sections": [
+      { "term": "202430", "crn": "32154" },
       { "term": "202410", "crn": "13518" },
       { "term": "202330", "crn": "32397" },
       { "term": "202310", "crn": "14002" },
@@ -285,6 +316,15 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32374" },
+      { "term": "202430", "crn": "32155" },
+      { "term": "202430", "crn": "32156" },
+      { "term": "202430", "crn": "32513" },
+      { "term": "202430", "crn": "34207" },
+      { "term": "202430", "crn": "34208" },
+      { "term": "202430", "crn": "34248" },
+      { "term": "202430", "crn": "34249" },
+      { "term": "202430", "crn": "36368" },
       { "term": "202410", "crn": "11817" },
       { "term": "202410", "crn": "11818" },
       { "term": "202410", "crn": "16991" },
@@ -326,6 +366,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39196" },
+      { "term": "202430", "crn": "39197" },
+      { "term": "202430", "crn": "39198" },
       { "term": "202410", "crn": "20488" },
       { "term": "202410", "crn": "20489" },
       { "term": "202410", "crn": "20490" }
@@ -345,6 +388,7 @@
     "credits": 4,
     "nuPath": ["SI", "WI"],
     "sections": [
+      { "term": "202430", "crn": "34809" },
       { "term": "202410", "crn": "17835" },
       { "term": "202330", "crn": "35828" },
       { "term": "202330", "crn": "39143" },
@@ -379,6 +423,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202430", "crn": "40700" },
       { "term": "202410", "crn": "16993" },
       { "term": "202310", "crn": "19356" }
     ],
@@ -394,6 +439,7 @@
     "credits": 4,
     "nuPath": ["ND", "WI"],
     "sections": [
+      { "term": "202430", "crn": "36369" },
       { "term": "202410", "crn": "20015" },
       { "term": "202410", "crn": "20341" },
       { "term": "202330", "crn": "38350" }
@@ -424,6 +470,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34810" },
       { "term": "202410", "crn": "16994" },
       { "term": "202330", "crn": "35831" },
       { "term": "202310", "crn": "19357" },
@@ -441,6 +488,7 @@
     "credits": 4,
     "nuPath": ["AD", "EI"],
     "sections": [
+      { "term": "202430", "crn": "30803" },
       { "term": "202410", "crn": "11862" },
       { "term": "202330", "crn": "30856" },
       { "term": "202310", "crn": "12088" }
@@ -467,6 +515,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30092" },
+      { "term": "202430", "crn": "30085" },
+      { "term": "202430", "crn": "36370" },
       { "term": "202410", "crn": "10304" },
       { "term": "202410", "crn": "16995" },
       { "term": "202410", "crn": "11863" },
@@ -528,6 +579,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36371" },
       { "term": "202410", "crn": "16996" },
       { "term": "202330", "crn": "38352" },
       { "term": "202310", "crn": "19359" }
@@ -543,7 +595,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "20647" }],
+    "sections": [
+      { "term": "202430", "crn": "39199" },
+      { "term": "202310", "crn": "20647" }
+    ],
     "description": "Introduces the anatomy, physiology, ecology, diversity, and management of economically relevant plants. Applies plant biology to human nutrition, biofuels, wood, cloth, and medicines. Offers insight into cultural uses and values of plants across the globe. Also discusses traditional and new forms of plant management techniques, along with their advantages and disadvantages for sustainability.",
     "coreqs": [{ "subject": "ENVR", "number": "3801" }],
     "prereqs": [
@@ -561,7 +616,10 @@
     "scheduleType": "Lab",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "20678" }],
+    "sections": [
+      { "term": "202430", "crn": "39200" },
+      { "term": "202310", "crn": "20678" }
+    ],
     "description": "Accompanies ENVR 3800. Offers students an opportunity to interact with plants on a weekly basis, while applying their observational, creative, identification, and technical skills. Introduces basic plant biology and physiology principles, along with their application for plant care. Focuses on the care techniques for common landscaping as well as household, edible, medicinal, and other economically important plants.",
     "coreqs": [{ "subject": "ENVR", "number": "3800" }],
     "prereqs": []
@@ -610,6 +668,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36372" },
       { "term": "202410", "crn": "16997" },
       { "term": "202330", "crn": "38353" },
       { "term": "202310", "crn": "19360" }
@@ -625,7 +684,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["CE", "EX"],
-    "sections": [{ "term": "202330", "crn": "38354" }],
+    "sections": [
+      { "term": "202430", "crn": "36373" },
+      { "term": "202330", "crn": "38354" }
+    ],
     "description": "Gathers students from across the various environmental and sustainability sciences concentrations to solve environmental problems that are of concern to various stakeholders. Students perform service-learning with a number of not-for-profit and government agencies to identify specific environmental challenges to tackle. Students work in teams that unite social scientists, sustainability experts, conservation biologists and ecologists, and physical scientists to bring the specific expertise gained during their concentration studies together to tackle pressing environmental challenges. Offers students an opportunity to provide solutions to the problems proposed by our stakeholders, as well as to learn leadership and communication skills needed to head up a large project and to thrive in a transdisciplinary environment.",
     "coreqs": [],
     "prereqs": []
@@ -670,6 +732,34 @@
   },
   {
     "subject": "ENVR",
+    "number": "4504",
+    "title": "Environmental Pollution",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["AD", "ND"],
+    "sections": [{ "term": "202430", "crn": "40744" }],
+    "description": "Describes models and methods for predicting fate and transport of organic contaminants within and between environmental media, including molecular diffusion, transport across boundaries, and box models. Uses chemical structure and thermodynamic properties to predict physical processes that control the distribution of contaminants between the atmosphere, fresh and marine surface waters, groundwater, soils, sediments, and biota. Introduces concepts linking environmental chemistry with ecotoxicology, including bioaccumulation, food web models, and risk assessment. Uses case studies and real-world scenarios to illustrate important concepts. Offers students an opportunity to develop the tools and skills necessary to determine the fate of organic chemicals released to the environment.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "CHEM", "number": "1161" },
+      "Or",
+      { "subject": "CHEM", "number": "1214" },
+      ")",
+      "And",
+      "(",
+      { "subject": "EEMB", "number": "1101" },
+      "Or",
+      { "subject": "ENVR", "number": "1101" },
+      "Or",
+      { "subject": "ENVR", "number": "1200" },
+      "Or",
+      { "subject": "ENVR", "number": "1400" },
+      ")"
+    ]
+  },
+  {
+    "subject": "ENVR",
     "number": "4505",
     "title": "Wetlands",
     "scheduleType": "Lecture",
@@ -696,6 +786,7 @@
     "credits": 1,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30503" },
       { "term": "202410", "crn": "10765" },
       { "term": "202360", "crn": "61128" },
       { "term": "202340", "crn": "40180" },
@@ -731,6 +822,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "31805" },
       { "term": "202410", "crn": "14216" },
       { "term": "202340", "crn": "41455" },
       { "term": "202330", "crn": "32011" },
@@ -796,7 +888,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19361" }],
+    "sections": [
+      { "term": "202430", "crn": "39201" },
+      { "term": "202310", "crn": "19361" }
+    ],
     "description": "Provides a description and evaluation of the physical, chemical, and biological properties of soils. Includes soil formation, soil types, and processes that occur in soil including the importance of these processes for the soil productivity and management of soil. Also covers sources, reactions, transports, and fates of chemical species in soils and associated water and air environments, as well as the chemical behavior of elements and compounds and the phenomena affecting natural and anthropogenic materials in soils.",
     "coreqs": [],
     "prereqs": [
@@ -819,6 +914,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "40417" },
       { "term": "202410", "crn": "14234" },
       { "term": "202330", "crn": "33827" },
       { "term": "202310", "crn": "14896" }
@@ -857,6 +953,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "34256" },
       { "term": "202410", "crn": "10564" },
       { "term": "202340", "crn": "40280" },
       { "term": "202330", "crn": "35002" },
@@ -874,7 +971,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19362" }],
+    "sections": [
+      { "term": "202430", "crn": "39202" },
+      { "term": "202310", "crn": "19362" }
+    ],
     "description": "Examines the role of sustainable energy on emissions from energy production and the resulting impacts on climate changes. Introduces current observations, predictions of future climate change, and the resulting impacts on ecological and human systems. Assesses past and current sources of U.S. energy-related and non-energy-related sources of greenhouse gases. Reviews sustainable energy alternatives and emission reduction strategies with a focus on comparing moderate and deep decarbonization strategies and the overall goal of reaching zero net emissions.",
     "coreqs": [],
     "prereqs": []
@@ -886,7 +986,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34060" }],
+    "sections": [
+      { "term": "202430", "crn": "33530" },
+      { "term": "202330", "crn": "34060" }
+    ],
     "description": "Offers an in-depth evaluation of theoretical, mathematical, and computational foundations of geographic information systems (GIS). Examines advanced concepts and techniques in GIS analysis and spatial statistics methods. Topics include spatial information theory, database theory, mathematical models of spatial objects, and GIS-based representation.",
     "coreqs": [],
     "prereqs": [
@@ -916,7 +1019,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ND"],
-    "sections": [{ "term": "202310", "crn": "19363" }],
+    "sections": [
+      { "term": "202430", "crn": "39203" },
+      { "term": "202310", "crn": "19363" }
+    ],
     "description": "Examines the biological, chemical, and physical interactions that shape our global environment. These interactions combine in the global biogeochemical cycles. Industrial emission of gases, use of fertilizers and plastics, and the expansion of cities are altering the biogeochemical cycling of the elements carbon, nitrogen, and phosphorus at rates unprecedented in the geological record. Uses lectures and the latest update to Chapter 6, “Carbon and Other Biogeochemical Cycles,” of the International Panel on Climate Change report to explore the main interactions between human activity, biogeochemical change, and climate. Discusses primary literature to delve deeper into these interactions.",
     "coreqs": [],
     "prereqs": []
@@ -1006,6 +1112,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35515" },
       { "term": "202330", "crn": "37024" },
       { "term": "202310", "crn": "20242" }
     ],
@@ -1021,6 +1128,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33388" },
+      { "term": "202430", "crn": "36378" },
       { "term": "202330", "crn": "33866" },
       { "term": "202330", "crn": "38359" }
     ],
@@ -1036,6 +1145,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36379" },
       { "term": "202410", "crn": "20023" },
       { "term": "202330", "crn": "38360" }
     ],
@@ -1051,6 +1161,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36386" },
       { "term": "202410", "crn": "17002" },
       { "term": "202330", "crn": "38367" },
       { "term": "202310", "crn": "19365" }
@@ -1067,6 +1178,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36380" },
       { "term": "202410", "crn": "13026" },
       { "term": "202330", "crn": "38361" },
       { "term": "202310", "crn": "13421" }
@@ -1083,6 +1195,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36631" },
       { "term": "202410", "crn": "13027" },
       { "term": "202330", "crn": "38625" },
       { "term": "202310", "crn": "13422" }
@@ -1098,7 +1211,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "21641" }],
+    "sections": [
+      { "term": "202430", "crn": "39204" },
+      { "term": "202410", "crn": "21641" }
+    ],
     "description": "Provides eligible students with an opportunity for part-time work experience.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "6000" }]
@@ -1111,6 +1227,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34302" },
       { "term": "202410", "crn": "17820" },
       { "term": "202360", "crn": "60581" },
       { "term": "202340", "crn": "42112" },

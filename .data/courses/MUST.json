@@ -7,6 +7,10 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "34080" },
+      { "term": "202430", "crn": "35702" },
+      { "term": "202430", "crn": "37246" },
+      { "term": "202430", "crn": "38248" },
       { "term": "202410", "crn": "17283" },
       { "term": "202410", "crn": "17284" },
       { "term": "202410", "crn": "17285" },
@@ -31,10 +35,13 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI"],
-    "sections": [{ "term": "202330", "crn": "36558" }],
+    "sections": [
+      { "term": "202430", "crn": "35230" },
+      { "term": "202330", "crn": "36558" }
+    ],
     "description": "Offers students an opportunity to create compositions using a digital audio workstation (DAW) as the principal tool. Standard Western music notation may be used in examples of certain techniques but will not be necessary for the creation of work in the course. Explores various composition topics such as periodicity, form, texture, timbre, and contour in the digital domain. Consists of a number of short composition and listening assignments culminating in the creation of compositions of moderate duration.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MUST", "number": "1220" }]
+    "prereqs": []
   },
   {
     "subject": "MUST",
@@ -43,7 +50,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI"],
-    "sections": [{ "term": "202310", "crn": "19683" }],
+    "sections": [
+      { "term": "202430", "crn": "39362" },
+      { "term": "202310", "crn": "19683" }
+    ],
     "description": "Instructs students in the art of producing and designing musical accompaniments for a variety of media including film, TV commercials, industrial video, animation, games, theatre, and radio drama. Focuses on abstract thinking regarding sound theory and practice and includes hands-on skills. Restricted to music majors and combined majors; all other students require permission of instructor.",
     "coreqs": [],
     "prereqs": []
@@ -56,6 +66,7 @@
     "credits": 4,
     "nuPath": ["AD", "FQ"],
     "sections": [
+      { "term": "202430", "crn": "34003" },
       { "term": "202410", "crn": "12784" },
       { "term": "202410", "crn": "18436" },
       { "term": "202330", "crn": "34648" },
@@ -107,6 +118,18 @@
   },
   {
     "subject": "MUST",
+    "number": "3603",
+    "title": "Embedded Audio Programming",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["EI", "ND"],
+    "sections": [{ "term": "202430", "crn": "40204" }],
+    "description": "Explores embedded computers and their employment for the design of interactive audio applications. Studies how to program audio applications that take advantage of the unique features of these systems, which is accomplished by transferring the coding skills acquired on general-purpose computers to the languages and the programming rationales of embedded hardware. Primarily covers low-latency, real-time audio synthesis/processing, but also offers an in-depth introduction to physical computing, sensors, and simple electronics. Offers students an opportunity to gain experience with the full design-development-test cycle of software and hardware interactive audio technologies through a final project.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "MUST", "number": "2431" }]
+  },
+  {
+    "subject": "MUST",
     "number": "4610",
     "title": "Composition for Electronic Instruments",
     "scheduleType": "Lecture",
@@ -127,21 +150,18 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["CE", "WI"],
-    "sections": [{ "term": "202330", "crn": "32704" }],
+    "sections": [
+      { "term": "202430", "crn": "32428" },
+      { "term": "202330", "crn": "32704" }
+    ],
     "description": "Instructs students in the preparation and presentation of their senior recital. Fulfills the college’s experiential education requirement for music technology concentrators.",
     "coreqs": [],
     "prereqs": [
       { "subject": "MUST", "number": "3540" },
       "Or",
-      { "subject": "MUSC", "number": "4510" },
+      { "subject": "MUST", "number": "4520" },
       "Or",
-      { "subject": "MUST", "number": "4610" },
-      "Or",
-      { "subject": "MUST", "number": "3601" },
-      "Or",
-      { "subject": "MUST", "number": "3602" },
-      "Or",
-      { "subject": "MUST", "number": "3603" }
+      { "subject": "MUST", "number": "4610" }
     ]
   }
 ]

@@ -6,7 +6,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30752" }],
+    "sections": [
+      { "term": "202430", "crn": "30708" },
+      { "term": "202330", "crn": "30752" }
+    ],
     "description": "Covers the physical and chemical principles in drug formulation design, with emphasis on such topics as solutions of nonelectrolytes and electrolytes, ionic equilibria, drug complexation, reaction kinetics, mass transport, and interfacial phenomena.",
     "coreqs": [],
     "prereqs": []
@@ -18,7 +21,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30782" }],
+    "sections": [
+      { "term": "202430", "crn": "30735" },
+      { "term": "202330", "crn": "30782" }
+    ],
     "description": "Focuses on concepts of one- and two-compartment linear and nonlinear pharmacokinetics and compartmental modeling with plasma and/or urinary data. Discusses principles and methods of metabolic biotransformation and disposition of xenobiotics in biological system.",
     "coreqs": [],
     "prereqs": []

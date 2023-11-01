@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33997" },
       { "term": "202410", "crn": "13611" },
       { "term": "202330", "crn": "34637" },
       { "term": "202310", "crn": "14113" }
@@ -23,6 +24,15 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "39285" },
+      { "term": "202430", "crn": "39286" },
+      { "term": "202430", "crn": "39289" },
+      { "term": "202430", "crn": "39290" },
+      { "term": "202430", "crn": "39291" },
+      { "term": "202430", "crn": "39292" },
+      { "term": "202430", "crn": "39293" },
+      { "term": "202430", "crn": "39287" },
+      { "term": "202430", "crn": "39288" },
       { "term": "202410", "crn": "19450" },
       { "term": "202410", "crn": "13651" },
       { "term": "202410", "crn": "14552" },
@@ -80,6 +90,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "40667" },
       { "term": "202410", "crn": "19906" },
       { "term": "202410", "crn": "20220" },
       { "term": "202410", "crn": "20479" },
@@ -95,12 +106,37 @@
   },
   {
     "subject": "SOCL",
+    "number": "1235",
+    "title": "Social Psychology",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202430", "crn": "35046" }],
+    "description": "Studies the relationship between society and the individual. Focuses on three theoretical perspectives—symbolic interactionism, social structure and personality, and group processes—in order to understand how human behavior is tied to social and cultural contexts and how individuals shape and are shaped by group interaction. Topics may include socialization and how people develop a “social sense of self”; cross-cultural differences in interactional styles; pressures to conform to roles and stereotypes; deviance and mental health; inequality based on race/ethnicity, social class, and gender; identity formation and change, attitudes, and behavior, including prejudice and discrimination; and collective behavior, including social movements.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SOCL",
+    "number": "1245",
+    "title": "Sociology of Poverty",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202430", "crn": "40368" }],
+    "description": "Analyzes American poverty in historical perspective, drawing on comparisons with other countries. Critically evaluates sociological research and theories relating to poverty. Considers causes and effects of poverty as well as societal responses to poverty and its consequences. Suitable for students in applied fields, such as nursing, criminal justice, education, allied health, premed, and prelaw.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SOCL",
     "number": "1246",
     "title": "Environment and Society",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "32755" },
       { "term": "202410", "crn": "10425" },
       { "term": "202340", "crn": "41687" },
       { "term": "202330", "crn": "33104" },
@@ -137,6 +173,7 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "36255" },
       { "term": "202410", "crn": "13671" },
       { "term": "202330", "crn": "38232" },
       { "term": "202310", "crn": "14188" }
@@ -180,6 +217,7 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202430", "crn": "30246" },
       { "term": "202410", "crn": "10365" },
       { "term": "202330", "crn": "30253" },
       { "term": "202310", "crn": "10391" }
@@ -190,12 +228,29 @@
   },
   {
     "subject": "SOCL",
+    "number": "2323",
+    "title": "Ethnographic Methods",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["AD", "EX"],
+    "sections": [{ "term": "202430", "crn": "39820" }],
+    "description": "Focuses on the practical, ethical, and theoretical issues underlying qualitative field research. Emphasizes firsthand experience with participation, observation, interviewing, note-taking, data analysis, and ethnographic writing.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ANTH", "number": "1101" },
+      "And",
+      { "subject": "SOCL", "number": "1101" }
+    ]
+  },
+  {
+    "subject": "SOCL",
     "number": "2355",
     "title": "Race, Identity, Social Change, and Empowerment",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202430", "crn": "36256" },
       { "term": "202410", "crn": "20392" },
       { "term": "202330", "crn": "38234" },
       { "term": "202310", "crn": "16734" }
@@ -220,6 +275,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "39324" },
       { "term": "202410", "crn": "12399" },
       { "term": "202410", "crn": "21287" },
       { "term": "202410", "crn": "20221" },
@@ -241,12 +297,27 @@
   },
   {
     "subject": "SOCL",
+    "number": "2365",
+    "title": "Latinx Youthhood in the United States",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["SI"],
+    "sections": [{ "term": "202430", "crn": "39294" }],
+    "description": "Surveys topics related to Latinx youthhood. Includes historical, social, and cultural roots of Latinx youthhoods in the United States and how Latinx youthhood has been shaped within colonial, transnational, and global contexts. Emphasizes understanding the ways in which social institutions found in and across the United States and Latin American sending communities have structured Latinx youthhoods in relation to race, gender, class, and citizenship, as well as how Latinx youths have exercised agency to contest the social inequalities resulting from the practices and policies of these social institutions.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SOCL",
     "number": "2485",
     "title": "Environment, Technology, and Society",
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["SI"],
-    "sections": [{ "term": "202310", "crn": "16976" }],
+    "sections": [
+      { "term": "202430", "crn": "39295" },
+      { "term": "202310", "crn": "16976" }
+    ],
     "description": "Focuses on the connections between the development of modern nation-states and the control of nature. Explores the role human societies play in such events as climate change, tsunamis, and droughts. Asks how industrialization and the process of science and technology development are related to our transforming environmental conditions, as well as how the social sciences, the sciences, and engineering are transforming to address these issues. Draws on social theory, environmental history, anthropology/sociology, art/design, and open-source technologies to investigate theoretically and methodologically the sources, experiences of, and solutions for environmental health questions.",
     "coreqs": [],
     "prereqs": [
@@ -274,7 +345,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202310", "crn": "20162" }],
+    "sections": [
+      { "term": "202430", "crn": "39269" },
+      { "term": "202310", "crn": "20162" }
+    ],
     "description": "Examines the relationship between race and the movement of people around the globe. Offers students an opportunity to acquire a concrete understanding of how race and ethnicity (as social constructions) have developed as people have migrated (under free will or forced circumstances) within and across geopolitical territories (e.g, colonies, countries) in the past (1400s) and through the present. Ethnoracial-related conflicts connected to migration (e.g., rebellions by the enslaved during the Atlantic slave trade, Rwandan genocide, Syrian civil war) may also be explored.",
     "coreqs": [],
     "prereqs": []
@@ -299,6 +373,7 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "39296" },
       { "term": "202410", "crn": "17163" },
       { "term": "202310", "crn": "19533" }
     ],
@@ -313,7 +388,11 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202330", "crn": "39298" }],
+    "sections": [
+      { "term": "202430", "crn": "37265" },
+      { "term": "202430", "crn": "39297" },
+      { "term": "202330", "crn": "39298" }
+    ],
     "description": "Focuses on the social construction of race and ethnicity and the nature of dominant/minority relations in the United States. Emphasizes the peculiar evolution of race relations in U.S. history, the political and economic conditions that have transformed race relations, and the nature of contemporary racial and ethnic relations in the United States. Topics include immigration, ethnic and racial identity, discrimination, and race-based policies (e.g., residential restrictive codes, Jim Crow segregation). Offers students an opportunity to develop a critical lens from which to observe and interpret contemporary debates over structural racism.",
     "coreqs": [],
     "prereqs": []
@@ -326,6 +405,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "39298" },
       { "term": "202410", "crn": "15095" },
       { "term": "202360", "crn": "61347" },
       { "term": "202330", "crn": "39337" },
@@ -398,6 +478,7 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "34001" },
       { "term": "202410", "crn": "17165" },
       { "term": "202330", "crn": "34642" },
       { "term": "202310", "crn": "19535" }
@@ -417,6 +498,30 @@
     "description": "Introduces the social, cultural, and political dynamics that surround social movements, both historically and in the contemporary world. Emphasizes theory and research on national and transnational social movements, including studies of revolutions and political upheavals, racial justice and demands for civil and human rights, movements for gender equality, and other instances of movements for social and political change. Focuses on how structural factors shape social movement emergence and development and how social movements in turn shape the structure of societies.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "SOCL",
+    "number": "4485",
+    "title": "Sociology of Education",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["SI"],
+    "sections": [{ "term": "202430", "crn": "39300" }],
+    "description": "Examines the ways in which schools and societies are interconnected. More specifically, introduces the educational practices and policies that reproduce or challenge social stratification, social mobility, and adult socio-economic success. Explores the relationships among social actors including teachers, students, and parents, as well as educational policies and practices that shape educational equity and opportunity. Focuses on curriculum development and implementation, ability grouping and tracking, teacher preparation and professional development. Explores how these and other educational policies and practices may differ due to race, class, gender, and citizenship.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ANTH", "number": "1101" },
+      "Or",
+      { "subject": "CRIM", "number": "1100" },
+      "Or",
+      { "subject": "HUSV", "number": "1101" },
+      "Or",
+      { "subject": "POLS", "number": "1140" },
+      "Or",
+      { "subject": "POLS", "number": "1160" },
+      "Or",
+      { "subject": "SOCL", "number": "1101" }
+    ]
   },
   {
     "subject": "SOCL",
@@ -553,6 +658,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "32706" },
       { "term": "202410", "crn": "17303" },
       { "term": "202410", "crn": "20739" },
       { "term": "202330", "crn": "33045" },
@@ -627,6 +733,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36259" },
       { "term": "202330", "crn": "38237" },
       { "term": "202330", "crn": "38238" }
     ],
@@ -658,6 +765,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36261" },
       { "term": "202330", "crn": "38239" },
       { "term": "202330", "crn": "38240" }
     ],
@@ -687,7 +795,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30701" }],
+    "sections": [
+      { "term": "202430", "crn": "30673" },
+      { "term": "202330", "crn": "30701" }
+    ],
     "description": "Reviews the dominant theoretical traditions in contemporary sociology, examining the key assumptions, terminology, weaknesses, and strengths of the pluralist, managerialist, neo-Marxist, feminist, and postmodern paradigms. Strives not only to expose students to the giants in the field but, more important, to give students the intellectual tools to situate entire theoretical traditions vis-à-vis one another. Introduces students to various schools of thought. Offers students the opportunity to learn “how to think” sociologically and theoretically—that is, to go beyond simplistic and descriptive accounts of social phenomena to offer more systematic and insightful explanations.",
     "coreqs": [],
     "prereqs": []
@@ -699,7 +810,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "36219" }],
+    "sections": [
+      { "term": "202430", "crn": "35048" },
+      { "term": "202330", "crn": "36219" }
+    ],
     "description": "Explores the rise of neoliberal globalization and its impact on local and national communities around the world. Examines complex patterns of resistance, including place-based struggles and transnational social movements. Combines theoretical analysis of global capitalism, development, the politics of resistance, and reformist/radical alternatives with the study of concrete struggles in defense of land, labor and human rights, indigenous cultures and identities, and ecological sustainability.",
     "coreqs": [],
     "prereqs": []
@@ -725,6 +839,30 @@
     "nuPath": [],
     "sections": [{ "term": "202410", "crn": "19457" }],
     "description": "Offers a graduate-level seminar in the sociology of race and ethnic relations. Explores the key social, economic, political, and ideological forces shaping race and ethnic relations in the United States, past and present, and the main theoretical, methodological, and substantive debates in the “race and ethnicity” subfield of sociology. Course topics include, but are not limited to, the conceptual and intellectual foundations of the study of race and ethnic relations; the sources and consequences of ethnic and racial identities; urban poverty and dynamics of racial residential segregation; the role of wealth in creating and perpetuating racial inequality; the “new black middle class”; and contemporary debates regarding racial prejudice, discrimination, and redistributive public policies in the United States.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SOCL",
+    "number": "7231",
+    "title": "Sociology of Prejudice and Violence",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39301" }],
+    "description": "Examines the roots and consequences of violent behavior in society and the individual. Topics vary from semester to semester, but will include serial murder, massacres, hate crimes, workplace murder, group violence including cults, and mass media portrayals of violence.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SOCL",
+    "number": "7243",
+    "title": "Sociology of Health and Illness",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39650" }],
+    "description": "Studies social aspects of illness and medicine, historically and cross-culturally. Focuses on illness and the medical profession in modern society and their structural settings: the community, the hospital, the medical school. Critically examines research studies in the field and specifies problems for future research.",
     "coreqs": [],
     "prereqs": []
   },
@@ -799,6 +937,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36263" },
       { "term": "202410", "crn": "18717" },
       { "term": "202410", "crn": "21514" },
       { "term": "202410", "crn": "21518" },
@@ -826,6 +965,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36264" },
       { "term": "202410", "crn": "15732" },
       { "term": "202410", "crn": "21499" },
       { "term": "202410", "crn": "21577" },
@@ -853,7 +993,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "50711" }],
+    "sections": [
+      { "term": "202430", "crn": "40711" },
+      { "term": "202350", "crn": "50711" }
+    ],
     "description": "Offers theoretical and experimental work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
     "prereqs": [{ "subject": "SOCL", "number": "9000" }]
@@ -882,6 +1025,11 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37188" },
+      { "term": "202430", "crn": "37191" },
+      { "term": "202430", "crn": "37925" },
+      { "term": "202430", "crn": "40612" },
+      { "term": "202430", "crn": "40613" },
       { "term": "202410", "crn": "19460" },
       { "term": "202410", "crn": "21451" },
       { "term": "202410", "crn": "21452" },

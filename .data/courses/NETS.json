@@ -25,7 +25,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34484" }],
+    "sections": [
+      { "term": "202430", "crn": "33852" },
+      { "term": "202330", "crn": "34484" }
+    ],
     "description": "Continues an exploration of network science and the set of analytical, numerical, and modeling tools used to understand complex networks emerging in nature and technology. Focuses on the empirical study of real networks. Investigates the organizing principles that govern the emergence of networks and the set of tools necessary to characterize and model them. Offers students an opportunity to obtain a deeper understanding of complex systems.",
     "coreqs": [],
     "prereqs": [{ "subject": "PHYS", "number": "5116" }]
@@ -49,7 +52,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19919" }],
+    "sections": [
+      { "term": "202430", "crn": "39370" },
+      { "term": "202310", "crn": "19919" }
+    ],
     "description": "Offers an overview of the literature on social networks, with literature from political science, sociology, economics, and physics. Analyzes the underlying topology of networks and how we visualize and analyze network data. Key topics include small-world literature and the spread of information and disease. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
     "prereqs": []
@@ -143,7 +149,10 @@
     "scheduleType": "Seminar",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39578" }],
+    "sections": [
+      { "term": "202430", "crn": "37538" },
+      { "term": "202330", "crn": "39578" }
+    ],
     "description": "Class Location: 177 Huntington Ave. Room 207",
     "coreqs": [],
     "prereqs": []

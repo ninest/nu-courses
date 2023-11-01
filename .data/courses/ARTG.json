@@ -7,6 +7,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36401" },
       { "term": "202410", "crn": "17903" },
       { "term": "202410", "crn": "18064" },
       { "term": "202330", "crn": "38383" },
@@ -25,6 +26,16 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36402" },
+      { "term": "202430", "crn": "36403" },
+      { "term": "202430", "crn": "36404" },
+      { "term": "202430", "crn": "36405" },
+      { "term": "202430", "crn": "36406" },
+      { "term": "202430", "crn": "36407" },
+      { "term": "202430", "crn": "36408" },
+      { "term": "202430", "crn": "37816" },
+      { "term": "202430", "crn": "38322" },
+      { "term": "202430", "crn": "38928" },
       { "term": "202410", "crn": "17901" },
       { "term": "202410", "crn": "17952" },
       { "term": "202410", "crn": "17965" },
@@ -95,7 +106,11 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20625" }],
+    "sections": [
+      { "term": "202430", "crn": "38929" },
+      { "term": "202430", "crn": "40624" },
+      { "term": "202410", "crn": "20625" }
+    ],
     "description": "Introduces students to a range of design practices demonstrated through case studies, activities in lecture and workshop, and presentations by design practitioners.",
     "coreqs": [{ "subject": "ARTG", "number": "1271" }],
     "prereqs": []
@@ -108,6 +123,13 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38930" },
+      { "term": "202430", "crn": "38931" },
+      { "term": "202430", "crn": "38932" },
+      { "term": "202430", "crn": "38933" },
+      { "term": "202430", "crn": "38934" },
+      { "term": "202430", "crn": "38935" },
+      { "term": "202430", "crn": "40625" },
       { "term": "202410", "crn": "20681" },
       { "term": "202410", "crn": "20682" },
       { "term": "202410", "crn": "20683" }
@@ -118,12 +140,55 @@
   },
   {
     "subject": "ARTG",
+    "number": "1290",
+    "title": "Typographic Systems",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "38940" },
+      { "term": "202430", "crn": "40626" }
+    ],
+    "description": "Covers typography as a core element of graphic design. Examines typography's history, development, and contemporary state. Studies typography principles and how to apply them in different contexts and formats. Introduces the cultural meaning of and diversity of typography and the importance of research while engaging with it. Through appreciation, curiosity, engagement, and discipline, initiates an intellectual investigation and practice of what it means to work with typography and apply typography in different disciplines.",
+    "coreqs": [{ "subject": "ARTG", "number": "1291" }],
+    "prereqs": [{ "subject": "ARTF", "number": "1122" }]
+  },
+  {
+    "subject": "ARTG",
+    "number": "1291",
+    "title": "Studio for Typographic Systems",
+    "scheduleType": "Studio",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "38941" },
+      { "term": "202430", "crn": "38942" },
+      { "term": "202430", "crn": "38943" },
+      { "term": "202430", "crn": "38944" },
+      { "term": "202430", "crn": "38945" },
+      { "term": "202430", "crn": "38946" },
+      { "term": "202430", "crn": "38947" },
+      { "term": "202430", "crn": "38948" },
+      { "term": "202430", "crn": "38949" },
+      { "term": "202430", "crn": "38950" },
+      { "term": "202430", "crn": "40627" }
+    ],
+    "description": "Introduces letterforms in visual communication. Studies typography as a form in terms of its function and explores visual principles affecting the organization and access of typographic information. Explores how to organize words and phrases to create clear meanings. Introduces the use of the typographic grid and issues of hierarchy and legibility through assigned projects, readings, and lectures. Includes the historical evolution of typefaces and their classification as a rational system. Guides students in the application of typography as the basis of organizing and expressive principle of graphic design.",
+    "coreqs": [{ "subject": "ARTG", "number": "1290" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTG",
     "number": "2242",
     "title": "Information Design Principles",
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38951" },
+      { "term": "202430", "crn": "38952" },
+      { "term": "202430", "crn": "38953" },
+      { "term": "202430", "crn": "38954" },
       { "term": "202410", "crn": "21019" },
       { "term": "202410", "crn": "21020" },
       { "term": "202410", "crn": "21021" }
@@ -209,6 +274,12 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "30367" },
+      { "term": "202430", "crn": "30894" },
+      { "term": "202430", "crn": "32010" },
+      { "term": "202430", "crn": "34974" },
+      { "term": "202430", "crn": "32825" },
+      { "term": "202430", "crn": "38955" },
       { "term": "202410", "crn": "10192" },
       { "term": "202410", "crn": "10538" },
       { "term": "202410", "crn": "12099" },
@@ -255,12 +326,51 @@
   },
   {
     "subject": "ARTG",
+    "number": "2262",
+    "title": "Prototyping with Code",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "38956" }],
+    "description": "Introduces students to creative coding and algorithmic thinking through creative projects. Students prototype projects by starting with preproduction exercises like flowcharts and pseudocode before proceeding to writing modular code, then testing and debugging, and finally writing reflection documentation. Introduces multiple programming platforms that can be used for the completion of coursework, allowing students flexibility in coding their project visions. Lecture sessions combine topical lectures with live coding and code walks of example code.",
+    "coreqs": [{ "subject": "ARTG", "number": "2263" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTG",
+    "number": "2263",
+    "title": "Lab for ARTG 2262",
+    "scheduleType": "Lab",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "38957" },
+      { "term": "202430", "crn": "38958" },
+      { "term": "202430", "crn": "38959" },
+      { "term": "202430", "crn": "38960" },
+      { "term": "202430", "crn": "38961" },
+      { "term": "202430", "crn": "38962" },
+      { "term": "202430", "crn": "38963" },
+      { "term": "202430", "crn": "38964" },
+      { "term": "202430", "crn": "38965" },
+      { "term": "202430", "crn": "38966" }
+    ],
+    "description": "Introduces students to creative coding and algorithmic thinking through creative projects. Lab sessions consist of team-based code walks, activities, and problem solving. Students can use different software platforms to complete creative coding projects.",
+    "coreqs": [{ "subject": "ARTG", "number": "2262" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTG",
     "number": "2400",
     "title": "Interaction Design 1: Responsive",
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31784" },
+      { "term": "202430", "crn": "32009" },
+      { "term": "202430", "crn": "32826" },
+      { "term": "202430", "crn": "38967" },
       { "term": "202410", "crn": "12053" },
       { "term": "202410", "crn": "12054" },
       { "term": "202410", "crn": "12413" },
@@ -285,6 +395,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32258" },
       { "term": "202410", "crn": "15988" },
       { "term": "202330", "crn": "32510" },
       { "term": "202310", "crn": "18067" }
@@ -301,6 +412,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35275" },
       { "term": "202410", "crn": "20358" },
       { "term": "202330", "crn": "36649" }
     ],
@@ -327,10 +439,13 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["AD", "EI", "EX"],
-    "sections": [{ "term": "202330", "crn": "38391" }],
+    "sections": [
+      { "term": "202430", "crn": "36409" },
+      { "term": "202330", "crn": "38391" }
+    ],
     "description": "Explores the communication between the physical world and the interactive, computer-based interface. Examines the potential of reactive analog and digital devices embedded within the physical realm. Offers students an opportunity to use simple kit sensors and indicators designed to enable student teams to create interfaces triggered by gesture, bodily movement, physical forces, and other tangible actions. Concludes with discussions of more complex interactive devices, the relationship between physical computing and robotics, and possible future directions.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "ARTG", "number": "2400" }]
   },
   {
     "subject": "ARTG",
@@ -340,6 +455,14 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "30180" },
+      { "term": "202430", "crn": "31732" },
+      { "term": "202430", "crn": "37473" },
+      { "term": "202430", "crn": "37403" },
+      { "term": "202430", "crn": "33683" },
+      { "term": "202430", "crn": "34285" },
+      { "term": "202430", "crn": "34975" },
+      { "term": "202430", "crn": "38968" },
       { "term": "202410", "crn": "11041" },
       { "term": "202410", "crn": "13273" },
       { "term": "202410", "crn": "13792" },
@@ -375,12 +498,27 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38969" },
+      { "term": "202430", "crn": "38970" },
+      { "term": "202430", "crn": "38971" },
       { "term": "202410", "crn": "21038" },
       { "term": "202410", "crn": "21035" }
     ],
     "description": "Focuses on a specific intermediate-level topic of timely relevance to the domain of interaction design. May be repeated up to two times for a maximum of 12 semester hours. Topics vary each semester.",
     "coreqs": [],
     "prereqs": [{ "subject": "ARTG", "number": "2400" }]
+  },
+  {
+    "subject": "ARTG",
+    "number": "3444",
+    "title": "Topics in Information Design Inquiry",
+    "scheduleType": "Studio",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "38973" }],
+    "description": "Focuses on a specific intermediate-level topic of timely relevance to the domain of information design. May be repeated up to two times for a maximum of 12 SH.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "ARTG", "number": "2242" }]
   },
   {
     "subject": "ARTG",
@@ -437,6 +575,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38974" },
+      { "term": "202430", "crn": "38975" },
+      { "term": "202430", "crn": "38976" },
+      { "term": "202430", "crn": "38977" },
       { "term": "202410", "crn": "21036" },
       { "term": "202410", "crn": "21083" },
       { "term": "202410", "crn": "21042" },
@@ -454,6 +596,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32261" },
+      { "term": "202430", "crn": "33321" },
+      { "term": "202430", "crn": "33491" },
       { "term": "202410", "crn": "14050" },
       { "term": "202410", "crn": "14441" },
       { "term": "202330", "crn": "32513" },
@@ -476,6 +621,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32278" },
+      { "term": "202430", "crn": "32975" },
+      { "term": "202430", "crn": "34976" },
+      { "term": "202430", "crn": "38978" },
       { "term": "202410", "crn": "14442" },
       { "term": "202410", "crn": "14509" },
       { "term": "202410", "crn": "18001" },
@@ -493,7 +642,7 @@
     "prereqs": [
       { "subject": "ARTG", "number": "1250" },
       "Or",
-      { "subject": "ARTF", "number": "2233" }
+      { "subject": "ARTF", "number": "2223" }
     ]
   },
   {
@@ -523,7 +672,11 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "21039" }],
+    "sections": [
+      { "term": "202430", "crn": "38979" },
+      { "term": "202430", "crn": "38980" },
+      { "term": "202410", "crn": "21039" }
+    ],
     "description": "Focuses on a specific intermediate-level topic of timely relevance to the domain of experience design. May be repeated up to two times for a maximum of 12 semester hours.",
     "coreqs": [],
     "prereqs": [{ "subject": "ARTG", "number": "3462" }]
@@ -553,6 +706,14 @@
     "credits": 4,
     "nuPath": ["CE", "EI", "EX"],
     "sections": [
+      { "term": "202430", "crn": "36411" },
+      { "term": "202430", "crn": "36412" },
+      { "term": "202430", "crn": "37115" },
+      { "term": "202430", "crn": "37323" },
+      { "term": "202430", "crn": "37091" },
+      { "term": "202430", "crn": "37324" },
+      { "term": "202430", "crn": "37116" },
+      { "term": "202430", "crn": "37325" },
       { "term": "202410", "crn": "10762" },
       { "term": "202410", "crn": "14457" },
       { "term": "202410", "crn": "16889" },
@@ -581,6 +742,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "30860" },
       { "term": "202410", "crn": "11335" },
       { "term": "202330", "crn": "30914" },
       { "term": "202310", "crn": "11508" }
@@ -597,6 +759,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33322" },
       { "term": "202410", "crn": "13791" },
       { "term": "202330", "crn": "33777" },
       { "term": "202310", "crn": "14322" }
@@ -617,6 +780,11 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37648" },
+      { "term": "202430", "crn": "37534" },
+      { "term": "202430", "crn": "37726" },
+      { "term": "202430", "crn": "37591" },
+      { "term": "202430", "crn": "40079" },
       { "term": "202410", "crn": "16892" },
       { "term": "202410", "crn": "17681" },
       { "term": "202410", "crn": "20747" },
@@ -639,6 +807,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40758" },
       { "term": "202410", "crn": "11668" },
       { "term": "202310", "crn": "11878" },
       { "term": "202310", "crn": "21588" }
@@ -703,6 +872,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37326" },
       { "term": "202410", "crn": "13606" },
       { "term": "202330", "crn": "39361" },
       { "term": "202310", "crn": "14108" },
@@ -720,6 +890,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37659" },
       { "term": "202410", "crn": "21015" },
       { "term": "202330", "crn": "39739" },
       { "term": "202310", "crn": "14109" },
@@ -741,6 +912,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35782" },
       { "term": "202410", "crn": "21025" },
       { "term": "202330", "crn": "37500" }
     ],
@@ -771,6 +943,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32553" },
       { "term": "202410", "crn": "15599" },
       { "term": "202410", "crn": "21016" },
       { "term": "202330", "crn": "32869" },
@@ -788,7 +961,10 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "35522" }],
+    "sections": [
+      { "term": "202430", "crn": "34634" },
+      { "term": "202330", "crn": "35522" }
+    ],
     "description": "Builds on the foundational skills acquired in ARTG 5330. Introduces students to intermediate- to advanced-level topics in web-based interactive visualization. Focuses on building greater proficiency in working with d3 and related JavaScript libraries and on acquiring knowledge of best practices and common patterns in data visualization problem solving. Through lectures, workshops, and a final project, offers students an opportunity to learn to effectively deploy their data visualization skills to explore and extract understanding from data in a critical and productive way.",
     "coreqs": [],
     "prereqs": [
@@ -824,6 +1000,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34095" },
+      { "term": "202430", "crn": "35320" },
+      { "term": "202430", "crn": "38984" },
+      { "term": "202430", "crn": "38985" },
       { "term": "202410", "crn": "13155" },
       { "term": "202330", "crn": "34767" },
       { "term": "202330", "crn": "36721" },
@@ -890,6 +1070,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35321" },
       { "term": "202410", "crn": "21024" },
       { "term": "202330", "crn": "36723" }
     ],
@@ -908,7 +1089,11 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39638" }],
+    "sections": [
+      { "term": "202430", "crn": "37597" },
+      { "term": "202430", "crn": "40180" },
+      { "term": "202330", "crn": "39638" }
+    ],
     "description": "Examines various theoretical models of information visualization and delivery systems. Evaluates the concepts and effectiveness of the models through discussions and writing activities. Students who do not meet course prerequisites or restrictions may seek permission of program coordinator or instructor.",
     "coreqs": [],
     "prereqs": [{ "subject": "ARTG", "number": "5100" }]
@@ -921,6 +1106,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32554" },
+      { "term": "202430", "crn": "33453" },
+      { "term": "202430", "crn": "36413" },
+      { "term": "202430", "crn": "38986" },
       { "term": "202330", "crn": "32870" },
       { "term": "202330", "crn": "33950" },
       { "term": "202330", "crn": "38395" }
@@ -952,6 +1141,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35323" },
       { "term": "202410", "crn": "16057" },
       { "term": "202330", "crn": "36727" }
     ],
@@ -967,6 +1157,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32827" },
+      { "term": "202430", "crn": "36414" },
+      { "term": "202430", "crn": "38987" },
       { "term": "202330", "crn": "33195" },
       { "term": "202330", "crn": "38396" }
     ],
@@ -1016,10 +1209,13 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "35005" }],
+    "sections": [
+      { "term": "202430", "crn": "34258" },
+      { "term": "202330", "crn": "35005" }
+    ],
     "description": "Offers students an opportunity to focus on the design of pieces, artifacts, and experiences for the thesis exhibition. Includes planning and design of the exhibit. Situates the thesis contributions to design as project-based discipline. Discusses and reflects on the design process at the crossroads of methodological, systematic iteration, and creative exploration.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "ARTG", "number": "7990" }]
   },
   {
     "subject": "ARTG",
@@ -1040,7 +1236,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "32514" }],
+    "sections": [
+      { "term": "202430", "crn": "32262" },
+      { "term": "202330", "crn": "32514" }
+    ],
     "description": "Offers students support in developing and producing the written component of a design thesis that integrates and applies their accumulated knowledge. Encourages student participation within a practice and research community consisting of classmates, advisor(s), and external professionals. Restricted to students in experience design and Information design and visualization.",
     "coreqs": [],
     "prereqs": []

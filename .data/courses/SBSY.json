@@ -22,6 +22,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31753" },
+      { "term": "202430", "crn": "36232" },
       { "term": "202330", "crn": "31938" },
       { "term": "202330", "crn": "38208" }
     ],
@@ -47,12 +49,28 @@
   },
   {
     "subject": "SBSY",
+    "number": "5300",
+    "title": "Information Systems for Integrated Project Delivery",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "38883" },
+      { "term": "202430", "crn": "38884" }
+    ],
+    "description": "Focuses on new software systems for increasing efficiency of project delivery and facilitating design and construction integration through the use of BIM (Building Information Modeling) and related technologies. Exposes students to various software systems, including hands-on cases of BIM use, 4D (construction drawings linked to schedule) modeling, and 5D models (4D + cost). Covers the impact of new technology on project delivery, including owner's perspective, advantages, and disadvantages. Also covers use and background of common industry systems to apply BIM concepts to construction projects.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SBSY",
     "number": "5400",
     "title": "Sustainable Building Systems Seminar",
     "scheduleType": "Seminar",
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36233" },
       { "term": "202410", "crn": "12273" },
       { "term": "202330", "crn": "38209" },
       { "term": "202310", "crn": "12546" }
@@ -69,6 +87,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38610" },
       { "term": "202350", "crn": "53252" },
       { "term": "202330", "crn": "40723" },
       { "term": "202310", "crn": "20952" }
@@ -85,6 +104,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "38073" },
       { "term": "202410", "crn": "22521" },
       { "term": "202330", "crn": "40161" }
     ],

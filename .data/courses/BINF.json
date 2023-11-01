@@ -7,6 +7,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32299" },
+      { "term": "202430", "crn": "32301" },
+      { "term": "202430", "crn": "39519" },
+      { "term": "202430", "crn": "39520" },
+      { "term": "202430", "crn": "39521" },
+      { "term": "202430", "crn": "39522" },
       { "term": "202410", "crn": "12296" },
       { "term": "202410", "crn": "12297" },
       { "term": "202410", "crn": "14027" },
@@ -95,6 +101,13 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39523" },
+      { "term": "202430", "crn": "39524" },
+      { "term": "202430", "crn": "39525" },
+      { "term": "202430", "crn": "39526" },
+      { "term": "202430", "crn": "39527" },
+      { "term": "202430", "crn": "39528" },
+      { "term": "202430", "crn": "39529" },
       { "term": "202410", "crn": "20961" },
       { "term": "202410", "crn": "20952" },
       { "term": "202410", "crn": "20962" },
@@ -105,7 +118,11 @@
     ],
     "description": "BINF 6310 replaces BINF 6308. If you are a new (incoming) student, please register for BINF 6310.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "BINF", "number": "6200" },
+      "Or",
+      { "subject": "BINF", "number": "6200" }
+    ]
   },
   {
     "subject": "BINF",
@@ -115,6 +132,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37022" },
+      { "term": "202430", "crn": "39530" },
       { "term": "202410", "crn": "14028" },
       { "term": "202330", "crn": "39038" },
       { "term": "202310", "crn": "14650" }
@@ -122,33 +141,9 @@
     "description": "Introduces the field of genomics. With the completion of the Human Genome Project several years ago, there has been an explosion of genetic data collected. Focuses on the bioinformatics tools necessary to analyze large-scale genomic data. Covers topics such as phylogenetic trees, molecular evolution, gene expression profiling, heterogeneous genomic data, as well as next-generation sequencing (NGS) data.",
     "coreqs": [],
     "prereqs": [
-      "(",
-      "(",
-      { "subject": "BINF", "number": "6200" },
-      "Or",
-      { "subject": "BINF", "number": "6200" },
-      ")",
-      "And",
-      "(",
-      { "subject": "BINF", "number": "6310" },
-      "Or",
-      { "subject": "BINF", "number": "6310" },
-      ")",
-      ")",
-      "Or",
-      "(",
-      "(",
       { "subject": "BINF", "number": "6308" },
-      "Or",
-      { "subject": "BINF", "number": "6308" },
-      ")",
       "And",
-      "(",
-      { "subject": "BINF", "number": "6309" },
-      "Or",
-      { "subject": "BINF", "number": "6309" },
-      ")",
-      ")"
+      { "subject": "BINF", "number": "6309" }
     ]
   },
   {
@@ -159,6 +154,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39532" },
+      { "term": "202430", "crn": "39841" },
       { "term": "202410", "crn": "19981" },
       { "term": "202330", "crn": "39866" }
     ],
@@ -166,7 +163,6 @@
     "coreqs": [],
     "prereqs": [
       "(",
-      "(",
       { "subject": "BINF", "number": "6310" },
       "Or",
       { "subject": "BINF", "number": "6310" },
@@ -177,9 +173,6 @@
       "Or",
       { "subject": "BINF", "number": "6200" },
       ")",
-      ")",
-      "Or",
-      "(",
       "(",
       { "subject": "BINF", "number": "6308" },
       "Or",
@@ -190,7 +183,6 @@
       { "subject": "BINF", "number": "6309" },
       "Or",
       { "subject": "BINF", "number": "6309" },
-      ")",
       ")"
     ]
   },
@@ -245,6 +237,11 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34816" },
+      { "term": "202430", "crn": "37031" },
+      { "term": "202430", "crn": "37037" },
+      { "term": "202430", "crn": "37038" },
+      { "term": "202430", "crn": "37067" },
       { "term": "202410", "crn": "14029" },
       { "term": "202410", "crn": "14030" },
       { "term": "202350", "crn": "52734" },
@@ -301,6 +298,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32372" },
+      { "term": "202430", "crn": "37075" },
+      { "term": "202430", "crn": "39534" },
       { "term": "202410", "crn": "12837" },
       { "term": "202410", "crn": "19982" },
       { "term": "202410", "crn": "20310" },
@@ -333,6 +333,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32721" },
       { "term": "202410", "crn": "13350" },
       { "term": "202340", "crn": "42125" },
       { "term": "202350", "crn": "53336" },

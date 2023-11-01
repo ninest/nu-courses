@@ -21,7 +21,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["SI"],
-    "sections": [{ "term": "202330", "crn": "34284" }],
+    "sections": [
+      { "term": "202430", "crn": "33700" },
+      { "term": "202330", "crn": "34284" }
+    ],
     "description": "Introduces the role of law in shaping human society. Explores how laws have evolved over the past two millennia in different contexts under the influence of different religious systems and political, economic, and social theories. Studies key legal texts and analyzes legal traditions in several regions of the world. Considers how laws have affected the everyday lives of subjects, slaves, and citizens.",
     "coreqs": [],
     "prereqs": []
@@ -58,6 +61,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "36530" },
       { "term": "202410", "crn": "15724" },
       { "term": "202340", "crn": "40590" },
       { "term": "202330", "crn": "38518" },
@@ -77,6 +81,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "33701" },
       { "term": "202410", "crn": "12382" },
       { "term": "202410", "crn": "20344" },
       { "term": "202360", "crn": "61073" },
@@ -97,6 +102,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "35318" },
       { "term": "202410", "crn": "12288" },
       { "term": "202330", "crn": "36718" },
       { "term": "202310", "crn": "12567" }
@@ -127,7 +133,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "SI"],
-    "sections": [{ "term": "202310", "crn": "20161" }],
+    "sections": [
+      { "term": "202430", "crn": "38823" },
+      { "term": "202310", "crn": "20161" }
+    ],
     "description": "Surveys major themes in Latin American history from the arrival of the first human inhabitants until the present through a diversity of primary and secondary sources. Examines the social, cultural, political, and economic transformations that shaped Latin America during this period. Emphasizes how concepts of race, class, gender, and sexuality informed these changes and the people's experiences of them. Topics include migration, colonialism and postcolonialism, war and revolution, slavery and abolition, nationalism and nation building, democracy and despotism, urbanization, modernization, religion, imperialism and underdevelopment, human rights, drug policy and international relations, labor, the arts, popular culture, and the environment.",
     "coreqs": [],
     "prereqs": []
@@ -140,6 +149,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33702" },
       { "term": "202410", "crn": "11923" },
       { "term": "202410", "crn": "19675" },
       { "term": "202330", "crn": "34286" },
@@ -157,6 +167,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "33703" },
       { "term": "202410", "crn": "11628" },
       { "term": "202410", "crn": "19676" },
       { "term": "202330", "crn": "34287" },
@@ -171,11 +182,7 @@
       "Or",
       { "subject": "ENGW", "number": "1111" },
       "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1113" },
-      "Or",
-      { "subject": "ENGW", "number": "1114" }
+      { "subject": "ENGW", "number": "1102" }
     ]
   },
   {
@@ -221,7 +228,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202310", "crn": "19260" }],
+    "sections": [
+      { "term": "202430", "crn": "38824" },
+      { "term": "202310", "crn": "19260" }
+    ],
     "description": "Seeks to challenge students to understand more than the outlines of American history—Pilgrims, patriots, plantations— in the broader contexts of events that unfolded in and around the Atlantic Ocean in the Americas, Europe, and Africa. Covers Columbus's first landing in the Caribbean to the Haitian declaration of independence in 1804 and includes the Atlantic trade, piracy, slavery and other forms of labor, cultural and ecological exchange, and independence and emancipation.",
     "coreqs": [],
     "prereqs": []
@@ -234,6 +244,7 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202430", "crn": "34954" },
       { "term": "202330", "crn": "36042" },
       { "term": "202310", "crn": "19066" }
     ],
@@ -259,6 +270,18 @@
   },
   {
     "subject": "HIST",
+    "number": "1246",
+    "title": "World War II in the Pacific",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202430", "crn": "39374" }],
+    "description": "Studies World War II, the most devastating war in history, which began in Asia and had a great long-term impact there. Using historical and literary texts, examines the causes, decisive battles, and lingering significance of the conflict on both sides of the Pacific.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HIST",
     "number": "1252",
     "title": "Japanese Literature and Culture",
     "scheduleType": "Lecture",
@@ -266,6 +289,30 @@
     "nuPath": ["DD", "IC"],
     "sections": [{ "term": "202410", "crn": "19679" }],
     "description": "Explores major works of Japanese fiction and poetry in historical and cultural context. All readings are in English translation.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HIST",
+    "number": "1253",
+    "title": "History of Vietnam Wars",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "38825" }],
+    "description": "Presents a history of military conflicts on the Indochinese Peninsula from its precolonial settlement; internal developments and divisions; its stormy relationship with China; French colonization and the resistance to it; the rise of the Vietminh during World War II; the postwar struggle against the French; the impact of the cold war; and the involvement of the United States after 1950 in the creation of two Vietnams and in the conflict that engulfed it and its neighbors, Laos and Cambodia, in the decades that followed. Emphasizes the roles of nationalism and communism in the 20th-century conflicts and the motives for U.S. intervention. Films revealing the reactions of Americans to the escalating conflict are shown and evaluated.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HIST",
+    "number": "1261",
+    "title": "Global Caribbean",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40750" }],
+    "description": "Focuses on the culture and history of Caribbean societies in global perspective. Explores Caribbean creativity and resilience across English, French, and Spanish linguistic and political spheres with examples from literature, art, music, food, technology, and performance. Considers the global reach of Caribbean diasporas, highlighting the long local histories of Caribbean communities in Boston. Follows four key themes—indigeneity, blackness, diaspora, and creolization—to understand this unique point of entry for the study of race, gender, and sexuality in the Americas.",
     "coreqs": [],
     "prereqs": []
   },
@@ -303,7 +350,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202330", "crn": "39614" }],
+    "sections": [
+      { "term": "202430", "crn": "37574" },
+      { "term": "202330", "crn": "39614" }
+    ],
     "description": "Examines the political, social, and cultural history of the Arab countries of the modern Middle East, as well as Iran, Israel, and Turkey. Covers the period from the early 19th century through the late 20th century. Offers students an opportunity to obtain a basis for understanding the politics, social movements, and cultural expressions of the region in the late 20th century. Major themes include imperialism and colonialism; the creation and transformation of the modern states and their political systems since World War I; the transformation of Middle Eastern societies during this same period under the impact of colonialism, independence, regional wars, and oil; women's and labor movements; and revolutions. Uses a variety of sources including memoirs, photography, literature, and political speeches.",
     "coreqs": [],
     "prereqs": []
@@ -314,7 +364,7 @@
     "title": "History of the Jews in the Modern World",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["SI", "DD"],
+    "nuPath": ["DD", "SI"],
     "sections": [{ "term": "202330", "crn": "38522" }],
     "description": "Surveys the history of the Jews in the modern world, with an emphasis on global cultural exchange. Examines Jewish interaction with non-Jewish society from Europe to North Africa, the Middle East, the Soviet Union, Israel, and the United States; and explores this relationship’s creative and destructive consequences. Focuses on how Jewish society, culture, religious practice, and political definition changed in relation to a variety of processes now associated with modernity, such as urbanization, industrialization, state centralization, and the development of nationalism and secularism.",
     "coreqs": [],
@@ -356,6 +406,7 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202430", "crn": "38826" },
       { "term": "202360", "crn": "60684" },
       { "term": "202260", "crn": "60915" }
     ],
@@ -387,7 +438,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "SI"],
-    "sections": [{ "term": "202330", "crn": "34288" }],
+    "sections": [
+      { "term": "202430", "crn": "33704" },
+      { "term": "202330", "crn": "34288" }
+    ],
     "description": "Introduces modern Chinese history and culture through literary works, films, and historical texts. Examines political, social, and cultural changes in China since 1800: the decline of empire; the New Culture Movement of the 1920s; the rise of nationalism and rural revolution; the changing roles of women; the Cultural Revolution of the 1960s; and China's cinematic, literary, and economic engagement with the world since 1978. Taught in English and open to all undergraduates. CLTR 1500 and HIST 1500 are cross-listed.",
     "coreqs": [],
     "prereqs": []
@@ -400,6 +454,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202430", "crn": "37505" },
       { "term": "202330", "crn": "39545" },
       { "term": "202310", "crn": "13443" },
       { "term": "202310", "crn": "20424" },
@@ -443,6 +498,9 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "38827" },
+      { "term": "202430", "crn": "38828" },
+      { "term": "202430", "crn": "40664" },
       { "term": "202410", "crn": "12072" },
       { "term": "202410", "crn": "11027" },
       { "term": "202360", "crn": "60131" },
@@ -479,6 +537,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "38829" },
       { "term": "202410", "crn": "15200" },
       { "term": "202330", "crn": "34289" },
       { "term": "202310", "crn": "16455" }
@@ -526,6 +585,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30302" },
       { "term": "202410", "crn": "10441" },
       { "term": "202330", "crn": "30314" },
       { "term": "202310", "crn": "10473" }
@@ -542,6 +602,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36632" },
       { "term": "202410", "crn": "10367" },
       { "term": "202330", "crn": "38626" },
       { "term": "202310", "crn": "10393" }
@@ -597,6 +658,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "36535" },
       { "term": "202410", "crn": "13426" },
       { "term": "202360", "crn": "60931" },
       { "term": "202330", "crn": "38523" },
@@ -686,7 +748,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202310", "crn": "19263" }],
+    "sections": [
+      { "term": "202430", "crn": "39376" },
+      { "term": "202310", "crn": "19263" }
+    ],
     "description": "Introduces key concepts in the fields of gender and identity studies as they apply to world history since about 1800. Offers students an opportunity to understand the critical significance of gender, sex, sexuality, and identity to world events and how these contentious subjects influence the contemporary world. Surveys a series of major movements in geopolitics, labor, economics, culture, and society in order to analyze how individual and group identities, as well as mass assumptions about behavior and performance, have shaped these events. Gender, sex, and sexuality are integral to class discussions of work, welfare, art, culture, violence, war, and activism. HIST 2373 and WMNS 2373 are cross-listed.",
     "coreqs": [],
     "prereqs": []
@@ -698,7 +763,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19264" }],
+    "sections": [
+      { "term": "202430", "crn": "38830" },
+      { "term": "202310", "crn": "19264" }
+    ],
     "description": "Examines the history of early modern England as well as Ireland, Wales, and Scotland. Follows the development of England from a small backwater to one of the most powerful European nations by the end of the seventeenth century. Analyzes the constantly shifting relationships between the various cultural identities within Britain. Concentrates on British history not only from the perspective of the elites but also the ordinary people whose names have often been lost to history. Key themes include the growth of the British Empire, issues of gender, the interactions between England and the Celtic fringes, and participation in the political franchise.",
     "coreqs": [],
     "prereqs": []
@@ -724,6 +792,18 @@
     "nuPath": ["AD"],
     "sections": [{ "term": "202330", "crn": "38613" }],
     "description": "Integrates history of ethnic groups in Boston with methods from the digital humanities (DH) through a semester-long collaborative student project focused on one particular ethnic group. Combines learning how to use DH technology (as well as its possible misuses) with learning about the history of particular ethnic groups in Boston, such as Jews, the Irish, African-Americans, etc. Uses hands-on approaches to study ethnic migration and history to and within Boston by touring neighborhoods and sites. Examines DH technologies through workshops introducing tools such as Omeka, Story Maps, and Tableau, among other possibilities. Also examines different techniques for data visualization, relationship mapping, network analysis, and text analysis.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HIST",
+    "number": "2431",
+    "title": "Immigration and Identity in the American Jewish Experience",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202430", "crn": "39375" }],
+    "description": "Examines Jewish political, social, and cultural history from the arrival of the first group of Jews at New Amsterdam in 1654 to the present. Themes include immigration, adaptation, family life, religion, anti-Semitism, Zionism, the Holocaust, and American-Israeli relations.",
     "coreqs": [],
     "prereqs": []
   },
@@ -784,7 +864,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["ER", "SI"],
-    "sections": [{ "term": "202330", "crn": "38525" }],
+    "sections": [
+      { "term": "202430", "crn": "36537" },
+      { "term": "202330", "crn": "38525" }
+    ],
     "description": "Explores the classic historical question of whether leaders make history or history makes leaders. Some leaders are considered unquestionable successes, while others are deemed partial or abject failures. Examines how certain men and women arrived at leadership positions, considering personal charisma and historical contingency. Studies the choices leaders made in difficult situations, and analyzes leaders' successes and failures through historical notions of ethics and justice. Also examines the question of legacy, to understand why some leaders stand out (for better or worse) and other leaders recede from historical narratives. Case studies from around the world include national leaders and unsung heroes, from the early modern period through the present. Sources include historical scholarship, archive documents, and cultural renderings.",
     "coreqs": [],
     "prereqs": []
@@ -797,6 +880,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40701" },
       { "term": "202410", "crn": "20346" },
       { "term": "202410", "crn": "20347" },
       { "term": "202330", "crn": "39486" },
@@ -814,6 +898,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "38831" },
       { "term": "202410", "crn": "10442" },
       { "term": "202410", "crn": "20738" },
       { "term": "202330", "crn": "33316" },
@@ -823,7 +908,7 @@
     ],
     "description": "Offers students an opportunity to make use of advanced techniques of historical methodology to conduct original research and write a major, original research paper as the culmination of their work toward the history degree. This is a capstone research and writing seminar for history majors. Not open to students who are receiving credit for HIST 4911, HIST 4912, HIST 4970, or HIST 4971.",
     "coreqs": [],
-    "prereqs": [{ "subject": "HIST", "number": "2301" }]
+    "prereqs": []
   },
   {
     "subject": "HIST",
@@ -859,7 +944,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34290" }],
+    "sections": [
+      { "term": "202430", "crn": "33706" },
+      { "term": "202330", "crn": "34290" }
+    ],
     "description": "Continues HIST 5101. Offers an advanced exploration of the theories and methods used by historians to develop students' ability to understand and critique the work of other historians. Emphasis is on theories and methods in world history, such as comparative models, systemic approaches, and focus on interconnections. Explores what it means to have a local, national, or global perspective, and how world history fits in with other fields of historical scholarship. Required of all PhD students.",
     "coreqs": [],
     "prereqs": [
@@ -915,6 +1003,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "36538" },
       { "term": "202410", "crn": "19686" },
       { "term": "202330", "crn": "38526" }
     ],
@@ -957,7 +1046,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19266" }],
+    "sections": [
+      { "term": "202430", "crn": "38832" },
+      { "term": "202310", "crn": "19266" }
+    ],
     "description": "Focuses on one or more topics in the history of the United States. May be repeated up to two times.",
     "coreqs": [],
     "prereqs": []
@@ -970,6 +1062,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34673" },
       { "term": "202330", "crn": "35607" },
       { "term": "202310", "crn": "16573" }
     ],
@@ -1035,6 +1128,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30678" },
       { "term": "202410", "crn": "10669" },
       { "term": "202330", "crn": "30706" },
       { "term": "202310", "crn": "10733" }
@@ -1063,6 +1157,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35548" },
+      { "term": "202430", "crn": "38096" },
       { "term": "202410", "crn": "14605" },
       { "term": "202330", "crn": "37085" },
       { "term": "202330", "crn": "40184" },
@@ -1080,6 +1176,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37973" },
+      { "term": "202430", "crn": "38011" },
       { "term": "202410", "crn": "20748" },
       { "term": "202410", "crn": "20826" },
       { "term": "202410", "crn": "21176" },
@@ -1101,7 +1199,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39626" }],
+    "sections": [
+      { "term": "202430", "crn": "37586" },
+      { "term": "202330", "crn": "39626" }
+    ],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1114,6 +1215,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34992" },
       { "term": "202350", "crn": "50850" },
       { "term": "202350", "crn": "51867" },
       { "term": "202350", "crn": "51868" },
@@ -1133,6 +1235,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34993" },
       { "term": "202410", "crn": "17412" },
       { "term": "202410", "crn": "17414" },
       { "term": "202330", "crn": "36099" },
@@ -1163,6 +1266,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34110" },
+      { "term": "202430", "crn": "34109" },
+      { "term": "202430", "crn": "34111" },
       { "term": "202410", "crn": "11347" },
       { "term": "202410", "crn": "17586" },
       { "term": "202350", "crn": "50754" },

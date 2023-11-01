@@ -22,6 +22,7 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202430", "crn": "32459" },
       { "term": "202340", "crn": "40373" },
       { "term": "202340", "crn": "42051" },
       { "term": "202330", "crn": "32763" },
@@ -40,6 +41,7 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [
+      { "term": "202430", "crn": "31202" },
       { "term": "202410", "crn": "11377" },
       { "term": "202330", "crn": "31307" },
       { "term": "202310", "crn": "11555" },
@@ -59,6 +61,8 @@
     "credits": 4,
     "nuPath": ["EI", "IC"],
     "sections": [
+      { "term": "202430", "crn": "31690" },
+      { "term": "202430", "crn": "31901" },
       { "term": "202410", "crn": "15263" },
       { "term": "202410", "crn": "12018" },
       { "term": "202410", "crn": "12019" },
@@ -83,6 +87,7 @@
     "credits": 4,
     "nuPath": ["ER"],
     "sections": [
+      { "term": "202430", "crn": "39063" },
       { "term": "202410", "crn": "15264" },
       { "term": "202330", "crn": "39275" },
       { "term": "202310", "crn": "16568" }
@@ -99,6 +104,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37087" },
       { "term": "202410", "crn": "13039" },
       { "term": "202410", "crn": "17968" },
       { "term": "202330", "crn": "39103" },
@@ -118,6 +124,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "32807" },
       { "term": "202410", "crn": "13554" },
       { "term": "202330", "crn": "33169" },
       { "term": "202310", "crn": "14045" }
@@ -134,6 +141,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "32750" },
       { "term": "202410", "crn": "13040" },
       { "term": "202330", "crn": "33099" },
       { "term": "202310", "crn": "13438" }
@@ -150,6 +158,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "32460" },
       { "term": "202410", "crn": "17218" },
       { "term": "202330", "crn": "32764" },
       { "term": "202310", "crn": "19592" }
@@ -166,6 +175,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202430", "crn": "39064" },
       { "term": "202410", "crn": "17219" },
       { "term": "202310", "crn": "19593" }
     ],
@@ -208,6 +218,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "33755" },
       { "term": "202340", "crn": "40497" },
       { "term": "202330", "crn": "34353" },
       { "term": "202310", "crn": "17339" },
@@ -240,6 +251,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202430", "crn": "39065" },
       { "term": "202410", "crn": "15180" },
       { "term": "202310", "crn": "16406" }
     ],
@@ -255,6 +267,8 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "34985" },
+      { "term": "202430", "crn": "34986" },
       { "term": "202410", "crn": "13555" },
       { "term": "202410", "crn": "19580" },
       { "term": "202340", "crn": "41641" },
@@ -274,6 +288,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34987" },
       { "term": "202410", "crn": "17221" },
       { "term": "202330", "crn": "36092" },
       { "term": "202310", "crn": "19594" },
@@ -292,6 +307,7 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202430", "crn": "32890" },
       { "term": "202410", "crn": "18031" },
       { "term": "202330", "crn": "33265" },
       { "term": "202310", "crn": "20460" }
@@ -308,6 +324,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "39066" },
       { "term": "202410", "crn": "14025" },
       { "term": "202340", "crn": "41642" },
       { "term": "202340", "crn": "42070" },
@@ -333,6 +350,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202430", "crn": "39067" },
       { "term": "202410", "crn": "17222" },
       { "term": "202310", "crn": "19596" }
     ],
@@ -356,6 +374,7 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202430", "crn": "39068" },
       { "term": "202310", "crn": "19597" },
       { "term": "202240", "crn": "41422" }
     ],
@@ -371,6 +390,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "39069" },
       { "term": "202410", "crn": "17224" },
       { "term": "202310", "crn": "19598" }
     ],
@@ -410,6 +430,7 @@
     "credits": 4,
     "nuPath": ["DD", "WI"],
     "sections": [
+      { "term": "202430", "crn": "33374" },
       { "term": "202410", "crn": "19581" },
       { "term": "202330", "crn": "33848" }
     ],
@@ -424,6 +445,18 @@
       "Or",
       { "subject": "ENGW", "number": "1102" }
     ]
+  },
+  {
+    "subject": "MSCR",
+    "number": "3920",
+    "title": "Topics in Film: True Crime",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "39070" }],
+    "description": "In True Crime Media, we will analyze the narrative conventions of the true crime genre and explore the historical and cultural origins of true crime as a storytelling mode. We will explore the industry conditions that affect true crime coverage, and analyze the social and political dynamics that shape and are shaped by true crime narratives in commercial media.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "MSCR",
@@ -456,6 +489,7 @@
     "credits": 4,
     "nuPath": ["CE"],
     "sections": [
+      { "term": "202430", "crn": "31203" },
       { "term": "202410", "crn": "14265" },
       { "term": "202330", "crn": "31308" },
       { "term": "202310", "crn": "14951" }

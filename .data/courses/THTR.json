@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32801" },
       { "term": "202410", "crn": "12063" },
       { "term": "202330", "crn": "33160" },
       { "term": "202310", "crn": "12314" }
@@ -23,6 +24,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32286" },
       { "term": "202410", "crn": "12412" },
       { "term": "202330", "crn": "32538" },
       { "term": "202310", "crn": "12716" }
@@ -39,6 +41,7 @@
     "credits": 4,
     "nuPath": ["EI", "IC"],
     "sections": [
+      { "term": "202430", "crn": "30293" },
       { "term": "202410", "crn": "10305" },
       { "term": "202330", "crn": "30303" },
       { "term": "202310", "crn": "10324" },
@@ -72,6 +75,12 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "33262" },
+      { "term": "202430", "crn": "33984" },
+      { "term": "202430", "crn": "38833" },
+      { "term": "202430", "crn": "35645" },
+      { "term": "202430", "crn": "38834" },
+      { "term": "202430", "crn": "40666" },
       { "term": "202410", "crn": "11724" },
       { "term": "202410", "crn": "13443" },
       { "term": "202410", "crn": "14238" },
@@ -100,6 +109,10 @@
     "credits": 4,
     "nuPath": ["EI", "IC"],
     "sections": [
+      { "term": "202430", "crn": "30292" },
+      { "term": "202430", "crn": "30291" },
+      { "term": "202430", "crn": "31940" },
+      { "term": "202430", "crn": "35641" },
       { "term": "202410", "crn": "10213" },
       { "term": "202410", "crn": "11087" },
       { "term": "202410", "crn": "16339" },
@@ -129,6 +142,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "31776" },
       { "term": "202410", "crn": "13444" },
       { "term": "202330", "crn": "31978" },
       { "term": "202330", "crn": "39316" },
@@ -189,6 +203,8 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202430", "crn": "36191" },
+      { "term": "202430", "crn": "36192" },
       { "term": "202410", "crn": "16340" },
       { "term": "202330", "crn": "38158" },
       { "term": "202330", "crn": "38159" },
@@ -217,8 +233,23 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202310", "crn": "18673" }],
+    "sections": [
+      { "term": "202430", "crn": "38835" },
+      { "term": "202310", "crn": "18673" }
+    ],
     "description": "Examines race, power, and privilege in global and national contexts by analyzing plays and theatrical performances as spaces of cultural representation. Analyzes performance as a communicative process for understanding and constituting identity. Students explore how they perform their own lives and racial identities and apply those theories to contemporary drama and performance texts that are read, watched, and created.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "THTR",
+    "number": "1230",
+    "title": "The Evolution of Fashion and Costume",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["IC"],
+    "sections": [{ "term": "202430", "crn": "38836" }],
+    "description": "Traces the evolution of fashion and costume as a global cultural phenomenon. Focuses on the history and meaning of clothing design and the development of style using a non-chronological approach. Fashion does not occur only in Western capitals; it has existed for centuries in every region of the world. Clothing has been used to protect our bodies, establish relationships with others, indicate our status, and express our identities. Through readings, discussions, research, writings, and presentations, offers an opportunity to discover the extraordinary power of fashion and clothing.",
     "coreqs": [],
     "prereqs": []
   },
@@ -242,6 +273,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35299" },
       { "term": "202410", "crn": "13635" },
       { "term": "202330", "crn": "36684" },
       { "term": "202310", "crn": "14144" }
@@ -258,6 +290,7 @@
     "credits": 4,
     "nuPath": ["EI", "IC"],
     "sections": [
+      { "term": "202430", "crn": "32550" },
       { "term": "202410", "crn": "10210" },
       { "term": "202330", "crn": "32865" },
       { "term": "202310", "crn": "10220" },
@@ -286,7 +319,10 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": ["EI"],
-    "sections": [{ "term": "202330", "crn": "35636" }],
+    "sections": [
+      { "term": "202430", "crn": "34692" },
+      { "term": "202330", "crn": "35636" }
+    ],
     "description": "Develops an ensemble-based musical theatre showcase. Studies character development, movement and staging, acting, \"acting a song\" technique, and theatre terminology. Offers students an opportunity to work as directors and choreographers. Solo singing and prior experience are welcome but not required. Sessions consist of lectures; discussions; viewings; and, most importantly, studio work.",
     "coreqs": [],
     "prereqs": []
@@ -311,6 +347,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32287" },
       { "term": "202410", "crn": "12483" },
       { "term": "202330", "crn": "32539" },
       { "term": "202310", "crn": "12795" }
@@ -339,6 +376,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39789" },
       { "term": "202340", "crn": "41067" },
       { "term": "202340", "crn": "42177" },
       { "term": "202330", "crn": "32866" },
@@ -393,7 +431,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI", "IC"],
-    "sections": [{ "term": "202330", "crn": "31977" }],
+    "sections": [
+      { "term": "202430", "crn": "31775" },
+      { "term": "202330", "crn": "31977" }
+    ],
     "description": "Offers a collaborative workshop environment for developing dialogue, scenes, and one-act plays. Analyzes the dramatic techniques of modern masters as well as acclaimed contemporary playwrights. Culminates in the development of original one-act plays and a presentation of workshop scripts by professional actors.",
     "coreqs": [],
     "prereqs": []
@@ -445,6 +486,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32433" },
       { "term": "202410", "crn": "12292" },
       { "term": "202330", "crn": "32709" },
       { "term": "202310", "crn": "12572" }
@@ -477,6 +519,7 @@
     "credits": 4,
     "nuPath": ["EI", "FQ"],
     "sections": [
+      { "term": "202430", "crn": "34693" },
       { "term": "202410", "crn": "16343" },
       { "term": "202410", "crn": "19488" },
       { "term": "202340", "crn": "41068" },
@@ -508,6 +551,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "37013" },
       { "term": "202340", "crn": "41960" },
       { "term": "202330", "crn": "39027" },
       { "term": "202310", "crn": "18676" }
@@ -515,6 +559,46 @@
     "description": "This class will meet in EL 131B.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "THTR",
+    "number": "2400",
+    "title": "Scenic Design",
+    "scheduleType": "Studio",
+    "credits": 4,
+    "nuPath": ["EI"],
+    "sections": [{ "term": "202430", "crn": "38837" }],
+    "description": "Introduces the theory and practice of theatrical design and the role of the designer in the production process. Through project work, examines the use of graphics tools&#8212;line, form, balance, color, rhythm, and so on&#8212;in the development of the design idea. Emphasizes understanding and utilizing spatial relationships; visually expressing conceptual themes; and understanding the various uses, problems, and practical considerations of proscenium, thrust, and arena staging.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "THTR", "number": "1270" }]
+  },
+  {
+    "subject": "THTR",
+    "number": "2500",
+    "title": "Breaking the Glass Ceiling: Women in Theatre",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "IC"],
+    "sections": [{ "term": "202430", "crn": "38838" }],
+    "description": "Surveys a wide range of dramatic forms, gender theories, and distinct theatrical techniques used by women artists to reveal larger social issues and encourage activism. Examines how the plays' sociocultural contexts represent female playwrights' diverse views of identity as well as their cultural, ethnic, racial, and geographical experiences. Identifies how women as artistic leaders are perceived and received by society and the industry. Analyzes why the issue of gender equity in theatre remains unresolved. THTR 2500 and WMNS 2501 are cross-listed.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "THTR",
+    "number": "2600",
+    "title": "Voice and Speech Training",
+    "scheduleType": "Studio",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "36197" }],
+    "description": "Offers students an opportunity to develop the skills to enhance the quality of the spoken voice —the clarity and vitality with which actors express themselves on the stage. Follows the pedagogy known as “Freeing the Natural Voice,” developed by Kristin Linklater. Includes learning and applying the International Phonetic Alphabet as a tool to clarify speech sounds.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "THTR", "number": "1120" },
+      "And",
+      { "subject": "THTR", "number": "2342" }
+    ]
   },
   {
     "subject": "THTR",
@@ -644,6 +728,7 @@
     "credits": 1,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "33985" },
       { "term": "202410", "crn": "14429" },
       { "term": "202330", "crn": "34625" },
       { "term": "202310", "crn": "15178" }
@@ -654,18 +739,48 @@
   },
   {
     "subject": "THTR",
+    "number": "4345",
+    "title": "Advanced Acting for the Camera",
+    "scheduleType": "Studio",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "38840" }],
+    "description": "Offers students an opportunity to explore how to become an actor-entrepreneur—a reflective, resourceful, and resilient professional who can express a well-defined type that is received by industry professionals as humanized and effective. Requires actors to continually reflect on the course material through individual written assignments and performances. Identifying and marketing an industry type prior to a showcase includes developing a deep understanding of acting for the camera methods, applying industry standards of professional readiness, and constructing a set of core beliefs that inform the actor’s choices and marketing strategies. The final project, a showcase for industry professionals, serves as an opportunity for actors to demonstrate their mastery of course material.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "THTR", "number": "2345" }]
+  },
+  {
+    "subject": "THTR",
     "number": "4702",
     "title": "Capstone: Creative Practice Research Project",
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202430", "crn": "30019" },
+      { "term": "202430", "crn": "40695" },
       { "term": "202330", "crn": "30021" },
       { "term": "202310", "crn": "21114" }
     ],
     "description": "Offers students an opportunity to conduct creative practice research, which is comprised of two components: the research, preparation, and execution of a substantial position of responsibility for a departmental production or a special creative practice project, under the supervision of a faculty member. Students write a capstone thesis paper, developing an original argument on a focused topic adjacent to their creative practice project. Students synthesize academic and experiential education through the paper, which requires research and analysis of focused evidence to make an original contribution to the current scholarly and/or professional conversation on their chosen topic.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "THTR",
+    "number": "5450",
+    "title": "Acting 3",
+    "scheduleType": "Studio",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "38842" }],
+    "description": "Offers advanced acting training by exploring a variety of approaches useful in bringing the heightened dramatic texts alive on stage. Demands a free and efficient actor instrument: body, intellect, voice, and imagination simultaneously engaged and able to be compellingly present, and impeccable listening skills. Expects a significant amount of preparation, practice, and rehearsal outside the studio. Requires prior completion of basic acting training.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "THTR", "number": "2342" },
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "THTR",
