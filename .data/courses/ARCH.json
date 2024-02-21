@@ -43,11 +43,11 @@
     "credits": 6,
     "nuPath": ["EI", "ND"],
     "sections": [
+      { "term": "202440", "crn": "41195" },
       { "term": "202430", "crn": "30381" },
       { "term": "202430", "crn": "30380" },
       { "term": "202430", "crn": "30379" },
       { "term": "202430", "crn": "32814" },
-      { "term": "202430", "crn": "32947" },
       { "term": "202410", "crn": "17129" },
       { "term": "202410", "crn": "17130" },
       { "term": "202410", "crn": "17131" },
@@ -79,12 +79,12 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202460", "crn": "60810" },
+      { "term": "202440", "crn": "40708" },
       { "term": "202430", "crn": "31145" },
       { "term": "202430", "crn": "33450" },
-      { "term": "202430", "crn": "34101" },
       { "term": "202430", "crn": "35098" },
       { "term": "202430", "crn": "38077" },
-      { "term": "202430", "crn": "38160" },
       { "term": "202410", "crn": "10310" },
       { "term": "202410", "crn": "10309" },
       { "term": "202410", "crn": "18145" },
@@ -169,6 +169,7 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61029" },
       { "term": "202430", "crn": "36852" },
       { "term": "202430", "crn": "36853" },
       { "term": "202430", "crn": "36854" },
@@ -210,7 +211,6 @@
     "sections": [
       { "term": "202430", "crn": "30378" },
       { "term": "202430", "crn": "30377" },
-      { "term": "202430", "crn": "30076" },
       { "term": "202410", "crn": "20095" },
       { "term": "202410", "crn": "20096" },
       { "term": "202410", "crn": "20097" },
@@ -227,7 +227,7 @@
     ],
     "description": "Studies how to analyze, model, and intervene in the city. Offers students an opportunity to engage in urban analysis, urban massing strategies, and architectural design of urban institutions.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ARCH", "number": "2130" }]
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -255,13 +255,7 @@
     ],
     "description": "Introduces construction techniques and precise material realization of buildings as an integral part of architectural design thinking and processes. Uses historical and contemporary architectural precedents to explore the spatial and tectonic interrelationships of the primary constructional systems of wood, masonry, concrete, and steel. Uses a diverse mixture of student learning methods, including in-class lectures and student exercises; group discussions and guest lectures; textbook reading; and the production of construction models, drawings, and diagrams.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ARCH", "number": "1110" },
-      "Or",
-      { "subject": "ARCH", "number": "2260" },
-      "Or",
-      { "subject": "ARCH", "number": "6100" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -362,6 +356,18 @@
   },
   {
     "subject": "ARCH",
+    "number": "2335",
+    "title": "Architecture and Politics",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["IC", "WI"],
+    "sections": [{ "term": "202430", "crn": "40868" }],
+    "description": "Draws on examples from the late 19th century to the present to study how governments have sought to use buildings and public spaces to advance political ideals. Considers a range of building projects (public buildings, housing, public spaces, infrastructure) advanced by liberal democracies as well as those designed for authoritarian regimes. Focuses on individual projects and the political circumstances tied to their making. Also considers the afterlife of projects associated with discredited regimes—especially those of Nazi Germany and Fascist Italy—as well as the ways in which private individuals, corporations, and other agencies have worked in tandem or in opposition to official narratives.Theoretical and critical texts that explore the dynamic between physical environment and political power help frame class discussion at key moments.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ARCH",
     "number": "2340",
     "title": "Modern Architecture (HON)",
     "scheduleType": "Lecture",
@@ -402,7 +408,6 @@
       { "term": "202430", "crn": "33278" },
       { "term": "202430", "crn": "33279" },
       { "term": "202430", "crn": "36842" },
-      { "term": "202430", "crn": "36843" },
       { "term": "202430", "crn": "36844" },
       { "term": "202430", "crn": "39403" },
       { "term": "202330", "crn": "33727" },
@@ -452,10 +457,9 @@
     "credits": 4,
     "nuPath": ["WI", "SI"],
     "sections": [
+      { "term": "202440", "crn": "41196" },
       { "term": "202430", "crn": "35101" },
       { "term": "202430", "crn": "33837" },
-      { "term": "202430", "crn": "33838" },
-      { "term": "202430", "crn": "39795" },
       { "term": "202430", "crn": "37228" },
       { "term": "202410", "crn": "15224" },
       { "term": "202410", "crn": "15225" },
@@ -514,11 +518,7 @@
     ],
     "description": "Explores the interaction of environmental, physical, and energy systems in architecture. Offers students an opportunity to learn the fundamentals of building science as design opportunities to create particular conditions of light and shadow; provide shelter from heat, cold, and rain; and incorporate systems that provide for water, electricity, and sanitation. Course revolves around a series of workshops, labs, and design exercises.",
     "coreqs": [{ "subject": "ARCH", "number": "3211" }],
-    "prereqs": [
-      { "subject": "ARCH", "number": "2240" },
-      "Or",
-      { "subject": "CIVE", "number": "2260" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -555,6 +555,7 @@
     "sections": [
       { "term": "202430", "crn": "35513" },
       { "term": "202430", "crn": "36848" },
+      { "term": "202430", "crn": "41196" },
       { "term": "202410", "crn": "12025" },
       { "term": "202330", "crn": "37022" },
       { "term": "202330", "crn": "38852" },
@@ -573,6 +574,7 @@
     "credits": 4,
     "nuPath": ["AD", "ND"],
     "sections": [
+      { "term": "202440", "crn": "42003" },
       { "term": "202430", "crn": "31546" },
       { "term": "202430", "crn": "32005" },
       { "term": "202410", "crn": "20088" },
@@ -768,25 +770,7 @@
     ],
     "description": "Introduces the fundamental concepts of structural analysis and design for architecture. Examines the nature of forces and their effects on different types of structural elements; the structural properties of shapes and materials; and the selection, analysis, and design of efficient structural systems that resist the loads acting upon them. Uses historical and contemporary examples to illustrate how the changing context of architectural ideas drives structural form and the selection of structural systems. Includes field trips and student presentations of structural models and diagrams. Restricted to students in the architecture BS program and to students in the three-year MArch program.",
     "coreqs": [{ "subject": "ARCH", "number": "5231" }],
-    "prereqs": [
-      "(",
-      "(",
-      { "subject": "PHYS", "number": "1151" },
-      "Or",
-      { "subject": "PHYS", "number": "1141" },
-      ")",
-      "And",
-      "(",
-      { "subject": "MATH", "number": "1341" },
-      "Or",
-      { "subject": "MATH", "number": "1241" },
-      ")",
-      "And",
-      { "subject": "ARCH", "number": "2240" },
-      ")",
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "ARCH",
@@ -890,6 +874,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40993" },
       { "term": "202410", "crn": "10781" },
       { "term": "202410", "crn": "20093" },
       { "term": "202410", "crn": "20094" },

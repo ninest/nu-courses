@@ -55,8 +55,8 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202440", "crn": "40853" },
       { "term": "202430", "crn": "34772" },
-      { "term": "202430", "crn": "34773" },
       { "term": "202430", "crn": "38807" },
       { "term": "202410", "crn": "14934" },
       { "term": "202410", "crn": "14935" },
@@ -107,6 +107,7 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [
+      { "term": "202460", "crn": "61047" },
       { "term": "202430", "crn": "33830" },
       { "term": "202410", "crn": "16657" },
       { "term": "202360", "crn": "61377" },
@@ -274,6 +275,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61048" },
       { "term": "202430", "crn": "36635" },
       { "term": "202410", "crn": "16659" },
       { "term": "202360", "crn": "61378" },
@@ -308,6 +310,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61494" },
+      { "term": "202440", "crn": "41563" },
       { "term": "202430", "crn": "34777" },
       { "term": "202430", "crn": "36636" },
       { "term": "202430", "crn": "38812" },
@@ -400,6 +404,7 @@
     "credits": 4,
     "nuPath": ["AD", "WI"],
     "sections": [
+      { "term": "202440", "crn": "41217" },
       { "term": "202430", "crn": "30216" },
       { "term": "202430", "crn": "38814" },
       { "term": "202410", "crn": "13723" },
@@ -444,7 +449,7 @@
     ],
     "description": "Continues CRIM 3000. Builds upon what students learned in CRIM 3600 and focuses on experiences and research journals from the second co-op. Students discuss their research activities and findings, and begin to do some critical thinking about the nature of organizations. The discussion in this seminar also prepares them for the third co-op experience, in which they keep journals on some other aspect of organizational culture or dynamics. The seminar is pass/fail.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CRIM", "number": "3000" }]
+    "prereqs": []
   },
   {
     "subject": "CRIM",
@@ -471,6 +476,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41218" },
       { "term": "202430", "crn": "38815" },
       { "term": "202340", "crn": "41729" },
       { "term": "202310", "crn": "14697" }
@@ -516,6 +522,8 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202460", "crn": "61049" },
+      { "term": "202440", "crn": "41219" },
       { "term": "202430", "crn": "38269" },
       { "term": "202410", "crn": "13000" },
       { "term": "202360", "crn": "61379" },
@@ -536,6 +544,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202440", "crn": "41220" },
       { "term": "202430", "crn": "34169" },
       { "term": "202340", "crn": "41731" },
       { "term": "202330", "crn": "34863" }
@@ -594,6 +603,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41971" },
       { "term": "202410", "crn": "16662" },
       { "term": "202310", "crn": "19001" }
     ],
@@ -621,6 +631,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61495" },
       { "term": "202410", "crn": "14065" },
       { "term": "202410", "crn": "19500" },
       { "term": "202310", "crn": "14698" },
@@ -718,9 +729,11 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61437" },
+      { "term": "202460", "crn": "60695" },
+      { "term": "202440", "crn": "40808" },
       { "term": "202430", "crn": "34305" },
       { "term": "202430", "crn": "34414" },
-      { "term": "202430", "crn": "38819" },
       { "term": "202410", "crn": "13227" },
       { "term": "202360", "crn": "61783" },
       { "term": "202360", "crn": "60799" },
@@ -741,7 +754,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202440", "crn": "40589" }],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -754,6 +767,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41221" },
       { "term": "202410", "crn": "22248" },
       { "term": "202340", "crn": "41732" }
     ],
@@ -874,9 +888,15 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "37650" },
+      { "term": "202460", "crn": "61446" },
       { "term": "202430", "crn": "37741" },
-      { "term": "202430", "crn": "37770" },
+      { "term": "202430", "crn": "40975" },
+      { "term": "202430", "crn": "41091" },
+      { "term": "202430", "crn": "41274" },
+      { "term": "202430", "crn": "41461" },
+      { "term": "202430", "crn": "41563" },
+      { "term": "202430", "crn": "41809" },
+      { "term": "202430", "crn": "41812" },
       { "term": "202410", "crn": "18948" },
       { "term": "202410", "crn": "21253" },
       { "term": "202410", "crn": "21637" },
@@ -938,14 +958,11 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "33611" },
-      { "term": "202430", "crn": "38820" },
       { "term": "202430", "crn": "34174" },
       { "term": "202430", "crn": "34173" },
-      { "term": "202430", "crn": "34184" },
       { "term": "202430", "crn": "34177" },
-      { "term": "202430", "crn": "34176" },
       { "term": "202430", "crn": "34179" },
+      { "term": "202430", "crn": "41221" },
       { "term": "202410", "crn": "11431" },
       { "term": "202410", "crn": "11432" },
       { "term": "202410", "crn": "18239" },
@@ -984,8 +1001,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "33030" },
-      { "term": "202430", "crn": "38821" },
       { "term": "202410", "crn": "14682" },
       { "term": "202410", "crn": "21592" },
       { "term": "202330", "crn": "33430" },
@@ -1005,9 +1020,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34185" },
-      { "term": "202430", "crn": "34186" },
-      { "term": "202430", "crn": "34188" },
+      { "term": "202430", "crn": "41199" },
+      { "term": "202430", "crn": "41202" },
       { "term": "202410", "crn": "21589" },
       { "term": "202330", "crn": "34883" },
       { "term": "202330", "crn": "34884" },
@@ -1026,13 +1040,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "32071" },
       { "term": "202430", "crn": "33033" },
-      { "term": "202430", "crn": "33038" },
       { "term": "202430", "crn": "32370" },
       { "term": "202430", "crn": "32423" },
-      { "term": "202430", "crn": "37355" },
-      { "term": "202430", "crn": "38822" },
       { "term": "202410", "crn": "13732" },
       { "term": "202410", "crn": "11433" },
       { "term": "202410", "crn": "14748" },
@@ -1056,10 +1066,6 @@
     ],
     "description": "Offers continued thesis work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CRIM", "number": "9991" },
-      "Or",
-      "Dissertation Check"
-    ]
+    "prereqs": []
   }
 ]

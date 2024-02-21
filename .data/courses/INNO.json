@@ -24,6 +24,14 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202460", "crn": "61600" },
+      { "term": "202460", "crn": "61601" },
+      { "term": "202460", "crn": "61602" },
+      { "term": "202460", "crn": "61612" },
+      { "term": "202440", "crn": "41859" },
+      { "term": "202440", "crn": "41860" },
+      { "term": "202440", "crn": "41953" },
+      { "term": "202440", "crn": "41956" },
       { "term": "202430", "crn": "39009" },
       { "term": "202430", "crn": "39010" },
       { "term": "202430", "crn": "39011" },
@@ -37,6 +45,8 @@
       { "term": "202430", "crn": "39784" },
       { "term": "202430", "crn": "40484" },
       { "term": "202430", "crn": "40672" },
+      { "term": "202430", "crn": "40780" },
+      { "term": "202430", "crn": "40781" },
       { "term": "202410", "crn": "19521" },
       { "term": "202410", "crn": "19522" },
       { "term": "202410", "crn": "19523" },
@@ -66,7 +76,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "40485" },
       { "term": "202410", "crn": "20114" },
       { "term": "202410", "crn": "20395" }
     ],
@@ -170,6 +179,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61661" },
       { "term": "202430", "crn": "39022" },
       { "term": "202430", "crn": "39023" },
       { "term": "202410", "crn": "19886" },
@@ -215,7 +225,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "22124" }],
+    "sections": [
+      { "term": "202460", "crn": "61667" },
+      { "term": "202410", "crn": "22124" }
+    ],
     "description": "Examines how the global economy is being transformed by digital and information technologies. Companies increasingly use these technologies to develop and deliver products and services, interact with customers and stakeholders, operate their businesses more efficiently, and disrupt traditional business models with innovative digital solutions. Analyzes how digital technologies offer established companies opportunities to reduce costs, operate more quickly, and offer customers codesign and coproduction options. Studies how firms adapt to new conditions by adopting information technology and the barriers to entry inherent in every organization.",
     "coreqs": [],
     "prereqs": []
@@ -251,7 +264,7 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "40507" }],
+    "sections": [],
     "description": "Emphasizes the importance of how to market and sell new products or services, both for internal and external applications. Offers students an opportunity to acquire a comprehensive understanding of how to design strategic revenue strategies that focus on how value is determined and revenues are matched against expense investments. Guides students to explore the challenges and solutions to implementing new innovation processes that leverage digital technologies and collaborative cultures. Includes a mix of research topics, cases, and hands-on learning.",
     "coreqs": [],
     "prereqs": [{ "subject": "INNO", "number": "6240" }]
@@ -270,12 +283,25 @@
   },
   {
     "subject": "INNO",
+    "number": "6300",
+    "title": "Managing a Technology-Based Business",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202440", "crn": "42076" }],
+    "description": "Covers topics specific to managing a business or a strategic business unit within a firm. Considers the special issues related to technology-based firms. Topics include creating a culture, operations planning, staffing for technical excellence, dealing with technology vendors, dealing with advisers, supply chain management, and writing operations plans. Open to first-year graduate students.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INNO",
     "number": "6318",
     "title": "Innovation Driven Strategy",
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61067" },
       { "term": "202410", "crn": "21481" },
       { "term": "202410", "crn": "21482" },
       { "term": "202410", "crn": "21483" },

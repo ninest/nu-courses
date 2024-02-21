@@ -25,6 +25,30 @@
   },
   {
     "subject": "MSCI",
+    "number": "5003",
+    "title": "Humanitarian Aid Practice and Principles",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41158" }],
+    "description": "Explores the principles and concepts of the provision of humanitarian aid. Reviews the context of humanitarian crises, using a case-based approach. Covers international organizational structures and NGOs, as well as methods of deployment, communication, and longitudinal follow-through. Explores safety issues and the ethics of humanitarian and disaster response.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MSCI",
+    "number": "5004",
+    "title": "Humanitarian and Disaster Response Ethics",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41159" }],
+    "description": "Explores the principles that govern disaster and humanitarian response. Examines the basic tenets of ethics, as well as overarching theories and principles. Utilizes a case-based approach to build on ethical issues that have emerged in humanitarian and disaster response, including medical tourism, lack of longitudinal care, and human trafficking.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MSCI",
     "number": "6001",
     "title": "Principles of Healthcare Advocacy",
     "scheduleType": "Lecture",
@@ -45,7 +69,12 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202360", "crn": "61543" }],
+    "sections": [
+      { "term": "202440", "crn": "41970" },
+      { "term": "202440", "crn": "41972" },
+      { "term": "202440", "crn": "41973" },
+      { "term": "202360", "crn": "61543" }
+    ],
     "description": "Introduces fundamentals of metrics and analysis surrounding productivity, outcomes, competencies, and retention in a healthcare workforce. Emphasizes applied methodology. Examines dashboard anatomy, metric categories, dashboard analysis, the clinical competency-dashboard relationship, and special considerations for healthcare metric tracking.",
     "coreqs": [],
     "prereqs": []
@@ -90,6 +119,18 @@
     "sections": [{ "term": "202360", "crn": "61529" }],
     "description": "Offers students an opportunity to successfully develop and complete the Doctor of Medical Science thesis. The thesis project focuses on healthcare-related research, leadership issues, policy development, management, service delivery, or evaluation.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MSCI", "number": "6900" }]
+    "prereqs": []
+  },
+  {
+    "subject": "MSCI",
+    "number": "7996",
+    "title": "Thesis Continuation - Half-Time",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40938" }],
+    "description": "Offers continuing thesis supervision by members of the department.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "MSCI", "number": "7990" }]
   }
 ]

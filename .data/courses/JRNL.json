@@ -29,6 +29,7 @@
       { "term": "202430", "crn": "30465" },
       { "term": "202430", "crn": "34671" },
       { "term": "202430", "crn": "37863" },
+      { "term": "202430", "crn": "41212" },
       { "term": "202410", "crn": "10413" },
       { "term": "202410", "crn": "14055" },
       { "term": "202330", "crn": "30346" },
@@ -57,6 +58,7 @@
       { "term": "202430", "crn": "35133" },
       { "term": "202430", "crn": "35619" },
       { "term": "202430", "crn": "37852" },
+      { "term": "202430", "crn": "41213" },
       { "term": "202410", "crn": "13133" },
       { "term": "202410", "crn": "13134" },
       { "term": "202410", "crn": "13164" },
@@ -82,6 +84,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202440", "crn": "41504" },
       { "term": "202430", "crn": "30331" },
       { "term": "202430", "crn": "30936" },
       { "term": "202410", "crn": "10412" },
@@ -188,6 +191,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202460", "crn": "60468" },
       { "term": "202430", "crn": "30332" },
       { "term": "202430", "crn": "39272" },
       { "term": "202410", "crn": "10260" },
@@ -198,15 +202,7 @@
     ],
     "description": "Continues JRNL 2201. Covers basic principles of journalistic storytelling with video, sound, and still images. Introduces students to the foundations of writing with audio and video, and explores the concept of “convergence,” preparing stories for presentation in different formats. Fulfills the Advanced Writing in the Disciplines requirement for journalism majors.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "JRNL",
@@ -240,7 +236,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI"],
-    "sections": [{ "term": "202360", "crn": "61521" }],
+    "sections": [
+      { "term": "202440", "crn": "41802" },
+      { "term": "202360", "crn": "61521" }
+    ],
     "description": "Explores the future of sports journalism, in particular how sports, society, and innovations in digital storytelling come together to stimulate important conversations around issues such as gender, race, class, and equity. Focuses on preparing students to research, formulate, and pitch stories to local and national media. Serves as a digital laboratory for class work, offering students experiential knowledge through direct practice. Issues of ethics, source diversity, audience engagement, and story construction decision-making will be central to the course.",
     "coreqs": [],
     "prereqs": []
@@ -426,7 +425,7 @@
     "title": "Data Storytelling",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["AD"],
+    "nuPath": ["AD", "EX"],
     "sections": [{ "term": "202430", "crn": "39276" }],
     "description": "Explores select topics in data journalism and supports data-driven storytelling projects of various kinds. Course units foster moderate technical learning of applications and software; incorporate theories from relevant fields in data visualization and data science; and emphasize storytelling for broad public audiences. Seeks to foster knowledge of both the classic and cutting-edge forms for telling stories with data. Offers students an opportunity to obtain a sense of rigor in analyzing and using data and statistics and to build knowledge of a variety of tools to clean, analyze, and visualize data. Journalists are becoming more sophisticated in their approaches to quantitative information, drawing on the growing amount of open data sets and using software and techniques borrowed from the social sciences and data science.",
     "coreqs": [],
@@ -479,7 +478,7 @@
     "title": "Photojournalism",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": ["ER", "EI"],
+    "nuPath": ["EI", "ER"],
     "sections": [
       { "term": "202410", "crn": "20471" },
       { "term": "202330", "crn": "38710" },
@@ -660,7 +659,7 @@
     ],
     "description": "Builds on skills and concepts covered in JRNL 6200. Covers a variety of Web-based and traditional resources. Employs computer-assisted reporting methodologies to assist students in investigating areas such as government corruption, safety and environmental risks, criminal justice, education, healthcare, real estate, campaign financing, and business and financial transactions. Offers students an opportunity to learn how to access public databases, to reference materials, and to analyze the information.",
     "coreqs": [],
-    "prereqs": [{ "subject": "JRNL", "number": "6200" }]
+    "prereqs": []
   },
   {
     "subject": "JRNL",
@@ -684,7 +683,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "39279" }],
+    "sections": [],
     "description": "Acquaints students with legal issues journalists encounter from the common law of libel to communicating on the Internet; from prior restraint to protecting sources. Also serves as an introduction to legal analysis, showing how law develops through statutes and judicial opinions.",
     "coreqs": [],
     "prereqs": []
@@ -697,6 +696,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41803" },
       { "term": "202430", "crn": "36527" },
       { "term": "202430", "crn": "36528" },
       { "term": "202430", "crn": "37074" },
@@ -817,10 +817,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "38659" },
-      { "term": "202330", "crn": "40776" }
-    ],
+    "sections": [{ "term": "202330", "crn": "40776" }],
     "description": "Provides eligible students with an opportunity for practical experience. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -833,9 +830,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38018" },
       { "term": "202430", "crn": "38406" },
-      { "term": "202430", "crn": "38743" },
+      { "term": "202430", "crn": "41462" },
       { "term": "202330", "crn": "40104" },
       { "term": "202330", "crn": "40512" },
       { "term": "202330", "crn": "40863" },

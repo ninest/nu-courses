@@ -64,10 +64,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EX", "WI"],
-    "sections": [
-      { "term": "202430", "crn": "35441" },
-      { "term": "202330", "crn": "36897" }
-    ],
+    "sections": [{ "term": "202330", "crn": "36897" }],
     "description": "Builds on RSSN 2101 and focuses on further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through written composition, prepared oral reports, and reading and discussion from contemporary Russian materials.",
     "coreqs": [],
     "prereqs": [
@@ -110,10 +107,6 @@
     ],
     "description": "Builds on RSSN 3101 and continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "RSSN", "number": "3101" },
-      "Or",
-      { "subject": "RSSN", "number": "3301" }
-    ]
+    "prereqs": []
   }
 ]

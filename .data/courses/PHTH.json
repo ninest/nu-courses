@@ -7,6 +7,9 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202460", "crn": "60493" },
+      { "term": "202440", "crn": "40893" },
+      { "term": "202440", "crn": "40894" },
       { "term": "202430", "crn": "30940" },
       { "term": "202430", "crn": "33710" },
       { "term": "202430", "crn": "39212" },
@@ -50,6 +53,8 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202460", "crn": "60609" },
+      { "term": "202440", "crn": "40895" },
       { "term": "202430", "crn": "31961" },
       { "term": "202430", "crn": "34865" },
       { "term": "202430", "crn": "34866" },
@@ -102,12 +107,8 @@
     "sections": [
       { "term": "202430", "crn": "34867" },
       { "term": "202430", "crn": "34868" },
-      { "term": "202430", "crn": "34869" },
       { "term": "202430", "crn": "34870" },
-      { "term": "202430", "crn": "36447" },
-      { "term": "202430", "crn": "36448" },
       { "term": "202430", "crn": "36449" },
-      { "term": "202430", "crn": "36450" },
       { "term": "202410", "crn": "15322" },
       { "term": "202410", "crn": "15323" },
       { "term": "202410", "crn": "15324" },
@@ -142,6 +143,10 @@
     "credits": 4,
     "nuPath": ["DD", "EI"],
     "sections": [
+      { "term": "202460", "crn": "60765" },
+      { "term": "202460", "crn": "61598" },
+      { "term": "202440", "crn": "40896" },
+      { "term": "202440", "crn": "40898" },
       { "term": "202430", "crn": "31211" },
       { "term": "202430", "crn": "31389" },
       { "term": "202430", "crn": "31948" },
@@ -188,6 +193,11 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202460", "crn": "60565" },
+      { "term": "202460", "crn": "60766" },
+      { "term": "202440", "crn": "41424" },
+      { "term": "202440", "crn": "42028" },
+      { "term": "202440", "crn": "41176" },
       { "term": "202430", "crn": "30011" },
       { "term": "202430", "crn": "32473" },
       { "term": "202430", "crn": "33712" },
@@ -196,6 +206,7 @@
       { "term": "202430", "crn": "34874" },
       { "term": "202430", "crn": "39223" },
       { "term": "202430", "crn": "40673" },
+      { "term": "202430", "crn": "40778" },
       { "term": "202410", "crn": "12662" },
       { "term": "202410", "crn": "15110" },
       { "term": "202410", "crn": "15273" },
@@ -238,7 +249,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "33306" },
       { "term": "202410", "crn": "19623" },
       { "term": "202330", "crn": "33759" }
     ],
@@ -254,6 +264,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60768" },
+      { "term": "202460", "crn": "60769" },
+      { "term": "202440", "crn": "40899" },
+      { "term": "202440", "crn": "41177" },
       { "term": "202430", "crn": "32741" },
       { "term": "202430", "crn": "32742" },
       { "term": "202430", "crn": "33716" },
@@ -302,7 +316,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["SI"],
-    "sections": [{ "term": "202430", "crn": "39227" }],
+    "sections": [],
     "description": "Addresses current issues in rural health. Maine, one of the nation’s most rural states, is the primary case example. Highlights interdisciplinary approaches to identifying priority health concerns, addressing root causes of diseases and poor health and developing sustainable policy and programmatic interventions for improving health outcomes of individuals, families, and communities in rural areas. Reviews models of rural healthcare delivery, rural public health systems and practices, rural public policy and health reform, the role of health technologies in rural practice, and health disparities among vulnerable rural populations (including but not limited to immigrants, migrant workers, older people, people living with disabilities, LGBTQIA+ persons, and indigenous/first peoples). Critically analyzes the complex contextual factors that must be addressed to sustainably improve health outcomes in rural settings.",
     "coreqs": [],
     "prereqs": []
@@ -315,10 +329,14 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202460", "crn": "61608" },
+      { "term": "202460", "crn": "61609" },
+      { "term": "202440", "crn": "41933" },
+      { "term": "202440", "crn": "41937" },
+      { "term": "202440", "crn": "41938" },
       { "term": "202430", "crn": "32743" },
       { "term": "202430", "crn": "32111" },
       { "term": "202430", "crn": "33307" },
-      { "term": "202430", "crn": "33717" },
       { "term": "202430", "crn": "39788" },
       { "term": "202430", "crn": "39790" },
       { "term": "202410", "crn": "14249" },
@@ -398,43 +416,7 @@
     ],
     "description": "Introduces the principles of epidemiology necessary to critically evaluate the published research in medicine, public health, and related fields. Through careful reading of literature, class discussion, and lectures, familiarizes students with the study of design-related considerations that are an indispensable part of interpreting scientific literature. Offers students an opportunity to learn how to recognize critical elements of research design and execution (e.g., loss to follow-up in randomized clinical trials and other cohort designs, selection bias in case control studies, etc.); identify the strengths and limitations of different approaches to research questions; deepen their understanding of causal inference; and recognize the provisional nature of scientific knowledge. Covers issues of statistical methods and data analysis; however, there are no computational requirements.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "ENGW", "number": "3302" },
-      "Or",
-      { "subject": "ENGW", "number": "3304" },
-      "Or",
-      { "subject": "ENGW", "number": "3306" },
-      "Or",
-      { "subject": "ENGW", "number": "3307" },
-      "Or",
-      { "subject": "ENGW", "number": "3308" },
-      "Or",
-      { "subject": "ENGW", "number": "3314" },
-      "Or",
-      { "subject": "ENGW", "number": "3315" },
-      ")",
-      "And",
-      "(",
-      { "subject": "ECON", "number": "2350" },
-      "Or",
-      { "subject": "ENVR", "number": "2500" },
-      "Or",
-      { "subject": "MATH", "number": "2280" },
-      "Or",
-      { "subject": "MATH", "number": "3081" },
-      "Or",
-      { "subject": "MGSC", "number": "2301" },
-      "Or",
-      { "subject": "NRSG", "number": "5120" },
-      "Or",
-      { "subject": "PHTH", "number": "2210" },
-      "Or",
-      { "subject": "POLS", "number": "2400" },
-      "Or",
-      { "subject": "PSYC", "number": "2320" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "PHTH",
@@ -465,10 +447,14 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202460", "crn": "60775" },
+      { "term": "202460", "crn": "60776" },
+      { "term": "202440", "crn": "41406" },
+      { "term": "202440", "crn": "41941" },
+      { "term": "202440", "crn": "41942" },
       { "term": "202430", "crn": "32112" },
       { "term": "202430", "crn": "32113" },
       { "term": "202430", "crn": "33721" },
-      { "term": "202430", "crn": "33722" },
       { "term": "202430", "crn": "36459" },
       { "term": "202430", "crn": "36460" },
       { "term": "202410", "crn": "12533" },
@@ -513,6 +499,7 @@
     "credits": 3,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202460", "crn": "60208" },
       { "term": "202430", "crn": "31949" },
       { "term": "202360", "crn": "60224" },
       { "term": "202330", "crn": "32178" },
@@ -531,8 +518,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "31680" },
-      { "term": "202430", "crn": "33723" },
-      { "term": "202430", "crn": "39640" },
       { "term": "202410", "crn": "10761" },
       { "term": "202330", "crn": "31857" },
       { "term": "202330", "crn": "34308" },
@@ -570,7 +555,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "31922" },
-      { "term": "202430", "crn": "34883" },
       { "term": "202410", "crn": "12283" },
       { "term": "202330", "crn": "32147" },
       { "term": "202330", "crn": "35927" },
@@ -588,7 +572,6 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "30939" },
       { "term": "202430", "crn": "36462" },
       { "term": "202410", "crn": "12028" },
       { "term": "202330", "crn": "31004" },
@@ -606,7 +589,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202240", "crn": "40095" }],
+    "sections": [
+      { "term": "202440", "crn": "41946" },
+      { "term": "202240", "crn": "40095" }
+    ],
     "description": "Seeks to educate students about the role of advocacy in public health while providing tools and support to address current healthcare issues. Provides information and theory about advocacy, education, and community organizing in public health practice and skills geared toward direct application. Covers various techniques related to developing and conducting an advocacy project within a community setting. Offers students an opportunity to develop, communicate, and refine a community-based advocacy program. Requires permission of instructor for students outside designated programs.",
     "coreqs": [],
     "prereqs": []
@@ -679,6 +665,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60364" },
       { "term": "202430", "crn": "33309" },
       { "term": "202360", "crn": "60391" },
       { "term": "202330", "crn": "33763" },
@@ -696,6 +683,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60362" },
       { "term": "202430", "crn": "33310" },
       { "term": "202360", "crn": "60389" },
       { "term": "202330", "crn": "33764" },
@@ -713,6 +701,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60363" },
       { "term": "202430", "crn": "33311" },
       { "term": "202360", "crn": "60390" },
       { "term": "202330", "crn": "33765" },
@@ -730,6 +719,7 @@
     "credits": 3,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202440", "crn": "40261" },
       { "term": "202430", "crn": "33724" },
       { "term": "202430", "crn": "40274" },
       { "term": "202340", "crn": "40287" },
@@ -787,7 +777,7 @@
     ],
     "description": "Offers an intermediate-level course covering key principles, concepts, and methods of population-based epidemiologic research. Topics include observational study designs, measures of disease occurrence and association, validity and bias, confounding, effect modification, multivariate analysis for stratification and adjustment, critical appraisal and meta-analysis, mediation analysis, missing data analysis, and concepts and methods for strengthening causal inference. Offers graduate students unique opportunities to engage in practical applications, including critical reviews of published epidemiologic journal articles, and to conduct hands-on analyses of empirical datasets using SAS statistical software. Designed to serve as a foundation for further advanced training in specialized branches of epidemiology, quantitative methods, and epidemiologic research.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PHTH", "number": "5202" }]
+    "prereqs": []
   },
   {
     "subject": "PHTH",
@@ -799,6 +789,7 @@
     "sections": [
       { "term": "202430", "crn": "32114" },
       { "term": "202430", "crn": "36463" },
+      { "term": "202430", "crn": "40845" },
       { "term": "202410", "crn": "10716" },
       { "term": "202410", "crn": "13241" },
       { "term": "202330", "crn": "32354" },
@@ -817,6 +808,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40252" },
       { "term": "202430", "crn": "30784" },
       { "term": "202340", "crn": "40277" },
       { "term": "202330", "crn": "30835" },
@@ -839,7 +831,7 @@
     ],
     "description": "Builds upon the fundamental concepts and methods of biostatistics with applications to health disciplines. Topics include hypothesis testing, analysis of variance, linear regression, multiple regression, and logistic regression. Examples and readings are drawn from the public health literature. The SAS statistical software package is introduced and used throughout the course.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PHTH", "number": "5210" }]
+    "prereqs": []
   },
   {
     "subject": "PHTH",
@@ -915,7 +907,7 @@
     ],
     "description": "Continues PHTH 6400, exploring additional population health research topics and methods and applying more advanced biostatistical and epidemiological analysis methods.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PHTH", "number": "6400" }]
+    "prereqs": []
   },
   {
     "subject": "PHTH",
@@ -991,6 +983,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41162" },
       { "term": "202410", "crn": "21973" },
       { "term": "202410", "crn": "22076" },
       { "term": "202350", "crn": "53083" }
@@ -1019,6 +1012,10 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41546" },
+      { "term": "202430", "crn": "41678" },
+      { "term": "202430", "crn": "41703" },
+      { "term": "202430", "crn": "41705" },
       { "term": "202410", "crn": "21595" },
       { "term": "202410", "crn": "21623" },
       { "term": "202410", "crn": "21969" },
@@ -1063,7 +1060,7 @@
     ],
     "description": "Offers doctoral students an opportunity to work with their advisors and doctoral research committees to perform their doctoral research and to write their dissertation.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PHTH", "number": "9000" }]
+    "prereqs": []
   },
   {
     "subject": "PHTH",
@@ -1075,7 +1072,7 @@
     "sections": [{ "term": "202310", "crn": "21094" }],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PHTH", "number": "9990" }]
+    "prereqs": []
   },
   {
     "subject": "PHTH",

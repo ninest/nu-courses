@@ -7,11 +7,13 @@
     "credits": 4,
     "nuPath": ["ER", "IC"],
     "sections": [
+      { "term": "202440", "crn": "40039" },
       { "term": "202430", "crn": "30036" },
       { "term": "202430", "crn": "30236" },
       { "term": "202430", "crn": "30235" },
       { "term": "202430", "crn": "30237" },
       { "term": "202430", "crn": "30239" },
+      { "term": "202430", "crn": "38057" },
       { "term": "202430", "crn": "34125" },
       { "term": "202430", "crn": "31654" },
       { "term": "202430", "crn": "31905" },
@@ -107,10 +109,11 @@
     "title": "The Global Business Environment",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["ER"],
     "sections": [
       { "term": "202430", "crn": "37184" },
       { "term": "202430", "crn": "37185" },
+      { "term": "202430", "crn": "41250" },
       { "term": "202410", "crn": "17483" },
       { "term": "202410", "crn": "17484" },
       { "term": "202410", "crn": "17491" },
@@ -243,17 +246,7 @@
     ],
     "description": "Helps develop awareness of the hidden influence of culture on behavior, particularly with respect to management and management practices. With the increasing globalization of business, many managers find themselves being managed by, or collaborating with, people of different nationalities and cultures. Develops the ability to recognize, understand, and work with the cultural diversity that affects business conducted across national and cultural boundaries.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "INTB", "number": "1201" },
-      "Or",
-      { "subject": "INTB", "number": "1203" },
-      "Or",
-      { "subject": "INTB", "number": "1209" },
-      "Or",
-      { "subject": "INTB", "number": "2202" },
-      "Or",
-      { "subject": "INTB", "number": "3320" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "INTB",
@@ -327,6 +320,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40079" },
+      { "term": "202440", "crn": "40076" },
       { "term": "202430", "crn": "33389" },
       { "term": "202410", "crn": "10612" },
       { "term": "202410", "crn": "10576" },
@@ -404,6 +399,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41005" },
       { "term": "202430", "crn": "38444" },
       { "term": "202430", "crn": "38445" },
       { "term": "202430", "crn": "38692" },
@@ -447,6 +443,18 @@
       { "term": "202330", "crn": "38126" }
     ],
     "description": "Exposes students to the opportunities and challenges that digitalization presents for the core tenets and managerial practices of international business. New digital technologies have given rise to digitally born companies that internationalize through online platforms at an exponential pace. Companies from unrelated industries that may have traditionally not competed against each other now co-create value on digital platform ecosystems. Countries are increasingly implementing policies that aim to bridge the digital divide and alleviate poverty. A darker side of digitalization has also emerged. While some countries push for a global and open internet infrastructure, others engage in digital protectionism. Artificial intelligence can further be abused for digital authoritarianism purposes. Data privacy breaches are also rising globally. Examines how companies, industries, and governments should respond.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INTB",
+    "number": "6260",
+    "title": "Advanced Topics in Global Management and Strategy",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40851" }],
+    "description": "Offers topics of current interest in the international business arena, emphasizing managing in emerging markets, analyzing global expansion, and developing analytical and quantitative modeling skills for the international business arena, often in the context of developing presentation and writing skills in a case competition format. Instructor interests will shape course format and meeting schedules. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   }

@@ -29,8 +29,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "30234" },
-      { "term": "202430", "crn": "34784" },
-      { "term": "202430", "crn": "34785" },
       { "term": "202330", "crn": "30240" },
       { "term": "202330", "crn": "35798" },
       { "term": "202330", "crn": "35800" },
@@ -140,7 +138,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "40674" },
       { "term": "202410", "crn": "15506" },
       { "term": "202310", "crn": "17078" }
     ],
@@ -219,11 +216,7 @@
     ],
     "description": "Exposes students to research skills and methods used by health system pharmacists when planning and conducting research. Builds on content from prior courses. Designed for students planning to pursue a career in a health system or the pharmaceutical industry. Focuses on discussion and application; taught by healthcare-system-based pharmacists actively involved in clinical research. Emphasizes the process used to generate robust research questions and research plans throughout. Uses practice statements/guidelines, published studies, patient databases, and faculty's current research projects to illustrate course topics.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "PHMD", "number": "3450" },
-      "Or",
-      { "subject": "PHMD", "number": "3450" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "PHMD",
@@ -238,13 +231,7 @@
     ],
     "description": "Covers foundational concepts of pharmacy practice, including patient evaluation; identification of drug-related problems; pathophysiology; and clinical management of diseases of the respiratory, cardiovascular, and endocrine systems. Specifically covers asthma and COPD, hypertension, hyperlipidemia, diabetes, fluids/electrolytes, and renal disorders. Reviews, system-by-system, the mechanisms of these diseases and their evidence-based prevention and treatment strategies. Offers students an opportunity to apply scientific knowledge and principles of medicinal chemistry, pharmacology, pharmaceutics, and pharmacokinetics to the design of rational, evidence-based therapeutic strategies to provide care to patients in inpatient, ambulatory, and community settings. Emphasizes pathophysiology, self-care, patient education, assessment, medication administration, management, monitoring, and preventative health and population-based health outcomes.",
     "coreqs": [{ "subject": "PHMD", "number": "4612" }],
-    "prereqs": [
-      { "subject": "PHSC", "number": "4502" },
-      "And",
-      { "subject": "PHSC", "number": "3412" },
-      "And",
-      { "subject": "PHMD", "number": "2350" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "PHMD",
@@ -507,6 +494,18 @@
   },
   {
     "subject": "PHMD",
+    "number": "5115",
+    "title": "Integrated Science and Therapeutics 2",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202460", "crn": "61489" }],
+    "description": "Integrates foundational concepts of pharmacology, medicinal chemistry, pathophysiology, and pharmacotherapeutics to treat patients with acute and chronic cardiovascular, renal, and gastrointestinal diseases. Studies knowledge, skills, and attitudes pertaining to drug action, drug-receptor interactions, structure-activity relationships, dose-response relationships, drug mechanisms of action, therapeutic uses, and adverse effects. Offers students an opportunity to develop patient evaluation skills using the Pharmacists' Patient Care Process and identification of drug therapy problems. Emphasizes self-care, patient education, assessment, medication administration, management and monitoring, and preventative health and population-based health outcomes.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHMD",
     "number": "5120",
     "title": "Principles of Pharmacy Practice",
     "scheduleType": "Lecture",
@@ -527,11 +526,23 @@
     "sections": [{ "term": "202410", "crn": "20661" }],
     "description": "Explores foundational concepts in social and administrative sciences, examining the organization and function of American healthcare systems. Assesses the impacts of system-level actions on individual patients. Offers students an opportunity to build skills in understanding specific drug information needs and finding and conveying this information. Compares and contrasts approaches for successful verbal and nonverbal communication among pharmacists, patients, and other health professionals across diverse situations. Evaluates American legal frameworks that establish standards for pharmacy practice today.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "3306" },
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
+  },
+  {
+    "subject": "PHMD",
+    "number": "5182",
+    "title": "Integrated Learning Lab 2",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202460", "crn": "61482" },
+      { "term": "202460", "crn": "61483" },
+      { "term": "202460", "crn": "61484" }
+    ],
+    "description": "Offers students an opportunity to develop and assimilate knowledge, skills, and attitudes related to the pharmaceutical care of patients to supplement and augment pharmacy curricular topics within an immersive learning experience. Includes pharmacology, medicinal chemistry, pathophysiology, and therapeutics of cardiovascular diseases. Uses innovative digital tools, environments, equipment, learning materials, and pedagogical methods that promote the development and refinement of problem-solving skills, adaptability/resilience, and a team mindset that can be applied during experiential activities (co-op/introductory pharmacy practice experience/advanced pharmacy practice experience), as well as future careers.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "PHMD",
@@ -549,6 +560,23 @@
       { "term": "202410", "crn": "20669" }
     ],
     "description": "Applies concepts through activities designed to develop knowledge, skills, and attitudes focused on foundational aspects of pharmacy practice. Covers identification of drug-related problems, problem solving, and disease state management. Focuses on patient assessment and common cardiovascular diseases. Reviews, discusses, synthesizes, and applies information from current and previous coursework and experiential activities in an active-learning format.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHMD",
+    "number": "5192",
+    "title": "Concepts in Practice 2",
+    "scheduleType": "Seminar",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202460", "crn": "61490" },
+      { "term": "202460", "crn": "61491" },
+      { "term": "202460", "crn": "61492" },
+      { "term": "202460", "crn": "61493" }
+    ],
+    "description": "Applies concepts through activities designed to develop knowledge, skills, and attitudes focused on foundational aspects of pharmacy practice. Covers identification of drug-related problems, problem solving, and disease state management. Focuses on advanced cardiovascular diseases such as myocardial infarction, arrhythmias, and renal and gastrointestinal diseases. Reviews, discusses, synthesizes, and applies information from current and previous coursework and experiential activities in an active-learning format.",
     "coreqs": [],
     "prereqs": []
   },
@@ -656,6 +684,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "35184" },
+      { "term": "202430", "crn": "41098" },
       { "term": "202330", "crn": "36489" }
     ],
     "description": "Offers students an opportunity to collect relevant information to make informed decisions concerning the selection of advanced pharmacy practice experiences (APPEs). Designed to provide new knowledge (e.g., what is expected of a P4 student) and to strengthen existing knowledge (e.g., from didactic courses) to offer a smooth transition from the didactic courses to APPEs.",
@@ -670,6 +699,9 @@
     "credits": 2,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202460", "crn": "61635" },
+      { "term": "202460", "crn": "61636" },
+      { "term": "202460", "crn": "61637" },
       { "term": "202410", "crn": "14477" },
       { "term": "202410", "crn": "15459" },
       { "term": "202410", "crn": "15460" },
@@ -682,13 +714,9 @@
     "description": "Offers students an opportunity to obtain the skills necessary to become effective providers of drug information. An effective provider assesses drug information needs and evaluates, applies, and communicates data from the published literature and other sources to optimize patient care. Designed to help students develop applied drug information skills important to the pharmacist in areas of formulary support, health informatics, medication error and adverse event reporting, and quality assurance. Students complete a variety of active learning exercises, including multiple evidence-based written drug information responses and a current events analysis. Emphasizes writing for a variety of audiences, including pharmacists, other healthcare providers, and the lay public, as well as use of peer review.",
     "coreqs": [],
     "prereqs": [
-      { "subject": "PHMD", "number": "3450" },
-      "And",
-      "(",
       { "subject": "ENGW", "number": "3306" },
       "Or",
-      "Graduate Admission",
-      ")"
+      "Graduate Admission"
     ]
   },
   {
@@ -711,21 +739,18 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
-      { "term": "202430", "crn": "32561" },
       { "term": "202430", "crn": "32969" },
       { "term": "202430", "crn": "33146" },
-      { "term": "202430", "crn": "32375" },
-      { "term": "202430", "crn": "33400" },
       { "term": "202430", "crn": "35494" },
-      { "term": "202430", "crn": "35498" },
-      { "term": "202430", "crn": "37495" },
       { "term": "202430", "crn": "37496" },
       { "term": "202430", "crn": "37497" },
-      { "term": "202430", "crn": "37626" },
-      { "term": "202430", "crn": "38115" },
-      { "term": "202430", "crn": "38179" },
-      { "term": "202430", "crn": "38759" },
       { "term": "202430", "crn": "40510" },
+      { "term": "202430", "crn": "40892" },
+      { "term": "202430", "crn": "40893" },
+      { "term": "202430", "crn": "40894" },
+      { "term": "202430", "crn": "40895" },
+      { "term": "202430", "crn": "40896" },
+      { "term": "202430", "crn": "40927" },
       { "term": "202410", "crn": "12571" },
       { "term": "202410", "crn": "12971" },
       { "term": "202410", "crn": "13843" },
@@ -985,7 +1010,6 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "30625" },
       { "term": "202430", "crn": "32920" },
       { "term": "202410", "crn": "10601" },
       { "term": "202410", "crn": "20919" },
@@ -1005,7 +1029,7 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "30624" },
+      { "term": "202430", "crn": "41216" },
       { "term": "202410", "crn": "13179" },
       { "term": "202350", "crn": "50786" },
       { "term": "202330", "crn": "30650" },
@@ -1046,6 +1070,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "33298" },
+      { "term": "202430", "crn": "40949" },
       { "term": "202350", "crn": "50499" },
       { "term": "202350", "crn": "52895" },
       { "term": "202310", "crn": "10654" }
@@ -1263,7 +1288,6 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "30616" },
       { "term": "202430", "crn": "32928" },
       { "term": "202410", "crn": "10714" },
       { "term": "202410", "crn": "13186" },
@@ -1317,8 +1341,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "33052" },
-      { "term": "202430", "crn": "37751" },
-      { "term": "202430", "crn": "37753" },
       { "term": "202410", "crn": "13188" },
       { "term": "202350", "crn": "52901" },
       { "term": "202350", "crn": "52902" },

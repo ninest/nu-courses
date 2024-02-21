@@ -38,13 +38,7 @@
     "sections": [{ "term": "202260", "crn": "60106" }],
     "description": "Examines the actions that managers must take to stimulate innovation and direct it in ways that allow the organization to accomplish its goals. Topics include what organization forms are most conducive to innovation, what factors hinder innovativeness and how can they be overcome, and what role managers play in bringing about innovation. Focuses on the actions that companies and their managers can take to design their organizations and systems effectively in order to foster innovativeness. Elements of an organization's infrastructure include design, reward mechanisms, communication patterns, boundary spanning, control systems, leadership at all levels, and the organization's culture.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "HRMG", "number": "6200" },
-      "Or",
-      { "subject": "HRMG", "number": "6208" },
-      "Or",
-      { "subject": "HRMG", "number": "6318" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "HRMG",
@@ -69,16 +63,13 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202340", "crn": "41875" }],
+    "sections": [
+      { "term": "202440", "crn": "41358" },
+      { "term": "202340", "crn": "41875" }
+    ],
     "description": "Studies and debates the criteria for a great company. As suppliers, customers, employees, or students, everyone has experience with a range of organizations. Some are admired, some are mediocre, and some are dreadful. This course focuses on companies with management practices that produce and sustain extraordinary outcomes such as low cost, amazing service, fast growth, and exceptional quality. Often, these companies are great because they dare to be different and the key question is: “How do they do it?” Explores such topics as organizational culture, organizational design, empowerment, business process improvement, reward systems, and employee and organizational learning. Uses a variety of learning approaches, including case studies, articles, lecture/discussion, videos, and exercises.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "HRMG", "number": "6200" },
-      "Or",
-      { "subject": "HRMG", "number": "6208" },
-      "Or",
-      { "subject": "HRMG", "number": "6318" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "HRMG",
@@ -174,6 +165,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40562" },
       { "term": "202430", "crn": "37730" },
       { "term": "202410", "crn": "13359" },
       { "term": "202410", "crn": "13356" },

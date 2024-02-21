@@ -21,7 +21,10 @@
     "scheduleType": "Seminar",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202340", "crn": "41787" }],
+    "sections": [
+      { "term": "202440", "crn": "41271" },
+      { "term": "202340", "crn": "41787" }
+    ],
     "description": "Addresses the role of law in defining the powers of planning and the legal questions surrounding key urban planning debates. Studies specifically the powers that city governments have to adopt to implement policies; debates about whether such powers should be expanded or restricted; the legal basis of government’s ability to intervene in housing, real estate development, land use and acquisition, and other planning issues, as well as debates about such powers; and the roles of federal and state governments in determining what cities can do. Examines these issues by analyzing legal structures, court decisions, and social research.",
     "coreqs": [],
     "prereqs": []
@@ -34,7 +37,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34837" },
       { "term": "202410", "crn": "17300" },
       { "term": "202330", "crn": "35871" },
       { "term": "202310", "crn": "19698" }
@@ -51,7 +53,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "33182" },
       { "term": "202410", "crn": "13499" },
       { "term": "202330", "crn": "33614" },
       { "term": "202310", "crn": "13983" }
@@ -83,6 +84,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40577" },
       { "term": "202340", "crn": "40657" },
       { "term": "202240", "crn": "40752" }
     ],
@@ -99,6 +101,18 @@
     "nuPath": [],
     "sections": [{ "term": "202310", "crn": "19619" }],
     "description": "Examines the policy impacts of legal and illegal immigration in the United States, emphasizing the ways immigration shapes urban America. Discusses trends in immigration; elements of U.S. immigration policy; impacts of immigration on labor markets, economic development, housing, education, healthcare, criminal justice, race relations, and social policy (e.g., welfare); and effects on broader mass culture. Also considers the range of policy tools available in addressing these impacts.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PPUA",
+    "number": "5234",
+    "title": "Land Use and Urban Growth Policy",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40839" }],
+    "description": "Explores the evolution of land use and urban form in the United States and surveys different types of land-use and urban-growth management tools used by local, regional, and state governments. Examines the environmental, economic, spatial, and social impacts of different patterns of urban growth, including “sprawl” and “smart growth,” and the different philosophies and legal and policy approaches employed to manage those impacts. Also explores how land-use and urban-growth policy interacts with related priorities, including housing, infrastructure, and fiscal policy. Focuses on current and emerging issues and debates in land-use and urban-growth management, such as New Urbanism, livable communities, and transit-oriented development.",
     "coreqs": [],
     "prereqs": []
   },
@@ -193,7 +207,7 @@
     "title": "Participatory Modeling for Collaborative Decision Making",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["EX"],
     "sections": [
       { "term": "202430", "crn": "37522" },
       { "term": "202330", "crn": "39562" }
@@ -225,6 +239,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40534" },
       { "term": "202430", "crn": "34840" },
       { "term": "202430", "crn": "40694" },
       { "term": "202340", "crn": "40598" },
@@ -399,6 +414,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60639" },
       { "term": "202360", "crn": "60724" },
       { "term": "202260", "crn": "61011" }
     ],
@@ -414,7 +430,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "37669" },
+      { "term": "202460", "crn": "60919" },
       { "term": "202360", "crn": "61211" },
       { "term": "202330", "crn": "39749" },
       { "term": "202260", "crn": "61577" },
@@ -477,6 +493,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40140" },
       { "term": "202340", "crn": "40153" },
       { "term": "202240", "crn": "40160" }
     ],
@@ -492,10 +509,23 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61555" },
       { "term": "202340", "crn": "41211" },
       { "term": "202240", "crn": "41571" }
     ],
     "description": "Seeks to prepare students to pursue grant-based funding from a variety of funding agencies and foundations. Offers students an opportunity to develop practical skills in proposal writing and budget development. Examines all aspects of the proposal-writing process, from identifying high-potential funding opportunities to writing and submitting proposals. Assignments offer students an opportunity to apply their learning to real-world interests.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PPUA",
+    "number": "6219",
+    "title": "Race, Justice, and Belonging in Planning Practice",
+    "scheduleType": "Seminar",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202440", "crn": "42046" }],
+    "description": "Addresses issues of inclusion, citizenship, and social justice in urban planning, and explores issues of race, gender, and other forms of discrimination in planning practice. Examines how planners have interacted with historically marginalized communities in the United States and other contexts and the ways that these experiences have shaped community perspectives on the planning profession. Offers students an opportunity to analyze best practices in methods to engage communities in more just and equitable planning processes, explore experiences of race and other forms of difference within the planning profession, and examine practices for building and leading diverse and inclusive planning organizations.",
     "coreqs": [],
     "prereqs": []
   },
@@ -537,7 +567,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "33981" },
-      { "term": "202430", "crn": "34842" },
       { "term": "202410", "crn": "15883" },
       { "term": "202410", "crn": "13501" },
       { "term": "202330", "crn": "34619" },
@@ -581,6 +610,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60460" },
       { "term": "202360", "crn": "60494" },
       { "term": "202260", "crn": "60537" }
     ],
@@ -613,10 +643,12 @@
     "title": "Techniques of Policy Analysis",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["EX"],
     "sections": [
+      { "term": "202440", "crn": "41154" },
       { "term": "202430", "crn": "31853" },
       { "term": "202430", "crn": "34264" },
+      { "term": "202430", "crn": "40802" },
       { "term": "202410", "crn": "12135" },
       { "term": "202410", "crn": "15884" },
       { "term": "202410", "crn": "20708" },
@@ -655,7 +687,7 @@
     "title": "Techniques of Program Evaluation",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["EX"],
     "sections": [
       { "term": "202430", "crn": "32790" },
       { "term": "202410", "crn": "12140" },
@@ -674,6 +706,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60564" },
       { "term": "202360", "crn": "60628" },
       { "term": "202260", "crn": "60797" }
     ],
@@ -741,6 +774,18 @@
   },
   {
     "subject": "PPUA",
+    "number": "6553",
+    "title": "Nonprofit Financial Management",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40840" }],
+    "description": "Presents a comprehensive overview of resource development and financial management in nonprofit organizations. Topics include fundraising and development planning, donor identification, nonprofit budgeting and financial reporting, investments and earned income for nonprofits, government contracting and grants, and importance of ethics and accountability in nonprofit management.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PPUA",
     "number": "6861",
     "title": "Internship",
     "scheduleType": "Off-campus instruction w/ lec",
@@ -777,6 +822,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60697" },
+      { "term": "202460", "crn": "60901" },
+      { "term": "202430", "crn": "41835" },
       { "term": "202360", "crn": "60801" },
       { "term": "202360", "crn": "61187" },
       { "term": "202310", "crn": "21255" },
@@ -796,10 +844,21 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60521" },
+      { "term": "202460", "crn": "60536" },
+      { "term": "202460", "crn": "60693" },
+      { "term": "202460", "crn": "60694" },
+      { "term": "202460", "crn": "60872" },
+      { "term": "202460", "crn": "60876" },
+      { "term": "202460", "crn": "60941" },
+      { "term": "202440", "crn": "40518" },
+      { "term": "202440", "crn": "40602" },
+      { "term": "202440", "crn": "41586" },
+      { "term": "202440", "crn": "40810" },
+      { "term": "202430", "crn": "41305" },
+      { "term": "202430", "crn": "41306" },
       { "term": "202430", "crn": "34574" },
       { "term": "202430", "crn": "35649" },
-      { "term": "202430", "crn": "35650" },
-      { "term": "202430", "crn": "38002" },
       { "term": "202410", "crn": "18796" },
       { "term": "202410", "crn": "15951" },
       { "term": "202410", "crn": "14640" },
@@ -852,7 +911,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38054" },
+      { "term": "202460", "crn": "60538" },
+      { "term": "202440", "crn": "41599" },
       { "term": "202410", "crn": "21810" },
       { "term": "202360", "crn": "60599" },
       { "term": "202340", "crn": "42127" },
@@ -872,7 +932,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "35805" },
       { "term": "202430", "crn": "35962" },
       { "term": "202410", "crn": "13813" },
       { "term": "202330", "crn": "37549" },
@@ -896,11 +955,7 @@
     ],
     "description": "Builds on skills covered in PPUA 5263. Offers students an opportunity to obtain greater depth in the analysis of urban spatial data focused on several urban systems (including social, built, and natural systems). Focuses on understanding the spatial relationships between various new and large urban datasets relevant to current policy challenges within cities. This is a project-based class.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "PPUA", "number": "5263" },
-      "Or",
-      { "subject": "PPUA", "number": "5263" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "PPUA",
@@ -936,7 +991,7 @@
     "title": "Capstone in Public Policy and Urban Affairs",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["EX"],
     "sections": [
       { "term": "202430", "crn": "31852" },
       { "term": "202430", "crn": "34335" },
@@ -977,8 +1032,12 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "37084" },
-      { "term": "202430", "crn": "37941" },
+      { "term": "202460", "crn": "60712" },
+      { "term": "202430", "crn": "41788" },
+      { "term": "202430", "crn": "41307" },
+      { "term": "202430", "crn": "41095" },
+      { "term": "202430", "crn": "41795" },
+      { "term": "202430", "crn": "41852" },
       { "term": "202410", "crn": "18989" },
       { "term": "202410", "crn": "21059" },
       { "term": "202410", "crn": "21069" },
@@ -1018,7 +1077,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38467" },
+      { "term": "202460", "crn": "60629" },
       { "term": "202360", "crn": "60712" },
       { "term": "202330", "crn": "40573" },
       { "term": "202310", "crn": "21761" },
@@ -1037,7 +1096,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "34845" },
-      { "term": "202430", "crn": "34846" },
       { "term": "202410", "crn": "13815" },
       { "term": "202410", "crn": "19008" },
       { "term": "202410", "crn": "19260" },
@@ -1083,6 +1141,7 @@
     "sections": [
       { "term": "202430", "crn": "38014" },
       { "term": "202430", "crn": "40597" },
+      { "term": "202430", "crn": "40844" },
       { "term": "202410", "crn": "18378" },
       { "term": "202410", "crn": "21656" },
       { "term": "202350", "crn": "53339" },
@@ -1108,7 +1167,7 @@
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PPUA", "number": "9990" }]
+    "prereqs": []
   },
   {
     "subject": "PPUA",
@@ -1138,10 +1197,6 @@
     ],
     "description": "Offers continued dissertation supervision by individual members of the department.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "PPUA", "number": "9991" },
-      "Or",
-      "Dissertation Check"
-    ]
+    "prereqs": []
   }
 ]

@@ -26,11 +26,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "36416" },
-      { "term": "202430", "crn": "36417" },
-      { "term": "202430", "crn": "36419" },
-      { "term": "202430", "crn": "36420" },
+      { "term": "202430", "crn": "36418" },
+      { "term": "202430", "crn": "36421" },
       { "term": "202430", "crn": "37660" },
-      { "term": "202430", "crn": "38988" },
       { "term": "202410", "crn": "17515" },
       { "term": "202410", "crn": "17516" },
       { "term": "202410", "crn": "17517" },
@@ -108,6 +106,7 @@
     "sections": [
       { "term": "202430", "crn": "30479" },
       { "term": "202430", "crn": "36980" },
+      { "term": "202430", "crn": "40812" },
       { "term": "202410", "crn": "18655" },
       { "term": "202410", "crn": "20940" },
       { "term": "202340", "crn": "41901" },
@@ -120,15 +119,7 @@
     ],
     "description": "Surveys modernist movements from early to mid-20th century. Emphasizes the reciprocal evolution of art and design within cultural and social contexts.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ARTH",
@@ -138,6 +129,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202440", "crn": "41957" },
       { "term": "202430", "crn": "30003" },
       { "term": "202430", "crn": "36981" },
       { "term": "202410", "crn": "15492" },
@@ -185,6 +177,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60756" },
       { "term": "202430", "crn": "31581" },
       { "term": "202430", "crn": "33685" },
       { "term": "202430", "crn": "34977" },

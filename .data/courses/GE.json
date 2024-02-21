@@ -95,7 +95,9 @@
     "credits": 4,
     "nuPath": ["ER"],
     "sections": [
+      { "term": "202440", "crn": "41790" },
       { "term": "202430", "crn": "38851" },
+      { "term": "202430", "crn": "41435" },
       { "term": "202410", "crn": "10279" },
       { "term": "202330", "crn": "39434" },
       { "term": "202310", "crn": "19086" },
@@ -113,6 +115,7 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202440", "crn": "40035" },
       { "term": "202430", "crn": "36241" },
       { "term": "202410", "crn": "10336" },
       { "term": "202340", "crn": "40040" },
@@ -330,6 +333,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61702" },
+      { "term": "202440", "crn": "40404" },
       { "term": "202430", "crn": "31896" },
       { "term": "202410", "crn": "12245" },
       { "term": "202410", "crn": "19814" },
@@ -399,11 +404,11 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61024" },
+      { "term": "202440", "crn": "40855" },
       { "term": "202430", "crn": "35181" },
       { "term": "202430", "crn": "36250" },
       { "term": "202430", "crn": "38854" },
-      { "term": "202430", "crn": "38855" },
-      { "term": "202430", "crn": "38856" },
       { "term": "202410", "crn": "16744" },
       { "term": "202410", "crn": "19815" },
       { "term": "202360", "crn": "61350" },
@@ -425,10 +430,11 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61630" },
+      { "term": "202440", "crn": "40856" },
+      { "term": "202440", "crn": "41858" },
       { "term": "202430", "crn": "32224" },
       { "term": "202430", "crn": "35182" },
-      { "term": "202430", "crn": "38857" },
-      { "term": "202430", "crn": "38858" },
       { "term": "202410", "crn": "12542" },
       { "term": "202340", "crn": "41058" },
       { "term": "202330", "crn": "32473" },
@@ -448,6 +454,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40341" },
       { "term": "202430", "crn": "35183" },
       { "term": "202430", "crn": "36251" },
       { "term": "202410", "crn": "19817" },
@@ -468,6 +475,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60751" },
+      { "term": "202440", "crn": "41791" },
       { "term": "202430", "crn": "31684" },
       { "term": "202430", "crn": "32415" },
       { "term": "202430", "crn": "36252" },
@@ -487,6 +496,18 @@
       { "term": "202240", "crn": "41411" }
     ],
     "description": "Focuses on the main processes needed to develop a complex, high-technology product. Emphasizes the most important techniques and approaches used in a startup environment. Seeks to benefit students of all engineering disciplines including computer science and biomedical, industrial, electrical, mechanical, computer, and chemical engineering. Includes a running practical project in which a new product is designed and executed through a series of small projects for each phase of the product development process. Topics include the product life cycle, new product development processes, project planning and management, new product idea generation, the systems approach to product development, design for manufacturing, market testing and launch, and escalation to manufacturing.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "GE",
+    "number": "7945",
+    "title": "Master's Project",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40843" }],
+    "description": "Offers theoretical or experimental work under individual faculty supervision.",
     "coreqs": [],
     "prereqs": []
   }

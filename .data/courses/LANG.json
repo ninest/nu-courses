@@ -6,7 +6,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["SI"],
-    "sections": [{ "term": "202430", "crn": "40753" }],
+    "sections": [
+      { "term": "202440", "crn": "42004" },
+      { "term": "202430", "crn": "40753" }
+    ],
     "description": "Introduces the field of language policy, i.e., government or other institutional/systemic control of language use. Examines the complexity of policies and how they affect and are affected by historical, political, social, economic, ethnic, and many other factors. Covers issues including the economic efficacy of certain languages, language death, linguistic marginalization, language as a tool of nationalism, language policies and access to basic services, language activism, and language conflict scenarios. Offers students an opportunity to pursue their own case study, analyzing a specific local or global region, using both personal observations and research.",
     "coreqs": [],
     "prereqs": []

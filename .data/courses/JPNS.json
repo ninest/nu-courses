@@ -7,6 +7,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40189" },
       { "term": "202430", "crn": "32186" },
       { "term": "202430", "crn": "30032" },
       { "term": "202430", "crn": "31609" },
@@ -39,6 +40,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40190" },
       { "term": "202430", "crn": "30062" },
       { "term": "202430", "crn": "30979" },
       { "term": "202410", "crn": "11811" },
@@ -73,11 +75,7 @@
     ],
     "description": "Emphasizes further vocabulary building. Offers students an opportunity to master the fine points of grammar through written composition, prepared oral reports, and reading and discussion from contemporary Japanese materials.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "JPNS", "number": "1102" },
-      "Or",
-      { "subject": "JPNS", "number": "1302" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "JPNS",
@@ -152,6 +150,18 @@
       { "term": "202310", "crn": "15127" }
     ],
     "description": "Focuses on a unique aspect of the Japanese language. The specific topics are chosen to reflect current developments in the language and expressed student interests. Focuses on the use of the language for specific purposes or its use in specialized settings (e.g., media, business, health).",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "JPNS",
+    "number": "5976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41062" }],
+    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   }

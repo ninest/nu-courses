@@ -63,6 +63,7 @@
     "sections": [
       { "term": "202430", "crn": "37055" },
       { "term": "202430", "crn": "32596" },
+      { "term": "202430", "crn": "32600" },
       { "term": "202430", "crn": "35536" },
       { "term": "202430", "crn": "39502" },
       { "term": "202430", "crn": "39503" },
@@ -105,6 +106,7 @@
     "sections": [
       { "term": "202430", "crn": "32376" },
       { "term": "202430", "crn": "32654" },
+      { "term": "202430", "crn": "33806" },
       { "term": "202430", "crn": "35537" },
       { "term": "202430", "crn": "39504" },
       { "term": "202430", "crn": "39505" },
@@ -138,6 +140,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39506" },
+      { "term": "202430", "crn": "32831" },
+      { "term": "202430", "crn": "32833" },
       { "term": "202430", "crn": "32834" },
       { "term": "202430", "crn": "32838" },
       { "term": "202430", "crn": "35433" },
@@ -208,11 +212,15 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32079" },
+      { "term": "202430", "crn": "32597" },
       { "term": "202430", "crn": "32844" },
       { "term": "202430", "crn": "34650" },
+      { "term": "202430", "crn": "35479" },
       { "term": "202430", "crn": "36582" },
       { "term": "202430", "crn": "39509" },
       { "term": "202430", "crn": "39510" },
+      { "term": "202430", "crn": "41093" },
       { "term": "202410", "crn": "12891" },
       { "term": "202410", "crn": "13003" },
       { "term": "202410", "crn": "13373" },
@@ -238,13 +246,7 @@
     ],
     "description": "Exposes students to both conceptual and technical aspects of Web design. User experience design is the discipline of creating a useful and usable website or application that is easily navigated and meets the needs of both the site owner and its users. Covers Web standards and best practices. Studies the fundamental concepts, techniques, practices, work flows, and tools associated with the practice of user-experience design in Web interfaces. Offers students an opportunity to learn the core principles of information architecture, usability, marketing hierarchy, and user experience for contextual, value-driven websites. Additional areas of focus include typography, color theory and composition, responsive design, CSS3 concepts, basic scripting, and JavaScript libraries to create functional, effective, and visually appealing websites.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "INFO", "number": "5100" },
-      "Or",
-      { "subject": "INFO", "number": "5100" },
-      "Or",
-      { "subject": "CSYE", "number": "6200" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "INFO",
@@ -254,14 +256,17 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "32634" },
+      { "term": "202430", "crn": "31514" },
+      { "term": "202430", "crn": "37528" },
+      { "term": "202430", "crn": "32531" },
       { "term": "202430", "crn": "37056" },
       { "term": "202430", "crn": "37447" },
-      { "term": "202430", "crn": "37479" },
       { "term": "202430", "crn": "37824" },
       { "term": "202430", "crn": "40432" },
+      { "term": "202430", "crn": "40713" },
+      { "term": "202430", "crn": "41136" },
       { "term": "202430", "crn": "40669" },
-      { "term": "202430", "crn": "40745" },
+      { "term": "202430", "crn": "41929" },
       { "term": "202410", "crn": "13272" },
       { "term": "202410", "crn": "12989" },
       { "term": "202410", "crn": "13330" },
@@ -289,13 +294,7 @@
     ],
     "description": "Presents data structures and related algorithms, beginning with a brief review of dynamic memory allocation. Discusses the fundamental data structures in detail, including the abstract representation, supporting algorithms, and implementation methods. Focuses on understanding the application of the abstract data structure and the circumstances that affect implementation decisions. Covers lists, stacks, queues, trees, hash tables, and graphs. Covers recursion and searching and sorting algorithms in detail. Emphasizes data abstraction and encapsulation in code design. Explores external storage structures, time permitting.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "INFO", "number": "5100" },
-      "Or",
-      { "subject": "INFO", "number": "5100" },
-      "Or",
-      { "subject": "CSYE", "number": "6200" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "INFO",
@@ -305,6 +304,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "39511" },
+      { "term": "202430", "crn": "39512" },
       { "term": "202430", "crn": "35211" },
       { "term": "202430", "crn": "35848" },
       { "term": "202430", "crn": "38226" },
@@ -389,11 +390,7 @@
     ],
     "description": "Explores advanced server-side technologies and tools necessary to design and engineer complete web-based enterprise applications quickly. Designed to build on previous experience to cover the life cycle of a web-based application. Focuses on MVC web development frameworks to build server-side, data-intensive, and multitier web applications. Additionally, discusses designing rich internet applications (RIA) using AJAX and service-oriented architecture (SOA) using REST.",
     "coreqs": [{ "subject": "INFO", "number": "6251" }],
-    "prereqs": [
-      { "subject": "INFO", "number": "5100" },
-      "Or",
-      { "subject": "INFO", "number": "5100" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "INFO",
@@ -405,8 +402,8 @@
     "sections": [
       { "term": "202430", "crn": "31953" },
       { "term": "202430", "crn": "31958" },
-      { "term": "202430", "crn": "31959" },
       { "term": "202430", "crn": "31960" },
+      { "term": "202430", "crn": "40833" },
       { "term": "202430", "crn": "32956" },
       { "term": "202430", "crn": "32664" },
       { "term": "202430", "crn": "37218" },
@@ -440,8 +437,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32842" },
       { "term": "202430", "crn": "32995" },
-      { "term": "202430", "crn": "36586" },
       { "term": "202430", "crn": "36587" },
       { "term": "202430", "crn": "40482" },
       { "term": "202410", "crn": "13374" },
@@ -474,8 +471,6 @@
       { "term": "202430", "crn": "31551" },
       { "term": "202430", "crn": "32303" },
       { "term": "202430", "crn": "33087" },
-      { "term": "202430", "crn": "40670" },
-      { "term": "202430", "crn": "40746" },
       { "term": "202410", "crn": "11953" },
       { "term": "202410", "crn": "13654" },
       { "term": "202410", "crn": "13715" },
@@ -504,6 +499,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32594" },
       { "term": "202330", "crn": "32920" },
       { "term": "202310", "crn": "13710" }
     ],
@@ -630,13 +626,7 @@
     ],
     "description": "Studies advanced indexing techniques and algorithms for big-data platforms such as Hadoop and NoSQL databases. Covers big-data design and indexing patterns to organize, aggregate, manipulate, and analyze huge amounts of data beyond human scale. Offers students an opportunity to learn advanced techniques to improve the performance and robustness of the advanced big-data programming models. Additional areas of focus include scalable graph databases, advanced indexing, and full-text searching in graph databases.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CSYE", "number": "6220" },
-      "Or",
-      { "subject": "INFO", "number": "6205" },
-      "Or",
-      { "subject": "INFO", "number": "6250" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "INFO",
@@ -680,11 +670,14 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41054" },
       { "term": "202430", "crn": "33040" },
       { "term": "202430", "crn": "37472" },
       { "term": "202430", "crn": "33257" },
       { "term": "202430", "crn": "40440" },
+      { "term": "202430", "crn": "41053" },
       { "term": "202430", "crn": "33395" },
+      { "term": "202430", "crn": "41520" },
       { "term": "202410", "crn": "13336" },
       { "term": "202410", "crn": "19826" },
       { "term": "202410", "crn": "13841" },
@@ -716,10 +709,16 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33701" }],
+    "sections": [
+      { "term": "202430", "crn": "33258" },
+      { "term": "202430", "crn": "40483" },
+      { "term": "202430", "crn": "40796" },
+      { "term": "202430", "crn": "41272" },
+      { "term": "202330", "crn": "33701" }
+    ],
     "description": "Covers recent advances in neural nets and deep learning techniques with applications to large-scale engineering problems.",
     "coreqs": [],
-    "prereqs": [{ "subject": "INFO", "number": "6205" }]
+    "prereqs": []
   },
   {
     "subject": "INFO",
@@ -729,6 +728,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35212" },
       { "term": "202430", "crn": "33531" },
       { "term": "202430", "crn": "37565" },
       { "term": "202430", "crn": "40384" },
@@ -750,6 +750,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40856" },
       { "term": "202430", "crn": "40611" },
       { "term": "202430", "crn": "33259" },
       { "term": "202430", "crn": "33260" },
@@ -805,13 +806,7 @@
     ],
     "description": "Seeks to provide a detailed understanding of the function and deployment of smart contracts using the Solidity language. Digs deep into the technical design and operation of blockchain platforms and specifically the implementation of smart contracts for operationalizing business processes. Offers students an opportunity to practice the development of decentralized autonomous organization applications using blockchain scripting languages.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "INFO", "number": "5100" },
-      "Or",
-      { "subject": "INFO", "number": "5100" },
-      "Or",
-      { "subject": "CSYE", "number": "6200" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "INFO",
@@ -833,7 +828,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "36591" },
       { "term": "202410", "crn": "18304" },
       { "term": "202310", "crn": "20737" },
       { "term": "202260", "crn": "61433" }
@@ -887,7 +881,7 @@
     ],
     "description": "Covers the latest techniques in natural language processing with applications to unstructured data.",
     "coreqs": [],
-    "prereqs": [{ "subject": "INFO", "number": "6205" }]
+    "prereqs": []
   },
   {
     "subject": "INFO",
@@ -914,7 +908,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202430", "crn": "36592" }],
     "description": "Offers theoretical and experimental work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
     "prereqs": []

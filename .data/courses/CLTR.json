@@ -30,6 +30,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202460", "crn": "61082" },
       { "term": "202430", "crn": "33483" },
       { "term": "202430", "crn": "40199" },
       { "term": "202410", "crn": "14564" },
@@ -118,7 +119,6 @@
     "nuPath": ["IC"],
     "sections": [
       { "term": "202430", "crn": "32280" },
-      { "term": "202430", "crn": "40644" },
       { "term": "202410", "crn": "10530" },
       { "term": "202330", "crn": "32532" },
       { "term": "202310", "crn": "10568" }
@@ -147,6 +147,7 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [
+      { "term": "202440", "crn": "41376" },
       { "term": "202430", "crn": "38805" },
       { "term": "202340", "crn": "41894" }
     ],
@@ -268,15 +269,9 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [{ "term": "202430", "crn": "38806" }],
-    "description": "Focuses on the construction, characteristics, and representation of poverty/the poor in Latin American texts from the thirties and sixties and in the works of contemporary Latin American writers and film directors. Discusses the relation of these works to a &#8220;realist tradition&#8221; by studying social, political, and cultural aspects of Latin America from the nineteenth and twentieth centuries. Considers whether we are facing a new kind of realism. Also engages the problem of representation, the &#8220;role of literature&#8221; (ethics and literature), and its relation with politics and the global economy (literature and the market) in the Latin American context. Taught in Spanish.",
+    "description": "Focuses on the construction, characteristics, and representation of poverty/the poor in Latin American texts from the thirties and sixties and in the works of contemporary Latin American writers and film directors. Discusses the relation of these works to a “realist tradition” by studying social, political, and cultural aspects of Latin America from the nineteenth and twentieth centuries. Considers whether we are facing a new kind of realism. Also engages the problem of representation, the “role of literature” (ethics and literature), and its relation with politics and the global economy (literature and the market) in the Latin American context. Taught in Spanish.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "SPNS", "number": "2102" },
-      "Or",
-      { "subject": "SPNS", "number": "3101" },
-      "Or",
-      { "subject": "SPNS", "number": "3102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CLTR",

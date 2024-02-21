@@ -28,6 +28,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61658" },
+      { "term": "202440", "crn": "41429" },
       { "term": "202430", "crn": "30172" },
       { "term": "202410", "crn": "10504" },
       { "term": "202410", "crn": "20707" },
@@ -47,10 +49,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "39769" },
-      { "term": "202430", "crn": "39770" }
-    ],
+    "sections": [{ "term": "202430", "crn": "39770" }],
     "description": "Covers special topics in law, policy, and society to fulfill students' interests. May be repeated without limit.",
     "coreqs": [],
     "prereqs": [
@@ -82,6 +81,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40807" },
       { "term": "202410", "crn": "14962" },
       { "term": "202330", "crn": "36600" },
       { "term": "202310", "crn": "16077" }

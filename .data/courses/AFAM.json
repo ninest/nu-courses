@@ -160,7 +160,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202430", "crn": "40601" }],
+    "sections": [],
     "description": "Focuses on the social construction of race and ethnicity and the nature of dominant/minority relations in the United States. Emphasizes the peculiar evolution of race relations in U.S. history, the political and economic conditions that have transformed race relations, and the nature of contemporary racial and ethnic relations in the United States. Topics include immigration, ethnic and racial identity, discrimination, and race-based policies (e.g., residential restrictive codes, Jim Crow segregation). Offers students an opportunity to develop a critical lens from which to observe and interpret contemporary debates over structural racism.",
     "coreqs": [],
     "prereqs": []

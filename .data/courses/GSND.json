@@ -134,9 +134,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "32555" },
-      { "term": "202430", "crn": "35269" },
-      { "term": "202430", "crn": "38064" },
-      { "term": "202430", "crn": "40662" },
       { "term": "202330", "crn": "32872" },
       { "term": "202330", "crn": "40152" }
     ],
@@ -168,7 +165,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "35550" },
-      { "term": "202430", "crn": "39000" },
       { "term": "202430", "crn": "40663" },
       { "term": "202330", "crn": "37089" }
     ],
@@ -235,7 +231,7 @@
     ],
     "description": "Covers the domain of psychophysiological testing. Introduces theory and research in major areas of human psychology, including cognition, emotions, and attention. Studies the principles, theory, and applications of psychophysiological assessment inside and outside interactive digital entertainment. Offers students an opportunity to understand the basics of eye tracking—eye movements, fixations, saccades. Applies methods of data collection, clearning, and analysis for both physiological and eye-tracking data. Covers all issues of using such measurements, including validity of conclusions and confounding variables. Covers the process of triangulation and repotting in-depth along the entire process of the game production life cycle.",
     "coreqs": [],
-    "prereqs": [{ "subject": "GSND", "number": "5130" }]
+    "prereqs": []
   },
   {
     "subject": "GSND",
@@ -259,11 +255,7 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "35271" },
-      { "term": "202430", "crn": "37633" },
-      { "term": "202330", "crn": "39713" }
-    ],
+    "sections": [{ "term": "202330", "crn": "39713" }],
     "description": "Studies principles of procedural content generation and generative methods, including modular design, the role of randomness in design, and designing for emergence. Examines the role of generative design in games and its impact on both designers and players. Through assignments and a semester-long project, encourages student creation of generative systems for playful experiences. In advanced course assignments, students are expected to evaluate the experience by applying game analytics and metrics and conducting user evaluations.",
     "coreqs": [],
     "prereqs": []
@@ -275,7 +267,10 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "39001" }],
+    "sections": [
+      { "term": "202430", "crn": "39001" },
+      { "term": "202430", "crn": "40859" }
+    ],
     "description": "Introduces the principles of 3D computer modeling and asset creation. Class lectures and demonstrations are accompanied by substantial hands-on exploration. Offers students an opportunity to gain fundamental skills for modeling, surfacing, lighting, and rendering. Projects progress from creating simple geometric objects to exploring systems for developing more complex assets, including characters and virtual environments. Topics include polygonal surface modeling tools/techniques, topology/edge flow, retopology, UV layout, surfacing/materials, lighting, physically based rendering and asset optimization for games, and real-time applications.",
     "coreqs": [],
     "prereqs": []
@@ -288,6 +283,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40920" },
+      { "term": "202430", "crn": "41027" },
+      { "term": "202430", "crn": "41558" },
       { "term": "202410", "crn": "22326" },
       { "term": "202330", "crn": "39900" },
       { "term": "202330", "crn": "40000" },
@@ -302,15 +300,28 @@
   },
   {
     "subject": "GSND",
+    "number": "7986",
+    "title": "Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "41787" },
+      { "term": "202430", "crn": "41932" }
+    ],
+    "description": "Offers students an opportunity to conduct full-time research under faculty supervision.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "GSND",
     "number": "7990",
     "title": "Thesis",
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "32384" },
       { "term": "202430", "crn": "37086" },
-      { "term": "202430", "crn": "39002" },
       { "term": "202330", "crn": "39102" },
       { "term": "202310", "crn": "13802" }
     ],
@@ -327,7 +338,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "38175" },
-      { "term": "202430", "crn": "38176" },
       { "term": "202430", "crn": "39003" },
       { "term": "202410", "crn": "21981" },
       { "term": "202330", "crn": "40263" },
@@ -344,13 +354,9 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "33689" },
-      { "term": "202430", "crn": "33690" },
-      { "term": "202410", "crn": "20652" }
-    ],
+    "sections": [{ "term": "202410", "crn": "20652" }],
     "description": "Offers continued work on the thesis project.",
     "coreqs": [],
-    "prereqs": [{ "subject": "GSND", "number": "7990" }]
+    "prereqs": []
   }
 ]

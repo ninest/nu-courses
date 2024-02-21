@@ -7,9 +7,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61035" },
+      { "term": "202440", "crn": "41207" },
       { "term": "202430", "crn": "33218" },
       { "term": "202430", "crn": "33219" },
-      { "term": "202430", "crn": "33756" },
       { "term": "202430", "crn": "37272" },
       { "term": "202410", "crn": "13935" },
       { "term": "202410", "crn": "14930" },
@@ -87,15 +88,7 @@
     ],
     "description": "Studies topics related to Internet architecture and cryptographic schemes in the context of security. Provides advanced coverage of the major Internet protocols including IP and DNS. Examines denial of service, viruses, and worms, and discusses techniques for protection. Covers cryptographic paradigms and algorithms such as RSA and Diffie-Hellman in sufficient mathematical detail. The advanced topics address the design and implementation of authentication protocols and existing standardized security protocols. Explores the security of commonly used applications like the Web and e-mail.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CS", "number": "3700" },
-      "Or",
-      { "subject": "CS", "number": "4700" },
-      "Or",
-      { "subject": "CS", "number": "4730" },
-      "Or",
-      { "subject": "CS", "number": "5700" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CY",
@@ -148,11 +141,7 @@
     ],
     "description": "Provides the culmination of the learned principles and methodologies for identifying and addressing cybersecurity issues in organizations. Offers students an opportunity to work in small groups to identify and scope a current cybersecurity problem/challenge. Requires students to submit a written proposal about the project, complete with motivation, literature research, and reasons for the study; create a work plan to develop a solution to include the development and identification of the data necessary to properly solve the problem/challenge; and create a final report.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CY", "number": "3740" },
-      "Or",
-      { "subject": "CY", "number": "4740" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CY",
@@ -164,15 +153,7 @@
     "sections": [{ "term": "202430", "crn": "39308" }],
     "description": "Examines fundamental principles of usable security and privacy, applying  them in a variety of practical contexts. Fundamental principles include mathematical models, social science theories, and legal approaches to privacy; ethics; sources of vulnerability such as activities and systemic inequalities; and the relationship of human-centered and technical aspects. Examples of practical contexts include authentication, warnings, phishing, developer practices, user understanding and sources of advice, censorship and surveillance, anonymity and pseudonymity, secure messaging, dark patterns, misinformation, and usability of cryptographic tools such as multi-party computation. Learning experiences will emphasize hands-on experience with both academic and practical topics.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CS", "number": "3000" },
-      "And",
-      "(",
-      { "subject": "CS", "number": "3500" },
-      "Or",
-      { "subject": "DS", "number": "3500" },
-      ")"
-    ]
+    "prereqs": [{ "subject": "IS", "number": "4300" }]
   },
   {
     "subject": "CY",
@@ -183,7 +164,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "36768" },
-      { "term": "202430", "crn": "40602" },
       { "term": "202410", "crn": "19713" },
       { "term": "202330", "crn": "38769" },
       { "term": "202310", "crn": "15741" }
@@ -202,7 +182,6 @@
     "sections": [
       { "term": "202430", "crn": "36769" },
       { "term": "202430", "crn": "39309" },
-      { "term": "202430", "crn": "40224" },
       { "term": "202410", "crn": "14342" },
       { "term": "202410", "crn": "19893" },
       { "term": "202330", "crn": "38770" },
@@ -392,7 +371,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21753" }],
+    "sections": [
+      { "term": "202430", "crn": "40918" },
+      { "term": "202310", "crn": "21753" }
+    ],
     "description": "Seeks to provide cybersecurity (CY) students with the training experience of working on a specific IA project under the direction of an CY instructor. The instructor provides students with a plan of seminar sessions, including lectures, research, and development of project deliverables and with direction to complete the course. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -436,8 +418,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "37205" },
-      { "term": "202430", "crn": "40385" },
-      { "term": "202430", "crn": "40748" },
       { "term": "202410", "crn": "16862" },
       { "term": "202310", "crn": "19213" }
     ],
@@ -510,7 +490,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "53174" }],
+    "sections": [
+      { "term": "202430", "crn": "41092" },
+      { "term": "202350", "crn": "53174" }
+    ],
     "description": "Offers students an opportunity to participate in a direct cybersecurity project under the supervision of a faculty member. May be repeated once for a total of 8 credits.",
     "coreqs": [],
     "prereqs": []
@@ -524,17 +507,12 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "34231" },
-      { "term": "202430", "crn": "34327" },
       { "term": "202430", "crn": "34356" },
-      { "term": "202430", "crn": "34385" },
       { "term": "202430", "crn": "34391" },
       { "term": "202430", "crn": "34589" },
-      { "term": "202430", "crn": "38085" },
       { "term": "202430", "crn": "38219" },
       { "term": "202430", "crn": "38260" },
-      { "term": "202430", "crn": "38434" },
       { "term": "202430", "crn": "38437" },
-      { "term": "202430", "crn": "40586" },
       { "term": "202410", "crn": "20778" },
       { "term": "202410", "crn": "21379" },
       { "term": "202410", "crn": "21380" },
@@ -569,13 +547,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "39983" },
-      { "term": "202430", "crn": "39984" },
-      { "term": "202430", "crn": "39985" },
       { "term": "202430", "crn": "39986" },
-      { "term": "202430", "crn": "39987" },
-      { "term": "202430", "crn": "39988" },
-      { "term": "202430", "crn": "39989" },
       { "term": "202410", "crn": "20831" },
       { "term": "202410", "crn": "21822" },
       { "term": "202310", "crn": "21173" },
@@ -594,12 +566,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "40016" },
-      { "term": "202430", "crn": "40017" },
-      { "term": "202430", "crn": "40018" },
-      { "term": "202430", "crn": "40019" },
-      { "term": "202430", "crn": "40020" },
       { "term": "202430", "crn": "40021" },
-      { "term": "202430", "crn": "40022" },
       { "term": "202330", "crn": "40162" },
       { "term": "202330", "crn": "40331" },
       { "term": "202310", "crn": "17998" },
@@ -609,7 +576,7 @@
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CY", "number": "9990" }]
+    "prereqs": []
   },
   {
     "subject": "CY",
@@ -619,12 +586,10 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34478" },
       { "term": "202430", "crn": "35856" },
       { "term": "202430", "crn": "35905" },
       { "term": "202430", "crn": "38020" },
       { "term": "202430", "crn": "39885" },
-      { "term": "202430", "crn": "39886" },
       { "term": "202410", "crn": "15569" },
       { "term": "202410", "crn": "16184" },
       { "term": "202410", "crn": "20771" },

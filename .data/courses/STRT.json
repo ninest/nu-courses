@@ -22,6 +22,15 @@
     "credits": 4,
     "nuPath": ["CE", "WI", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60021" },
+      { "term": "202460", "crn": "60369" },
+      { "term": "202460", "crn": "60592" },
+      { "term": "202440", "crn": "40018" },
+      { "term": "202440", "crn": "40009" },
+      { "term": "202440", "crn": "40474" },
+      { "term": "202440", "crn": "40236" },
+      { "term": "202440", "crn": "40247" },
+      { "term": "202440", "crn": "41502" },
       { "term": "202430", "crn": "30363" },
       { "term": "202430", "crn": "30361" },
       { "term": "202430", "crn": "30360" },
@@ -39,6 +48,8 @@
       { "term": "202430", "crn": "33495" },
       { "term": "202430", "crn": "34346" },
       { "term": "202430", "crn": "35630" },
+      { "term": "202430", "crn": "41163" },
+      { "term": "202430", "crn": "41482" },
       { "term": "202410", "crn": "10789" },
       { "term": "202410", "crn": "10790" },
       { "term": "202410", "crn": "10791" },
@@ -110,7 +121,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "39033" }],
+    "sections": [],
     "description": "Presents a general management perspective on business strategy, the \"big picture.\" Illustrates how a well-thought-out strategy can lead to sustained, superior performance by firms in a dynamic business environment. Offers students an opportunity to obtain a broad understanding of the importance and complexity of strategic decisions from a practical and problem-oriented approach. Applies concepts, analytic frameworks, and intuition to the strategic issues that real-world companies face.",
     "coreqs": [],
     "prereqs": []
@@ -158,6 +169,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61669" },
       { "term": "202430", "crn": "40249" },
       { "term": "202310", "crn": "14949" }
     ],
@@ -200,6 +212,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60582" },
       { "term": "202430", "crn": "37732" },
       { "term": "202410", "crn": "13358" },
       { "term": "202410", "crn": "13355" },

@@ -1,5 +1,13 @@
 export const TERMS = [
   {
+    code: "202460",
+    description: "Summer II 2024",
+  },
+  {
+    code: "202440",
+    description: "Summer I 2024",
+  },
+  {
     code: "202430",
     description: "Spring 2024",
   },

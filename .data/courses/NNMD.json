@@ -75,6 +75,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41173" },
       { "term": "202430", "crn": "35496" },
       { "term": "202430", "crn": "33410" },
       { "term": "202430", "crn": "37712" },
@@ -121,15 +122,7 @@
     ],
     "description": "Offers an in-depth look at preclinical and clinical considerations for drug discovery and development. Emphasizes identifying and addressing challenges associated with animal models, evaluation of drug-tissue interactions, qualifying for good laboratory practices, clinical trial design, patient stratification, and clinical trial management. Identifies key terminology and statistical considerations used in preclinical and clinical settings. Students practice steps of preclinical and clinical translation through a combination of case studies, data analysis, discussions, and a team project.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "NNMD", "number": "5270" },
-      "Or",
-      { "subject": "NNMD", "number": "5271" },
-      ")",
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "NNMD",

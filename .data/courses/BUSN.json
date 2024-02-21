@@ -15,11 +15,8 @@
       { "term": "202430", "crn": "31012" },
       { "term": "202430", "crn": "31023" },
       { "term": "202430", "crn": "31358" },
-      { "term": "202430", "crn": "31649" },
-      { "term": "202430", "crn": "35280" },
       { "term": "202430", "crn": "35281" },
       { "term": "202430", "crn": "35282" },
-      { "term": "202430", "crn": "35283" },
       { "term": "202410", "crn": "10261" },
       { "term": "202410", "crn": "10238" },
       { "term": "202410", "crn": "10237" },
@@ -273,8 +270,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "31580" },
-      { "term": "202430", "crn": "34130" },
       { "term": "202430", "crn": "35442" },
       { "term": "202410", "crn": "11671" },
       { "term": "202410", "crn": "14809" },
@@ -301,6 +296,18 @@
   },
   {
     "subject": "BUSN",
+    "number": "6203",
+    "title": "Strategic Sustainability",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41525" }],
+    "description": "Introduces tools and frameworks for analyzing a firm’s sustainability and facilitating its strategic sustainability transformation. Examines what strategic sustainability is and why it is important; the drivers of strategic sustainability; measurement of strategic sustainability; and implementation of environmental, social, and governance strategic sustainability. Studies the three dimensions (environmental, social, and governance) of strategic sustainability and the use of concepts and frameworks for assessing strategic sustainability. Offers students an opportunity to analyze and provide recommendations on how to implement a firm’s strategic sustainability.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BUSN",
     "number": "6296",
     "title": "Introduction to Data Storytelling and Visualization for Business",
     "scheduleType": "Lecture",
@@ -310,6 +317,17 @@
     "description": "Studies the skills required to effectively tell stories with data to drive business decisions. Covers data analysis, interpretation, and visualization techniques. Emphasizes understanding audience perspectives and mastering business presentation techniques. Offers students an opportunity to cultivate the ability to communicate complex data findings in a simple, concise, and influential manner to both technical and nontechnical audiences, thereby fostering data-driven decision making.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "BUSN",
+    "number": "6298",
+    "title": "Supply Chain Impact on Reaching Net Zero",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [],
+    "description": "Unable to find description.",
+    "coreqs": []
   },
   {
     "subject": "BUSN",
@@ -372,7 +390,6 @@
     "sections": [
       { "term": "202430", "crn": "33063" },
       { "term": "202430", "crn": "33064" },
-      { "term": "202430", "crn": "33065" },
       { "term": "202410", "crn": "19362" },
       { "term": "202330", "crn": "33465" },
       { "term": "202310", "crn": "21816" },
@@ -408,6 +425,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60669" },
       { "term": "202430", "crn": "32976" },
       { "term": "202360", "crn": "60763" },
       { "term": "202330", "crn": "33369" },
@@ -464,7 +482,10 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21089" }],
+    "sections": [
+      { "term": "202430", "crn": "40867" },
+      { "term": "202310", "crn": "21089" }
+    ],
     "description": "Examines how strategic business decisions are made and governing policies established in today's changing corporate environment. Discusses whether it is advisable for CEOs to “take a stand” on behalf of their company and their employees when fundamental shared values and a company's purpose or mission are at stake. After a grounding in business governance theory and history, students debate whether CEOs should speak openly on controversial public issues. One can make the case that a CEO taking a position on one side of a public issue is a significant strategic risk. Conversely, stakeholders are increasingly demanding that business leaders publicly take positions and change business practices to align with those values.",
     "coreqs": [],
     "prereqs": []
@@ -476,7 +497,10 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21091" }],
+    "sections": [
+      { "term": "202440", "crn": "41857" },
+      { "term": "202310", "crn": "21091" }
+    ],
     "description": "Highlights the importance of public-private sector interconnections and systemic partnerships within communities to promote resilience and enable progress toward sustainable development, such as those promoted by the United Nations Sustainable Development Goals (UN SDGs). Covers the nexus between resilience, sustainable development, and the impact of crises on societies and multinational corporations. Includes both conceptual material and examples. Includes a case study competition where students are presented with a challenge scenario and then asked to provide a presentation where they think creatively about how firms and communities can have a reciprocal relationship toward sustainable development and resilience.",
     "coreqs": [],
     "prereqs": []
@@ -546,12 +570,25 @@
   },
   {
     "subject": "BUSN",
+    "number": "6387",
+    "title": "Job Is Easy, People Are Not",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41049" }],
+    "description": "Explores the complex challenges of becoming leaders and managing people. Studies 10 essential smart (not soft) skills that are vital for personal and professional development. Fosters insight in how to develop and apply these skills in various aspects of life, how to self-correct, and how to help others adjust their behaviors to become better professionals.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BUSN",
     "number": "6402",
     "title": "Stakeholder Values and Societal Challenges in Business",
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41222" },
       { "term": "202430", "crn": "39339" },
       { "term": "202340", "crn": "41733" }
     ],
@@ -600,6 +637,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60633" },
+      { "term": "202440", "crn": "40836" },
       { "term": "202430", "crn": "36085" },
       { "term": "202410", "crn": "15493" },
       { "term": "202410", "crn": "16278" },

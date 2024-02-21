@@ -72,19 +72,7 @@
     ],
     "description": "Guides students through the process of analyzing and interpreting frozen texts (plays, poems, and ceremonial scripts), from first read-through to final interpreted rendering of the performed text. Interpreting for theatrical or otherwise scripted communication is markedly different from other forms of interpreting. The availability of a script, ample time to rehearse, and the possibility of feedback makes this a hybrid practice—part interpreting, part translation, and part performance. Offers students an opportunity to learn how to analyze scripts for both content and interpreting issues; how to solve production problems of logistics, placement, and lighting; and how to interpret a series of performances for the Deaf Community. This course is offered in conjunction with or in advance of a theatre department production or other performed text.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "AMSL", "number": "2102" },
-      "And",
-      "(",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "INTP",
@@ -108,7 +96,7 @@
     "sections": [{ "term": "202410", "crn": "14203" }],
     "description": "Focuses on the interpretation of expository texts (lectures, procedural texts) and the development of strategic decision-making skills within the context of expository texts. Presents an overview of linguistic and sociolinguistic features and situational aspects of expository texts. Reinforces models of interpretation in students’ practical development of analytic and cognitive skills, in order that they may effectively identify and transfer message meaning. Offers students an opportunity to further develop the cognitive processes and team interpretation skills to manage temporal constraints of simultaneous interpretation and to develop and apply the decision-making skills needed for achieving cross-cultural, cross-linguistic message mediation in these settings.",
     "coreqs": [],
-    "prereqs": [{ "subject": "INTP", "number": "3515" }]
+    "prereqs": []
   },
   {
     "subject": "INTP",

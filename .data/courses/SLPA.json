@@ -39,6 +39,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41809" },
       { "term": "202430", "crn": "33765" },
       { "term": "202330", "crn": "34369" }
     ],
@@ -54,6 +55,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61497" },
       { "term": "202410", "crn": "14474" },
       { "term": "202310", "crn": "15241" },
       { "term": "202310", "crn": "20875" }
@@ -70,6 +72,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61498" },
       { "term": "202430", "crn": "33766" },
       { "term": "202330", "crn": "34370" }
     ],
@@ -85,6 +88,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41810" },
       { "term": "202410", "crn": "14479" },
       { "term": "202310", "crn": "15249" },
       { "term": "202310", "crn": "20518" }
@@ -101,6 +105,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41811" },
       { "term": "202430", "crn": "30110" },
       { "term": "202330", "crn": "30113" }
     ],
@@ -180,11 +185,7 @@
     ],
     "description": "Offers students an opportunity to obtain the foundation needed to work with adults and children who demonstrate delays and disorders of speech production across the life span. Discusses articulation and phonological development and disorders, phonological differences, disorders of fluency of speech, and disorders of resonance and voice. Presents formal and informal diagnostic and therapeutic intervention for each disorder/difference and discusses the impact of these communication problems in relation to the individual and family.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "SLPA", "number": "1103" },
-      "And",
-      { "subject": "SLPA", "number": "1200" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "SLPA",
@@ -193,10 +194,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "38799" },
-      { "term": "202410", "crn": "19595" }
-    ],
+    "sections": [{ "term": "202410", "crn": "19595" }],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -256,7 +254,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "33456" }],
+    "sections": [
+      { "term": "202430", "crn": "40880" },
+      { "term": "202330", "crn": "33456" }
+    ],
     "description": "Comprises a systematic, family-centered, team approach to service delivery. Cases are used as a focal point for learning how to plan and evaluate individualized family services and group service plans. Covers important aspects of teamwork and leadership in early intervention with respect to service and coordination. Addresses practical approaches to assessing needs for group programs, and evaluating the implementation and outcomes of programs. Also considers the impact of legal and financial issues on service coordination and approaches to service delivery.",
     "coreqs": [],
     "prereqs": []
@@ -305,6 +306,18 @@
       { "term": "202310", "crn": "11225" }
     ],
     "description": "Offers students an opportunity to review diagnostic tests and test manuals in the field of speech-language pathology and to practice their administration. Discusses information about test content, reliability, and validity. Principles of standardized testing, norm referencing, and test scoring are reviewed and practiced.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SLPA",
+    "number": "5976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41854" }],
+    "description": "Allows students to pursue topics of individual interest beyond the scope of formal course work under the direction of faculty. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -477,12 +490,25 @@
   },
   {
     "subject": "SLPA",
+    "number": "6313",
+    "title": "Counseling in Speech-Language Pathology",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202440", "crn": "41789" }],
+    "description": "Offers a theoretical framework from which specific counseling strategies may be implemented for individuals and their families with various communication disorders. Stresses conversational interactive strategies. Emphasizes the role of cultural humility and cultural responsiveness in counseling strategies. Offers students an opportunity to role-play counseling issues with individuals across the life span.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SLPA",
     "number": "6320",
     "title": "Autism Spectrum Disorders",
     "scheduleType": "Seminar",
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40907" },
       { "term": "202340", "crn": "41185" },
       { "term": "202240", "crn": "41545" }
     ],
@@ -520,6 +546,18 @@
   },
   {
     "subject": "SLPA",
+    "number": "6329",
+    "title": "Diversity, Equity, and Inclusion in Speech-Language Pathology",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202460", "crn": "61499" }],
+    "description": "Introduces intersectional thinking and cultural responsiveness for speech-language pathologists through topics related to diversity, equity, and inclusion. Offers students an opportunity to gain comfort in engaging with these topics and to develop actionable steps toward more reflective and accountable practices. Facilitates engagement in culturally responsive care through participation in the process of unlearning and understanding the needs of diverse populations.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SLPA",
     "number": "6330",
     "title": "Language Literacy 1",
     "scheduleType": "Lecture",
@@ -541,6 +579,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61099" },
       { "term": "202360", "crn": "61322" },
       { "term": "202360", "crn": "61431" }
     ],
@@ -641,11 +680,19 @@
     ],
     "description": "Offers students an opportunity to obtain foundational skills needed to work with frequently referred adults with acquired neurologic cognitive-communicative impairments across clinical settings. Speech, language, and cognitive-communication disorders are typical consequences of acquired central and peripheral nervous system adult impairments. Emphasizes the anatomy, etiology, neurology, and physiology of different types of cognitive-communicative impairments, characteristics of these, and intervention approaches (diagnostic and therapeutic). Addresses prevention, outcome, efficacy, and service-delivery considerations.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "SLPA", "number": "5109" },
-      "Or",
-      { "subject": "SLPA", "number": "5109" }
-    ]
+    "prereqs": []
+  },
+  {
+    "subject": "SLPA",
+    "number": "6350",
+    "title": "Speech-Language Pathology in Medical Settings",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202440", "crn": "41786" }],
+    "description": "Provides an overview to the adult and pediatric medical settings in which speech-language pathologists are employed. Offers students an opportunity to learn about the role(s) of the SLP in various settings (e.g., acute care, rehabilitation, outpatient services, private practice, home health, and day habilitation); the SLPs' scope of practice; the variety of patient populations/diagnoses; and the medical team approach to service delivery across the continuum of care and across the life span.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "SLPA",
@@ -679,11 +726,7 @@
     ],
     "description": "Offers supervised clinical experience in speech pathology at the Northeastern University Hearing, Language, and Speech Center, medical settings, educational settings, and rehabilitation centers. Uses practical experience to emphasize advanced diagnostic and management techniques, stressing the application of theory to practice. Requires student to be available a minimum of twenty hours per week during the academic year. May be repeated without limit.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "SLPA", "number": "6415" },
-      "Or",
-      { "subject": "SLPA", "number": "6415" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "SLPA",
@@ -693,7 +736,6 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38801" },
       { "term": "202410", "crn": "11703" },
       { "term": "202350", "crn": "51699" },
       { "term": "202330", "crn": "38592" },
@@ -734,6 +776,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60371" },
       { "term": "202360", "crn": "60398" },
       { "term": "202260", "crn": "60422" },
       { "term": "202260", "crn": "61292" }
@@ -778,8 +821,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "30698" },
-      { "term": "202430", "crn": "33396" },
-      { "term": "202430", "crn": "36861" },
       { "term": "202430", "crn": "36862" },
       { "term": "202410", "crn": "10653" },
       { "term": "202410", "crn": "19226" },

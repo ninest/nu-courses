@@ -29,6 +29,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41523" },
       { "term": "202430", "crn": "32571" },
       { "term": "202410", "crn": "12973" },
       { "term": "202340", "crn": "42046" },
@@ -47,17 +48,13 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "32572" },
+      { "term": "202460", "crn": "60488" },
       { "term": "202410", "crn": "19830" },
       { "term": "202330", "crn": "32892" }
     ],
     "description": "Studies fundamental principles in fluid mechanics and thermal systems analysis. Topics include hydrostatics (pressure distribution, forces on submerged surfaces, and buoyancy); Newton's law of viscosity; integral forms of basic laws (conservation of mass, momentum, and energy); pipe flow analysis; concept of boundary layer; and drag coefficient. Presents Navier-Stokes equations as differential forms of conservative properties. Introduces theories of thermal energy transport, including conduction, convection, and thermal radiation; the design of thermal systems; and fundamentals of calculus, such as linear algebra, vector fields, and curvilinear coordinate systems required for introducing concepts of fluid dynamics and heat transfer. Discusses surface and volume integrals, conservative vector fields, and surface flux. Green's, divergence, and Stokes theorems are introduced for vector and scalar fields.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENSY", "number": "5050" },
-      "Or",
-      { "subject": "ENSY", "number": "5050" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENSY",
@@ -125,7 +122,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "32914" },
-      { "term": "202430", "crn": "33505" },
       { "term": "202410", "crn": "13237" },
       { "term": "202410", "crn": "15348" },
       { "term": "202330", "crn": "33293" },
@@ -145,8 +141,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "35667" },
-      { "term": "202430", "crn": "36686" }
+      { "term": "202460", "crn": "61509" },
+      { "term": "202460", "crn": "61510" }
     ],
     "description": "Focuses on the principles and working fundamentals of photovoltaic (PV) energy conversion, while emphasizing currently available solar technologies. Studies the semiconductor processes and advanced characterization theories. Examines design, fabrication, characterization of the PV modules, and different generations of solar cells and their properties. Advanced topics include thin film cells, compound semiconductors multijunction, multiband cells, spectral conversion, and introduces organic devices. Offers insight about the energy consumption crisis, sustainable energy sources, PV system components, and solar markets. Also discusses issues relating to PV systems, economics, and sustainability.",
     "coreqs": [],
@@ -189,6 +185,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "35011" },
+      { "term": "202430", "crn": "41224" },
       { "term": "202410", "crn": "14617" },
       { "term": "202330", "crn": "36139" },
       { "term": "202310", "crn": "15489" }
@@ -212,7 +209,7 @@
     ],
     "description": "Covers fundamentals of artificial intelligence (AI) used in engineering applications for energy systems. Introduces a brief treatment of AI methods. Examines several AI methods, including search algorithms, decision making under uncertainty, graphical methods, and machine learning. Discusses a more thorough treatment for how AI is used for engineering applications in energy systems. Application areas include power generation, electric grid, renewables, and energy storage. Focuses on practical considerations, including economic opportunity, verification and validation, risks, and nontechnical challenges.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ENSY", "number": "5000" }]
+    "prereqs": []
   },
   {
     "subject": "ENSY",
@@ -251,11 +248,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "33485" },
-      { "term": "202430", "crn": "34549" },
-      { "term": "202430", "crn": "34647" }
-    ],
+    "sections": [{ "term": "202430", "crn": "41459" }],
     "description": "Offers theoretical or experimental work under individual faculty supervision.",
     "coreqs": [],
     "prereqs": []
@@ -267,7 +260,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "32971" }],
+    "sections": [],
     "description": "Offers an individual effort in an area selected by student and advisor and approved by the Department Discipline Committee, resulting in a definitive report. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []

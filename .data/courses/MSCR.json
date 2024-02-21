@@ -22,6 +22,7 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202440", "crn": "40344" },
       { "term": "202430", "crn": "32459" },
       { "term": "202340", "crn": "40373" },
       { "term": "202340", "crn": "42051" },
@@ -61,8 +62,10 @@
     "credits": 4,
     "nuPath": ["EI", "IC"],
     "sections": [
+      { "term": "202440", "crn": "41796" },
       { "term": "202430", "crn": "31690" },
       { "term": "202430", "crn": "31901" },
+      { "term": "202430", "crn": "31951" },
       { "term": "202410", "crn": "15263" },
       { "term": "202410", "crn": "12018" },
       { "term": "202410", "crn": "12019" },
@@ -87,6 +90,7 @@
     "credits": 4,
     "nuPath": ["ER"],
     "sections": [
+      { "term": "202460", "crn": "61505" },
       { "term": "202430", "crn": "39063" },
       { "term": "202410", "crn": "15264" },
       { "term": "202330", "crn": "39275" },
@@ -104,6 +108,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41797" },
       { "term": "202430", "crn": "37087" },
       { "term": "202410", "crn": "13039" },
       { "term": "202410", "crn": "17968" },
@@ -158,7 +163,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
-      { "term": "202430", "crn": "32460" },
+      { "term": "202440", "crn": "41135" },
       { "term": "202410", "crn": "17218" },
       { "term": "202330", "crn": "32764" },
       { "term": "202310", "crn": "19592" }
@@ -218,6 +223,7 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202440", "crn": "40447" },
       { "term": "202430", "crn": "33755" },
       { "term": "202340", "crn": "40497" },
       { "term": "202330", "crn": "34353" },
@@ -324,6 +330,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202440", "crn": "41798" },
       { "term": "202430", "crn": "39066" },
       { "term": "202410", "crn": "14025" },
       { "term": "202340", "crn": "41642" },
@@ -356,15 +363,7 @@
     ],
     "description": "Explores how mass media audiences interpret and actively use media messages and products as listeners, readers, and consumers. Examines the different stages of ethnographic research, audience meanings and interpretations, pleasure and fanship, the role of media in everyday life, and the use of ethnographic research methods in communication studies. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MSCR",
@@ -380,7 +379,7 @@
     ],
     "description": "Examines representations of identity (race, gender, sexuality, and class) in the media, investigates their influences, and considers their repercussions. The class especially focuses on understanding identity as a construction, rather than as inherently “natural.” Broadly, we discuss the relationship between identity and media representations; more specifically, we look at cultural texts, sites, and practices where the existing racial categories mix, merge, and/or rub up against each other in ways that problematize the naturalness of essentialized identities. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MSCR", "number": "1220" }]
+    "prereqs": []
   },
   {
     "subject": "MSCR",
@@ -453,7 +452,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "39070" }],
+    "sections": [
+      { "term": "202440", "crn": "41799" },
+      { "term": "202430", "crn": "39070" }
+    ],
     "description": "In True Crime Media, we will analyze the narrative conventions of the true crime genre and explore the historical and cultural origins of true crime as a storytelling mode. We will explore the industry conditions that affect true crime coverage, and analyze the social and political dynamics that shape and are shaped by true crime narratives in commercial media.",
     "coreqs": [],
     "prereqs": []
@@ -496,10 +498,6 @@
     ],
     "description": "Overviews key conceptual approaches that have developed for the study of the media. Investigates theories that address the role of media in culture and focuses on how cultural studies can inform our reading of both media and culture.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "MSCR", "number": "1220" },
-      "Or",
-      { "subject": "COMM", "number": "1220" }
-    ]
+    "prereqs": []
   }
 ]

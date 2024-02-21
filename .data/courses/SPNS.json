@@ -7,6 +7,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41816" },
       { "term": "202430", "crn": "30060" },
       { "term": "202430", "crn": "30025" },
       { "term": "202430", "crn": "30059" },
@@ -34,6 +35,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41817" },
       { "term": "202430", "crn": "30058" },
       { "term": "202430", "crn": "30057" },
       { "term": "202430", "crn": "36140" },
@@ -50,11 +52,7 @@
     ],
     "description": "Builds on SPNS 1101. Continues the integrated development of elementary language skills through cultural exploration. Includes class discussion and project-based learning. Offers students an opportunity to gain a deeper understanding of the linguistic, cultural, and geographic diversity of the Spanish-speaking world.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "SPNS", "number": "1101" },
-      "Or",
-      "Placement in SPNS 1102"
-    ]
+    "prereqs": []
   },
   {
     "subject": "SPNS",
@@ -64,6 +62,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41145" },
       { "term": "202430", "crn": "30056" },
       { "term": "202430", "crn": "34691" },
       { "term": "202430", "crn": "36141" },
@@ -80,11 +79,7 @@
     ],
     "description": "Builds on SPNS 1102 and begins the integrated development of intermediate language skills through cultural exploration. Includes class discussion and project-based learning. Offers students an opportunity to gain a deeper understanding of modern life in Spanish-speaking countries and efforts to preserve cultural heritage.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "SPNS", "number": "1102" },
-      "Or",
-      "Placement in SPNS 2101"
-    ]
+    "prereqs": []
   },
   {
     "subject": "SPNS",
@@ -94,6 +89,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202440", "crn": "40578" },
       { "term": "202430", "crn": "30055" },
       { "term": "202430", "crn": "31295" },
       { "term": "202430", "crn": "32358" },
@@ -143,11 +139,7 @@
     ],
     "description": "Builds on SPNS 2102 and begins the integrated development of advanced language skills through cultural exploration. Includes class discussion, project-based learning, and one-on-one conversations with native speakers from around the Spanish-speaking world. Offers students an opportunity to gain a deeper understanding of the (de)construction of social, political, and interpersonal borders in the Spanish-speaking world.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "SPNS", "number": "2102" },
-      "Or",
-      "Placement in SPNS 3101"
-    ]
+    "prereqs": []
   },
   {
     "subject": "SPNS",
@@ -157,7 +149,6 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
-      { "term": "202430", "crn": "30015" },
       { "term": "202430", "crn": "32351" },
       { "term": "202410", "crn": "10827" },
       { "term": "202410", "crn": "12600" },
@@ -250,16 +241,13 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19666" }],
+    "sections": [
+      { "term": "202440", "crn": "41818" },
+      { "term": "202410", "crn": "19666" }
+    ],
     "description": "Uses project-based learning to help students build their confidence to interact with native speakers throughout the Spanish-speaking world by improving their pronunciation and listening comprehension, as well as increasing their awareness of the variation that exists in spoken Spanish. Briefly introduces the history of the Spanish language and the many Spanish-speaking communities around the world. Explores the Spanish sound system as it relates to both students' own pronunciation and to the diversity of dialects in the Spanish-speaking world. Offers students an opportunity to examine their own pronunciation, participate in one-on-one conversations with native speakers, analyze real examples of spoken Spanish, and consider the role of Spanish in bilingual communities around the world.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "SPNS", "number": "2102" },
-      "Or",
-      { "subject": "SPNS", "number": "3101" },
-      "Or",
-      { "subject": "SPNS", "number": "3102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "SPNS",
@@ -293,17 +281,7 @@
     ],
     "description": "Explores a particular topic in Spanish linguistics. Topics may include phonology, syntax, morphology, sociolinguistics, language contact, bilingualism, or applied linguistics, among others.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "SPNS", "number": "3101" },
-      "Or",
-      { "subject": "SPNS", "number": "3102" },
-      "Or",
-      { "subject": "SPNS", "number": "3601" },
-      "Or",
-      { "subject": "SPNS", "number": "3602" },
-      "Or",
-      "Placement in SPNS 3102"
-    ]
+    "prereqs": []
   },
   {
     "subject": "SPNS",

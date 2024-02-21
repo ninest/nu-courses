@@ -7,9 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "31314" },
       { "term": "202430", "crn": "32360" },
-      { "term": "202430", "crn": "39830" },
       { "term": "202410", "crn": "10797" },
       { "term": "202410", "crn": "10798" },
       { "term": "202410", "crn": "13233" },
@@ -33,6 +31,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40436" },
       { "term": "202430", "crn": "30240" },
       { "term": "202410", "crn": "14471" },
       { "term": "202410", "crn": "20910" },
@@ -158,7 +157,6 @@
       { "term": "202430", "crn": "31869" },
       { "term": "202430", "crn": "32487" },
       { "term": "202430", "crn": "33195" },
-      { "term": "202430", "crn": "35117" },
       { "term": "202410", "crn": "12066" },
       { "term": "202410", "crn": "11402" },
       { "term": "202410", "crn": "11594" },
@@ -259,14 +257,13 @@
       { "term": "202430", "crn": "31220" },
       { "term": "202430", "crn": "31221" },
       { "term": "202430", "crn": "39254" },
-      { "term": "202430", "crn": "32584" },
       { "term": "202430", "crn": "32246" },
       { "term": "202430", "crn": "32247" },
       { "term": "202430", "crn": "37340" },
       { "term": "202430", "crn": "37341" },
       { "term": "202430", "crn": "37342" },
       { "term": "202430", "crn": "37343" },
-      { "term": "202430", "crn": "40593" },
+      { "term": "202430", "crn": "40853" },
       { "term": "202410", "crn": "10117" },
       { "term": "202410", "crn": "11113" },
       { "term": "202410", "crn": "11112" },
@@ -383,6 +380,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60119" },
       { "term": "202430", "crn": "30238" },
       { "term": "202430", "crn": "31214" },
       { "term": "202430", "crn": "31215" },
@@ -419,34 +417,7 @@
     ],
     "description": "Emphasizes the promotion of health for childbearing women and their families. The nursing process provides the framework for students to assess and therapeutically intervene in promoting healthy childbearing and health during the life span. Self-care and empowerment are an integral focus in examining women's health from a developmental perspective. Examines the nursing role of the professional nurse in the context of concepts of human development of individual, family, and community. Discusses the effects of cultural, social, economic, and ethical influences and the impact of healthcare technology.",
     "coreqs": [{ "subject": "NRSG", "number": "3303" }],
-    "prereqs": [
-      "(",
-      { "subject": "NRSG", "number": "2220" },
-      "Or",
-      { "subject": "NRSG", "number": "2220" },
-      "Or",
-      { "subject": "NRSG", "number": "2220" },
-      ")",
-      "(",
-      { "subject": "NRSG", "number": "2350" },
-      "Or",
-      { "subject": "NRSG", "number": "2350" },
-      ")",
-      "Or",
-      "(",
-      { "subject": "NRSG", "number": "5117" },
-      "And",
-      { "subject": "NRSG", "number": "5126" },
-      ")",
-      "And",
-      "(",
-      { "subject": "NRSG", "number": "2221" },
-      "Or",
-      { "subject": "NRSG", "number": "2221" },
-      "Or",
-      { "subject": "NRSG", "number": "2221" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -456,6 +427,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60120" },
       { "term": "202430", "crn": "34030" },
       { "term": "202430", "crn": "34031" },
       { "term": "202430", "crn": "34032" },
@@ -470,7 +442,6 @@
       { "term": "202430", "crn": "37832" },
       { "term": "202430", "crn": "39255" },
       { "term": "202430", "crn": "39256" },
-      { "term": "202430", "crn": "34041" },
       { "term": "202430", "crn": "34042" },
       { "term": "202430", "crn": "34043" },
       { "term": "202430", "crn": "34044" },
@@ -478,7 +449,6 @@
       { "term": "202430", "crn": "34046" },
       { "term": "202430", "crn": "38099" },
       { "term": "202430", "crn": "40358" },
-      { "term": "202430", "crn": "40594" },
       { "term": "202410", "crn": "11388" },
       { "term": "202410", "crn": "11389" },
       { "term": "202410", "crn": "11390" },
@@ -578,11 +548,9 @@
       { "term": "202430", "crn": "31277" },
       { "term": "202430", "crn": "31278" },
       { "term": "202430", "crn": "31390" },
-      { "term": "202430", "crn": "31870" },
       { "term": "202430", "crn": "31868" },
       { "term": "202430", "crn": "32488" },
       { "term": "202430", "crn": "33200" },
-      { "term": "202430", "crn": "35118" },
       { "term": "202410", "crn": "10534" },
       { "term": "202410", "crn": "20182" },
       { "term": "202410", "crn": "12348" },
@@ -613,6 +581,7 @@
     "coreqs": [{ "subject": "NRSG", "number": "3321" }],
     "prereqs": [
       "(",
+      "(",
       { "subject": "NRSG", "number": "2210" },
       "Or",
       { "subject": "NRSG", "number": "2210" },
@@ -651,6 +620,9 @@
       "Or",
       { "subject": "NRSG", "number": "3324" },
       ")",
+      ")",
+      "And",
+      "(",
       "(",
       { "subject": "NRSG", "number": "2350" },
       "Or",
@@ -661,6 +633,7 @@
       { "subject": "NRSG", "number": "5117" },
       "And",
       { "subject": "NRSG", "number": "5126" },
+      ")",
       ")"
     ]
   },
@@ -686,9 +659,6 @@
       { "term": "202430", "crn": "31393" },
       { "term": "202430", "crn": "31771" },
       { "term": "202430", "crn": "31871" },
-      { "term": "202430", "crn": "31872" },
-      { "term": "202430", "crn": "31945" },
-      { "term": "202430", "crn": "37833" },
       { "term": "202430", "crn": "31391" },
       { "term": "202430", "crn": "32489" },
       { "term": "202430", "crn": "32490" },
@@ -699,9 +669,6 @@
       { "term": "202430", "crn": "33202" },
       { "term": "202430", "crn": "34015" },
       { "term": "202430", "crn": "35557" },
-      { "term": "202430", "crn": "35600" },
-      { "term": "202430", "crn": "36719" },
-      { "term": "202430", "crn": "36720" },
       { "term": "202410", "crn": "10443" },
       { "term": "202410", "crn": "11321" },
       { "term": "202410", "crn": "11322" },
@@ -789,11 +756,9 @@
       { "term": "202430", "crn": "31222" },
       { "term": "202430", "crn": "31223" },
       { "term": "202430", "crn": "31224" },
-      { "term": "202430", "crn": "31873" },
       { "term": "202430", "crn": "32242" },
       { "term": "202430", "crn": "32493" },
       { "term": "202430", "crn": "33203" },
-      { "term": "202430", "crn": "40595" },
       { "term": "202410", "crn": "13360" },
       { "term": "202410", "crn": "20714" },
       { "term": "202410", "crn": "12009" },
@@ -823,6 +788,7 @@
     "coreqs": [{ "subject": "NRSG", "number": "3324" }],
     "prereqs": [
       "(",
+      "(",
       { "subject": "NRSG", "number": "2220" },
       "Or",
       { "subject": "NRSG", "number": "2220" },
@@ -837,6 +803,9 @@
       "Or",
       { "subject": "NRSG", "number": "2221" },
       ")",
+      ")",
+      "And",
+      "(",
       "(",
       { "subject": "NRSG", "number": "2350" },
       "Or",
@@ -847,6 +816,7 @@
       { "subject": "NRSG", "number": "5117" },
       "And",
       { "subject": "NRSG", "number": "5126" },
+      ")",
       ")"
     ]
   },
@@ -865,8 +835,6 @@
       { "term": "202430", "crn": "31226" },
       { "term": "202430", "crn": "31527" },
       { "term": "202430", "crn": "31772" },
-      { "term": "202430", "crn": "31874" },
-      { "term": "202430", "crn": "32586" },
       { "term": "202430", "crn": "37336" },
       { "term": "202430", "crn": "32494" },
       { "term": "202430", "crn": "32495" },
@@ -875,7 +843,6 @@
       { "term": "202430", "crn": "37346" },
       { "term": "202430", "crn": "37347" },
       { "term": "202430", "crn": "37348" },
-      { "term": "202430", "crn": "37349" },
       { "term": "202410", "crn": "12003" },
       { "term": "202410", "crn": "10541" },
       { "term": "202410", "crn": "11277" },
@@ -935,10 +902,10 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40127" },
       { "term": "202430", "crn": "31230" },
       { "term": "202430", "crn": "31231" },
       { "term": "202430", "crn": "31232" },
-      { "term": "202430", "crn": "31875" },
       { "term": "202430", "crn": "30108" },
       { "term": "202430", "crn": "32496" },
       { "term": "202430", "crn": "33204" },
@@ -969,7 +936,19 @@
     ],
     "description": "Focuses on psychiatric mental health (PMH) nursing, a process used by the professional nurse in facilitating adaptive responses and goal attainment of human systems. Emphasizes an overview of concepts and theories of personality development, therapeutic relationships, psychiatric terminology, the nursing process as it relates to patients with psychiatric problems, the study of self-concept, role functioning, and interdependence as it relates to families and groups. Explores critical thinking, health assessment, and a variety of intervention strategies. Compares various paradigms for the study of group and community assessment, therapeutics, and outcome measures.",
     "coreqs": [{ "subject": "NRSG", "number": "3401" }],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      "(",
+      { "subject": "NRSG", "number": "3323" },
+      "Or",
+      { "subject": "NRSG", "number": "3323" },
+      ")",
+      "And",
+      { "subject": "PSYC", "number": "3404" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "NRSG",
@@ -979,6 +958,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40128" },
       { "term": "202430", "crn": "31233" },
       { "term": "202430", "crn": "31234" },
       { "term": "202430", "crn": "31876" },
@@ -993,8 +973,6 @@
       { "term": "202430", "crn": "31885" },
       { "term": "202430", "crn": "31886" },
       { "term": "202430", "crn": "31887" },
-      { "term": "202430", "crn": "31888" },
-      { "term": "202430", "crn": "39257" },
       { "term": "202430", "crn": "30109" },
       { "term": "202430", "crn": "32497" },
       { "term": "202430", "crn": "32498" },
@@ -1181,20 +1159,19 @@
     "sections": [
       { "term": "202430", "crn": "31236" },
       { "term": "202430", "crn": "37777" },
+      { "term": "202430", "crn": "40939" },
+      { "term": "202430", "crn": "40940" },
+      { "term": "202430", "crn": "40941" },
+      { "term": "202430", "crn": "40942" },
       { "term": "202430", "crn": "31665" },
       { "term": "202430", "crn": "31395" },
       { "term": "202430", "crn": "31396" },
       { "term": "202430", "crn": "31397" },
       { "term": "202430", "crn": "31398" },
-      { "term": "202430", "crn": "31399" },
-      { "term": "202430", "crn": "31400" },
-      { "term": "202430", "crn": "32502" },
       { "term": "202430", "crn": "32503" },
       { "term": "202430", "crn": "34018" },
       { "term": "202430", "crn": "34019" },
       { "term": "202430", "crn": "35560" },
-      { "term": "202430", "crn": "36726" },
-      { "term": "202430", "crn": "36727" },
       { "term": "202410", "crn": "10773" },
       { "term": "202410", "crn": "11418" },
       { "term": "202410", "crn": "11419" },
@@ -1314,23 +1291,7 @@
     ],
     "description": "Builds on developmental and family theory. Focuses on the principles of nursing care of children experiencing acute and/or complex, chronic health problems and their families. The complex health issues are analyzed within the context of the individual, family, and community. Offers students an opportunity to explore evidenced-based practices within the framework of the nursing process. The therapeutic role is addressed in partnership with the family and resources available within a collaborative and interdisciplinary environment.",
     "coreqs": [{ "subject": "NRSG", "number": "4503" }],
-    "prereqs": [
-      "(",
-      { "subject": "NRSG", "number": "3420" },
-      "Or",
-      { "subject": "NRSG", "number": "3420" },
-      "Or",
-      { "subject": "NRSG", "number": "3420" },
-      ")",
-      "And",
-      "(",
-      { "subject": "NRSG", "number": "3421" },
-      "Or",
-      { "subject": "NRSG", "number": "3421" },
-      "Or",
-      { "subject": "NRSG", "number": "3421" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -1341,14 +1302,16 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "31544" },
+      { "term": "202430", "crn": "40943" },
+      { "term": "202430", "crn": "40944" },
+      { "term": "202430", "crn": "40945" },
+      { "term": "202430", "crn": "40946" },
+      { "term": "202430", "crn": "40947" },
       { "term": "202430", "crn": "31130" },
       { "term": "202430", "crn": "31666" },
       { "term": "202430", "crn": "31667" },
       { "term": "202430", "crn": "31402" },
       { "term": "202430", "crn": "31403" },
-      { "term": "202430", "crn": "31404" },
-      { "term": "202430", "crn": "31405" },
-      { "term": "202430", "crn": "32506" },
       { "term": "202430", "crn": "32507" },
       { "term": "202430", "crn": "34263" },
       { "term": "202430", "crn": "34265" },
@@ -1439,6 +1402,7 @@
     "credits": 3,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202440", "crn": "40458" },
       { "term": "202430", "crn": "33205" },
       { "term": "202430", "crn": "31406" },
       { "term": "202430", "crn": "31668" },
@@ -1475,23 +1439,7 @@
     ],
     "description": "Introduces population-focused nursing and applies the nursing process to the community as client. Examines evidence-based health-promotion strategies in a variety of community settings. Addresses core functions and essential services of public health, and introduces epidemiological and economic concepts and models. Emphasizes the involvement of the community/public health nurse in ethical issues and health policy, focusing on vulnerable populations in giving cultural and linguistic-competent care. Examines community-based strategies and interprofessional collaboration to care for underserved populations in both urban and suburban communities. Emphasizes the community/public health nurse as a population-focused care provider, case manager, deliverer of quality nursing care, care coordinator, critical thinker, liaison between agencies, and nursing researcher.",
     "coreqs": [{ "subject": "NRSG", "number": "4605" }],
-    "prereqs": [
-      "(",
-      { "subject": "NRSG", "number": "3400" },
-      "Or",
-      { "subject": "NRSG", "number": "3400" },
-      "Or",
-      { "subject": "NRSG", "number": "3400" },
-      ")",
-      "And",
-      "(",
-      { "subject": "NRSG", "number": "3401" },
-      "Or",
-      { "subject": "NRSG", "number": "3401" },
-      "Or",
-      { "subject": "NRSG", "number": "3401" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -1501,6 +1449,7 @@
     "credits": 2,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202440", "crn": "40459" },
       { "term": "202430", "crn": "33206" },
       { "term": "202430", "crn": "31131" },
       { "term": "202430", "crn": "31669" },
@@ -1511,13 +1460,11 @@
       { "term": "202430", "crn": "31407" },
       { "term": "202430", "crn": "31408" },
       { "term": "202430", "crn": "31889" },
-      { "term": "202430", "crn": "31890" },
-      { "term": "202430", "crn": "32509" },
       { "term": "202430", "crn": "32993" },
       { "term": "202430", "crn": "35122" },
       { "term": "202430", "crn": "35123" },
       { "term": "202430", "crn": "35602" },
-      { "term": "202430", "crn": "35603" },
+      { "term": "202430", "crn": "40989" },
       { "term": "202410", "crn": "22053" },
       { "term": "202410", "crn": "12749" },
       { "term": "202410", "crn": "12750" },
@@ -1607,6 +1554,7 @@
     "nuPath": ["CE", "WI"],
     "sections": [
       { "term": "202430", "crn": "31052" },
+      { "term": "202430", "crn": "30509" },
       { "term": "202430", "crn": "31605" },
       { "term": "202430", "crn": "31892" },
       { "term": "202430", "crn": "32510" },
@@ -1660,6 +1608,7 @@
       { "term": "202430", "crn": "32802" },
       { "term": "202430", "crn": "39775" },
       { "term": "202430", "crn": "32662" },
+      { "term": "202430", "crn": "40822" },
       { "term": "202430", "crn": "32511" },
       { "term": "202430", "crn": "35125" },
       { "term": "202410", "crn": "20716" },
@@ -1683,55 +1632,7 @@
     ],
     "description": "Prepares students to synthesize nursing knowledge, skills, and experience and facilitate their transition to professional nursing practice and case management of clients with health problems. Assists students to demonstrate leadership and collaborative skills in working with other members of the health-care team through a weekly precepted relationship with a RN. Includes clinical learning experiences within hospital and community settings. Classwork includes a review of professional domains in all previous clinical courses in the nursing curriculum to prepare students for licensure.",
     "coreqs": [{ "subject": "NRSG", "number": "4996" }],
-    "prereqs": [
-      "(",
-      { "subject": "NRSG", "number": "3420" },
-      "Or",
-      { "subject": "NRSG", "number": "3420" },
-      "Or",
-      { "subject": "NRSG", "number": "3420" },
-      ")",
-      "And",
-      "(",
-      { "subject": "NRSG", "number": "3421" },
-      "Or",
-      { "subject": "NRSG", "number": "3421" },
-      "Or",
-      { "subject": "NRSG", "number": "3421" },
-      ")",
-      "And",
-      "(",
-      { "subject": "NRSG", "number": "4502" },
-      "Or",
-      { "subject": "NRSG", "number": "4502" },
-      "Or",
-      { "subject": "NRSG", "number": "4502" },
-      ")",
-      "And",
-      "(",
-      { "subject": "NRSG", "number": "4503" },
-      "Or",
-      { "subject": "NRSG", "number": "4503" },
-      "Or",
-      { "subject": "NRSG", "number": "4503" },
-      ")",
-      "And",
-      "(",
-      { "subject": "NRSG", "number": "4604" },
-      "Or",
-      { "subject": "NRSG", "number": "4604" },
-      "Or",
-      { "subject": "NRSG", "number": "4604" },
-      ")",
-      "And",
-      "(",
-      { "subject": "NRSG", "number": "4605" },
-      "Or",
-      { "subject": "NRSG", "number": "4605" },
-      "Or",
-      { "subject": "NRSG", "number": "4605" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -1748,8 +1649,6 @@
       { "term": "202430", "crn": "33045" },
       { "term": "202430", "crn": "33046" },
       { "term": "202430", "crn": "33047" },
-      { "term": "202430", "crn": "33048" },
-      { "term": "202430", "crn": "33072" },
       { "term": "202430", "crn": "33216" },
       { "term": "202430", "crn": "35126" },
       { "term": "202430", "crn": "35127" },
@@ -1879,6 +1778,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "30576" },
+      { "term": "202430", "crn": "41056" },
       { "term": "202410", "crn": "20726" },
       { "term": "202350", "crn": "50410" },
       { "term": "202330", "crn": "30597" },
@@ -1897,7 +1797,6 @@
     "nuPath": ["AD", "FQ"],
     "sections": [
       { "term": "202430", "crn": "31356" },
-      { "term": "202430", "crn": "37766" },
       { "term": "202410", "crn": "11329" },
       { "term": "202410", "crn": "13616" },
       { "term": "202330", "crn": "31482" },
@@ -1961,6 +1860,7 @@
     "credits": 4,
     "nuPath": ["ND", "WI"],
     "sections": [
+      { "term": "202460", "crn": "60568" },
       { "term": "202430", "crn": "34023" },
       { "term": "202430", "crn": "34297" },
       { "term": "202430", "crn": "34296" },
@@ -2005,6 +1905,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "38522" },
+      { "term": "202430", "crn": "41160" },
+      { "term": "202430", "crn": "41323" },
       { "term": "202410", "crn": "22517" },
       { "term": "202360", "crn": "61636" },
       { "term": "202350", "crn": "52761" },
@@ -2024,7 +1926,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "30928" },
+      { "term": "202430", "crn": "36733" },
       { "term": "202430", "crn": "36984" },
+      { "term": "202430", "crn": "41215" },
       { "term": "202410", "crn": "10967" },
       { "term": "202410", "crn": "12276" },
       { "term": "202410", "crn": "20729" },
@@ -2099,15 +2003,7 @@
     ],
     "description": "Emphasizes the acquisition of theoretical knowledge essential to understanding the common life-threatening and chronic, long-term pathophysiological problems, differential diagnosis, and related advanced nursing care of critically and chronically ill individuals and families. Addresses common problems causing critical, life-threatening illnesses, the chronic sequelae from these problems, and the advanced nursing management skills needed to address them. Uses current theories and research from nursing and the physical and behavioral sciences as a basis for clinical decision making, with an emphasis on critical thinking and diagnostic reasoning. The nursing process and life cycle are integral frameworks used to structure the delivery of course content. Restricted to students in selected nursing programs or with permission of instructor.",
     "coreqs": [{ "subject": "NRSG", "number": "6421" }],
-    "prereqs": [
-      { "subject": "NRSG", "number": "6220" },
-      "And",
-      "(",
-      { "subject": "NRSG", "number": "6222" },
-      "Or",
-      { "subject": "NRSG", "number": "6325" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -2144,16 +2040,24 @@
   },
   {
     "subject": "NRSG",
+    "number": "6231",
+    "title": "Nursing Management: Critically Ill Neonatal 2",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40821" }],
+    "description": "Continues NRSG 6230. Covers the acquisition of theoretical knowledge essential to understanding the neonate's response to life-threatening problems. Discusses neonatal pathophysiologic disorders in terms of the nursing process and management of the neonate and their families. Uses current theories and research from nursing, biomedical, physical, and behavioral sciences as a basis for clinical decision making. The nursing process and developmental theory are frameworks utilized to structure the delivery of course content.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "NRSG", "number": "6230" }]
+  },
+  {
+    "subject": "NRSG",
     "number": "6232",
     "title": "Neonatal Pharmacology",
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "31051" },
-      { "term": "202430", "crn": "40762" },
-      { "term": "202330", "crn": "31132" }
-    ],
+    "sections": [{ "term": "202330", "crn": "31132" }],
     "description": "Focuses on building upon basic knowledge in pharmacology and providing content essential for nurses in the expanded role. Examines the principles of pharmacology and major drug classifications as they relate to the causes and treatment of health and illness problems affecting critically ill neonates.",
     "coreqs": [],
     "prereqs": [
@@ -2232,7 +2136,7 @@
     ],
     "description": "Focuses on the assessment and intervention of adults/older adults with complex multisystem health problems/diseases in primary care and long-term care settings. Utilizes knowledge from pathophysiology, pharmacology, and psychosocial sciences to increase knowledge and skill of the advanced practice nurse in the care of adults/older adults with complex problems. Teaches students about the role and expertise of advanced practice nurses and other professionals in diverse settings.",
     "coreqs": [],
-    "prereqs": [{ "subject": "NRSG", "number": "6253" }]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -2268,7 +2172,7 @@
     ],
     "description": "Focuses on the health assessment on newborns, well children, adolescents, and their families within a community. Discusses issues most pertinent to the various ages of the well child within a community-based primary care framework of anticipatory guidance and health promotion. Emphasizes the utilization of a comprehensive approach to preventative healthcare by examining the impact of psychological, sociological, developmental, behavioral, cultural, and physiological factors on the child's health status within the family and community. Includes routine healthcare maintenance, screening, developmental issues, genetic implications, family dynamics, confidentiality, self-care, and common health concerns encountered in primary care settings.",
     "coreqs": [{ "subject": "NRSG", "number": "6460" }],
-    "prereqs": [{ "subject": "NRSG", "number": "6115" }]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -2293,6 +2197,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40546" },
       { "term": "202340", "crn": "40612" },
       { "term": "202240", "crn": "40682" }
     ],
@@ -2315,7 +2220,7 @@
     ],
     "description": "Examines issues in caring for patients at risk for poor health outcomes, using a combined didactic with an indirect and direct clinical approach and utilizing the framework of the Healthy People Indicators. Explores emerging trends of healthcare practices in high-risk settings across the continuum of care and within its social and environmental context by integrating this unique, collaborative experience. Offers mentoring to students to consider current issues inherent in caring for underserved populations through utilization of innovative strategies. Delivery of care to families and children in the community poses challenges to nurse practitioners, including the need to gain new knowledge, develop nonbiased attitudes, and master skills and competencies to address health promotion and prevention needs.",
     "coreqs": [],
-    "prereqs": [{ "subject": "NRSG", "number": "6115" }]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -2389,6 +2294,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40074" },
       { "term": "202340", "crn": "40079" },
       { "term": "202240", "crn": "40084" }
     ],
@@ -2404,6 +2310,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40166" },
       { "term": "202340", "crn": "40181" },
       { "term": "202240", "crn": "40190" }
     ],
@@ -2493,7 +2400,6 @@
     "sections": [
       { "term": "202430", "crn": "32406" },
       { "term": "202430", "crn": "33217" },
-      { "term": "202430", "crn": "37838" },
       { "term": "202330", "crn": "32681" },
       { "term": "202330", "crn": "33650" },
       { "term": "202330", "crn": "39923" }
@@ -2531,7 +2437,7 @@
     ],
     "description": "Focuses on the health assessment of individuals from the newborn stage into young adulthood. Emphasizes the utilization of an evidence-based approach to acute and chronic health conditions. Considers family, cultural, and urban community context and anticipatory guidance and health promotion within a culturally competent framework.",
     "coreqs": [{ "subject": "NRSG", "number": "6394" }],
-    "prereqs": [{ "subject": "NRSG", "number": "6392" }]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -2733,7 +2639,7 @@
     ],
     "description": "Provides the student with clinical learning experiences in the delivery and coordination of primary-care services to well infants, children, adolescents, and young adults and their families. Focuses on performing a comprehensive health assessment of the child and family utilizing a holistic approach. Emphasis is on health promotion, health maintenance, and identification of individuals or families at risk. The utilization of two clinical sites provides the opportunity for the student to evaluate interdisciplinary role responsibilities and clinical practice standards. Weekly seminar discussion fosters critical analysis of clinical experiences and the integration of theory, research, and primary practice. Requires students to practice in the clinical setting a minimum of twenty hours per week.",
     "coreqs": [{ "subject": "NRSG", "number": "6264" }],
-    "prereqs": [{ "subject": "NRSG", "number": "6275" }]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -2821,6 +2727,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60630" },
+      { "term": "202430", "crn": "41818" },
       { "term": "202410", "crn": "10544" },
       { "term": "202360", "crn": "60713" },
       { "term": "202310", "crn": "10584" },
@@ -2870,6 +2778,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "31866" },
+      { "term": "202430", "crn": "41039" },
       { "term": "202410", "crn": "11282" },
       { "term": "202410", "crn": "22321" },
       { "term": "202410", "crn": "22329" },
@@ -2923,15 +2832,12 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "34026" },
+      { "term": "202430", "crn": "41018" },
       { "term": "202330", "crn": "34673" }
     ],
     "description": "Designed to help the DNP student in anesthesia develop an understanding of the pharmacologic principles and associated application to clinical anesthesia and critical care advance practice nursing. Reviews the basic principles of the pharmacokinetics and pharmacodynamics of commonly used drugs in anesthesia and critical care. The prescription, administration, and monitoring of medications for the critically ill and patients undergoing anesthesia serves as the organizing framework for the course. Content includes the most common agents and classes of drugs prescribed for the critically ill and patients undergoing anesthesia, the signs and symptoms of drug toxicity, and interventions utilized to resolve adverse drug reactions.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "NRSG", "number": "5117" },
-      "Or",
-      { "subject": "NRSG", "number": "5117" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -3046,7 +2952,7 @@
     ],
     "description": "Offers the DNP student in anesthesia an opportunity to apply theoretical concepts and skills obtained in the lab to the clinical setting. With supervision, students create a plan of care for induction, maintenance, emergence, and postanesthesia. Offers students an opportunity to enhance these skills through clinical experiences, lab skills development, and seminar discussions.",
     "coreqs": [{ "subject": "NRSG", "number": "7523" }],
-    "prereqs": [{ "subject": "NRSG", "number": "7530" }]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -3099,6 +3005,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "35129" },
+      { "term": "202430", "crn": "40926" },
       { "term": "202330", "crn": "36366" }
     ],
     "description": "Aims to help the DNP student in anesthesia to utilize knowledge and skill gained during increasingly complex clinical experiences to refine the skills necessary to function as an independent professional clinician and member of the healthcare system. Designed to support integration and synthesis of advanced knowledge and skills for interdisciplinary anesthesia nursing care of patients across the life span who have complex health problems and who are undergoing a wide range of surgical procedures. Selected topics and clinical case studies focus on higher-level professional skills, including collaborative decision making, utilization of evidence to inform practice, and effective communication. With minimal guidance, students assume greater responsibility in planning, implementing, and evaluating anesthesia care.",
@@ -3115,7 +3022,7 @@
     "sections": [{ "term": "202310", "crn": "21285" }],
     "description": "Examines the concepts of measurement, sources of measurement error, control, and instrumentation as they relate to variables in clinical research. Students have an opportunity to explore the procedural aspects of measurement, criterion-referenced and norm-referenced measures, as well as the reliability and validity of measurement techniques. Discusses methods and statistical procedures used in instrument design and testing, such as instrument blueprints, factor analysis, and item response theory. Emphasizes the measurement of variables to evaluate the effectiveness of clinical interventions.",
     "coreqs": [],
-    "prereqs": [{ "subject": "NRSG", "number": "7700" }]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -3153,7 +3060,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "31739" },
+      { "term": "202430", "crn": "41675" },
       { "term": "202410", "crn": "18422" },
       { "term": "202330", "crn": "31921" },
       { "term": "202310", "crn": "20857" }
@@ -3224,7 +3131,7 @@
     "sections": [{ "term": "202310", "crn": "12909" }],
     "description": "Examines the scientific foundations integral to the competencies outlined in the Essentials of Doctoral Education for Advanced Nursing Practice (2006). Course content and accompanying practice opportunities, grounded in clinical prevention and population health, seek to enable students to analyze epidemiological, biostatistical, occupational, and environmental data in the development, implementation, and evaluation of clinical prevention and population health. Emphasizes current concepts of public health, health promotion, evidence-based recommendations, determinants of health, environmental/occupational health, and cultural diversity and sensitivity needed to guide advanced nursing practice. In addition, emerging knowledge regarding infectious diseases, emergency/disaster preparedness, and intervention frame the exercises and practice opportunities focused on clinical prevention and population health.",
     "coreqs": [],
-    "prereqs": [{ "subject": "NRSG", "number": "7100" }]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -3245,10 +3152,7 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "32104" },
-      { "term": "202330", "crn": "32344" }
-    ],
+    "sections": [{ "term": "202330", "crn": "32344" }],
     "description": "Provides students with an opportunity to finalize their dissertation proposals and make the necessary arrangements to begin their investigations by completing the design and methods and obtaining Investigative Review Board approval. Students have an opportunity to work with their dissertation advisors both individually and in small groups.",
     "coreqs": [],
     "prereqs": [{ "subject": "NRSG", "number": "9845" }]
@@ -3276,6 +3180,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41647" },
       { "term": "202410", "crn": "18467" },
       { "term": "202410", "crn": "21087" },
       { "term": "202410", "crn": "21088" },
@@ -3285,7 +3190,7 @@
     ],
     "description": "Offers research/experimental work for PhD thesis on a full-time basis. Restricted to Doctoral candidacy students only.",
     "coreqs": [],
-    "prereqs": [{ "subject": "NRSG", "number": "9000" }]
+    "prereqs": []
   },
   {
     "subject": "NRSG",
@@ -3294,7 +3199,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "21089" }],
+    "sections": [
+      { "term": "202430", "crn": "41745" },
+      { "term": "202410", "crn": "21089" }
+    ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
     "prereqs": [{ "subject": "NRSG", "number": "9990" }]
@@ -3309,6 +3217,7 @@
     "sections": [
       { "term": "202430", "crn": "31742" },
       { "term": "202430", "crn": "36737" },
+      { "term": "202430", "crn": "41648" },
       { "term": "202410", "crn": "15399" },
       { "term": "202410", "crn": "19359" },
       { "term": "202410", "crn": "21090" },

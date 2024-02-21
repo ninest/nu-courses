@@ -77,11 +77,7 @@
     ],
     "description": "Builds on GRMN 2101 and focuses on further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through written composition, prepared oral reports, and reading and discussion from contemporary German materials.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "GRMN", "number": "2101" },
-      "Or",
-      { "subject": "GRMN", "number": "2301" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "GRMN",
@@ -112,7 +108,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "39459" }],
+    "sections": [],
     "description": "Builds on GRMN 3101 and continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
     "coreqs": [],
     "prereqs": [
@@ -129,6 +125,8 @@
     "credits": 1,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202460", "crn": "61633" },
+      { "term": "202440", "crn": "40559" },
       { "term": "202410", "crn": "14912" },
       { "term": "202340", "crn": "40630" },
       { "term": "202330", "crn": "34754" },

@@ -24,6 +24,7 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202440", "crn": "41138" },
       { "term": "202430", "crn": "30902" },
       { "term": "202410", "crn": "10445" },
       { "term": "202410", "crn": "10969" },
@@ -45,6 +46,9 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60329" },
+      { "term": "202440", "crn": "40343" },
+      { "term": "202440", "crn": "41618" },
       { "term": "202430", "crn": "31053" },
       { "term": "202410", "crn": "12591" },
       { "term": "202360", "crn": "60349" },
@@ -160,6 +164,10 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60402" },
+      { "term": "202460", "crn": "61481" },
+      { "term": "202440", "crn": "40388" },
+      { "term": "202440", "crn": "40758" },
       { "term": "202430", "crn": "32116" },
       { "term": "202430", "crn": "32117" },
       { "term": "202430", "crn": "32320" },
@@ -230,6 +238,9 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60182" },
+      { "term": "202440", "crn": "40173" },
+      { "term": "202440", "crn": "41998" },
       { "term": "202430", "crn": "31343" },
       { "term": "202430", "crn": "31460" },
       { "term": "202430", "crn": "31556" },
@@ -284,6 +295,7 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60984" },
       { "term": "202430", "crn": "32529" },
       { "term": "202430", "crn": "37248" },
       { "term": "202410", "crn": "14223" },
@@ -306,6 +318,7 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202440", "crn": "41139" },
       { "term": "202430", "crn": "34958" },
       { "term": "202340", "crn": "41644" },
       { "term": "202330", "crn": "36046" }
@@ -322,6 +335,7 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202460", "crn": "61033" },
       { "term": "202410", "crn": "14906" },
       { "term": "202360", "crn": "61363" },
       { "term": "202330", "crn": "32950" },
@@ -339,6 +353,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202460", "crn": "60748" },
       { "term": "202430", "crn": "39425" },
       { "term": "202430", "crn": "39426" },
       { "term": "202410", "crn": "12282" },
@@ -360,6 +375,7 @@
     "credits": 4,
     "nuPath": ["DD", "ER"],
     "sections": [
+      { "term": "202440", "crn": "40442" },
       { "term": "202410", "crn": "17675" },
       { "term": "202340", "crn": "40491" },
       { "term": "202310", "crn": "20084" },
@@ -454,6 +470,7 @@
     "credits": 4,
     "nuPath": ["DD", "ER"],
     "sections": [
+      { "term": "202440", "crn": "40854" },
       { "term": "202410", "crn": "17827" },
       { "term": "202340", "crn": "41054" },
       { "term": "202310", "crn": "20250" },
@@ -471,7 +488,7 @@
     "credits": 4,
     "nuPath": ["DD", "ER"],
     "sections": [{ "term": "202430", "crn": "39429" }],
-    "description": "Explores how science fiction films function as mythical cautionary tales about moral dilemmas of the twentieth and twenty-first centuries and as projections about how these dilemmas may be resolved or continue in the future. Provides a framework for an ethical analysis and examines how themes such as manifest destiny, nationalism, utopia, good vs. evil, war, and concepts of &#8220;the Other&#8221; are presented in classic and contemporary film. Also shows how science fiction film sometimes reinterprets pre-existing stories from world cultures and world religious traditions, updating earlier moral dilemmas to the contemporary situation.",
+    "description": "Explores how science fiction films function as mythical cautionary tales about moral dilemmas of the twentieth and twenty-first centuries and as projections about how these dilemmas may be resolved or continue in the future. Provides a framework for an ethical analysis and examines how themes such as manifest destiny, nationalism, utopia, good vs. evil, war, and concepts of “the Other” are presented in classic and contemporary film. Also shows how science fiction film sometimes reinterprets pre-existing stories from world cultures and world religious traditions, updating earlier moral dilemmas to the contemporary situation.",
     "coreqs": [],
     "prereqs": []
   },
@@ -602,6 +619,7 @@
     "credits": 4,
     "nuPath": ["ER", "IC", "WI"],
     "sections": [
+      { "term": "202440", "crn": "40389" },
       { "term": "202430", "crn": "39485" },
       { "term": "202430", "crn": "39486" },
       { "term": "202430", "crn": "39488" },
@@ -754,7 +772,7 @@
     "title": "Interdisciplinary Methods for Politics, Philosophy, and Economics",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["WI", "EX"],
+    "nuPath": ["EX", "WI"],
     "sections": [
       { "term": "202430", "crn": "36626" },
       { "term": "202410", "crn": "20051" },
@@ -802,6 +820,7 @@
     "credits": 4,
     "nuPath": ["ER"],
     "sections": [
+      { "term": "202440", "crn": "41460" },
       { "term": "202410", "crn": "20052" },
       { "term": "202340", "crn": "41981" },
       { "term": "202330", "crn": "38621" }
@@ -954,15 +973,7 @@
     "sections": [{ "term": "202330", "crn": "36383" }],
     "description": "Requires prior completion of three philosophy courses (PHIL 1115 or PHIL 1215 recommended) or permission of instructor.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "PHIL",
@@ -985,7 +996,7 @@
     "title": "Philosophy of Mind",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["WI", "CE"],
+    "nuPath": ["CE", "WI"],
     "sections": [
       { "term": "202430", "crn": "35139" },
       { "term": "202330", "crn": "36397" },
@@ -1029,7 +1040,7 @@
     "title": "Seminar in Religion",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": ["WI", "CE"],
+    "nuPath": ["CE", "WI"],
     "sections": [
       { "term": "202430", "crn": "33660" },
       { "term": "202410", "crn": "14909" },
@@ -1077,7 +1088,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38623" }],
+    "sections": [
+      { "term": "202430", "crn": "40904" },
+      { "term": "202330", "crn": "38623" }
+    ],
     "description": "Covers issues of justice and the public good in relation to the creation, collection, storage, analysis, processing, dissemination, and use of information. Discusses theories of justice and human rights, as well as ethical theories such as utilitarianism and principlism. Topics include intellectual and cultural property, freedom of expression, access to information, fair representation, and information privacy. Discusses how to create and use information technologies that promote individual flourishing and the public good while avoiding bias, exploitation, and manipulation.",
     "coreqs": [],
     "prereqs": [
@@ -1103,14 +1117,6 @@
     ],
     "description": "Discusses artificial intelligence and the host of ethical issues it raises: decisions turned over to machine-learning algorithms can be opaque and unfair; autonomous vehicles promise to increase safety but raise challenges for assigning responsibility for accidents; diffusion of AI is likely to transform the labor market in unpredictable ways; and the data that powers machine-learning algorithms raise questions about privacy and security. In order to realize the benefits of AI while responsibly developing and implementing it, it is necessary to identify the ethical issues at stake and work to resolve them. This course takes up the philosophical and ethical questions essential to this project.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "PHIL", "number": "1145" },
-      "Or",
-      { "subject": "PHIL", "number": "1300" },
-      "Or",
-      { "subject": "IS", "number": "1300" },
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   }
 ]

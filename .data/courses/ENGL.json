@@ -62,7 +62,11 @@
       "Or",
       { "subject": "ENGW", "number": "1102" },
       "Or",
-      { "subject": "ENGW", "number": "1111" }
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -100,13 +104,17 @@
     "description": "Introduces the diverse fields that comprise literary studies for English majors and minors. Surveys the methods and topics of English literary and textual studies, including a wide range of media (e.g., images, film, and graphic narrative). Explores strategies for reading, interpreting, and theorizing about texts, including how race, gender, sexuality, class, and colonialism are represented in literary texts, other media, and scholarship. Focuses on developing skills in thinking analytically, writing clearly about complex ideas, and conducting research.",
     "coreqs": [],
     "prereqs": [
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" },
+      { "subject": "ENGW", "number": "1102" },
       "Or",
       { "subject": "ENGW", "number": "1111" },
       "Or",
-      { "subject": "ENGW", "number": "1102" }
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -123,13 +131,17 @@
     "description": "Introduces students to research about the histories, theories, and practices informing how people learn to write and how writing is used in home, school, work, and civic contexts. Explores writing and writing instruction in the United States and in international contexts, including the social and political significance of writing in particular cultural contexts with an emphasis on diversity, equity, and inclusion. Class projects emphasize methods such as archival research, case study research, multimodal composing, and community-based writing that invite students to think about their own experiences and practices of other groups.",
     "coreqs": [],
     "prereqs": [
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
       { "subject": "ENGW", "number": "1111" },
       "Or",
-      { "subject": "ENGW", "number": "1102" },
+      { "subject": "ENGL", "number": "1102" },
       "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" }
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -140,21 +152,14 @@
     "credits": 4,
     "nuPath": ["AD", "IC", "WI"],
     "sections": [
+      { "term": "202440", "crn": "40980" },
       { "term": "202340", "crn": "41370" },
       { "term": "202310", "crn": "20995" },
       { "term": "202240", "crn": "41733" }
     ],
     "description": "Grapples with the long and sometimes tumultuous relationship between texts and new media technologies. Offers students opportunities to historicize and engage the social and intellectual upheavals of our own technological moment through reading, discussion, writing projects, and practicums that seek to develop skills for analyzing the data and metadata of texts through both qualitative and quantitative methods.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENGL",
@@ -166,15 +171,7 @@
     "sections": [{ "term": "202330", "crn": "35948" }],
     "description": "Surveys the major American writers and major literary forms from the colonial period to the Civil War. Includes works by such writers as Bradstreet, Taylor, Wheatley, Cooper, Poe, Hawthorne, Douglass, Stowe, Melville, and Emerson.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENGL",
@@ -220,7 +217,11 @@
       "Or",
       { "subject": "ENGW", "number": "1102" },
       "Or",
-      { "subject": "ENGW", "number": "1111" }
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -244,7 +245,11 @@
       "Or",
       { "subject": "ENGW", "number": "1102" },
       "Or",
-      { "subject": "ENGW", "number": "1111" }
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -300,15 +305,7 @@
     "sections": [{ "term": "202310", "crn": "16708" }],
     "description": "Studies developments in British and (especially) American poetry since 1945. Includes such writers as Bishop, Lowell, Ginsberg, Ashbery, Walcott, Heaney, Kunitz, Jorie Graham, Frank Bidart, Rita Dove, and Kevin Young.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENGL",
@@ -320,15 +317,7 @@
     "sections": [{ "term": "202310", "crn": "19569" }],
     "description": "Examines British and American writers from 1945 to the present, including such figures as Lessing, Burgess, Pynchon, Morrison, Kingston, and Erdrich.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENGL",
@@ -364,13 +353,17 @@
     "description": "Examines the literature and cultures of postcolonial nations in the Caribbean, Africa, Asia, and elsewhere through the lens of gender. Designed to familiarize students with the relationships between cultural paradigms associated with gender and transnational experiences of colonialism. Focuses on the variety of artistic strategies employed by writers to communicate the impacts of gender and sexuality on contemporary postcolonial themes such as neocolonialism, nationalism, and diaspora. Writers may include Chimamanda Adichie, Nawal El Saadawi, Marjane Satrapi, Bessie Head, Arundhati Roy, Banana Yoshimoto, Sonia Singh, and Dionne Brand.",
     "coreqs": [],
     "prereqs": [
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
       { "subject": "ENGW", "number": "1111" },
       "Or",
-      { "subject": "ENGW", "number": "1102" },
+      { "subject": "ENGL", "number": "1102" },
       "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" }
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -407,13 +400,17 @@
     "description": "Introduces students to American writers of Chinese, Japanese, Korean, Filipino, South Asian, and Southeast Asian descent. Focuses on works published since the 1960s. Pays close attention to prevalent themes, sociohistorical contexts, and literary form.",
     "coreqs": [],
     "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" },
       "Or",
       { "subject": "ENGW", "number": "1102" },
       "Or",
-      { "subject": "ENGL", "number": "1111" },
+      { "subject": "ENGW", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" }
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -479,17 +476,14 @@
     "credits": 4,
     "nuPath": ["EI", "IC"],
     "sections": [
+      { "term": "202460", "crn": "60483" },
       { "term": "202410", "crn": "19955" },
       { "term": "202360", "crn": "60528" },
       { "term": "202260", "crn": "60579" }
     ],
     "description": "Focuses on travel writing and place-based writing. Examines the history, global cultural contexts, conventions of, and theories about the genres through reading exemplary texts and studying photographs and films. Offers students an opportunity to produce examples of travel writing and place-based writing as well as short videos and photo-collages.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENGL",
@@ -499,6 +493,9 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202460", "crn": "60406" },
+      { "term": "202460", "crn": "60757" },
+      { "term": "202440", "crn": "40356" },
       { "term": "202430", "crn": "33282" },
       { "term": "202410", "crn": "19956" },
       { "term": "202360", "crn": "60436" },
@@ -514,13 +511,17 @@
     "description": "Gives the developing writer an opportunity to practice writing various forms of both poetry and prose. Features in-class discussion of student work.",
     "coreqs": [],
     "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
+      { "subject": "ENGL", "number": "1102" },
       "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" }
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -539,13 +540,17 @@
     "description": "Explores the relationship between style and substance through close attention to choices made at the level of the paragraph, sentence, and word. Introduces editorial processes and practices and gives students practice in editing for themselves and others.",
     "coreqs": [],
     "prereqs": [
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
       { "subject": "ENGW", "number": "1111" },
       "Or",
-      { "subject": "ENGW", "number": "1102" },
+      { "subject": "ENGL", "number": "1102" },
       "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" }
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -555,21 +560,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI", "WI"],
-    "sections": [
-      { "term": "202430", "crn": "36798" },
-      { "term": "202330", "crn": "38801" }
-    ],
+    "sections": [{ "term": "202330", "crn": "38801" }],
     "description": "Explores the ways in which composing processes and meaning are impacted when writing moves from material media (e.g., print, images, voice, and performance) to digital media (e.g., hypertexts, digital stories, and videos). Readings cover aspects of digital writing as semiotic (e.g., domains of meaning, mode, materiality, delivery, ensembles of meaning) and draw on theories of multimodality to explore digital remediations of writing. Culminates in an electronic portfolio and collective exhibit.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENGL",
@@ -578,10 +572,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC", "WI"],
-    "sections": [
-      { "term": "202430", "crn": "39079" },
-      { "term": "202310", "crn": "14865" }
-    ],
+    "sections": [{ "term": "202310", "crn": "14865" }],
     "description": "Explores the various ways that linguistic diversity shapes our everyday, academic, and professional lives. Offers students an opportunity to learn about language policy, the changing place of World English in globalization, and what contemporary theories of linguistic diversity, such as translingualism, mean for writing. Invites students to explore their own multilingual communities or histories through empirical or archival research.",
     "coreqs": [],
     "prereqs": [
@@ -681,7 +672,11 @@
       "Or",
       { "subject": "ENGW", "number": "1102" },
       "Or",
-      { "subject": "ENGW", "number": "1111" }
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -704,7 +699,11 @@
       "Or",
       { "subject": "ENGW", "number": "1102" },
       "Or",
-      { "subject": "ENGW", "number": "1111" }
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -717,15 +716,7 @@
     "sections": [{ "term": "202330", "crn": "39323" }],
     "description": "Focuses on a particular topic in 19th-century British or American literature, such as lyric poetry or popular print culture.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENGL",
@@ -737,15 +728,7 @@
     "sections": [{ "term": "202310", "crn": "19571" }],
     "description": "Crime and Comedy in Irish literature will look at these intertwining themes in modern Irish literature and culture. Starting with the great comic novel, Flann O’Brien’s The Third Policeman and ending with contemporary crime drama of Tara French, the course will\nexplore the connections between the hilarious and the horrific, between the uncanny and the caper, between murder and the joke. Students will explore critical and philosophical interrogations of these themes and will also do creative writing assignments in which they try out these exciting genres. By exploring the funny and the frightening students will discover how the normative aspects of social discourse are both framed and challenged. Students will leave with a more nuanced appreciation of these genres and with a richer sense both as readers and creative writers themselves.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENGL",
@@ -767,7 +750,11 @@
       "Or",
       { "subject": "ENGW", "number": "1102" },
       "Or",
-      { "subject": "ENGW", "number": "1111" }
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -821,6 +808,7 @@
     "credits": 4,
     "nuPath": ["EI", "EX", "IC", "WI"],
     "sections": [
+      { "term": "202440", "crn": "41148" },
       { "term": "202430", "crn": "36800" },
       { "term": "202410", "crn": "17427" },
       { "term": "202340", "crn": "41654" },
@@ -831,13 +819,17 @@
     "description": "Explores how writing shapes the life of, and life in, the city. Considers how Boston is constructed in a range of discourses and disciplines. Offers students an opportunity to research and write about the city and participate in a community-based writing project.",
     "coreqs": [],
     "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
+      { "subject": "ENGL", "number": "1102" },
       "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" }
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -855,15 +847,7 @@
     ],
     "description": "Explores how writers apply narrative strategies and techniques to factual material. Offers students an opportunity to read and write a variety of nonfiction forms (e.g., narrative essays and narrative journalism, travel and science writing, memoir, editorials, protest and political essays), as well as cross-genre and hybrid forms (e.g., nonfiction prose mixed with poetry, audio and graphic nonfiction). The topics for narrative nonfiction writing apply to a wide array of disciplines, including the humanities, the sciences, and journalism.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENGL",
@@ -880,15 +864,7 @@
     ],
     "description": "Offers an advanced workshop in writing and reading original poetry. Students experiment in established poetic forms. Features in-class discussion of student work.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENGL",
@@ -897,7 +873,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["EI"],
-    "sections": [{ "term": "202410", "crn": "20363" }],
+    "sections": [
+      { "term": "202440", "crn": "41863" },
+      { "term": "202410", "crn": "20363" }
+    ],
     "description": "Offers an advanced workshop in writing and reading original fiction. Features in-class discussion of student work.",
     "coreqs": [],
     "prereqs": [
@@ -927,7 +906,11 @@
       "Or",
       { "subject": "ENGW", "number": "1102" },
       "Or",
-      { "subject": "ENGW", "number": "1111" }
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -973,7 +956,11 @@
       "Or",
       { "subject": "ENGW", "number": "1102" },
       "Or",
-      { "subject": "ENGW", "number": "1111" }
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -1031,13 +1018,17 @@
     "description": "Introduces students to the field of narrative medicine, which explores literary analysis as a set of tools for medical practice. Offers students an opportunity to develop close reading and analytical skills that are useful for improving doctor-patient relationships and patient care. Requires students to complete essays that cultivate these skills.",
     "coreqs": [],
     "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
+      { "subject": "ENGL", "number": "1102" },
       "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
-      { "subject": "ENGL", "number": "1102" }
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -1173,7 +1164,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "40796" }],
+    "sections": [
+      { "term": "202430", "crn": "41222" },
+      { "term": "202330", "crn": "40796" }
+    ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": [
@@ -1183,7 +1177,11 @@
       "Or",
       { "subject": "ENGW", "number": "1102" },
       "Or",
-      { "subject": "ENGW", "number": "1111" }
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -1196,15 +1194,7 @@
     "sections": [{ "term": "202340", "crn": "42327" }],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENGL",
@@ -1229,12 +1219,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "37716" },
-      { "term": "202430", "crn": "38134" },
-      { "term": "202430", "crn": "38271" },
-      { "term": "202430", "crn": "38469" },
-      { "term": "202430", "crn": "38581" },
-      { "term": "202430", "crn": "38652" },
+      { "term": "202430", "crn": "41514" },
+      { "term": "202430", "crn": "41859" },
       { "term": "202360", "crn": "61576" },
       { "term": "202330", "crn": "39796" },
       { "term": "202330", "crn": "40222" },
@@ -1255,6 +1241,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60873" },
+      { "term": "202440", "crn": "40603" },
       { "term": "202410", "crn": "18797" },
       { "term": "202360", "crn": "61151" },
       { "term": "202310", "crn": "21243" },
@@ -1444,6 +1432,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41015" },
+      { "term": "202430", "crn": "41911" },
       { "term": "202360", "crn": "61824" },
       { "term": "202350", "crn": "53307" }
     ],
@@ -1460,9 +1450,10 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "37715" },
-      { "term": "202430", "crn": "38199" },
-      { "term": "202430", "crn": "38200" },
-      { "term": "202430", "crn": "38408" },
+      { "term": "202430", "crn": "41507" },
+      { "term": "202430", "crn": "41508" },
+      { "term": "202430", "crn": "41509" },
+      { "term": "202430", "crn": "41510" },
       { "term": "202410", "crn": "17944" },
       { "term": "202330", "crn": "39795" },
       { "term": "202330", "crn": "40288" },
@@ -1500,6 +1491,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41600" },
       { "term": "202410", "crn": "20994" },
       { "term": "202410", "crn": "21861" }
     ],
@@ -1545,9 +1537,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "33764" },
-      { "term": "202430", "crn": "33763" },
-      { "term": "202430", "crn": "38158" },
+      { "term": "202430", "crn": "41040" },
+      { "term": "202430", "crn": "41156" },
       { "term": "202410", "crn": "15624" },
       { "term": "202410", "crn": "21362" },
       { "term": "202350", "crn": "51339" },
@@ -1571,7 +1562,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "36866" },
-      { "term": "202430", "crn": "40471" },
+      { "term": "202430", "crn": "41913" },
       { "term": "202350", "crn": "52830" },
       { "term": "202350", "crn": "53308" },
       { "term": "202330", "crn": "38870" },
@@ -1598,7 +1589,7 @@
     ],
     "description": "Contact the graduate program administrator for registration approval",
     "coreqs": [],
-    "prereqs": [{ "subject": "ENGL", "number": "9990" }]
+    "prereqs": []
   },
   {
     "subject": "ENGL",

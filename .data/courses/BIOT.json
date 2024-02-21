@@ -52,6 +52,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61009" },
+      { "term": "202440", "crn": "41851" },
       { "term": "202430", "crn": "32867" },
       { "term": "202430", "crn": "33850" },
       { "term": "202430", "crn": "34819" },
@@ -153,6 +155,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39727" },
+      { "term": "202430", "crn": "41149" },
       { "term": "202410", "crn": "12640" },
       { "term": "202310", "crn": "12981" }
     ],
@@ -170,15 +173,15 @@
     "sections": [
       { "term": "202430", "crn": "32424" },
       { "term": "202430", "crn": "32425" },
-      { "term": "202430", "crn": "37034" },
       { "term": "202430", "crn": "40369" },
+      { "term": "202430", "crn": "41038" },
       { "term": "202350", "crn": "52646" },
       { "term": "202330", "crn": "32700" },
       { "term": "202330", "crn": "32701" }
     ],
     "description": "Covers managing projects and personnel in a technology-based organization Such activities are best carried out by those who combine the technical knowledge of their industry with the insight into the best practices for working with groups of highly educated, and often very experienced people. The biotechnology industry is strongly dependent on the concept that knowledge is always shared and ownership is collective. As the fundamental organizational mantra is teamwork, the principles of managing in this environment are key to achieving important goals. How to accomplish this and make decisions that drive innovation and success have common threads with other technology based industries, but with the added complexity of the scientific challenges facing the biotechnology industry. Restricted to students in the Bouvé College of Health Sciences and in the College of Science or by permission of the program office.",
     "coreqs": [],
-    "prereqs": [{ "subject": "BIOT", "number": "5219" }]
+    "prereqs": []
   },
   {
     "subject": "BIOT",
@@ -234,7 +237,6 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "37062" },
       { "term": "202410", "crn": "15059" },
       { "term": "202410", "crn": "15060" },
       { "term": "202350", "crn": "52405" },
@@ -263,7 +265,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34821" },
+      { "term": "202440", "crn": "41852" },
       { "term": "202410", "crn": "13421" },
       { "term": "202410", "crn": "13422" },
       { "term": "202410", "crn": "19989" },
@@ -284,6 +286,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41853" },
       { "term": "202430", "crn": "34822" },
       { "term": "202430", "crn": "34823" },
       { "term": "202330", "crn": "35848" },
@@ -301,6 +304,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41854" },
       { "term": "202430", "crn": "39541" },
       { "term": "202430", "crn": "39542" },
       { "term": "202430", "crn": "39543" },
@@ -397,11 +401,7 @@
     ],
     "description": "Covers the development and implementation of the drug product manufacturing process for biopharmaceuticals. Focuses on biologic products, specifically proteins. Covers the workflow required for the development and implementation of the production process with the scientific and engineering principles highlighted. Topics include the preformulation process for early stage product development, the selection of formulation compatible with the targeted product presentation, optimization of formulations to meet stability and usage objectives, the design of a scalable process for production, large-scale process equipment and operations, process scale-up considerations, and regulatory compliance issues for drug product manufacturing facilities and operations. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CHEM", "number": "5620" },
-      "Or",
-      { "subject": "CHEM", "number": "5620" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "BIOT",
@@ -445,7 +445,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41440" },
       { "term": "202430", "crn": "39552" },
+      { "term": "202430", "crn": "41341" },
       { "term": "202410", "crn": "13013" },
       { "term": "202410", "crn": "13113" },
       { "term": "202410", "crn": "17915" },
@@ -471,7 +473,6 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "39836" },
       { "term": "202410", "crn": "20034" },
       { "term": "202410", "crn": "20850" },
       { "term": "202410", "crn": "22518" }
@@ -491,7 +492,7 @@
       { "term": "202430", "crn": "32727" },
       { "term": "202430", "crn": "32728" },
       { "term": "202430", "crn": "36652" },
-      { "term": "202430", "crn": "39553" },
+      { "term": "202430", "crn": "41376" },
       { "term": "202410", "crn": "21442" },
       { "term": "202330", "crn": "33067" },
       { "term": "202330", "crn": "33068" },
@@ -539,6 +540,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41855" },
       { "term": "202430", "crn": "36654" },
       { "term": "202330", "crn": "38648" }
     ],
@@ -554,7 +556,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "39554" },
       { "term": "202430", "crn": "39887" },
       { "term": "202410", "crn": "21447" }
     ],
@@ -569,7 +570,11 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "22324" }],
+    "sections": [
+      { "term": "202430", "crn": "41527" },
+      { "term": "202430", "crn": "41751" },
+      { "term": "202410", "crn": "22324" }
+    ],
     "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -597,6 +602,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41171" },
       { "term": "202430", "crn": "32589" },
       { "term": "202430", "crn": "32724" },
       { "term": "202430", "crn": "32725" },
@@ -684,9 +690,10 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "34829" },
-      { "term": "202430", "crn": "37035" },
       { "term": "202430", "crn": "37305" },
       { "term": "202430", "crn": "37883" },
+      { "term": "202430", "crn": "41069" },
+      { "term": "202430", "crn": "41524" },
       { "term": "202410", "crn": "21443" },
       { "term": "202330", "crn": "35855" },
       { "term": "202330", "crn": "39051" },
@@ -721,6 +728,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61245" },
       { "term": "202360", "crn": "61583" },
       { "term": "202350", "crn": "50236" },
       { "term": "202350", "crn": "51908" },
@@ -741,8 +749,10 @@
       { "term": "202430", "crn": "31790" },
       { "term": "202430", "crn": "32341" },
       { "term": "202430", "crn": "39556" },
-      { "term": "202430", "crn": "39557" },
       { "term": "202430", "crn": "39558" },
+      { "term": "202430", "crn": "40887" },
+      { "term": "202430", "crn": "40924" },
+      { "term": "202430", "crn": "40925" },
       { "term": "202410", "crn": "11855" },
       { "term": "202410", "crn": "18755" },
       { "term": "202410", "crn": "20362" },
@@ -795,7 +805,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38338" },
+      { "term": "202430", "crn": "41884" },
       { "term": "202410", "crn": "22333" },
       { "term": "202410", "crn": "22508" },
       { "term": "202330", "crn": "40443" },
@@ -813,7 +823,17 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61307" },
+      { "term": "202460", "crn": "61332" },
+      { "term": "202460", "crn": "61010" },
+      { "term": "202460", "crn": "61011" },
+      { "term": "202440", "crn": "41582" },
+      { "term": "202440", "crn": "41585" },
+      { "term": "202440", "crn": "41033" },
+      { "term": "202440", "crn": "41034" },
+      { "term": "202430", "crn": "41303" },
       { "term": "202430", "crn": "37993" },
+      { "term": "202430", "crn": "41175" },
       { "term": "202410", "crn": "15312" },
       { "term": "202410", "crn": "17899" },
       { "term": "202410", "crn": "17900" },
@@ -855,7 +875,10 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38053" },
+      { "term": "202460", "crn": "60722" },
+      { "term": "202460", "crn": "60904" },
+      { "term": "202440", "crn": "41598" },
+      { "term": "202430", "crn": "41490" },
       { "term": "202360", "crn": "60830" },
       { "term": "202360", "crn": "61190" },
       { "term": "202340", "crn": "42126" },
@@ -893,10 +916,11 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61012" },
+      { "term": "202440", "crn": "41610" },
       { "term": "202430", "crn": "31631" },
       { "term": "202430", "crn": "31632" },
       { "term": "202430", "crn": "32726" },
-      { "term": "202430", "crn": "33303" },
       { "term": "202430", "crn": "34238" },
       { "term": "202430", "crn": "35259" },
       { "term": "202430", "crn": "35317" },
@@ -940,6 +964,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39889" },
+      { "term": "202430", "crn": "41593" },
       { "term": "202410", "crn": "21994" },
       { "term": "202410", "crn": "21995" },
       { "term": "202410", "crn": "21996" }

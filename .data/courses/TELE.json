@@ -8,6 +8,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "31705" },
+      { "term": "202430", "crn": "40815" },
       { "term": "202410", "crn": "13372" },
       { "term": "202330", "crn": "31885" },
       { "term": "202310", "crn": "13833" }
@@ -25,6 +26,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "31706" },
+      { "term": "202430", "crn": "40816" },
       { "term": "202410", "crn": "11937" },
       { "term": "202330", "crn": "31886" },
       { "term": "202310", "crn": "12166" }
@@ -63,11 +65,7 @@
     ],
     "description": "Provides in-depth treatment of the wireline and wireless infrastructure of the network supporting all telecommunication, internet, and enterprise applications. Covers the basics of communications—source coding, baseband and broadband modulation and transmission, channel coding, spread-spectrum, multiuser radio communications, radio link analysis, and propagation. Also covers the wireline core network—digital and optical transmission, framing, network synchronization, asynchronous and synchronous multiplexing, cross connects, SONET/SDH, DWDM, OTN, protection switching, and network availability. Addresses wireline (DSL, digital cable, FTTx, PONs) and wireless access (cellular, Wi-Fi), frequency reuse, and handoff. Also addresses support of data transport (switched Ethernet, VLAN, IP, MPLS) and application networks (PSTN, mobile core, internet, IPTV, and virtual networks).",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "TELE", "number": "5330" },
-      "Or",
-      { "subject": "TELE", "number": "5330" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "TELE",
@@ -84,11 +82,7 @@
     ],
     "description": "Offers in-depth treatment of protocols used in the internet, wireless access, and enterprise networks. Topics include protocols for network layer QoS (including DiffServ, ECN, RSVP, MPLS); protocols for security, including both access control and network-level security (e.g., X.509, SSL/TLS, IPsec, IKE, EAP); protocols for interdomain routing (BGP); protocols to support multicast, broadcast, and streaming applications; protocols to support host mobility, large server deployments, content distribution, and enterprise networks (VLANs, etc); and protocols to support IPv6 (e.g., address assignment) and its interoperability with IPv4. Also covers network design architectures for cloud computing, data centers, content distribution, layer-2 networks, etc. Discusses general scaling issues for large networks.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "TELE", "number": "5330" },
-      "Or",
-      { "subject": "TELE", "number": "5330" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "TELE",
@@ -105,11 +99,7 @@
     ],
     "description": "Introduces UNIX/Linux in a networking/Internet environment. Covers operating system concepts, tools, and utilities; networking and security issues; and data and text processing using scripts and filters. Addresses basic administrative tasks such as managing users, file systems, security, and software. Covers networking topics such as network configuration, daemon processes, SSH, DNS, DHCP, diagnostic tools, and the use of scripts and automation to manage applications and systems, as well as security topics such as name and authentication services, access control lists, file modification protections, and firewalls.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "TELE", "number": "5330" },
-      "Or",
-      { "subject": "TELE", "number": "5330" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "TELE",
@@ -118,10 +108,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "31708" },
-      { "term": "202330", "crn": "31888" }
-    ],
+    "sections": [{ "term": "202330", "crn": "31888" }],
     "description": "Explores the technologies that underlie unified communications and collaboration (UCC) applications and communications networks. With the migration of communications infrastructure to the cloud, a democratization of communications is underway that allows customers to build powerful UCC applications on top of networks managed by service providers. UCC applications integrate audio and video conferencing, messaging, virtual whiteboards, and enhanced call control capabilities. Major topics include architecture of communication networks, IP-based voice, video and messaging protocols, public cloud-based communications, browser-based communications, and Communications Platforms-as-a-Service (CPaaS). Uses class projects to offer students an opportunity to get hands-on experience in addressing real-world problems in UCC communications infrastructure, services, and applications.",
     "coreqs": [],
     "prereqs": [
@@ -192,6 +179,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "35413" },
+      { "term": "202430", "crn": "41019" },
       { "term": "202410", "crn": "15429" },
       { "term": "202410", "crn": "16756" },
       { "term": "202330", "crn": "36868" },
@@ -224,7 +212,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34168" },
       { "term": "202410", "crn": "14511" },
       { "term": "202330", "crn": "34862" },
       { "term": "202330", "crn": "39602" },
@@ -250,6 +237,7 @@
       { "term": "202430", "crn": "39832" },
       { "term": "202430", "crn": "40261" },
       { "term": "202430", "crn": "40727" },
+      { "term": "202430", "crn": "40852" },
       { "term": "202410", "crn": "21341" }
     ],
     "description": "Offers topics of current interest in the Internet of Things. Topics vary from semester to semester. May be repeated without limit.",

@@ -53,7 +53,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "33313" },
-      { "term": "202430", "crn": "34793" },
       { "term": "202330", "crn": "33767" },
       { "term": "202330", "crn": "35808" }
     ],
@@ -263,19 +262,7 @@
     ],
     "description": "Explores conservation biology, an interdisciplinary science that focuses on conservation of biological diversity at multiple levels. Emphasizes the causes and consequences of biodiversity loss and demonstrates how ecological and evolutionary principles are applied to conservation problems. Covers sustainability; climate change; introduced species; conservation of threatened and endangered species; and pollution, disease, and habitat restoration using examples from marine, aquatic, and terrestrial systems. Offers students an opportunity to read, discuss, evaluate, and present data from primary research through written assignments and oral debates and to apply this knowledge to conservation issues. Emphasizes critical thinking, problem solving, and recognizing multiple perspectives.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "BIOL", "number": "1107" },
-      "Or",
-      { "subject": "BIOL", "number": "1111" },
-      "Or",
-      { "subject": "BIOL", "number": "1115" },
-      "Or",
-      { "subject": "EEMB", "number": "1101" },
-      "Or",
-      { "subject": "ENVR", "number": "1101" },
-      "Or",
-      { "subject": "ENVR", "number": "1400" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "EEMB",
@@ -397,7 +384,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "21898" }],
+    "sections": [
+      { "term": "202440", "crn": "41847" },
+      { "term": "202410", "crn": "21898" }
+    ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -477,13 +467,7 @@
     ],
     "description": "Covers a variety of topics including basic coral biology, the coral/algal symbioses, the mechanisms of coral bleaching, coral microbiology and disease, coral calcification and ocean acidification, and coral speciation and hybridization. Supplements lectures with readings from the primary literature. Focuses on active areas of research and hands-on learning through lab and field activities.",
     "coreqs": [{ "subject": "EEMB", "number": "5505" }],
-    "prereqs": [
-      { "subject": "BIOL", "number": "2311" },
-      "Or",
-      { "subject": "EEMB", "number": "2302" },
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "EEMB",
@@ -553,15 +537,7 @@
     ],
     "description": "Studies principles of classification, anatomy, physiology, behavior, and evolution of seabirds and marine mammals. Also addresses conservation and protection of animals and essential habitat. Includes field trips to observe local species.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "BIOL", "number": "2311" },
-      "Or",
-      { "subject": "EEMB", "number": "2302" },
-      ")",
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "EEMB",
@@ -658,20 +634,14 @@
     "title": "Experimental Design Marine Ecology",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["WI", "AD"],
+    "nuPath": ["AD", "WI"],
     "sections": [
       { "term": "202410", "crn": "15213" },
       { "term": "202310", "crn": "16477" }
     ],
     "description": "Includes introduction to and application of observational methods in three local marine habitats, experimental design, statistical analysis, R statistical computing and graphics software, and principles of marine ecology. Combines lecture, hand-on research experience, and computer laboratory and includes reading and analyzing the scientific literature and developing research projects. At the end of the semester, students are expected to demonstrate an integrative mastery of course topics by writing a scientific manuscript about a class experiment. Seeks to prepare students for practicing ecology in new environments and to provide students with the foundational knowledge necessary for pursuing more complex concepts in experimental design, statistical analysis, and marine ecology.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "BIOL", "number": "2311" },
-      "Or",
-      { "subject": "EEMB", "number": "2302" },
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "EEMB",
@@ -773,15 +743,7 @@
     ],
     "description": "Investigates issues of marine and coastal spatial planning (MCSP) that include offshore wind power siting, fisheries and aquaculture management, natural resource extraction, marine mammal conservation, and/or living shoreline protection and mitigation. Covers the spatial planning process from question to deliverable strategy, including assessment of stakeholder needs and potential ecosystem impacts. Offers students an opportunity to acquire and assess data, apply appropriate statistical tools, and develop spatial maps using geographic information systems (GIS) and other software. Also covers how to synthesize the planning process and develop and evaluate recommendations.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "EEMB", "number": "2302" },
-      "Or",
-      { "subject": "EEMB", "number": "2700" },
-      "Or",
-      { "subject": "EEMB", "number": "3460" },
-      "Or",
-      { "subject": "EEMB", "number": "4001" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "EEMB",
@@ -923,7 +885,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "36358" }],
+    "sections": [],
     "description": "Designed to prepare PhD students with a concentration in marine sciences for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
     "prereqs": []
@@ -984,8 +946,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38318" },
-      { "term": "202430", "crn": "38711" },
       { "term": "202330", "crn": "40410" },
       { "term": "202330", "crn": "40830" }
     ],
@@ -1002,6 +962,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "32687" },
+      { "term": "202430", "crn": "41186" },
+      { "term": "202430", "crn": "41801" },
       { "term": "202410", "crn": "11846" },
       { "term": "202330", "crn": "33023" },
       { "term": "202310", "crn": "12071" }
@@ -1018,6 +980,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61226" },
       { "term": "202430", "crn": "31572" },
       { "term": "202410", "crn": "11847" },
       { "term": "202360", "crn": "61563" },
@@ -1053,7 +1016,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34120" },
       { "term": "202350", "crn": "52536" },
       { "term": "202330", "crn": "34800" },
       { "term": "202310", "crn": "21556" }

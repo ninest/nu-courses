@@ -10,9 +10,7 @@ const subjects = await readJSON<Subject[]>(`${DATA_DIR_PATH}/subjects.json`);
 
 const noSubjects = subjects?.length;
 for await (const [index, subject] of subjects!.entries()) {
-  const courses = await readJSON<Course[]>(
-    `${DATA_DIR_PATH}/courses/${subject.code}.json`,
-  );
+  const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/courses/${subject.code}.json`);
 
   console.log(`${index + 1} ${subject.code}`);
 
@@ -22,9 +20,7 @@ for await (const [index, subject] of subjects!.entries()) {
     // Just decode the html
     if (course.description) {
       console.log(
-        `${index + 1}/${noSubjects} (skipped) : ${
-          courseIndex + 1
-        }/${noCourses} courses done`,
+        `${index + 1}/${noSubjects} (skipped) : ${courseIndex + 1}/${noCourses} courses done`
       );
       course.description = decodeHTML(course.description);
       continue;
@@ -57,16 +53,16 @@ for await (const [index, subject] of subjects!.entries()) {
       }
     } else {
       // Find the description of the first section only
-      const { term, crn } = course.sections[0];
-      const description = await getCourseDescription({ term, crn });
-      course.description = decodeHTML(description);
+      try {
+        const { term, crn } = course.sections[0];
+        const description = await getCourseDescription({ term, crn });
+        course.description = decodeHTML(description);
+      } catch {
+        course.description = "Unable to find description."
+      }
     }
 
-    console.log(
-      `${index + 1}/${noSubjects} : ${
-        courseIndex + 1
-      }/${noCourses} courses done`,
-    );
+    console.log(`${index + 1}/${noSubjects} : ${courseIndex + 1}/${noCourses} courses done`);
   }
 
   writeJSON(`${DATA_DIR_PATH}/courses/${subject.code}.json`, courses);

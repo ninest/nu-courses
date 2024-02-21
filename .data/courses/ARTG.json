@@ -35,7 +35,6 @@
       { "term": "202430", "crn": "36408" },
       { "term": "202430", "crn": "37816" },
       { "term": "202430", "crn": "38322" },
-      { "term": "202430", "crn": "38928" },
       { "term": "202410", "crn": "17901" },
       { "term": "202410", "crn": "17952" },
       { "term": "202410", "crn": "17965" },
@@ -129,7 +128,10 @@
       { "term": "202430", "crn": "38933" },
       { "term": "202430", "crn": "38934" },
       { "term": "202430", "crn": "38935" },
+      { "term": "202430", "crn": "41134" },
+      { "term": "202430", "crn": "41100" },
       { "term": "202430", "crn": "40625" },
+      { "term": "202430", "crn": "41587" },
       { "term": "202410", "crn": "20681" },
       { "term": "202410", "crn": "20682" },
       { "term": "202410", "crn": "20683" }
@@ -146,12 +148,14 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61616" },
+      { "term": "202440", "crn": "41837" },
       { "term": "202430", "crn": "38940" },
       { "term": "202430", "crn": "40626" }
     ],
     "description": "Covers typography as a core element of graphic design. Examines typography's history, development, and contemporary state. Studies typography principles and how to apply them in different contexts and formats. Introduces the cultural meaning of and diversity of typography and the importance of research while engaging with it. Through appreciation, curiosity, engagement, and discipline, initiates an intellectual investigation and practice of what it means to work with typography and apply typography in different disciplines.",
     "coreqs": [{ "subject": "ARTG", "number": "1291" }],
-    "prereqs": [{ "subject": "ARTF", "number": "1122" }]
+    "prereqs": []
   },
   {
     "subject": "ARTG",
@@ -161,6 +165,9 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61618" },
+      { "term": "202440", "crn": "41967" },
+      { "term": "202440", "crn": "41968" },
       { "term": "202430", "crn": "38941" },
       { "term": "202430", "crn": "38942" },
       { "term": "202430", "crn": "38943" },
@@ -169,8 +176,6 @@
       { "term": "202430", "crn": "38946" },
       { "term": "202430", "crn": "38947" },
       { "term": "202430", "crn": "38948" },
-      { "term": "202430", "crn": "38949" },
-      { "term": "202430", "crn": "38950" },
       { "term": "202430", "crn": "40627" }
     ],
     "description": "Introduces letterforms in visual communication. Studies typography as a form in terms of its function and explores visual principles affecting the organization and access of typographic information. Explores how to organize words and phrases to create clear meanings. Introduces the use of the typographic grid and issues of hierarchy and legibility through assigned projects, readings, and lectures. Includes the historical evolution of typefaces and their classification as a rational system. Guides students in the application of typography as the basis of organizing and expressive principle of graphic design.",
@@ -185,6 +190,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61619" },
+      { "term": "202440", "crn": "41839" },
       { "term": "202430", "crn": "38951" },
       { "term": "202430", "crn": "38952" },
       { "term": "202430", "crn": "38953" },
@@ -274,10 +281,12 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202460", "crn": "60500" },
+      { "term": "202440", "crn": "40103" },
+      { "term": "202440", "crn": "40757" },
       { "term": "202430", "crn": "30367" },
       { "term": "202430", "crn": "30894" },
       { "term": "202430", "crn": "32010" },
-      { "term": "202430", "crn": "34974" },
       { "term": "202430", "crn": "32825" },
       { "term": "202430", "crn": "38955" },
       { "term": "202410", "crn": "10192" },
@@ -304,7 +313,7 @@
     ],
     "description": "Explores graphic form and vocabulary through the development of icons and symbols. Applies graphic design principles to the correlation of forms with their function, content, and context. Incorporates a variety of media as visual communication elements.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ARTF", "number": "1122" }]
+    "prereqs": []
   },
   {
     "subject": "ARTG",
@@ -331,7 +340,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "38956" }],
+    "sections": [
+      { "term": "202460", "crn": "61620" },
+      { "term": "202430", "crn": "38956" }
+    ],
     "description": "Introduces students to creative coding and algorithmic thinking through creative projects. Students prototype projects by starting with preproduction exercises like flowcharts and pseudocode before proceeding to writing modular code, then testing and debugging, and finally writing reflection documentation. Introduces multiple programming platforms that can be used for the completion of coursework, allowing students flexibility in coding their project visions. Lecture sessions combine topical lectures with live coding and code walks of example code.",
     "coreqs": [{ "subject": "ARTG", "number": "2263" }],
     "prereqs": []
@@ -344,14 +356,10 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61621" },
       { "term": "202430", "crn": "38957" },
-      { "term": "202430", "crn": "38958" },
       { "term": "202430", "crn": "38959" },
-      { "term": "202430", "crn": "38960" },
-      { "term": "202430", "crn": "38961" },
-      { "term": "202430", "crn": "38962" },
       { "term": "202430", "crn": "38963" },
-      { "term": "202430", "crn": "38964" },
       { "term": "202430", "crn": "38965" },
       { "term": "202430", "crn": "38966" }
     ],
@@ -367,6 +375,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41982" },
       { "term": "202430", "crn": "31784" },
       { "term": "202430", "crn": "32009" },
       { "term": "202430", "crn": "32826" },
@@ -395,6 +404,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41993" },
       { "term": "202430", "crn": "32258" },
       { "term": "202410", "crn": "15988" },
       { "term": "202330", "crn": "32510" },
@@ -445,7 +455,7 @@
     ],
     "description": "Explores the communication between the physical world and the interactive, computer-based interface. Examines the potential of reactive analog and digital devices embedded within the physical realm. Offers students an opportunity to use simple kit sensors and indicators designed to enable student teams to create interfaces triggered by gesture, bodily movement, physical forces, and other tangible actions. Concludes with discussions of more complex interactive devices, the relationship between physical computing and robotics, and possible future directions.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ARTG", "number": "2400" }]
+    "prereqs": []
   },
   {
     "subject": "ARTG",
@@ -455,14 +465,12 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202460", "crn": "60631" },
+      { "term": "202440", "crn": "40866" },
       { "term": "202430", "crn": "30180" },
       { "term": "202430", "crn": "31732" },
-      { "term": "202430", "crn": "37473" },
-      { "term": "202430", "crn": "37403" },
       { "term": "202430", "crn": "33683" },
-      { "term": "202430", "crn": "34285" },
       { "term": "202430", "crn": "34975" },
-      { "term": "202430", "crn": "38968" },
       { "term": "202410", "crn": "11041" },
       { "term": "202410", "crn": "13273" },
       { "term": "202410", "crn": "13792" },
@@ -515,7 +523,7 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "38973" }],
+    "sections": [],
     "description": "Focuses on a specific intermediate-level topic of timely relevance to the domain of information design. May be repeated up to two times for a maximum of 12 SH.",
     "coreqs": [],
     "prereqs": [{ "subject": "ARTG", "number": "2242" }]
@@ -541,7 +549,7 @@
     ],
     "description": "Explores the conceptual potential inherent in the merging of words/text with images/symbols to achieve a level of communication that exceeds the sum of visual and verbal components. Examining how the relationship of verbal and visual content can enhance meaning and comprehension, students identify a social issue of personal relevance and create a visual campaign targeting a core audience. Through a process including projects, readings, and lectures/discussions, students research, frame concepts, explore visual decisions, and determine appropriate deliverables.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ARTG", "number": "2252" }]
+    "prereqs": []
   },
   {
     "subject": "ARTG",
@@ -575,6 +583,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41840" },
       { "term": "202430", "crn": "38974" },
       { "term": "202430", "crn": "38975" },
       { "term": "202430", "crn": "38976" },
@@ -621,6 +630,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41380" },
       { "term": "202430", "crn": "32278" },
       { "term": "202430", "crn": "32975" },
       { "term": "202430", "crn": "34976" },
@@ -639,11 +649,7 @@
     ],
     "description": "Investigates a wide range of design research methods and means of representing user intentions and actions in order to develop coherent designs based on the needs of the user. Includes use of context assessment, user experience audits, and scenario development as means to understand the motivations, behaviors, and values of audiences and participants.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ARTG", "number": "1250" },
-      "Or",
-      { "subject": "ARTF", "number": "2223" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ARTG",
@@ -675,6 +681,7 @@
     "sections": [
       { "term": "202430", "crn": "38979" },
       { "term": "202430", "crn": "38980" },
+      { "term": "202430", "crn": "41229" },
       { "term": "202410", "crn": "21039" }
     ],
     "description": "Focuses on a specific intermediate-level topic of timely relevance to the domain of experience design. May be repeated up to two times for a maximum of 12 semester hours.",
@@ -696,7 +703,7 @@
     ],
     "description": "Explores user-centered interface design for information exchanges using handheld and mobile devices. Studies the potentials for leveraging both the social and locative possibilities of mobile devices through research, discussions, and project assignments.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ARTG", "number": "2400" }]
+    "prereqs": []
   },
   {
     "subject": "ARTG",
@@ -714,6 +721,7 @@
       { "term": "202430", "crn": "37324" },
       { "term": "202430", "crn": "37116" },
       { "term": "202430", "crn": "37325" },
+      { "term": "202430", "crn": "38982" },
       { "term": "202410", "crn": "10762" },
       { "term": "202410", "crn": "14457" },
       { "term": "202410", "crn": "16889" },
@@ -749,7 +757,7 @@
     ],
     "description": "Offers an advanced course exploring a variety of typographical solutions, including expressive formal and complex content-based projects.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ARTG", "number": "3350" }]
+    "prereqs": []
   },
   {
     "subject": "ARTG",
@@ -961,17 +969,10 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "34634" },
-      { "term": "202330", "crn": "35522" }
-    ],
+    "sections": [{ "term": "202330", "crn": "35522" }],
     "description": "Builds on the foundational skills acquired in ARTG 5330. Introduces students to intermediate- to advanced-level topics in web-based interactive visualization. Focuses on building greater proficiency in working with d3 and related JavaScript libraries and on acquiring knowledge of best practices and common patterns in data visualization problem solving. Through lectures, workshops, and a final project, offers students an opportunity to learn to effectively deploy their data visualization skills to explore and extract understanding from data in a critical and productive way.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ARTG", "number": "5330" },
-      "Or",
-      { "subject": "ARTG", "number": "5330" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ARTG",
@@ -1076,11 +1077,7 @@
     ],
     "description": "Continues the exploration of data representations in a variety of media. Focuses on interactive and time-based techniques. Emphasizes computational methods of data collection, manipulation, and encoding. Requires graduate standing or permission of program coordinator or instructor. May be repeated once.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ARTG", "number": "5100" },
-      "Or",
-      { "subject": "ARTG", "number": "5100" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ARTG",
@@ -1165,7 +1162,7 @@
     ],
     "description": "Offers students an opportunity to learn a human-centered design perspective and to develop experience design competency in the complex context of interpersonal and group interactions. Experience design is a holistic approach that investigates the human experience in specific situations in order to improve its quality. Students study the person-to-person aspect of human-centered design through readings and in-class activities, as well as practice applying its perspectives, models, and theories to the project process. Students are asked to participate in class discussions and create compelling experience design projects to address the needs, desires, fears, and aspirations of their audience.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ARTG", "number": "5600" }]
+    "prereqs": []
   },
   {
     "subject": "ARTG",
@@ -1181,11 +1178,7 @@
     ],
     "description": "Extends the exploration of design principles and methods by starting the development of a design master thesis. Examines how to develop effective design interventions capable of enriching human experience in specific situations, sites, and in the context of comprehensive activities. Emphasizes a systems perspective in both research and design development—the relationships between diverse participant groups and communities as well as the complex implications and interrelations of interventions at multiple scales and dimensions. Continues the exploration of theories of information design a­­nd visualization. Offers students an opportunity to prototype functioning applications that advance their thesis projects.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ARTG", "number": "6100" },
-      "Or",
-      { "subject": "ARTG", "number": "6600" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ARTG",

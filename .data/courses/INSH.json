@@ -57,10 +57,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC", "SI"],
-    "sections": [
-      { "term": "202430", "crn": "32418" },
-      { "term": "202330", "crn": "32694" }
-    ],
+    "sections": [{ "term": "202330", "crn": "32694" }],
     "description": "Uses Boston as a case study for integrating computational methods with the social sciences and humanities to provide new insights into major cultural, historical, and societal questions as they relate to and extend beyond the city of Boston. Through lectures, discussions, and labs, the course examines a variety of data sets that measure geographic, historical, literary, political, civic, and institutional landscapes. Offers students an opportunity to combine analytical tools, such as geospatial mapping, data visualization, and network science, with readings, hands-on class activities, and museum or site visits, enabling a comprehensive view of complex cultural and social phenomena.",
     "coreqs": [],
     "prereqs": [
@@ -108,6 +105,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60637" },
+      { "term": "202460", "crn": "60638" },
       { "term": "202410", "crn": "22109" },
       { "term": "202360", "crn": "60722" },
       { "term": "202360", "crn": "60723" },
@@ -147,7 +146,6 @@
     "nuPath": ["AD", "FQ"],
     "sections": [
       { "term": "202430", "crn": "36747" },
-      { "term": "202430", "crn": "40702" },
       { "term": "202410", "crn": "17152" },
       { "term": "202330", "crn": "38745" },
       { "term": "202310", "crn": "19518" }
@@ -183,6 +181,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60752" },
       { "term": "202430", "crn": "33186" },
       { "term": "202410", "crn": "13416" },
       { "term": "202360", "crn": "60878" },
@@ -200,7 +199,7 @@
     "title": "Documenting Fieldwork Narratives: Oral History, Ethnography, Archival Practices",
     "scheduleType": "Seminar",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["EX"],
     "sections": [
       { "term": "202430", "crn": "34811" },
       { "term": "202330", "crn": "35835" }
@@ -229,6 +228,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41047" },
       { "term": "202410", "crn": "19025" },
       { "term": "202330", "crn": "39864" },
       { "term": "202310", "crn": "21476" }
@@ -257,9 +257,11 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40548" },
       { "term": "202430", "crn": "32746" },
       { "term": "202430", "crn": "39368" },
       { "term": "202430", "crn": "40502" },
+      { "term": "202430", "crn": "40803" },
       { "term": "202410", "crn": "13450" },
       { "term": "202410", "crn": "14218" },
       { "term": "202410", "crn": "15552" },
@@ -316,6 +318,8 @@
     "sections": [
       { "term": "202430", "crn": "32937" },
       { "term": "202430", "crn": "32943" },
+      { "term": "202430", "crn": "40804" },
+      { "term": "202430", "crn": "40957" },
       { "term": "202410", "crn": "14219" },
       { "term": "202410", "crn": "14226" },
       { "term": "202410", "crn": "15553" },
@@ -340,6 +344,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60370" },
       { "term": "202430", "crn": "37603" },
       { "term": "202410", "crn": "13208" },
       { "term": "202360", "crn": "60397" },
@@ -360,6 +365,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60874" },
+      { "term": "202460", "crn": "61333" },
       { "term": "202410", "crn": "21495" },
       { "term": "202360", "crn": "61152" },
       { "term": "202360", "crn": "61674" },

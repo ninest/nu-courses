@@ -7,7 +7,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "36544" },
+      { "term": "202440", "crn": "40722" },
       { "term": "202430", "crn": "35213" },
       { "term": "202430", "crn": "35214" },
       { "term": "202430", "crn": "36545" },
@@ -41,7 +41,6 @@
     "credits": 5,
     "nuPath": ["AD"],
     "sections": [
-      { "term": "202430", "crn": "31718" },
       { "term": "202430", "crn": "31719" },
       { "term": "202430", "crn": "39413" },
       { "term": "202410", "crn": "11778" },
@@ -85,6 +84,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61507" },
+      { "term": "202440", "crn": "41225" },
       { "term": "202430", "crn": "31720" },
       { "term": "202430", "crn": "31808" },
       { "term": "202410", "crn": "11781" },
@@ -152,7 +153,6 @@
       { "term": "202430", "crn": "30499" },
       { "term": "202430", "crn": "35615" },
       { "term": "202430", "crn": "30866" },
-      { "term": "202430", "crn": "36777" },
       { "term": "202410", "crn": "10766" },
       { "term": "202410", "crn": "13094" },
       { "term": "202410", "crn": "10767" },
@@ -179,6 +179,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60569" },
+      { "term": "202440", "crn": "40766" },
       { "term": "202430", "crn": "30297" },
       { "term": "202430", "crn": "33973" },
       { "term": "202430", "crn": "34051" },
@@ -204,15 +206,7 @@
     ],
     "description": "Covers the design and evaluation of control and data structures for digital systems. Uses hardware description languages to describe and design both behavioral and register-transfer-level architectures and control units. Topics covered include number systems, data representation, a review of combinational and sequential digital logic, finite state machines, arithmetic-logic unit (ALU) design, basic computer architecture, the concepts of memory and memory addressing, digital interfacing, timing, and synchronization. Assignments include designing and simulating digital hardware models using Verilog as well as some assembly language to expose the interface between hardware and software.",
     "coreqs": [{ "subject": "EECE", "number": "2323" }],
-    "prereqs": [
-      { "subject": "EECE", "number": "2160" },
-      "Or",
-      "(",
-      { "subject": "CS", "number": "1800" },
-      "And",
-      { "subject": "CS", "number": "2510" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -222,6 +216,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60570" },
+      { "term": "202440", "crn": "40767" },
       { "term": "202430", "crn": "30296" },
       { "term": "202430", "crn": "32984" },
       { "term": "202430", "crn": "30295" },
@@ -229,6 +225,7 @@
       { "term": "202430", "crn": "34053" },
       { "term": "202430", "crn": "35635" },
       { "term": "202430", "crn": "37681" },
+      { "term": "202430", "crn": "40997" },
       { "term": "202410", "crn": "10454" },
       { "term": "202410", "crn": "10455" },
       { "term": "202410", "crn": "10456" },
@@ -268,6 +265,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61084" },
       { "term": "202430", "crn": "30794" },
       { "term": "202430", "crn": "30795" },
       { "term": "202410", "crn": "10785" },
@@ -297,6 +295,7 @@
     "credits": 1,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202460", "crn": "61085" },
       { "term": "202430", "crn": "30808" },
       { "term": "202430", "crn": "30809" },
       { "term": "202430", "crn": "31261" },
@@ -323,6 +322,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40704" },
       { "term": "202430", "crn": "31721" },
       { "term": "202430", "crn": "31722" },
       { "term": "202410", "crn": "11977" },
@@ -337,6 +337,7 @@
     "description": "Develops the basic theory of continuous and discrete systems, emphasizing linear time-invariant systems. Discusses the representation of signals and systems in both the time and frequency domain. Topics include linearity, time invariance, causality, stability, convolution, system interconnection, and sinusoidal response. Develops the Fourier and Laplace transforms for the discussion of frequency-domain applications. Analyzes sampling and quantization of continuous waveforms (A/D and D/A conversion), leading to the discussion of discrete-time FIR and IIR systems, recursive analysis, and realization. The Z-transform and the discrete-time Fourier transform are developed and applied to the analysis of discrete-time signals and systems.",
     "coreqs": [],
     "prereqs": [
+      "(",
       "(",
       { "subject": "EECE", "number": "2150" },
       "Or",
@@ -353,6 +354,7 @@
       { "subject": "GE", "number": "2361" },
       "Or",
       { "subject": "MATH", "number": "2341" },
+      ")",
       ")"
     ]
   },
@@ -375,25 +377,7 @@
     ],
     "description": "Introduces electromagnetics and high-frequency applications. Topics include transmission lines: transmission line model with distributed circuit elements, transmission line equations and solutions, one-dimensional traveling and standing waves, and applications; electromagnetic field theory: Lorentz force equations, Maxwell’s equations, Poynting theorem, and application to the transmission line’s TEM waves. Also studies uniform plane wave propagation along a coordinate axis and along an arbitrary direction; equivalent transmission lines for TEM, TE, and TM waves; reflection and refraction of uniform plane waves by conducting and dielectric surfaces. Discusses applications to wave guides, resonators, optical fibers, and radiation and elementary antennas. Introduces modern techniques (computational methods) and applications (optics, bioelectromagnetics, and electromagnetic effects in high-speed digital circuits).",
     "coreqs": [{ "subject": "EECE", "number": "2531" }],
-    "prereqs": [
-      "(",
-      { "subject": "EECE", "number": "2150" },
-      "Or",
-      { "subject": "EECE", "number": "2210" },
-      "Or",
-      { "subject": "BIOE", "number": "3210" },
-      ")",
-      "And",
-      { "subject": "MATH", "number": "2321" },
-      "And",
-      "(",
-      { "subject": "PHYS", "number": "1155" },
-      "Or",
-      { "subject": "PHYS", "number": "1165" },
-      "Or",
-      { "subject": "PHYS", "number": "1175" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -407,7 +391,6 @@
       { "term": "202430", "crn": "32318" },
       { "term": "202430", "crn": "31763" },
       { "term": "202430", "crn": "32533" },
-      { "term": "202430", "crn": "35215" },
       { "term": "202430", "crn": "35216" },
       { "term": "202430", "crn": "35217" },
       { "term": "202410", "crn": "11981" },
@@ -462,6 +445,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41814" },
       { "term": "202430", "crn": "31724" },
       { "term": "202430", "crn": "31915" },
       { "term": "202410", "crn": "11984" },
@@ -485,6 +469,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41226" },
       { "term": "202430", "crn": "31725" },
       { "term": "202410", "crn": "11978" },
       { "term": "202340", "crn": "41738" },
@@ -494,11 +479,7 @@
     ],
     "description": "Covers the design and implementation of algorithms to solve engineering problems using a high-level programming language. Reviews elementary data structures, such as arrays, stacks, queues, and lists, and introduces more advanced structures, such as trees and graphs and the use of recursion. Covers both the algorithms to manipulate these data structures as well as their use in problem solving. Introduces algorithm complexity analysis and its application to developing efficient algorithms. Emphasizes the importance of software engineering principles.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "EECE", "number": "2160" },
-      "Or",
-      { "subject": "CS", "number": "1500" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -508,6 +489,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202430", "crn": "40799" },
       { "term": "202410", "crn": "21394" },
       { "term": "202310", "crn": "12977" }
     ],
@@ -523,6 +505,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40456" },
       { "term": "202430", "crn": "30294" },
       { "term": "202410", "crn": "10325" },
       { "term": "202340", "crn": "40507" },
@@ -584,6 +567,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40461" },
       { "term": "202430", "crn": "30796" },
       { "term": "202410", "crn": "10980" },
       { "term": "202340", "crn": "40518" },
@@ -603,6 +587,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60408" },
+      { "term": "202440", "crn": "41499" },
       { "term": "202430", "crn": "31059" },
       { "term": "202410", "crn": "12646" },
       { "term": "202360", "crn": "60440" },
@@ -613,13 +599,9 @@
     "description": "Discusses probability, random variables, random processes, and their application to noise in electrical systems. Begins with the basic theory of discrete and continuous probabilities, then develops the concepts of random variables, random vectors, random sequences, and random processes. Continues with a discussion on the physical origins of noise and models of where it is encountered in electronic devices, signal processing, and communications. Defines the concepts of correlation, covariance, and power density spectra and uses them to analyze linear system operations in continuous time.",
     "coreqs": [],
     "prereqs": [
-      { "subject": "MATH", "number": "2341" },
+      { "subject": "EECE", "number": "2150" },
       "And",
-      "(",
-      { "subject": "EECE", "number": "2520" },
-      "Or",
-      { "subject": "EECE", "number": "3464" },
-      ")"
+      { "subject": "MATH", "number": "2341" }
     ]
   },
   {
@@ -629,10 +611,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "33974" },
-      { "term": "202330", "crn": "34609" }
-    ],
+    "sections": [{ "term": "202330", "crn": "34609" }],
     "description": "Examines healthcare technologies using both theory and hands-on approaches. Testing, imaging, and data collection are essential tools medical specialists use to treat patients and the primary contribution of engineers to healthcare.Covers the physics and physiology behind the newly defined concept of digital biomarkers; the electronics needed to collect these biomarkers; analysis techniques for processing and interpreting the data; and invasive (swallowable/implantable), on-body (wearable), and contactless systems for data collection. Examines safety issues, ethics, and regulatory hurdles from both an industry and research perspective. In the hands-on labs, offers students an opportunity to follow the steps of creating a startup or conducting new research and assembling a microcontroller-based sensor system for collecting digital biomarkers.",
     "coreqs": [],
     "prereqs": [
@@ -675,11 +654,7 @@
     ],
     "description": "Focuses on the hardware and software design for devices that interface with embedded processors. Topics include assembly language; addressing modes; embedded processor organization; bus design; electrical characteristics and buffering; address decoding; asynchronous and synchronous bus protocols; troubleshooting embedded systems; I/O port design and interfacing; parallel and serial ports; communication protocols and synchronization to external devices; hardware and software handshake for serial communication protocols; timers; and exception processing and interrupt handlers such as interrupt generation, interfacing, and auto vectoring.",
     "coreqs": [{ "subject": "EECE", "number": "4535" }],
-    "prereqs": [
-      { "subject": "EECE", "number": "3324" },
-      "Or",
-      { "subject": "CS", "number": "3650" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -713,7 +688,7 @@
     ],
     "description": "Covers the electronics of radio receivers and transmitters. Employs a commercial radio transceiver (MFJ-9340) as a learning tool. Presents basic topics (radio spectrum and its utilization, antennae, and information processing by modulation and demodulation). Studies building block realizations for modulators and demodulators for analog (AM, FM) and digital (ASK, PSK, FSK) radio. Covers common radio receiver architectures. Presents circuit-level designs of radio building blocks (resonators; L-C RF filters; crystals and IF filters; tuned transformers and impedance matching; amplifiers and power amplifiers; RF oscillators; mixers and up/down frequency conversion; signal detectors; and automatic gain control circuits). Includes receiver noise and sensitivity; transmitter range; spurious emissions and IM distortion; antennae and propagation in the atmosphere; wireless standards; multiple-access techniques; and software-defined radio. May include additional topics at instructor’s discretion.",
     "coreqs": [],
-    "prereqs": [{ "subject": "EECE", "number": "2412" }]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -723,6 +698,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61052" },
       { "term": "202430", "crn": "31957" },
       { "term": "202360", "crn": "61382" },
       { "term": "202330", "crn": "32187" },
@@ -778,15 +754,7 @@
     ],
     "description": "Presents the basic optical concepts necessary for anunderstanding of current and future optical communication,remote sensing, and industrial and biomedical systems. Topicsinclude geometrical optics, polarized light, diffraction, andinterference. Studies lasers and other light sources, opticalfibers, detectors, CCD cameras, modulators, and othercomponents of optical systems. Presents applications tospecific systems such as fiber-optic communication, medicalimaging systems, fiber-optic sensors, and laser radar.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "BIOE", "number": "3210" },
-      "Or",
-      { "subject": "EECE", "number": "2150" },
-      "Or",
-      { "subject": "EECE", "number": "2210" },
-      "Or",
-      { "subject": "PHYS", "number": "1155" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -819,6 +787,8 @@
     "credits": 4,
     "nuPath": ["CE", "EI", "WI"],
     "sections": [
+      { "term": "202460", "crn": "61524" },
+      { "term": "202440", "crn": "41850" },
       { "term": "202360", "crn": "60040" },
       { "term": "202360", "crn": "60013" },
       { "term": "202360", "crn": "60209" },
@@ -837,6 +807,39 @@
       { "term": "202240", "crn": "40695" }
     ],
     "description": "Requires students to select a project requiring design and implementation of an electrical, electronic, and/or software system, including evaluation of multiple constraints and use of appropriate engineering standards in the design; formation of a team to carry out the project; and submission and presentation of a detailed proposal for the work. Students must specify the materials needed for their project, provide a cost analysis, and make arrangements with their capstone adviser to purchase and/or secure donation of equipment. Requires students to perform a feasibility study by extensive simulation or prototype design of subsystems to facilitate the second phase of the capstone design, considering public health, safety and welfare, global, cultural, social, environmental, and economic factors.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "EECE", "number": "2322" },
+      "Or",
+      { "subject": "EECE", "number": "2412" },
+      "Or",
+      { "subject": "EECE", "number": "2520" },
+      "Or",
+      { "subject": "EECE", "number": "2530" },
+      "Or",
+      { "subject": "EECE", "number": "2540" },
+      "Or",
+      { "subject": "EECE", "number": "2560" },
+      "Or",
+      { "subject": "CS", "number": "3000" }
+    ]
+  },
+  {
+    "subject": "EECE",
+    "number": "4791",
+    "title": "Electrical and Computer Engineering Capstone 1",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": ["CE", "EI", "WI"],
+    "sections": [
+      { "term": "202460", "crn": "61515" },
+      { "term": "202460", "crn": "61516" },
+      { "term": "202460", "crn": "61517" },
+      { "term": "202440", "crn": "41831" },
+      { "term": "202440", "crn": "41832" },
+      { "term": "202440", "crn": "41833" }
+    ],
+    "description": "Aims to give undergraduate engineering students significant experience in dealing with a senior design project. Students form teams and select a project requiring design and implementation of an electrical, electronic, and/or software system, including evaluation of multiple constraints, the use of appropriate engineering standards during the design to carry out the project, as well as the submission and presentation of a detailed proposal for the work. The project plan includes the consideration of public health, safety, and welfare and global, cultural, social, environmental, and economic factors. Students must specify a preliminary list of materials needed for their project, provide a cost analysis, and prepare and deliver written and oral presentations on the design proposal. This is the first of a two-course sequence.",
     "coreqs": [],
     "prereqs": [
       { "subject": "EECE", "number": "2322" },
@@ -942,21 +945,7 @@
     "sections": [{ "term": "202410", "crn": "19698" }],
     "description": "Offered by the NSF Nanosystems Engineering Research Center for Translational Applications of Nanoscale Multiferroic Systems (TANMS) and co-taught by professors from UCLA, UC Berkeley, Cornell, California State University Northridge, and Northeastern University. Course lectures will be available online for remote students. Covers introduction to multiferroics, atomic structure of multiferroics (chemistry), multiferroic material science, continuum-level analysis of multiferroic materials, and multiferroic devices.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "MATH", "number": "2321" },
-      "And",
-      { "subject": "PHYS", "number": "1155" },
-      "And",
-      "(",
-      { "subject": "CHEM", "number": "1151" },
-      "Or",
-      { "subject": "CHEM", "number": "1211" },
-      ")",
-      ")",
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -968,13 +957,7 @@
     "sections": [{ "term": "202240", "crn": "40696" }],
     "description": "Introduces combinatorial optimization, an emerging field that combines techniques from applied mathematics, operations research, and computer science to solve optimization problems over discrete structures. Emphasizes problems that arise in the areas of electrical and computer engineering, including VLSI, computer-aided design, parallel computing, computer architecture, and high-performance compiling. Covers the foundations of algorithm analysis, including asymptotic notation and complexity theory, and a range of optimization techniques, including divide and conquer, local optimization, dynamic programming, branch and bound, simulated annealing, genetic algorithms, approximation algorithms, integer and linear programming, matroid theory, and greedy algorithms. Considers the efficient generation of optimal solutions, the development and evaluation of heuristics, and the computation of tight upper and lower bounds.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "EECE", "number": "2560" },
-      "Or",
-      { "subject": "CS", "number": "3000" },
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -1051,6 +1034,7 @@
     "coreqs": [],
     "prereqs": [
       "(",
+      "(",
       { "subject": "MATH", "number": "3081" },
       "Or",
       { "subject": "EECE", "number": "3468" },
@@ -1060,6 +1044,7 @@
       { "subject": "EECE", "number": "2160" },
       "Or",
       { "subject": "EECE", "number": "2210" },
+      ")",
       ")",
       "Or",
       "Graduate Admission"
@@ -1137,11 +1122,7 @@
     "sections": [{ "term": "202310", "crn": "13494" }],
     "description": "Covers sampling and analysis tools for linear discrete-time dynamic systems, including the design of digital control systems using transform techniques by discrete equivalent and direct design methods; root locus, Bode and Nyquist diagrams, and Nichols charts; controller implementation issues, such as digital filter realizations, nonlinear effects due to quantization, round off, dead band, and limit cycles; and selection of the sampling rate.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "EECE", "number": "5580" },
-      "Or",
-      { "subject": "EECE", "number": "5580" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -1151,29 +1132,14 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "39797" },
+      { "term": "202430", "crn": "40813" },
       { "term": "202430", "crn": "33979" },
-      { "term": "202430", "crn": "39746" },
       { "term": "202330", "crn": "34614" },
       { "term": "202330", "crn": "40334" }
     ],
     "description": "Introduces fundamentals of statistical inference and data analysis through concepts of detection, estimation, and related signal processing algorithms. Addresses topics of hypothesis testing, Bayesian principles, multiple hypotheses and composite hypothesis testing, test power and uniformly powerful tests, likelihood functions, sufficient statistics, optimal estimation, bounds on the estimator variance, minimum variance linear estimation, prediction and regression, interval estimation, and confidence. Extraction of useful information from noisy observations and informed decision making are at the core of multiple disciplines ranging from traditional communications and sensor array processing to biomedical data analysis, pattern recognition and machine learning, security and defense, and financial engineering. Lectures are supported by illustrative examples, hands-on exercises, and numerical implementations grounded in real-world examples.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "EECE", "number": "2520" },
-      "And",
-      "(",
-      { "subject": "EECE", "number": "3468" },
-      "Or",
-      { "subject": "MATH", "number": "3081" },
-      ")",
-      "Or",
-      { "subject": "DS", "number": "5020" },
-      ")",
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -1184,7 +1150,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "36549" },
-      { "term": "202430", "crn": "36550" },
       { "term": "202410", "crn": "21368" },
       { "term": "202330", "crn": "38539" },
       { "term": "202330", "crn": "38540" }
@@ -1308,6 +1273,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41542" },
       { "term": "202430", "crn": "36553" },
       { "term": "202430", "crn": "32846" },
       { "term": "202430", "crn": "33454" },
@@ -1362,29 +1328,7 @@
     ],
     "description": "Covers the fundamentals of parallel machine-learning algorithms, tailored specifically to learning tasks involving large data sets. Reviews methods for dealing with both large and high-dimensional data sets, emphasizing distributed implementations. Beyond covering the theory behind statistical data analysis, the course also offers a hands-on approach, using Spark as a development platform for parallel learning. Topics include, Apache Spark fundamentals, multithreaded/cluster execution, resilient distributed data structures, map-reduce operations, using key-value pairs, joins, convex optimization, gradient descent, linear regression, Gauss-Markov theorem, ridge and lasso regularization, feature selection, cross validation, variance vs. bias trade-off, classification, logistic regression, ROC curves and AUC, matrix and tensor factorization, graph-parallel algorithms and sparsity, Perceptron algorithm, and deep neural networks.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      "(",
-      { "subject": "MATH", "number": "3081" },
-      "Or",
-      { "subject": "EECE", "number": "3468" },
-      ")",
-      "And",
-      "(",
-      { "subject": "EECE", "number": "2560" },
-      "Or",
-      { "subject": "CS", "number": "3000" },
-      "Or",
-      { "subject": "CS", "number": "4800" },
-      ")",
-      ")",
-      "Or",
-      { "subject": "EECE", "number": "5644" },
-      "Or",
-      { "subject": "DS", "number": "5220" },
-      "Or",
-      { "subject": "DS", "number": "5230" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -1399,13 +1343,7 @@
     ],
     "description": "Introduces basic concepts and recent developments in nanophotonic materials and devices. Nanophotonics is one very important research area in nanotechnology. Discusses the fundamentals of electromagnetics (Maxwell's equations, polarization, wave propagations, etc.); quantum mechanics; and typical nanofabrication and characterization techniques. Focuses on specific topics in nanophotonics, including silicon photonics; photonic crystals; plasmonics and optical metamaterials, with their diverse applications in optical circuits; imaging; optical trapping; biomedical sensing; and energy harvesting. Offers students an opportunity to obtain a fundamental understanding of the property and manipulation of light at the nanoscale.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "EECE", "number": "3440" },
-      "Or",
-      { "subject": "EECE", "number": "2530" },
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -1445,6 +1383,36 @@
   },
   {
     "subject": "EECE",
+    "number": "5654",
+    "title": "Design and Prototyping of Optical Systems for Engineering Applications",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40956" }],
+    "description": "Studies how to design optics experiments and instrument prototypes on the benchtop, as well as to fabricate and test them in a laboratory environment. Discusses application areas including biomedical imaging; astronomy; LiDAR; remote sensing; environmental monitoring; semiconductor fabrication; optical communication; optical computing; military imaging; tracking; and guidance, solar energy, and imaging systems for robotics, security, and transportation. Illustrates how to apply the most important and common equations of optics to design of systems that meet specifications and to evaluation of their performance.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      "(",
+      { "subject": "BIOE", "number": "3210" },
+      "Or",
+      { "subject": "EECE", "number": "2150" },
+      "Or",
+      { "subject": "EECE", "number": "2210" },
+      ")",
+      "And",
+      "(",
+      { "subject": "EECE", "number": "4646" },
+      "Or",
+      { "subject": "EECE", "number": "2530" },
+      ")",
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
+  },
+  {
+    "subject": "EECE",
     "number": "5666",
     "title": "Digital Signal Processing",
     "scheduleType": "Lecture",
@@ -1459,6 +1427,7 @@
     "description": "Presents the theory and practice of modern signal processing techniques. Topics include the characteristics of discrete signals and systems, sampling, and A/D conversion; the Z-transform, the Fourier transform, and the discrete Fourier transform; fast Fourier transform algorithms; design techniques for IIR and FIR digital filters; and quantization effects in digital signal processing. Graduate students may register for this course only if they did not complete an undergraduate course in digital signal processing; such graduate registration requires approval of instructor and an internal departmental petition.",
     "coreqs": [],
     "prereqs": [
+      "(",
       "(",
       { "subject": "ME", "number": "4555" },
       "Or",
@@ -1493,23 +1462,7 @@
     "sections": [{ "term": "202330", "crn": "32507" }],
     "description": "Examines all subsystems that comprise an electric drive including electric machines, power electronic converters, mechanical system requirements, feedback controller design, and interactions with utility systems. Based on an integrative approach that requires minimal prerequisites: a junior-level course in signals and systems and some knowledge of electromagnetic field theory (possibly from physics classes), and does not require separate courses in electric machines, controls, or power electronics.",
     "coreqs": [{ "subject": "EECE", "number": "5681" }],
-    "prereqs": [
-      "(",
-      "(",
-      { "subject": "EECE", "number": "3440" },
-      "Or",
-      { "subject": "EECE", "number": "2530" },
-      ")",
-      "And",
-      "(",
-      { "subject": "EECE", "number": "3464" },
-      "Or",
-      { "subject": "EECE", "number": "2520" },
-      ")",
-      ")",
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -1571,6 +1524,7 @@
       "Or",
       { "subject": "EECE", "number": "2520" },
       ")",
+      ")",
       "Or",
       "Graduate Admission"
     ]
@@ -1626,7 +1580,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "40591" }],
+    "sections": [],
     "description": "Introduces the fundamental physical principles for the electromagnetic radiation from antennas. Presents the most important mathematical techniques for the analysis of the radiation. Applies these principles and techniques to practical antenna systems. Starting with the fundamental parameters of the antennas, introduces the vector potentials and the theorems that are needed for the derivation of the radiation integrals from Maxwell's equations and formulates various antenna radiation characteristics. Covers the applications of practical antennas, wireless communications and networks, space antennas, bio and wearable antennas, and optical antennas, to name a few.",
     "coreqs": [],
     "prereqs": [
@@ -1643,6 +1597,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41242" },
+      { "term": "202440", "crn": "41815" },
       { "term": "202340", "crn": "41756" },
       { "term": "202240", "crn": "41122" },
       { "term": "202240", "crn": "41921" }
@@ -1681,7 +1637,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "32847" },
       { "term": "202430", "crn": "35253" },
       { "term": "202430", "crn": "35520" },
       { "term": "202430", "crn": "37088" },
@@ -1747,7 +1702,7 @@
     ],
     "description": "Examines the role of software and hardware in the design and use of real autonomous systems, including autonomous cars, autonomous underwater vehicles, and unmanned aerial systems. Focuses on using real large-scale robotics systems in real-world settings.",
     "coreqs": [],
-    "prereqs": [{ "subject": "EECE", "number": "5554" }]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -1880,7 +1835,7 @@
     "sections": [{ "term": "202410", "crn": "19705" }],
     "description": "Discusses fundamental issues of adaptive identification and control, such as stability of adaptive systems, convergence, persistent excitation, and robustness. Identification is the process of mathematically modeling a system based on measurement data that may be limited or uncertain. Adaptive control, then, is the means by which a system that is poorly modeled is controlled adequately. Enhances the underlying basic ideas that are essential for adaptive control. Emphasizes recursive approaches, such as recursive least squares algorithm, where parameter estimates are updated in real time. Covers simple adaptive systems, adaptive observers, and adaptive control. Discusses in detail two major adaptive schemes, model reference adaptive control (MRAC) and self-tuning regulators (STR).",
     "coreqs": [],
-    "prereqs": [{ "subject": "EECE", "number": "7200" }]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -1970,13 +1925,7 @@
     ],
     "description": "Introduces radio frequency (RF) integrated circuit analysis, design, and simulation methods with an emphasis on CMOS implementations. Covers basic RF design concepts including linearity, noise figure, sensitivity, impedance matching, and imperfections of integrated passive components (parasitics, quality factors). Discusses front-end circuit design considerations for low-noise amplifiers, mixers, oscillators, and power amplifiers.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "EECE", "number": "7240" },
-      "Or",
-      { "subject": "EECE", "number": "5649" },
-      "Or",
-      { "subject": "EECE", "number": "5649" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -2070,8 +2019,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "36559" },
-      { "term": "202430", "crn": "36558" },
       { "term": "202330", "crn": "38552" },
       { "term": "202330", "crn": "38551" }
     ],
@@ -2190,7 +2137,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "39798" },
       { "term": "202430", "crn": "30553" },
       { "term": "202430", "crn": "30554" },
       { "term": "202330", "crn": "30571" },
@@ -2208,8 +2154,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "39419" },
-      { "term": "202430", "crn": "39420" }
+      { "term": "202430", "crn": "40937" },
+      { "term": "202430", "crn": "39419" }
     ],
     "description": "Analyzes the working principles and practice of current and future mobile and wireless networks. Topics include overviews of different wireless and mobile systems and applications, 5G and beyond cellular networks, current and upcoming Wi-Fi standards, and emerging networking architectures. Covers theoretical foundations to computer simulation-based exercises. Designed with a research component involving a project that allows students to match classroom concepts to real-world problems. The overall objective is to enable the student to critically evaluate current and future wireless and mobile systems through an awareness of communication and networking theory, software protocols, and architectural know-how.",
     "coreqs": [],
@@ -2277,13 +2223,7 @@
     ],
     "description": "Covers fundamentals of operating systems (OS) design, including theoretical, OS-generic design considerations as well as the practical, implementation-specific challenges in the development of a real OS. Requires proficiency in the C programming language, the GNU tool set for C programming, and debugging in Unix operating systems.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CS", "number": "3000" },
-      "Or",
-      { "subject": "EECE", "number": "2560" },
-      "Or",
-      { "subject": "EECE", "number": "7205" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "EECE",
@@ -2345,6 +2285,7 @@
     "sections": [
       { "term": "202430", "crn": "34132" },
       { "term": "202430", "crn": "36561" },
+      { "term": "202430", "crn": "40814" },
       { "term": "202430", "crn": "36562" },
       { "term": "202430", "crn": "32849" },
       { "term": "202410", "crn": "15309" },
@@ -2373,17 +2314,22 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41471" },
       { "term": "202430", "crn": "35810" },
+      { "term": "202430", "crn": "40919" },
       { "term": "202430", "crn": "37653" },
+      { "term": "202430", "crn": "41302" },
+      { "term": "202430", "crn": "41545" },
       { "term": "202430", "crn": "37740" },
+      { "term": "202430", "crn": "41733" },
       { "term": "202430", "crn": "37930" },
       { "term": "202430", "crn": "38058" },
       { "term": "202430", "crn": "38223" },
-      { "term": "202430", "crn": "38272" },
-      { "term": "202430", "crn": "33570" },
-      { "term": "202430", "crn": "33592" },
-      { "term": "202430", "crn": "38641" },
-      { "term": "202430", "crn": "38765" },
+      { "term": "202430", "crn": "41783" },
+      { "term": "202430", "crn": "41695" },
+      { "term": "202430", "crn": "41784" },
+      { "term": "202430", "crn": "41843" },
+      { "term": "202430", "crn": "41864" },
       { "term": "202410", "crn": "21412" },
       { "term": "202410", "crn": "21445" },
       { "term": "202410", "crn": "22123" },
@@ -2392,6 +2338,7 @@
       { "term": "202410", "crn": "22160" },
       { "term": "202410", "crn": "22288" },
       { "term": "202410", "crn": "22463" },
+      { "term": "202410", "crn": "22568" },
       { "term": "202340", "crn": "41992" },
       { "term": "202350", "crn": "53264" },
       { "term": "202330", "crn": "37557" },
@@ -2441,10 +2388,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "35914" },
-      { "term": "202330", "crn": "37717" }
-    ],
+    "sections": [{ "term": "202330", "crn": "37717" }],
     "description": "Continues EECE 7440, a thesis-scale project in technology commercialization. Offers students an opportunity to demonstrate their development of a marketable technology product or prototype with an electrical engineering focus and to produce a written documentary report on the project to the satisfaction of an advising committee. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact, while enhancing the student’s technological and engineering depth and fostering the student’s leadership development.",
     "coreqs": [],
     "prereqs": [{ "subject": "EECE", "number": "7440" }]
@@ -2458,8 +2402,16 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "37896" },
-      { "term": "202430", "crn": "38483" },
-      { "term": "202430", "crn": "38490" },
+      { "term": "202430", "crn": "40779" },
+      { "term": "202430", "crn": "40974" },
+      { "term": "202430", "crn": "41024" },
+      { "term": "202430", "crn": "41041" },
+      { "term": "202430", "crn": "41077" },
+      { "term": "202430", "crn": "41339" },
+      { "term": "202430", "crn": "41350" },
+      { "term": "202430", "crn": "41469" },
+      { "term": "202430", "crn": "41470" },
+      { "term": "202430", "crn": "41767" },
       { "term": "202410", "crn": "14526" },
       { "term": "202410", "crn": "18980" },
       { "term": "202410", "crn": "22465" },
@@ -2489,7 +2441,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38764" },
+      { "term": "202430", "crn": "41063" },
+      { "term": "202430", "crn": "41814" },
+      { "term": "202430", "crn": "41829" },
       { "term": "202410", "crn": "22086" },
       { "term": "202410", "crn": "22202" },
       { "term": "202350", "crn": "53230" },
@@ -2510,20 +2464,23 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "37683" },
       { "term": "202430", "crn": "37695" },
-      { "term": "202430", "crn": "38296" },
-      { "term": "202430", "crn": "38345" },
-      { "term": "202430", "crn": "38440" },
       { "term": "202430", "crn": "36002" },
-      { "term": "202430", "crn": "38441" },
       { "term": "202430", "crn": "38666" },
-      { "term": "202430", "crn": "35522" },
       { "term": "202430", "crn": "38486" },
-      { "term": "202430", "crn": "38489" },
-      { "term": "202430", "crn": "38617" },
-      { "term": "202430", "crn": "34612" },
       { "term": "202430", "crn": "35951" },
+      { "term": "202430", "crn": "41033" },
+      { "term": "202430", "crn": "41155" },
+      { "term": "202430", "crn": "41270" },
+      { "term": "202430", "crn": "41286" },
+      { "term": "202430", "crn": "41308" },
+      { "term": "202430", "crn": "41317" },
+      { "term": "202430", "crn": "41595" },
+      { "term": "202430", "crn": "41692" },
+      { "term": "202430", "crn": "41716" },
+      { "term": "202430", "crn": "41729" },
+      { "term": "202430", "crn": "41736" },
+      { "term": "202430", "crn": "41770" },
       { "term": "202410", "crn": "20769" },
       { "term": "202410", "crn": "20779" },
       { "term": "202410", "crn": "14462" },
@@ -2583,9 +2540,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "37931" },
-      { "term": "202430", "crn": "38547" },
-      { "term": "202430", "crn": "38550" },
+      { "term": "202430", "crn": "40901" },
       { "term": "202410", "crn": "22204" },
       { "term": "202350", "crn": "52879" },
       { "term": "202330", "crn": "40017" },
@@ -2604,7 +2559,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38724" },
+      { "term": "202430", "crn": "41739" },
       { "term": "202410", "crn": "19287" },
       { "term": "202330", "crn": "40843" },
       { "term": "202310", "crn": "21740" }
@@ -2621,51 +2576,50 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "35502" },
+      { "term": "202460", "crn": "61269" },
+      { "term": "202460", "crn": "61276" },
+      { "term": "202460", "crn": "61289" },
+      { "term": "202460", "crn": "61314" },
+      { "term": "202460", "crn": "61328" },
+      { "term": "202460", "crn": "61409" },
+      { "term": "202460", "crn": "61411" },
+      { "term": "202440", "crn": "41612" },
+      { "term": "202440", "crn": "41663" },
+      { "term": "202440", "crn": "41704" },
+      { "term": "202440", "crn": "41742" },
+      { "term": "202430", "crn": "41233" },
       { "term": "202430", "crn": "37654" },
-      { "term": "202430", "crn": "37743" },
       { "term": "202430", "crn": "34338" },
+      { "term": "202430", "crn": "41478" },
       { "term": "202430", "crn": "31508" },
       { "term": "202430", "crn": "37818" },
       { "term": "202430", "crn": "38301" },
-      { "term": "202430", "crn": "38531" },
       { "term": "202430", "crn": "33455" },
       { "term": "202430", "crn": "38636" },
-      { "term": "202430", "crn": "33134" },
-      { "term": "202430", "crn": "38663" },
-      { "term": "202430", "crn": "31509" },
+      { "term": "202430", "crn": "41677" },
       { "term": "202430", "crn": "32677" },
       { "term": "202430", "crn": "33533" },
-      { "term": "202430", "crn": "38723" },
       { "term": "202430", "crn": "33569" },
-      { "term": "202430", "crn": "33125" },
-      { "term": "202430", "crn": "31510" },
       { "term": "202430", "crn": "33567" },
       { "term": "202430", "crn": "31612" },
       { "term": "202430", "crn": "33578" },
       { "term": "202430", "crn": "33577" },
       { "term": "202430", "crn": "34628" },
-      { "term": "202430", "crn": "34640" },
       { "term": "202430", "crn": "32095" },
       { "term": "202430", "crn": "37172" },
       { "term": "202430", "crn": "37767" },
-      { "term": "202430", "crn": "38554" },
       { "term": "202430", "crn": "39421" },
-      { "term": "202430", "crn": "40444" },
       { "term": "202430", "crn": "40443" },
-      { "term": "202430", "crn": "40445" },
       { "term": "202430", "crn": "40446" },
-      { "term": "202430", "crn": "40447" },
       { "term": "202430", "crn": "40448" },
       { "term": "202430", "crn": "40449" },
       { "term": "202430", "crn": "40450" },
       { "term": "202430", "crn": "40451" },
       { "term": "202430", "crn": "40452" },
-      { "term": "202430", "crn": "40453" },
-      { "term": "202430", "crn": "40454" },
       { "term": "202430", "crn": "40455" },
-      { "term": "202430", "crn": "40456" },
       { "term": "202430", "crn": "40457" },
+      { "term": "202430", "crn": "41338" },
+      { "term": "202430", "crn": "41564" },
       { "term": "202410", "crn": "14804" },
       { "term": "202410", "crn": "17867" },
       { "term": "202410", "crn": "14775" },
@@ -2831,8 +2785,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61447" },
+      { "term": "202460", "crn": "61449" },
       { "term": "202430", "crn": "37634" },
-      { "term": "202430", "crn": "37652" },
       { "term": "202430", "crn": "37657" },
       { "term": "202430", "crn": "38001" },
       { "term": "202430", "crn": "38021" },
@@ -2840,23 +2795,12 @@
       { "term": "202430", "crn": "38082" },
       { "term": "202430", "crn": "38299" },
       { "term": "202430", "crn": "38401" },
-      { "term": "202430", "crn": "30603" },
-      { "term": "202430", "crn": "38211" },
       { "term": "202430", "crn": "38456" },
       { "term": "202430", "crn": "38480" },
-      { "term": "202430", "crn": "38439" },
       { "term": "202430", "crn": "38438" },
-      { "term": "202430", "crn": "38485" },
-      { "term": "202430", "crn": "38615" },
-      { "term": "202430", "crn": "38534" },
-      { "term": "202430", "crn": "38619" },
       { "term": "202430", "crn": "38629" },
       { "term": "202430", "crn": "35455" },
-      { "term": "202430", "crn": "35948" },
-      { "term": "202430", "crn": "38210" },
-      { "term": "202430", "crn": "38303" },
       { "term": "202430", "crn": "38429" },
-      { "term": "202430", "crn": "38710" },
       { "term": "202430", "crn": "39759" },
       { "term": "202430", "crn": "39760" },
       { "term": "202430", "crn": "39761" },
@@ -2865,12 +2809,13 @@
       { "term": "202430", "crn": "39764" },
       { "term": "202430", "crn": "39765" },
       { "term": "202430", "crn": "39766" },
-      { "term": "202430", "crn": "39767" },
       { "term": "202430", "crn": "39768" },
-      { "term": "202430", "crn": "39799" },
       { "term": "202430", "crn": "39800" },
-      { "term": "202430", "crn": "39801" },
-      { "term": "202430", "crn": "39802" },
+      { "term": "202430", "crn": "40797" },
+      { "term": "202430", "crn": "41503" },
+      { "term": "202430", "crn": "41513" },
+      { "term": "202430", "crn": "41701" },
+      { "term": "202430", "crn": "41732" },
       { "term": "202410", "crn": "20999" },
       { "term": "202410", "crn": "21143" },
       { "term": "202410", "crn": "22008" },
@@ -2938,11 +2883,12 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34399" },
-      { "term": "202430", "crn": "35418" },
+      { "term": "202460", "crn": "61317" },
+      { "term": "202440", "crn": "41309" },
+      { "term": "202440", "crn": "41321" },
+      { "term": "202440", "crn": "41324" },
+      { "term": "202440", "crn": "41326" },
       { "term": "202430", "crn": "35423" },
-      { "term": "202430", "crn": "35426" },
-      { "term": "202430", "crn": "40179" },
       { "term": "202430", "crn": "40430" },
       { "term": "202430", "crn": "40431" },
       { "term": "202430", "crn": "40433" },
@@ -2952,11 +2898,9 @@
       { "term": "202430", "crn": "40437" },
       { "term": "202430", "crn": "40458" },
       { "term": "202430", "crn": "40459" },
-      { "term": "202430", "crn": "40460" },
       { "term": "202430", "crn": "40461" },
       { "term": "202430", "crn": "40462" },
       { "term": "202430", "crn": "40463" },
-      { "term": "202430", "crn": "40464" },
       { "term": "202410", "crn": "21353" },
       { "term": "202410", "crn": "21611" },
       { "term": "202410", "crn": "21633" },
@@ -3013,6 +2957,29 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61264" },
+      { "term": "202460", "crn": "61283" },
+      { "term": "202460", "crn": "61297" },
+      { "term": "202460", "crn": "61410" },
+      { "term": "202460", "crn": "61412" },
+      { "term": "202460", "crn": "61430" },
+      { "term": "202460", "crn": "61439" },
+      { "term": "202460", "crn": "61448" },
+      { "term": "202460", "crn": "61441" },
+      { "term": "202460", "crn": "61468" },
+      { "term": "202440", "crn": "41254" },
+      { "term": "202440", "crn": "41264" },
+      { "term": "202440", "crn": "41276" },
+      { "term": "202440", "crn": "41278" },
+      { "term": "202440", "crn": "41279" },
+      { "term": "202440", "crn": "41284" },
+      { "term": "202440", "crn": "41287" },
+      { "term": "202440", "crn": "41288" },
+      { "term": "202440", "crn": "41289" },
+      { "term": "202440", "crn": "41290" },
+      { "term": "202440", "crn": "41292" },
+      { "term": "202440", "crn": "41302" },
+      { "term": "202440", "crn": "41304" },
       { "term": "202430", "crn": "32356" },
       { "term": "202430", "crn": "37911" },
       { "term": "202430", "crn": "30925" },
@@ -3039,26 +3006,21 @@
       { "term": "202430", "crn": "31003" },
       { "term": "202430", "crn": "31004" },
       { "term": "202430", "crn": "33584" },
-      { "term": "202430", "crn": "32382" },
       { "term": "202430", "crn": "33510" },
       { "term": "202430", "crn": "33111" },
       { "term": "202430", "crn": "33542" },
       { "term": "202430", "crn": "31133" },
-      { "term": "202430", "crn": "33559" },
       { "term": "202430", "crn": "33603" },
       { "term": "202430", "crn": "32038" },
       { "term": "202430", "crn": "32039" },
       { "term": "202430", "crn": "32083" },
       { "term": "202430", "crn": "32089" },
-      { "term": "202430", "crn": "34260" },
       { "term": "202430", "crn": "32381" },
       { "term": "202430", "crn": "34386" },
       { "term": "202430", "crn": "34530" },
-      { "term": "202430", "crn": "35432" },
       { "term": "202430", "crn": "35434" },
       { "term": "202430", "crn": "35435" },
       { "term": "202430", "crn": "35436" },
-      { "term": "202430", "crn": "35437" },
       { "term": "202430", "crn": "35439" },
       { "term": "202430", "crn": "37512" },
       { "term": "202430", "crn": "37513" },
@@ -3070,7 +3032,7 @@
       { "term": "202430", "crn": "40468" },
       { "term": "202430", "crn": "40469" },
       { "term": "202430", "crn": "40470" },
-      { "term": "202430", "crn": "40733" },
+      { "term": "202430", "crn": "41687" },
       { "term": "202410", "crn": "10870" },
       { "term": "202410", "crn": "13207" },
       { "term": "202410", "crn": "18978" },
@@ -3121,6 +3083,7 @@
       { "term": "202410", "crn": "20595" },
       { "term": "202410", "crn": "20597" },
       { "term": "202410", "crn": "20598" },
+      { "term": "202410", "crn": "22372" },
       { "term": "202360", "crn": "61603" },
       { "term": "202360", "crn": "61624" },
       { "term": "202360", "crn": "61638" },

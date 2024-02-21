@@ -7,6 +7,7 @@
     "credits": 2,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202440", "crn": "41869" },
       { "term": "202430", "crn": "32486" },
       { "term": "202430", "crn": "32813" },
       { "term": "202430", "crn": "33447" },
@@ -38,11 +39,10 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41870" },
       { "term": "202430", "crn": "36778" },
       { "term": "202430", "crn": "36779" },
       { "term": "202430", "crn": "36780" },
-      { "term": "202430", "crn": "36781" },
-      { "term": "202430", "crn": "36782" },
       { "term": "202430", "crn": "36786" },
       { "term": "202430", "crn": "37207" },
       { "term": "202430", "crn": "36785" },
@@ -117,6 +117,7 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202460", "crn": "61531" },
       { "term": "202430", "crn": "33698" },
       { "term": "202430", "crn": "34245" },
       { "term": "202410", "crn": "14349" },
@@ -130,7 +131,7 @@
     ],
     "description": "Offers intermediate to advanced Python programming for data science. Covers object-oriented design patterns using Python, including encapsulation, composition, and inheritance. Advanced programming skills cover software architecture, recursion, profiling, unit testing and debugging, lineage and data provenance, using advanced integrated development environments, and software control systems. Uses case studies to survey key concepts in data science with an emphasis on machine-learning (classification, clustering, deep learning); data visualization; and natural language processing. Additional assigned readings survey topics in ethics, model bias, and data privacy pertinent to today's big data world. Offers students an opportunity to prepare for more advanced courses in data science and to enable practical contributions to software development and data science projects in a commercial setting.",
     "coreqs": [{ "subject": "DS", "number": "2501" }],
-    "prereqs": [{ "subject": "DS", "number": "2000" }]
+    "prereqs": []
   },
   {
     "subject": "DS",
@@ -140,8 +141,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61532" },
+      { "term": "202460", "crn": "61533" },
       { "term": "202430", "crn": "33699" },
-      { "term": "202430", "crn": "34940" },
       { "term": "202430", "crn": "34941" },
       { "term": "202430", "crn": "34942" },
       { "term": "202430", "crn": "34943" },
@@ -183,6 +185,8 @@
     "credits": 4,
     "nuPath": ["AD", "ND"],
     "sections": [
+      { "term": "202460", "crn": "61534" },
+      { "term": "202440", "crn": "41331" },
       { "term": "202430", "crn": "37383" },
       { "term": "202430", "crn": "37384" },
       { "term": "202430", "crn": "37385" },
@@ -227,7 +231,7 @@
     ],
     "description": "Offers a deep dive into the design and implementation of enterprise-grade software systems with an emphasis on software architectures for more complex data-driven applications. Covers extensible architectures that support testing, data provenance, reuse, maintainability, scalability, and robustness and building software APIs and libraries for wide-scale adoption and ease of use. Students design, implement, and test complex loosely coupled service-oriented architectures using distributed processing, stream-based data processing, and interprocess communication via message passing. Explores the features, capabilities, and underlying design of popular data analysis and visualization frameworks.",
     "coreqs": [],
-    "prereqs": [{ "subject": "DS", "number": "2500" }]
+    "prereqs": []
   },
   {
     "subject": "DS",
@@ -235,8 +239,9 @@
     "title": "Information Presentation and Visualization",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["AD", "EX", "WI"],
+    "nuPath": ["AD", "WI", "EX"],
     "sections": [
+      { "term": "202440", "crn": "41210" },
       { "term": "202430", "crn": "32192" },
       { "term": "202430", "crn": "37386" },
       { "term": "202410", "crn": "13524" },
@@ -300,6 +305,7 @@
     "coreqs": [],
     "prereqs": [
       "(",
+      "(",
       { "subject": "DS", "number": "4100" },
       "Or",
       { "subject": "DS", "number": "3000" },
@@ -319,6 +325,7 @@
       { "subject": "PHTH", "number": "2210" },
       "Or",
       { "subject": "PSYC", "number": "2320" },
+      ")",
       ")",
       "Or",
       "(",
@@ -418,10 +425,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "39718" },
       { "term": "202430", "crn": "35178" },
       { "term": "202430", "crn": "37460" },
       { "term": "202430", "crn": "37462" },
+      { "term": "202430", "crn": "41562" },
       { "term": "202410", "crn": "17377" },
       { "term": "202410", "crn": "20172" },
       { "term": "202410", "crn": "20316" },
@@ -477,6 +484,7 @@
       { "term": "202430", "crn": "36793" },
       { "term": "202430", "crn": "37471" },
       { "term": "202430", "crn": "39719" },
+      { "term": "202430", "crn": "40858" },
       { "term": "202410", "crn": "20476" },
       { "term": "202410", "crn": "21007" },
       { "term": "202350", "crn": "52764" },
@@ -556,6 +564,10 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41322" },
+      { "term": "202430", "crn": "41472" },
+      { "term": "202430", "crn": "41810" },
+      { "term": "202430", "crn": "41869" },
       { "term": "202410", "crn": "22082" },
       { "term": "202360", "crn": "61283" },
       { "term": "202350", "crn": "52864" },

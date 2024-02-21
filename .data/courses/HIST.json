@@ -7,6 +7,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40794" },
       { "term": "202410", "crn": "20150" },
       { "term": "202310", "crn": "13154" }
     ],
@@ -61,6 +62,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202460", "crn": "61496" },
       { "term": "202430", "crn": "36530" },
       { "term": "202410", "crn": "15724" },
       { "term": "202340", "crn": "40590" },
@@ -175,15 +177,7 @@
     ],
     "description": "Provides an introduction to historical methods, research, writing, and argument in which all students produce a substantial research project that passes through at least two revisions, and that is presented publicly to other members of the colloquium.",
     "coreqs": [{ "subject": "HIST", "number": "1200" }],
-    "prereqs": [
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "HIST",
@@ -208,6 +202,8 @@
     "credits": 4,
     "nuPath": ["DD", "IC"],
     "sections": [
+      { "term": "202460", "crn": "60484" },
+      { "term": "202440", "crn": "40910" },
       { "term": "202410", "crn": "19678" },
       { "term": "202360", "crn": "60529" },
       { "term": "202360", "crn": "61548" },
@@ -406,6 +402,7 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202460", "crn": "60608" },
       { "term": "202430", "crn": "38826" },
       { "term": "202360", "crn": "60684" },
       { "term": "202260", "crn": "60915" }
@@ -422,6 +419,7 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202440", "crn": "40466" },
       { "term": "202410", "crn": "13425" },
       { "term": "202340", "crn": "40525" },
       { "term": "202310", "crn": "13900" },
@@ -485,7 +483,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["IC"],
-    "sections": [{ "term": "202340", "crn": "41685" }],
+    "sections": [
+      { "term": "202440", "crn": "41179" },
+      { "term": "202340", "crn": "41685" }
+    ],
     "description": "Uses films to analyze major questions in Latin American history. Topics include conquest, slavery, and revolution. The films are works of fiction, but most of them relate to real events. Course readings include \"traditional\" primary sources about the events (such as letters and espionage reports). Studies the history represented in the films and the assumptions and ideological perspectives and how these are conveyed through narrative and visual techniques. More broadly, considers how history is presented and represented by different sources. Offers students an opportunity to obtain a deeper appreciation for the complexity of Latin America.",
     "coreqs": [],
     "prereqs": []
@@ -498,6 +499,8 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60121" },
+      { "term": "202440", "crn": "40911" },
       { "term": "202430", "crn": "38827" },
       { "term": "202430", "crn": "38828" },
       { "term": "202430", "crn": "40664" },
@@ -537,6 +540,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202440", "crn": "41785" },
       { "term": "202430", "crn": "38829" },
       { "term": "202410", "crn": "15200" },
       { "term": "202330", "crn": "34289" },
@@ -658,6 +662,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60780" },
       { "term": "202430", "crn": "36535" },
       { "term": "202410", "crn": "13426" },
       { "term": "202360", "crn": "60931" },
@@ -704,15 +709,7 @@
     "sections": [{ "term": "202410", "crn": "20364" }],
     "description": "Traces the presenceofAfrican-descended people in North America.Emphasizesthe historicaland culturallinks between Africaand NorthAmerica that have shaped theBlack experience in the United States.Explores and analyzes the institution of slavery, the role of free Black communities, the Civil War and emancipation, and Black leadership and protest during the Reconstruction era.Introduces students to the historian’s craft, theoretical debates concerning race and gender, and the persistence of the past in the present.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1113" },
-      "Or",
-      { "subject": "ENGW", "number": "1114" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "HIST",
@@ -1093,6 +1090,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40905" },
+      { "term": "202430", "crn": "41494" },
+      { "term": "202430", "crn": "41560" },
       { "term": "202410", "crn": "13005" },
       { "term": "202410", "crn": "15967" },
       { "term": "202410", "crn": "22392" },
@@ -1177,7 +1177,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "37973" },
-      { "term": "202430", "crn": "38011" },
+      { "term": "202430", "crn": "40931" },
+      { "term": "202430", "crn": "40932" },
       { "term": "202410", "crn": "20748" },
       { "term": "202410", "crn": "20826" },
       { "term": "202410", "crn": "21176" },
@@ -1199,10 +1200,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "37586" },
-      { "term": "202330", "crn": "39626" }
-    ],
+    "sections": [{ "term": "202330", "crn": "39626" }],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1215,7 +1213,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34992" },
       { "term": "202350", "crn": "50850" },
       { "term": "202350", "crn": "51867" },
       { "term": "202350", "crn": "51868" },
@@ -1253,7 +1250,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "16869" }],
+    "sections": [
+      { "term": "202430", "crn": "41455" },
+      { "term": "202310", "crn": "16869" }
+    ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
     "prereqs": [{ "subject": "HIST", "number": "9990" }]
@@ -1267,7 +1267,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "34110" },
-      { "term": "202430", "crn": "34109" },
       { "term": "202430", "crn": "34111" },
       { "term": "202410", "crn": "11347" },
       { "term": "202410", "crn": "17586" },

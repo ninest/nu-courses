@@ -24,6 +24,14 @@
     "credits": 4,
     "nuPath": ["AD", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60030" },
+      { "term": "202460", "crn": "60494" },
+      { "term": "202460", "crn": "60614" },
+      { "term": "202460", "crn": "61711" },
+      { "term": "202440", "crn": "40695" },
+      { "term": "202440", "crn": "40186" },
+      { "term": "202440", "crn": "40582" },
+      { "term": "202440", "crn": "40583" },
       { "term": "202430", "crn": "30439" },
       { "term": "202430", "crn": "30438" },
       { "term": "202430", "crn": "34558" },
@@ -84,6 +92,14 @@
     "credits": 4,
     "nuPath": ["AD", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60029" },
+      { "term": "202460", "crn": "60423" },
+      { "term": "202460", "crn": "60753" },
+      { "term": "202440", "crn": "40699" },
+      { "term": "202440", "crn": "40187" },
+      { "term": "202440", "crn": "40198" },
+      { "term": "202440", "crn": "40470" },
+      { "term": "202440", "crn": "42087" },
       { "term": "202430", "crn": "30437" },
       { "term": "202430", "crn": "30436" },
       { "term": "202430", "crn": "30435" },
@@ -193,7 +209,6 @@
       { "term": "202430", "crn": "32556" },
       { "term": "202430", "crn": "31262" },
       { "term": "202430", "crn": "31263" },
-      { "term": "202430", "crn": "31264" },
       { "term": "202430", "crn": "31265" },
       { "term": "202430", "crn": "31266" },
       { "term": "202430", "crn": "31267" },
@@ -253,6 +268,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41992" },
       { "term": "202430", "crn": "39469" },
       { "term": "202410", "crn": "15154" },
       { "term": "202340", "crn": "41690" },
@@ -271,6 +287,7 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202460", "crn": "61512" },
       { "term": "202430", "crn": "39470" },
       { "term": "202340", "crn": "41691" },
       { "term": "202310", "crn": "19007" },
@@ -300,6 +317,7 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202440", "crn": "41825" },
       { "term": "202410", "crn": "20585" },
       { "term": "202310", "crn": "14093" },
       { "term": "202240", "crn": "40396" }
@@ -379,8 +397,10 @@
     "credits": 4,
     "nuPath": ["AD", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60209" },
+      { "term": "202440", "crn": "40209" },
+      { "term": "202440", "crn": "40584" },
       { "term": "202430", "crn": "30433" },
-      { "term": "202430", "crn": "31548" },
       { "term": "202430", "crn": "32240" },
       { "term": "202430", "crn": "35006" },
       { "term": "202430", "crn": "39473" },
@@ -440,6 +460,9 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202460", "crn": "60183" },
+      { "term": "202440", "crn": "40188" },
+      { "term": "202440", "crn": "40585" },
       { "term": "202430", "crn": "31549" },
       { "term": "202430", "crn": "30848" },
       { "term": "202430", "crn": "31550" },
@@ -503,6 +526,10 @@
     "credits": 4,
     "nuPath": ["AD", "FQ"],
     "sections": [
+      { "term": "202460", "crn": "60403" },
+      { "term": "202460", "crn": "61513" },
+      { "term": "202440", "crn": "40857" },
+      { "term": "202440", "crn": "40641" },
       { "term": "202430", "crn": "35049" },
       { "term": "202430", "crn": "35050" },
       { "term": "202430", "crn": "36935" },
@@ -538,6 +565,8 @@
     "credits": 4,
     "nuPath": ["AD", "WI"],
     "sections": [
+      { "term": "202460", "crn": "60332" },
+      { "term": "202440", "crn": "40390" },
       { "term": "202430", "crn": "32557" },
       { "term": "202430", "crn": "32558" },
       { "term": "202430", "crn": "36936" },
@@ -591,6 +620,10 @@
       "Or",
       { "subject": "ENGL", "number": "1111" },
       "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" },
+      "Or",
       { "subject": "ENGL", "number": "1102" },
       ")",
       "And",
@@ -640,7 +673,7 @@
     ],
     "description": "Offers an overview of the rationale for and types of food policies in developing countries. Uses a food systems approach to cover economic and political dimensions of food policy. Emphasizes food security, nutrition, poverty alleviation, and environmental issues. Discusses and analyzes the dynamics of change in the role of government; food value chains; and institutions and governance and their implications for local, regional, and global food systems.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ECON", "number": "1116" }]
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -763,7 +796,7 @@
     ],
     "description": "Applies the tools of economics to environmental issues. Explores taxonomy of environmental effects; externalities; the commons problem; taxation, regulations, marketable permits, and property rights as a solution; measuring benefits of cleaner air and water, noise abatement, and recreational areas; global issues including tropical deforestation and acid rain; and the relevance of economics to the environmental debate.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ECON", "number": "1116" }]
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -780,7 +813,7 @@
     ],
     "description": "Focuses on how an understanding of the law is furthered by an awareness of the economic background against which it operates. Draws from economic principles, developing concepts such as efficiency, property rights, regulation, and income distribution. Uses mathematical notation to model the incentives created by various legal rules. Solutions to cost minimization and utility maximization problems reveal whether particular laws induce economic agents to act in a manner consistent with the social optimum. Applications of these ideas may include health and safety, the environment, the legal services and insurance industries, and zoning and land use, among others.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ECON", "number": "1116" }]
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -819,6 +852,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40858" },
       { "term": "202430", "crn": "31921" },
       { "term": "202410", "crn": "16674" },
       { "term": "202340", "crn": "41063" },
@@ -864,6 +898,7 @@
     "credits": 4,
     "nuPath": ["SI", "WI"],
     "sections": [
+      { "term": "202460", "crn": "61514" },
       { "term": "202430", "crn": "39475" },
       { "term": "202310", "crn": "19018" }
     ],
@@ -895,6 +930,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61027" },
       { "term": "202410", "crn": "20542" },
       { "term": "202360", "crn": "61354" },
       { "term": "202310", "crn": "20195" },
@@ -917,11 +953,7 @@
     ],
     "description": "Studies public choice economics—the scientific analysis of government behavior—and is divided into two parts: institutional political economy and social choice theory. Public choice economics applies this neoclassical economic analysis to political issues such as rent seeking, tax reform, logrolling, voting behavior, the function of government, the intersection between public and private interests, and federalism. The point of departure from political science is that economists have based this analysis on the assumption that utility functions do not change once a person enters the realm of public service and that the argument of their utility functions is still their own self-interest and not the interest of the social system in which they operate.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ECON", "number": "1115" },
-      "And",
-      { "subject": "ECON", "number": "1116" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -939,25 +971,7 @@
     ],
     "description": "Traces the evolution of Western economic thought. Covers several important periods and schools of economic thought including mercantilism, physiocracy, classical, Marxist, neoclassical, and Keynesian. Emphasizes the relationship between historical changes in society and economic thought, focusing on changes in the types of questions economists ask and the analytical tools they use.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ECON", "number": "1115" },
-      "And",
-      { "subject": "ECON", "number": "1116" },
-      "And",
-      "(",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1113" },
-      "Or",
-      { "subject": "ENGW", "number": "1114" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -966,7 +980,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20753" }],
+    "sections": [
+      { "term": "202440", "crn": "41826" },
+      { "term": "202410", "crn": "20753" }
+    ],
     "description": "Covers Ricardian and neoclassical theories of trade; trade policies; tariffs, quotas, voluntary export restraints, and customs union; global trade regime; GATT (General Agreement on Tariffs and Trade) and WTO (World Trade Organization); balance-of-payments accounts; foreign exchange markets; monetary and portfolio balance approaches to external balance; fixed or flexible exchange rates; and international monetary system.",
     "coreqs": [],
     "prereqs": [
@@ -1035,27 +1052,7 @@
     ],
     "description": "Introduces students to the theory of investments, including the principles of risk and return, the theory of portfolio selection, asset pricing models such as the capital asset pricing model (CAPM) and arbitrage pricing theory (APT), valuation of stocks, bond pricing and the term structure of interest rates, and options (what they are and how to use them). Geared toward nonbusiness majors who are interested in a rigorous course in finance.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "ECON", "number": "2315" },
-      "Or",
-      { "subject": "ECON", "number": "2316" },
-      ")",
-      "And",
-      "(",
-      { "subject": "ECON", "number": "2350" },
-      "Or",
-      { "subject": "MATH", "number": "2280" },
-      "Or",
-      { "subject": "MATH", "number": "3081" },
-      "Or",
-      { "subject": "MGSC", "number": "2301" },
-      "Or",
-      { "subject": "POLS", "number": "2400" },
-      "Or",
-      { "subject": "PSYC", "number": "2320" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -1102,23 +1099,7 @@
     ],
     "description": "Offers an advanced course on the economics of information, including moral hazard and adverse selection; game theory; and mechanism design. Formally considers alternative solution concepts, such as Nash equilibrium and rationalizability for simultaneous move and sequential move games under complete information about payoffs and preferences, as well as solution concepts, such as Bayesian-Nash equilibrium to analyze selection, screening, and incentives in games of incomplete or asymmetric information. Covers optimal incentives or mechanism design, including the optimal design of contracts, auctions, and other mechanisms. Prior exposure to game theory recommended.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ECON", "number": "2316" },
-      "And",
-      "(",
-      { "subject": "ECON", "number": "2350" },
-      "Or",
-      { "subject": "MATH", "number": "2280" },
-      "Or",
-      { "subject": "MATH", "number": "3081" },
-      "Or",
-      { "subject": "MGSC", "number": "2301" },
-      "Or",
-      { "subject": "POLS", "number": "2400" },
-      "Or",
-      { "subject": "PSYC", "number": "2320" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -1151,25 +1132,7 @@
     ],
     "description": "Incorporates aspects of real-world and academic experiences of students into an analytical context, enabling students to demonstrate their ability to apply economic concepts, methodology, and data to economic issues and problems of personal and philosophical significance.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ECON", "number": "2315" },
-      "And",
-      { "subject": "ECON", "number": "2316" },
-      "And",
-      "(",
-      { "subject": "ECON", "number": "2350" },
-      "Or",
-      { "subject": "MATH", "number": "2280" },
-      "Or",
-      { "subject": "MATH", "number": "3081" },
-      "Or",
-      { "subject": "MGSC", "number": "2301" },
-      "Or",
-      { "subject": "POLS", "number": "2400" },
-      "Or",
-      { "subject": "PSYC", "number": "2320" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -1215,6 +1178,8 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202460", "crn": "61631" },
+      { "term": "202440", "crn": "42002" },
       { "term": "202430", "crn": "40266" },
       { "term": "202430", "crn": "40267" },
       { "term": "202430", "crn": "40268" }
@@ -1256,7 +1221,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "35347" },
       { "term": "202430", "crn": "40370" },
       { "term": "202410", "crn": "10687" },
       { "term": "202410", "crn": "21262" },
@@ -1276,6 +1240,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39842" },
+      { "term": "202430", "crn": "40864" },
       { "term": "202410", "crn": "17879" },
       { "term": "202310", "crn": "19022" },
       { "term": "202310", "crn": "20304" }
@@ -1415,11 +1380,7 @@
     ],
     "description": "Offers students an opportunity to obtain the theoretical tools, computer skills, and experience using econometrics needed to appreciate and do high-quality applied research in economics. Emphasizes understanding how the properties of estimators can be found and their implications for applied research. Introduces the programming language Python, which is integrated into the course. Focuses on methods that are most useful in microeconomic analysis, including classical linear regressions, Gauss-Markov theorem and hypothesis testing, endogeneity, instrumental variable estimation and causality analysis, heteroskedasticity and serial correlations, nonlinearity, panel data methods, difference-in-difference, and regression discontinuity. This is the first advanced graduate-level course on econometrics.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ECON", "number": "5105" },
-      "Or",
-      { "subject": "ECON", "number": "6105" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -1428,7 +1389,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "38593" }],
+    "sections": [],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1441,7 +1402,11 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "35859" },
+      { "term": "202460", "crn": "60871" },
+      { "term": "202460", "crn": "60875" },
+      { "term": "202460", "crn": "60942" },
+      { "term": "202460", "crn": "61334" },
+      { "term": "202440", "crn": "41031" },
       { "term": "202410", "crn": "11841" },
       { "term": "202410", "crn": "18732" },
       { "term": "202410", "crn": "21496" },
@@ -1470,6 +1435,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60906" },
       { "term": "202410", "crn": "21607" },
       { "term": "202360", "crn": "61192" },
       { "term": "202310", "crn": "21260" },
@@ -1556,19 +1522,7 @@
     ],
     "description": "Continues ECON 5120. Offers an advanced course in macroeconomic analysis where economic theory and econometric evidence are brought together to explain economic events and changes at the macro level including economic growth, changes in unemployment and inflation rates, and business cycles. Topics include the Solow growth model, overlapping-generations models, research and development models of growth, real-business-cycle theory, Keynesian theories of economic fluctuations, microfoundations, consumption, investment, unemployment, inflation and monetary theory, and budget deficits and fiscal policy.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "ECON", "number": "5120" },
-      "Or",
-      { "subject": "ECON", "number": "5120" },
-      ")",
-      "And",
-      "(",
-      { "subject": "ECON", "number": "5140" },
-      "Or",
-      { "subject": "ECON", "number": "5140" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -1615,7 +1569,7 @@
     ],
     "description": "Covers the theoretical and empirical issues surrounding current topics in the area of labor economics. Topics may vary each time the course is offered and may include discrimination, efficiency wage theory, labor legislation, life cycle analysis, and the use of microdata (panel studies, search behavior, intergenerational earnings mobility, and employment and training policies).",
     "coreqs": [],
-    "prereqs": [{ "subject": "ECON", "number": "7763" }]
+    "prereqs": []
   },
   {
     "subject": "ECON",
@@ -1656,7 +1610,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "37840" },
       { "term": "202410", "crn": "22337" },
       { "term": "202360", "crn": "61573" },
       { "term": "202330", "crn": "39925" },
@@ -1674,7 +1627,10 @@
     "scheduleType": "Off-campus instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21353" }],
+    "sections": [
+      { "term": "202430", "crn": "41928" },
+      { "term": "202310", "crn": "21353" }
+    ],
     "description": "Comprises academic credit for internship work in economics. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1732,13 +1688,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "33758" },
-      { "term": "202350", "crn": "51681" }
-    ],
+    "sections": [{ "term": "202350", "crn": "51681" }],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ECON", "number": "9990" }]
+    "prereqs": []
   },
   {
     "subject": "ECON",

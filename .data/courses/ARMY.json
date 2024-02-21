@@ -26,9 +26,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "32393" },
-      { "term": "202430", "crn": "32866" },
-      { "term": "202430", "crn": "33138" },
-      { "term": "202430", "crn": "36016" },
       { "term": "202360", "crn": "61306" },
       { "term": "202330", "crn": "32666" },
       { "term": "202330", "crn": "33240" },
@@ -45,7 +42,7 @@
     "scheduleType": "Lab",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "31310" }],
+    "sections": [],
     "description": "Accompanies ARMY 1102. Introduces basic soldier skills and introduces squad-level tactical operations in Leadership Lab. Students also participate in physical fitness training three days per week.",
     "coreqs": [],
     "prereqs": []
@@ -74,7 +71,6 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "31376" },
       { "term": "202430", "crn": "35618" },
       { "term": "202360", "crn": "61307" },
       { "term": "202330", "crn": "31504" }
@@ -90,7 +86,7 @@
     "scheduleType": "Lab",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "31307" }],
+    "sections": [],
     "description": "Accompanies ARMY 2202. Introduces basic soldier skills and squad-level tactical operations in leadership lab. Includes participation in physical fitness training.",
     "coreqs": [],
     "prereqs": []
@@ -130,7 +126,7 @@
     "scheduleType": "Lab",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "31308" }],
+    "sections": [],
     "description": "Accompanies ARMY 3302. Introduces basic soldier skills and introduces squad-level tactical operations in leadership lab. Includes participation in physical fitness training.",
     "coreqs": [],
     "prereqs": []
@@ -155,6 +151,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41477" },
       { "term": "202310", "crn": "12204" },
       { "term": "202240", "crn": "41994" }
     ],
@@ -197,7 +194,7 @@
     "scheduleType": "Lab",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "31309" }],
+    "sections": [],
     "description": "Introduces basic soldier skills and squad-level tactical operations in leadership lab. Includes participation in physical fitness training.",
     "coreqs": [],
     "prereqs": []

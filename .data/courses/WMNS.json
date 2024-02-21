@@ -23,6 +23,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202440", "crn": "40719" },
       { "term": "202430", "crn": "32011" },
       { "term": "202410", "crn": "11721" },
       { "term": "202340", "crn": "40845" },
@@ -85,6 +86,7 @@
     "credits": 4,
     "nuPath": ["DD", "ER"],
     "sections": [
+      { "term": "202440", "crn": "40557" },
       { "term": "202410", "crn": "17679" },
       { "term": "202340", "crn": "40628" },
       { "term": "202310", "crn": "20088" },
@@ -116,11 +118,7 @@
     "sections": [{ "term": "202330", "crn": "38251" }],
     "description": "This course is crosslisted with ANTH 2302.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ANTH", "number": "1101" },
-      "Or",
-      { "subject": "SOCL", "number": "1101" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -241,19 +239,7 @@
     "sections": [{ "term": "202430", "crn": "39372" }],
     "description": "This course is crosslisted with ENGL 2455 and AFAM 2455.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1113" },
-      "Or",
-      { "subject": "ENGW", "number": "1114" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -277,7 +263,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202430", "crn": "38844" }],
+    "sections": [],
     "description": "This course is crosslisted with THTR 2500.",
     "coreqs": [],
     "prereqs": []

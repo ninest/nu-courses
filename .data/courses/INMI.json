@@ -1,12 +1,32 @@
 [
   {
     "subject": "INMI",
+    "number": "2183",
+    "title": "Spice and Culture",
+    "scheduleType": "Seminar",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "41641" },
+      { "term": "202430", "crn": "41643" },
+      { "term": "202430", "crn": "41644" },
+      { "term": "202430", "crn": "41645" }
+    ],
+    "description": "\"This course overviews a number of paradoxical physical events and assesses their scientific viability and limitations according to current empirical investigations. We will analyze the societal, moral, and religious implications of their use in a number of popular culture venues such as film, novels, and comics.Students will analyze scientific paradoxes such as time-travel, living in computer simulations, the puzzle of the compatibility between free-will and physical determinism, the conundrums of artificial\nintelligence (AI), and the possibility and causes of human extinction (the Doomsday argument). The course centers on both the scientific explanation of these events and the deep impact that popular and theoretical approaches had, have, and will continuously have on our current notions of rationality.\"",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INMI",
     "number": "2500",
     "title": "California in Global Economy: Business, Policy, and Beyond",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202430", "crn": "40671" }],
+    "sections": [
+      { "term": "202430", "crn": "40671" },
+      { "term": "202430", "crn": "40888" }
+    ],
     "description": "Examines the key sectors of California’s economy and discusses their positionality within the global landscape. Presents conceptual foundations and frameworks drawing on strategic management, disruptive innovation, and political economy literatures. Provides students with in-depth sectoral knowledge and exposure to innovation diffusion trends relevant to California’s economy and the world. Offers students an opportunity to learn about business and industry clusters specific to California and to develop an understanding of how California fits into and affects the world economy. Emphasizes the interactions of workforce diversity, radical innovation, and human resource management. Also discusses concepts relating to global talent flows, platform economies, network economies, and go-to-market strategies.",
     "coreqs": [],
     "prereqs": [

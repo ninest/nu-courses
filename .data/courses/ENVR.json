@@ -116,7 +116,6 @@
     "sections": [
       { "term": "202430", "crn": "34804" },
       { "term": "202430", "crn": "34805" },
-      { "term": "202430", "crn": "36364" },
       { "term": "202410", "crn": "13973" },
       { "term": "202410", "crn": "13974" },
       { "term": "202410", "crn": "15628" },
@@ -158,7 +157,6 @@
     "nuPath": ["AD"],
     "sections": [
       { "term": "202430", "crn": "34807" },
-      { "term": "202430", "crn": "34808" },
       { "term": "202430", "crn": "36630" },
       { "term": "202410", "crn": "13975" },
       { "term": "202410", "crn": "15504" },
@@ -255,7 +253,7 @@
     ],
     "description": "Focuses on the origin and evolution of landscape features by processes operating at or near the earth's surface. Exercises introduce interpretation of air photos, topographic maps, remotely sensed data, and digital elevation models.",
     "coreqs": [{ "subject": "ENVR", "number": "2341" }],
-    "prereqs": [{ "subject": "ENVR", "number": "1200" }]
+    "prereqs": []
   },
   {
     "subject": "ENVR",
@@ -388,6 +386,7 @@
     "credits": 4,
     "nuPath": ["SI", "WI"],
     "sections": [
+      { "term": "202440", "crn": "41848" },
       { "term": "202430", "crn": "34809" },
       { "term": "202410", "crn": "17835" },
       { "term": "202330", "crn": "35828" },
@@ -439,6 +438,7 @@
     "credits": 4,
     "nuPath": ["ND", "WI"],
     "sections": [
+      { "term": "202440", "crn": "41849" },
       { "term": "202430", "crn": "36369" },
       { "term": "202410", "crn": "20015" },
       { "term": "202410", "crn": "20341" },
@@ -637,13 +637,7 @@
     ],
     "description": "Focuses on the natural science and management of sustainable agricultural systems. Introduces agricultural principles for soil management, pest management, and crop planning. Examines different agricultural systems including row cropping, indigenous food forests, vertical farming, and integrated crop-livestock systems. Evaluates the economic, policy, and social justice barriers to scaling sustainable agriculture. Discusses climate change resilience of sustainable agricultural systems.",
     "coreqs": [{ "subject": "ENVR", "number": "3851" }],
-    "prereqs": [
-      { "subject": "EEMB", "number": "1101" },
-      "Or",
-      { "subject": "ENVR", "number": "1101" },
-      "Or",
-      { "subject": "ENVR", "number": "1400" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENVR",
@@ -768,15 +762,7 @@
     "sections": [{ "term": "202410", "crn": "20018" }],
     "description": "Presents an interdisciplinary overview of the physical, biological, and cultural aspects of wetlands. Topics covered include definitions, classification systems, origins, human use, and natural processes of wetland environments. Offers students an opportunity to learn about wetland hydrology, soils, and vegetation and their relationship to ecosystem processes, societal values, and management. Includes reading and analyzing the scientific literature and conducting in-class activities.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "EEMB", "number": "1101" },
-      "Or",
-      { "subject": "ENVR", "number": "1101" },
-      "Or",
-      { "subject": "ENVR", "number": "1200" },
-      "Or",
-      { "subject": "ENVR", "number": "1400" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENVR",
@@ -786,6 +772,8 @@
     "credits": 1,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202460", "crn": "60862" },
+      { "term": "202440", "crn": "40165" },
       { "term": "202430", "crn": "30503" },
       { "term": "202410", "crn": "10765" },
       { "term": "202360", "crn": "61128" },
@@ -822,6 +810,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202440", "crn": "41021" },
       { "term": "202430", "crn": "31805" },
       { "term": "202410", "crn": "14216" },
       { "term": "202340", "crn": "41455" },
@@ -831,6 +820,18 @@
       { "term": "202240", "crn": "41819" }
     ],
     "description": "Offers students an opportunity to prepare an undergraduate thesis under faculty supervision.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ENVR",
+    "number": "5000",
+    "title": "Community Stakeholder Engagement in Environmental Management and Research",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["SI"],
+    "sections": [{ "term": "202430", "crn": "40982" }],
+    "description": "Introduces the history and theories of public participation in environmental policy settings to reflect on what kinds of participatory processes work best, for what purposes, and under which conditions. Environmental problems of the 21st century can be effectively addressed using processes that link sound scientific analysis with effective public deliberation. Applies principles studied to stakeholder and community engagement in science, research, or policy. Covers best practices for administering participatory processes and community engagement for community science, citizen science, or other participatory practices.",
     "coreqs": [],
     "prereqs": []
   },
@@ -921,17 +922,7 @@
     ],
     "description": "Examines aspects of surface runoff from geomorphic and hydrologic perspectives. Develops methods for description and calculation of major river and drainage basin processes and applies the results to the planning process. Examines human modification of these systems—including urbanization, dams, and channelization—and applies this information to an understanding of regulatory processes. This is a writing-intensive course.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENVR",
@@ -1014,6 +1005,18 @@
   },
   {
     "subject": "ENVR",
+    "number": "5610",
+    "title": "Technology and the Blue Economy",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41146" }],
+    "description": "Focuses on emerging technology and the global blue economy that generates trillions of U.S. dollars in economic activity. Introduces key sectors including global shipping, operations of port and harbors, fishing and aquaculture, tourism, ocean monitoring and exploration, finance models, energy, and minerals extraction. Examines challenges to a sustainable and equitable blue economy including global biodiversity loss, marine pollution, decarbonization, access to capital, and national security. Includes virtual field trips to companies and institutions involved in technology and the blue economy.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ENVR",
     "number": "5670",
     "title": "Global Biogeochemistry",
     "scheduleType": "Lecture",
@@ -1053,15 +1056,7 @@
     "sections": [{ "term": "202410", "crn": "20021" }],
     "description": "Investigates the myriad ways that natural systems intersect with human-dominated landscapes, including urban hydrology, nutrient cycling, and the distribution of organisms in cities. Urbanization is rapidly expanding with over half of humans currently inhabiting urban landscapes. The conversion of natural areas to human-dominated landscapes is resulting in the loss of biodiversity, habitat connectivity, and ecosystem services. It is also changing how we perceive and value natural systems. Evaluates the ecology in cities but also ecology of cities, including how cities integrate into larger landscapes; ecosystem service provisioning; and the biological, cultural, and psychological value of urban nature for people. Culminates by looking to the future of how urban spaces adapt to climate change, increasing populations, and other emerging issues.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "EEMB", "number": "2302" },
-      "Or",
-      { "subject": "ENVR", "number": "1400" },
-      ")",
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "ENVR",
@@ -1091,6 +1086,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41469" },
+      { "term": "202430", "crn": "41042" },
+      { "term": "202430", "crn": "41903" },
       { "term": "202410", "crn": "18401" },
       { "term": "202410", "crn": "20775" },
       { "term": "202340", "crn": "41990" },
@@ -1178,7 +1176,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "36380" },
       { "term": "202410", "crn": "13026" },
       { "term": "202330", "crn": "38361" },
       { "term": "202310", "crn": "13421" }
@@ -1195,7 +1192,6 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "36631" },
       { "term": "202410", "crn": "13027" },
       { "term": "202330", "crn": "38625" },
       { "term": "202310", "crn": "13422" }
@@ -1211,13 +1207,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "39204" },
-      { "term": "202410", "crn": "21641" }
-    ],
+    "sections": [{ "term": "202410", "crn": "21641" }],
     "description": "Provides eligible students with an opportunity for part-time work experience.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MATH", "number": "6000" }]
+    "prereqs": []
   },
   {
     "subject": "ENVR",
@@ -1227,6 +1220,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60522" },
+      { "term": "202440", "crn": "40807" },
+      { "term": "202440", "crn": "41584" },
       { "term": "202430", "crn": "34302" },
       { "term": "202410", "crn": "17820" },
       { "term": "202360", "crn": "60581" },

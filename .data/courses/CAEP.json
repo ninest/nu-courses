@@ -31,6 +31,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61068" },
       { "term": "202430", "crn": "34664" },
       { "term": "202430", "crn": "35558" },
       { "term": "202430", "crn": "39099" },
@@ -103,10 +104,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD"],
-    "sections": [
-      { "term": "202430", "crn": "36667" },
-      { "term": "202330", "crn": "38661" }
-    ],
+    "sections": [{ "term": "202330", "crn": "38661" }],
     "description": "Introduces students to Adverse Childhood Experiences (ACE) and their prevalence in the childhoods of certain college student populations. Examines how these potentially traumatic events that occur during the ages of 0–17 are linked to chronic health problems, mental illness, and substance misuse in adulthood. Studies how the manifestation of ACE during the college years has implications for student development theory application and administration of services and programs on campuses, as well as ACE’s impact on education, job opportunities, and college student degree attainment. Explores the classifications of ACE—pandemic, natural disaster, terrorist attack, or racial and social injustice—and the possible implications of living through, making life adjustments, or absorbing constant media coverage as a result of these experiences.",
     "coreqs": [],
     "prereqs": []
@@ -163,7 +161,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "40742" }],
+    "sections": [],
     "description": "Offers students an opportunity to gain an understanding of the roles and functions psychologists have in different work settings and how psychological theory, techniques, and research can be applied in real-world situations. Studies the several different areas of professional psychology, including counseling psychology, school psychology, clinical psychology, early intervention, applied behavior analysis, and organizational psychology. Students also have an opportunity to learn how to prepare themselves for graduate school and how to put together an application to graduate school programs. Intended for students considering graduate study in psychology or allied disciplines.",
     "coreqs": [],
     "prereqs": []
@@ -209,7 +207,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "33070" },
-      { "term": "202430", "crn": "39101" },
       { "term": "202330", "crn": "33474" }
     ],
     "description": "Covers assessment models and the multidomain tests used in early intervention. Students become familiar with informal and formal instruments used in different areas including cognition speech and language, motor, and social/emotional domains. Explains the process and responsibilities for the writing of individualized service plans (ISPs), as well as variety of intervention models, methods, and strategies to be implemented in natural environments. Is taught by professors drawn from special education, speech-language pathology, counseling psychology, nursing, and physical therapy. Students participate in Northeastern’s Global Early Intervention Network.",
@@ -422,7 +419,7 @@
     ],
     "description": "Identifies categories of human difficulty and abnormal behavior through current DSM terminology. Is based in a cultural and gender competent bio-psycho-social model over the life span. Discusses both preventive and individual interventions for each category. Also introduces treatment planning and treatment guidelines.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CAEP", "number": "6200" }]
+    "prereqs": []
   },
   {
     "subject": "CAEP",
@@ -433,7 +430,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "30695" },
-      { "term": "202430", "crn": "39106" },
       { "term": "202330", "crn": "30739" }
     ],
     "description": "Covers DSM-IV and major forms of psychopathology including the neuroses (obsessional states, hysteria, anxiety states, and phobias), the pyschoses (schizophrenia, mania, depression, and paranoia), psychosomatic, sociopathy, conduct disorders, organic disorders, and mental retardation. Discusses the relationship between categories of special education disabilities (emotional impairment, autism, and so on) and DSM-IV.",
@@ -496,6 +492,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40083" },
       { "term": "202340", "crn": "40088" },
       { "term": "202240", "crn": "41577" }
     ],
@@ -511,6 +508,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40084" },
       { "term": "202340", "crn": "40089" },
       { "term": "202240", "crn": "40094" }
     ],
@@ -526,7 +524,6 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "31242" },
       { "term": "202430", "crn": "34486" },
       { "term": "202430", "crn": "34665" },
       { "term": "202430", "crn": "34666" },
@@ -549,7 +546,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "31532" },
-      { "term": "202430", "crn": "32296" },
       { "term": "202350", "crn": "50747" },
       { "term": "202330", "crn": "31692" },
       { "term": "202330", "crn": "32549" }
@@ -567,6 +563,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "33294" },
+      { "term": "202430", "crn": "41344" },
       { "term": "202410", "crn": "13633" },
       { "term": "202410", "crn": "13634" },
       { "term": "202410", "crn": "21724" },
@@ -595,23 +592,7 @@
     ],
     "description": "Expands on key elements of behavior assessment including systematic assessment of preferences and reinforcers, and assessment of behavior function through indirect methods, direct methods, and systematic manipulations.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "CAEP", "number": "6326" },
-      "Or",
-      { "subject": "CAEP", "number": "6326" },
-      "Or",
-      { "subject": "CAEP", "number": "6326" },
-      ")",
-      "And",
-      "(",
-      { "subject": "CAEP", "number": "6329" },
-      "Or",
-      { "subject": "CAEP", "number": "6329" },
-      "Or",
-      { "subject": "CAEP", "number": "6329" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "CAEP",
@@ -759,7 +740,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "33823" },
-      { "term": "202430", "crn": "33824" },
       { "term": "202350", "crn": "50769" },
       { "term": "202330", "crn": "34440" },
       { "term": "202330", "crn": "34441" }
@@ -784,6 +764,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61288" },
       { "term": "202360", "crn": "61629" },
       { "term": "202350", "crn": "50193" }
     ],
@@ -816,6 +797,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60758" },
       { "term": "202360", "crn": "60894" },
       { "term": "202260", "crn": "61257" }
     ],
@@ -899,14 +881,13 @@
     "sections": [
       { "term": "202430", "crn": "32163" },
       { "term": "202430", "crn": "34669" },
-      { "term": "202430", "crn": "37475" },
       { "term": "202330", "crn": "32411" },
       { "term": "202330", "crn": "35583" },
       { "term": "202330", "crn": "39515" }
     ],
     "description": "Overviews different consultation theories including behavioral, psychodynamic, and systems perspectives. Offers a focus on skill development with respect to a broad-based and pragmatic approach to client-centered behavioral consultation. Uses computer networks and e-mail in client-centered and peer consultation. Offers evaluation of the implementation and outcomes of consultation and related service delivery programs.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CAEP", "number": "6347" }]
+    "prereqs": []
   },
   {
     "subject": "CAEP",
@@ -932,7 +913,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "31858" },
-      { "term": "202430", "crn": "39111" },
       { "term": "202330", "crn": "32068" }
     ],
     "description": "Covers use, abuse, and treatment of both legal and illegal psychoactive drug agents. Includes an introduction to psychotropic medications, overview of illicit substance use, differential substance abuse, interventions and treatment, and related social issues.",
@@ -1008,6 +988,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40694" },
       { "term": "202340", "crn": "40811" },
       { "term": "202240", "crn": "40962" },
       { "term": "202240", "crn": "40963" }
@@ -1058,6 +1039,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41027" },
       { "term": "202430", "crn": "35458" },
       { "term": "202410", "crn": "15825" },
       { "term": "202340", "crn": "41465" },
@@ -1239,13 +1221,7 @@
     ],
     "description": "Continues CAEP 7742. May be taken by students who elect to do additional fieldwork to develop better, or deeper, skills or new skill areas. Requires students to practice in the clinical setting a minimum of twenty hours per week. May be repeated once for up to 2 total credits.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CAEP", "number": "7742" },
-      "Or",
-      { "subject": "CAEP", "number": "7742" },
-      "Or",
-      { "subject": "CAEP", "number": "6355" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CAEP",
@@ -1264,7 +1240,7 @@
     ],
     "description": "Continues CAEP 7743. Requires students to practice in the clinical setting a minimum of twenty hours per week. May be repeated once for up to 2 total credits.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CAEP", "number": "7743" }]
+    "prereqs": []
   },
   {
     "subject": "CAEP",
@@ -1342,7 +1318,7 @@
     "scheduleType": "Off-campus instruction",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "30685" }],
+    "sections": [],
     "description": "Continues CAEP 7798. Restricted to PhD students.",
     "coreqs": [],
     "prereqs": []
@@ -1355,6 +1331,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61233" },
+      { "term": "202430", "crn": "41430" },
       { "term": "202410", "crn": "22141" },
       { "term": "202360", "crn": "61570" },
       { "term": "202350", "crn": "53054" },
@@ -1374,10 +1352,6 @@
     "sections": [
       { "term": "202430", "crn": "30694" },
       { "term": "202430", "crn": "34387" },
-      { "term": "202430", "crn": "36051" },
-      { "term": "202430", "crn": "37526" },
-      { "term": "202430", "crn": "39112" },
-      { "term": "202430", "crn": "39113" },
       { "term": "202430", "crn": "39114" },
       { "term": "202430", "crn": "39115" },
       { "term": "202410", "crn": "21640" },
@@ -1387,7 +1361,7 @@
     ],
     "description": "Includes forty hours of client contact plus supervision. Focuses on developing individual and group skills within mental health and human service agencies.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CAEP", "number": "6399" }]
+    "prereqs": []
   },
   {
     "subject": "CAEP",
@@ -1448,7 +1422,6 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "36673" },
       { "term": "202350", "crn": "51878" },
       { "term": "202330", "crn": "38667" }
     ],
@@ -1464,6 +1437,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41345" },
       { "term": "202410", "crn": "15304" },
       { "term": "202350", "crn": "53039" },
       { "term": "202310", "crn": "16633" },
@@ -1514,6 +1488,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41626" },
+      { "term": "202440", "crn": "41974" },
       { "term": "202430", "crn": "32434" },
       { "term": "202430", "crn": "39116" },
       { "term": "202340", "crn": "42154" },
@@ -1569,15 +1545,17 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41737" },
       { "term": "202430", "crn": "31773" },
       { "term": "202410", "crn": "11891" },
+      { "term": "202410", "crn": "22559" },
       { "term": "202340", "crn": "42275" },
       { "term": "202330", "crn": "31974" },
       { "term": "202310", "crn": "12119" }
     ],
     "description": "Offers an elective course for doctoral students in the counseling psychology doctoral program who are completing additional years of supervised practical experience (minimum of 20 hours per week for 600 hours) as part of the training for the PhD degree and in clinical preparation for the APPIC/APA internship match process. Offers students training in clinical settings. Includes a seminar to offer students an opportunity to develop clinical skills in assessment, consultation, and interventions under supervision. Provides support and evaluation of the advanced fieldwork placement in which doctoral students are involved throughout the year. Led by a faculty supervisor who is the official liaison between Northeastern University and the advanced fieldwork sites. May be repeated up to five times for up to 6 total credits.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CAEP", "number": "7744" }]
+    "prereqs": []
   },
   {
     "subject": "CAEP",
@@ -1587,6 +1565,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60733" },
       { "term": "202430", "crn": "35882" },
       { "term": "202410", "crn": "21201" },
       { "term": "202360", "crn": "60845" },
@@ -1635,10 +1614,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "35524" },
-      { "term": "202240", "crn": "41855" }
-    ],
+    "sections": [{ "term": "202240", "crn": "41855" }],
     "description": "Supports the continued development of the dissertation.",
     "coreqs": [],
     "prereqs": [

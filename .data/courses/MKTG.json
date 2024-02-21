@@ -7,6 +7,19 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60018" },
+      { "term": "202460", "crn": "60017" },
+      { "term": "202460", "crn": "61613" },
+      { "term": "202440", "crn": "40015" },
+      { "term": "202440", "crn": "40014" },
+      { "term": "202440", "crn": "40013" },
+      { "term": "202440", "crn": "41199" },
+      { "term": "202440", "crn": "40365" },
+      { "term": "202440", "crn": "40384" },
+      { "term": "202440", "crn": "40435" },
+      { "term": "202440", "crn": "40569" },
+      { "term": "202440", "crn": "40998" },
+      { "term": "202440", "crn": "41023" },
       { "term": "202430", "crn": "30352" },
       { "term": "202430", "crn": "30351" },
       { "term": "202430", "crn": "30350" },
@@ -24,6 +37,7 @@
       { "term": "202430", "crn": "34008" },
       { "term": "202430", "crn": "37243" },
       { "term": "202430", "crn": "40675" },
+      { "term": "202430", "crn": "41402" },
       { "term": "202410", "crn": "10351" },
       { "term": "202410", "crn": "10350" },
       { "term": "202410", "crn": "10349" },
@@ -176,7 +190,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "42077" },
       { "term": "202430", "crn": "34684" },
+      { "term": "202430", "crn": "41528" },
       { "term": "202410", "crn": "16947" },
       { "term": "202330", "crn": "35623" },
       { "term": "202310", "crn": "19310" }
@@ -228,15 +244,7 @@
     ],
     "description": "Focuses on the marketing process through the use of case studies simulating actual business settings and marketing challenges. Develops skill in marketing decision making, critical analysis, and communication. Topics include techniques for undertaking market analysis, marketing strategy (segmentation and positioning), and marketing implementation (4 Ps). A marketing plan project is used to enable students to apply their understanding about the marketing process.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "MKTG", "number": "2201" },
-      "Or",
-      { "subject": "MKTG", "number": "2202" },
-      "Or",
-      { "subject": "MKTG", "number": "2209" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "MKTG",
@@ -246,6 +254,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202440", "crn": "40570" },
       { "term": "202430", "crn": "30344" },
       { "term": "202430", "crn": "30343" },
       { "term": "202430", "crn": "30342" },
@@ -344,11 +353,7 @@
     ],
     "description": "Examines a wide range of analytical approaches to support marketing decision making and performance measuring in organizations. Offers students an opportunity to learn how to implement such approaches in practice. Focuses on identifying and acquiring relevant data to address different marketing challenges, conducting relevant quantitative analyses, and communicating obtained insights across the organization to make better marketing decisions.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "MKTG", "number": "3401" },
-      "Or",
-      { "subject": "MKTG", "number": "3402" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MKTG",
@@ -358,8 +363,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41371" },
       { "term": "202430", "crn": "36187" },
       { "term": "202430", "crn": "39072" },
+      { "term": "202430", "crn": "41065" },
       { "term": "202410", "crn": "15314" },
       { "term": "202410", "crn": "20939" },
       { "term": "202340", "crn": "41888" },
@@ -393,8 +400,11 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61662" },
+      { "term": "202440", "crn": "41359" },
       { "term": "202430", "crn": "33235" },
       { "term": "202430", "crn": "37377" },
+      { "term": "202430", "crn": "41244" },
       { "term": "202410", "crn": "10820" },
       { "term": "202410", "crn": "20928" },
       { "term": "202340", "crn": "41876" },
@@ -407,13 +417,7 @@
     ],
     "description": "Focuses on developing a creative advertising strategy and brand plan that aligns with a company’s overall marketing objectives. Topics include the business of brands, marketing strategy, ethical and legal considerations in advertising, advertising strategy development, media planning and buying, creative development and testing, identifying and measuring success on key performance indicators, historical foundations of advertising, and what’s next in the industry. Students apply course concepts to develop a creative advertising strategy to address campaign objectives.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "MKTG", "number": "2201" },
-      "Or",
-      { "subject": "MKTG", "number": "2202" },
-      "Or",
-      { "subject": "MKTG", "number": "2209" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MKTG",
@@ -461,13 +465,7 @@
     ],
     "description": "Examines the impact of technology on the marketing of goods and services. Focuses on the Internet and the World Wide Web. Investigates recent trends in e-business and identifies marketing strategies that work in this new environment. Introduces students to frameworks that help explain current issues in electronic marketing. Although the focus is on Internet marketing strategy, phenomena such as television home shopping and database marketing are also explored. Readings, cases, discussions, lectures, guest speakers, student reports, and exercises on the World Wide Web are all utilized.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "MKTG", "number": "2201" },
-      "Or",
-      { "subject": "MKTG", "number": "2202" },
-      "Or",
-      { "subject": "MKTG", "number": "2209" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MKTG",
@@ -492,6 +490,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61095" },
       { "term": "202410", "crn": "17290" },
       { "term": "202360", "crn": "61427" },
       { "term": "202310", "crn": "19688" },
@@ -503,6 +502,22 @@
       { "subject": "MKTG", "number": "2201" },
       "Or",
       { "subject": "MKTG", "number": "2202" },
+      "Or",
+      { "subject": "MKTG", "number": "2209" }
+    ]
+  },
+  {
+    "subject": "MKTG",
+    "number": "4520",
+    "title": "Business-to-Business Marketing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202460", "crn": "61663" }],
+    "description": "Offers students an opportunity to acquire marketable skills in the areas of business buyer behavior and communication, customer relationship management (CRM) and marketing, sales call planning and presentations, negotiation, pricing, networking, and inbound marketing strategy. Business-to-business (B2B) marketing involves selling products and services to organizations (e.g., for-profit firms, government agencies, and institutions) and focuses on deeply contextual relationship development to effectively attract, develop, and retain business customers. Includes interactive lectures, learn-by-doing exercises, role-playing, guest speakers, and training sessions.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "MKTG", "number": "2201" },
       "Or",
       { "subject": "MKTG", "number": "2209" }
     ]
@@ -655,13 +670,7 @@
     "sections": [{ "term": "202310", "crn": "14916" }],
     "description": "Develops understanding of the opportunities and challenges facing the international marketing executive, the decision-making process in marketing goods abroad, and the environmental forces—economic, cultural, and political—affecting the marketing process in the international marketplace.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "MKTG", "number": "6200" },
-      "Or",
-      { "subject": "MKTG", "number": "6208" },
-      "Or",
-      { "subject": "MKTG", "number": "6318" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MKTG",
@@ -671,19 +680,14 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41362" },
       { "term": "202340", "crn": "41879" },
       { "term": "202350", "crn": "52456" },
       { "term": "202240", "crn": "41587" }
     ],
     "description": "Focuses on the challenges and decisions new-product managers face as they take ideas through the new-product-development process. Companies need to create, develop, and market new products and services continually to compete effectively in a rapidly changing environment. Provides an overview of the new-product-development process, with an emphasis on customer involvement in this process. Provides detailed insights on such topics as new-product strategy, idea generation, idea selection and evaluation, concept development and testing, product development and testing, and market testing.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "MKTG", "number": "6200" },
-      "Or",
-      { "subject": "MKTG", "number": "6208" },
-      "Or",
-      { "subject": "MKTG", "number": "6318" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MKTG",
@@ -693,6 +697,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61664" },
       { "term": "202430", "crn": "30875" },
       { "term": "202330", "crn": "30933" },
       { "term": "202330", "crn": "30934" },
@@ -716,6 +721,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61096" },
       { "term": "202360", "crn": "61428" },
       { "term": "202350", "crn": "52460" },
       { "term": "202260", "crn": "61305" }
@@ -737,7 +743,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39346" }],
+    "sections": [
+      { "term": "202440", "crn": "42078" },
+      { "term": "202330", "crn": "39346" }
+    ],
     "description": "Explores the latest trends in technology and new media, their effect on marketing goods and services, and how to deliver value to the customer using the latest technological innovations. Examines the latest trends in digital marketing, such as mobile marketing, and how the mobile platform can be used for branding purposes and to enhance customer relationships. Explores topics such as branding and advertising via mobile phones, online social networks and communities, technology adoption in global emerging markets, and how the Internet empowers customers and enables firms to engage in customer advocacy. Also examines how marketing research is conducted for technological innovations and ethical concerns that arise with technology usage, such as privacy and security issues, identity theft, and the role of trust in digital marketing.",
     "coreqs": [],
     "prereqs": [
@@ -756,6 +765,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41363" },
       { "term": "202430", "crn": "35452" },
       { "term": "202410", "crn": "20497" },
       { "term": "202340", "crn": "41880" },
@@ -783,13 +793,7 @@
     "sections": [{ "term": "202260", "crn": "61393" }],
     "description": "Covers business-to-business marketing and the key roles of managing relationships with large buyers, going to market, and the sales organization. Begins with an understanding of why and how firms, institutions, and organizations purchase products and services and the importance of the multifunctional buying center. Covers a proven selling process and presents compelling solutions to customers. Going-to-market topics include managing value-added resellers and distributors. Intended for all interested in marketing: future product managers who must rely on the sales force and distributors to introduce new products and promotions, future sales managers, and marketing executives who must manage the marketing-sales interface.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "MKTG", "number": "6200" },
-      "Or",
-      { "subject": "MKTG", "number": "6208" },
-      "Or",
-      { "subject": "MKTG", "number": "6318" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MKTG",
@@ -858,6 +862,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41364" },
       { "term": "202430", "crn": "33809" },
       { "term": "202430", "crn": "34425" },
       { "term": "202410", "crn": "15288" },
@@ -905,6 +910,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60353" },
       { "term": "202360", "crn": "60380" },
       { "term": "202260", "crn": "60403" }
     ],
@@ -958,7 +964,7 @@
     ],
     "description": "Examines the specific elements of marketing management, including market research, metrics, positioning, planning, and the marketing mix. Focuses on developing student skills in putting together a marketing plan based on a thorough understanding of the market. Emphasizes predicting consumer behavior, developing points of difference and parity, calibrating the different elements of the market offering, and going to market with clear performance indicators.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MKTG", "number": "6318" }]
+    "prereqs": []
   },
   {
     "subject": "MKTG",

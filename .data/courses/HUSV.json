@@ -58,6 +58,7 @@
     "credits": 4,
     "nuPath": ["DD", "WI"],
     "sections": [
+      { "term": "202440", "crn": "41899" },
       { "term": "202430", "crn": "32107" },
       { "term": "202430", "crn": "34069" },
       { "term": "202410", "crn": "10172" },
@@ -98,7 +99,7 @@
     ],
     "description": "Provides in-depth understanding of clinical practice with individuals, groups, and families. Focuses on developing practice skills through presentations, case studies, and self-reflection journals. Examines the role of spirituality within one's clinical practice. Explores theoretical techniques and their applications in a variety of settings, with particular attention to populations at risk.",
     "coreqs": [],
-    "prereqs": [{ "subject": "HUSV", "number": "2300" }]
+    "prereqs": []
   },
   {
     "subject": "HUSV",
@@ -132,15 +133,7 @@
     ],
     "description": "Cross-listed with SOCL & AFAM 2355.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1113" },
-      "Or",
-      { "subject": "ENGW", "number": "1114" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "HUSV",
@@ -166,6 +159,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202460", "crn": "60616" },
       { "term": "202360", "crn": "60692" },
       { "term": "202260", "crn": "60931" }
     ],

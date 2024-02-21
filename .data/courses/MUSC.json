@@ -24,6 +24,8 @@
     "credits": 4,
     "nuPath": ["EI", "IC"],
     "sections": [
+      { "term": "202460", "crn": "60573" },
+      { "term": "202440", "crn": "40974" },
       { "term": "202430", "crn": "37221" },
       { "term": "202410", "crn": "18120" },
       { "term": "202410", "crn": "20215" },
@@ -48,6 +50,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61508" },
+      { "term": "202440", "crn": "41227" },
       { "term": "202430", "crn": "36986" },
       { "term": "202340", "crn": "41740" },
       { "term": "202330", "crn": "38998" },
@@ -125,6 +129,8 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202460", "crn": "60505" },
+      { "term": "202440", "crn": "41804" },
       { "term": "202430", "crn": "35719" },
       { "term": "202430", "crn": "33532" },
       { "term": "202410", "crn": "14208" },
@@ -164,6 +170,8 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202460", "crn": "60297" },
+      { "term": "202440", "crn": "40157" },
       { "term": "202430", "crn": "34206" },
       { "term": "202430", "crn": "36991" },
       { "term": "202410", "crn": "10393" },
@@ -247,7 +255,7 @@
     ],
     "description": "Introduces melodic and harmonic practices in tonal music with additional work in chord and melody construction. Develops ear training and sight-singing skills.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MUSC", "number": "1119" }]
+    "prereqs": []
   },
   {
     "subject": "MUSC",
@@ -291,6 +299,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61161" },
+      { "term": "202440", "crn": "41465" },
       { "term": "202430", "crn": "30274" },
       { "term": "202410", "crn": "20508" },
       { "term": "202360", "crn": "61496" },
@@ -312,6 +322,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61162" },
+      { "term": "202440", "crn": "41462" },
       { "term": "202430", "crn": "30273" },
       { "term": "202410", "crn": "20509" },
       { "term": "202360", "crn": "61497" },
@@ -482,7 +494,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "35225" },
-      { "term": "202430", "crn": "35226" },
       { "term": "202430", "crn": "35227" },
       { "term": "202430", "crn": "37530" },
       { "term": "202430", "crn": "39829" },
@@ -580,6 +591,7 @@
     "credits": 4,
     "nuPath": ["DD", "IC", "EX"],
     "sections": [
+      { "term": "202460", "crn": "60420" },
       { "term": "202360", "crn": "60452" },
       { "term": "202340", "crn": "40202" },
       { "term": "202310", "crn": "19639" },
@@ -603,15 +615,7 @@
     ],
     "description": "Explores the history of the genre of song through a set of examples that have had enormous impact and influence, songs that have “made history.” Using songs selected by the faculty based on their expertise, this course aims to identify the social, cultural, musical, and poetic threads that have woven their way through song repertories, influencing song composition from its origins to the present day. Establishes commonalities and trends in order to understand how “song” has taken on an important cultural status that is unique to a specific time and place and is widespread, linking various songs together.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MUSC",
@@ -679,6 +683,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202440", "crn": "40449" },
       { "term": "202430", "crn": "35279" },
       { "term": "202410", "crn": "20128" },
       { "term": "202340", "crn": "40500" },
@@ -718,6 +723,7 @@
     "credits": 4,
     "nuPath": ["IC", "SI"],
     "sections": [
+      { "term": "202440", "crn": "41805" },
       { "term": "202410", "crn": "20130" },
       { "term": "202330", "crn": "39248" }
     ],
@@ -773,13 +779,22 @@
     "credits": 4,
     "nuPath": ["ER", "SI", "WI"],
     "sections": [
+      { "term": "202440", "crn": "41228" },
       { "term": "202410", "crn": "20132" },
       { "term": "202340", "crn": "41741" },
       { "term": "202330", "crn": "39009" }
     ],
     "description": "Surveys the relationship between music and technology from the Paleolithic Age to the present. Examines the origins and impact of diverse musical instruments, with attention to connections between musical and technological developments; the reasons instruments are accepted, modified, or abandoned; and debates about the effects of new technologies on music. Considers such forces as standardization, institutionalization, and commodification, as well as experimentation, hacker, and DIY cultures. Asks whether music technologies are “just tools” or rather carry with them ethical values and ramifications. By studying the sociocultural history of such instruments as the violin, piano, electric guitar and synthesizer, offers students an opportunity to gain an understanding of the interplay between technological change and the enduring human need for music.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" }
+    ]
   },
   {
     "subject": "MUSC",
@@ -823,15 +838,7 @@
     ],
     "description": "Examines the significance of gender to the experience of and access to participation in music making, listening, the music industries, and cultural recognition. Surveys how gender differences have been constructed, enacted, and contested in historical and contemporary musical cultures and develops critical lenses for analyzing musical representations of gender difference and their social impact. Considers how gender intersects with racial and sexual identities in music and its institutional structures. Uses case studies drawn from a variety of contexts, such as classical (Bizet's “Carmen”), popular (Beyoncé), film (“Star Wars”), and avant-garde (Yoko Ono).",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MUSC",
@@ -882,10 +889,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "40419" },
-      { "term": "202430", "crn": "40420" }
-    ],
+    "sections": [{ "term": "202430", "crn": "40420" }],
     "description": "This course provides musicians and non-musicians alike an overview of the multimodal dimensions and applications of rhythm for performative, communicative, therapeutic, spiritual and social purposes.",
     "coreqs": [],
     "prereqs": []
@@ -1000,7 +1004,7 @@
     ],
     "description": "Offers preparation for and performance of a senior recital (forty to sixty minutes of music) under the guidance of the student's primary instrumental or vocal instructor.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MUSC", "number": "3410" }]
+    "prereqs": []
   },
   {
     "subject": "MUSC",

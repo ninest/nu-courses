@@ -6,12 +6,9 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "40752" },
-      { "term": "202430", "crn": "40658" }
-    ],
+    "sections": [{ "term": "202430", "crn": "40752" }],
     "description": "Introduces the historical foundation and conceptual frameworks with which to analyze and interrogate extended reality experiences, including virtual reality, augmented reality, and mixed reality. Covers the theoretical, cultural, and technological developments that have informed contemporary XR. Explores the promises, dreams, and expectations, as well as the ethical concerns and philosophical dilemmas, associated with the field. Offers students an opportunity to create XR experiences and prototype their own ideas.",
-    "coreqs": [{ "subject": "EXRE", "number": "5011" }],
+    "coreqs": [],
     "prereqs": []
   },
   {

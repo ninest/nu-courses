@@ -19,6 +19,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40204" },
       { "term": "202410", "crn": "10084" },
       { "term": "202410", "crn": "12330" },
       { "term": "202340", "crn": "40223" },
@@ -54,6 +55,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40837" },
       { "term": "202410", "crn": "10170" },
       { "term": "202410", "crn": "10005" },
       { "term": "202410", "crn": "12331" },
@@ -84,23 +86,7 @@
     ],
     "description": "Introduces the physical, mechanical, and chemical properties of materials of importance to civil engineers. Offers an overview of the ways in which these properties affect the material selection process, material behavior, and the design process.",
     "coreqs": [{ "subject": "CIVE", "number": "2261" }],
-    "prereqs": [
-      "(",
-      { "subject": "CHEM", "number": "1151" },
-      "Or",
-      { "subject": "CHEM", "number": "1161" },
-      "Or",
-      { "subject": "CHEM", "number": "1211" },
-      ")",
-      "And",
-      { "subject": "MATH", "number": "1342" },
-      "And",
-      "(",
-      { "subject": "PHYS", "number": "1151" },
-      "Or",
-      { "subject": "PHYS", "number": "1161" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "CIVE",
@@ -113,7 +99,6 @@
       { "term": "202430", "crn": "30089" },
       { "term": "202430", "crn": "30088" },
       { "term": "202430", "crn": "30093" },
-      { "term": "202430", "crn": "36201" },
       { "term": "202410", "crn": "10286" },
       { "term": "202410", "crn": "10285" },
       { "term": "202410", "crn": "11218" },
@@ -142,13 +127,7 @@
     ],
     "description": "Presents the theory and application of field and laboratory methods for measurement of water and air quality parameters, soil properties, and environmental processes. Introduces the complexities and challenges associated with characterization and measurements of environmental processes in natural and engineered systems. Emphasizes data analysis, report writing, development of problem-solving skills, and teamwork using real-life laboratory and field experiments and class projects.",
     "coreqs": [{ "subject": "CIVE", "number": "2301" }],
-    "prereqs": [
-      { "subject": "CHEM", "number": "1151" },
-      "Or",
-      { "subject": "CHEM", "number": "1161" },
-      "Or",
-      { "subject": "CHEM", "number": "1211" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CIVE",
@@ -213,6 +192,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40038" },
       { "term": "202410", "crn": "10301" },
       { "term": "202340", "crn": "40043" },
       { "term": "202310", "crn": "10320" },
@@ -293,6 +273,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60038" },
       { "term": "202430", "crn": "30456" },
       { "term": "202360", "crn": "60042" },
       { "term": "202330", "crn": "30469" },
@@ -300,11 +281,7 @@
     ],
     "description": "Focuses on the formation, composition, and classification of soil for engineering purposes; soil-water phase relations; water in soil; seepage; stresses in soil; consolidation theory; strength properties of soils; and the basics of geoenvironmental engineering.",
     "coreqs": [{ "subject": "CIVE", "number": "2341" }],
-    "prereqs": [
-      { "subject": "CIVE", "number": "2221" },
-      "Or",
-      { "subject": "CIVE", "number": "2260" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CIVE",
@@ -314,6 +291,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60037" },
+      { "term": "202460", "crn": "60492" },
+      { "term": "202460", "crn": "60335" },
       { "term": "202430", "crn": "30458" },
       { "term": "202430", "crn": "30457" },
       { "term": "202430", "crn": "30017" },
@@ -487,19 +467,7 @@
     ],
     "description": "Focuses on subsurface field investigation, soil-bearing capacity determination, settlement estimation, design of shallow foundations and pile foundations, and design of retaining walls. Includes project component.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CIVE", "number": "2340" },
-      "And",
-      "(",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "CIVE",
@@ -509,6 +477,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202440", "crn": "40982" },
       { "term": "202410", "crn": "10009" },
       { "term": "202310", "crn": "10011" },
       { "term": "202240", "crn": "41736" }
@@ -537,6 +506,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60016" },
       { "term": "202430", "crn": "30414" },
       { "term": "202360", "crn": "60020" },
       { "term": "202330", "crn": "30426" },
@@ -596,6 +566,8 @@
     "coreqs": [],
     "prereqs": [
       "(",
+      "(",
+      "(",
       { "subject": "CIVE", "number": "2324" },
       "And",
       { "subject": "CIVE", "number": "3425" },
@@ -612,6 +584,9 @@
       "And",
       { "subject": "CIVE", "number": "5522" },
       ")",
+      ")",
+      "Or",
+      "(",
       "(",
       { "subject": "CIVE", "number": "2324" },
       "Or",
@@ -621,6 +596,7 @@
       { "subject": "CIVE", "number": "4542" },
       "And",
       { "subject": "CS", "number": "3000" },
+      ")",
       ")",
       "And",
       "(",
@@ -718,11 +694,7 @@
     ],
     "description": "Overviews the organization of construction firms at the general corporate level and the project level. Covers cost, schedule, budget, and financial control of projects. Also examines the flow of information between parties to the project.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CIVE", "number": "4575" },
-      "Or",
-      { "subject": "CIVE", "number": "7220" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CIVE",
@@ -737,11 +709,7 @@
     ],
     "description": "Offers a comprehensive overview of alternative construction project delivery systems in the public and private sectors; project life cycle including project development, schedule, cost and risk management, quality assurance/quality control, project management, and project closeout; innovative financing strategies including contractor financing, franchises, and super turnkey. Focuses on the analysis of design/bid/build execution compared to design/build and construction management systems of delivery. Examines international projects, contracts, and partnering options—for example JVs and alliances—as vehicles to ensure the meeting of project objectives. Uses case studies to identify and practice the management skills required for successful D/B project execution including effective communication, negotiations, and team building.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CIVE", "number": "4575" },
-      "Or",
-      { "subject": "CIVE", "number": "7220" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CIVE",
@@ -824,7 +792,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "38869" }],
+    "sections": [
+      { "term": "202430", "crn": "38869" },
+      { "term": "202430", "crn": "41502" }
+    ],
     "description": "Introduces remote sensing techniques, including obtaining, visualizing, and analyzing satellite data. Examines physical processes, methods, and data products used in satellite remote sensing of the Earth’s environment. Topics include active and passive remote sensing methods based on fundamentals of electromagnetic radiation, concepts used to develop data products from the remotely sensed measurements, and a suite of satellite data products to investigate current and past conditions of the Earth’s terrestrial and ocean surfaces. Uses geographic information systems (GIS) and student-developed programs to view and interpret satellite data. Knowledge of GIS, R, and Python is preferred.",
     "coreqs": [],
     "prereqs": []
@@ -958,11 +929,7 @@
     ],
     "description": "Covers the design of structural systems. Includes the major aspects of structural behavior and design (loads, load paths, structural system concepts, analysis, member and connection design, and structural detailing). Discusses typical structural building materials along with a brief introduction to less conventional materials. Emphasizes wood and masonry design. Also presents structural principles behind some innovative structural systems. Utilizes current professional practice with a focus on approximate hand methods of structural analysis. Requires one semester of undergraduate structural analysis.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CIVE", "number": "2320" },
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "CIVE",
@@ -1061,10 +1028,9 @@
     "sections": [
       { "term": "202430", "crn": "38874" },
       { "term": "202430", "crn": "38875" },
+      { "term": "202430", "crn": "40824" },
       { "term": "202430", "crn": "34131" },
       { "term": "202430", "crn": "39890" },
-      { "term": "202430", "crn": "38876" },
-      { "term": "202430", "crn": "39891" },
       { "term": "202410", "crn": "21264" },
       { "term": "202330", "crn": "34814" },
       { "term": "202310", "crn": "16019" }
@@ -1080,7 +1046,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "37880" }],
+    "sections": [],
     "description": "Offers theoretical or experimental work under individual faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1177,7 +1143,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "31943" },
-      { "term": "202430", "crn": "31944" },
       { "term": "202330", "crn": "32172" },
       { "term": "202330", "crn": "32173" }
     ],
@@ -1312,13 +1277,7 @@
     "sections": [{ "term": "202330", "crn": "38191" }],
     "description": "Introduces the numerical methods for solving the partial differential equations that govern coastal and riverine processes relevant to coastal and hydraulic engineering, including both energy- and momentum–based models for wave generation and propagation, nearshore non-linear wave transformation, coastal and estuarine circulation, storm surges, riverine flows, fluid-structure interaction, and sediment transport. Emphasizes the finite-difference method, while other commonly-used numerical methods for coastal and hydraulic engineering applications are discussed and compared. Uses examples and case studies of open-source models to illustrate applications of numerical modeling to solve real-world problems.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CIVE", "number": "5281" },
-      "Or",
-      { "subject": "CIVE", "number": "5281" },
-      "Or",
-      { "subject": "CHME", "number": "7350" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CIVE",
@@ -1411,7 +1370,7 @@
     "sections": [{ "term": "202410", "crn": "19811" }],
     "description": "Considers the response of linear systems to coherent and incoherent support motion, nonlinear response, the concept of ductility, inelastic response spectra, soil-structure interaction, random vibration theory, development of seismic codes, and characterizations of earthquakes for design.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CIVE", "number": "7331" }]
+    "prereqs": []
   },
   {
     "subject": "CIVE",
@@ -1422,7 +1381,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "32820" },
-      { "term": "202430", "crn": "32821" },
       { "term": "202330", "crn": "33187" },
       { "term": "202330", "crn": "33188" }
     ],
@@ -1468,8 +1426,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "36863" },
-      { "term": "202430", "crn": "36864" },
       { "term": "202330", "crn": "38867" },
       { "term": "202330", "crn": "38868" }
     ],
@@ -1486,7 +1442,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "36218" },
-      { "term": "202430", "crn": "36219" },
       { "term": "202330", "crn": "38193" },
       { "term": "202330", "crn": "38194" }
     ],
@@ -1602,11 +1557,10 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38113" },
+      { "term": "202440", "crn": "41620" },
       { "term": "202430", "crn": "35723" },
-      { "term": "202430", "crn": "37551" },
-      { "term": "202430", "crn": "38553" },
-      { "term": "202430", "crn": "38568" },
+      { "term": "202430", "crn": "41231" },
+      { "term": "202430", "crn": "41565" },
       { "term": "202410", "crn": "20777" },
       { "term": "202340", "crn": "42148" },
       { "term": "202330", "crn": "40201" },
@@ -1643,16 +1597,10 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38149" },
-      { "term": "202430", "crn": "38526" },
-      { "term": "202430", "crn": "35503" },
+      { "term": "202440", "crn": "40764" },
+      { "term": "202430", "crn": "41185" },
       { "term": "202430", "crn": "34579" },
-      { "term": "202430", "crn": "35521" },
-      { "term": "202430", "crn": "35792" },
       { "term": "202430", "crn": "36013" },
-      { "term": "202430", "crn": "36075" },
-      { "term": "202430", "crn": "37725" },
-      { "term": "202430", "crn": "37849" },
       { "term": "202410", "crn": "16222" },
       { "term": "202410", "crn": "18551" },
       { "term": "202410", "crn": "12109" },
@@ -1681,7 +1629,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21485" }],
+    "sections": [
+      { "term": "202430", "crn": "41017" },
+      { "term": "202310", "crn": "21485" }
+    ],
     "description": "Offers continued thesis work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
     "prereqs": []
@@ -1694,11 +1645,9 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38241" },
-      { "term": "202430", "crn": "32630" },
-      { "term": "202430", "crn": "38333" },
-      { "term": "202430", "crn": "35486" },
-      { "term": "202430", "crn": "37807" },
+      { "term": "202440", "crn": "41747" },
+      { "term": "202430", "crn": "41468" },
+      { "term": "202410", "crn": "22584" },
       { "term": "202340", "crn": "42287" },
       { "term": "202330", "crn": "40330" },
       { "term": "202330", "crn": "40438" },
@@ -1716,12 +1665,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34432" },
-      { "term": "202430", "crn": "35920" },
-      { "term": "202430", "crn": "36004" },
-      { "term": "202430", "crn": "38208" },
-      { "term": "202430", "crn": "40423" },
-      { "term": "202430", "crn": "40424" },
+      { "term": "202430", "crn": "41748" },
       { "term": "202410", "crn": "22368" },
       { "term": "202410", "crn": "22069" },
       { "term": "202330", "crn": "35234" },
@@ -1741,7 +1685,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "35997" },
+      { "term": "202460", "crn": "61445" },
       { "term": "202360", "crn": "61793" }
     ],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
@@ -1755,7 +1699,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202430", "crn": "41808" }],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1780,16 +1724,21 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60962" },
+      { "term": "202460", "crn": "60526" },
+      { "term": "202460", "crn": "60711" },
+      { "term": "202460", "crn": "61414" },
       { "term": "202430", "crn": "38421" },
-      { "term": "202430", "crn": "33551" },
       { "term": "202430", "crn": "36001" },
       { "term": "202430", "crn": "36059" },
       { "term": "202430", "crn": "38422" },
-      { "term": "202430", "crn": "38481" },
+      { "term": "202430", "crn": "40912" },
       { "term": "202430", "crn": "34625" },
       { "term": "202430", "crn": "37558" },
       { "term": "202430", "crn": "38443" },
       { "term": "202430", "crn": "40425" },
+      { "term": "202430", "crn": "41685" },
+      { "term": "202430", "crn": "41828" },
       { "term": "202410", "crn": "13890" },
       { "term": "202410", "crn": "15722" },
       { "term": "202410", "crn": "14527" },
@@ -1848,11 +1797,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "38552" },
-      { "term": "202430", "crn": "33582" },
-      { "term": "202430", "crn": "35383" },
-      { "term": "202430", "crn": "35487" },
-      { "term": "202430", "crn": "35541" },
-      { "term": "202430", "crn": "37709" },
+      { "term": "202430", "crn": "41200" },
+      { "term": "202430", "crn": "41238" },
       { "term": "202410", "crn": "22020" },
       { "term": "202410", "crn": "20912" },
       { "term": "202410", "crn": "21190" },
@@ -1870,7 +1816,7 @@
     ],
     "description": "Offers analytical and/or experimental research conducted by arrangement with and under the supervision of the department. Open to full-time students only. Requires PhD candidacy in civil engineering or in interdisciplinary engineering.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CIVE", "number": "9000" }]
+    "prereqs": []
   },
   {
     "subject": "CIVE",
@@ -1880,19 +1826,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34227" },
-      { "term": "202430", "crn": "34410" },
-      { "term": "202430", "crn": "34466" },
-      { "term": "202430", "crn": "34472" },
-      { "term": "202430", "crn": "34584" },
-      { "term": "202430", "crn": "35384" },
-      { "term": "202430", "crn": "35849" },
       { "term": "202430", "crn": "36222" },
-      { "term": "202430", "crn": "36223" },
-      { "term": "202430", "crn": "36224" },
-      { "term": "202430", "crn": "36225" },
-      { "term": "202430", "crn": "36226" },
-      { "term": "202430", "crn": "36228" },
       { "term": "202430", "crn": "40426" },
       { "term": "202430", "crn": "40427" },
       { "term": "202410", "crn": "21579" },
@@ -1924,27 +1858,20 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60641" },
+      { "term": "202460", "crn": "60854" },
+      { "term": "202460", "crn": "60952" },
+      { "term": "202440", "crn": "41045" },
       { "term": "202430", "crn": "33457" },
       { "term": "202430", "crn": "33482" },
       { "term": "202430", "crn": "33509" },
-      { "term": "202430", "crn": "33556" },
       { "term": "202430", "crn": "33540" },
-      { "term": "202430", "crn": "33594" },
       { "term": "202430", "crn": "34213" },
-      { "term": "202430", "crn": "33558" },
-      { "term": "202430", "crn": "33576" },
-      { "term": "202430", "crn": "33585" },
       { "term": "202430", "crn": "33586" },
       { "term": "202430", "crn": "34218" },
       { "term": "202430", "crn": "34221" },
       { "term": "202430", "crn": "34289" },
       { "term": "202430", "crn": "34435" },
-      { "term": "202430", "crn": "34568" },
-      { "term": "202430", "crn": "34594" },
-      { "term": "202430", "crn": "35385" },
-      { "term": "202430", "crn": "35386" },
-      { "term": "202430", "crn": "36229" },
-      { "term": "202430", "crn": "36230" },
       { "term": "202430", "crn": "36231" },
       { "term": "202430", "crn": "37452" },
       { "term": "202430", "crn": "37454" },

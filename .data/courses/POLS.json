@@ -24,6 +24,7 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202440", "crn": "40715" },
       { "term": "202430", "crn": "31570" },
       { "term": "202430", "crn": "33363" },
       { "term": "202410", "crn": "13938" },
@@ -82,10 +83,12 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202460", "crn": "60184" },
       { "term": "202430", "crn": "31209" },
       { "term": "202430", "crn": "31571" },
       { "term": "202430", "crn": "31781" },
       { "term": "202430", "crn": "33364" },
+      { "term": "202430", "crn": "34099" },
       { "term": "202430", "crn": "37261" },
       { "term": "202410", "crn": "12681" },
       { "term": "202410", "crn": "13497" },
@@ -116,7 +119,7 @@
     "title": "The Holocaust and Comparative Genocide",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["SI", "ER"],
+    "nuPath": ["ER", "SI"],
     "sections": [
       { "term": "202410", "crn": "13940" },
       { "term": "202310", "crn": "14541" },
@@ -134,6 +137,7 @@
     "credits": 4,
     "nuPath": ["ER", "IC", "WI"],
     "sections": [
+      { "term": "202440", "crn": "40396" },
       { "term": "202430", "crn": "32745" },
       { "term": "202430", "crn": "31916" },
       { "term": "202430", "crn": "33370" },
@@ -161,15 +165,7 @@
     ],
     "description": "Examines the philosophers of classical Greece, primarily Socrates, Plato, and Aristotle. These philosophers examined the nature of the material world, of the city, and of the person. The course takes up both the moral and political writings as well as the metaphysical writings. Devotes considerable attention to major works such as Plato's Republic. Some time is given to early Greek philosophers, to the Sophists, and to later developments. Requires written analysis of philosophical texts. PHIL 2325 and POLS 2325 are cross-listed.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -312,7 +308,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202430", "crn": "39745" }],
+    "sections": [],
     "description": "Explores how race and ethnicity influence American political institutions and the behaviors of their residents. Defines concepts like race and ethnicity and the impact that immigration has on diversifying the American polity. Investigates the three dominant ethno-racial minority groups (i.e., Black and African Americans, Asian Americans, and Latinos/as/x) and their political behaviors. Surveys topics such as the formation of partisan identification (i.e., Democrats and Republicans); political representation; policy preferences and public opinions; and mobilization and group-based participation.",
     "coreqs": [],
     "prereqs": []
@@ -341,6 +337,7 @@
     "nuPath": ["SI"],
     "sections": [
       { "term": "202430", "crn": "34718" },
+      { "term": "202430", "crn": "40952" },
       { "term": "202330", "crn": "35681" }
     ],
     "description": "Examines the political forces, governmental institutions, socioeconomic factors, and global trends that shape environmental policy at national and subnational levels in the United States. A spectrum of different environmental issues is discussed, with some comparison of policy activity in the U.S., other nations, and at the global level.",
@@ -369,7 +366,6 @@
     "sections": [
       { "term": "202430", "crn": "31996" },
       { "term": "202430", "crn": "33265" },
-      { "term": "202430", "crn": "40692" },
       { "term": "202410", "crn": "10206" },
       { "term": "202410", "crn": "13495" },
       { "term": "202340", "crn": "40602" },
@@ -399,6 +395,7 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202460", "crn": "60463" },
       { "term": "202430", "crn": "30947" },
       { "term": "202430", "crn": "31210" },
       { "term": "202410", "crn": "14706" },
@@ -414,6 +411,8 @@
     "description": "Studies methods of quantitative analysis including descriptive statistics, hypothesis testing, cross-tabulation, analysis of variance, bivariate regression and correlation, and multiple regression. Examines how to generate and interpret statistical findings through use of Excel, SPSS, and/or other software programs. Uses examples from political behavior, public policy analysis, public opinion, comparative and international politics, and other areas of political and social-science inquiry to emphasize practical applications.",
     "coreqs": [],
     "prereqs": [
+      { "subject": "CS", "number": "1800" },
+      "Or",
       { "subject": "MATH", "number": "1213" },
       "Or",
       { "subject": "MATH", "number": "1215" },
@@ -428,6 +427,18 @@
       "Or",
       { "subject": "MATH", "number": "1342" }
     ]
+  },
+  {
+    "subject": "POLS",
+    "number": "2991",
+    "title": "Research Practicum",
+    "scheduleType": "Individual Instruction",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41815" }],
+    "description": "Involves students in collaborative research under the supervision of a faculty member. Offers students an opportunity to learn basic research methods in the discipline. Requires permission of instructor. May be repeated once for up to 4 total credits.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -470,7 +481,7 @@
     "sections": [{ "term": "202310", "crn": "16488" }],
     "description": "Explores the structures, dynamics, and styles inherent in public policymaking within the U.S. Congress. Focuses on elections; representations of constituents' interests; the roles that participants play: the president, interest groups, and others; and how all of this is affected by the structure of Congress and the process embedded in the legislative body.",
     "coreqs": [],
-    "prereqs": [{ "subject": "POLS", "number": "1150" }]
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -507,6 +518,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40222" },
       { "term": "202430", "crn": "36388" },
       { "term": "202340", "crn": "40244" },
       { "term": "202330", "crn": "38369" },
@@ -525,6 +537,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41140" },
       { "term": "202340", "crn": "41645" },
       { "term": "202260", "crn": "60544" }
     ],
@@ -542,7 +555,7 @@
     "sections": [{ "term": "202330", "crn": "38370" }],
     "description": "Analyzes how Americans think about politics, how they vote, and how the rules of the U.S. electoral system affect electoral outcomes. Major topics include the nature and content of public opinion, mass partisanship, issues and issue voting, presidential and congressional elections, turnout and participation, campaign finance, and recent trends in U.S. electoral behavior.",
     "coreqs": [],
-    "prereqs": [{ "subject": "POLS", "number": "1150" }]
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -567,6 +580,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41141" },
       { "term": "202340", "crn": "41646" },
       { "term": "202260", "crn": "60545" }
     ],
@@ -639,11 +653,7 @@
     ],
     "description": "Analyzes U.S. national security policy, with an emphasis on traditional and nontraditional threats, including threats from state and nonstate actors. Studies the national security policy process with special attention to developing countermeasures as well as resilience.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "POLS", "number": "1155" },
-      "Or",
-      { "subject": "POLS", "number": "1160" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -653,6 +663,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60754" },
       { "term": "202410", "crn": "19514" },
       { "term": "202360", "crn": "60883" },
       { "term": "202330", "crn": "32506" },
@@ -660,13 +671,7 @@
     ],
     "description": "Examines some of the core debates over terrorism and counterterrorism. Topics include what constitutes terrorism, why people become terrorists, which targets they attack, whether nuclear terrorism is a serious threat, the extent to which terrorism helps the perpetrators, and their motives. From there, the course introduces the student to viable counterterrorism strategies. Permission of instructor required for students who do not meet prerequisite.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "POLS", "number": "1150" },
-      "Or",
-      { "subject": "POLS", "number": "1155" },
-      "Or",
-      { "subject": "POLS", "number": "1160" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -779,13 +784,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [{ "term": "202430", "crn": "39318" }],
-    "description": "Examines the political, governmental, social, economic, cultural, environmental, and geopolitical dimensions of change in nations regarded as &#8220;developing&#8221; by international standards. Covers a broad spectrum of types of nations including those in Eastern and Central Europe but pays particular attention to those in Asia, Africa, and Central and South America.",
+    "description": "Examines the political, governmental, social, economic, cultural, environmental, and geopolitical dimensions of change in nations regarded as “developing” by international standards. Covers a broad spectrum of types of nations including those in Eastern and Central Europe but pays particular attention to those in Asia, Africa, and Central and South America.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "POLS", "number": "1155" },
-      "Or",
-      { "subject": "INTL", "number": "1101" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -866,7 +867,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": ["CE", "WI"],
-    "sections": [{ "term": "202410", "crn": "22075" }],
+    "sections": [
+      { "term": "202430", "crn": "40992" },
+      { "term": "202410", "crn": "22075" }
+    ],
     "description": "Offers students an opportunity to conduct a significant research project under faculty supervision on a topic within the discipline of political science. Research question is formulated and analyzed through data gathering and a review of relevant literature in political science and related fields.",
     "coreqs": [],
     "prereqs": []
@@ -896,7 +900,7 @@
     "sections": [{ "term": "202330", "crn": "38374" }],
     "description": "Offers students an opportunity to participate in teams that research assigned nations and represent those nations in a model Arab League role-playing exercise. Students may be selected to represent Northeastern University at the regional or national Model Arab League conferences in Washington, D.C., and different states. May be repeated twice.",
     "coreqs": [],
-    "prereqs": [{ "subject": "POLS", "number": "1160" }]
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -908,7 +912,7 @@
     "sections": [{ "term": "202430", "crn": "39319" }],
     "description": "Offers students an opportunity to participate in teams that research assigned nations and represent those nations in a model role-playing exercise of the North Atlantic Treaty Organization (NATO). Students may be selected to represent Northeastern University at the National Model NATO program in Washington, D.C. May be repeated up to two times.",
     "coreqs": [],
-    "prereqs": [{ "subject": "POLS", "number": "1160" }]
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -917,7 +921,10 @@
     "scheduleType": "Off-campus instruction",
     "credits": 4,
     "nuPath": ["EX", "SI"],
-    "sections": [{ "term": "202360", "crn": "61309" }],
+    "sections": [
+      { "term": "202460", "crn": "60985" },
+      { "term": "202360", "crn": "61309" }
+    ],
     "description": "Examines government and politics in another country or region of the world through faculty-led travel to that country or region. Offers students an opportunity to enhance their knowledge of government and politics by attending and participating in various educational activities in the country of study. The course begins in the United States with an introduction to the country or region and concludes with activities that facilitate reflection and learning related to the experience abroad. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -930,6 +937,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202460", "crn": "60986" },
       { "term": "202360", "crn": "61310" },
       { "term": "202260", "crn": "61172" }
     ],
@@ -947,11 +955,7 @@
     "sections": [{ "term": "202330", "crn": "35686" }],
     "description": "Exposes students to the foundational and contemporary theories in international security and offers opportunities for application. Topics include the role of different actors and institutions; the evolution of the international system; conventional and nonconventional warfare, strategy, and tactics; and conflict negotiation. Addresses several issue areas in international security, including civil war, ethnic conflict, terrorism, civil-military relations, cybersecurity, and the role of gender.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "POLS", "number": "1160" },
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -960,10 +964,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "38530" },
-      { "term": "202330", "crn": "40636" }
-    ],
+    "sections": [{ "term": "202330", "crn": "40636" }],
     "description": "Offers assigned reading under the supervision of a faculty member. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -976,6 +977,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60870" },
+      { "term": "202460", "crn": "60877" },
+      { "term": "202430", "crn": "41309" },
       { "term": "202410", "crn": "16183" },
       { "term": "202360", "crn": "60822" },
       { "term": "202360", "crn": "61148" },
@@ -1071,7 +1075,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "39322" }],
+    "sections": [],
     "description": "Examines the major themes in development studies today. Explores approaches to the development and production, population growth, equity and poverty, rural and urban development, health and nutrition, education, and the international context of development assistance. Students considering a development administration concentration should try to take this course as their first in the field of development.",
     "coreqs": [],
     "prereqs": []
@@ -1180,13 +1184,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38274" },
-      { "term": "202430", "crn": "38332" },
-      { "term": "202430", "crn": "38360" },
-      { "term": "202430", "crn": "38579" },
-      { "term": "202430", "crn": "38532" },
-      { "term": "202430", "crn": "38594" },
-      { "term": "202430", "crn": "38653" },
+      { "term": "202440", "crn": "41613" },
+      { "term": "202430", "crn": "41679" },
+      { "term": "202430", "crn": "41902" },
       { "term": "202410", "crn": "22303" },
       { "term": "202410", "crn": "22365" },
       { "term": "202340", "crn": "42141" },
@@ -1240,6 +1240,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60670" },
       { "term": "202360", "crn": "60765" },
       { "term": "202260", "crn": "61058" }
     ],
@@ -1301,13 +1302,12 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "31795" },
       { "term": "202410", "crn": "12685" },
       { "term": "202330", "crn": "31999" }
     ],
     "description": "Offers dissertation supervision by individual members of the department.",
     "coreqs": [],
-    "prereqs": [{ "subject": "POLS", "number": "9000" }]
+    "prereqs": []
   },
   {
     "subject": "POLS",
@@ -1323,7 +1323,7 @@
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
-    "prereqs": [{ "subject": "POLS", "number": "9990" }]
+    "prereqs": []
   },
   {
     "subject": "POLS",

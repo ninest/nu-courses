@@ -7,6 +7,9 @@
     "credits": 4,
     "nuPath": ["ND", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60031" },
+      { "term": "202440", "crn": "40028" },
+      { "term": "202440", "crn": "40705" },
       { "term": "202430", "crn": "39157" },
       { "term": "202430", "crn": "39330" },
       { "term": "202430", "crn": "33613" },
@@ -107,6 +110,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202440", "crn": "40706" },
       { "term": "202430", "crn": "31054" },
       { "term": "202410", "crn": "11970" },
       { "term": "202340", "crn": "40827" },
@@ -164,6 +168,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40904" },
       { "term": "202430", "crn": "33619" },
       { "term": "202410", "crn": "15403" },
       { "term": "202340", "crn": "41181" },
@@ -183,6 +188,9 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202460", "crn": "60106" },
+      { "term": "202440", "crn": "40101" },
+      { "term": "202440", "crn": "40469" },
       { "term": "202430", "crn": "30286" },
       { "term": "202430", "crn": "30285" },
       { "term": "202430", "crn": "31950" },
@@ -220,7 +228,7 @@
     ],
     "description": "Offers an overview of descriptive and inferential statistics with a focus on psychological applications. Covers standard material in undergraduate statistics including distributions, central tendency, variability, z-scores, the normal distributions, correlation, regression, probability, hypothesis testing (using the z, t, F, and chi-square statistics), and confidence intervals. Should be taken before the end of the sophomore year.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PSYC", "number": "1101" }]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -246,6 +254,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41187" },
       { "term": "202340", "crn": "41694" },
       { "term": "202330", "crn": "39437" },
       { "term": "202240", "crn": "41935" }
@@ -262,6 +271,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202460", "crn": "60778" },
       { "term": "202430", "crn": "32732" },
       { "term": "202430", "crn": "39636" },
       { "term": "202410", "crn": "13505" },
@@ -274,11 +284,7 @@
     ],
     "description": "Introduces students to the structure and function of the central nervous system (CNS) from spinal cord to cerebral cortex by using lesions of the human nervous system as a tool to reinforce and amplify learning of the structure and organization of the CNS. Assumes no prior knowledge of brain structures and begins with basic vocabulary, including directions, planes of dissection, and parts of brain cells. Seeks to provide the necessary anatomical foundation for further study in psychology and the neurosciences.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "PSYC", "number": "1101" },
-      "Or",
-      { "subject": "PSYC", "number": "2290" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -288,6 +294,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61485" },
+      { "term": "202440", "crn": "41188" },
       { "term": "202430", "crn": "30284" },
       { "term": "202430", "crn": "33336" },
       { "term": "202410", "crn": "10437" },
@@ -310,6 +318,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40011" },
       { "term": "202430", "crn": "31055" },
       { "term": "202430", "crn": "37141" },
       { "term": "202430", "crn": "39332" },
@@ -335,6 +344,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60146" },
+      { "term": "202440", "crn": "40008" },
+      { "term": "202440", "crn": "41461" },
       { "term": "202430", "crn": "30283" },
       { "term": "202430", "crn": "30084" },
       { "term": "202430", "crn": "33620" },
@@ -373,6 +385,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60204" },
+      { "term": "202440", "crn": "40207" },
       { "term": "202430", "crn": "30217" },
       { "term": "202430", "crn": "31661" },
       { "term": "202430", "crn": "34697" },
@@ -436,6 +450,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40905" },
       { "term": "202430", "crn": "30282" },
       { "term": "202410", "crn": "11754" },
       { "term": "202340", "crn": "41182" },
@@ -455,6 +470,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60467" },
       { "term": "202430", "crn": "32936" },
       { "term": "202430", "crn": "34698" },
       { "term": "202410", "crn": "10433" },
@@ -470,7 +486,7 @@
     ],
     "description": "Focuses on the relation between brain function and human behavior. Examines how nerve cells function individually and work together both in small networks and in the nervous system; the structure of the nervous system; how our sense organs provide the nervous system with information about the outside world; how the brain controls movement; and how psychological concepts from motivation to language and memory are represented in the brain.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PSYC", "number": "1101" }]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -487,7 +503,7 @@
     ],
     "description": "Provides a basic introduction to psycholinguistics. Topics include the nature and structure of languages, processes involved in the production and comprehension of language, the biological bases of language, and aspects of language acquisition. Examines current theories of language processing and related experimental findings.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PSYC", "number": "1101" }]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -497,6 +513,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60167" },
+      { "term": "202440", "crn": "40208" },
       { "term": "202430", "crn": "30446" },
       { "term": "202430", "crn": "34699" },
       { "term": "202430", "crn": "36106" },
@@ -518,7 +536,7 @@
     ],
     "description": "Provides a basic introduction to human cognition. Topics include pattern recognition, attention, memory, categorization and concept formation, problem solving, and aspects of cognitive development. Examines current theories of cognitive processing and related experimental findings.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PSYC", "number": "1101" }]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -599,12 +617,37 @@
   },
   {
     "subject": "PSYC",
+    "number": "3545",
+    "title": "Ethics in Animal Research",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202440", "crn": "41784" }],
+    "description": "Addresses ethical considerations for the treatment of animals in psychological research. Presents a comprehensive overview of animal ethical treatment policies at research institutes as well as animal research laboratory trainings and qualifications. Explores historical and current perspectives on animal healthcare and well-being, and discusses alternatives to animal research.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "PSYC", "number": "1101" }]
+  },
+  {
+    "subject": "PSYC",
+    "number": "3973",
+    "title": "Special Topics in Psychology",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40878" }],
+    "description": "Examines selected topics in psychology. Topics vary each semester. May be repeated once.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "PSYC", "number": "1101" }]
+  },
+  {
+    "subject": "PSYC",
     "number": "4510",
     "title": "Psychopharmacology",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40443" },
       { "term": "202430", "crn": "34701" },
       { "term": "202340", "crn": "40492" },
       { "term": "202330", "crn": "35657" },
@@ -654,11 +697,7 @@
     ],
     "description": "Explores the neurobiological, genetic, and neurochemical etiology of mental illness as described and categorized according to the DSM. Discusses how psychology, neuroscience, pharmacology, and medicine come together to manage mental illness. Investigates, for each specific mental illness covered, how changes in physiology and biology might manifest in the aberrant behaviors that define psychopathology. Lastly, examines how pharmacology is often used to treat these various mental illnesses and how genetic expression is involved in predisposing some people to these disorders while sparing others.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "BIOL", "number": "3405" },
-      "Or",
-      { "subject": "PSYC", "number": "3458" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -731,15 +770,7 @@
     ],
     "description": "Explores the genetic basis of behavior. Behavioral genetics is considered to lie at the intersection of psychology and genetics and is a dynamic field with plenty of possibility. Offers students an opportunity to hone and develop a stronger foundation in the principles of Mendelian, population, and quantitative genetics. Studies the genetic basis for sleep, social behavior, responses to environmental stimuli, learning, memory, addiction, and the etiology of neuropsychiatric disorders.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "BIOL", "number": "2301" },
-      "And",
-      "(",
-      { "subject": "BIOL", "number": "3405" },
-      "Or",
-      { "subject": "PSYC", "number": "3458" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -757,25 +788,7 @@
     ],
     "description": "Addresses the theoretical concepts, design, execution, analysis, and communication of research in psychology. Provides students with various methods to acquire hands-on experience performing a research project of their own creation. Students move systematically through the research process, from refining their original idea in the context of existing literature to interpreting and communicating their results. Requires prior completion of research-area course.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "MGSC", "number": "2301" },
-      "Or",
-      { "subject": "PSYC", "number": "2315" },
-      "Or",
-      { "subject": "PSYC", "number": "2320" },
-      ")",
-      "And",
-      "(",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -810,6 +823,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202460", "crn": "60634" },
       { "term": "202430", "crn": "32888" },
       { "term": "202430", "crn": "39335" },
       { "term": "202410", "crn": "12293" },
@@ -890,9 +904,13 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202460", "crn": "61487" },
+      { "term": "202440", "crn": "40547" },
       { "term": "202430", "crn": "30281" },
       { "term": "202430", "crn": "34121" },
       { "term": "202430", "crn": "37774" },
+      { "term": "202430", "crn": "40990" },
+      { "term": "202430", "crn": "40991" },
       { "term": "202410", "crn": "10431" },
       { "term": "202410", "crn": "19505" },
       { "term": "202340", "crn": "40613" },
@@ -985,27 +1003,7 @@
     ],
     "description": "Provides an introduction to the methods and areas of personality research. Discusses problems of measurement, control, and interpretation. Critically examines representative published experiments. Students design, collect data for, assess, and write up several experiments.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "MGSC", "number": "2301" },
-      "Or",
-      { "subject": "PSYC", "number": "2315" },
-      "Or",
-      { "subject": "PSYC", "number": "2320" },
-      ")",
-      "And",
-      { "subject": "PSYC", "number": "3400" },
-      "And",
-      "(",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -1015,32 +1013,14 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202460", "crn": "61488" },
+      { "term": "202430", "crn": "41110" },
       { "term": "202360", "crn": "60718" },
       { "term": "202260", "crn": "60998" }
     ],
     "description": "Focuses on experiments using psychophysical methods in the various senses, typically including audition, vision, and others. Students collect data on themselves, analyze the data statistically, and write reports. Critical thinking is stressed.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "MGSC", "number": "2301" },
-      "Or",
-      { "subject": "PSYC", "number": "2315" },
-      "Or",
-      { "subject": "PSYC", "number": "2320" },
-      ")",
-      "And",
-      { "subject": "PSYC", "number": "3452" },
-      "And",
-      "(",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -1088,25 +1068,7 @@
     ],
     "description": "Studies life-span development and how emotional experience, perception, and regulation changes across the life span. Lab teams use a multimethod approach and theoretical frameworks to guide research in emotional development. Offers students an opportunity to learn how to read the scientific literature; think critically about research questions; design, conduct, and analyze experiments; write in the journal style of the American Psychological Association; and gain interpersonal and organizational skills while working on a research team. PSYC 3402 highly recommended.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "MGSC", "number": "2301" },
-      "Or",
-      { "subject": "PSYC", "number": "2315" },
-      "Or",
-      { "subject": "PSYC", "number": "2320" },
-      ")",
-      "And",
-      "(",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -1156,8 +1118,10 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202440", "crn": "40906" },
       { "term": "202430", "crn": "36113" },
       { "term": "202430", "crn": "39161" },
+      { "term": "202430", "crn": "41036" },
       { "term": "202360", "crn": "61441" },
       { "term": "202340", "crn": "41183" },
       { "term": "202330", "crn": "38073" },
@@ -1215,7 +1179,10 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202440", "crn": "40978" },
       { "term": "202430", "crn": "30932" },
+      { "term": "202430", "crn": "41059" },
+      { "term": "202430", "crn": "41198" },
       { "term": "202410", "crn": "20176" },
       { "term": "202340", "crn": "41368" },
       { "term": "202330", "crn": "30996" },
@@ -1243,14 +1210,39 @@
   },
   {
     "subject": "PSYC",
+    "number": "4662",
+    "title": "Seminar in Personality",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["CE", "WI"],
+    "sections": [{ "term": "202460", "crn": "61486" }],
+    "description": "Offers intensive study and discussion of issues in personality psychology. Allows students to examine selected topics and present their findings in class.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "MGSC", "number": "2301" },
+      "Or",
+      { "subject": "PSYC", "number": "2315" },
+      "Or",
+      { "subject": "PSYC", "number": "2320" },
+      ")",
+      "And",
+      { "subject": "PSYC", "number": "3400" }
+    ]
+  },
+  {
+    "subject": "PSYC",
     "number": "4664",
     "title": "Seminar in Social Psychology",
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202460", "crn": "60779" },
+      { "term": "202440", "crn": "41189" },
       { "term": "202430", "crn": "31142" },
       { "term": "202430", "crn": "39162" },
+      { "term": "202430", "crn": "40994" },
       { "term": "202410", "crn": "12608" },
       { "term": "202360", "crn": "60924" },
       { "term": "202340", "crn": "41696" },
@@ -1319,17 +1311,7 @@
     ],
     "description": "Expects students to present in class on topics such as how perceptions are organized, formed, and modified by sensory, attentional, motivational, and cognitive factors, how our sensory systems extract information from the environment in a consistent and logical manner, despite large changes in environmental conditions, and how to account for this in physiological terms.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "MGSC", "number": "2301" },
-      "Or",
-      { "subject": "PSYC", "number": "2315" },
-      "Or",
-      { "subject": "PSYC", "number": "2320" },
-      ")",
-      "And",
-      { "subject": "PSYC", "number": "3452" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -1371,6 +1353,7 @@
     "nuPath": ["CE", "WI"],
     "sections": [
       { "term": "202430", "crn": "32931" },
+      { "term": "202430", "crn": "41037" },
       { "term": "202330", "crn": "33313" },
       { "term": "202330", "crn": "39829" }
     ],
@@ -1572,8 +1555,23 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "52930" }],
+    "sections": [
+      { "term": "202440", "crn": "41530" },
+      { "term": "202350", "crn": "52930" }
+    ],
     "description": "Covers selected advanced methods of quantitative analysis used in experimental psychology. Specific topics vary by semester. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PSYC",
+    "number": "7301",
+    "title": "Research Methodologies Psychology",
+    "scheduleType": "Seminar",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40777" }],
+    "description": "Introduces students to a range of conceptual and methodological issues in the conduct of experimental psychology research by department faculty members. Specific course content depends on which faculty members conduct the course in a given semester. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1596,7 +1594,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202360", "crn": "61571" }],
+    "sections": [
+      { "term": "202460", "crn": "61234" },
+      { "term": "202360", "crn": "61571" }
+    ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision.",
     "coreqs": [],
     "prereqs": []
@@ -1625,10 +1626,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "34704" },
-      { "term": "202350", "crn": "50095" }
-    ],
+    "sections": [{ "term": "202350", "crn": "50095" }],
     "description": "Continues research for the master's degree.",
     "coreqs": [],
     "prereqs": []
@@ -1671,6 +1669,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61202" },
+      { "term": "202440", "crn": "41100" },
       { "term": "202430", "crn": "34705" },
       { "term": "202410", "crn": "16166" },
       { "term": "202410", "crn": "21110" },
@@ -1713,32 +1713,10 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "30674" },
-      { "term": "202430", "crn": "30749" },
-      { "term": "202430", "crn": "30750" },
-      { "term": "202430", "crn": "30751" },
       { "term": "202430", "crn": "32331" },
-      { "term": "202430", "crn": "30752" },
-      { "term": "202430", "crn": "30753" },
-      { "term": "202430", "crn": "30754" },
-      { "term": "202430", "crn": "31207" },
       { "term": "202430", "crn": "30755" },
       { "term": "202430", "crn": "30761" },
       { "term": "202430", "crn": "33623" },
-      { "term": "202430", "crn": "33624" },
-      { "term": "202430", "crn": "33625" },
-      { "term": "202430", "crn": "33626" },
-      { "term": "202430", "crn": "33627" },
-      { "term": "202430", "crn": "34706" },
-      { "term": "202430", "crn": "36117" },
-      { "term": "202430", "crn": "36118" },
-      { "term": "202430", "crn": "36119" },
-      { "term": "202430", "crn": "39165" },
-      { "term": "202430", "crn": "39166" },
-      { "term": "202430", "crn": "39167" },
-      { "term": "202430", "crn": "39168" },
-      { "term": "202430", "crn": "39169" },
-      { "term": "202430", "crn": "39170" },
-      { "term": "202430", "crn": "39171" },
       { "term": "202410", "crn": "10729" },
       { "term": "202410", "crn": "10731" },
       { "term": "202410", "crn": "12172" },
@@ -1761,7 +1739,7 @@
     ],
     "description": "Conducts theoretical and experimental research for the PhD degree.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PSYC", "number": "9000" }]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -1771,38 +1749,12 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34295" },
-      { "term": "202430", "crn": "34294" },
-      { "term": "202430", "crn": "34293" },
-      { "term": "202430", "crn": "34292" },
-      { "term": "202430", "crn": "34291" },
-      { "term": "202430", "crn": "34311" },
-      { "term": "202430", "crn": "34312" },
-      { "term": "202430", "crn": "34707" },
-      { "term": "202430", "crn": "34708" },
-      { "term": "202430", "crn": "34709" },
-      { "term": "202430", "crn": "34710" },
-      { "term": "202430", "crn": "34711" },
-      { "term": "202430", "crn": "34712" },
-      { "term": "202430", "crn": "34713" },
-      { "term": "202430", "crn": "34714" },
-      { "term": "202430", "crn": "34715" },
-      { "term": "202430", "crn": "34716" },
-      { "term": "202430", "crn": "36120" },
-      { "term": "202430", "crn": "36121" },
-      { "term": "202430", "crn": "36122" },
-      { "term": "202430", "crn": "39172" },
-      { "term": "202430", "crn": "39173" },
-      { "term": "202430", "crn": "39174" },
       { "term": "202430", "crn": "39175" },
-      { "term": "202430", "crn": "39176" },
-      { "term": "202430", "crn": "39177" },
-      { "term": "202430", "crn": "39178" },
       { "term": "202330", "crn": "35670" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PSYC", "number": "9990" }]
+    "prereqs": []
   },
   {
     "subject": "PSYC",
@@ -1812,32 +1764,16 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "30756" },
       { "term": "202430", "crn": "32588" },
-      { "term": "202430", "crn": "30757" },
       { "term": "202430", "crn": "30758" },
       { "term": "202430", "crn": "30797" },
       { "term": "202430", "crn": "30759" },
       { "term": "202430", "crn": "31206" },
       { "term": "202430", "crn": "31839" },
-      { "term": "202430", "crn": "30760" },
       { "term": "202430", "crn": "33448" },
-      { "term": "202430", "crn": "33628" },
-      { "term": "202430", "crn": "33629" },
       { "term": "202430", "crn": "33630" },
-      { "term": "202430", "crn": "33631" },
-      { "term": "202430", "crn": "33632" },
       { "term": "202430", "crn": "33633" },
       { "term": "202430", "crn": "34717" },
-      { "term": "202430", "crn": "36123" },
-      { "term": "202430", "crn": "36124" },
-      { "term": "202430", "crn": "36125" },
-      { "term": "202430", "crn": "39179" },
-      { "term": "202430", "crn": "39180" },
-      { "term": "202430", "crn": "39181" },
-      { "term": "202430", "crn": "39182" },
-      { "term": "202430", "crn": "39183" },
-      { "term": "202430", "crn": "39184" },
       { "term": "202410", "crn": "11533" },
       { "term": "202410", "crn": "12877" },
       { "term": "202410", "crn": "10732" },

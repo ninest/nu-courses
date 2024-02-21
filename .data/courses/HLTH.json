@@ -8,7 +8,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "36126" },
-      { "term": "202430", "crn": "36127" },
       { "term": "202430", "crn": "36128" },
       { "term": "202430", "crn": "36129" },
       { "term": "202410", "crn": "16404" },
@@ -36,6 +35,7 @@
     "credits": 4,
     "nuPath": ["ER", "WI"],
     "sections": [
+      { "term": "202460", "crn": "60487" },
       { "term": "202430", "crn": "32675" },
       { "term": "202410", "crn": "13090" },
       { "term": "202410", "crn": "20790" },
@@ -56,6 +56,7 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40223" },
       { "term": "202430", "crn": "31989" },
       { "term": "202410", "crn": "12395" },
       { "term": "202340", "crn": "40245" },
@@ -75,6 +76,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60200" },
       { "term": "202360", "crn": "60216" },
       { "term": "202260", "crn": "60227" }
     ],
@@ -102,7 +104,10 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60479" },
+      { "term": "202440", "crn": "41801" },
       { "term": "202430", "crn": "35926" },
+      { "term": "202430", "crn": "41085" },
       { "term": "202410", "crn": "13887" },
       { "term": "202360", "crn": "60520" },
       { "term": "202330", "crn": "37742" },
@@ -121,7 +126,9 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60532" },
       { "term": "202430", "crn": "34674" },
+      { "term": "202430", "crn": "40806" },
       { "term": "202410", "crn": "13202" },
       { "term": "202410", "crn": "17806" },
       { "term": "202360", "crn": "60591" },
@@ -132,6 +139,18 @@
       { "term": "202260", "crn": "60678" }
     ],
     "description": "Studies key aspects of theory and practical principles of mindfulness practice. Mindfulness is a particular way of paying attention to experiences that has been scientifically researched and found to decrease habitual and destructive cycles of thought and emotion. This course is highly experiential and daily homework practice consists of at least 20 minutes of mindfulness practice. Instructions for the various practices are provided throughout the course. Each class typically includes a didactic portion, a mindfulness practice, and a group discussion. The benefits of mindfulness practice include reduced stress, improved attention, reduced emotional reactivity, and greater mind-body awareness. Offers students an opportunity to develop practical skills of relational mindfulness in interactions with others and to cultivate positive emotions.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HLTH",
+    "number": "5120",
+    "title": "Statistics for Health Science",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": ["AD", "FQ"],
+    "sections": [{ "term": "202430", "crn": "41529" }],
+    "description": "Focuses on applying formal reasoning to understand the underlying principles of statistics; how to select and conduct statistical tests; and how to interpret and use the results of data analysis in relation to research questions and research hypotheses.",
     "coreqs": [],
     "prereqs": []
   },
@@ -160,8 +179,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40888" },
       { "term": "202430", "crn": "36103" },
-      { "term": "202430", "crn": "36715" },
       { "term": "202430", "crn": "40756" },
       { "term": "202410", "crn": "18147" },
       { "term": "202410", "crn": "19335" },
@@ -228,11 +247,7 @@
     "sections": [{ "term": "202410", "crn": "16420" }],
     "description": "Examines healthcare as a high-risk industry, where complex healthcare systems attempt to meet the complex needs of diverse patients. Introduces the many drivers that influence the design and evolution of healthcare systems, particularly patient safety, which until recently was not typically recognized as one of these design drivers. Expands on the concept of complex systems theory and introduces the concept of high reliability organizations (HROs) and how they approach safety. Examines engineering strategies from HROs by studying how healthcare systems should adapt and retrofit to create safer systems of care delivery. Compares the challenges of improving patient safety at the system vs. the microsystem level. Examines diverse error-reducing strategies.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "HLTH", "number": "5600" },
-      "Or",
-      { "subject": "HLTH", "number": "5600" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "HLTH",
@@ -246,6 +261,18 @@
       { "term": "202310", "crn": "18758" }
     ],
     "description": "Examines patient-safety-focused leadership that recognizes the importance of partnering with key healthcare proponents to advance the safe delivery of care. Discusses the role of leaders in advancing a culture of safety and creating a just culture approach to adverse event reviews. Identifies the importance of psychological safety in adverse event reporting and analysis. Focuses on leadership roles in promoting robust workforce wellness initiatives to prevent clinician burnout. Prior completion of HLTH 5600 is recommended but not required.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HLTH",
+    "number": "5630",
+    "title": "Quality Improvement in Patient Safety",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41318" }],
+    "description": "Introduces key components of patient safety science that promote identification of patient safety risks and effectively foster changes to reduce those risks. Examines the processes and tools employed in quality improvement efforts and recognizes the importance of risk assessment, data collection, and measurement in healthcare settings. Identifies quality improvement models and compares their effectiveness in promoting safer care delivery. Concludes with a discussion of the advantages and disadvantages of incentivizing quality improvement efforts through reimbursement strategies that utilize quality incentives.",
     "coreqs": [],
     "prereqs": [
       { "subject": "HLTH", "number": "5600" },
@@ -285,6 +312,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61523" },
       { "term": "202430", "crn": "40614" },
       { "term": "202410", "crn": "21983" },
       { "term": "202340", "crn": "41744" },
@@ -304,6 +332,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41090" },
+      { "term": "202430", "crn": "41484" },
       { "term": "202410", "crn": "21747" },
       { "term": "202340", "crn": "41548" },
       { "term": "202350", "crn": "52744" },

@@ -121,6 +121,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60486" },
       { "term": "202430", "crn": "31076" },
       { "term": "202430", "crn": "31077" },
       { "term": "202430", "crn": "40472" },
@@ -169,6 +170,18 @@
       { "term": "202240", "crn": "40562" }
     ],
     "description": "Studies how businesses can be agents for social good, both locally and around the world. In an era of growing social and economic inequality both in the United States and globally, many “enlightened” businesses are reconsidering their roles in creating opportunity for disadvantaged or marginalized people and communities. Focuses on businesses that have the resources to invest in innovative social responsibility programs that address the impact of rising social and economic inequality. Considers the tension between the single-minded notion of maximizing profit for investors and serving a broader stakeholder community. The role of entrepreneurship and entrepreneurial thinking plays a key role in student learning. This is an integrative course that includes areas such as business policy, governance, strategy, and decision making.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ENTR",
+    "number": "3217",
+    "title": "Global Family Business Leadership",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40866" }],
+    "description": "Offers students an opportunity to develop an understanding of the nuanced challenges facing entrepreneurial leaders in different cultural settings. While family businesses have been found to be both numerically and economically significant in most countries, these enterprises worldwide share many common issues. However, there are differences that emanate from specific institutional and cultural contexts. Understanding these differences and how they can affect leadership of a family business is increasingly important for stewards of family businesses in a global marketplace. Understanding the nature of international differences and appreciating the opportunities they offer for growth-oriented family business leaders is especially important as family businesses face unique barriers to international expansion. Required participation in spring break international field project.",
     "coreqs": [],
     "prereqs": []
   },
@@ -284,6 +297,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60623" },
       { "term": "202360", "crn": "60704" },
       { "term": "202260", "crn": "60964" }
     ],
@@ -321,7 +335,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38113" }],
+    "sections": [
+      { "term": "202430", "crn": "40820" },
+      { "term": "202330", "crn": "38113" }
+    ],
     "description": "Designed for advanced students interested in launching a new venture or growing an existing business venture. Includes developing a business plan, strategy development for small- to medium-sized enterprises, sales forecasting, pro forma development, debt financing, and service developments. Sponsored by the Center for Family Business, focuses on obtaining a bank loan to start a business or to grow an existing small- to medium-sized venture.",
     "coreqs": [],
     "prereqs": []
@@ -386,6 +403,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40818" },
       { "term": "202430", "crn": "35375" },
       { "term": "202410", "crn": "16950" },
       { "term": "202340", "crn": "40986" },
@@ -437,6 +455,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "32100" },
+      { "term": "202430", "crn": "41621" },
       { "term": "202330", "crn": "32339" },
       { "term": "202330", "crn": "30939" }
     ],
@@ -470,6 +489,7 @@
     "sections": [
       { "term": "202430", "crn": "30744" },
       { "term": "202430", "crn": "33135" },
+      { "term": "202430", "crn": "41618" },
       { "term": "202330", "crn": "30791" },
       { "term": "202330", "crn": "33546" },
       { "term": "202330", "crn": "30935" },
@@ -608,6 +628,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61055" },
+      { "term": "202440", "crn": "42084" },
       { "term": "202430", "crn": "40606" },
       { "term": "202360", "crn": "61385" }
     ],
@@ -653,6 +675,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41314" },
       { "term": "202410", "crn": "21578" },
       { "term": "202340", "crn": "42094" }
     ],

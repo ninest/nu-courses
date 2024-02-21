@@ -27,6 +27,9 @@
     "credits": 4,
     "nuPath": ["ER", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60593" },
+      { "term": "202440", "crn": "40202" },
+      { "term": "202440", "crn": "40970" },
       { "term": "202430", "crn": "30443" },
       { "term": "202410", "crn": "10232" },
       { "term": "202410", "crn": "18077" },
@@ -52,6 +55,18 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202460", "crn": "60180" },
+      { "term": "202460", "crn": "60822" },
+      { "term": "202460", "crn": "61278" },
+      { "term": "202460", "crn": "60858" },
+      { "term": "202460", "crn": "61174" },
+      { "term": "202460", "crn": "61501" },
+      { "term": "202440", "crn": "40025" },
+      { "term": "202440", "crn": "40171" },
+      { "term": "202440", "crn": "40700" },
+      { "term": "202440", "crn": "40995" },
+      { "term": "202440", "crn": "41004" },
+      { "term": "202440", "crn": "41495" },
       { "term": "202430", "crn": "30442" },
       { "term": "202430", "crn": "30441" },
       { "term": "202430", "crn": "31842" },
@@ -131,6 +146,10 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202460", "crn": "60981" },
+      { "term": "202460", "crn": "60602" },
+      { "term": "202440", "crn": "40392" },
+      { "term": "202440", "crn": "40701" },
       { "term": "202430", "crn": "32944" },
       { "term": "202430", "crn": "39039" },
       { "term": "202430", "crn": "33357" },
@@ -197,6 +216,8 @@
     "credits": 4,
     "nuPath": ["SI"],
     "sections": [
+      { "term": "202460", "crn": "60198" },
+      { "term": "202440", "crn": "40203" },
       { "term": "202430", "crn": "31559" },
       { "term": "202430", "crn": "40646" },
       { "term": "202410", "crn": "11727" },
@@ -221,6 +242,7 @@
     "nuPath": ["IC"],
     "sections": [
       { "term": "202430", "crn": "30790" },
+      { "term": "202430", "crn": "41003" },
       { "term": "202410", "crn": "12076" },
       { "term": "202340", "crn": "40435" },
       { "term": "202330", "crn": "30841" },
@@ -241,6 +263,8 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202460", "crn": "60464" },
+      { "term": "202440", "crn": "40540" },
       { "term": "202430", "crn": "32905" },
       { "term": "202430", "crn": "39843" },
       { "term": "202410", "crn": "11728" },
@@ -263,8 +287,10 @@
     "title": "Principles of Organizational Communication",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["EX", "IC"],
+    "nuPath": ["IC", "EX"],
     "sections": [
+      { "term": "202460", "crn": "60334" },
+      { "term": "202440", "crn": "40345" },
       { "term": "202430", "crn": "32273" },
       { "term": "202430", "crn": "40647" },
       { "term": "202410", "crn": "19555" },
@@ -340,6 +366,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202460", "crn": "60567" },
       { "term": "202430", "crn": "39041" },
       { "term": "202360", "crn": "60631" },
       { "term": "202310", "crn": "14157" },
@@ -421,6 +448,7 @@
     "credits": 4,
     "nuPath": ["DD", "ER"],
     "sections": [
+      { "term": "202440", "crn": "41248" },
       { "term": "202430", "crn": "33271" },
       { "term": "202430", "crn": "33749" },
       { "term": "202430", "crn": "39046" },
@@ -453,6 +481,8 @@
     "credits": 4,
     "nuPath": ["DD"],
     "sections": [
+      { "term": "202460", "crn": "60308" },
+      { "term": "202440", "crn": "40372" },
       { "term": "202360", "crn": "60327" },
       { "term": "202340", "crn": "40410" },
       { "term": "202260", "crn": "60347" },
@@ -486,6 +516,8 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202460", "crn": "60465" },
+      { "term": "202440", "crn": "40541" },
       { "term": "202430", "crn": "36502" },
       { "term": "202410", "crn": "13552" },
       { "term": "202410", "crn": "19560" },
@@ -508,6 +540,8 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202460", "crn": "60205" },
+      { "term": "202440", "crn": "40194" },
       { "term": "202430", "crn": "30787" },
       { "term": "202430", "crn": "30788" },
       { "term": "202430", "crn": "30935" },
@@ -538,6 +572,8 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60293" },
+      { "term": "202440", "crn": "40243" },
       { "term": "202430", "crn": "32340" },
       { "term": "202430", "crn": "36503" },
       { "term": "202410", "crn": "12295" },
@@ -566,6 +602,8 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60333" },
+      { "term": "202440", "crn": "40172" },
       { "term": "202430", "crn": "36504" },
       { "term": "202430", "crn": "31512" },
       { "term": "202430", "crn": "33750" },
@@ -600,6 +638,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202440", "crn": "40088" },
       { "term": "202430", "crn": "30789" },
       { "term": "202430", "crn": "31526" },
       { "term": "202410", "crn": "10971" },
@@ -737,6 +776,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202440", "crn": "40446" },
       { "term": "202410", "crn": "11972" },
       { "term": "202340", "crn": "40496" },
       { "term": "202310", "crn": "12210" },
@@ -787,7 +827,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC"],
-    "sections": [{ "term": "202340", "crn": "41636" }],
+    "sections": [
+      { "term": "202460", "crn": "61502" },
+      { "term": "202340", "crn": "41636" }
+    ],
     "description": "Offers students an opportunity to engage with a specific genre, using historical and critical methods, to better understand this reciprocal relationship between a people and their moment. Successful completion of this course enables one to recall, compare, and give examples of key concepts and theories in popular communication; understand how the popular shapes and is shaped by its people; understand the historical context of a popular genre; critically analyze a genre with respect to social, economic, and political values and events; and demonstrate proficiency in communicating one's analyses. Genres of popular communication—be they self-help books, speculative fiction, or fashion blogs—reflect the aspirations and fears of a people at their moment in history. Simultaneously, popular communication shapes people’s sense of identity, purpose, and worth.",
     "coreqs": [],
     "prereqs": []
@@ -815,12 +858,26 @@
     "credits": 4,
     "nuPath": ["IC"],
     "sections": [
+      { "term": "202460", "crn": "60421" },
+      { "term": "202440", "crn": "40477" },
       { "term": "202360", "crn": "60453" },
       { "term": "202340", "crn": "40538" },
       { "term": "202260", "crn": "60489" },
       { "term": "202240", "crn": "40587" }
     ],
     "description": "Introduces students to the lens of performance studies, the world of sports, and the intersection of the two in the field of communication studies. Addresses performance as a cultural and communicative process that enables us to constitute our identities and our lives. Explores how our lives and identities are performed in space and time, while applying those same concepts to athletes and athletic competition. Offers students an opportunity to understand key concepts in performance studies such as ritual, play, performativity, performing, and performance processes.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "COMM",
+    "number": "2900",
+    "title": "Sports, Politics, and Communication",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["SI"],
+    "sections": [{ "term": "202440", "crn": "41861" }],
+    "description": "Critiques historical and current examples of the intersection of sport and politics and applies relevant communication theory in written reviews of these events, how those events were covered by the media, and their societal impact domestically and globally. Topics include the influence of sport on political protest; gender, racial, and labor issues; and current marketing practices. Offers students an opportunity to develop frameworks and conceptual tools for understanding the intersection of sport and politics through the lens of communication studies.",
     "coreqs": [],
     "prereqs": []
   },
@@ -837,15 +894,7 @@
     ],
     "description": "Introduces students to the landscape of mobile communication technologies. Takes a broad view of what “mobile,” “communication,” and “technology” mean in the past, present, and future, encompassing a range of digital and nondigital objects as well as technological and communicative practices. Covers core concepts and theories in mobile communication, focusing on the impact that mobile hardware and software have on society, culture, and politics.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "COMM",
@@ -855,6 +904,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202440", "crn": "40703" },
       { "term": "202430", "crn": "34983" },
       { "term": "202430", "crn": "32458" },
       { "term": "202430", "crn": "39051" },
@@ -869,15 +919,7 @@
     ],
     "description": "Explores various topics as they relate to health communication including interpersonal aspects, cultural issues, and political complexities of health. Subject matter includes patient-provider communication, organizational systems, advertising in the health industry, and the role of media in the formation of expectations about health and the use of media to promote social change.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "COMM",
@@ -887,6 +929,12 @@
     "credits": 4,
     "nuPath": ["WI", "EX"],
     "sections": [
+      { "term": "202460", "crn": "61293" },
+      { "term": "202460", "crn": "60359" },
+      { "term": "202460", "crn": "60828" },
+      { "term": "202440", "crn": "40133" },
+      { "term": "202440", "crn": "40990" },
+      { "term": "202440", "crn": "41669" },
       { "term": "202430", "crn": "34268" },
       { "term": "202430", "crn": "36510" },
       { "term": "202430", "crn": "37898" },
@@ -929,6 +977,8 @@
     "credits": 4,
     "nuPath": ["DD", "WI"],
     "sections": [
+      { "term": "202460", "crn": "61503" },
+      { "term": "202440", "crn": "41794" },
       { "term": "202430", "crn": "39052" },
       { "term": "202430", "crn": "33272" },
       { "term": "202410", "crn": "20672" },
@@ -985,6 +1035,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40357" },
       { "term": "202430", "crn": "36511" },
       { "term": "202430", "crn": "32749" },
       { "term": "202410", "crn": "13037" },
@@ -1037,6 +1088,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202460", "crn": "60821" },
       { "term": "202430", "crn": "35632" },
       { "term": "202410", "crn": "14362" },
       { "term": "202360", "crn": "61047" },
@@ -1148,15 +1200,7 @@
     ],
     "description": "Provides students with an opportunity to better understand freedom and limits to freedom, particularly in the realm of speech and expression. Materials covered range from the philosophy of freedom to historical legal cases about free speech and the press to political correctness and the repression of dissent.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "COMM",
@@ -1194,15 +1238,7 @@
     "sections": [{ "term": "202330", "crn": "34351" }],
     "description": "Explores both theories of conflict and potential strategies for more effectively managing conflict in a variety of contexts, that is, interpersonal relationships, organizational settings, and broader societal contexts. Offers students the opportunity to participate in the process of conflict assessment and to explore various negotiation strategies as well as discuss the role of forgiveness in conflict situations.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "COMM",
@@ -1235,7 +1271,7 @@
     "scheduleType": "Studio",
     "credits": 4,
     "nuPath": ["EI"],
-    "sections": [],
+    "sections": [{ "term": "202460", "crn": "61504" }],
     "description": "Addresses the changes in editing practices through digitization and offers students advanced training in nonlinear editing utilizing Avid Media Composer. Introduces the terms and concepts of nonlinear editing as well as the technical/creative aspects of postproduction. Students are expected to have a working knowledge of digital video equipment and Macintosh computer skills.",
     "coreqs": [],
     "prereqs": []
@@ -1248,6 +1284,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202440", "crn": "41134" },
       { "term": "202430", "crn": "31844" },
       { "term": "202410", "crn": "19570" },
       { "term": "202340", "crn": "41639" }
@@ -1265,7 +1302,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39058" },
-      { "term": "202430", "crn": "39059" },
       { "term": "202330", "crn": "39246" }
     ],
     "description": "Immerses students in a real-life television newsroom experience. Exposes students to all aspects of TV news production: from news gathering, producing, and being in front of the camera to the behind-the-scenes work of operating multiple cameras, live switching, audio mixing, and studio lighting. Allows students to be an integral part of a newsroom team, working as reporters, anchors, videographers, and editors to gather content and work in the studio to produce a Northeastern newscast covering news on campus and beyond. Involves hands-on reporting and production where the stories are real and so are the deadlines.",
@@ -1311,6 +1347,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202440", "crn": "41795" },
       { "term": "202430", "crn": "39061" },
       { "term": "202310", "crn": "14994" }
     ],
@@ -1383,7 +1420,7 @@
     "title": "Online Communities",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["CE"],
+    "nuPath": ["CE", "EX"],
     "sections": [
       { "term": "202430", "crn": "37271" },
       { "term": "202330", "crn": "39304" },
@@ -1504,7 +1541,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "37508" },
       { "term": "202430", "crn": "39062" },
       { "term": "202330", "crn": "39548" }
     ],
@@ -1560,7 +1596,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "35406" },
       { "term": "202410", "crn": "20678" },
       { "term": "202330", "crn": "36859" }
     ],

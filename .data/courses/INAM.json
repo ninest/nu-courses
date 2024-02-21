@@ -6,9 +6,9 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": ["ER"],
-    "sections": [{ "term": "202430", "crn": "39854" }],
+    "sections": [],
     "description": "Examines drama in everyday life—on stages, streets, and screens—and investigates the tribulations and promises of role-playing in ordinary narratives. Topics may include tragedy and trauma, identity and identification, catharsis and psychoanalysis, and the relationship between sacrifice and personal development. Interrogates how role-playing and drama—in all its forms—permeates our social relations. Experiments with rewriting the dramatic narrative of our everyday life experiences.",
-    "coreqs": [{ "subject": "INAM", "number": "1301" }],
+    "coreqs": [],
     "prereqs": []
   },
   {
@@ -18,9 +18,9 @@
     "scheduleType": "Seminar",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "39855" }],
+    "sections": [],
     "description": "Accompanies INAM 1300. Engages in detailed discussions about the assigned readings and weekly topics.",
-    "coreqs": [{ "subject": "INAM", "number": "1300" }],
+    "coreqs": [],
     "prereqs": []
   },
   {
@@ -37,6 +37,21 @@
       { "term": "202310", "crn": "15991" }
     ],
     "description": "Studies the role of ethics in creative practice. Offers students an opportunity to reflect on many of the concerns creative professionals face, such as how creative practitioners manifest care as a social intervention for building intimacy, healing, and hope across communities and how to develop and articulate creative goals. From the rhetoric of trust and authenticity, to honesty and generosity, ethical concepts consistently make their way into creative practice. Examines (and affords students an opportunity to hone) strategies to systematically navigate uncertainty and iteration within creative practice, culminating in a student final creative project. Readings focus on ethical paradigms that illustrate how systems of power shape the role of creative practices in society.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INAM",
+    "number": "2183",
+    "title": "Interdisciplinary Special Topics: Pop-up Course",
+    "scheduleType": "Seminar",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202430", "crn": "40879" },
+      { "term": "202430", "crn": "41319" }
+    ],
+    "description": "Overall, the three main objectives of this class are for you to learn about research regarding happiness, to commit to make changes to increase your happiness (present and future) and to connect concepts from this class to your previous coursework and experiential education while at Northeastern University.",
     "coreqs": [],
     "prereqs": []
   },
@@ -72,6 +87,15 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41628" },
+      { "term": "202430", "crn": "41629" },
+      { "term": "202430", "crn": "41633" },
+      { "term": "202430", "crn": "41636" },
+      { "term": "202430", "crn": "41634" },
+      { "term": "202430", "crn": "41637" },
+      { "term": "202430", "crn": "41638" },
+      { "term": "202430", "crn": "41639" },
+      { "term": "202430", "crn": "41640" },
       { "term": "202410", "crn": "21073" },
       { "term": "202410", "crn": "21076" },
       { "term": "202410", "crn": "21077" },
@@ -122,10 +146,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38206" },
-      { "term": "202430", "crn": "38344" },
-      { "term": "202430", "crn": "38420" },
       { "term": "202430", "crn": "38455" },
+      { "term": "202430", "crn": "41683" },
       { "term": "202330", "crn": "40295" },
       { "term": "202330", "crn": "40449" },
       { "term": "202330", "crn": "40526" },
@@ -142,10 +164,11 @@
     "title": "Special Top: GR Music Perf/Com",
     "scheduleType": "Lecture",
     "credits": 3,
-    "nuPath": [],
+    "nuPath": ["EX"],
     "sections": [
       { "term": "202430", "crn": "39783" },
       { "term": "202430", "crn": "40501" },
+      { "term": "202430", "crn": "40805" },
       { "term": "202430", "crn": "37879" },
       { "term": "202430", "crn": "37975" },
       { "term": "202430", "crn": "38548" },
@@ -260,22 +283,29 @@
   },
   {
     "subject": "INAM",
+    "number": "6360",
+    "title": "Ethnographic Methods and the Arts",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40865" }],
+    "description": "Considers what ethnography might teach us about creative industries, what it contributes to marketplace research and decision making, and how it informs creative practice. Ethnography uses participant/observation and other methods of collecting qualitative data to research specific social groups and their cultures. Asks for what purposes ethnographic methods are best suited and how ethnography might contribute to cross-cultural understanding, arts leadership, and creative practice. Covers what unique methodological issues ethnographic research in the arts might pose. Offers graduate students an opportunity to develop, with faculty guidance, an original research proposal and independently practice ethnographic methods.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INAM",
     "number": "6976",
     "title": "Directed Study",
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "37952" },
-      { "term": "202430", "crn": "38059" },
-      { "term": "202430", "crn": "38128" },
-      { "term": "202430", "crn": "38257" },
-      { "term": "202430", "crn": "38304" },
-      { "term": "202430", "crn": "38314" },
       { "term": "202430", "crn": "38342" },
       { "term": "202430", "crn": "38403" },
-      { "term": "202430", "crn": "38417" },
-      { "term": "202430", "crn": "38472" },
+      { "term": "202430", "crn": "41559" },
+      { "term": "202430", "crn": "41749" },
+      { "term": "202430", "crn": "41862" },
       { "term": "202410", "crn": "19203" },
       { "term": "202410", "crn": "21948" },
       { "term": "202360", "crn": "61801" },
@@ -397,7 +427,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "40703" },
       { "term": "202350", "crn": "53148" },
       { "term": "202350", "crn": "53389" }
     ],
@@ -413,10 +442,15 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41273" },
+      { "term": "202430", "crn": "41505" },
+      { "term": "202430", "crn": "41579" },
+      { "term": "202430", "crn": "41865" },
       { "term": "202410", "crn": "21446" },
       { "term": "202410", "crn": "21480" },
       { "term": "202410", "crn": "22087" },
       { "term": "202410", "crn": "22529" },
+      { "term": "202410", "crn": "22578" },
       { "term": "202360", "crn": "61825" },
       { "term": "202350", "crn": "53254" },
       { "term": "202350", "crn": "53261" },

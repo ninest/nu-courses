@@ -31,7 +31,11 @@
     ],
     "description": "Continues an exploration of network science and the set of analytical, numerical, and modeling tools used to understand complex networks emerging in nature and technology. Focuses on the empirical study of real networks. Investigates the organizing principles that govern the emergence of networks and the set of tools necessary to characterize and model them. Offers students an opportunity to obtain a deeper understanding of complex systems.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PHYS", "number": "5116" }]
+    "prereqs": [
+      { "subject": "PHYS", "number": "5116" },
+      "Or",
+      { "subject": "NETS", "number": "5116" }
+    ]
   },
   {
     "subject": "NETS",
@@ -43,7 +47,7 @@
     "sections": [{ "term": "202410", "crn": "19900" }],
     "description": "The course will meet at 177 Huntington Ave, 2nd floor Conference Room (207).",
     "coreqs": [],
-    "prereqs": [{ "subject": "PHYS", "number": "5116" }]
+    "prereqs": []
   },
   {
     "subject": "NETS",
@@ -111,6 +115,12 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41061" },
+      { "term": "202430", "crn": "41340" },
+      { "term": "202430", "crn": "41578" },
+      { "term": "202430", "crn": "41789" },
+      { "term": "202430", "crn": "41548" },
+      { "term": "202430", "crn": "41710" },
       { "term": "202410", "crn": "16144" },
       { "term": "202410", "crn": "19142" },
       { "term": "202410", "crn": "19259" },
@@ -180,6 +190,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41232" },
+      { "term": "202430", "crn": "41591" },
+      { "term": "202430", "crn": "41734" },
       { "term": "202410", "crn": "17503" },
       { "term": "202410", "crn": "17504" },
       { "term": "202410", "crn": "17505" },
@@ -230,6 +243,11 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61413" },
+      { "term": "202430", "crn": "40998" },
+      { "term": "202430", "crn": "40999" },
+      { "term": "202430", "crn": "41753" },
+      { "term": "202430", "crn": "41793" },
       { "term": "202410", "crn": "15451" },
       { "term": "202410", "crn": "15866" },
       { "term": "202410", "crn": "15952" },

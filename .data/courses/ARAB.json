@@ -93,10 +93,6 @@
     "sections": [{ "term": "202430", "crn": "37270" }],
     "description": "Continues development of vocabulary. Offers students an opportunity to further develop grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ARAB", "number": "2102" },
-      "Or",
-      { "subject": "ARAB", "number": "2302" }
-    ]
+    "prereqs": []
   }
 ]

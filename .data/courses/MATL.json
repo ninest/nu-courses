@@ -1,6 +1,18 @@
 [
   {
     "subject": "MATL",
+    "number": "5380",
+    "title": "Particulate Materials Processing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202440", "crn": "41822" }],
+    "description": "Covers the processing of metallic and ceramic materials from particulate form. Includes particulate fabrication, characterization, handling, and consolidation for alloys, ceramics, and composites. Other topics include the principles of sintering in the absence and presence of liquid, advanced materials processing by rapid-solidification powder metallurgy, and the processing and structures of advanced ceramics.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MATL",
     "number": "6250",
     "title": "Soft Matter",
     "scheduleType": "Lecture",
@@ -120,11 +132,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "33573" },
-      { "term": "202430", "crn": "33591" },
-      { "term": "202350", "crn": "53022" }
-    ],
+    "sections": [{ "term": "202350", "crn": "53022" }],
     "description": "Offers theoretical or experimental work under individual faculty supervision.",
     "coreqs": [],
     "prereqs": []
@@ -136,12 +144,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "31780" },
-      { "term": "202430", "crn": "30913" },
-      { "term": "202430", "crn": "31360" },
-      { "term": "202430", "crn": "32991" }
-    ],
+    "sections": [{ "term": "202430", "crn": "41030" }],
     "description": "Offers theoretical or experimental work under individual faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -155,13 +158,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "31189" },
-      { "term": "202430", "crn": "32695" },
-      { "term": "202430", "crn": "38358" },
-      { "term": "202430", "crn": "34471" },
-      { "term": "202430", "crn": "30652" },
-      { "term": "202430", "crn": "30651" },
-      { "term": "202430", "crn": "30774" },
-      { "term": "202430", "crn": "31500" },
       { "term": "202330", "crn": "40464" }
     ],
     "description": "Offers analytical and/or experimental work conducted under the direction of the faculty in fulfillment of the requirements for the degree. Requires first-year students to attend a graduate seminar program that introduces the students to the methods of choosing a research topic, conducting research, and preparing a thesis. Requires successful completion of the seminar program. May be repeated without limit.",
@@ -175,14 +171,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "32069" },
-      { "term": "202430", "crn": "30650" },
-      { "term": "202430", "crn": "30649" },
-      { "term": "202430", "crn": "31190" },
-      { "term": "202430", "crn": "31191" },
-      { "term": "202430", "crn": "31192" }
-    ],
+    "sections": [{ "term": "202430", "crn": "41653" }],
     "description": "Offers continuing master's thesis supervision under individual faculty supervision.",
     "coreqs": [],
     "prereqs": []

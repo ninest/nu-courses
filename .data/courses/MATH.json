@@ -51,6 +51,9 @@
     "credits": 4,
     "nuPath": ["AD", "FQ"],
     "sections": [
+      { "term": "202460", "crn": "60102" },
+      { "term": "202440", "crn": "40091" },
+      { "term": "202440", "crn": "40097" },
       { "term": "202430", "crn": "30049" },
       { "term": "202430", "crn": "34048" },
       { "term": "202430", "crn": "30326" },
@@ -91,10 +94,7 @@
     "scheduleType": "Recitation/Discussion",
     "credits": 0,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "30950" },
-      { "term": "202330", "crn": "31016" }
-    ],
+    "sections": [{ "term": "202330", "crn": "31016" }],
     "description": "Provides small-group discussion format to cover material in MATH 1215.",
     "coreqs": [],
     "prereqs": []
@@ -122,6 +122,9 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202460", "crn": "61219" },
+      { "term": "202440", "crn": "40010" },
+      { "term": "202440", "crn": "40107" },
       { "term": "202430", "crn": "30322" },
       { "term": "202430", "crn": "30321" },
       { "term": "202430", "crn": "30320" },
@@ -129,9 +132,8 @@
       { "term": "202430", "crn": "30318" },
       { "term": "202430", "crn": "30100" },
       { "term": "202430", "crn": "30050" },
-      { "term": "202430", "crn": "37130" },
-      { "term": "202430", "crn": "40682" },
       { "term": "202430", "crn": "40683" },
+      { "term": "202430", "crn": "41557" },
       { "term": "202410", "crn": "10249" },
       { "term": "202410", "crn": "10476" },
       { "term": "202410", "crn": "10533" },
@@ -185,6 +187,8 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202440", "crn": "40003" },
+      { "term": "202440", "crn": "40606" },
       { "term": "202430", "crn": "33643" },
       { "term": "202430", "crn": "33644" },
       { "term": "202430", "crn": "37735" },
@@ -338,10 +342,10 @@
       { "term": "202430", "crn": "35887" },
       { "term": "202430", "crn": "37042" },
       { "term": "202430", "crn": "39629" },
+      { "term": "202430", "crn": "40490" },
       { "term": "202430", "crn": "40489" },
       { "term": "202430", "crn": "40604" },
       { "term": "202430", "crn": "37131" },
-      { "term": "202430", "crn": "40490" },
       { "term": "202410", "crn": "11926" },
       { "term": "202410", "crn": "10473" },
       { "term": "202410", "crn": "10527" },
@@ -405,6 +409,11 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202460", "crn": "60035" },
+      { "term": "202460", "crn": "60148" },
+      { "term": "202440", "crn": "40032" },
+      { "term": "202440", "crn": "40040" },
+      { "term": "202440", "crn": "40099" },
       { "term": "202430", "crn": "30113" },
       { "term": "202430", "crn": "30112" },
       { "term": "202430", "crn": "31786" },
@@ -579,6 +588,11 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202460", "crn": "60963" },
+      { "term": "202440", "crn": "40002" },
+      { "term": "202440", "crn": "40111" },
+      { "term": "202440", "crn": "40736" },
+      { "term": "202440", "crn": "40737" },
       { "term": "202430", "crn": "37081" },
       { "term": "202430", "crn": "30466" },
       { "term": "202430", "crn": "30467" },
@@ -592,6 +606,7 @@
       { "term": "202430", "crn": "32272" },
       { "term": "202430", "crn": "35860" },
       { "term": "202430", "crn": "37581" },
+      { "term": "202430", "crn": "41013" },
       { "term": "202410", "crn": "10035" },
       { "term": "202410", "crn": "10252" },
       { "term": "202410", "crn": "17347" },
@@ -685,11 +700,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60034" },
+      { "term": "202440", "crn": "40434" },
+      { "term": "202440", "crn": "41958" },
       { "term": "202430", "crn": "30303" },
       { "term": "202430", "crn": "30873" },
       { "term": "202430", "crn": "34006" },
-      { "term": "202430", "crn": "34429" },
-      { "term": "202430", "crn": "35726" },
       { "term": "202410", "crn": "13937" },
       { "term": "202410", "crn": "13952" },
       { "term": "202410", "crn": "13951" },
@@ -735,6 +751,11 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60008" },
+      { "term": "202460", "crn": "60132" },
+      { "term": "202440", "crn": "40245" },
+      { "term": "202440", "crn": "40337" },
+      { "term": "202440", "crn": "40731" },
       { "term": "202430", "crn": "37026" },
       { "term": "202430", "crn": "30304" },
       { "term": "202430", "crn": "32109" },
@@ -798,7 +819,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "32736" },
       { "term": "202410", "crn": "10524" },
       { "term": "202330", "crn": "33078" },
       { "term": "202310", "crn": "10562" }
@@ -832,11 +852,15 @@
     "credits": 4,
     "nuPath": ["AD"],
     "sections": [
+      { "term": "202460", "crn": "60328" },
+      { "term": "202460", "crn": "60151" },
+      { "term": "202440", "crn": "40031" },
+      { "term": "202440", "crn": "40561" },
+      { "term": "202440", "crn": "41959" },
       { "term": "202430", "crn": "30208" },
       { "term": "202430", "crn": "30183" },
       { "term": "202430", "crn": "31386" },
       { "term": "202430", "crn": "31387" },
-      { "term": "202430", "crn": "32657" },
       { "term": "202430", "crn": "37713" },
       { "term": "202410", "crn": "10410" },
       { "term": "202410", "crn": "10409" },
@@ -939,8 +963,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60298" },
       { "term": "202430", "crn": "30096" },
       { "term": "202430", "crn": "32348" },
+      { "term": "202430", "crn": "41594" },
       { "term": "202410", "crn": "11123" },
       { "term": "202410", "crn": "12098" },
       { "term": "202410", "crn": "12414" },
@@ -955,11 +981,7 @@
     ],
     "description": "Presents basic concepts and techniques of the group theory: symmetry groups, axiomatic definition of groups, important classes of groups (abelian groups, cyclic groups, additive and multiplicative groups of residues, and permutation groups), Cayley table, subgroups, group homomorphism, cosets, the Lagrange theorem, normal subgroups, quotient groups, and direct products. Studies structural properties of groups. Possible applications include geometry, number theory, crystallography, physics, and combinatorics.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "MATH", "number": "2321" },
-      "And",
-      { "subject": "MATH", "number": "2331" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MATH",
@@ -976,7 +998,7 @@
     ],
     "description": "Focuses on probability theory needed to prepare students for research and advanced coursework in the physical and data sciences. Examples and homework problems come from physics, chemistry, biology, computer science, data science, and electrical engineering. Topics include sample spaces; conditional probability and independence; discrete and continuous probability distributions for one and for several random variables; expectation; variance; special distributions including binomial, Poisson, and normal distributions; law of large numbers; and the central limit theorem. Introduces basic statistical theory including estimation of parameters, confidence intervals, and hypothesis testing. This course is proof-based and emphasizes developing students' abilities in mathematical proof writing.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MATH", "number": "2321" }]
+    "prereqs": []
   },
   {
     "subject": "MATH",
@@ -1040,6 +1062,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60605" },
+      { "term": "202440", "crn": "40174" },
       { "term": "202430", "crn": "31738" },
       { "term": "202430", "crn": "32738" },
       { "term": "202360", "crn": "60680" },
@@ -1086,6 +1110,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40732" },
       { "term": "202430", "crn": "30504" },
       { "term": "202340", "crn": "40872" },
       { "term": "202330", "crn": "30521" },
@@ -1126,7 +1151,7 @@
     "sections": [{ "term": "202360", "crn": "61396" }],
     "description": "Introduces one-dimensional discrete real and complex dynamics, chaotic dynamics, and fractals, with an emphasis on computational and graphical exploration. Studies orbits and periodic iteration behavior of real and complex-valued function, attracting cycles, itineraries, symbolic dynamics, chaos, classical fractal constructions, Minkowski dimension, Julia sets, and the Mandelbrot set.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MATH", "number": "1342" }]
+    "prereqs": []
   },
   {
     "subject": "MATH",
@@ -1161,6 +1186,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40733" },
       { "term": "202410", "crn": "13025" },
       { "term": "202340", "crn": "40875" },
       { "term": "202310", "crn": "13420" },
@@ -1189,11 +1215,7 @@
     ],
     "description": "Offers students the experience of engaging in mathematical research that builds upon the math courses that they have taken and, possibly, their co-op assignments. Requires students to complete a research project of their own choosing. Focus is on the project and on the students presenting their work. Also requires students to write a reflection paper. Intended for juniors or seniors with experience or interest in mathematics research. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "MATH", "number": "3150" },
-      "And",
-      { "subject": "MATH", "number": "3175" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MATH",
@@ -1208,7 +1230,7 @@
     ],
     "description": "Emphasizes the use of a variety of methods—such as optimization, differential equations, probability, and statistics—to study problems that arise in epidemiology, finance, and other real-world settings. Course work includes assigned exercises, a long-term modeling project on a topic of the student's choosing, and a reflection paper.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MATH", "number": "3081" }]
+    "prereqs": []
   },
   {
     "subject": "MATH",
@@ -1356,7 +1378,7 @@
     ],
     "description": "Introduces commutative rings, ideals, integral domains, fields, and the theory of extension fields. Topics include Gaussian integers, Galois groups, and the fundamental theorem of Galois theory. Applications include the impossibility of angle-trisection and the general insolvability of fifth- and higher-degree polynomials. Other topics are covered as time permits.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MATH", "number": "3175" }]
+    "prereqs": []
   },
   {
     "subject": "MATH",
@@ -1388,6 +1410,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60170" },
+      { "term": "202440", "crn": "41960" },
       { "term": "202430", "crn": "30481" },
       { "term": "202430", "crn": "31585" },
       { "term": "202410", "crn": "11835" },
@@ -1402,7 +1426,7 @@
     ],
     "description": "Continues topics introduced in MATH 3081. The first part of the course covers classical procedures of statistics including the t-test, linear regression, and the chi-square test. The second part provides an introduction to stochastic processes with emphasis on Markov chains, random walks, and Brownian motion, with applications to modeling and finance.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MATH", "number": "3081" }]
+    "prereqs": []
   },
   {
     "subject": "MATH",
@@ -1412,6 +1436,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40444" },
       { "term": "202410", "crn": "13427" },
       { "term": "202340", "crn": "40493" },
       { "term": "202310", "crn": "13902" },
@@ -1500,6 +1525,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61070" },
       { "term": "202410", "crn": "13780" },
       { "term": "202360", "crn": "61400" },
       { "term": "202310", "crn": "14308" }
@@ -1548,11 +1574,7 @@
     "sections": [{ "term": "202330", "crn": "38994" }],
     "description": "Covers differentiable manifolds, such as tangent bundles, tensor bundles, vector fields, Frobenius integrability theorem, differential forms, Stokes' theorem, and de Rham cohomology; and curves and surfaces, such as elementary theory of curves and surfaces in R3, fundamental theorem of surfaces in R3, surfaces with constant Gauss or mean curvature, and Gauss-Bonnet theorem for surfaces. Requires permission of instructor and head advisor for undergraduate students.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "MATH", "number": "5101" },
-      "And",
-      { "subject": "MATH", "number": "5111" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MATH",
@@ -1621,6 +1643,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60868" },
+      { "term": "202440", "crn": "40387" },
+      { "term": "202440", "crn": "41583" },
       { "term": "202430", "crn": "32285" },
       { "term": "202410", "crn": "12965" },
       { "term": "202360", "crn": "61146" },
@@ -1739,10 +1764,23 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41862" },
       { "term": "202410", "crn": "20548" },
       { "term": "202330", "crn": "31454" }
     ],
     "description": "Offers theory and methods of maximizing and minimizing solutions to various types of problems. Studies combinatorial problems including mixed integer programming problems (MIP); pure integer programming problems (IP); Boolean programming problems; and linear programming problems (LP). Topics include convex subsets and polyhedral subsets of n-space; relationship between an LP problem and its dual LP problem, and the duality theorem; simplex algorithm, and Kuhn-Tucker conditions for optimality for nonlinear functions; and network problems, such as minimum cost and maximum flow-minimum cut. Also may cover complexity of algorithms; problem classes P (problems with polynomial-time algorithms) and NP (problems with nondeterministic polynomial-time algorithms); Turing machines; and NP-completeness of traveling salesman problem and other well-known problems.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MATH",
+    "number": "7235",
+    "title": "Discrete Geometry 1",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41052" }],
+    "description": "Discusses basic concepts in discrete and combinatorial geometry. Topics may include convex sets and their basic properties; theorems of Helly, Radon, and Carath&#233;odory; separation theorems for convex bodies; convex polytopes; face vectors; Euler's theorem and Dehn-Sommerville equations; upper bound theorem; symmetry groups; regular polytopes and tessellations; reflection groups and Coxeter groups; regular tessellations on surfaces; abstract regular and chiral polytopes; and other topics at instructor's discretion.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1809,6 +1847,18 @@
   },
   {
     "subject": "MATH",
+    "number": "7314",
+    "title": "Algebraic Geometry 1",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41078" }],
+    "description": "Concentrates on the techniques of algebraic geometry arising from commutative and homological algebra, beginning with a discussion of the basic results for general algebraic varieties, and developing the necessary commutative algebra as needed. Considers affine and projective varieties, morphisms of algebraic varieties, regular and singular points, and normality. Discusses algebraic curves, with a closer look at the relations between the geometry, algebra, and function theories. Examines the Riemann-Roch theorem with its many applications to the study of the geometry of curves. Studies the singularities of curves.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "MATH", "number": "5112" }]
+  },
+  {
+    "subject": "MATH",
     "number": "7320",
     "title": "Modern Algebraic Geometry",
     "scheduleType": "Lecture",
@@ -1828,6 +1878,30 @@
   },
   {
     "subject": "MATH",
+    "number": "7321",
+    "title": "Topology 3",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41144" }],
+    "description": "Continues MATH 7221 and studies classical algebraic topology and its applications. Introduces homotopy theory. Topics include higher homotopy groups, cofibrations, fibrations, homotopy sequences, homotopy groups of Lie groups and homogeneous spaces, Hurewicz theorem, Whitehead theorem, Eilenberg-MacLane spaces, obstruction theory, Postnikov towers, and spectral sequences.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "MATH", "number": "7221" }]
+  },
+  {
+    "subject": "MATH",
+    "number": "7338",
+    "title": "Probability and Measure",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41055" }],
+    "description": "Focuses on measure-theoretic probability theory, with an emphasis on proofs. Introduces measure spaces and the different notions of convergence that are relevant for random variables. Studies the classical limit theorems about sums of independent, identically distributed random variables. Proves both the law of large numbers and central limit theorem under optimal assumptions. Covers the theory of martingales, with applications toward random walks, Markov chains, and continuous time diffusion processes.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "MATH", "number": "5102" }]
+  },
+  {
+    "subject": "MATH",
     "number": "7339",
     "title": "Machine Learning and Statistical Learning Theory 2",
     "scheduleType": "Lecture",
@@ -1840,15 +1914,7 @@
     ],
     "description": "Continues MATH 7243. Further covers theory and methods for regression and classification, along with more advanced topics in machine learning, statistical learning, and deep learning. Reviews the basics of machine learning in a broader and deeper way. Additional topics are drawn from smoothing methods, clustering, latent variable models, mixture models, Markov decision process and reinforcement learning, and neural networks. Discusses recent research papers on image classification and segmentation, generative adversarial network, neural style transfer, natural language processing, and topological data analysis. Uses theory, models, and algorithms to analyze a variety of datasets.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CS", "number": "6140" },
-      "Or",
-      { "subject": "DS", "number": "5220" },
-      "Or",
-      { "subject": "EECE", "number": "5644" },
-      "Or",
-      { "subject": "MATH", "number": "7243" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MATH",
@@ -1860,6 +1926,7 @@
     "sections": [
       { "term": "202430", "crn": "31994" },
       { "term": "202430", "crn": "37584" },
+      { "term": "202430", "crn": "41079" },
       { "term": "202410", "crn": "12073" },
       { "term": "202410", "crn": "20063" },
       { "term": "202330", "crn": "32227" },
@@ -1880,11 +1947,7 @@
     "sections": [{ "term": "202240", "crn": "41081" }],
     "description": "Continues MATH 7241. Studies probability theory, with an emphasis on its use in modeling and queueing theory. Starts with basic properties of exponential random variables, and then applies this to the study of the Poisson process. Queueing theory forms the bulk of the course, with analysis of single-server queues, multiserver queues, and networks of queues. Also includes material on continuous-time Markov processes, renewal theory, and Brownian motion.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "MATH", "number": "7241" },
-      "Or",
-      { "subject": "IE", "number": "6200" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MATH",
@@ -1997,17 +2060,7 @@
     "sections": [{ "term": "202310", "crn": "18694" }],
     "description": "Covers basic Morse theory for nondegenerate smooth functions, and applications to geodesics, Lie groups and symmetric spaces, Bott periodicity, Morse inequalities, and Witten deformation.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "MATH", "number": "5122" },
-      "Or",
-      { "subject": "MATH", "number": "5122" },
-      ")",
-      "And",
-      { "subject": "MATH", "number": "7221" },
-      "And",
-      { "subject": "MATH", "number": "7301" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "MATH",
@@ -2016,13 +2069,30 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "37476" },
-      { "term": "202330", "crn": "39516" }
-    ],
+    "sections": [{ "term": "202330", "crn": "39516" }],
     "description": "Offers various advanced topics in algebraic and geometric topology, the subject matter depending on the instructor and the students. Topics may include Morse theory, fiber bundles and characteristic classes, topology of complex hypersurfaces, knot theory and low-dimensional topology, K-theory, and rational homotopy theory. May be repeated without limit.",
     "coreqs": [],
     "prereqs": [{ "subject": "MATH", "number": "5121" }]
+  },
+  {
+    "subject": "MATH",
+    "number": "7381",
+    "title": "Topics in Combinatorics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41572" }],
+    "description": "Offers various advanced topics in combinatorics, the subject matter depending on the instructor and the students. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "MATH", "number": "5122" },
+      "Or",
+      { "subject": "MATH", "number": "5122" },
+      ")",
+      "And",
+      { "subject": "MATH", "number": "7222" }
+    ]
   },
   {
     "subject": "MATH",
@@ -2032,6 +2102,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41001" },
+      { "term": "202430", "crn": "41083" },
       { "term": "202410", "crn": "22142" },
       { "term": "202310", "crn": "21347" },
       { "term": "202310", "crn": "21680" }
@@ -2060,6 +2132,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41064" },
+      { "term": "202430", "crn": "41084" },
+      { "term": "202430", "crn": "41746" },
       { "term": "202410", "crn": "21386" },
       { "term": "202330", "crn": "39615" },
       { "term": "202330", "crn": "39652" },
@@ -2086,12 +2161,27 @@
   },
   {
     "subject": "MATH",
+    "number": "7736",
+    "title": "Readings in Discrete Geometry",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202440", "crn": "42043" }],
+    "description": "Offers a reading course to be arranged between an individual student and instructor on a topic of their mutual choice. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MATH",
     "number": "7741",
     "title": "Readings in Probability and Statistics",
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40976" },
+      { "term": "202430", "crn": "41583" },
+      { "term": "202430", "crn": "41693" },
       { "term": "202340", "crn": "42211" },
       { "term": "202330", "crn": "39099" },
       { "term": "202310", "crn": "20431" }
@@ -2108,12 +2198,25 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41582" },
       { "term": "202410", "crn": "22074" },
       { "term": "202330", "crn": "38874" },
       { "term": "202310", "crn": "21188" },
       { "term": "202310", "crn": "21313" }
     ],
     "description": "Offers topics in geometry that are beyond the ordinary undergraduate topics. Topics include the regular polytopes in dimensions greater than three, straight-edge and compass constructions in hyperbolic geometry, Penrose tilings, the geometry and algebra of the wallpaper, and three-dimensional Euclidean groups. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MATH",
+    "number": "7962",
+    "title": "Elective",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41674" }],
+    "description": "Offers elective credit for courses taken at other academic institutions. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
   },
@@ -2156,6 +2259,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60509" },
+      { "term": "202440", "crn": "40601" },
       { "term": "202360", "crn": "60563" },
       { "term": "202340", "crn": "40685" },
       { "term": "202330", "crn": "40374" },
@@ -2174,6 +2279,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60508" },
+      { "term": "202440", "crn": "40522" },
       { "term": "202360", "crn": "60562" },
       { "term": "202340", "crn": "40584" },
       { "term": "202260", "crn": "60636" },
@@ -2191,6 +2298,9 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41226" },
+      { "term": "202430", "crn": "41625" },
+      { "term": "202430", "crn": "41662" },
       { "term": "202410", "crn": "20741" },
       { "term": "202410", "crn": "21653" },
       { "term": "202410", "crn": "21793" },
@@ -2246,6 +2356,7 @@
       { "term": "202430", "crn": "40367" },
       { "term": "202430", "crn": "40366" },
       { "term": "202430", "crn": "40359" },
+      { "term": "202430", "crn": "41227" },
       { "term": "202410", "crn": "20742" },
       { "term": "202410", "crn": "20744" },
       { "term": "202410", "crn": "20746" },

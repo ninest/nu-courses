@@ -24,6 +24,15 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202460", "crn": "60747" },
+      { "term": "202460", "crn": "60820" },
+      { "term": "202460", "crn": "61069" },
+      { "term": "202460", "crn": "61556" },
+      { "term": "202460", "crn": "61557" },
+      { "term": "202440", "crn": "40852" },
+      { "term": "202440", "crn": "40969" },
+      { "term": "202440", "crn": "41003" },
+      { "term": "202440", "crn": "41788" },
       { "term": "202430", "crn": "39285" },
       { "term": "202430", "crn": "39286" },
       { "term": "202430", "crn": "39289" },
@@ -156,6 +165,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
+      { "term": "202460", "crn": "61080" },
       { "term": "202410", "crn": "11182" },
       { "term": "202360", "crn": "61412" },
       { "term": "202310", "crn": "11335" },
@@ -236,11 +246,7 @@
     "sections": [{ "term": "202430", "crn": "39820" }],
     "description": "Focuses on the practical, ethical, and theoretical issues underlying qualitative field research. Emphasizes firsthand experience with participation, observation, interviewing, note-taking, data analysis, and ethnographic writing.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ANTH", "number": "1101" },
-      "And",
-      { "subject": "SOCL", "number": "1101" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "SOCL",
@@ -257,15 +263,7 @@
     ],
     "description": "Introduces and sensitizes students to the forms, practices, and effects of racism and discrimination on the various populations in the United States and presents frameworks for understanding and working with people with histories of discrimination and different cultural identities. Pays special attention to human services with diverse populations in schools, prisons, and employment assistance programs.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1113" },
-      "Or",
-      { "subject": "ENGW", "number": "1114" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "SOCL",
@@ -389,8 +387,7 @@
     "credits": 4,
     "nuPath": ["DD", "SI"],
     "sections": [
-      { "term": "202430", "crn": "37265" },
-      { "term": "202430", "crn": "39297" },
+      { "term": "202430", "crn": "41588" },
       { "term": "202330", "crn": "39298" }
     ],
     "description": "Focuses on the social construction of race and ethnicity and the nature of dominant/minority relations in the United States. Emphasizes the peculiar evolution of race relations in U.S. history, the political and economic conditions that have transformed race relations, and the nature of contemporary racial and ethnic relations in the United States. Topics include immigration, ethnic and racial identity, discrimination, and race-based policies (e.g., residential restrictive codes, Jim Crow segregation). Offers students an opportunity to develop a critical lens from which to observe and interpret contemporary debates over structural racism.",
@@ -424,6 +421,10 @@
       { "subject": "ENGW", "number": "1102" },
       "Or",
       { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" },
       ")"
     ]
   },
@@ -531,6 +532,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202440", "crn": "41182" },
       { "term": "202340", "crn": "41688" },
       { "term": "202260", "crn": "61250" }
     ],
@@ -563,7 +565,11 @@
       { "subject": "ENGL", "number": "1111" },
       "Or",
       { "subject": "ENGL", "number": "1102" },
-      ")"
+      ")",
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
     ]
   },
   {
@@ -574,6 +580,7 @@
     "credits": 4,
     "nuPath": ["SI", "WI"],
     "sections": [
+      { "term": "202460", "crn": "61022" },
       { "term": "202410", "crn": "19456" },
       { "term": "202360", "crn": "61348" },
       { "term": "202330", "crn": "38235" },
@@ -583,7 +590,6 @@
     "description": "Offers students an opportunity to engage in advanced social science research on topics relating to environmental justice, citizen science, and environmental health. Examines various environmental justice topics with the goal of producing a research project or paper. Case studies examined include the impacts of toxic waste dumping on human health and the environment, the role of global climate change in creating new waves of migration around the world, the rise of the Slow Food movement, and the relationship between environmental and data justice. Studies how to redesign research methods, tools, and processes to support environmental justice.",
     "coreqs": [],
     "prereqs": [
-      "(",
       { "subject": "ANTH", "number": "1101" },
       "Or",
       { "subject": "CRIM", "number": "1100" },
@@ -611,7 +617,6 @@
       { "subject": "SOCL", "number": "1246" },
       "Or",
       { "subject": "WMNS", "number": "1103" },
-      ")",
       "And",
       "(",
       { "subject": "ENGL", "number": "1102" },
@@ -621,6 +626,10 @@
       { "subject": "ENGW", "number": "1102" },
       "Or",
       { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" },
       ")"
     ]
   },
@@ -910,6 +919,10 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41426" },
+      { "term": "202430", "crn": "41750" },
+      { "term": "202430", "crn": "41811" },
+      { "term": "202430", "crn": "41860" },
       { "term": "202410", "crn": "21639" },
       { "term": "202410", "crn": "22150" },
       { "term": "202360", "crn": "61784" },
@@ -938,6 +951,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "36263" },
+      { "term": "202430", "crn": "41157" },
+      { "term": "202430", "crn": "41217" },
+      { "term": "202430", "crn": "41574" },
       { "term": "202410", "crn": "18717" },
       { "term": "202410", "crn": "21514" },
       { "term": "202410", "crn": "21518" },
@@ -966,6 +982,12 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "36264" },
+      { "term": "202430", "crn": "41245" },
+      { "term": "202430", "crn": "41471" },
+      { "term": "202430", "crn": "41493" },
+      { "term": "202430", "crn": "41597" },
+      { "term": "202430", "crn": "41688" },
+      { "term": "202430", "crn": "41727" },
       { "term": "202410", "crn": "15732" },
       { "term": "202410", "crn": "21499" },
       { "term": "202410", "crn": "21577" },
@@ -999,7 +1021,7 @@
     ],
     "description": "Offers theoretical and experimental work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
-    "prereqs": [{ "subject": "SOCL", "number": "9000" }]
+    "prereqs": []
   },
   {
     "subject": "SOCL",
@@ -1015,7 +1037,7 @@
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
-    "prereqs": [{ "subject": "SOCL", "number": "9990" }]
+    "prereqs": []
   },
   {
     "subject": "SOCL",
@@ -1029,7 +1051,6 @@
       { "term": "202430", "crn": "37191" },
       { "term": "202430", "crn": "37925" },
       { "term": "202430", "crn": "40612" },
-      { "term": "202430", "crn": "40613" },
       { "term": "202410", "crn": "19460" },
       { "term": "202410", "crn": "21451" },
       { "term": "202410", "crn": "21452" },

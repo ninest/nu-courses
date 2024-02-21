@@ -92,6 +92,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202440", "crn": "40225" },
       { "term": "202430", "crn": "30233" },
       { "term": "202410", "crn": "10522" },
       { "term": "202410", "crn": "12377" },
@@ -121,6 +122,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40226" },
       { "term": "202430", "crn": "30514" },
       { "term": "202430", "crn": "30515" },
       { "term": "202410", "crn": "10207" },
@@ -170,6 +172,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202440", "crn": "40759" },
       { "term": "202430", "crn": "32756" },
       { "term": "202430", "crn": "34229" },
       { "term": "202430", "crn": "34724" },
@@ -217,6 +220,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40760" },
       { "term": "202430", "crn": "32757" },
       { "term": "202430", "crn": "32758" },
       { "term": "202430", "crn": "34055" },
@@ -350,6 +354,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40761" },
       { "term": "202430", "crn": "32759" },
       { "term": "202430", "crn": "32760" },
       { "term": "202430", "crn": "34076" },
@@ -721,7 +726,6 @@
       { "term": "202430", "crn": "40638" },
       { "term": "202430", "crn": "40639" },
       { "term": "202430", "crn": "40640" },
-      { "term": "202430", "crn": "40641" },
       { "term": "202430", "crn": "35542" },
       { "term": "202430", "crn": "35544" },
       { "term": "202410", "crn": "10189" },
@@ -869,6 +873,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60010" },
+      { "term": "202440", "crn": "40464" },
       { "term": "202430", "crn": "30228" },
       { "term": "202430", "crn": "31931" },
       { "term": "202430", "crn": "30508" },
@@ -890,11 +896,7 @@
     ],
     "description": "Continues CHEM 2311. Focuses on additional functional group chemistry including alcohols, ethers, carbonyl compounds, and amines, and also examines chemistry relevant to molecules of nature. Introduces spectroscopic methods for structural identification.",
     "coreqs": [{ "subject": "CHEM", "number": "2314" }],
-    "prereqs": [
-      { "subject": "CHEM", "number": "2311" },
-      "Or",
-      { "subject": "CHEM", "number": "2315" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CHEM",
@@ -904,6 +906,14 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60013" },
+      { "term": "202460", "crn": "60011" },
+      { "term": "202460", "crn": "60100" },
+      { "term": "202460", "crn": "60330" },
+      { "term": "202440", "crn": "40465" },
+      { "term": "202440", "crn": "40564" },
+      { "term": "202440", "crn": "40568" },
+      { "term": "202440", "crn": "41025" },
       { "term": "202430", "crn": "30227" },
       { "term": "202430", "crn": "30226" },
       { "term": "202430", "crn": "30225" },
@@ -916,7 +926,6 @@
       { "term": "202430", "crn": "30869" },
       { "term": "202430", "crn": "30870" },
       { "term": "202430", "crn": "30895" },
-      { "term": "202430", "crn": "31156" },
       { "term": "202430", "crn": "31157" },
       { "term": "202430", "crn": "31334" },
       { "term": "202430", "crn": "31335" },
@@ -1154,6 +1163,7 @@
     "credits": 4,
     "nuPath": ["AD", "WI"],
     "sections": [
+      { "term": "202440", "crn": "40874" },
       { "term": "202430", "crn": "33175" },
       { "term": "202410", "crn": "13469" },
       { "term": "202340", "crn": "41107" },
@@ -1192,6 +1202,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40875" },
       { "term": "202430", "crn": "33176" },
       { "term": "202430", "crn": "33434" },
       { "term": "202410", "crn": "14573" },
@@ -1219,6 +1230,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40876" },
       { "term": "202430", "crn": "33664" },
       { "term": "202410", "crn": "13980" },
       { "term": "202340", "crn": "41109" },
@@ -1284,39 +1296,7 @@
     ],
     "description": "Offers students an opportunity to obtain a broad familiarity with bioanalytical chemistry at the undergraduate level. After reviewing basic principles of analytical chemistry, the course covers biomolecular analysis by modern methods, including chromatography, electrophoresis, mass spectrometry, and immunohistochemistry. Studies genomics, proteomics, biosensors, bioassays, and protein/DNA sequencing. Exposes students to technical literature and modern applications in biochemistry, molecular biology, and chemistry.",
     "coreqs": [{ "subject": "CHEM", "number": "3332" }],
-    "prereqs": [
-      "(",
-      { "subject": "CHEM", "number": "1151" },
-      "Or",
-      { "subject": "CHEM", "number": "1161" },
-      "Or",
-      { "subject": "CHEM", "number": "1214" },
-      "Or",
-      { "subject": "CHEM", "number": "1220" },
-      ")",
-      "And",
-      "(",
-      { "subject": "CHEM", "number": "2313" },
-      "Or",
-      { "subject": "CHEM", "number": "2317" },
-      ")",
-      "And",
-      "(",
-      { "subject": "CHEM", "number": "2321" },
-      "Or",
-      { "subject": "BIOL", "number": "3611" },
-      ")",
-      "And",
-      "(",
-      { "subject": "ENGL", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGW", "number": "1111" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "CHEM",
@@ -1385,6 +1365,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "33178" },
+      { "term": "202430", "crn": "41011" },
       { "term": "202410", "crn": "13457" },
       { "term": "202330", "crn": "33610" },
       { "term": "202310", "crn": "13935" }
@@ -1408,25 +1389,7 @@
     ],
     "description": "Studies the theory of quantum chemistry with applications to spectroscopy. Presents some simple quantum mechanical (QM) models, including the particle in a box, rigid rotor, and harmonic oscillator, followed by treatments of electrons in atoms and molecules. Microwave, infrared, Raman, NMR, ESR, atomic absorption, atomic emission, and UV-Vis spectroscopy are discussed in detail.",
     "coreqs": [{ "subject": "CHEM", "number": "3404" }],
-    "prereqs": [
-      "(",
-      { "subject": "CHEM", "number": "3401" },
-      "Or",
-      { "subject": "CHEM", "number": "3421" },
-      "Or",
-      { "subject": "CHEM", "number": "3431" },
-      "Or",
-      { "subject": "CHME", "number": "3322" },
-      ")",
-      "And",
-      { "subject": "MATH", "number": "1342" },
-      "And",
-      "(",
-      { "subject": "PHYS", "number": "1155" },
-      "Or",
-      { "subject": "PHYS", "number": "1165" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "CHEM",
@@ -1478,6 +1441,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40527" },
       { "term": "202430", "crn": "31733" },
       { "term": "202410", "crn": "11934" },
       { "term": "202340", "crn": "40591" },
@@ -1489,6 +1453,7 @@
     "coreqs": [{ "subject": "CHEM", "number": "3432" }],
     "prereqs": [
       "(",
+      "(",
       { "subject": "CHEM", "number": "1214" },
       "Or",
       { "subject": "CHEM", "number": "1220" },
@@ -1498,6 +1463,7 @@
       { "subject": "CHEM", "number": "1151" },
       "Or",
       { "subject": "CHEM", "number": "1161" },
+      ")",
       ")",
       "And",
       "(",
@@ -1525,6 +1491,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40528" },
       { "term": "202430", "crn": "32335" },
       { "term": "202430", "crn": "31734" },
       { "term": "202430", "crn": "31735" },
@@ -1632,21 +1599,7 @@
       { "subject": "CHEM", "number": "3506" },
       { "subject": "CHEM", "number": "3507" }
     ],
-    "prereqs": [
-      "(",
-      { "subject": "CHEM", "number": "2313" },
-      "Or",
-      { "subject": "CHEM", "number": "2317" },
-      ")",
-      "And",
-      "(",
-      { "subject": "CHEM", "number": "2321" },
-      "Or",
-      { "subject": "CHEM", "number": "2331" },
-      "Or",
-      { "subject": "CHEM", "number": "3331" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "CHEM",
@@ -1692,6 +1645,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "42079" },
       { "term": "202430", "crn": "31736" },
       { "term": "202410", "crn": "11958" },
       { "term": "202340", "crn": "40593" },
@@ -1715,6 +1669,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "42080" },
       { "term": "202430", "crn": "31737" },
       { "term": "202410", "crn": "11959" },
       { "term": "202340", "crn": "40594" },
@@ -1776,6 +1731,8 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202460", "crn": "60028" },
+      { "term": "202440", "crn": "40027" },
       { "term": "202430", "crn": "30221" },
       { "term": "202410", "crn": "13170" },
       { "term": "202360", "crn": "60032" },
@@ -1787,11 +1744,7 @@
     ],
     "description": "Conducts original experimental work under the direction of members of the department on a project. Introduces experimental design based on literature and a variety of techniques depending upon the individual project.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CHEM", "number": "2313" },
-      "Or",
-      { "subject": "CHEM", "number": "2317" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CHEM",
@@ -1801,6 +1754,7 @@
     "credits": 4,
     "nuPath": ["EX"],
     "sections": [
+      { "term": "202460", "crn": "60325" },
       { "term": "202430", "crn": "30214" },
       { "term": "202360", "crn": "60345" },
       { "term": "202330", "crn": "30220" },
@@ -1820,12 +1774,25 @@
   },
   {
     "subject": "CHEM",
+    "number": "4970",
+    "title": "Junior/Senior Honors Project 1",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": ["CE"],
+    "sections": [{ "term": "202430", "crn": "41320" }],
+    "description": "Focuses on in-depth project in which a student conducts research or produces a product related to the student's major field. Combined with Junior/Senior Project 2 or college-defined equivalent for 8 credit honors project. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CHEM",
     "number": "5501",
     "title": "Chemical Safety in the Research Laboratory",
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40531" },
       { "term": "202430", "crn": "33179" },
       { "term": "202410", "crn": "13745" },
       { "term": "202340", "crn": "40595" },
@@ -1983,6 +1950,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40532" },
       { "term": "202430", "crn": "32330" },
       { "term": "202430", "crn": "39246" },
       { "term": "202410", "crn": "11375" },
@@ -2025,6 +1993,7 @@
     "coreqs": [],
     "prereqs": [
       "(",
+      "(",
       { "subject": "CHEM", "number": "2313" },
       "Or",
       { "subject": "CHEM", "number": "2317" },
@@ -2044,6 +2013,7 @@
       { "subject": "CHEM", "number": "3421" },
       "Or",
       { "subject": "CHEM", "number": "3431" },
+      ")",
       ")",
       "Or",
       "Graduate Admission"
@@ -2065,6 +2035,7 @@
     "description": "Accompanies CHEM 5621. Complements and reinforces the concepts from CHEM 5621 with emphasis on fundamental techniques. Offers an opportunity to complete independent projects in modern chemical biology research.",
     "coreqs": [],
     "prereqs": [
+      "(",
       "(",
       { "subject": "CHEM", "number": "2313" },
       "Or",
@@ -2095,6 +2066,11 @@
       { "subject": "ENGW", "number": "1111" },
       "Or",
       { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" },
+      ")",
       ")",
       "Or",
       "Graduate Admission"
@@ -2173,13 +2149,7 @@
     ],
     "description": "Studies how to determine organic structure based on proton and carbon nuclear magnetic resonance spectra, with additional information from mass and infrared spectra and elemental analysis. Presents descriptive theory of nuclear magnetic resonance experiments and applications of advanced techniques to structure determination. Includes relaxation, nuclear Overhauser effect, polarization transfer, and correlation in various one- and two- dimensional experiments. Requires graduate students to have one year of organic chemistry or equivalent.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CHEM", "number": "2313" },
-      "Or",
-      { "subject": "CHEM", "number": "2317" },
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "CHEM",
@@ -2263,6 +2233,26 @@
   },
   {
     "subject": "CHEM",
+    "number": "5642",
+    "title": "Photochemistry Fundamentals and Applications",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41070" }],
+    "description": "Describes fundamental science of light-activated chemistry and photochemistry applications. Topics include organic and inorganic photochemistry and their applications in solar energy, solar fuels, photocatalysis, bioimaging, photochemotherapy, pigments, and photonics.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "CHEM", "number": "1151" },
+      "Or",
+      { "subject": "CHEM", "number": "1161" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
+  },
+  {
+    "subject": "CHEM",
     "number": "5648",
     "title": "Chemical Principles and Application of Drug Metabolism and Pharmacokinetics",
     "scheduleType": "Lecture",
@@ -2290,6 +2280,7 @@
     "description": "Studies renewable energy in terms of photovoltaics, photoelectrochemistry, fuel cells, batteries, and capacitors. Focuses on the aspects of each component and their relationships to one another.",
     "coreqs": [],
     "prereqs": [
+      "(",
       "(",
       { "subject": "CHEM", "number": "2313" },
       "Or",
@@ -2497,6 +2488,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60304" },
       { "term": "202360", "crn": "60322" },
       { "term": "202260", "crn": "60341" }
     ],
@@ -2573,8 +2565,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "33666" },
       { "term": "202430", "crn": "35355" },
+      { "term": "202430", "crn": "41700" },
       { "term": "202410", "crn": "14326" },
       { "term": "202410", "crn": "14327" },
       { "term": "202410", "crn": "14328" },
@@ -2708,10 +2700,6 @@
     ],
     "description": "Offers dissertation supervision by members of the department. Open to chemical biology students.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CHEM", "number": "9991" },
-      "Or",
-      "Dissertation Check"
-    ]
+    "prereqs": []
   }
 ]

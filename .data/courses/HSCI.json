@@ -7,6 +7,9 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "30941" },
+      { "term": "202430", "crn": "32357" },
+      { "term": "202430", "crn": "33371" },
       { "term": "202410", "crn": "11111" },
       { "term": "202410", "crn": "12833" },
       { "term": "202410", "crn": "11049" },
@@ -41,6 +44,7 @@
     "credits": 4,
     "nuPath": ["ND"],
     "sections": [
+      { "term": "202440", "crn": "40691" },
       { "term": "202430", "crn": "32907" },
       { "term": "202430", "crn": "31388" },
       { "term": "202430", "crn": "34251" },
@@ -156,6 +160,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41174" },
       { "term": "202430", "crn": "33339" },
       { "term": "202410", "crn": "19696" },
       { "term": "202340", "crn": "41680" },
@@ -235,6 +240,7 @@
     "nuPath": ["CE"],
     "sections": [
       { "term": "202430", "crn": "31923" },
+      { "term": "202430", "crn": "40818" },
       { "term": "202410", "crn": "19613" },
       { "term": "202340", "crn": "42270" },
       { "term": "202330", "crn": "32148" },
@@ -258,7 +264,7 @@
     ],
     "description": "Offers students an opportunity to integrate their course work, knowledge, and experiences into a project that results in a written report and presentation regarding an issue within the field of health or healthcare. The project is a culminating experience in the health science program. Students may choose to participate in an ongoing research project or create and implement their own research project as their capstone project. Requires students to present their projects to the seminar class and possibly to present a poster at a professional/research expo.",
     "coreqs": [],
-    "prereqs": [{ "subject": "HSCI", "number": "4700" }]
+    "prereqs": []
   },
   {
     "subject": "HSCI",
@@ -276,7 +282,7 @@
     ],
     "description": "Offers intensive study on the public health approach to a specific, relevant issue. Through a combination of close readings of empirical literature and interactive class discussion, students critique public health approaches and policies regarding the topic of the seminar. Requires students to complete an in-depth study, write a paper, and present their findings on a topic of interest within the larger discussion.",
     "coreqs": [],
-    "prereqs": [{ "subject": "HSCI", "number": "4700" }]
+    "prereqs": []
   },
   {
     "subject": "HSCI",
@@ -346,7 +352,7 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "39660" }],
+    "sections": [],
     "description": "Introduces students to the principles of interoperability protocols in healthcare and life sciences to support clinical data standardization. Explores the process of extract, transform, and load (ETL) in the harmonization of healthcare data. Emphasizes real-world case studies driving current standardization approaches.",
     "coreqs": [],
     "prereqs": [

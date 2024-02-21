@@ -7,6 +7,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40024" },
+      { "term": "202440", "crn": "40023" },
       { "term": "202430", "crn": "30440" },
       { "term": "202430", "crn": "30411" },
       { "term": "202430", "crn": "30410" },
@@ -22,11 +24,11 @@
       { "term": "202430", "crn": "31293" },
       { "term": "202430", "crn": "32874" },
       { "term": "202430", "crn": "33243" },
+      { "term": "202430", "crn": "34145" },
       { "term": "202430", "crn": "38094" },
       { "term": "202430", "crn": "37223" },
       { "term": "202430", "crn": "40607" },
       { "term": "202430", "crn": "40608" },
-      { "term": "202430", "crn": "40609" },
       { "term": "202410", "crn": "10403" },
       { "term": "202410", "crn": "10402" },
       { "term": "202410", "crn": "12042" },
@@ -116,6 +118,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40129" },
+      { "term": "202440", "crn": "40130" },
+      { "term": "202440", "crn": "40131" },
+      { "term": "202440", "crn": "40132" },
+      { "term": "202440", "crn": "40997" },
+      { "term": "202440", "crn": "41022" },
       { "term": "202430", "crn": "30851" },
       { "term": "202430", "crn": "30852" },
       { "term": "202430", "crn": "31017" },
@@ -174,6 +182,15 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60027" },
+      { "term": "202460", "crn": "60026" },
+      { "term": "202460", "crn": "60533" },
+      { "term": "202460", "crn": "61595" },
+      { "term": "202440", "crn": "40022" },
+      { "term": "202440", "crn": "40102" },
+      { "term": "202440", "crn": "40246" },
+      { "term": "202440", "crn": "41190" },
+      { "term": "202440", "crn": "41949" },
       { "term": "202430", "crn": "30405" },
       { "term": "202430", "crn": "30404" },
       { "term": "202430", "crn": "30403" },
@@ -278,11 +295,7 @@
     ],
     "description": "Covers business law, professional code of conduct, and the importance of ethical behavior in today's business environment. Examines legal aspects of commercial transactions and business relationships. Specifically, laws relating to contracts and sale of goods under the Uniform Commercial Code, agency law, and product liability law are discussed. May not be used as an accounting concentration elective.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ACCT", "number": "2301" },
-      "Or",
-      { "subject": "ACCT", "number": "2302" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ACCT",
@@ -292,6 +305,7 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202440", "crn": "42086" },
       { "term": "202430", "crn": "30400" },
       { "term": "202430", "crn": "30097" },
       { "term": "202410", "crn": "10396" },
@@ -399,6 +413,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61083" },
       { "term": "202430", "crn": "30399" },
       { "term": "202410", "crn": "10784" },
       { "term": "202360", "crn": "61415" },
@@ -429,7 +444,7 @@
     ],
     "description": "Continues ACCT 3401 with a more extensive study of financial statements and the financial reporting rules underlying them. Advanced topics include bonds, pensions, leases, earnings per share, and earnings management. Introduces more advanced financial statement analysis tools. Offers students an opportunity to continue to gain the ethical awareness and the knowledge necessary to analyze the impact of alternative reporting decisions on financial statements.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ACCT", "number": "3401" }]
+    "prereqs": []
   },
   {
     "subject": "ACCT",
@@ -441,13 +456,7 @@
     "sections": [{ "term": "202410", "crn": "20405" }],
     "description": "Covers how data analytics is used to address business problems in the advisory services field. Examines how to master, test, analyze, and present data using Excel, Tableau, and SQL, among other data analytics tools. Emphasizes how to apply data analytics skills to managerial analytics, financial statement analytics, and tax analytics through advisory-type projects and labs.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ACCT", "number": "2301" },
-      "Or",
-      { "subject": "ACCT", "number": "2302" },
-      "Or",
-      { "subject": "ACCT", "number": "6207" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ACCT",
@@ -505,6 +514,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60640" },
       { "term": "202360", "crn": "60734" },
       { "term": "202260", "crn": "61023" }
     ],
@@ -555,6 +565,7 @@
     "credits": 1.5,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40082" },
       { "term": "202430", "crn": "30724" },
       { "term": "202340", "crn": "40087" },
       { "term": "202330", "crn": "30768" },
@@ -563,7 +574,7 @@
     ],
     "description": "Continues ACCT 6200, offering the second of a two-course sequence that focuses on the acquisition, measurement, and management of firm resources. Critical to the effective planning, implementation, and management of successful business strategies is the ability to measure and manage the commitment and utilization of entity resources. Focuses on contemporary methods and frameworks used in the process of measuring, analyzing, and allocating firm resources to achieve strategic and operating objectives. Required course for co-op MBA/part-time MBA.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ACCT", "number": "6200" }]
+    "prereqs": []
   },
   {
     "subject": "ACCT",
@@ -573,6 +584,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40844" },
       { "term": "202340", "crn": "41031" },
       { "term": "202240", "crn": "40101" },
       { "term": "202240", "crn": "41331" }
@@ -589,6 +601,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60092" },
       { "term": "202410", "crn": "11068" },
       { "term": "202360", "crn": "60096" },
       { "term": "202310", "crn": "11200" },
@@ -606,6 +619,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60099" },
       { "term": "202360", "crn": "60107" },
       { "term": "202260", "crn": "60110" }
     ],
@@ -621,6 +635,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40077" },
       { "term": "202340", "crn": "40082" },
       { "term": "202240", "crn": "40087" },
       { "term": "202240", "crn": "41441" }
@@ -637,6 +652,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60098" },
       { "term": "202410", "crn": "11067" },
       { "term": "202360", "crn": "60106" },
       { "term": "202310", "crn": "11199" },
@@ -654,6 +670,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40753" },
       { "term": "202410", "crn": "15882" },
       { "term": "202340", "crn": "40906" },
       { "term": "202310", "crn": "17863" },
@@ -672,6 +689,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40081" },
       { "term": "202340", "crn": "40086" },
       { "term": "202240", "crn": "40091" },
       { "term": "202240", "crn": "41443" }
@@ -688,13 +706,14 @@
     "credits": 6,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60668" },
       { "term": "202360", "crn": "60762" },
       { "term": "202260", "crn": "60104" },
       { "term": "202260", "crn": "61055" }
     ],
     "description": "Continues ACCT 6220. Examines corporate financial reporting in the decision-making process. Emphasis is on the economic consequences of alternative financial reporting practices. Provides students with the ability to understand and utilize critical information contained in corporate financial reports to improve business decision making.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ACCT", "number": "6220" }]
+    "prereqs": []
   },
   {
     "subject": "ACCT",
@@ -709,7 +728,7 @@
     ],
     "description": "Continues the study of corporate financial reporting, covering specialized topics that assume knowledge of the accounting principles covered in the first two courses. Topics include corporate reporting as equity instruments, executive compensation, reporting of fund flows, and reporting and disclosures for corporations engaged in diverse economic activities and those operating across geographic boundaries. Examines accounting and disclosure standards in the United States and in other countries, as well as standards developed by international bodies. Covers financial reporting models used by governmental and nonprofit entities.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ACCT", "number": "6221" }]
+    "prereqs": []
   },
   {
     "subject": "ACCT",
@@ -764,6 +783,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40080" },
       { "term": "202340", "crn": "40085" },
       { "term": "202240", "crn": "40090" },
       { "term": "202240", "crn": "41444" }
@@ -780,6 +800,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60095" },
       { "term": "202360", "crn": "60100" },
       { "term": "202260", "crn": "60103" },
       { "term": "202260", "crn": "61251" }
@@ -796,6 +817,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40868" },
       { "term": "202340", "crn": "41088" },
       { "term": "202240", "crn": "40114" },
       { "term": "202240", "crn": "41445" }
@@ -812,19 +834,14 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60196" },
       { "term": "202360", "crn": "60212" },
       { "term": "202350", "crn": "52450" },
       { "term": "202260", "crn": "60223" }
     ],
     "description": "Provides an in-depth study of the tax issues related to the corporate form and the corresponding tax implications for its shareholders. Given the importance of corporations in the federal income tax system, an understanding of the tax issues related to this type of business is essential for tax professionals. Topics include capital formation and structure, the operations of the corporation, distributions, dividends and redemptions, sales and liquidations, and taxable and tax-free reorganizations.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ACCT", "number": "6230" },
-      "Or",
-      { "subject": "ACCT", "number": "5230" },
-      "Or",
-      { "subject": "ACCT", "number": "5230" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ACCT",
@@ -834,19 +851,14 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60197" },
       { "term": "202360", "crn": "60213" },
       { "term": "202310", "crn": "16545" },
       { "term": "202260", "crn": "60224" }
     ],
     "description": "Provides an in-depth study of the tax issues related to one of the central flow-through entities, the partnership. The increasing popularity of flow-through entities as an organizational form has made an understanding of the tax issues related to this type of entity an important area of study for tax professionals. Topics include capital formation, operations, transactions between the partner and the partnership, distributions, sales of partnership interests, and liquidation of the partnership.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ACCT", "number": "6230" },
-      "Or",
-      { "subject": "ACCT", "number": "5230" },
-      "Or",
-      { "subject": "ACCT", "number": "5230" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ACCT",
@@ -855,10 +867,7 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "31260" },
-      { "term": "202330", "crn": "31369" }
-    ],
+    "sections": [{ "term": "202330", "crn": "31369" }],
     "description": "Addresses the most common types of taxes imposed by state and local governments. Examines state and local income, sales, excise, property, and city taxes. Emphasis is on the underlying principles governing the application of each type of tax and the interrelationships where they exist.",
     "coreqs": [],
     "prereqs": [
@@ -947,10 +956,7 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [
-      { "term": "202430", "crn": "35358" },
-      { "term": "202330", "crn": "36769" }
-    ],
+    "sections": [{ "term": "202330", "crn": "36769" }],
     "description": "Surveys insurance products used for financial planning. Topics include life, accident, health, disability, long-term care, homeowner, auto, and personal liability, with emphasis on personal risk management and the use of insurance products in the financial planning process.",
     "coreqs": [],
     "prereqs": [{ "subject": "ACCT", "number": "5232" }]
@@ -963,6 +969,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60201" },
       { "term": "202410", "crn": "12119" },
       { "term": "202360", "crn": "60217" },
       { "term": "202310", "crn": "12383" },
@@ -980,6 +987,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60199" },
       { "term": "202360", "crn": "60215" },
       { "term": "202260", "crn": "60226" },
       { "term": "202260", "crn": "61094" }

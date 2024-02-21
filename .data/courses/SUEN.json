@@ -111,7 +111,7 @@
     ],
     "description": "Constitutes the second half of the Master's Research Studio sequence. Using the design thesis established in SUEN 7130, offers students an opportunity to formulate proposals for intervention into a specific urbanized environment. Individual projects progress with instructor guidance from schematic phasing through design development, with a focus on change management and vitalization of the ecologic, economic, social, and aesthetic facets of contemporary cities and regions. Requires individual presentation and defense of master's projects in written, oral, and digital formats. May be repeated once.",
     "coreqs": [],
-    "prereqs": [{ "subject": "SUEN", "number": "7130" }]
+    "prereqs": []
   },
   {
     "subject": "SUEN",

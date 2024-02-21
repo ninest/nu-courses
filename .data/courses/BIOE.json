@@ -41,6 +41,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40259" },
       { "term": "202430", "crn": "31691" },
       { "term": "202430", "crn": "36282" },
       { "term": "202410", "crn": "12077" },
@@ -165,8 +166,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60750" },
       { "term": "202430", "crn": "33084" },
       { "term": "202430", "crn": "36283" },
+      { "term": "202430", "crn": "41026" },
       { "term": "202410", "crn": "13904" },
       { "term": "202360", "crn": "60873" },
       { "term": "202330", "crn": "33489" },
@@ -176,24 +179,7 @@
     ],
     "description": "Discusses principles of circuits, signals, and systems in the context of operating principles of bioelectrical systems at multiple physiological scales. Offers students an opportunity to obtain the fundamental background required to interface biological systems with circuits and sensors for measurements. Covers fundamentals of structure and function of electrically active tissue including nerves, brain, and muscle, including heart.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "GE", "number": "2361" },
-      "Or",
-      "(",
-      { "subject": "MATH", "number": "2321" },
-      "And",
-      { "subject": "MATH", "number": "2341" },
-      ")",
-      "And",
-      "(",
-      { "subject": "PHYS", "number": "1155" },
-      "Or",
-      { "subject": "PHYS", "number": "1165" },
-      "Or",
-      { "subject": "PHYS", "number": "1175" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "BIOE",
@@ -203,6 +189,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40260" },
       { "term": "202430", "crn": "35545" },
       { "term": "202410", "crn": "15189" },
       { "term": "202340", "crn": "40286" },
@@ -224,6 +211,7 @@
       { "subject": "MATH", "number": "2321" },
       "And",
       { "subject": "MATH", "number": "2341" },
+      ")",
       ")"
     ]
   },
@@ -237,6 +225,7 @@
     "sections": [
       { "term": "202430", "crn": "31897" },
       { "term": "202430", "crn": "36284" },
+      { "term": "202430", "crn": "41111" },
       { "term": "202410", "crn": "12318" },
       { "term": "202410", "crn": "13905" },
       { "term": "202330", "crn": "32119" },
@@ -254,6 +243,7 @@
       { "subject": "MATH", "number": "2321" },
       "And",
       { "subject": "MATH", "number": "2341" },
+      ")",
       ")",
       "And",
       { "subject": "BIOE", "number": "2355" }
@@ -283,6 +273,8 @@
     "credits": 4,
     "nuPath": ["CE", "EI", "WI"],
     "sections": [
+      { "term": "202460", "crn": "60331" },
+      { "term": "202440", "crn": "40342" },
       { "term": "202360", "crn": "60351" },
       { "term": "202340", "crn": "40371" },
       { "term": "202260", "crn": "60372" },
@@ -356,13 +348,7 @@
     ],
     "description": "Introduces the theoretical analysis and modeling of dynamical systems in biology, ranging from molecular to population applications. Topics include difference and differential equation models, with basic theory including nondimensionalization, steady states, linearization, stability, eigenvalues, global behavior, singular perturbations, multistability, hysteresis, cooperativity, periodic solutions, excitable systems, bifurcations; and an introduction to spatial (PDE) models. Develops all concepts in the context of concrete biological applications, such as gene regulation; chemical reaction networks and stoichiometry; drug models and PK/PD; receptor/ligand interactions; synthetic constructs; action potential generation; enzymatic reactions; population interactions; epidemiology; epigenetic phenomena, including differentiation and transport; chemotaxis; and diffusion.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "MATH", "number": "2341" },
-      "Or",
-      { "subject": "GE", "number": "2361" },
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "BIOE",
@@ -461,6 +447,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40640" },
       { "term": "202430", "crn": "31991" },
       { "term": "202430", "crn": "37024" },
       { "term": "202410", "crn": "12319" },
@@ -518,15 +505,7 @@
     ],
     "description": "Introduces the key roles that physical forces, the extracellular matrix, and cytoskeletal structure play in the development of human diseases. The cell is viewed as an engineering system that is capable of sensing physical cues from its environment, integrating such information from different mechano-sensors, and responding to changes in its external environment in a coherent manner. Uses mathematical and computational models to explain how cells sense and respond to physical cues.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "BIOE", "number": "2350" },
-      "And",
-      { "subject": "BIOE", "number": "3380" },
-      ")",
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "BIOE",
@@ -536,25 +515,14 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41161" },
       { "term": "202410", "crn": "13906" },
       { "term": "202340", "crn": "41667" },
       { "term": "202310", "crn": "14504" }
     ],
     "description": "Covers engineering principles and approaches in stem cell research and their application in tissue engineering and regenerative medicine. Emphasizes recent technology and engineering tools used to understand and manipulate stem cells. Topics covered include embryonic and adult stem cell biology fundamentals; quantitative modeling of stem cell signaling; genetic/biochemical/biophysical/biomechanical/biomaterials tools to control stem cell fate and differentiation; epigenetic editing and cellular reprogramming; engineering biomimetic and bioreactor environments to develop stem-cell-based therapies; and various applications in tissue development, diseases, and regeneration.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "BIOE", "number": "5420" },
-      "Or",
-      { "subject": "BIOE", "number": "5420" },
-      ")",
-      "And",
-      "(",
-      { "subject": "BIOE", "number": "5430" },
-      "Or",
-      { "subject": "BIOE", "number": "5430" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "BIOE",
@@ -677,24 +645,7 @@
     ],
     "description": "Develops a set of statistical tools to address poorly posed inverse problems. Interpreting complex and partial information is a routine task in research as well as in our daily lives. Such tasks include estimating quantitative properties of a biological system from indirect noisy measurements, responding to fluctuating environmental signals, or breaking encrypted messages. Common to these diverse questions is a need to construct a predictive model from partial data. Draws on examples from primary literature in biology to study text recognition, trait mapping, sequence alignment, decoding cryptographs, processing of chemoattractive signals to find food, and survival strategies of bacteria in unpredictable environments.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "MATH", "number": "2321" },
-      "And",
-      { "subject": "MATH", "number": "2341" },
-      ")",
-      "And",
-      "(",
-      { "subject": "BIOE", "number": "2365" },
-      "Or",
-      "(",
-      { "subject": "CHME", "number": "3315" },
-      "And",
-      { "subject": "CHME", "number": "4315" },
-      ")",
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "BIOE",
@@ -723,11 +674,7 @@
     ],
     "description": "Explores the concept of systems and transfer functions to allow engineers to break down a complex system into simpler systems and to combine simpler modules to form complex functions. Presents a set of analytical tools and focuses on applying frequency-domain analyses (e.g., Fourier, Laplace, and Z transforms) to simplify continuous and discrete-time systems and gain insights regarding their stability and frequency responses. Offers students an opportunity to understand, characterize, and combine analog and digital signals produced by electronic and biological circuits, as well as design controllers to achieve desired biosystem behavior. Using this knowledge, students design filters and controllers, both in the analog and digital forms, and measure and manipulate complex real-world bioengineering systems (including image processing for 2D signals).",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "BIOE", "number": "3210" },
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "BIOE",
@@ -957,6 +904,10 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "40760" },
+      { "term": "202430", "crn": "40971" },
+      { "term": "202430", "crn": "41174" },
+      { "term": "202430", "crn": "41585" },
+      { "term": "202430", "crn": "41927" },
       { "term": "202410", "crn": "20540" },
       { "term": "202410", "crn": "20926" },
       { "term": "202410", "crn": "22460" },
@@ -985,8 +936,20 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41689" },
+      { "term": "202430", "crn": "41747" },
+      { "term": "202430", "crn": "41847" },
+      { "term": "202430", "crn": "41848" },
+      { "term": "202430", "crn": "41849" },
+      { "term": "202430", "crn": "41867" },
+      { "term": "202430", "crn": "41883" },
+      { "term": "202430", "crn": "41890" },
+      { "term": "202430", "crn": "41891" },
+      { "term": "202430", "crn": "41984" },
       { "term": "202410", "crn": "21585" },
       { "term": "202410", "crn": "22304" },
+      { "term": "202410", "crn": "22558" },
+      { "term": "202410", "crn": "22580" },
       { "term": "202360", "crn": "61572" },
       { "term": "202340", "crn": "42165" },
       { "term": "202340", "crn": "42309" },
@@ -1019,9 +982,12 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41681" },
       { "term": "202410", "crn": "19312" },
       { "term": "202410", "crn": "22061" },
       { "term": "202410", "crn": "22071" },
+      { "term": "202410", "crn": "22572" },
+      { "term": "202410", "crn": "22573" },
       { "term": "202330", "crn": "40845" },
       { "term": "202310", "crn": "21578" },
       { "term": "202310", "crn": "21766" }
@@ -1039,6 +1005,11 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "40730" },
+      { "term": "202430", "crn": "40819" },
+      { "term": "202430", "crn": "41218" },
+      { "term": "202430", "crn": "41219" },
+      { "term": "202430", "crn": "41423" },
+      { "term": "202430", "crn": "41428" },
       { "term": "202410", "crn": "22511" },
       { "term": "202410", "crn": "20821" },
       { "term": "202410", "crn": "21342" },
@@ -1068,11 +1039,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "40642" },
-      { "term": "202430", "crn": "40643" },
       { "term": "202430", "crn": "40708" },
-      { "term": "202430", "crn": "40709" },
-      { "term": "202430", "crn": "40710" },
+      { "term": "202430", "crn": "41592" },
       { "term": "202410", "crn": "14811" },
       { "term": "202410", "crn": "16478" },
       { "term": "202410", "crn": "16480" },
@@ -1121,40 +1089,27 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "34286" },
-      { "term": "202430", "crn": "34357" },
-      { "term": "202430", "crn": "34382" },
       { "term": "202430", "crn": "34452" },
       { "term": "202430", "crn": "34459" },
       { "term": "202430", "crn": "34550" },
       { "term": "202430", "crn": "34577" },
-      { "term": "202430", "crn": "34585" },
       { "term": "202430", "crn": "35553" },
       { "term": "202430", "crn": "35961" },
-      { "term": "202430", "crn": "35989" },
       { "term": "202430", "crn": "34602" },
       { "term": "202430", "crn": "35787" },
       { "term": "202430", "crn": "35915" },
       { "term": "202430", "crn": "36288" },
       { "term": "202430", "crn": "36289" },
       { "term": "202430", "crn": "36290" },
-      { "term": "202430", "crn": "36291" },
-      { "term": "202430", "crn": "36292" },
-      { "term": "202430", "crn": "36293" },
       { "term": "202430", "crn": "37286" },
       { "term": "202430", "crn": "38010" },
       { "term": "202430", "crn": "38061" },
       { "term": "202430", "crn": "38475" },
       { "term": "202430", "crn": "38702" },
-      { "term": "202430", "crn": "38779" },
-      { "term": "202430", "crn": "38780" },
-      { "term": "202430", "crn": "38781" },
-      { "term": "202430", "crn": "38782" },
       { "term": "202430", "crn": "38783" },
-      { "term": "202430", "crn": "38784" },
       { "term": "202430", "crn": "38785" },
       { "term": "202430", "crn": "38786" },
       { "term": "202430", "crn": "40717" },
-      { "term": "202430", "crn": "40718" },
       { "term": "202410", "crn": "15886" },
       { "term": "202410", "crn": "14654" },
       { "term": "202410", "crn": "14718" },
@@ -1259,39 +1214,18 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34403" },
-      { "term": "202430", "crn": "34458" },
       { "term": "202430", "crn": "33521" },
-      { "term": "202430", "crn": "34561" },
-      { "term": "202430", "crn": "34633" },
       { "term": "202430", "crn": "35457" },
       { "term": "202430", "crn": "35711" },
       { "term": "202430", "crn": "35729" },
-      { "term": "202430", "crn": "36294" },
-      { "term": "202430", "crn": "36295" },
-      { "term": "202430", "crn": "36296" },
       { "term": "202430", "crn": "36297" },
       { "term": "202430", "crn": "36298" },
-      { "term": "202430", "crn": "36299" },
-      { "term": "202430", "crn": "36300" },
-      { "term": "202430", "crn": "36301" },
-      { "term": "202430", "crn": "36302" },
-      { "term": "202430", "crn": "36303" },
       { "term": "202430", "crn": "36304" },
-      { "term": "202430", "crn": "36305" },
-      { "term": "202430", "crn": "36306" },
       { "term": "202430", "crn": "36307" },
-      { "term": "202430", "crn": "36308" },
-      { "term": "202430", "crn": "38788" },
       { "term": "202430", "crn": "38789" },
-      { "term": "202430", "crn": "38790" },
       { "term": "202430", "crn": "38791" },
-      { "term": "202430", "crn": "38792" },
-      { "term": "202430", "crn": "38793" },
       { "term": "202430", "crn": "40719" },
-      { "term": "202430", "crn": "40720" },
       { "term": "202430", "crn": "40721" },
-      { "term": "202430", "crn": "40722" },
       { "term": "202410", "crn": "16014" },
       { "term": "202410", "crn": "14802" },
       { "term": "202410", "crn": "16115" },
@@ -1333,23 +1267,10 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34223" },
-      { "term": "202430", "crn": "34389" },
-      { "term": "202430", "crn": "34406" },
-      { "term": "202430", "crn": "34467" },
-      { "term": "202430", "crn": "34510" },
       { "term": "202430", "crn": "34542" },
-      { "term": "202430", "crn": "35335" },
       { "term": "202430", "crn": "35337" },
       { "term": "202430", "crn": "35338" },
-      { "term": "202430", "crn": "35339" },
-      { "term": "202430", "crn": "36309" },
-      { "term": "202430", "crn": "36310" },
-      { "term": "202430", "crn": "36313" },
-      { "term": "202430", "crn": "38622" },
       { "term": "202430", "crn": "38794" },
-      { "term": "202430", "crn": "38795" },
-      { "term": "202430", "crn": "38796" },
       { "term": "202430", "crn": "40723" },
       { "term": "202430", "crn": "40724" },
       { "term": "202410", "crn": "15754" },
@@ -1398,13 +1319,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "34373" },
       { "term": "202430", "crn": "34408" },
       { "term": "202430", "crn": "34480" },
-      { "term": "202430", "crn": "35732" },
-      { "term": "202430", "crn": "35735" },
-      { "term": "202430", "crn": "34494" },
-      { "term": "202430", "crn": "34515" },
       { "term": "202430", "crn": "34519" },
       { "term": "202430", "crn": "32704" },
       { "term": "202430", "crn": "32989" },
@@ -1419,18 +1335,13 @@
       { "term": "202430", "crn": "36316" },
       { "term": "202430", "crn": "36317" },
       { "term": "202430", "crn": "36318" },
-      { "term": "202430", "crn": "36319" },
       { "term": "202430", "crn": "36320" },
       { "term": "202430", "crn": "36321" },
       { "term": "202430", "crn": "36322" },
       { "term": "202430", "crn": "36323" },
-      { "term": "202430", "crn": "36324" },
       { "term": "202430", "crn": "36325" },
-      { "term": "202430", "crn": "36326" },
-      { "term": "202430", "crn": "36327" },
       { "term": "202430", "crn": "36328" },
       { "term": "202430", "crn": "36329" },
-      { "term": "202430", "crn": "36330" },
       { "term": "202430", "crn": "40725" },
       { "term": "202410", "crn": "14627" },
       { "term": "202410", "crn": "14742" },
@@ -1517,10 +1428,6 @@
     ],
     "description": "Offers continued dissertation work conducted under the supervision of a departmental faculty member.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "BIOE", "number": "9991" },
-      "Or",
-      "Dissertation Check"
-    ]
+    "prereqs": []
   }
 ]

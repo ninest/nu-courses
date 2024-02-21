@@ -19,8 +19,10 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60504" },
       { "term": "202430", "crn": "39443" },
       { "term": "202430", "crn": "39816" },
+      { "term": "202430", "crn": "41225" },
       { "term": "202410", "crn": "10964" },
       { "term": "202410", "crn": "11048" },
       { "term": "202410", "crn": "21183" },
@@ -61,6 +63,8 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61172" },
+      { "term": "202460", "crn": "61642" },
       { "term": "202430", "crn": "30886" },
       { "term": "202430", "crn": "30987" },
       { "term": "202430", "crn": "36607" },
@@ -390,9 +394,11 @@
     "sections": [
       { "term": "202430", "crn": "38173" },
       { "term": "202430", "crn": "33141" },
-      { "term": "202430", "crn": "33538" },
       { "term": "202430", "crn": "33539" },
       { "term": "202430", "crn": "33543" },
+      { "term": "202430", "crn": "41454" },
+      { "term": "202430", "crn": "41518" },
+      { "term": "202430", "crn": "41519" },
       { "term": "202410", "crn": "20951" },
       { "term": "202410", "crn": "21111" },
       { "term": "202410", "crn": "21381" },
@@ -427,6 +433,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41682" },
       { "term": "202350", "crn": "51970" },
       { "term": "202350", "crn": "52075" }
     ],
@@ -442,13 +449,12 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "33544" },
       { "term": "202410", "crn": "19200" },
       { "term": "202330", "crn": "34080" }
     ],
     "description": "Offers selected work with the agreement of a dissertation supervisor.",
     "coreqs": [],
-    "prereqs": [{ "subject": "HINF", "number": "9000" }]
+    "prereqs": []
   },
   {
     "subject": "HINF",
@@ -460,7 +466,7 @@
     "sections": [{ "term": "202350", "crn": "52951" }],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
-    "prereqs": [{ "subject": "HINF", "number": "9990" }]
+    "prereqs": []
   },
   {
     "subject": "HINF",
@@ -470,7 +476,6 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "32366" },
       { "term": "202430", "crn": "33552" },
       { "term": "202430", "crn": "33553" },
       { "term": "202410", "crn": "14609" },

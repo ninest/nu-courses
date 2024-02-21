@@ -182,6 +182,7 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202440", "crn": "40453" },
       { "term": "202430", "crn": "30315" },
       { "term": "202430", "crn": "35504" },
       { "term": "202430", "crn": "37808" },
@@ -217,6 +218,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61670" },
+      { "term": "202440", "crn": "40454" },
       { "term": "202430", "crn": "32477" },
       { "term": "202430", "crn": "32478" },
       { "term": "202430", "crn": "36875" },
@@ -316,6 +319,7 @@
     "credits": 4,
     "nuPath": ["FQ", "ND"],
     "sections": [
+      { "term": "202440", "crn": "40391" },
       { "term": "202430", "crn": "34908" },
       { "term": "202430", "crn": "31423" },
       { "term": "202410", "crn": "16808" },
@@ -359,6 +363,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40185" },
+      { "term": "202440", "crn": "40253" },
       { "term": "202430", "crn": "30220" },
       { "term": "202430", "crn": "31337" },
       { "term": "202430", "crn": "34909" },
@@ -450,6 +456,7 @@
     "credits": 4,
     "nuPath": ["AD", "ND"],
     "sections": [
+      { "term": "202440", "crn": "40093" },
       { "term": "202430", "crn": "30199" },
       { "term": "202430", "crn": "30198" },
       { "term": "202430", "crn": "30981" },
@@ -458,7 +465,6 @@
       { "term": "202430", "crn": "32187" },
       { "term": "202430", "crn": "34913" },
       { "term": "202430", "crn": "35466" },
-      { "term": "202430", "crn": "37144" },
       { "term": "202430", "crn": "39732" },
       { "term": "202430", "crn": "39683" },
       { "term": "202430", "crn": "39730" },
@@ -492,11 +498,12 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40094" },
+      { "term": "202440", "crn": "40210" },
       { "term": "202430", "crn": "34914" },
       { "term": "202430", "crn": "34915" },
       { "term": "202430", "crn": "30193" },
       { "term": "202430", "crn": "34916" },
-      { "term": "202430", "crn": "30982" },
       { "term": "202430", "crn": "31063" },
       { "term": "202430", "crn": "31714" },
       { "term": "202430", "crn": "31715" },
@@ -511,18 +518,12 @@
       { "term": "202430", "crn": "34921" },
       { "term": "202430", "crn": "34922" },
       { "term": "202430", "crn": "34923" },
-      { "term": "202430", "crn": "34924" },
-      { "term": "202430", "crn": "34925" },
-      { "term": "202430", "crn": "37145" },
       { "term": "202430", "crn": "39738" },
       { "term": "202430", "crn": "39739" },
       { "term": "202430", "crn": "39740" },
       { "term": "202430", "crn": "39741" },
       { "term": "202430", "crn": "39742" },
       { "term": "202430", "crn": "39743" },
-      { "term": "202430", "crn": "37174" },
-      { "term": "202430", "crn": "37175" },
-      { "term": "202430", "crn": "37176" },
       { "term": "202430", "crn": "39585" },
       { "term": "202410", "crn": "11690" },
       { "term": "202410", "crn": "11854" },
@@ -626,11 +627,7 @@
     ],
     "description": "Studies the methods and ideas in linear algebra, multivariable calculus, and statistics that are most relevant for the practicing computer scientist doing machine learning, modeling, or hypothesis testing with data. Covers least squares regression, finding eigenvalues to predict a linear system’s behavior, performing gradient descent to fit a model to data, and performing t-tests and chi-square tests to determine whether differences between populations are significant. Includes applications to popular machine-learning methods, including Bayesian models and neural networks.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CS", "number": "1800" },
-      "And",
-      { "subject": "CS", "number": "2500" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -640,6 +637,8 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202460", "crn": "61638" },
+      { "term": "202440", "crn": "40455" },
       { "term": "202430", "crn": "32808" },
       { "term": "202430", "crn": "34929" },
       { "term": "202430", "crn": "36877" },
@@ -664,6 +663,7 @@
     "coreqs": [{ "subject": "CS", "number": "3001" }],
     "prereqs": [
       "(",
+      "(",
       { "subject": "CS", "number": "2510" },
       "Or",
       { "subject": "DS", "number": "2500" },
@@ -683,6 +683,12 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61639" },
+      { "term": "202460", "crn": "61640" },
+      { "term": "202460", "crn": "61641" },
+      { "term": "202440", "crn": "41455" },
+      { "term": "202440", "crn": "41456" },
+      { "term": "202440", "crn": "41496" },
       { "term": "202430", "crn": "33772" },
       { "term": "202430", "crn": "33773" },
       { "term": "202430", "crn": "33774" },
@@ -744,6 +750,7 @@
     "credits": 4,
     "nuPath": ["AD", "FQ"],
     "sections": [
+      { "term": "202460", "crn": "61535" },
       { "term": "202430", "crn": "30300" },
       { "term": "202430", "crn": "32190" },
       { "term": "202430", "crn": "39736" },
@@ -781,6 +788,8 @@
     "credits": 4,
     "nuPath": ["AD", "ND"],
     "sections": [
+      { "term": "202440", "crn": "40105" },
+      { "term": "202440", "crn": "41492" },
       { "term": "202430", "crn": "30312" },
       { "term": "202430", "crn": "31903" },
       { "term": "202410", "crn": "10329" },
@@ -819,11 +828,15 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41340" },
+      { "term": "202440", "crn": "41341" },
+      { "term": "202440", "crn": "41342" },
+      { "term": "202440", "crn": "41343" },
+      { "term": "202440", "crn": "41344" },
       { "term": "202430", "crn": "34930" },
       { "term": "202430", "crn": "34931" },
       { "term": "202430", "crn": "34932" },
       { "term": "202430", "crn": "34933" },
-      { "term": "202430", "crn": "34934" },
       { "term": "202430", "crn": "39587" },
       { "term": "202410", "crn": "15327" },
       { "term": "202410", "crn": "15328" },
@@ -909,6 +922,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41898" },
+      { "term": "202440", "crn": "42007" },
       { "term": "202430", "crn": "32191" },
       { "term": "202410", "crn": "11540" },
       { "term": "202410", "crn": "15362" },
@@ -937,6 +952,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61624" },
+      { "term": "202440", "crn": "41975" },
       { "term": "202430", "crn": "31424" },
       { "term": "202340", "crn": "42163" },
       { "term": "202330", "crn": "31556" },
@@ -944,7 +961,7 @@
     ],
     "description": "Introduces the different subsystems used to create a 3D game, including rendering, animation, collision, physics, audio, trigger systems, game logic, behavior trees, and simple artificial intelligence. Offers students an opportunity to learn the inner workings of game engines and how to use multiple libraries such as physics and graphics libraries to develop a game. Discusses graphics pipeline, scene graph, level design, behavior scripting, object-oriented game design, world editors, and game scripting languages.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CS", "number": "2510" }]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -1012,6 +1029,7 @@
       { "term": "202430", "crn": "32981" },
       { "term": "202430", "crn": "34935" },
       { "term": "202430", "crn": "38352" },
+      { "term": "202430", "crn": "40847" },
       { "term": "202410", "crn": "11802" },
       { "term": "202410", "crn": "14018" },
       { "term": "202410", "crn": "15379" },
@@ -1035,6 +1053,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41963" },
       { "term": "202430", "crn": "30311" },
       { "term": "202430", "crn": "37445" },
       { "term": "202410", "crn": "10323" },
@@ -1078,7 +1097,7 @@
     ],
     "description": "Introduces students to research in the fields of computer science, information science, data science, and cybersecurity. Explores how the scientific method is applied to these fields and covers the breadth of subareas of specialty that exist. Offers students an opportunity to practice how to locate and read scientific literature in different subareas. Also offers students an overview of graduate education in these fields.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CS", "number": "2500" }]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -1112,6 +1131,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202460", "crn": "61536" },
       { "term": "202430", "crn": "30178" },
       { "term": "202410", "crn": "11381" },
       { "term": "202410", "crn": "19749" },
@@ -1135,7 +1155,9 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41948" },
       { "term": "202430", "crn": "36881" },
+      { "term": "202430", "crn": "41512" },
       { "term": "202410", "crn": "12422" },
       { "term": "202330", "crn": "38885" },
       { "term": "202310", "crn": "12726" }
@@ -1211,7 +1233,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
-      { "term": "202430", "crn": "33393" },
+      { "term": "202430", "crn": "41132" },
       { "term": "202410", "crn": "11132" },
       { "term": "202340", "crn": "40815" },
       { "term": "202330", "crn": "33874" },
@@ -1255,15 +1277,7 @@
     ],
     "description": "Introduces computer graphics algorithms and concepts primarily focusing on offline rendering techniques. Consists of a lecture component and in-class laboratory to study common image synthesis algorithms and techniques to generate images used in games and 3D animated movies. Culminates with a final project in which students complete in groups or individually a renderer for generating high quality images. Students with an interest in a career as a graphics, rendering, or high performance computer engineer may consider taking this course.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "CS", "number": "2810" },
-      "Or",
-      { "subject": "MATH", "number": "2331" },
-      ")",
-      "And",
-      { "subject": "CS", "number": "3500" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -1283,15 +1297,7 @@
     ],
     "description": "Introduces a systematic approach to understanding the behavior of programming languages. Covers interpreters; static and dynamic scope; environments; binding and assignment; functions and recursion; parameter-passing and method dispatch; objects, classes, inheritance, and polymorphism; type rules and type checking; and concurrency.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CS", "number": "3500" },
-      "And",
-      "(",
-      { "subject": "CS", "number": "3000" },
-      "Or",
-      { "subject": "CS", "number": "4800" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -1307,13 +1313,7 @@
     ],
     "description": "Studies the construction of compilers and integrates material from earlier courses on programming languages, automata theory, computer architecture, and software design. Examines syntax trees; static semantics; type checking; typical machine architectures and their software structures; code generation; lexical analysis; and parsing techniques. Uses a hands-on approach with a substantial term project.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CS", "number": "4400" },
-      "Or",
-      { "subject": "CS", "number": "5400" },
-      "Or",
-      { "subject": "CS", "number": "7400" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -1351,6 +1351,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41976" },
       { "term": "202430", "crn": "39663" },
       { "term": "202410", "crn": "16842" },
       { "term": "202410", "crn": "19751" },
@@ -1372,10 +1373,12 @@
     "credits": 4,
     "nuPath": ["WI"],
     "sections": [
+      { "term": "202440", "crn": "41871" },
       { "term": "202430", "crn": "33778" },
       { "term": "202430", "crn": "34936" },
       { "term": "202430", "crn": "34937" },
       { "term": "202430", "crn": "39805" },
+      { "term": "202430", "crn": "41004" },
       { "term": "202410", "crn": "19752" },
       { "term": "202410", "crn": "14455" },
       { "term": "202410", "crn": "15363" },
@@ -1470,7 +1473,7 @@
     ],
     "description": "Introduces distributed systems, covering fundamental concepts and showing how they are applied to build reliable distributed services. Examines several existing distributed applications, such as file systems, databases, lock services, digital currencies, smart contracts, and machine learning, and how these applications must coordinate to function and overcome failures, network partitions, or compromised parties. Distributed systems, such as databases, cloud services, and blockchains, are omnipresent in the services and applications that serve society on a daily basis.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CS", "number": "3650" }]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -1512,11 +1515,7 @@
     "sections": [{ "term": "202310", "crn": "16232" }],
     "description": "Covers fundamental concepts, techniques, and algorithms in computer-aided reasoning, including propositional logic, variants of the DPLL algorithm for satisfiability checking, first-order logic, unification, tableaux, resolution, Horn clauses, congruence closure, rewriting, Knuth-Bendix completion, decision procedures, Satisfiability Modulo Theories, recursion, induction, termination, Presburger arithmetic, quantifier elimination, and interactive theorem proving. Offers students an opportunity to develop and implement a reasoning engine in a sequence of projects over the course of the semester. Also covers how to formalize and reason about computational systems using a modern interactive theorem prover.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CS", "number": "2800" },
-      "And",
-      { "subject": "CS", "number": "3000" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -1584,7 +1583,7 @@
     ],
     "description": "Offers students an in-depth look at research in a particular subarea of computer science, information science, data science, or cybersecurity. The particular subarea varies from semester to semester. Exposes students to current research topics, often via guest faculty members. Offers students an opportunity to practice reading and discussing scientific literature, presenting scientific work, and distilling the key ideas and contributions of papers through required weekly paper summaries.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CS", "number": "3950" }]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -1594,6 +1593,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61657" },
       { "term": "202430", "crn": "39806" },
       { "term": "202430", "crn": "39814" },
       { "term": "202430", "crn": "40728" },
@@ -1612,20 +1612,12 @@
     "description": "Offers a lecture course in computer science on a topic not regularly taught in a formal course. Topics may vary from offering to offering. May be repeated up to three times.",
     "coreqs": [],
     "prereqs": [
+      { "subject": "CS", "number": "3000" },
+      "And",
       "(",
       { "subject": "CS", "number": "3500" },
       "Or",
       { "subject": "DS", "number": "3500" },
-      ")",
-      "And",
-      { "subject": "CS", "number": "3000" },
-      "And",
-      { "subject": "CS", "number": "3650" },
-      "Or",
-      "(",
-      { "subject": "CS", "number": "4700" },
-      "Or",
-      { "subject": "CS", "number": "3700" },
       ")"
     ]
   },
@@ -1645,7 +1637,6 @@
       { "term": "202430", "crn": "40182" },
       { "term": "202430", "crn": "40374" },
       { "term": "202430", "crn": "39592" },
-      { "term": "202430", "crn": "39675" },
       { "term": "202430", "crn": "40372" },
       { "term": "202410", "crn": "17350" },
       { "term": "202410", "crn": "17351" },
@@ -1707,13 +1698,13 @@
       { "term": "202430", "crn": "36884" },
       { "term": "202430", "crn": "37400" },
       { "term": "202430", "crn": "37401" },
-      { "term": "202430", "crn": "39676" },
       { "term": "202430", "crn": "40183" },
       { "term": "202430", "crn": "40184" },
       { "term": "202430", "crn": "40375" },
       { "term": "202430", "crn": "40376" },
       { "term": "202430", "crn": "39593" },
       { "term": "202430", "crn": "39678" },
+      { "term": "202430", "crn": "40817" },
       { "term": "202410", "crn": "12130" },
       { "term": "202410", "crn": "17352" },
       { "term": "202410", "crn": "21213" },
@@ -1775,8 +1766,6 @@
       { "term": "202430", "crn": "37404" },
       { "term": "202430", "crn": "35061" },
       { "term": "202430", "crn": "39679" },
-      { "term": "202430", "crn": "39680" },
-      { "term": "202430", "crn": "39681" },
       { "term": "202430", "crn": "40185" },
       { "term": "202430", "crn": "40186" },
       { "term": "202430", "crn": "40377" },
@@ -2011,6 +2000,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41983" },
       { "term": "202430", "crn": "37410" },
       { "term": "202430", "crn": "37411" },
       { "term": "202430", "crn": "35056" },
@@ -2021,6 +2011,8 @@
       { "term": "202430", "crn": "40193" },
       { "term": "202430", "crn": "40391" },
       { "term": "202430", "crn": "40392" },
+      { "term": "202430", "crn": "40862" },
+      { "term": "202430", "crn": "40899" },
       { "term": "202430", "crn": "39604" },
       { "term": "202430", "crn": "39754" },
       { "term": "202430", "crn": "39605" },
@@ -2080,6 +2072,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41984" },
       { "term": "202430", "crn": "35057" },
       { "term": "202430", "crn": "35070" },
       { "term": "202430", "crn": "35071" },
@@ -2095,12 +2088,13 @@
       { "term": "202430", "crn": "40396" },
       { "term": "202430", "crn": "40397" },
       { "term": "202430", "crn": "40398" },
+      { "term": "202430", "crn": "40863" },
+      { "term": "202430", "crn": "40900" },
       { "term": "202430", "crn": "39606" },
       { "term": "202430", "crn": "39755" },
       { "term": "202430", "crn": "39607" },
       { "term": "202430", "crn": "39608" },
       { "term": "202430", "crn": "39609" },
-      { "term": "202430", "crn": "39610" },
       { "term": "202430", "crn": "39611" },
       { "term": "202410", "crn": "15375" },
       { "term": "202410", "crn": "17400" },
@@ -2341,6 +2335,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61626" },
       { "term": "202430", "crn": "39613" },
       { "term": "202410", "crn": "13503" },
       { "term": "202310", "crn": "13987" }
@@ -2357,6 +2352,8 @@
     "credits": 4,
     "nuPath": ["AD", "FQ"],
     "sections": [
+      { "term": "202460", "crn": "61627" },
+      { "term": "202440", "crn": "40916" },
       { "term": "202430", "crn": "31087" },
       { "term": "202430", "crn": "35135" },
       { "term": "202430", "crn": "37417" },
@@ -2365,6 +2362,8 @@
       { "term": "202430", "crn": "40206" },
       { "term": "202430", "crn": "40400" },
       { "term": "202430", "crn": "40401" },
+      { "term": "202430", "crn": "40953" },
+      { "term": "202430", "crn": "41031" },
       { "term": "202430", "crn": "39614" },
       { "term": "202430", "crn": "40207" },
       { "term": "202410", "crn": "10683" },
@@ -2420,7 +2419,7 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
-      { "term": "202430", "crn": "33780" },
+      { "term": "202430", "crn": "41133" },
       { "term": "202410", "crn": "12752" },
       { "term": "202410", "crn": "20444" },
       { "term": "202340", "crn": "40816" },
@@ -2485,9 +2484,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "42013" },
       { "term": "202430", "crn": "32575" },
       { "term": "202430", "crn": "39708" },
-      { "term": "202430", "crn": "40403" },
+      { "term": "202430", "crn": "40800" },
+      { "term": "202430", "crn": "40855" },
+      { "term": "202430", "crn": "41246" },
       { "term": "202430", "crn": "39758" },
       { "term": "202410", "crn": "15055" },
       { "term": "202410", "crn": "20830" },
@@ -2571,10 +2573,9 @@
     "sections": [
       { "term": "202430", "crn": "30741" },
       { "term": "202430", "crn": "40209" },
-      { "term": "202430", "crn": "40404" },
       { "term": "202430", "crn": "35074" },
       { "term": "202430", "crn": "40210" },
-      { "term": "202430", "crn": "40405" },
+      { "term": "202430", "crn": "41151" },
       { "term": "202410", "crn": "11137" },
       { "term": "202410", "crn": "17366" },
       { "term": "202410", "crn": "20288" },
@@ -2613,10 +2614,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61629" },
       { "term": "202430", "crn": "35107" },
       { "term": "202430", "crn": "35108" },
       { "term": "202430", "crn": "35570" },
       { "term": "202430", "crn": "40406" },
+      { "term": "202430", "crn": "40972" },
       { "term": "202410", "crn": "15268" },
       { "term": "202410", "crn": "15382" },
       { "term": "202410", "crn": "20290" },
@@ -2639,6 +2642,31 @@
     "description": "Focuses on mobile application development on a mobile phone or related platform. Discusses memory management; user interface building, including both MVC principles and specific tools; touch events; data handling, including core data, SQL, XML, and JSON; network techniques and URL loading; and, finally, specifics such as GPS and motion sensing that may be dependent on the particular mobile platform. Students are expected to work on a project that produces a professional-quality mobile application and to demonstrate the application that they have developed. The instructor chooses a modern mobile platform to be used in the course.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "CS",
+    "number": "5540",
+    "title": "Game Programming",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202460", "crn": "61625" },
+      { "term": "202440", "crn": "41977" }
+    ],
+    "description": "Covers the skills needed to develop easily scalable and modifiable scripts that can be used to implement various game mechanics common to most game genres. Programming is an integral part of the digital game design and development life cycle. Designed as a foundational game programming course covering numerous aspects of game programming.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "CS", "number": "5010" },
+      "Or",
+      "(",
+      { "subject": "CS", "number": "2500" },
+      "And",
+      { "subject": "CS", "number": "2510" },
+      "And",
+      { "subject": "CS", "number": "3500" },
+      ")"
+    ]
   },
   {
     "subject": "CS",
@@ -2679,12 +2707,16 @@
     "credits": 4,
     "nuPath": ["CE", "WI"],
     "sections": [
+      { "term": "202460", "crn": "61065" },
+      { "term": "202440", "crn": "41239" },
+      { "term": "202440", "crn": "41985" },
       { "term": "202430", "crn": "37421" },
       { "term": "202430", "crn": "35159" },
       { "term": "202430", "crn": "40212" },
       { "term": "202430", "crn": "40407" },
       { "term": "202430", "crn": "36914" },
       { "term": "202430", "crn": "36915" },
+      { "term": "202430", "crn": "41152" },
       { "term": "202410", "crn": "11550" },
       { "term": "202410", "crn": "17367" },
       { "term": "202410", "crn": "17387" },
@@ -2732,9 +2764,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41978" },
+      { "term": "202440", "crn": "41986" },
       { "term": "202430", "crn": "30568" },
       { "term": "202430", "crn": "35175" },
       { "term": "202430", "crn": "40213" },
+      { "term": "202430", "crn": "40954" },
       { "term": "202410", "crn": "13665" },
       { "term": "202410", "crn": "20298" },
       { "term": "202410", "crn": "20449" },
@@ -2762,6 +2797,9 @@
     "credits": 4,
     "nuPath": ["FQ"],
     "sections": [
+      { "term": "202440", "crn": "41979" },
+      { "term": "202440", "crn": "41980" },
+      { "term": "202440", "crn": "41988" },
       { "term": "202430", "crn": "30569" },
       { "term": "202430", "crn": "37894" },
       { "term": "202430", "crn": "35058" },
@@ -2774,6 +2812,7 @@
       { "term": "202430", "crn": "40215" },
       { "term": "202430", "crn": "40408" },
       { "term": "202430", "crn": "40409" },
+      { "term": "202430", "crn": "40860" },
       { "term": "202410", "crn": "10685" },
       { "term": "202410", "crn": "13666" },
       { "term": "202410", "crn": "15377" },
@@ -2869,6 +2908,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41515" },
       { "term": "202360", "crn": "61778" },
       { "term": "202360", "crn": "61798" },
       { "term": "202310", "crn": "21843" }
@@ -2952,6 +2992,8 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41981" },
+      { "term": "202440", "crn": "41989" },
       { "term": "202430", "crn": "31274" },
       { "term": "202430", "crn": "35076" },
       { "term": "202430", "crn": "39711" },
@@ -3047,6 +3089,7 @@
     "sections": [
       { "term": "202430", "crn": "40220" },
       { "term": "202430", "crn": "35350" },
+      { "term": "202430", "crn": "40934" },
       { "term": "202410", "crn": "20304" },
       { "term": "202340", "crn": "41962" },
       { "term": "202330", "crn": "36761" },
@@ -3132,6 +3175,8 @@
       { "term": "202430", "crn": "40221" },
       { "term": "202430", "crn": "40222" },
       { "term": "202430", "crn": "40410" },
+      { "term": "202430", "crn": "40955" },
+      { "term": "202430", "crn": "41000" },
       { "term": "202410", "crn": "14352" },
       { "term": "202410", "crn": "20306" },
       { "term": "202340", "crn": "41753" },
@@ -3159,11 +3204,7 @@
     "sections": [{ "term": "202410", "crn": "20453" }],
     "description": "Introduces concepts of OS kernels. Discusses the design and implementation of today's OS kernel components, such as process abstraction, virtual memory module, and file systems. Offers students an opportunity to obtain hands-on experience in building these components step-by-step through a series of assignments on a state-of-the-art hardware platform and to implement their own OS kernels that can run on bare-metal machines.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CS", "number": "3650" },
-      "Or",
-      { "subject": "CS", "number": "5600" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -3174,6 +3215,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "40411" },
+      { "term": "202430", "crn": "40983" },
       { "term": "202430", "crn": "35161" },
       { "term": "202430", "crn": "40223" },
       { "term": "202410", "crn": "15257" },
@@ -3201,6 +3243,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41990" },
       { "term": "202410", "crn": "20309" },
       { "term": "202410", "crn": "20454" },
       { "term": "202410", "crn": "20659" },
@@ -3221,6 +3264,29 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61321" },
+      { "term": "202460", "crn": "61322" },
+      { "term": "202460", "crn": "61323" },
+      { "term": "202460", "crn": "61324" },
+      { "term": "202460", "crn": "61404" },
+      { "term": "202460", "crn": "61478" },
+      { "term": "202460", "crn": "61537" },
+      { "term": "202460", "crn": "61538" },
+      { "term": "202440", "crn": "41770" },
+      { "term": "202440", "crn": "41872" },
+      { "term": "202440", "crn": "41873" },
+      { "term": "202440", "crn": "41874" },
+      { "term": "202440", "crn": "41875" },
+      { "term": "202440", "crn": "41876" },
+      { "term": "202440", "crn": "41877" },
+      { "term": "202440", "crn": "41878" },
+      { "term": "202430", "crn": "40782" },
+      { "term": "202430", "crn": "40783" },
+      { "term": "202430", "crn": "40784" },
+      { "term": "202430", "crn": "41112" },
+      { "term": "202430", "crn": "41113" },
+      { "term": "202430", "crn": "41114" },
+      { "term": "202430", "crn": "41115" },
       { "term": "202410", "crn": "21524" },
       { "term": "202410", "crn": "21525" },
       { "term": "202410", "crn": "21526" },
@@ -3266,7 +3332,25 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "22502" }],
+    "sections": [
+      { "term": "202460", "crn": "61539" },
+      { "term": "202460", "crn": "61540" },
+      { "term": "202460", "crn": "61541" },
+      { "term": "202460", "crn": "61542" },
+      { "term": "202460", "crn": "61543" },
+      { "term": "202460", "crn": "61544" },
+      { "term": "202460", "crn": "61545" },
+      { "term": "202460", "crn": "61546" },
+      { "term": "202440", "crn": "41879" },
+      { "term": "202440", "crn": "41880" },
+      { "term": "202440", "crn": "41881" },
+      { "term": "202440", "crn": "41882" },
+      { "term": "202440", "crn": "41883" },
+      { "term": "202440", "crn": "41884" },
+      { "term": "202440", "crn": "41885" },
+      { "term": "202440", "crn": "41886" },
+      { "term": "202410", "crn": "22502" }
+    ],
     "description": "Provides eligible students with an opportunity for work experience abroad. May be repeated once.",
     "coreqs": [],
     "prereqs": []
@@ -3279,6 +3363,31 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61300" },
+      { "term": "202460", "crn": "61301" },
+      { "term": "202460", "crn": "61302" },
+      { "term": "202460", "crn": "61303" },
+      { "term": "202460", "crn": "61304" },
+      { "term": "202460", "crn": "61305" },
+      { "term": "202460", "crn": "61306" },
+      { "term": "202460", "crn": "61547" },
+      { "term": "202440", "crn": "41573" },
+      { "term": "202440", "crn": "41574" },
+      { "term": "202440", "crn": "41575" },
+      { "term": "202440", "crn": "41576" },
+      { "term": "202440", "crn": "41579" },
+      { "term": "202440", "crn": "41580" },
+      { "term": "202440", "crn": "41581" },
+      { "term": "202440", "crn": "41887" },
+      { "term": "202430", "crn": "40785" },
+      { "term": "202430", "crn": "40786" },
+      { "term": "202430", "crn": "40787" },
+      { "term": "202430", "crn": "41122" },
+      { "term": "202430", "crn": "41123" },
+      { "term": "202430", "crn": "41124" },
+      { "term": "202430", "crn": "41125" },
+      { "term": "202430", "crn": "41768" },
+      { "term": "202430", "crn": "41986" },
       { "term": "202410", "crn": "21485" },
       { "term": "202410", "crn": "21486" },
       { "term": "202410", "crn": "21487" },
@@ -3352,6 +3461,29 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61337" },
+      { "term": "202460", "crn": "61548" },
+      { "term": "202460", "crn": "61549" },
+      { "term": "202460", "crn": "61550" },
+      { "term": "202460", "crn": "61551" },
+      { "term": "202460", "crn": "61552" },
+      { "term": "202460", "crn": "61553" },
+      { "term": "202460", "crn": "61554" },
+      { "term": "202440", "crn": "41888" },
+      { "term": "202440", "crn": "41889" },
+      { "term": "202440", "crn": "41890" },
+      { "term": "202440", "crn": "41891" },
+      { "term": "202440", "crn": "41892" },
+      { "term": "202440", "crn": "41893" },
+      { "term": "202440", "crn": "41894" },
+      { "term": "202440", "crn": "41895" },
+      { "term": "202430", "crn": "40788" },
+      { "term": "202430", "crn": "40792" },
+      { "term": "202430", "crn": "41127" },
+      { "term": "202430", "crn": "41128" },
+      { "term": "202430", "crn": "41129" },
+      { "term": "202430", "crn": "41130" },
+      { "term": "202430", "crn": "41836" },
       { "term": "202410", "crn": "22001" },
       { "term": "202410", "crn": "21601" },
       { "term": "202410", "crn": "21603" },
@@ -3382,7 +3514,7 @@
     "sections": [
       { "term": "202430", "crn": "39792" },
       { "term": "202430", "crn": "39817" },
-      { "term": "202430", "crn": "40476" }
+      { "term": "202430", "crn": "41457" }
     ],
     "description": "Offers various topics in computer science. May be repeated once.",
     "coreqs": [],
@@ -3398,13 +3530,7 @@
     "sections": [{ "term": "202330", "crn": "38934" }],
     "description": "Covers topics in advanced machine learning. Presents materials in the current machine learning literature. Focuses on graphical models, latent variable models, Bayesian inference, and nonparametric Bayesian methods. Seeks to prepare students to do research in machine learning. Expects students to read conference and journal articles, present these articles, and write an individual research paper. CS 7140 and EECE 7397 are cross-listed.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CS", "number": "6140" },
-      "Or",
-      { "subject": "EECE", "number": "7204" },
-      "Or",
-      { "subject": "EECE", "number": "7313" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -3442,11 +3568,7 @@
     ],
     "description": "Gives students the opportunity to read and present various survey and research papers in artificial intelligence. May be repeated for credit for PhD students; faculty supervisor and topics vary from semester to semester.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CS", "number": "5100" },
-      "Or",
-      { "subject": "CS", "number": "5100" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -3457,8 +3579,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "36926" },
-      { "term": "202430", "crn": "39715" },
       { "term": "202430", "crn": "40751" },
+      { "term": "202430", "crn": "40889" },
       { "term": "202410", "crn": "20579" },
       { "term": "202340", "crn": "41855" },
       { "term": "202350", "crn": "52740" },
@@ -3508,6 +3630,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40795" },
       { "term": "202410", "crn": "19758" },
       { "term": "202410", "crn": "21142" }
     ],
@@ -3545,12 +3668,25 @@
   },
   {
     "subject": "CS",
+    "number": "7280",
+    "title": "SpTp:BigData&NoSQLDatabase",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41153" }],
+    "description": "Offers various topics. Possible areas include object-oriented database systems and distributed database systems. May be repeated up to two times.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CS",
     "number": "7290",
     "title": "Special Topics in Data Science",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41991" },
       { "term": "202430", "crn": "39786" },
       { "term": "202430", "crn": "40732" },
       { "term": "202330", "crn": "36434" },
@@ -3693,7 +3829,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21334" }],
+    "sections": [
+      { "term": "202430", "crn": "41242" },
+      { "term": "202310", "crn": "21334" }
+    ],
     "description": "Description: Designing interactive, virtual worlds (such as video game environments and virtual meeting spaces) is a multidisciplinary endeavor requiring an understanding of interaction design, user experience, and programming. A plethora of programming languages and authoring tools have been created to lower the barrier to entry and increase the expressive capability of virtual world designers, in media ranging from text to 2D graphics to 3D virtual reality, separating the complexities of the game engine from the higher-level “scripting” of objects and behaviors. Languages like Inform and Ink help authors craft text-based interactions, while tools like PuzzleScript, Kodu, and GameMaker embed custom languages for scripting object behavior in 2D and 3D simulations. In this class, students will gain hands-on experimentation with these languages and tools through short weekly assignments, as well as read research papers that describe and evaluate their designs, which will be discussed during class meetings. In addition to learning to work with existing tools and documentation, students will learn to identify the affordances and constraints, edit and contribute to documentation, and thoughtfully critique these tools. The final project will consist of a deep dive into a tool of each students’ choosing, culminating in a final presentation.",
     "coreqs": [],
     "prereqs": []
@@ -3720,7 +3859,7 @@
     "sections": [{ "term": "202410", "crn": "21028" }],
     "description": "Gives students the opportunity to read and present various survey and research papers in software engineering. Faculty supervisor and topics vary from semester to semester. May be repeated for credit for PhD students.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CS", "number": "6520" }]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -3728,9 +3867,10 @@
     "title": "Advanced Software Engineering",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["EX"],
     "sections": [
       { "term": "202430", "crn": "40412" },
+      { "term": "202430", "crn": "41239" },
       { "term": "202330", "crn": "38940" }
     ],
     "description": "Offers various topics on software engineering. May be repeated up to two times.",
@@ -3794,6 +3934,36 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41404" },
+      { "term": "202430", "crn": "41405" },
+      { "term": "202430", "crn": "41406" },
+      { "term": "202430", "crn": "41407" },
+      { "term": "202430", "crn": "41408" },
+      { "term": "202430", "crn": "41409" },
+      { "term": "202430", "crn": "41410" },
+      { "term": "202430", "crn": "41411" },
+      { "term": "202430", "crn": "41412" },
+      { "term": "202430", "crn": "41413" },
+      { "term": "202430", "crn": "41414" },
+      { "term": "202430", "crn": "41415" },
+      { "term": "202430", "crn": "41416" },
+      { "term": "202430", "crn": "41417" },
+      { "term": "202430", "crn": "41418" },
+      { "term": "202430", "crn": "41419" },
+      { "term": "202430", "crn": "41420" },
+      { "term": "202430", "crn": "41421" },
+      { "term": "202430", "crn": "41440" },
+      { "term": "202430", "crn": "41441" },
+      { "term": "202430", "crn": "41443" },
+      { "term": "202430", "crn": "41458" },
+      { "term": "202430", "crn": "41492" },
+      { "term": "202430", "crn": "41573" },
+      { "term": "202430", "crn": "41655" },
+      { "term": "202430", "crn": "41656" },
+      { "term": "202430", "crn": "41712" },
+      { "term": "202430", "crn": "41713" },
+      { "term": "202430", "crn": "41714" },
+      { "term": "202430", "crn": "41802" },
       { "term": "202410", "crn": "21276" },
       { "term": "202410", "crn": "21277" },
       { "term": "202410", "crn": "21279" },
@@ -3862,11 +4032,7 @@
     "sections": [{ "term": "202410", "crn": "19763" }],
     "description": "Gives students the opportunity to read and present various survey and research papers in computer networks. Faculty supervisor and topics vary from semester to semester. May be repeated for credit for PhD students.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CS", "number": "5700" },
-      "Or",
-      { "subject": "CS", "number": "5700" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -3908,7 +4074,7 @@
     ],
     "description": "Covers core topics in computational complexity, including NP-completeness, time and space complexity, polynomial hierarchy, circuit complexity, probabilistic computation, interactive proofs, and hardness of approximation. Moves to more advanced topics that may include lower bounds, pseudorandomness, cryptography, and communication complexity.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CS", "number": "7800" }]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -3961,6 +4127,18 @@
   },
   {
     "subject": "CS",
+    "number": "7976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41561" }],
+    "description": "Focuses on student examining standard computer science material in fresh ways or new computer science material that is not covered in formal courses. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CS",
     "number": "7980",
     "title": "Capstone",
     "scheduleType": "Lecture",
@@ -3969,8 +4147,8 @@
     "sections": [
       { "term": "202430", "crn": "40413" },
       { "term": "202430", "crn": "40414" },
-      { "term": "202430", "crn": "40415" },
       { "term": "202430", "crn": "40416" },
+      { "term": "202430", "crn": "41479" },
       { "term": "202350", "crn": "52758" },
       { "term": "202350", "crn": "52759" },
       { "term": "202330", "crn": "39554" },
@@ -4000,6 +4178,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41267" },
+      { "term": "202430", "crn": "41377" },
+      { "term": "202430", "crn": "41708" },
+      { "term": "202430", "crn": "41715" },
+      { "term": "202430", "crn": "41803" },
+      { "term": "202430", "crn": "41917" },
       { "term": "202350", "crn": "53220" },
       { "term": "202330", "crn": "39882" },
       { "term": "202330", "crn": "39926" },
@@ -4027,6 +4211,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "40935" },
       { "term": "202340", "crn": "42301" },
       { "term": "202310", "crn": "21651" }
     ],
@@ -4042,7 +4227,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "40749" },
+      { "term": "202430", "crn": "41204" },
+      { "term": "202430", "crn": "41268" },
+      { "term": "202430", "crn": "41269" },
+      { "term": "202430", "crn": "41321" },
+      { "term": "202430", "crn": "41422" },
+      { "term": "202430", "crn": "41480" },
       { "term": "202360", "crn": "61751" },
       { "term": "202340", "crn": "42157" },
       { "term": "202350", "crn": "53144" },
@@ -4092,93 +4282,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "40269" },
-      { "term": "202430", "crn": "40270" },
-      { "term": "202430", "crn": "40271" },
-      { "term": "202430", "crn": "40272" },
-      { "term": "202430", "crn": "40273" },
-      { "term": "202430", "crn": "40276" },
-      { "term": "202430", "crn": "40277" },
-      { "term": "202430", "crn": "40278" },
-      { "term": "202430", "crn": "40279" },
-      { "term": "202430", "crn": "40281" },
-      { "term": "202430", "crn": "40280" },
-      { "term": "202430", "crn": "40282" },
-      { "term": "202430", "crn": "40283" },
-      { "term": "202430", "crn": "40284" },
-      { "term": "202430", "crn": "40285" },
-      { "term": "202430", "crn": "40286" },
-      { "term": "202430", "crn": "40287" },
-      { "term": "202430", "crn": "40288" },
       { "term": "202430", "crn": "40289" },
-      { "term": "202430", "crn": "40290" },
-      { "term": "202430", "crn": "40291" },
-      { "term": "202430", "crn": "40292" },
-      { "term": "202430", "crn": "40293" },
-      { "term": "202430", "crn": "40294" },
-      { "term": "202430", "crn": "40295" },
-      { "term": "202430", "crn": "40296" },
-      { "term": "202430", "crn": "40297" },
-      { "term": "202430", "crn": "40298" },
-      { "term": "202430", "crn": "40299" },
-      { "term": "202430", "crn": "40300" },
-      { "term": "202430", "crn": "40301" },
       { "term": "202430", "crn": "40302" },
-      { "term": "202430", "crn": "40303" },
-      { "term": "202430", "crn": "40304" },
-      { "term": "202430", "crn": "40305" },
-      { "term": "202430", "crn": "40306" },
-      { "term": "202430", "crn": "40307" },
-      { "term": "202430", "crn": "40308" },
-      { "term": "202430", "crn": "40309" },
-      { "term": "202430", "crn": "40310" },
-      { "term": "202430", "crn": "40311" },
-      { "term": "202430", "crn": "40312" },
-      { "term": "202430", "crn": "40313" },
-      { "term": "202430", "crn": "40314" },
-      { "term": "202430", "crn": "40315" },
-      { "term": "202430", "crn": "40316" },
-      { "term": "202430", "crn": "40317" },
-      { "term": "202430", "crn": "40318" },
-      { "term": "202430", "crn": "40319" },
-      { "term": "202430", "crn": "40320" },
-      { "term": "202430", "crn": "40321" },
-      { "term": "202430", "crn": "40322" },
-      { "term": "202430", "crn": "40324" },
-      { "term": "202430", "crn": "40323" },
-      { "term": "202430", "crn": "40325" },
-      { "term": "202430", "crn": "40326" },
-      { "term": "202430", "crn": "40327" },
-      { "term": "202430", "crn": "40328" },
-      { "term": "202430", "crn": "40329" },
-      { "term": "202430", "crn": "40330" },
-      { "term": "202430", "crn": "40331" },
-      { "term": "202430", "crn": "40332" },
-      { "term": "202430", "crn": "40333" },
-      { "term": "202430", "crn": "40334" },
-      { "term": "202430", "crn": "40335" },
-      { "term": "202430", "crn": "40336" },
-      { "term": "202430", "crn": "40337" },
-      { "term": "202430", "crn": "40338" },
-      { "term": "202430", "crn": "40339" },
-      { "term": "202430", "crn": "40340" },
-      { "term": "202430", "crn": "40341" },
-      { "term": "202430", "crn": "40342" },
-      { "term": "202430", "crn": "40343" },
-      { "term": "202430", "crn": "40344" },
-      { "term": "202430", "crn": "40345" },
-      { "term": "202430", "crn": "40346" },
-      { "term": "202430", "crn": "40347" },
-      { "term": "202430", "crn": "40348" },
-      { "term": "202430", "crn": "40349" },
-      { "term": "202430", "crn": "40350" },
-      { "term": "202430", "crn": "40351" },
-      { "term": "202430", "crn": "40352" },
-      { "term": "202430", "crn": "40353" },
-      { "term": "202430", "crn": "40354" },
-      { "term": "202430", "crn": "40355" },
-      { "term": "202430", "crn": "40356" },
-      { "term": "202430", "crn": "40357" },
       { "term": "202350", "crn": "53110" },
       { "term": "202330", "crn": "40303" }
     ],
@@ -4194,18 +4299,8 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "40087" },
-      { "term": "202430", "crn": "40088" },
-      { "term": "202430", "crn": "40089" },
-      { "term": "202430", "crn": "40100" },
-      { "term": "202430", "crn": "40090" },
-      { "term": "202430", "crn": "40136" },
-      { "term": "202430", "crn": "40093" },
-      { "term": "202430", "crn": "40097" },
-      { "term": "202430", "crn": "40091" },
-      { "term": "202430", "crn": "40102" },
-      { "term": "202430", "crn": "40092" },
-      { "term": "202430", "crn": "40095" },
+      { "term": "202430", "crn": "40125" },
+      { "term": "202430", "crn": "40148" },
       { "term": "202360", "crn": "61580" },
       { "term": "202360", "crn": "61601" },
       { "term": "202360", "crn": "61818" },
@@ -4270,6 +4365,25 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "34233" },
+      { "term": "202430", "crn": "34288" },
+      { "term": "202430", "crn": "34326" },
+      { "term": "202430", "crn": "34328" },
+      { "term": "202430", "crn": "34371" },
+      { "term": "202430", "crn": "34374" },
+      { "term": "202430", "crn": "40529" },
+      { "term": "202430", "crn": "38428" },
+      { "term": "202430", "crn": "40530" },
+      { "term": "202430", "crn": "40532" },
+      { "term": "202430", "crn": "40533" },
+      { "term": "202430", "crn": "34376" },
+      { "term": "202430", "crn": "40536" },
+      { "term": "202430", "crn": "40538" },
+      { "term": "202430", "crn": "40539" },
+      { "term": "202430", "crn": "40540" },
+      { "term": "202430", "crn": "40541" },
+      { "term": "202430", "crn": "40545" },
+      { "term": "202430", "crn": "40546" },
       { "term": "202360", "crn": "61520" },
       { "term": "202360", "crn": "61526" },
       { "term": "202360", "crn": "61592" },
@@ -4538,7 +4652,7 @@
     ],
     "description": "Offers selected work with the agreement of a thesis supervisor.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CS", "number": "9000" }]
+    "prereqs": []
   },
   {
     "subject": "CS",
@@ -4561,7 +4675,7 @@
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
-    "prereqs": [{ "subject": "CS", "number": "9990" }]
+    "prereqs": []
   },
   {
     "subject": "CS",

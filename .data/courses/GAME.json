@@ -87,6 +87,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202460", "crn": "61615" },
       { "term": "202430", "crn": "33686" },
       { "term": "202430", "crn": "33687" },
       { "term": "202430", "crn": "34979" },
@@ -212,7 +213,6 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
-      { "term": "202430", "crn": "32829" },
       { "term": "202430", "crn": "38063" },
       { "term": "202330", "crn": "33197" },
       { "term": "202330", "crn": "40151" },
@@ -230,6 +230,7 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
+      { "term": "202440", "crn": "41961" },
       { "term": "202430", "crn": "33688" },
       { "term": "202430", "crn": "37763" },
       { "term": "202430", "crn": "38996" },
@@ -261,6 +262,7 @@
       { "term": "202430", "crn": "34317" },
       { "term": "202430", "crn": "38079" },
       { "term": "202430", "crn": "38368" },
+      { "term": "202430", "crn": "41690" },
       { "term": "202330", "crn": "35080" },
       { "term": "202330", "crn": "40474" }
     ],
@@ -287,14 +289,13 @@
     "scheduleType": "Studio",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20651" }],
+    "sections": [
+      { "term": "202430", "crn": "40773" },
+      { "term": "202410", "crn": "20651" }
+    ],
     "description": "Prerequisite GAME 1110 and GAME 2500 or instructor permission. \n\nStudents focus on designing game mechanics that fit the games and spaces where they are used. We will begin by designing, prototyping, and implementing individual game mechanics and then move on to combining simple mechanics into complex interconnected systems. Includes hand coding mechanics, using Unity’s new Bolt visual coding tools and finding and incorporating existing systems in Unity. \n \nDesigned as a complimantary course to GAME 3400 / GSND 6250 courses. Game Design Patterns are utilized as the backbone of the course pedagogy.  Reinforces the concepts of GAME 3400 /GSND 6250 which focuses on game design through the lens of game levels and their architecture, though the courses can be taken in any order.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "GAME", "number": "1110" },
-      "Or",
-      { "subject": "GAME", "number": "2500" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "GAME",
@@ -338,17 +339,14 @@
     "nuPath": ["CE"],
     "sections": [
       { "term": "202430", "crn": "37079" },
+      { "term": "202430", "crn": "41236" },
       { "term": "202410", "crn": "11265" },
       { "term": "202330", "crn": "39095" },
       { "term": "202310", "crn": "11428" }
     ],
     "description": "Offers students an opportunity to develop a fully functional game using the iterative design skills they develop in GAME 3700 and GAME 3800. Students take on individual roles in a large-group project, with the goal of creating a complete game from preproduction through implementation and testing. Focuses on developing, playtesting, and iteratively refining a multilevel game, in addition to class discussions and exercises oriented toward professional and portfolio development. This class is an opportunity to complete, polish, and potentially publish that project. Integrated into the capstone are opportunities for the students to gain exposure for their games and to practice their professional development skills.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "GAME", "number": "3700" },
-      "And",
-      { "subject": "GAME", "number": "3800" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "GAME",

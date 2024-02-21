@@ -13,21 +13,30 @@
   },
   {
     "subject": "LW",
+    "number": "6102",
+    "title": "Introduction to Legal Studies 2",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41918" }],
+    "description": "This course builds on LW 6101 with its emphasis on common law by introducing students to statutes and regulations. The setting involves federal administrative agencies governing employment, consumer protection, environment, labor, cyberlaw, intellectual property, and international trade. Exercises and discussions require finding, summarizing, applying and arguing about the applicability of statutes and regulations in concrete situations. The capstone of the course allows students to create a project to illustrate the lessons learned in the course.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "LW",
     "number": "6120",
     "title": "Law and Strategy",
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39767" }],
+    "sections": [
+      { "term": "202430", "crn": "41566" },
+      { "term": "202330", "crn": "39767" }
+    ],
     "description": "Introduces students to the implications and impact of law on strategy, with attention to applying legal knowledge and resources to strategic planning and strategy implementation. Uses several examples of readily understood strategies to provide opportunities for students to identify the legal environment, consider the legal rights and requirements implicated by relevant law or regulation (e.g., intellectual property, contracts, administrative law) and their potential impact on management, incorporating law as a resource on the resource based view of the firm. Range of examples include considering law and strategy implementation in multiple contexts. Focuses on developing an appreciation of the legal environment and making effective use of legal resources and lawyers as advisors in strategic management aimed at attaining sustainable competitive advantage over rivals.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "LW", "number": "6400" },
-      "Or",
-      { "subject": "LW", "number": "6101" },
-      "Or",
-      { "subject": "LW", "number": "6102" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "LW",
@@ -51,7 +60,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39769" }],
+    "sections": [
+      { "term": "202430", "crn": "41568" },
+      { "term": "202330", "crn": "39769" }
+    ],
     "description": "Covers the challenges facing organizations in building programs that ensure adherence with legal obligations, especially regarding data. Institutions increasingly face a host of regulatory compliance issues. Explores statutes covering a broad range of areas, especially when it involves data protection and privacy.",
     "coreqs": [],
     "prereqs": [
@@ -76,13 +88,7 @@
     ],
     "description": "Class meets from September 6 - thru October 22.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "LW", "number": "6101" },
-      "Or",
-      { "subject": "LW", "number": "6102" },
-      "Or",
-      { "subject": "LW", "number": "6400" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "LW",
@@ -104,12 +110,27 @@
   },
   {
     "subject": "LW",
+    "number": "6182",
+    "title": "Patient Records, Privacy, and Security",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41601" }],
+    "description": "This course explores the ethical and legal obligations respecting patient records, particularly electronic records. In addition to reviewing HIPAA's privacy and security rules, the course will cover professional ethics regarding confidentiality, common law and state protections for confidentiality, GINA, and the HiTech Act.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "LW", "number": "6400" }]
+  },
+  {
+    "subject": "LW",
     "number": "6235",
     "title": "Current Issues in Law and Public Policy",
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39771" }],
+    "sections": [
+      { "term": "202430", "crn": "41570" },
+      { "term": "202330", "crn": "39771" }
+    ],
     "description": "Examines the evolving roles of courts, agencies, legislatures, citizen movements, and nonprofit organizations in policymaking through case studies of current debates in law and policy. Explores how businesses and advocacy groups combine the use of legal tools and other activities to achieve policy goals. Considers how law can be used to right past wrongs and how grassroots activities and individual actions can contribute to a fight against injustice. Focuses on a range of policy issues; possible topics include but are not limited to healthcare reform, criminal justice reform, racial justice, reproductive rights, marriage equality, and environmental justice.",
     "coreqs": [],
     "prereqs": [
@@ -196,7 +217,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39955" }],
+    "sections": [
+      { "term": "202430", "crn": "40834" },
+      { "term": "202330", "crn": "39955" }
+    ],
     "description": "This course examines several rights protected by the First Amendment to the Constitution. The focus is on the principles and processes developed by the judiciary to protect various forms of speech, expression and association. The course does NOT deal with the free exercise of religion or the establishment clause. The course also focuses on integrating doctrine with the core values of the First Amendment as well as emphasizing the need for students to develop their own preferred approach to protecting free expression. The course does not, except tangentially, deal with other parts of the Bill of Rights.",
     "coreqs": [],
     "prereqs": [{ "subject": "LW", "number": "6400" }]
@@ -232,7 +256,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39956" }],
+    "sections": [
+      { "term": "202430", "crn": "40835" },
+      { "term": "202330", "crn": "39956" }
+    ],
     "description": "Explores the intersection of law, medicine, and ethics in diverse contexts that call for the evaluation of policies and practices implicating individual or public health. Topics may include but are not limited to end-of-life care, reproductive technologies, vaccines and the management of public health emergencies, professional and research ethics, confidentiality in health information, and equitable access to health care.",
     "coreqs": [],
     "prereqs": []
@@ -290,12 +317,27 @@
   },
   {
     "subject": "LW",
+    "number": "7539",
+    "title": "Employment Law&#8212;Job Security and Rights",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40877" }],
+    "description": "This course surveys legal and policy issues concerning job security, focusing primarily on law governing the termination of private sector employment. Students develop an understanding of the history and scope of the underlying employment-at-will doctrine and the primary ways in which the at-will doctrine has been modified through common law and statute.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "LW",
     "number": "7597",
     "title": "Civil Rights and Restorative Justice Clinic",
     "scheduleType": "Seminar",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39960" }],
+    "sections": [
+      { "term": "202430", "crn": "40838" },
+      { "term": "202330", "crn": "39960" }
+    ],
     "description": "The CRRJ (Civil Rights and Restorative Justice) Clinic engages students in legal research, litigation and legislative initiatives relating to anti-civil rights violence in the United States. CRRJ clinic students assist law enforcement agencies considering criminal investigation and pursue civil litigation against government entities. One of CRRJ's projects, Reconstructing Cases of Racial Violence, involves researching cases where criminal prosecution may not be an option. Students reconstruct legal proceedings and conduct factual investigations. The project focuses on practical legal research skills and helps students integrate the law of torts, civil procedure, federal courts, criminal law, and constitutional law. Faculty will provide individual supervision of each student.",
     "coreqs": [],
     "prereqs": []
@@ -310,7 +352,7 @@
     "sections": [{ "term": "202330", "crn": "40484" }],
     "description": "The field of Drug Law is vast, spanning the discovery, manufacture, distribution, and consumption of chemical agents designed to alter the human condition. This course focuses on three domains of the broader subject: the evolution and current state of the Federal Food, Drug, and Cosmetic Act; the architecture of the drug regulation system in the U.S., including the distinct space occupied by the Food and Drug Administration, the Department of Agriculture, and the Drug Enforcement Agency; and the role of regulation and tort litigation in harmonizing drug policy with science. Designed around legal and policy case studies, this course is intended for students expecting to become involved in clinical practice involving pharmaceuticals as well those generally interested in the interplay of law and public health.",
     "coreqs": [],
-    "prereqs": [{ "subject": "LW", "number": "6400" }]
+    "prereqs": []
   },
   {
     "subject": "LW",
@@ -355,7 +397,10 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39961" }],
+    "sections": [
+      { "term": "202430", "crn": "40837" },
+      { "term": "202330", "crn": "39961" }
+    ],
     "description": "Explores inequality from a range of disciplinary perspectives and the difference that can make in a variety of legal, social, and economic contexts. Elaborates methodologies for mapping ways diverse legal regimes and concepts contribute to the production, recognition, reinforcement, and maintenance of hierarchies of privilege and disadvantage between individuals, groups, localities, regions, and nations. Identifies key legal drivers in the production of inequities and explores how they shift bargaining power, redistribute resources, or otherwise ameliorate inequities or their adverse consequences. Students research a circumstance of inequality and develop a legal map to engage it. With permission of instructor, students may register for an additional credit by completing a substantial paper or equivalent writing project (in addition to other course requirements) as required by the instructor.",
     "coreqs": [],
     "prereqs": []

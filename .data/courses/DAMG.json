@@ -30,7 +30,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35194" },
+      { "term": "202430", "crn": "35195" },
+      { "term": "202430", "crn": "35196" },
       { "term": "202430", "crn": "35197" },
+      { "term": "202430", "crn": "35198" },
+      { "term": "202430", "crn": "35199" },
       { "term": "202430", "crn": "35535" },
       { "term": "202430", "crn": "37823" },
       { "term": "202410", "crn": "15018" },
@@ -71,6 +76,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "35203" },
+      { "term": "202430", "crn": "39496" },
       { "term": "202410", "crn": "15027" },
       { "term": "202350", "crn": "52638" },
       { "term": "202330", "crn": "36513" },
@@ -209,13 +215,17 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "39498" },
       { "term": "202430", "crn": "39499" },
+      { "term": "202430", "crn": "41603" },
       { "term": "202410", "crn": "21377" },
       { "term": "202410", "crn": "21437" }
     ],
     "description": "Offers topics of current interest in data architecture and management. May be repeated without limit.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "INFO", "number": "6105" },
+      "Or",
+      { "subject": "DAMG", "number": "6105" }
+    ]
   }
 ]

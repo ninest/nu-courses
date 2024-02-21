@@ -21,7 +21,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20869" }],
+    "sections": [
+      { "term": "202440", "crn": "42081" },
+      { "term": "202410", "crn": "20869" }
+    ],
     "description": "Provides a project-based experiential learning opportunity for students to leverage insights on stakeholder values and societal challenges in business. Offers students an opportunity to explore and apply best practices in environmental sustainability to impact societal challenges associated with climate change. Students work in teams to bring their experience and newly learned skills to solve a real sustainability-related business problem. Includes guidance and feedback from industry experts and peers through interviews, case studies, question-and-answer sessions, and team feedback sessions.",
     "coreqs": [],
     "prereqs": []
@@ -33,8 +36,83 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20871" }],
+    "sections": [
+      { "term": "202440", "crn": "42082" },
+      { "term": "202410", "crn": "20871" }
+    ],
     "description": "Provides a project-based experiential learning opportunity for students to leverage insights on stakeholder values and societal challenges in business. Offers students an opportunity to explore and apply best practices in promoting diverse, equitable, and inclusive workplaces. Students work in teams to bring their experience and newly learned skills to solve a real DEI-related business problem. Includes guidance and feedback from industry experts and peers through interviews, case studies, question-and-answer sessions, and team feedback sessions.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EEBA",
+    "number": "6404",
+    "title": "Key Developments in Environmental, Social, and Governance Investing",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40849" }],
+    "description": "Offers students a hands-on opportunity to research and compare environmental, social, governance, and non–ESG portfolios while hearing from industry experts along the way. Exposes students to how and why investors engage in ESG investing and how to analyze the performance and risk of such investing. Covers what rating firms are, what global financial resources are committed to ESG investing, the regulatory landscape, and the ongoing challenges that ESG investing poses. Emphasizes the tenets of this type of investing from multiple perspectives, including portfolio managers, institutional investors, retail investors, trade groups, regulators, and political factions.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EEBA",
+    "number": "6405",
+    "title": "Persuasive Sales, Personal and Professional",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40850" }],
+    "description": "Introduces selling and the industry of B2B professional selling. Focuses on sales skills that span any function. Covers selling roles and mastery of key selling and presenting skills. Emphasizes heightening persuasive selling skills needed personally and professionally to achieve success. Examines the use of negotiation to achieve the best possible outcomes. Engages in hands-on exercises and real-world simulations to hone sales skills across a range of different scenarios.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EEBA",
+    "number": "6406",
+    "title": "Managing Operational Disruption in Healthcare",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "40848" }],
+    "description": "Studies the current and ever-changing healthcare environment and potential disruptions to healthcare organizations. Covers skills needed for problem identification, problem solving, and operational execution within the organization. Offers students an opportunity to leverage skills and thinking through a highly experiential, immersive experience; develop observations and reflections of complex situations or challenges; frame the challenges, drawing on concepts, observed patterns, and experiences; synthesize insights into a creative solution; and apply the learnings to new situations.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EEBA",
+    "number": "6407",
+    "title": "Brand Development and Advertising Application",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202440", "crn": "42083" }],
+    "description": "Explores the landscape of brand building amid ever-evolving marketing communication platforms. Utilizes inquiry-based research practices and experiential study culminating in a project to delve into the art of brand development and advertising. Offers students an opportunity to apply key concepts such as positioning, targeting, creativity, media mix, and integrated brand promotion strategies. Emphasizes responding to the challenges and opportunities presented by modern marketing trends.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EEBA",
+    "number": "6408",
+    "title": "Innovation Behaviors",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202460", "crn": "61665" }],
+    "description": "Focuses on the behaviors that either enable or inhibit innovation. Emphasizes demystifying the ideation process and offering specific practices that have been shown to support creativity and innovation. Includes concepts that effective innovators use to bring good ideas to life, such as tactics of influence and persuasion, optimizing team innovation and learning, and leadership practices focused on innovation. Offers students an opportunity to develop a proposed innovation idea and implementation plan for a real-world problem. Includes evaluation by an industry expert.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EEBA",
+    "number": "6409",
+    "title": "Strategy: Successful Internationalization",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41542" }],
+    "description": "Offers concepts, frameworks, and information useful for analyzing a company’s international strategy and helping it create and capture value. Integrates and extends ideas presented in functional courses to provide a comprehensive overview of top managers’ strategic decisions and is organized around key strategic decisions to enhance comprehension of strategy. Explains the logic for recommending one course of action over others and the conditions under which it is likely to be more successful. Engages students with a real client, providing them with valuable exposure to authentic strategic situations encountered in the real world.",
     "coreqs": [],
     "prereqs": []
   }

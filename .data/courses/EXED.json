@@ -13,6 +13,18 @@
   },
   {
     "subject": "EXED",
+    "number": "4959",
+    "title": "Cooperative Education Integrated Experience",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41516" }],
+    "description": "Offers a guided learning opportunity to graduate students to accompany their cooperative education work experience. Under faculty supervision and assessment, students engage in one or more projects related to, but distinct from, their work assignments, or explore topics related to their work experience to enhance their experiential learning. May be repeated twice.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EXED",
     "number": "6945",
     "title": "Experiential Integration Seminar",
     "scheduleType": "Seminar",
@@ -24,6 +36,18 @@
       { "term": "202410", "crn": "21646" }
     ],
     "description": "Guides students in connecting experiential learning to key concepts and skills for the student’s degree program. May be repeated up to five times.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EXED",
+    "number": "6959",
+    "title": "Cooperative Education Integrated Experience",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41517" }],
+    "description": "Offers a guided learning opportunity to graduate students to accompany their cooperative education work experience. Under faculty supervision and assessment, students engage in one or more projects related to, but distinct from, their work assignments, or explore topics related to their work experience to enhance their experiential learning. May be repeated twice.",
     "coreqs": [],
     "prereqs": []
   }

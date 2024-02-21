@@ -7,6 +7,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40886" },
       { "term": "202430", "crn": "33986" },
       { "term": "202430", "crn": "30054" },
       { "term": "202430", "crn": "35761" },
@@ -36,6 +37,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "40887" },
       { "term": "202430", "crn": "30053" },
       { "term": "202430", "crn": "32792" },
       { "term": "202410", "crn": "13173" },
@@ -133,7 +135,7 @@
     ],
     "description": "Focuses on continued development of syntactic competence in American Sign Language with particular attention to the use of ASL in formal discourse. Also focuses on lexical semantics and semantic equivalents for multiple meaning English lexical items.",
     "coreqs": [],
-    "prereqs": [{ "subject": "AMSL", "number": "2102" }]
+    "prereqs": []
   },
   {
     "subject": "AMSL",

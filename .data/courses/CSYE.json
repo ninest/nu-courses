@@ -7,10 +7,10 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "32168" },
       { "term": "202430", "crn": "32578" },
       { "term": "202430", "crn": "36564" },
       { "term": "202430", "crn": "36565" },
-      { "term": "202430", "crn": "39491" },
       { "term": "202410", "crn": "12892" },
       { "term": "202410", "crn": "13315" },
       { "term": "202410", "crn": "18409" },
@@ -41,7 +41,6 @@
     "sections": [
       { "term": "202430", "crn": "35391" },
       { "term": "202430", "crn": "35392" },
-      { "term": "202430", "crn": "35395" },
       { "term": "202410", "crn": "15974" },
       { "term": "202410", "crn": "15975" },
       { "term": "202410", "crn": "20976" },
@@ -71,13 +70,7 @@
     ],
     "description": "Designed to build on previous experience in concepts of object-oriented design courses with equal focus in the three areas of architecture, design, and implementation. Instruction and hands-on exercises cover both server-side and client-side web programming. Offers students an opportunity to build a conceptual understanding and to gain practical experience with popular frameworks (Spring MVC, Hibernate, and Dojo or jQuery) that increase productivity, empower developers, and greatly simplify web development. The goal is to be able to build the server side and client side of substantial web-based, client-server, database-intensive, multitier applications.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "CSYE", "number": "6200" },
-      "Or",
-      { "subject": "CSYE", "number": "6202" },
-      "Or",
-      { "subject": "CSYE", "number": "6205" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CSYE",
@@ -87,7 +80,6 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "31933" },
       { "term": "202430", "crn": "32621" },
       { "term": "202430", "crn": "32385" },
       { "term": "202430", "crn": "33353" },
@@ -146,7 +138,7 @@
     ],
     "description": "Addresses how scientists and engineers can use quantum computers to simulate large quantum mechanical systems easily, which is crucial in discovery of new lifesaving drugs and new efficient materials. Quantum computers maintain an abstract state where both 0 and 1 states exist simultaneously with some probability. The course delves deeper into how such an abstract state can be realized physically and used as a computing tool to simplify algorithm implementation and execution. Offers students an opportunity to learn about the latest breakthroughs in cryptography systems (RSA), as well as fast database search; accurate weather forecasting; ultrasecure communication; and fast image recognition.",
     "coreqs": [],
-    "prereqs": [{ "subject": "INFO", "number": "6205" }]
+    "prereqs": []
   },
   {
     "subject": "CSYE",
@@ -156,7 +148,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "33797" },
+      { "term": "202430", "crn": "38725" },
       { "term": "202410", "crn": "20974" },
       { "term": "202330", "crn": "34411" }
     ],
@@ -172,17 +164,14 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "33798" },
       { "term": "202410", "crn": "14559" },
       { "term": "202310", "crn": "15390" },
       { "term": "202260", "crn": "61418" }
     ],
     "description": "Explores the parallelization of machine learning and deep learning code that leads to high performance on heterogeneous cluster architectures. Includes the applications to a variety of domains, including image classification, speech recognition, and natural language processing, etc. Covers a brief overview of the emerging parallel computing applications. Analyzes system architectures for different kinds of parallel computing systems (shared-memory system, distributed-memory system, accelerator system, and hybrid). Offers students an opportunity to practice the principles and the practice of the emerging parallelism-based machine-learning paradigm.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "DAMG", "number": "6105" },
-      "Or",
-      { "subject": "INFO", "number": "6105" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "CSYE",
@@ -261,9 +250,7 @@
       { "term": "202430", "crn": "33800" },
       { "term": "202430", "crn": "36567" },
       { "term": "202430", "crn": "36568" },
-      { "term": "202430", "crn": "36569" },
       { "term": "202430", "crn": "38215" },
-      { "term": "202430", "crn": "39494" },
       { "term": "202410", "crn": "14735" },
       { "term": "202410", "crn": "18911" },
       { "term": "202410", "crn": "19819" },
@@ -308,12 +295,12 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "31936" },
       { "term": "202430", "crn": "32583" },
-      { "term": "202430", "crn": "33507" },
       { "term": "202430", "crn": "36570" },
+      { "term": "202430", "crn": "36571" },
       { "term": "202430", "crn": "36572" },
       { "term": "202430", "crn": "38174" },
-      { "term": "202430", "crn": "40649" },
       { "term": "202410", "crn": "12893" },
       { "term": "202410", "crn": "13653" },
       { "term": "202410", "crn": "14006" },
@@ -372,7 +359,11 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35464" },
       { "term": "202430", "crn": "40726" },
+      { "term": "202430", "crn": "40801" },
+      { "term": "202430", "crn": "40978" },
+      { "term": "202430", "crn": "41154" },
       { "term": "202410", "crn": "20525" },
       { "term": "202410", "crn": "21608" },
       { "term": "202350", "crn": "51288" },
@@ -385,7 +376,11 @@
     ],
     "description": "Offers topics of current interest in computer systems engineering. May be repeated without limit.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "CSYE", "number": "6200" },
+      "Or",
+      { "subject": "INFO", "number": "5100" }
+    ]
   },
   {
     "subject": "CSYE",
@@ -426,6 +421,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "35982" },
       { "term": "202330", "crn": "37848" },
       { "term": "202310", "crn": "18538" }
     ],

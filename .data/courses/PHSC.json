@@ -52,6 +52,7 @@
     "credits": 3,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41374" },
       { "term": "202410", "crn": "10354" },
       { "term": "202340", "crn": "41892" },
       { "term": "202310", "crn": "10380" }
@@ -68,6 +69,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "41375" },
       { "term": "202410", "crn": "10353" },
       { "term": "202410", "crn": "10352" },
       { "term": "202410", "crn": "10333" },
@@ -137,23 +139,7 @@
     ],
     "description": "Introduces the structures, functions, and metabolism of amino acids, proteins, carbohydrates, lipids, and nucleic acids. Discusses the mechanisms of enzyme reactions, enzyme kinetics, vitamins, biological oxidation-reduction reactions, and bioenergetics, as well as various inborn errors of metabolism.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "PHSC", "number": "2301" },
-      "Or",
-      { "subject": "BIOL", "number": "2217" },
-      "Or",
-      { "subject": "BIOL", "number": "1117" },
-      ")",
-      "And",
-      "(",
-      { "subject": "BIOL", "number": "1113" },
-      "Or",
-      { "subject": "BIOL", "number": "1103" },
-      ")",
-      "And",
-      { "subject": "CHEM", "number": "2313" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "PHSC",
@@ -168,18 +154,7 @@
     ],
     "description": "Provides students with an understanding of the principles, mechanisms, organs, cells, and molecules of the innate and adaptive immunity. Monoclonal antibodies, organ transplant immunity, hypersensitivity, tolerance, tumor immunity, autoimmunity, and immunodeficiencies are discussed in light of potential therapeutic interventions. Weekly journal club-style presentation of related assigned topic is required.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "PHSC", "number": "2303" },
-      "Or",
-      { "subject": "BIOL", "number": "2219" },
-      ")",
-      "And",
-      { "subject": "PHSC", "number": "2320" },
-      ")",
-      "Or",
-      "Graduate Admission"
-    ]
+    "prereqs": []
   },
   {
     "subject": "PHSC",
@@ -189,6 +164,7 @@
     "credits": 4,
     "nuPath": ["ER"],
     "sections": [
+      { "term": "202440", "crn": "41900" },
       { "term": "202410", "crn": "14410" },
       { "term": "202310", "crn": "15152" }
     ],
@@ -291,7 +267,7 @@
     ],
     "description": "Formulates pharmaceutical dosage forms such as powders, capsules, solutions, suspensions, emulsions, ointments, gels, creams, lotions, and suppositories, and tests the quality of the products in the lab using approved methods of analysis. Also provides an understanding of the physical and chemical properties of drugs as they relate to formulation development through experimental observation of dissolution, stability, and effects of pH and co-solvent on solubility of drugs.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PHSC", "number": "3411" }]
+    "prereqs": []
   },
   {
     "subject": "PHSC",
@@ -433,6 +409,7 @@
     "nuPath": ["WI"],
     "sections": [
       { "term": "202430", "crn": "37277" },
+      { "term": "202430", "crn": "41271" },
       { "term": "202330", "crn": "39310" }
     ],
     "description": "Offers students an opportunity to execute a project as described in PHSC 4997, which involves laboratory work; skill development; and the ability to generate, analyze, and report valid and reproducible data with the highest level of honesty and integrity. Students write and defend a thesis project to a public audience that describes the scientific background and context of the research, the hypothesis tested, methods utilized, and experimental results obtained. The thesis also includes interpretation of data, its contribution to the field, and future directions for the research. Students are expected to demonstrate motivation and initiative and to develop skills necessary to work cooperatively with a faculty mentor and other lab personnel.",
@@ -693,6 +670,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202430", "crn": "41511" },
       { "term": "202360", "crn": "61819" },
       { "term": "202350", "crn": "53214" },
       { "term": "202310", "crn": "13671" },
@@ -700,11 +678,7 @@
     ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "PHSC", "number": "5100" },
-      "Or",
-      { "subject": "PHSC", "number": "5100" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "PHSC",
@@ -869,6 +843,8 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60144" },
+      { "term": "202440", "crn": "40112" },
       { "term": "202430", "crn": "31380" },
       { "term": "202410", "crn": "10543" },
       { "term": "202360", "crn": "60154" },
@@ -881,7 +857,7 @@
     ],
     "description": "Offers an experiential component of the graduate curriculum that fosters professional development through internship in drug discovery, development, and/or regulatory affairs in a pharmaceutical or biotechnology company. Requires students to work in a company for a minimum of twenty hours per week. Offers students an opportunity to engage in pharmaceutical science research or to work in an environment outside the University but under the supervision of a faculty instructor. May be repeated up to three times.",
     "coreqs": [],
-    "prereqs": [{ "subject": "PHSC", "number": "5305" }]
+    "prereqs": []
   },
   {
     "subject": "PHSC",
@@ -921,11 +897,7 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "33102" },
-      { "term": "202430", "crn": "35585" },
-      { "term": "202430", "crn": "38308" },
-      { "term": "202430", "crn": "37847" },
-      { "term": "202430", "crn": "38665" },
-      { "term": "202430", "crn": "38694" },
+      { "term": "202430", "crn": "41584" },
       { "term": "202410", "crn": "16040" },
       { "term": "202410", "crn": "20692" },
       { "term": "202410", "crn": "20833" },
@@ -955,7 +927,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202350", "crn": "53346" }],
+    "sections": [
+      { "term": "202430", "crn": "40929" },
+      { "term": "202350", "crn": "53346" }
+    ],
     "description": "Offers continued registration while student completes master's thesis or other research project to meet the research requirement in pharmaceutical science.",
     "coreqs": [],
     "prereqs": []
@@ -1024,8 +999,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "37612" },
-      { "term": "202430", "crn": "37859" },
+      { "term": "202430", "crn": "41521" },
       { "term": "202410", "crn": "21465" },
       { "term": "202350", "crn": "53428" },
       { "term": "202330", "crn": "39653" },

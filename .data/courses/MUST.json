@@ -102,7 +102,7 @@
     ],
     "description": "Introduces students to digital signal processing as it relates to offline or non-real-time audio processing. Covers fundamental engineering concepts and mathematics. Examines implementation details of common digital audio processing routines using the C programming language, the industry standard for audio software engineering.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MUST", "number": "2431" }]
+    "prereqs": []
   },
   {
     "subject": "MUST",
@@ -141,7 +141,7 @@
     ],
     "description": "Instructs students in the composition of original music for electronic and computer-based instrumentation. Students create music to accompany video, animation, and film, and study suitable methods for creating original music for the Internet. Also surveys examples of music written for similar contexts.",
     "coreqs": [],
-    "prereqs": [{ "subject": "MUST", "number": "2431" }]
+    "prereqs": []
   },
   {
     "subject": "MUST",
@@ -156,12 +156,6 @@
     ],
     "description": "Instructs students in the preparation and presentation of their senior recital. Fulfills the college’s experiential education requirement for music technology concentrators.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "MUST", "number": "3540" },
-      "Or",
-      { "subject": "MUST", "number": "4520" },
-      "Or",
-      { "subject": "MUST", "number": "4610" }
-    ]
+    "prereqs": []
   }
 ]

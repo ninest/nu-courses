@@ -7,9 +7,14 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "61622" },
+      { "term": "202460", "crn": "61644" },
+      { "term": "202440", "crn": "40885" },
+      { "term": "202440", "crn": "41524" },
       { "term": "202430", "crn": "32333" },
       { "term": "202430", "crn": "33792" },
       { "term": "202430", "crn": "33793" },
+      { "term": "202430", "crn": "39151" },
       { "term": "202430", "crn": "40754" },
       { "term": "202430", "crn": "32029" },
       { "term": "202430", "crn": "36712" },
@@ -59,6 +64,7 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202440", "crn": "42000" },
       { "term": "202330", "crn": "33325" },
       { "term": "202310", "crn": "21045" }
     ],
@@ -95,7 +101,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "31636" },
-      { "term": "202430", "crn": "34142" },
       { "term": "202330", "crn": "31809" },
       { "term": "202310", "crn": "13572" }
     ],
@@ -110,7 +115,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "39580" }],
+    "sections": [],
     "description": "Studies convex optimization, a branch of optimization techniques that deals with convex problems. Convex optimization problems appear in many real-world applications and at the same time are theoretically very interesting. Offers students an opportunity to obtain the skills required for solving convex problems and using techniques of convex analysis in solving nonconvex problems. Covers convex analysis, convex optimization problems, second-order cone programming, semidefinite programming, optimality conditions and duality theory, convex geometric problems, theory of computational complexity and convergence rate of algorithms, interior point methods, and relaxations and approximation algorithms. Applications include convex optimization, nonconvex quadratic optimization, combinatorial and network optimization problems, and optimal control problems.",
     "coreqs": [],
     "prereqs": [{ "subject": "OR", "number": "6205" }]
@@ -148,7 +153,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "39153" }],
+    "sections": [],
     "description": "Offers topics of interest to the staff member conducting this class for advanced study. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -161,10 +166,7 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "37958" },
-      { "term": "202430", "crn": "34224" },
-      { "term": "202430", "crn": "34384" },
-      { "term": "202430", "crn": "34598" },
+      { "term": "202430", "crn": "40948" },
       { "term": "202410", "crn": "21249" },
       { "term": "202410", "crn": "21561" },
       { "term": "202330", "crn": "40044" }
@@ -180,7 +182,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "34262" }],
+    "sections": [{ "term": "202430", "crn": "41388" }],
     "description": "Continues thesis work conducted under the supervision of a departmental faculty member.",
     "coreqs": [],
     "prereqs": []

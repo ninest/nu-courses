@@ -19,9 +19,7 @@
     "credits": 2,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "38886" },
       { "term": "202430", "crn": "38887" },
-      { "term": "202430", "crn": "38889" },
       { "term": "202430", "crn": "38890" },
       { "term": "202430", "crn": "38891" }
     ],
@@ -94,11 +92,16 @@
     "credits": 4,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60586" },
+      { "term": "202460", "crn": "60587" },
+      { "term": "202440", "crn": "40550" },
+      { "term": "202440", "crn": "40709" },
       { "term": "202430", "crn": "30374" },
       { "term": "202430", "crn": "30373" },
       { "term": "202430", "crn": "33672" },
       { "term": "202430", "crn": "34298" },
       { "term": "202430", "crn": "34300" },
+      { "term": "202430", "crn": "35665" },
       { "term": "202430", "crn": "40622" },
       { "term": "202410", "crn": "10293" },
       { "term": "202410", "crn": "10312" },
@@ -133,10 +136,13 @@
     "credits": 1,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60588" },
+      { "term": "202460", "crn": "60589" },
+      { "term": "202440", "crn": "40551" },
+      { "term": "202440", "crn": "40710" },
       { "term": "202430", "crn": "30429" },
       { "term": "202430", "crn": "33674" },
       { "term": "202430", "crn": "34116" },
-      { "term": "202430", "crn": "34301" },
       { "term": "202430", "crn": "40623" },
       { "term": "202410", "crn": "10965" },
       { "term": "202410", "crn": "15182" },
@@ -167,7 +173,6 @@
     "credits": 4,
     "nuPath": ["EI"],
     "sections": [
-      { "term": "202430", "crn": "34962" },
       { "term": "202430", "crn": "36399" },
       { "term": "202410", "crn": "12180" },
       { "term": "202410", "crn": "15579" },
@@ -190,7 +195,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "33317" },
-      { "term": "202430", "crn": "36400" },
       { "term": "202410", "crn": "10780" },
       { "term": "202410", "crn": "17890" },
       { "term": "202410", "crn": "20328" },
@@ -335,11 +339,7 @@
     ],
     "description": "Focuses on the development of characters as they relate to game design and animation. Explores, through treatments and synopsis, theme-based character back story, rationale, and visual design. Integrates learning objectives of both 2D and 3D, optimized rigging, movement study, and accessory and prop design.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ARTF", "number": "1120" },
-      "And",
-      { "subject": "ARTD", "number": "2370" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ARTD",
@@ -366,11 +366,7 @@
     ],
     "description": "Continues the study of video as an art form. Focuses on the dynamic relationship between sound and the moving image. Begins with audio exercises exploring various aspects of sound design that are integrated into an in-depth video production. Emphasizes the production of innovative video art with powerful visual imagery, complex editing rhythms, and creative sound design.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "ARTD", "number": "2380" },
-      "Or",
-      { "subject": "MSCR", "number": "1230" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "ARTD",
@@ -423,7 +419,7 @@
     ],
     "description": "Emphasizes combining students’ personal aesthetic choices with refined technical skills in this advanced photography seminar. Students integrate personal vision, historical research, and well-defined concepts in their work. Through lectures on contemporary topics and artist studio and museum visits, students situate their own ideas and processes to historical and cultural forces. Focuses on the relevance of contemporary models in which the still image is used, specifically interdisciplinary approaches.",
     "coreqs": [],
-    "prereqs": [{ "subject": "ARTD", "number": "3460" }]
+    "prereqs": []
   },
   {
     "subject": "ARTD",

@@ -1,6 +1,18 @@
 [
   {
     "subject": "BINF",
+    "number": "5976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202430", "crn": "41448" }],
+    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated twice.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BINF",
     "number": "6200",
     "title": "Bioinformatics Programming",
     "scheduleType": "Lecture",
@@ -85,13 +97,7 @@
     ],
     "description": "Designed to build upon the core topics covered in BINF 6308, i.e., use of the computer as a tool for bioinformatics research. Builds upon the Python language fundamentals covered during the first semester but requires students to apply these fundamentals to a semester-long project. The project includes protein family analysis, multiple sequence analysis, phylogeny, and protein structure analysis. Additionally, students have an opportunity to learn to build, load, connect, and query custom MySQL databases, and parse command line flags.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "BINF", "number": "6308" },
-      "Or",
-      { "subject": "BINF", "number": "6308" },
-      "Or",
-      { "subject": "BIOL", "number": "6308" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "BINF",
@@ -140,11 +146,7 @@
     ],
     "description": "Introduces the field of genomics. With the completion of the Human Genome Project several years ago, there has been an explosion of genetic data collected. Focuses on the bioinformatics tools necessary to analyze large-scale genomic data. Covers topics such as phylogenetic trees, molecular evolution, gene expression profiling, heterogeneous genomic data, as well as next-generation sequencing (NGS) data.",
     "coreqs": [],
-    "prereqs": [
-      { "subject": "BINF", "number": "6308" },
-      "And",
-      { "subject": "BINF", "number": "6309" }
-    ]
+    "prereqs": []
   },
   {
     "subject": "BINF",
@@ -155,7 +157,6 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39532" },
-      { "term": "202430", "crn": "39841" },
       { "term": "202410", "crn": "19981" },
       { "term": "202330", "crn": "39866" }
     ],
@@ -163,6 +164,7 @@
     "coreqs": [],
     "prereqs": [
       "(",
+      "(",
       { "subject": "BINF", "number": "6310" },
       "Or",
       { "subject": "BINF", "number": "6310" },
@@ -173,6 +175,9 @@
       "Or",
       { "subject": "BINF", "number": "6200" },
       ")",
+      ")",
+      "Or",
+      "(",
       "(",
       { "subject": "BINF", "number": "6308" },
       "Or",
@@ -183,6 +188,7 @@
       { "subject": "BINF", "number": "6309" },
       "Or",
       { "subject": "BINF", "number": "6309" },
+      ")",
       ")"
     ]
   },
@@ -238,10 +244,10 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "34816" },
-      { "term": "202430", "crn": "37031" },
       { "term": "202430", "crn": "37037" },
-      { "term": "202430", "crn": "37038" },
+      { "term": "202430", "crn": "40886" },
       { "term": "202430", "crn": "37067" },
+      { "term": "202430", "crn": "40869" },
       { "term": "202410", "crn": "14029" },
       { "term": "202410", "crn": "14030" },
       { "term": "202350", "crn": "52734" },
@@ -267,6 +273,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60812" },
       { "term": "202360", "crn": "61007" },
       { "term": "202360", "crn": "61330" },
       { "term": "202360", "crn": "61331" },
@@ -298,8 +305,15 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
+      { "term": "202460", "crn": "60689" },
+      { "term": "202460", "crn": "60869" },
+      { "term": "202460", "crn": "61007" },
+      { "term": "202460", "crn": "61008" },
+      { "term": "202440", "crn": "40386" },
+      { "term": "202440", "crn": "41169" },
       { "term": "202430", "crn": "32372" },
       { "term": "202430", "crn": "37075" },
+      { "term": "202430", "crn": "41304" },
       { "term": "202430", "crn": "39534" },
       { "term": "202410", "crn": "12837" },
       { "term": "202410", "crn": "19982" },
@@ -333,7 +347,7 @@
     "credits": 0,
     "nuPath": [],
     "sections": [
-      { "term": "202430", "crn": "32721" },
+      { "term": "202440", "crn": "41597" },
       { "term": "202410", "crn": "13350" },
       { "term": "202340", "crn": "42125" },
       { "term": "202350", "crn": "53336" },
