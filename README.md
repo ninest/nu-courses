@@ -1,6 +1,6 @@
 # NU Course
 
-> Functions to get NU course information
+> Functions to get NU course information 
 
 This project is meant to get course data for [ninest/husker](https://github.com/ninest/husker).
 
