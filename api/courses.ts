@@ -5,6 +5,18 @@ import { Hono } from "hono";
 
 export const coursesRouter = new Hono();
 
+coursesRouter.get("/all", async (c) => {
+  const subjects = await readJSON<Subject[]>(`${DATA_DIR_PATH}/subjects.json`);
+
+  const allCourses = []
+  for await (const subject of subjects) {
+    const courses = await readJSON<Course[]>(`${DATA_DIR_PATH}/courses/${subject.code}.json`);
+    allCourses.push(...courses)
+  }
+
+  return c.json(allCourses);
+});
+
 coursesRouter.get("/:term", async (c) => {
   const term = c.req.param("term");
   const termCourseMapping = await readJSON<TermSubjectCourseMapping>(
