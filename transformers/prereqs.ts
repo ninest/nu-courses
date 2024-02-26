@@ -1,7 +1,7 @@
 import { subjectDescriptionFromCode } from "@/read/subjects.ts";
 import { PrerequisiteItem } from "@/types.ts";
 import { DOMParser } from "deno-dom";
-import { minifyHTML } from "https://deno.land/x/minifier/mod.ts";
+import { minifyHTML } from "https://deno.land/x/minifier@v1.1.1/mod.ts";
 
 // Transform HTML to list of prereqs groups
 export const transformPrereqs = (html: string): PrerequisiteItem[] => {
