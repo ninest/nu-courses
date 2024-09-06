@@ -38,7 +38,18 @@
       { "term": "202310", "crn": "14654" },
       { "term": "202310", "crn": "16562" },
       { "term": "202310", "crn": "17992" },
-      { "term": "202310", "crn": "18900" }
+      { "term": "202310", "crn": "18900" },
+      { "term": "202510", "crn": "10939" },
+      { "term": "202510", "crn": "11708" },
+      { "term": "202510", "crn": "12671" },
+      { "term": "202510", "crn": "13545" },
+      { "term": "202510", "crn": "14490" },
+      { "term": "202510", "crn": "14968" },
+      { "term": "202510", "crn": "15329" },
+      { "term": "202510", "crn": "17445" },
+      { "term": "202510", "crn": "18644" },
+      { "term": "202510", "crn": "20742" },
+      { "term": "202510", "crn": "20743" }
     ],
     "description": "Provides an interdisciplinary, state-of-the-art introduction to biotechnology. Covers the molecular foundations of biotechnology, molecular microbiology, receptor pharmacology, drug development processes, biotech process development and scale-up, drug approval and regulatory affairs, genomics, microarray analysis, proteomics, computational biology, molecular modeling, analytical biotechnology, and bioterrorism and biotechnology.",
     "coreqs": [],
@@ -84,7 +95,16 @@
       { "term": "202310", "crn": "14655" },
       { "term": "202310", "crn": "18050" },
       { "term": "202310", "crn": "18901" },
-      { "term": "202240", "crn": "40279" }
+      { "term": "202240", "crn": "40279" },
+      { "term": "202510", "crn": "11481" },
+      { "term": "202510", "crn": "12514" },
+      { "term": "202510", "crn": "12674" },
+      { "term": "202510", "crn": "13546" },
+      { "term": "202510", "crn": "14991" },
+      { "term": "202510", "crn": "15330" },
+      { "term": "202510", "crn": "17446" },
+      { "term": "202510", "crn": "17447" },
+      { "term": "202510", "crn": "17574" }
     ],
     "description": "Note: This course runs online September 7 through December 17 with on-ground Boston campus meetings on dates listed below.",
     "coreqs": [],
@@ -140,7 +160,20 @@
       { "term": "202310", "crn": "17264" },
       { "term": "202310", "crn": "18005" },
       { "term": "202310", "crn": "20283" },
-      { "term": "202260", "crn": "61303" }
+      { "term": "202260", "crn": "61303" },
+      { "term": "202510", "crn": "11174" },
+      { "term": "202510", "crn": "15643" },
+      { "term": "202510", "crn": "12867" },
+      { "term": "202510", "crn": "14335" },
+      { "term": "202510", "crn": "14975" },
+      { "term": "202510", "crn": "15993" },
+      { "term": "202510", "crn": "17449" },
+      { "term": "202510", "crn": "17575" },
+      { "term": "202510", "crn": "17576" },
+      { "term": "202510", "crn": "18303" },
+      { "term": "202510", "crn": "20744" },
+      { "term": "202510", "crn": "20745" },
+      { "term": "202510", "crn": "22123" }
     ],
     "description": "Exposes students to the business of biotech from scientific discovery startup through its product launch and subsequent organizational and scientific pipeline growth. Topics include scientific discovery, biotech-related funding and organizational structures, regulatory and clinical trial considerations, biotech alliances, patient access, ethics and compliance, and commercialization and growth while meeting unmet patient or consumer needs in this highly regulated industry. Although the focus is on the highest regulated standards in biopharma, the course also touches upon various aspects of other biotechnology domains.",
     "coreqs": [],
@@ -157,7 +190,8 @@
       { "term": "202430", "crn": "39727" },
       { "term": "202430", "crn": "41149" },
       { "term": "202410", "crn": "12640" },
-      { "term": "202310", "crn": "12981" }
+      { "term": "202310", "crn": "12981" },
+      { "term": "202510", "crn": "12348" }
     ],
     "description": "Covers the basics of patenting and the application of patents to the biotechnology industry, including the controversial area of gene patents.",
     "coreqs": [],
@@ -181,7 +215,7 @@
     ],
     "description": "Covers managing projects and personnel in a technology-based organization Such activities are best carried out by those who combine the technical knowledge of their industry with the insight into the best practices for working with groups of highly educated, and often very experienced people. The biotechnology industry is strongly dependent on the concept that knowledge is always shared and ownership is collective. As the fundamental organizational mantra is teamwork, the principles of managing in this environment are key to achieving important goals. How to accomplish this and make decisions that drive innovation and success have common threads with other technology based industries, but with the added complexity of the scientific challenges facing the biotechnology industry. Restricted to students in the Bouvé College of Health Sciences and in the College of Science or by permission of the program office.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "BIOT", "number": "5219" }]
   },
   {
     "subject": "BIOT",
@@ -197,6 +231,24 @@
   },
   {
     "subject": "BIOT",
+    "number": "5228",
+    "title": "Planning and Executing Biotechnology Projects",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20747" }],
+    "description": "Introduces the concepts, principles, and practices of project planning and execution. Emphasizes biotechnology sectors including human health, environment, and agri-food biotechnology. Explores the importance of managing projects and project teams in situations unique to the biotechnology industry including research and development, contract research, and technology transfer. Covers project management systems, tools, and professional codes of conduct and ethics. Requires application of course concepts to a relevant project, emphasizing development of professional skills in effective teamwork, leadership, and managing projects.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "BIOT", "number": "5219" },
+      "Or",
+      { "subject": "BIOT", "number": "5219" },
+      "Or",
+      { "subject": "BIOT", "number": "5219" }
+    ]
+  },
+  {
+    "subject": "BIOT",
     "number": "5330",
     "title": "Drug Safety and Immunogenicity",
     "scheduleType": "Lecture",
@@ -205,7 +257,9 @@
     "sections": [
       { "term": "202410", "crn": "13423" },
       { "term": "202410", "crn": "20868" },
-      { "term": "202310", "crn": "13898" }
+      { "term": "202310", "crn": "13898" },
+      { "term": "202510", "crn": "13024" },
+      { "term": "202510", "crn": "18297" }
     ],
     "description": "Introduces the fundamental molecular interactions involved in immunological responses as well as in measuring and testing in a research and regulated environment. Other drug-safety-related topics include adventitious agents (viruses, microorganisms, mycoplasma) and risk factors such as product-related substances (aggregates and post-translationally modified variants), endotoxins, DNA, host-cell proteins, process contaminants such as antibiotics, and the means of testing and removing these through validated processes.",
     "coreqs": [],
@@ -259,6 +313,34 @@
   },
   {
     "subject": "BIOT",
+    "number": "5401",
+    "title": "Scientific Communication and Problem Solving in Biotechnology",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "20748" },
+      { "term": "202510", "crn": "20749" },
+      { "term": "202510", "crn": "20750" },
+      { "term": "202510", "crn": "21429" },
+      { "term": "202510", "crn": "20752" },
+      { "term": "202510", "crn": "20753" },
+      { "term": "202510", "crn": "20754" },
+      { "term": "202510", "crn": "20755" },
+      { "term": "202510", "crn": "20756" },
+      { "term": "202510", "crn": "20757" },
+      { "term": "202510", "crn": "20758" },
+      { "term": "202510", "crn": "20759" },
+      { "term": "202510", "crn": "20761" },
+      { "term": "202510", "crn": "20762" },
+      { "term": "202510", "crn": "21514" }
+    ],
+    "description": "Provides an in-depth examination of the principles and practices of scientific writing, academic integrity, literature analysis, and scientific problem solving. Focuses on effective communication of scientific ideas through various writing genres, including research articles, presentations, and proposals. Explores ethical considerations and best practices in scientific research, including issues related to plagiarism, data falsification, Good Documentation Practice (GDP), and authorship. Emphasizes critical skills in literature analysis and data presentation, including the evaluation and presentation of novel data sets and research articles and the effective integration of scientific literature into writing.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BIOT",
     "number": "5500",
     "title": "Concepts in Regulatory Science",
     "scheduleType": "Lecture",
@@ -272,7 +354,10 @@
       { "term": "202410", "crn": "20847" },
       { "term": "202330", "crn": "35847" },
       { "term": "202310", "crn": "13896" },
-      { "term": "202310", "crn": "13897" }
+      { "term": "202310", "crn": "13897" },
+      { "term": "202510", "crn": "13022" },
+      { "term": "202510", "crn": "13023" },
+      { "term": "202510", "crn": "18276" }
     ],
     "description": "Introduces the science that supports regulatory affairs in the biopharmaceutical industry. Focuses on the methods and instruments used to characterize the processes and products of biotechnology including the production, separation, purification, characterization, and formulation of biologics; the pharmacokinetics of proteins; chemical and biological equivalencies of biogenerics; stability testing; high throughput assays; cell system expression; variants; method validation; and quality control.",
     "coreqs": [],
@@ -317,9 +402,25 @@
       { "term": "202410", "crn": "20973" },
       { "term": "202410", "crn": "20967" },
       { "term": "202410", "crn": "20968" },
-      { "term": "202410", "crn": "20969" }
+      { "term": "202410", "crn": "20969" },
+      { "term": "202510", "crn": "18385" },
+      { "term": "202510", "crn": "18392" },
+      { "term": "202510", "crn": "18393" },
+      { "term": "202510", "crn": "18394" }
     ],
     "description": "Discusses the fundamentals in structural biology and biochemistry in drug design and applied biotechnology with special focus on protein chemistry. Explores the nature, structure, and function of proteins in the context of analytical analysis, molecular medicine, and drug discovery. Emphasizes bioinformatics and computational systems biology. Specifically investigates the analysis of ongoing research projects, case studies, and practical concepts of biotechnology.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BIOT",
+    "number": "5630",
+    "title": "Cell Culture Applications for Biopharmaceuticals",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21725" }],
+    "description": "Covers principles and concepts in mammalian and other cell culture processes for biopharmaceutical manufacturing with the goal of providing a solid foundation in biopharmaceutical production. Topics include cell line development for protein expression; batch, fed-batch, and perfusion processes; media development; bioreactor operations; impeller designs; bioprocessing, including scale up and scale down; and advancements in cell culture techniques. Emphasizes quality assurance within a current good manufacturing practices environment and examines the entire bioprocessing workflow.",
     "coreqs": [],
     "prereqs": []
   },
@@ -379,7 +480,10 @@
       { "term": "202410", "crn": "11830" },
       { "term": "202410", "crn": "12639" },
       { "term": "202310", "crn": "12052" },
-      { "term": "202310", "crn": "12980" }
+      { "term": "202310", "crn": "12980" },
+      { "term": "202510", "crn": "11662" },
+      { "term": "202510", "crn": "12347" },
+      { "term": "202510", "crn": "22395" }
     ],
     "description": "Addresses the development of recombinant protein purification processes in biotechnology. Provides an overview of the scientific principles, engineering strategies, and unit operations facilities involved in scalable protein purification processes. Also discusses viral clearance and inactivation strategies; cGMP considerations; and technological advances to improve effectiveness and efficiency, such as membrane-based disposable systems.",
     "coreqs": [],
@@ -401,7 +505,15 @@
     ],
     "description": "Covers the development and implementation of the drug product manufacturing process for biopharmaceuticals. Focuses on biologic products, specifically proteins. Covers the workflow required for the development and implementation of the production process with the scientific and engineering principles highlighted. Topics include the preformulation process for early stage product development, the selection of formulation compatible with the targeted product presentation, optimization of formulations to meet stability and usage objectives, the design of a scalable process for production, large-scale process equipment and operations, process scale-up considerations, and regulatory compliance issues for drug product manufacturing facilities and operations. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "BIOT", "number": "5621" },
+      "Or",
+      { "subject": "BIOT", "number": "5621" },
+      "Or",
+      { "subject": "CHEM", "number": "5620" },
+      "Or",
+      { "subject": "CHEM", "number": "5620" }
+    ]
   },
   {
     "subject": "BIOT",
@@ -415,7 +527,9 @@
       { "term": "202410", "crn": "13418" },
       { "term": "202410", "crn": "20853" },
       { "term": "202310", "crn": "11927" },
-      { "term": "202310", "crn": "13893" }
+      { "term": "202310", "crn": "13893" },
+      { "term": "202510", "crn": "11565" },
+      { "term": "202510", "crn": "13019" }
     ],
     "description": "Offers an up-to-date survey and review of the research and understanding of the molecular interactions of proteins in biopharmaceutical formulations, including both liquid and solid formats, during the process of drug product manufacturing. Focuses on protein-protein interactions, protein-excipients (e.g., stabilizers, surfactants) interactions, and protein at interface surfaces interactions that are critical and impactful on the stability and integrity of therapeutic proteins of interest. Emphasizes understanding the mechanistic aspect of the interactions; the approaches, methods, and techniques employed to study these phenomena; and measures considered to modulate such interactions to enhance the performance of the biopharmaceutical formulations. Students who do not meet course prerequisites may seek permission of instructor.",
     "coreqs": [],
@@ -424,6 +538,24 @@
       "Or",
       { "subject": "CHEM", "number": "5620" }
     ]
+  },
+  {
+    "subject": "BIOT",
+    "number": "5750",
+    "title": "Molecular Approaches in Biotechnology",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "20766" },
+      { "term": "202510", "crn": "20767" },
+      { "term": "202510", "crn": "20768" },
+      { "term": "202510", "crn": "20769" },
+      { "term": "202510", "crn": "20771" }
+    ],
+    "description": "Discusses applications of concepts in molecular biology and biochemistry. Focuses on understanding the theory behind common techniques used in biotechnology. Topics include principles and methods for genetic manipulation, gene expression, nucleic acid sequencing, microarrays, and epigenomics. Emphasizes molecular signaling pathways, as well as primer and guide RNA design. Offers students an opportunity to practice proposal writing and other professional skills.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "BIOT",
@@ -459,7 +591,13 @@
       { "term": "202340", "crn": "41961" },
       { "term": "202310", "crn": "13408" },
       { "term": "202310", "crn": "13517" },
-      { "term": "202310", "crn": "20342" }
+      { "term": "202310", "crn": "20342" },
+      { "term": "202510", "crn": "12670" },
+      { "term": "202510", "crn": "12748" },
+      { "term": "202510", "crn": "16021" },
+      { "term": "202510", "crn": "17452" },
+      { "term": "202510", "crn": "17453" },
+      { "term": "202510", "crn": "18284" }
     ],
     "description": "Introduces the uses of molecular biology in a biotechnology setting. Includes a brief review of the basics and then dives into state-of-the-art molecular biology applications used in biotechnology today. These applications include stability and expression of cloned gene products, gene cloning strategies, transgenic species, mutation creation and analysis, DNA fingerprinting, PCR technology, microarray technology, gene probes, gene targeting, gene therapy, stem cell technology, antisense RNA, CAR T-cell therapy, RNA interference, and CRISPR/Cas9.",
     "coreqs": [],
@@ -478,6 +616,21 @@
       { "term": "202410", "crn": "22518" }
     ],
     "description": "The ever-changing landscape of the biotechnology field requires constant training. This course is designed to familiarize participants with some of the most cutting-edge topics available in molecular biology today: stem cells, RNA interference, CRISPR/CAS9, CAR T-cells, gene therapy, and more. Offers participants an opportunity to learn the theory behind these new technologies, how they are done, and their power in scientific discovery and treatment.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BIOT",
+    "number": "5830",
+    "title": "Regulatory Landscape of Cell and Gene Therapies",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "20858" },
+      { "term": "202510", "crn": "21430" }
+    ],
+    "description": "This course is eligible to be taken by Toronto students.",
     "coreqs": [],
     "prereqs": []
   },
@@ -511,7 +664,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16564" },
-      { "term": "202310", "crn": "18903" }
+      { "term": "202310", "crn": "18903" },
+      { "term": "202510", "crn": "15331" },
+      { "term": "202510", "crn": "20774" }
     ],
     "description": "Emphasizes the importance of using vaccines in order to prevent the spread of infectious diseases and viruses. Discusses the evolution of vaccines throughout medical history (e.g., smallpox, polio), emphasizing lessons learned so they can be adapted to development of new and novel vaccines. Explains the molecular mechanism of how vaccines, such as vaccines that use attenuated virus to more novel vaccines that use mRNA, elicit an immune response. Examines the importance of immunization in the context of the immune system.",
     "coreqs": [],
@@ -573,7 +728,8 @@
     "sections": [
       { "term": "202430", "crn": "41527" },
       { "term": "202430", "crn": "41751" },
-      { "term": "202410", "crn": "22324" }
+      { "term": "202410", "crn": "22324" },
+      { "term": "202440", "crn": "42369" }
     ],
     "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],
@@ -588,7 +744,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15063" },
-      { "term": "202310", "crn": "16246" }
+      { "term": "202310", "crn": "16246" },
+      { "term": "202510", "crn": "14339" }
     ],
     "description": "Explores the key agricultural biotechnology (agritech) principles and methods that are used in industry today; serves as a foundational course exposing students, briefly, to all aspects of agritech. Topics covered include gene transfer and genetic modification; cloning; plant biotechnology, animal science, food and ecological biotechnology; consumer concerns; safety testing; and other issues related to agritech.",
     "coreqs": [],
@@ -633,7 +790,10 @@
       { "term": "202330", "crn": "39968" },
       { "term": "202310", "crn": "13894" },
       { "term": "202310", "crn": "13895" },
-      { "term": "202310", "crn": "16247" }
+      { "term": "202310", "crn": "16247" },
+      { "term": "202510", "crn": "13020" },
+      { "term": "202510", "crn": "13021" },
+      { "term": "202510", "crn": "22124" }
     ],
     "description": "Explores the principles of experimental design and statistical analysis. Emphasizes research in the molecular and biological sciences and biotechnology. Topics include probability theory, sampling hypothesis formulation and testing, and parametric and nonparametric statistical methods.",
     "coreqs": [],
@@ -646,7 +806,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "39670" }],
+    "sections": [
+      { "term": "202430", "crn": "39670" },
+      { "term": "202510", "crn": "20775" }
+    ],
     "description": "Presents concepts, tools, and techniques for real-world, on-the-job application of quality that is practical for a wide range of organizations. Offers an insight into the mindset of quality, along with an overview of the concepts, principles, processes, and activities involved in quality assurance, quality control, and regulatory compliance within the life sciences Industry. Emphasizes understanding the business of biotech; the remit of global regulatory agencies; principles and processes for establishing and enforcing regulation and guidance; quality management systems, operations, and compliance; quality leadership; quality planning; and careers in the quality profession. Includes presentations from a variety of industry experts.",
     "coreqs": [],
     "prereqs": []
@@ -660,7 +823,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "14033" },
-      { "term": "202310", "crn": "14656" }
+      { "term": "202310", "crn": "14656" },
+      { "term": "202510", "crn": "13547" }
     ],
     "description": "Studies those microorganisms associated with the manufacture of pharmaceuticals, including biopharmaceuticals. Focuses on how to exclude microorganisms, such as exotoxins and endotoxins, from pharmaceutical processes to produce a sterile product. Considers how products react to microorganism contamination and methods of disinfection. Discusses pharmaceutical microbiology as related to clean rooms and controlled environments and methods and specifications related to microorganisms based on the United States Pharmacopeia guidelines. Lastly, discusses facility monitoring, specifically EM/critical utility testing, process monitoring, and maintenance throughout with an emphasis on what regulators expect to see in terms of data.",
     "coreqs": [],
@@ -675,7 +839,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39555" },
-      { "term": "202410", "crn": "20025" }
+      { "term": "202410", "crn": "20025" },
+      { "term": "202510", "crn": "17486" }
     ],
     "description": "Focuses on the laws and regulations related to pharmaceuticals manufacture and administration. Discusses an overview of laws and regulations and provides guidance in the context of why they exist, their evolution, and implementation. Specifically focuses on the laws and regulations around good manufacturing practices (GMP), postapproval safety concerns, regulation of manufacture, violations and enforcement, and what to expect during an inspection from a regulatory body. Surveys the laws and regulations on a global level focusing on specific examples related to the United States, Europe, Asia, and other regulatory agencies.",
     "coreqs": [],
@@ -698,7 +863,9 @@
       { "term": "202330", "crn": "35855" },
       { "term": "202330", "crn": "39051" },
       { "term": "202330", "crn": "39340" },
-      { "term": "202330", "crn": "39969" }
+      { "term": "202330", "crn": "39969" },
+      { "term": "202510", "crn": "20776" },
+      { "term": "202510", "crn": "20777" }
     ],
     "description": "Emphasizes quality management systems (QMS) and validation as it relates to the production and processes related to pharmaceuticals, including biopharmaceuticals. Discusses the implementation of a QMS plan, to include document processes, procedures, metrics, reporting, and responsibilities, aligned with pharmaceutical and biotechnology companies’ business objectives. Emphasizes implementation, signaling problems (continual improvement), transparency, validation, and team cooperation/dynamics. Specifically discusses the International Council on Harmonisation (ICH) Q10 guidelines. Topics related to QMS may include objectives, manual, organization structural responsibilities, data management, processes, product quality, continuous improvement plans, quality instruments, and document control.",
     "coreqs": [],
@@ -714,7 +881,9 @@
     "sections": [
       { "term": "202410", "crn": "15065" },
       { "term": "202410", "crn": "20845" },
-      { "term": "202310", "crn": "16248" }
+      { "term": "202310", "crn": "16248" },
+      { "term": "202510", "crn": "14341" },
+      { "term": "202510", "crn": "18274" }
     ],
     "description": "Discusses the importance of sterile operations in producing drug products, as part of good manufacturing practice (GMP). Emphasizes sterile manufacturing operations for all drugs.",
     "coreqs": [],
@@ -764,7 +933,10 @@
       { "term": "202330", "crn": "33817" },
       { "term": "202310", "crn": "12080" },
       { "term": "202310", "crn": "13545" },
-      { "term": "202310", "crn": "21199" }
+      { "term": "202310", "crn": "21199" },
+      { "term": "202510", "crn": "20778" },
+      { "term": "202510", "crn": "20779" },
+      { "term": "202510", "crn": "20780" }
     ],
     "description": "Introduces the cooperative education program. Offers students an opportunity to develop job-search and career-management skills; to assess their workplace skills, interests, and values and to discuss how they impact personal career choices; to prepare a professional resumé; and to learn proper interviewing techniques. Explores career paths, choices, professional behaviors, work culture, and career decision making.",
     "coreqs": [],
@@ -779,7 +951,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15066" },
-      { "term": "202310", "crn": "16249" }
+      { "term": "202310", "crn": "16249" },
+      { "term": "202510", "crn": "14342" }
     ],
     "description": "Examines the probable weapons of biowarfare—including biological, chemical, and nuclear weapons— from several perspectives. Offers fundamental information on the biology and mechanism of action of the most important potential agents of terror and an introduction to the role of government. Topics include biological impact, detection and recognition, epidemiology, and treatment. Evaluates potential dangers and effectiveness and investigates strategies for defense against attacks by such weapons. Discusses the bioethical challenges of anti-bioterror research. Also offers students an opportunity to develop skills in scientific literacy and writing.",
     "coreqs": [],
@@ -809,7 +982,9 @@
       { "term": "202410", "crn": "22333" },
       { "term": "202410", "crn": "22508" },
       { "term": "202330", "crn": "40443" },
-      { "term": "202310", "crn": "21806" }
+      { "term": "202310", "crn": "21806" },
+      { "term": "202510", "crn": "19713" },
+      { "term": "202510", "crn": "19880" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
@@ -861,7 +1036,13 @@
       { "term": "202260", "crn": "61510" },
       { "term": "202260", "crn": "61511" },
       { "term": "202240", "crn": "41837" },
-      { "term": "202240", "crn": "41838" }
+      { "term": "202240", "crn": "41838" },
+      { "term": "202510", "crn": "14526" },
+      { "term": "202510", "crn": "16012" },
+      { "term": "202510", "crn": "16013" },
+      { "term": "202510", "crn": "18897" },
+      { "term": "202510", "crn": "19383" },
+      { "term": "202440", "crn": "42246" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
@@ -886,7 +1067,9 @@
       { "term": "202330", "crn": "40140" },
       { "term": "202310", "crn": "21259" },
       { "term": "202260", "crn": "61158" },
-      { "term": "202260", "crn": "61556" }
+      { "term": "202260", "crn": "61556" },
+      { "term": "202510", "crn": "22767" },
+      { "term": "202440", "crn": "42276" }
     ],
     "description": "Provides eligible students with an opportunity for work experience abroad. May be repeated without limit.",
     "coreqs": [],
@@ -907,6 +1090,32 @@
     "description": "Offers students an opportunity to integrate and apply the skills learned in earlier courses to an independent project supervised by a faculty mentor. The goals of the capstone are to develop skills in communicating the results of independent projects; increase student awareness of research in biotechnology outside of their own work; demonstrate a familiarity with the literature background to their work, including a working knowledge of literature searching; and provide an opportunity to reflect on individual progress toward a career in biotechnology.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "BIOT",
+    "number": "7001",
+    "title": "Managing Innovation in Biotechnology",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "20781" },
+      { "term": "202510", "crn": "20782" },
+      { "term": "202510", "crn": "20783" }
+    ],
+    "description": "Offers students an opportunity to apply their curricular learnings in an applied project setting. Working with a project sponsor, students refine an applied research topic, perform research, develop recommendations that are shared with a partner sponsor, and create a plan for implementing their recommendations. Course topics include the biotechnology innovation process, the assessment of market opportunities, the development of business models and risk management. Emphasizes development of professional skills, effective teamwork, and managing projects that involve uncertainty.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "BIOT", "number": "5219" },
+      "Or",
+      { "subject": "BIOT", "number": "5219" },
+      "Or",
+      { "subject": "BIOT", "number": "5219" },
+      ")",
+      "And",
+      { "subject": "BIOT", "number": "6500" }
+    ]
   },
   {
     "subject": "BIOT",
@@ -949,7 +1158,14 @@
       { "term": "202310", "crn": "14659" },
       { "term": "202310", "crn": "16250" },
       { "term": "202310", "crn": "17267" },
-      { "term": "202240", "crn": "40280" }
+      { "term": "202240", "crn": "40280" },
+      { "term": "202510", "crn": "13548" },
+      { "term": "202510", "crn": "14343" },
+      { "term": "202510", "crn": "14726" },
+      { "term": "202510", "crn": "17522" },
+      { "term": "202510", "crn": "17523" },
+      { "term": "202510", "crn": "17524" },
+      { "term": "202510", "crn": "17525" }
     ],
     "description": "Presents a laboratory course in biotechnology with a focus on cutting-edge instrumentation that is currently used in the field.  Directs special attention at the practical aspects of laboratory work in this field, for example, techniques in sample preparation, procedures for protein analysis, and new bioinformatic approaches.  Focuses on the emerging field of chemiproteomics, which is the study of the interaction of small molecules with the proteome, that is, the full complement of proteins expressed in an individual cell or organism.  Exposes the student to hands-on experience with modern instrumentation, such as mass spectrometry and high performance liquid chromatography.",
     "coreqs": [],
@@ -967,7 +1183,10 @@
       { "term": "202430", "crn": "41593" },
       { "term": "202410", "crn": "21994" },
       { "term": "202410", "crn": "21995" },
-      { "term": "202410", "crn": "21996" }
+      { "term": "202410", "crn": "21996" },
+      { "term": "202510", "crn": "19381" },
+      { "term": "202510", "crn": "20784" },
+      { "term": "202510", "crn": "21756" }
     ],
     "description": "Implementing Real-World Data to Stimulate Drug Development:\nThis graduate-level course will examine real-world data in the AllofUs (AoU) dataset, looking at post-marketing surveillance (PMS) or a phase IV study. This class will facilitate your understanding of the research techniques required to analyze data, build upon your biopharmaceutical analytical skills and the basic principles involved in molecular interactions. Most importantly, the research performed in this class will build upon your knowledge of using real-world data to drive drug development and inform clinical trial design.",
     "coreqs": [],

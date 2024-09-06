@@ -11,7 +11,9 @@
       { "term": "202410", "crn": "21236" },
       { "term": "202330", "crn": "30956" },
       { "term": "202330", "crn": "31127" },
-      { "term": "202310", "crn": "11081" }
+      { "term": "202310", "crn": "11081" },
+      { "term": "202510", "crn": "20345" },
+      { "term": "202430", "crn": "30896" }
     ],
     "description": "Offers course work at the School of the Museum of Fine Arts. May be repeated without limit.",
     "coreqs": [],

@@ -10,7 +10,8 @@
       { "term": "202430", "crn": "33997" },
       { "term": "202410", "crn": "13611" },
       { "term": "202330", "crn": "34637" },
-      { "term": "202310", "crn": "14113" }
+      { "term": "202310", "crn": "14113" },
+      { "term": "202510", "crn": "13188" }
     ],
     "description": "Intended for first-year students in the College of Social Sciences and Humanities. Introduces students to liberal arts; familiarizes them with their major; develops the academic skills necessary to succeed (analytical ability and critical thinking); provides grounding in the culture and values of the University community; and helps to develop interpersonal skills—in short, familiarizes students with all skills needed to become a successful university student.",
     "coreqs": [],
@@ -85,7 +86,19 @@
       { "term": "202260", "crn": "61435" },
       { "term": "202240", "crn": "41376" },
       { "term": "202240", "crn": "41708" },
-      { "term": "202240", "crn": "41787" }
+      { "term": "202240", "crn": "41787" },
+      { "term": "202510", "crn": "16960" },
+      { "term": "202510", "crn": "13221" },
+      { "term": "202510", "crn": "13963" },
+      { "term": "202510", "crn": "10083" },
+      { "term": "202510", "crn": "13725" },
+      { "term": "202510", "crn": "16961" },
+      { "term": "202510", "crn": "16962" },
+      { "term": "202510", "crn": "17954" },
+      { "term": "202510", "crn": "20902" },
+      { "term": "202510", "crn": "20903" },
+      { "term": "202510", "crn": "20904" },
+      { "term": "202440", "crn": "42128" }
     ],
     "description": "Explores diverse social phenomena, from how people try to look their best in face-to-face interactions; to how race, gender, and class shape identities and social conditions; to how industrial capitalism came to dominate the world. Offers students an opportunity to gain a grasp of key sociological theories and empirical research on topics such as social order, social conflict, and social change, as well as learn to identify social forces that shape human behavior, explain how these forces affect individuals and social groups, and make valid predictions about how they may shape future behavior or events.",
     "coreqs": [],
@@ -105,9 +118,10 @@
       { "term": "202410", "crn": "20479" },
       { "term": "202310", "crn": "19525" },
       { "term": "202310", "crn": "20427" },
-      { "term": "202310", "crn": "20479" },
       { "term": "202310", "crn": "20569" },
-      { "term": "202310", "crn": "21293" }
+      { "term": "202310", "crn": "21293" },
+      { "term": "202510", "crn": "17671" },
+      { "term": "202510", "crn": "21186" }
     ],
     "description": "Examines how femininities, masculinities, and different forms of sexual identity are produced and represented within popular culture. Using theories and concepts from both feminist/sexuality studies and popular culture studies, analyzes popular texts and media for their treatment of gender and sexuality and the intersection of those categories with racial and class identities. Explores the visual representation of women (and men) and analyzes how visual and textual media shape our attitudes and identities. Required reading and assignments include close readings of texts, film screenings, class discussions and activities, writing assignments, and creative projects.",
     "coreqs": [],
@@ -120,7 +134,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202430", "crn": "35046" }],
+    "sections": [
+      { "term": "202430", "crn": "35046" },
+      { "term": "202510", "crn": "20905" }
+    ],
     "description": "Studies the relationship between society and the individual. Focuses on three theoretical perspectives—symbolic interactionism, social structure and personality, and group processes—in order to understand how human behavior is tied to social and cultural contexts and how individuals shape and are shaped by group interaction. Topics may include socialization and how people develop a “social sense of self”; cross-cultural differences in interactional styles; pressures to conform to roles and stereotypes; deviance and mental health; inequality based on race/ethnicity, social class, and gender; identity formation and change, attitudes, and behavior, including prejudice and discrimination; and collective behavior, including social movements.",
     "coreqs": [],
     "prereqs": []
@@ -151,7 +168,9 @@
       { "term": "202330", "crn": "33104" },
       { "term": "202310", "crn": "10456" },
       { "term": "202310", "crn": "20517" },
-      { "term": "202260", "crn": "61225" }
+      { "term": "202260", "crn": "61225" },
+      { "term": "202510", "crn": "10405" },
+      { "term": "202510", "crn": "20906" }
     ],
     "description": "Examines the social, political, and economic forces behind the global environmental crisis. Topics include such issues as global warming and climate disruption, world resource availability and the global economic crisis, environmental justice and social inequities in the exposure to ecological hazards, science and technology, environmental degradation in the Third World, globalization and unfair trade, state power and the role of the polluter-industrial complex in the United States, the history of the environmental movement, and exemplary environmental policies and programs. This theoretically oriented course also involves practical experience in environmental problem solving.",
     "coreqs": [],
@@ -169,7 +188,8 @@
       { "term": "202410", "crn": "11182" },
       { "term": "202360", "crn": "61412" },
       { "term": "202310", "crn": "11335" },
-      { "term": "202240", "crn": "41377" }
+      { "term": "202240", "crn": "41377" },
+      { "term": "202510", "crn": "11076" }
     ],
     "description": "Considers why and how gender is socially constructed in U.S. society and looks at different theories of gender. Explores gender as an institution as well as different (cultural) expressions of masculinities and femininities. Includes topics of gender in everyday life as well as gender as an organizing principle in the institutions of families, education, workplaces, sexualities, religion, the media, politics, and forms of gender violence. SOCL 1260 and WMNS 1260 are cross-listed.",
     "coreqs": [],
@@ -206,6 +226,30 @@
   },
   {
     "subject": "SOCL",
+    "number": "2270",
+    "title": "Race, Ethnicity, and Inequality",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202510", "crn": "20907" }],
+    "description": "Focuses on the social construction of race and ethnicity and the nature of dominant/minority relations in the United States. Emphasizes the peculiar evolution of race relations in U.S. history, the political and economic conditions that have transformed race relations, and the nature of contemporary racial and ethnic relations in the United States. Topics include immigration, ethnic and racial identity, discrimination, and race-based policies (e.g., residential restrictive codes, Jim Crow segregation). Offers students an opportunity to develop a critical lens from which to observe and interpret contemporary debates over structural racism.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SOCL",
+    "number": "2280",
+    "title": "Sociology of Mental Health",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21865" }],
+    "description": "Explores how mental health and illness are socially constructed. Compares perspectives to illustrate how population mental health is shaped by social, political, and economic conditions. Substantive topics may include the medicalization of deviant behavior, changing definitions of mental illness across time and cultures, the social determinants of mental illness, and the responses by the mental health care system.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SOCL",
     "number": "2303",
     "title": "Gender and Reproductive Justice",
     "scheduleType": "Seminar",
@@ -213,7 +257,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [
       { "term": "202410", "crn": "19908" },
-      { "term": "202330", "crn": "38255" }
+      { "term": "202330", "crn": "38255" },
+      { "term": "202510", "crn": "17380" }
     ],
     "description": "Introduces the social, legal, and economic barriers to accessing reproductive healthcare domestically and internationally. Draws on various theoretical and analytic tools including critical race theory, critical legal theory, sociology of science, human rights, feminist theory, and a range of public health methods. Access to reproductive health services, including abortion, is one of the most contested political, social, cultural, and religious issues today. Covers domestic, regional, and international legal and regulatory frameworks on sexual reproductive health. HIST 2303, SOCL 2303, and WMNS 2303 are cross-listed.",
     "coreqs": [],
@@ -230,7 +275,8 @@
       { "term": "202430", "crn": "30246" },
       { "term": "202410", "crn": "10365" },
       { "term": "202330", "crn": "30253" },
-      { "term": "202310", "crn": "10391" }
+      { "term": "202310", "crn": "10391" },
+      { "term": "202510", "crn": "10347" }
     ],
     "description": "Introduces students to the range of research methods used by sociologists. Covers experimental research, field research, survey research, and historical-comparative research. Sampling, the rules of evidence in empirical research, research ethics, and the place of values are discussed. Required for sociology majors.",
     "coreqs": [],
@@ -246,7 +292,11 @@
     "sections": [{ "term": "202430", "crn": "39820" }],
     "description": "Focuses on the practical, ethical, and theoretical issues underlying qualitative field research. Emphasizes firsthand experience with participation, observation, interviewing, note-taking, data analysis, and ethnographic writing.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ANTH", "number": "1101" },
+      "And",
+      { "subject": "SOCL", "number": "1101" }
+    ]
   },
   {
     "subject": "SOCL",
@@ -259,11 +309,21 @@
       { "term": "202430", "crn": "36256" },
       { "term": "202410", "crn": "20392" },
       { "term": "202330", "crn": "38234" },
-      { "term": "202310", "crn": "16734" }
+      { "term": "202310", "crn": "16734" },
+      { "term": "202510", "crn": "17836" },
+      { "term": "202510", "crn": "21500" }
     ],
     "description": "Introduces and sensitizes students to the forms, practices, and effects of racism and discrimination on the various populations in the United States and presents frameworks for understanding and working with people with histories of discrimination and different cultural identities. Pays special attention to human services with diverse populations in schools, prisons, and employment assistance programs.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
   },
   {
     "subject": "SOCL",
@@ -287,7 +347,9 @@
       { "term": "202310", "crn": "20477" },
       { "term": "202310", "crn": "21294" },
       { "term": "202310", "crn": "20570" },
-      { "term": "202310", "crn": "20571" }
+      { "term": "202310", "crn": "20571" },
+      { "term": "202510", "crn": "17672" },
+      { "term": "202510", "crn": "17920" }
     ],
     "description": "Introduces students to pressing urban issues: urban sprawl, poverty, education, transportation, economic development, and housing, through an intensive analysis of the Boston metropolitan area. The course is cotaught by university faculty and practitioners in government, community, and nonprofit organizations throughout the metropolitan area. Offers students the opportunity to analyze Boston data, go on outings to see development in progress, talk with urban practitioners about what they do, and conduct research on an urban issue of their choice.",
     "coreqs": [],
@@ -345,7 +407,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [
       { "term": "202430", "crn": "39269" },
-      { "term": "202310", "crn": "20162" }
+      { "term": "202310", "crn": "20162" },
+      { "term": "202510", "crn": "21499" }
     ],
     "description": "Examines the relationship between race and the movement of people around the globe. Offers students an opportunity to acquire a concrete understanding of how race and ethnicity (as social constructions) have developed as people have migrated (under free will or forced circumstances) within and across geopolitical territories (e.g, colonies, countries) in the past (1400s) and through the present. Ethnoracial-related conflicts connected to migration (e.g., rebellions by the enslaved during the Atlantic slave trade, Rwandan genocide, Syrian civil war) may also be explored.",
     "coreqs": [],
@@ -360,6 +423,18 @@
     "nuPath": ["DD", "SI"],
     "sections": [{ "term": "202310", "crn": "19723" }],
     "description": "Introduces key issues, themes, and debates in feminist transnational theory, practice, and activism in contemporary contexts and how it has changed under socioeconomic, political, and cultural processes of globalization. Examines differences among women relating to race, class, sexuality, national identity, and political economy in reckoning with possibilities for sustainable social justice. Students interrogate the relationship between the local and global; the production of knowledge in different regional spaces; the pragmatics of political mobilization; the varying contours of “social justice”; and other key issues. Offers students an opportunity to discuss the impact of globalization, neoliberalism, and state and intimate violence on gendered politics and relations and to contend with the politics of difference, to debate its challenges, and to imagine possible futures for transnational gender justice.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "SOCL",
+    "number": "3200",
+    "title": "Cities in Global Context",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21855" }],
+    "description": "Examines the roots of the urbanization process, major ways of thinking about it, and the development of world cities and megacities. The twenty-first century will be a century in which urbanism is a central problem and opportunity. Considers the economic, political, cultural, and environmental dimensions of urbanism across the globe. Includes specific case studies from around the world. Encourages students to develop a knowledge of particular cities in order to examine the key themes of the course. INTL 3200, ANTH 3200, and SOCL 3200 are cross-listed.",
     "coreqs": [],
     "prereqs": []
   },
@@ -406,7 +481,8 @@
       { "term": "202410", "crn": "15095" },
       { "term": "202360", "crn": "61347" },
       { "term": "202330", "crn": "39337" },
-      { "term": "202310", "crn": "16284" }
+      { "term": "202310", "crn": "16284" },
+      { "term": "202510", "crn": "14371" }
     ],
     "description": "Reviews the dominant theoretical traditions in classical and contemporary sociology, showing the links between the social thought of the eighteenth and nineteenth centuries and current social thought.",
     "coreqs": [],
@@ -437,7 +513,8 @@
     "nuPath": ["EX", "SI"],
     "sections": [
       { "term": "202410", "crn": "19455" },
-      { "term": "202330", "crn": "39411" }
+      { "term": "202330", "crn": "39411" },
+      { "term": "202510", "crn": "16965" }
     ],
     "description": "Presents the sociological study of immigration in the United States. Emphasizes the ways U.S. institutions (e.g., federal, state and local governments, the legal system, economy, schools, families) have shaped immigrant integration and incorporation and vice versa. Presents theories and concepts that explain how experiences of integration and incorporation differ for disparate groups of immigrants and their children due to their associated social categories including race, class, gender, sexuality and citizenship. Examines how local and state institutions (Boston and Massachusetts, respectively) have shaped immigrant integration in recent years.",
     "coreqs": [],
@@ -466,7 +543,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI", "WI"],
-    "sections": [{ "term": "202310", "crn": "19534" }],
+    "sections": [
+      { "term": "202310", "crn": "19534" },
+      { "term": "202510", "crn": "20909" }
+    ],
     "description": "Offers a substantial overview of the sociology of health and illness. Medical sociology is an important subfield of sociology with important links to public health, social psychology, psychology, and other medical fields. Emphasizes several critical areas: society and disease; theoretical understandings of health inequalities; medicalization and social control; healthcare professions and professionalization; and the American healthcare system. Offers students an opportunity to obtain analytical frameworks to explore other topics in medical sociology not covered in this course.",
     "coreqs": [],
     "prereqs": []
@@ -482,7 +562,8 @@
       { "term": "202430", "crn": "34001" },
       { "term": "202410", "crn": "17165" },
       { "term": "202330", "crn": "34642" },
-      { "term": "202310", "crn": "19535" }
+      { "term": "202310", "crn": "19535" },
+      { "term": "202510", "crn": "15629" }
     ],
     "description": "Explores theories and research on the institutionalized forms of inequality that have accompanied the rise of advanced capitalism in Western society. Major topics include the competing definitions of class that have developed among social scientists; the relation between class and race in the United States; how class and gender have intersected historically; and the link between workers' movements, political systems, and the forms that capitalist development has assumed in Western Europe and the United States. Students conduct projects in which they explore the conceptions of social justice held by members of subordinate groups.",
     "coreqs": [],
@@ -672,39 +753,12 @@
       { "term": "202410", "crn": "20739" },
       { "term": "202330", "crn": "33045" },
       { "term": "202310", "crn": "19701" },
-      { "term": "202310", "crn": "20795" }
+      { "term": "202310", "crn": "20795" },
+      { "term": "202510", "crn": "15690" }
     ],
     "description": "Offers students an opportunity to integrate and apply knowledge of the discipline by building on completed course work and conducting original research on a topic of their choice. Requires students to produce a research paper due at the end of the semester. This seminar operates as an intellectual workshop in which students share the process, as well as the results, of their research with the group. The class comes together to inform, guide, critique, and support one another's research efforts in a collaborative fashion. Students are expected to make constructive comments on the work of others and to freely exchange ideas.",
     "coreqs": [],
     "prereqs": []
-  },
-  {
-    "subject": "SOCL",
-    "number": "4973",
-    "title": "Native&Pacific Islander Women",
-    "scheduleType": "Seminar",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [],
-    "description": "Designed as a specialized themes course for students with experience in sociology and/or anthropology. Takes advantage of unique opportunities—visiting guests, special thematic interests—which are not part of the regular curriculum. May be repeated up to three times.",
-    "coreqs": [],
-    "prereqs": [
-      { "subject": "ANTH", "number": "1101" },
-      "Or",
-      { "subject": "CRIM", "number": "1100" },
-      "Or",
-      { "subject": "HUSV", "number": "1101" },
-      "Or",
-      { "subject": "INTL", "number": "1101" },
-      "Or",
-      { "subject": "POLS", "number": "1140" },
-      "Or",
-      { "subject": "POLS", "number": "1160" },
-      "Or",
-      { "subject": "SOCL", "number": "1101" },
-      "Or",
-      { "subject": "WMNS", "number": "1103" }
-    ]
   },
   {
     "subject": "SOCL",
@@ -728,7 +782,8 @@
     "sections": [
       { "term": "202410", "crn": "17379" },
       { "term": "202310", "crn": "19779" },
-      { "term": "202310", "crn": "20868" }
+      { "term": "202310", "crn": "20868" },
+      { "term": "202510", "crn": "15738" }
     ],
     "description": "Helps first-year students develop a firm understanding of the PhD Sociology program requirements and helps them develop beneficial skills and strategies to complete those requirements in a timely manner. Focus on relevant topics such as articulating learning expectations from the graduate program; developing individual timelines and time management strategies to meet those expectations; identifying resources on campus and beyond that are needed to meet learning expectations; and developing concrete goals for acquiring appropriate writing, reading skills, and research areas expertise in the PhD program.",
     "coreqs": [],
@@ -760,7 +815,8 @@
     "sections": [
       { "term": "202410", "crn": "17380" },
       { "term": "202310", "crn": "19780" },
-      { "term": "202310", "crn": "20869" }
+      { "term": "202310", "crn": "20869" },
+      { "term": "202510", "crn": "15739" }
     ],
     "description": "Helps students develop beneficial skills and strategies to complete program requirements and become more professionalized as sociologists. This third proseminar provides the structure and peer feedback designed to help students build and work through their first field statement reading list. Students produce an annotated bibliography. The weekly exercises are designed to help students create the reading list in collaboration with faculty mentors and other experts in the field.",
     "coreqs": [],
@@ -791,7 +847,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12759" },
-      { "term": "202310", "crn": "13120" }
+      { "term": "202310", "crn": "13120" },
+      { "term": "202510", "crn": "12453" }
     ],
     "description": "Studies the classic theorists including Durkheim, Weber, Marx, and others.",
     "coreqs": [],
@@ -834,7 +891,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19997" }],
+    "sections": [
+      { "term": "202310", "crn": "19997" },
+      { "term": "202510", "crn": "21395" }
+    ],
     "description": "Offers a broad survey of scholarly debates on the redistribution of political power, economic power, and social capital across the globe. Emphasizes an ethnographic analysis of how colonial and imperial legacies inform contemporary arrangements that structure inequality and how political imaginations are exercised through aesthetics, identities, and institutions. Considers how experiments with economic justice and juridical and political forms of justice find expression in contemporary grassroots movements and theories. Draws on interdisciplinary conversations from the social sciences and humanities to examine and compare radical forms of social change across various global contexts.",
     "coreqs": [],
     "prereqs": []
@@ -901,13 +961,13 @@
   },
   {
     "subject": "SOCL",
-    "number": "7270",
-    "title": "Sociology of Work and Employment",
-    "scheduleType": "Lecture",
+    "number": "7287",
+    "title": "Social Movements in Health",
+    "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [],
-    "description": "Examines the ways in which work organizations powerfully shape individual and social life. Traces such influences with particular emphasis on how organizations differentially affect the distribution of job rewards across class, gender and racial/ethnic lines. Topics include the historical evolution of the management/worker relationship, job segregation by both race and gender, the impact of new technologies on social inequality, the relation between gender and professional careers, govermental efforts to ensure equal opportunity, and the impact of workplace transformation on racial and gender inequalities at work.",
+    "sections": [{ "term": "202510", "crn": "21528" }],
+    "description": "This class will meet in INV 308.",
     "coreqs": [],
     "prereqs": []
   },
@@ -936,7 +996,8 @@
       { "term": "202310", "crn": "21524" },
       { "term": "202310", "crn": "21662" },
       { "term": "202260", "crn": "61410" },
-      { "term": "202260", "crn": "61415" }
+      { "term": "202260", "crn": "61415" },
+      { "term": "202510", "crn": "22995" }
     ],
     "description": "Comprises reading and research directed by a faculty member. May be repeated without limit.",
     "coreqs": [],
@@ -967,7 +1028,10 @@
       { "term": "202310", "crn": "21315" },
       { "term": "202310", "crn": "21333" },
       { "term": "202310", "crn": "21357" },
-      { "term": "202310", "crn": "21625" }
+      { "term": "202310", "crn": "21625" },
+      { "term": "202510", "crn": "18916" },
+      { "term": "202510", "crn": "19023" },
+      { "term": "202510", "crn": "22529" }
     ],
     "description": "Taken while completing one of two PhD field statements under faculty supervision.",
     "coreqs": [],
@@ -1002,7 +1066,15 @@
       { "term": "202330", "crn": "40060" },
       { "term": "202330", "crn": "40064" },
       { "term": "202310", "crn": "17560" },
-      { "term": "202310", "crn": "21527" }
+      { "term": "202310", "crn": "21527" },
+      { "term": "202510", "crn": "14813" },
+      { "term": "202510", "crn": "18978" },
+      { "term": "202510", "crn": "19354" },
+      { "term": "202510", "crn": "19453" },
+      { "term": "202510", "crn": "22339" },
+      { "term": "202510", "crn": "22815" },
+      { "term": "202510", "crn": "22816" },
+      { "term": "202510", "crn": "22819" }
     ],
     "description": "Offers the student the opportunity to conduct full-time research. May be repeated without limit.",
     "coreqs": [],
@@ -1021,7 +1093,7 @@
     ],
     "description": "Offers theoretical and experimental work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "SOCL", "number": "9000" }]
   },
   {
     "subject": "SOCL",
@@ -1033,11 +1105,13 @@
     "sections": [
       { "term": "202410", "crn": "18205" },
       { "term": "202310", "crn": "17562" },
-      { "term": "202310", "crn": "20638" }
+      { "term": "202310", "crn": "20638" },
+      { "term": "202510", "crn": "22472" },
+      { "term": "202510", "crn": "22473" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "SOCL", "number": "9990" }]
   },
   {
     "subject": "SOCL",
@@ -1082,7 +1156,12 @@
       { "term": "202310", "crn": "19543" },
       { "term": "202310", "crn": "19544" },
       { "term": "202310", "crn": "19545" },
-      { "term": "202310", "crn": "19548" }
+      { "term": "202310", "crn": "19548" },
+      { "term": "202510", "crn": "18858" },
+      { "term": "202510", "crn": "18859" },
+      { "term": "202510", "crn": "18861" },
+      { "term": "202510", "crn": "19908" },
+      { "term": "202430", "crn": "40613" }
     ],
     "description": "Offers continued thesis work conducted under the supervision of a departmental faculty.",
     "coreqs": [],

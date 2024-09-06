@@ -10,7 +10,8 @@
       { "term": "202430", "crn": "30033" },
       { "term": "202410", "crn": "12841" },
       { "term": "202330", "crn": "30035" },
-      { "term": "202310", "crn": "13214" }
+      { "term": "202310", "crn": "13214" },
+      { "term": "202510", "crn": "12519" }
     ],
     "description": "Designed for students with very little or no prior knowledge of German. Provides a lively introduction to basic oral expression, listening comprehension, and elementary reading and writing. Each lesson incorporates helpful information about daily life in German. Laboratory practice complements class work, enables students to work aloud at their own speed, reinforces their acquisition of essential structures, and acquaints them with a vast library of audio-visual resources.",
     "coreqs": [],
@@ -27,7 +28,8 @@
       { "term": "202430", "crn": "30065" },
       { "term": "202410", "crn": "11197" },
       { "term": "202330", "crn": "30068" },
-      { "term": "202310", "crn": "11350" }
+      { "term": "202310", "crn": "11350" },
+      { "term": "202510", "crn": "11090" }
     ],
     "description": "Continues GRMN 1101. Includes completion of basic grammatical usage, reading of contemporary German material, and increased stress on oral and aural skills.",
     "coreqs": [],
@@ -50,7 +52,8 @@
       { "term": "202430", "crn": "33373" },
       { "term": "202410", "crn": "10749" },
       { "term": "202330", "crn": "33847" },
-      { "term": "202310", "crn": "10842" }
+      { "term": "202310", "crn": "10842" },
+      { "term": "202510", "crn": "10695" }
     ],
     "description": "Emphasizes further vocabulary building. Offers students an opportunity to master the fine points of grammar through written composition, prepared oral reports, and reading and discussion from contemporary German materials.",
     "coreqs": [],
@@ -73,11 +76,16 @@
       { "term": "202430", "crn": "33151" },
       { "term": "202410", "crn": "14911" },
       { "term": "202330", "crn": "33564" },
-      { "term": "202310", "crn": "15984" }
+      { "term": "202310", "crn": "15984" },
+      { "term": "202510", "crn": "14232" }
     ],
     "description": "Builds on GRMN 2101 and focuses on further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through written composition, prepared oral reports, and reading and discussion from contemporary German materials.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "GRMN", "number": "2101" },
+      "Or",
+      { "subject": "GRMN", "number": "2301" }
+    ]
   },
   {
     "subject": "GRMN",
@@ -89,7 +97,8 @@
     "sections": [
       { "term": "202430", "crn": "37061" },
       { "term": "202410", "crn": "20038" },
-      { "term": "202330", "crn": "39077" }
+      { "term": "202330", "crn": "39077" },
+      { "term": "202510", "crn": "17498" }
     ],
     "description": "Continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
     "coreqs": [],
@@ -108,7 +117,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202510", "crn": "17499" }],
     "description": "Builds on GRMN 3101 and continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
     "coreqs": [],
     "prereqs": [

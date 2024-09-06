@@ -15,7 +15,10 @@
       { "term": "202310", "crn": "10852" },
       { "term": "202310", "crn": "10851" },
       { "term": "202310", "crn": "10850" },
-      { "term": "202310", "crn": "10849" }
+      { "term": "202310", "crn": "10849" },
+      { "term": "202510", "crn": "10705" },
+      { "term": "202510", "crn": "10703" },
+      { "term": "202510", "crn": "10702" }
     ],
     "description": "Designed to enhance academic success and help students transition to university life and academics. Uses a multimedia approach, diverse perspectives, and collaborative learning to challenge students to examine their assumptions and values by analyzing, synthesizing, and evaluating contemporary social issues and trends in popular culture. Emphasizes exploration of academic and career interests for student life-long success.",
     "coreqs": [],
@@ -36,8 +39,7 @@
       { "term": "202330", "crn": "32154" },
       { "term": "202330", "crn": "30049" },
       { "term": "202330", "crn": "30048" },
-      { "term": "202330", "crn": "30047" },
-      { "term": "202330", "crn": "30046" }
+      { "term": "202330", "crn": "30047" }
     ],
     "description": "Continues the exploration of academic and career interest for life-long success. Focuses on research, argumentation, and oral presentations. Addresses the sophomore transition process to the destination colleges.",
     "coreqs": [],

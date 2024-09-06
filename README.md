@@ -153,7 +153,7 @@ See [#7](https://github.com/ninest/nu-courses/issues/7) for details on this form
 
 Run
 
-```
+```bash
 deno task fetch:prereqs
 ```
 
@@ -163,6 +163,14 @@ Similar to co-requisites, lists of pre-requisites already fetched won't be re-fe
 
 Mappings are meant to make the data easier to use in applications. After all, these are just JSON files, not a relational database where we can nicely get the data we want.
 
+### Combine courses
+
+First, merge all courses into a single JSON file by running
+
+```bash
+deno task combine-courses
+```
+
 ### Terms to subject/courses (#24)
 
 Map each term code to courses offered in that term. Each term has its own JSON file (`202340.json` for Summer I 2023) with a key for each subject code. The value is a list of courses (containing course `number` and a list `string[]` of CRNs)
@@ -171,6 +179,20 @@ Map each term code to courses offered in that term. Each term has its own JSON f
 export interface TermSubjectCourseMapping {
   [subjectCode: string]: { number: string; crns: string[] }[];
 }
+```
+
+Run
+
+```bash
+deno task mapping:term-courses
+```
+
+### Format
+
+Finally, run 
+
+```bash
+deno task fmt:data
 ```
 
 ## Support

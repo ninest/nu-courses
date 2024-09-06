@@ -10,7 +10,9 @@
       { "term": "202430", "crn": "39007" },
       { "term": "202430", "crn": "39008" },
       { "term": "202410", "crn": "20512" },
-      { "term": "202410", "crn": "20518" }
+      { "term": "202410", "crn": "20518" },
+      { "term": "202510", "crn": "17952" },
+      { "term": "202510", "crn": "17958" }
     ],
     "description": "Designed to provide students with an in-depth exposure to entrepreneurship in the social sector, a rapidly growing segment of the global economy. Uses the case method to expose students to leading entrepreneurs who have developed and implemented business models to solve social problems such as extreme poverty, disease, illiteracy, and economic and social dislocation. Focuses on uniquely creative and driven people who have dedicated their lives to making a difference in the lives of others through values-based entrepreneurship.",
     "coreqs": [],
@@ -62,7 +64,23 @@
       { "term": "202410", "crn": "19533" },
       { "term": "202410", "crn": "20113" },
       { "term": "202410", "crn": "20249" },
-      { "term": "202410", "crn": "21355" }
+      { "term": "202410", "crn": "21355" },
+      { "term": "202510", "crn": "17028" },
+      { "term": "202510", "crn": "17029" },
+      { "term": "202510", "crn": "17030" },
+      { "term": "202510", "crn": "17031" },
+      { "term": "202510", "crn": "17032" },
+      { "term": "202510", "crn": "17033" },
+      { "term": "202510", "crn": "17034" },
+      { "term": "202510", "crn": "17035" },
+      { "term": "202510", "crn": "17036" },
+      { "term": "202510", "crn": "17037" },
+      { "term": "202510", "crn": "17038" },
+      { "term": "202510", "crn": "17039" },
+      { "term": "202510", "crn": "21415" },
+      { "term": "202510", "crn": "17571" },
+      { "term": "202510", "crn": "17700" },
+      { "term": "202510", "crn": "18760" }
     ],
     "description": "Designed for students across the entire University who wish to learn about innovation—the creative process, the different types of innovation, how innovations are created, and how innovations can be transformed into commercial reality either as new products or new services and either in startups, existing corporations, and nonprofit entities. Offers students an opportunity to obtain the fundamental insight needed to understand the innovation process and to become a player in it.",
     "coreqs": [],
@@ -77,7 +95,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "20114" },
-      { "term": "202410", "crn": "20395" }
+      { "term": "202410", "crn": "20395" },
+      { "term": "202510", "crn": "17839" }
     ],
     "description": "Offers students an opportunity to learn several interrelated frameworks, concepts, and the language necessary to understand and analyze the origin and implications of industry disruptions and the difficulties experienced by incumbent firms as they seek to respond to the changes. Geared toward students who want to become innovation leaders in established companies and lead projects to create and launch new products or services, as well as students who plan to start their own businesses, particularly in high-technology sectors.",
     "coreqs": [],
@@ -92,7 +111,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39018" },
-      { "term": "202410", "crn": "20406" }
+      { "term": "202410", "crn": "20406" },
+      { "term": "202510", "crn": "17850" }
     ],
     "description": "Studies how businesses can be agents for social good, both locally and around the world. In an era of growing social and economic inequality both in the United States and globally, many “enlightened” businesses are reconsidering their roles in creating opportunity for disadvantaged or marginalized people and communities. Focuses on businesses that have the resources to invest in innovative social responsibility programs that address the impact of rising social and economic inequality. Considers the tension between the single-minded notion of maximizing profit for investors and serving a broader stakeholder community. The role of entrepreneurship and entrepreneurial thinking plays a key role in student learning. This is an integrative course that includes areas such as business policy, governance, strategy, and decision making.",
     "coreqs": [],
@@ -132,7 +152,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20397" }],
+    "sections": [
+      { "term": "202410", "crn": "20397" },
+      { "term": "202510", "crn": "17841" }
+    ],
     "description": "Analyzes whether, why, and how multibusiness corporations expand their operations into new business areas by questioning decisions to grow organically or through mechanisms such as acquisitions or alliances. Uses rigorous case-based discussions, expert readings, and major current events to discuss issues related to the choice of make, buy, or partner. Evaluates how these different corporate entrepreneurial strategies are used to help firms be more competitive and innovative.",
     "coreqs": [],
     "prereqs": []
@@ -146,7 +169,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39020" },
-      { "term": "202410", "crn": "20818" }
+      { "term": "202410", "crn": "20818" },
+      { "term": "202510", "crn": "18248" }
     ],
     "description": "Offers students an opportunity to experience corporate innovation in the classroom. Corporate innovation involves an enterprise experimenting with modern practices, technology, strategies, and opportunities to make its existing business model more competitive in the current marketplace. Students, as a class, represent a specific firm and tackle these corporate innovation challenges by adopting a culture that embraces new technology and actively seeks out ways to enhance the firm’s business model. With this proactive approach to corporate innovation, the students can visualize how enterprises can remain agile in the face of rising competition. The goal is to learn how corporations may even identify new opportunities before any startup has a chance to establish itself in the market.",
     "coreqs": [],
@@ -159,13 +183,14 @@
   {
     "subject": "INNO",
     "number": "4506",
-    "title": "Seminar in Social Innovation and Entrepreneurship",
+    "title": "Integrated Studies in Social Innovation and Entrepreneurship",
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39021" },
-      { "term": "202410", "crn": "19947" }
+      { "term": "202410", "crn": "19947" },
+      { "term": "202510", "crn": "21304" }
     ],
     "description": "Focuses on a single developing region. Offers an opportunity to analyze the role of socially-driven entrepreneurship or “social impact enterprises” (SIEs) in alleviating poverty and its symptoms (for example, disease, illiteracy and chronic unemployment) in that country. Students have an opportunity to study the history, politics, and development of the country, with an emphasis on the role that private-sector initiatives have played and hope to play in addressing widespread poverty and with a focus on the failures and successes in economic and business development, economic growth, and poverty alleviation. Offers students an opportunity to develop a plan for a micro-investment strategy focused on these and/or similar businesses and organizations having a significant social impact in a developing country.",
     "coreqs": [],
@@ -184,7 +209,9 @@
       { "term": "202430", "crn": "39023" },
       { "term": "202410", "crn": "19886" },
       { "term": "202410", "crn": "20398" },
-      { "term": "202410", "crn": "20399" }
+      { "term": "202410", "crn": "20399" },
+      { "term": "202510", "crn": "17842" },
+      { "term": "202510", "crn": "17843" }
     ],
     "description": "Explores the challenges and processes for harnessing technological innovation for new-business development. Integrates technology strategy, innovation in marketing, product development, and organization design for the purpose of enterprise growth. Through readings, cases, and exercises, studies how firms from different industries gain competitive advantage through distinctive products and services, and leverage their technologies and skills into new emerging markets. Also focuses on processes for conceiving, financing, and organizing new ventures.",
     "coreqs": [],
@@ -197,7 +224,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "21698" }],
+    "sections": [
+      { "term": "202410", "crn": "21698" },
+      { "term": "202510", "crn": "19093" }
+    ],
     "description": "Reviews the key theories and tools needed to understand how technological change creates new markets and prompts new business models, how technology-based firms can outcompete rivals in fast-growing markets characterized by high uncertainty, and how the evolution of technology in an industry affects the type of firm capabilities needed to succeed over time.",
     "coreqs": [],
     "prereqs": []
@@ -212,7 +242,10 @@
     "sections": [
       { "term": "202430", "crn": "39337" },
       { "term": "202410", "crn": "19889" },
-      { "term": "202410", "crn": "20400" }
+      { "term": "202410", "crn": "20400" },
+      { "term": "202510", "crn": "17362" },
+      { "term": "202510", "crn": "17844" },
+      { "term": "202440", "crn": "42093" }
     ],
     "description": "Offers students an opportunity to analyze whether, why, and how multibusiness corporations expand their operations into new business areas by questioning decisions to grow globally through mechanisms such as acquisitions or alliances. Uses rigorous case-based discussions, expert readings, and major current events to discuss issues related to the choice of make, buy, or partner. Offers students an opportunity to evaluate how these different corporate entrepreneurial strategies are used to help firms be more competitive and innovative.",
     "coreqs": [],
@@ -240,7 +273,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "39341" }],
+    "sections": [
+      { "term": "202430", "crn": "39341" },
+      { "term": "202510", "crn": "20457" }
+    ],
     "description": "Delves into the societal and ethical challenges companies increasingly face as they confront new technologies. Studies the origins of these challenges and explores how firms can address these important ethical and societal issues as they seek competitive advantage in the marketplace. Examines the unintended consequences of past technological advances and how firms, regulators, and society responded to similar issues in the past. Evaluates a range of current issues with new technologies and explores the extent to which lessons from the past can be applied to current debates. Explores how differences in incentives across organizations influence their stance on new technologies, including the range of solutions they consider when challenges do arise.",
     "coreqs": [],
     "prereqs": []
@@ -259,15 +295,15 @@
   },
   {
     "subject": "INNO",
-    "number": "6241",
-    "title": "Strategic Disruption Residency 2",
+    "number": "6242",
+    "title": "Strategic Disruption Residency 3",
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [],
-    "description": "Emphasizes the importance of how to market and sell new products or services, both for internal and external applications. Offers students an opportunity to acquire a comprehensive understanding of how to design strategic revenue strategies that focus on how value is determined and revenues are matched against expense investments. Guides students to explore the challenges and solutions to implementing new innovation processes that leverage digital technologies and collaborative cultures. Includes a mix of research topics, cases, and hands-on learning.",
+    "sections": [{ "term": "202510", "crn": "21938" }],
+    "description": "Explores the policies and procedures germane to the internal operation of a technology-driven organization. Emphasizes the principles of risk management and quality control, training and documentation requirements, standards design, and IT support systems. Focuses on choosing, developing, and using operational metrics and analytics to govern a technology-driven operation and mining business intelligence from internal and external sources for use in running that operation.",
     "coreqs": [],
-    "prereqs": [{ "subject": "INNO", "number": "6240" }]
+    "prereqs": [{ "subject": "INNO", "number": "6241" }]
   },
   {
     "subject": "INNO",
@@ -276,8 +312,37 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "21966" }],
+    "sections": [
+      { "term": "202410", "crn": "21966" },
+      { "term": "202510", "crn": "19353" },
+      { "term": "202510", "crn": "21538" },
+      { "term": "202510", "crn": "22827" }
+    ],
     "description": "Offers three executive seminars in which students build \"chapters\" that comprise their Integrated and Applied Technology Leadership (IATL) project. Primarily examines the technical and managerial challenges of implementing complex technology-based products—from system modeling, integration of modules, requirements verification, and formal specifications to the definition and overall coordination of the development team's efforts. Covers multiple product environments. Pairs students with mentors based on initial project proposal. Regular meetings with mentors offer students opportunities to refine the project and reinforce the business needs. May be repeated once.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INNO",
+    "number": "6253",
+    "title": "Managing the Metaverse",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202460", "crn": "61853" }],
+    "description": "Explores the foundations of the metaverse and its impact on technology, society, and commerce. Analyzes the historical context, augmented and virtual reality, alternate realities, and the potential for a fully realized metaverse. Utilizes transmedia storytelling as a lens to understand how these dimensions shape the human experience and offers opportunities for creative and profitable interactions.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INNO",
+    "number": "6254",
+    "title": "Technology and the Law",
+    "scheduleType": "Lab",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20946" }],
+    "description": "Introduces the intersection of law and technology, focusing on legal principles impacting business decisions. Examines how to make informed choices and collaborate with lawyers. Emphasizes understanding key legal issues, effective interaction with legal professionals, and fostering the capability to discuss and explain issues within business teams.",
     "coreqs": [],
     "prereqs": []
   },
@@ -305,9 +370,72 @@
       { "term": "202410", "crn": "21481" },
       { "term": "202410", "crn": "21482" },
       { "term": "202410", "crn": "21483" },
-      { "term": "202360", "crn": "61397" }
+      { "term": "202360", "crn": "61397" },
+      { "term": "202510", "crn": "18886" },
+      { "term": "202510", "crn": "18887" },
+      { "term": "202510", "crn": "18888" }
     ],
     "description": "Introduces a number of entrepreneurship and innovation topics, including innovation and entrepreneurship as a value-creating activity for economies and firms; types of innovation (technological, process, products, business models); fundamentals of product development (design thinking, rapid prototyping, ethnography); startup creation and articulating a value proposition; the role and traits of the entrepreneur; maximizing odds of success and minimizing odds of failure; growing the startup and creating a market; finding or creating the right niche; pivoting and judo strategy; lean startup approach; innovation in established firms and resistance to change; organizational inertia; business model change; and technological discontinuities.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INNO",
+    "number": "6401",
+    "title": "Blockchain AI and IT",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202460", "crn": "61731" }],
+    "description": "Covers the design of blockchains and their applications in healthcare, media, financial services, information security, supply chain logistics, and enterprise systems. Introduces the technology underlying blockchains and related implications for IT, analytics, business models, and business processes.Studies a variety of topics within the domain of blockchain technology and its enablement of machine learning. Demonstrates and shares business implications through faculty-led discussion and synthesis. Readings, content, and lectures are context and raw materials.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INNO",
+    "number": "6402",
+    "title": "Creating Value in the Experience Economy",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202460", "crn": "61786" }],
+    "description": "Introduces students to ideas, frameworks, and design principles for creating greater economic value for consumers and in B2B situations. Explores the full “Progression of Economic Value” beginning with fungible commodities (the basis of the agrarian economy), to tangible goods (the industrial economy), to intangible services (last century’s service economy), shifting into memorable experiences—the basis of the experience economy.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INNO",
+    "number": "6403",
+    "title": "Cybersecurity Response Policy and Practice",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202460", "crn": "61732" }],
+    "description": "Introduces the tools needed to build, deliver, and implement a cybersecurity strategy, obtain board consensus around the proposed strategy, and develop an associated “cyber playbook” to respond to security incidents. Focuses on cybersecurity strategy and risk framework from the perspective of the board and executive team. Offers students an opportunity to transition from a strategy and planning perspective to driving cybersecurity tactically with security teams and the business, including security awareness and integration of security controls. Examines how to apply tactical knowledge of incident response and reporting via a scenario-based experiential exercise with role-playing in a simulated cybersecurity crisis situation derived from real-world scenarios.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INNO",
+    "number": "6406",
+    "title": "Leading Disruptive Change in a Digital Economy",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202460", "crn": "61734" }],
+    "description": "Focuses on the impact of information technology on an organization’s transformative objectives. Studies concepts relating to how to integrate IT as the key driver for business process change, for continuous improvement in incremental gains, and for selective reengineering to effectuate substantial breakthroughs in process performance. Offers students an opportunity to develop an understanding of how technology has a push effect on an organization’s processes and of the various factors that must be in synch to facilitate such an effect.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INNO",
+    "number": "6408",
+    "title": "Raising Capital",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202460", "crn": "61735" }],
+    "description": "Explores multiple strategies for students to launch new ventures as entrepreneurs or intrapreneurs. Focuses on the assessment of business models, funding strategies, team building approaches, and go-to-market examples for new ventures. Offers students an opportunity to draw upon previous academic and professional experience in cross-disciplinary ideation, finance, business strategy, law, market research, and organizational behavior to actualize new venture ideas. Culminates in a new venture pitch to mentors and peers who may include serial entrepreneurs, venture capitalists, startup advisors, and individuals with C-level corporate experience.",
     "coreqs": [],
     "prereqs": []
   }

@@ -30,7 +30,10 @@
       { "term": "202310", "crn": "21008" },
       { "term": "202310", "crn": "21182" },
       { "term": "202310", "crn": "21443" },
-      { "term": "202310", "crn": "21698" }
+      { "term": "202310", "crn": "21698" },
+      { "term": "202510", "crn": "22654" },
+      { "term": "202440", "crn": "42159" },
+      { "term": "202440", "crn": "42174" }
     ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated up to four times.",
     "coreqs": [],

@@ -13,7 +13,8 @@
       { "term": "202330", "crn": "31159" },
       { "term": "202310", "crn": "11292" },
       { "term": "202310", "crn": "14186" },
-      { "term": "202240", "crn": "40253" }
+      { "term": "202240", "crn": "40253" },
+      { "term": "202510", "crn": "11062" }
     ],
     "description": "Introduces students to the world of entrepreneurship. Covers the importance of entrepreneurship, the characteristics of entrepreneurs, and the entrepreneurship process. Describes entrepreneurship in its various forms, including startup growth ventures, entrepreneurship in small and medium enterprises, and microbusinesses.",
     "coreqs": [],
@@ -47,7 +48,8 @@
       { "term": "202430", "crn": "31650" },
       { "term": "202410", "crn": "13162" },
       { "term": "202330", "crn": "31823" },
-      { "term": "202310", "crn": "13578" }
+      { "term": "202310", "crn": "13578" },
+      { "term": "202510", "crn": "12790" }
     ],
     "description": "Covers business, personal, and family issues found in family owned and managed companies, including management of the business, succession planning, entitlement, hiring, nonfamily employees, boards of advisors and directors, compensation, managing conflict, and communications. Designed for individuals who plan to enter into the management of a family business. Focuses on small and midsize firms with annual revenue of $5 million to $500 million.",
     "coreqs": [],
@@ -133,7 +135,10 @@
       { "term": "202330", "crn": "31163" },
       { "term": "202310", "crn": "11270" },
       { "term": "202310", "crn": "11271" },
-      { "term": "202260", "crn": "60584" }
+      { "term": "202260", "crn": "60584" },
+      { "term": "202510", "crn": "11044" },
+      { "term": "202510", "crn": "11045" },
+      { "term": "202510", "crn": "17580" }
     ],
     "description": "Designed to help aspiring and serious entrepreneurship students to generate and evaluate robust marketing opportunities that may serve as the foundation for a new venture. Once a new opportunity has been vetted, students then have an opportunity to work on developing an entrepreneurial marketing plan. Covers methods for recognizing, discovering, or creating opportunities and validating those opportunities. One of the biggest challenges entrepreneurs face is coming up with the right opportunity for a new venture. This is an applied and experiential course involving field research. Two key deliverables are the opportunity assessment project and the entrepreneurial marketing plan.",
     "coreqs": [],
@@ -208,7 +213,8 @@
       { "term": "202430", "crn": "31651" },
       { "term": "202410", "crn": "11815" },
       { "term": "202330", "crn": "31825" },
-      { "term": "202310", "crn": "12036" }
+      { "term": "202310", "crn": "12036" },
+      { "term": "202510", "crn": "11648" }
     ],
     "description": "Considers dynamic entrepreneurial startup strategy from three perspectives: positioning of the venture within a dynamic, evolving industrial ecosystem that includes major companies, startups, and universities at various parts of the value-chain; different sources of innovation, including open innovation and industry-wide technology platforms; and business model design and implementation. Explores startup strategy from these perspectives using case studies and web-based company research projects and then asks students to develop their own strategy for a startup using the frameworks studied in class.",
     "coreqs": [],
@@ -254,7 +260,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10389" },
-      { "term": "202310", "crn": "10416" }
+      { "term": "202310", "crn": "10416" },
+      { "term": "202510", "crn": "21184" }
     ],
     "description": "Offers teams of students an opportunity to consult with owners of small- and medium-sized enterprises (SMEs) to develop project proposals and perform field casework specific to the needs of their SME clients. A highlight of this course is the SME consulting project. Through the project and course material, covers how to manage an SME from the day-to-day operations to strategic planning for growth. Exposes students to a variety of ways that an SME can achieve profitability and growth by generating lasting customer relationships, offering exemplary service, managing cash flow, implementing marketing strategies, and developing new and retooled products/services to reach new markets.",
     "coreqs": [],
@@ -322,7 +329,9 @@
       { "term": "202330", "crn": "38112" },
       { "term": "202330", "crn": "38737" },
       { "term": "202310", "crn": "10415" },
-      { "term": "202310", "crn": "13193" }
+      { "term": "202310", "crn": "13193" },
+      { "term": "202510", "crn": "10370" },
+      { "term": "202510", "crn": "20456" }
     ],
     "description": "Designed as an advanced course for students who are studying entrepreneurship. Covers the issues raised when creating a technology venture that goes through multiple rounds of financing in order to become a successful large company. Topics include managing growth, writing business plans, raising money, and formulating exit strategies. Focuses on projects to obtain venture financing from venture capitalists, angels, and corporate investors.",
     "coreqs": [],
@@ -408,7 +417,8 @@
       { "term": "202410", "crn": "16950" },
       { "term": "202340", "crn": "40986" },
       { "term": "202330", "crn": "36806" },
-      { "term": "202240", "crn": "41245" }
+      { "term": "202240", "crn": "41245" },
+      { "term": "202510", "crn": "15524" }
     ],
     "description": "Pairs students with entrepreneurs and faculty in a mentorship capacity. This experiential learning is designedto accelerate entrepreneurial projects. Uses classroom learning to enhance project value proposition, market opportunity, technology development level, financials, go-to-market-strategy, and pitches.",
     "coreqs": [],
@@ -508,7 +518,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "20393" },
-      { "term": "202310", "crn": "12627" }
+      { "term": "202310", "crn": "12627" },
+      { "term": "202510", "crn": "17837" }
     ],
     "description": "Designed to provide students with an in-depth exposure to entrepreneurship in the social sector, a rapidly growing segment of the global economy. Uses the case method to expose students to leading entrepreneurs who have developed and implemented business models to solve social problems such as extreme poverty, disease, illiteracy, and economic and social dislocation. Focuses on uniquely creative and driven people who have dedicated their lives to making a difference in the lives of others through values-based entrepreneurship.",
     "coreqs": [],
@@ -615,7 +626,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20394" }],
+    "sections": [
+      { "term": "202410", "crn": "20394" },
+      { "term": "202510", "crn": "17838" }
+    ],
     "description": "Examines the specific situation of entrepreneurial marketing. Topics include how to perform a market analysis when there are limited resources and tight schedules to be met. Also addresses new market situations, opportunity assessment, customer segmentation, going to market, and writing a marketing plan.",
     "coreqs": [],
     "prereqs": []
@@ -644,7 +658,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20501" }],
+    "sections": [
+      { "term": "202410", "crn": "20501" },
+      { "term": "202510", "crn": "17941" }
+    ],
     "description": "Covers topics specific to managing a business or a strategic business unit within a firm. Considers the special issues related to technology-based firms. Topics include creating a culture, operations planning, staffing for technical excellence, dealing with technology vendors, dealing with advisers, supply chain management, and writing operations plans. Open to first-year graduate students.",
     "coreqs": [],
     "prereqs": []
@@ -677,7 +694,8 @@
     "sections": [
       { "term": "202430", "crn": "41314" },
       { "term": "202410", "crn": "21578" },
-      { "term": "202340", "crn": "42094" }
+      { "term": "202340", "crn": "42094" },
+      { "term": "202510", "crn": "23016" }
     ],
     "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],

@@ -42,7 +42,6 @@
       { "term": "202410", "crn": "15586" },
       { "term": "202410", "crn": "15587" },
       { "term": "202330", "crn": "30425" },
-      { "term": "202330", "crn": "30010" },
       { "term": "202330", "crn": "30917" },
       { "term": "202330", "crn": "30918" },
       { "term": "202330", "crn": "31411" },
@@ -81,7 +80,32 @@
       { "term": "202310", "crn": "16336" },
       { "term": "202310", "crn": "17221" },
       { "term": "202310", "crn": "17248" },
-      { "term": "202310", "crn": "17249" }
+      { "term": "202310", "crn": "17249" },
+      { "term": "202510", "crn": "10346" },
+      { "term": "202510", "crn": "10830" },
+      { "term": "202510", "crn": "10341" },
+      { "term": "202510", "crn": "10831" },
+      { "term": "202510", "crn": "10339" },
+      { "term": "202510", "crn": "10015" },
+      { "term": "202510", "crn": "10010" },
+      { "term": "202510", "crn": "10001" },
+      { "term": "202510", "crn": "10834" },
+      { "term": "202510", "crn": "10712" },
+      { "term": "202510", "crn": "11106" },
+      { "term": "202510", "crn": "11108" },
+      { "term": "202510", "crn": "12344" },
+      { "term": "202510", "crn": "12559" },
+      { "term": "202510", "crn": "13475" },
+      { "term": "202510", "crn": "13476" },
+      { "term": "202510", "crn": "13479" },
+      { "term": "202510", "crn": "14397" },
+      { "term": "202510", "crn": "14398" },
+      { "term": "202510", "crn": "14400" },
+      { "term": "202510", "crn": "14401" },
+      { "term": "202510", "crn": "14712" },
+      { "term": "202510", "crn": "14720" },
+      { "term": "202510", "crn": "14724" },
+      { "term": "202510", "crn": "14725" }
     ],
     "description": "Seeks to support students in their transition to Northeastern and in their development as they become members of the college and university communities. Through classroom discussion and self-reflection activities, students are introduced to campus partners and opportunities, institutional policies and procedures, and academic support resources. Students are expected to attend activities that include major exploration events, diversity discussions, and student organization meetings.",
     "coreqs": [],
@@ -101,7 +125,8 @@
       { "term": "202410", "crn": "10279" },
       { "term": "202330", "crn": "39434" },
       { "term": "202310", "crn": "19086" },
-      { "term": "202240", "crn": "40161" }
+      { "term": "202240", "crn": "40161" },
+      { "term": "202510", "crn": "14713" }
     ],
     "description": "Seeks to develop problem-solving skills used in engineering design, using case studies for a variety of engineering disciplines. Introduces students to the use of spreadsheet tools to solve engineering problems, including data reduction and visualization of data and functions. Design topics include problem formulation and specification, creativity, evaluation tools, patents, ergonomics, system design, manufacturing, ethics in engineering, and presentation techniques. Presents engineering graphics focusing on developing 3D visualization skills and computer-aided design (CAD) application. Students develop an original design solution to a technical problem as a term project. Requires students to have a laptop computer that meets the specifications of the College of Engineering.",
     "coreqs": [],
@@ -121,7 +146,8 @@
       { "term": "202340", "crn": "40040" },
       { "term": "202330", "crn": "38217" },
       { "term": "202310", "crn": "10362" },
-      { "term": "202240", "crn": "40041" }
+      { "term": "202240", "crn": "40041" },
+      { "term": "202510", "crn": "10963" }
     ],
     "description": "Uses a structured approach to solve engineering problems. Draws applications from a variety of engineering disciplines, which serve as a tool for introducing students to engineering analysis and design. Introduces a math application package for matrix applications and various real-life engineering problems. Includes the design of problem-solving algorithms using a high-level programming language. Topics include the use of programmable microcontrollers, as well as various electronic components.",
     "coreqs": [],
@@ -194,7 +220,31 @@
       { "term": "202310", "crn": "12760" },
       { "term": "202310", "crn": "13767" },
       { "term": "202310", "crn": "17232" },
-      { "term": "202310", "crn": "19087" }
+      { "term": "202310", "crn": "19087" },
+      { "term": "202510", "crn": "12174" },
+      { "term": "202510", "crn": "12176" },
+      { "term": "202510", "crn": "12177" },
+      { "term": "202510", "crn": "12178" },
+      { "term": "202510", "crn": "12182" },
+      { "term": "202510", "crn": "12183" },
+      { "term": "202510", "crn": "12184" },
+      { "term": "202510", "crn": "12185" },
+      { "term": "202510", "crn": "12188" },
+      { "term": "202510", "crn": "12189" },
+      { "term": "202510", "crn": "12190" },
+      { "term": "202510", "crn": "13929" },
+      { "term": "202510", "crn": "14679" },
+      { "term": "202510", "crn": "12191" },
+      { "term": "202510", "crn": "12193" },
+      { "term": "202510", "crn": "18513" },
+      { "term": "202510", "crn": "15397" },
+      { "term": "202510", "crn": "22464" },
+      { "term": "202510", "crn": "12493" },
+      { "term": "202510", "crn": "12494" },
+      { "term": "202510", "crn": "12738" },
+      { "term": "202510", "crn": "14403" },
+      { "term": "202510", "crn": "14715" },
+      { "term": "202510", "crn": "15396" }
     ],
     "description": "Introduces students to the engineering design process and algorithmic thinking using a combination of lectures and hands-on projects and labs while encouraging critical thinking. Offers students an opportunity to develop creative problem-solving skills used in engineering design, to structure software, and to cultivate effective written and oral communication skills. Topics include the use of design and graphics communication software, spreadsheets, a high-level programming language, programmable microcontrollers as well as various electronic components, and 3-D printing. Requires students to develop an original design solution to a technical problem as a final term project. Requires students to have a laptop computer that meets the specifications of the College of Engineering.",
     "coreqs": [],
@@ -264,23 +314,14 @@
       { "term": "202310", "crn": "12761" },
       { "term": "202310", "crn": "12763" },
       { "term": "202310", "crn": "12764" },
-      { "term": "202310", "crn": "13766" }
+      { "term": "202310", "crn": "13766" },
+      { "term": "202510", "crn": "12195" },
+      { "term": "202510", "crn": "12196" },
+      { "term": "202510", "crn": "20108" }
     ],
     "description": "Continues GE 1501 using a project-based approach under a unifying theme. Covers topics that introduce students to engineering analysis and design. Uses a math application package for matrix applications along with various real-life engineering problems solved using programming. Considers ethical reasoning in design and analysis, including ethical theories, professional codes, and emerging micro/macro issues in engineering. Introduces quantitative tools and ethical topics separately and weaves them into all design and problem-solving stages of the student projects. Covers 3-D assembly drawings and modeling, along with review and further work in design. Students work on open-ended design problems, developing working models and prototypes to demonstrate and present their designs. Requires students to have a laptop computer that meets the specifications of the College of Engineering.",
     "coreqs": [],
     "prereqs": [{ "subject": "GE", "number": "1501" }]
-  },
-  {
-    "subject": "GE",
-    "number": "1520",
-    "title": "Making Fundamentals in Design and Fabrication",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [],
-    "description": "Utilizes numerous, accessible, low-to-medium fidelity fabrication methods used in design and fabrication prototyping. Offers students an opportunity to develop in-depth knowledge to investigate multiple manufacturing and assembly methods and learn best practices, with a goal of demonstrating the ability to choose the best technique from among the options presented. Coursework consists of individual and team-based hands-on experiences using these tools to design and build prototypes via a suite of weekly/biweekly design-build assignments. Designed for interested nonengineering students.",
-    "coreqs": [],
-    "prereqs": []
   },
   {
     "subject": "GE",
@@ -292,7 +333,8 @@
     "sections": [
       { "term": "202410", "crn": "16743" },
       { "term": "202330", "crn": "38225" },
-      { "term": "202310", "crn": "19089" }
+      { "term": "202310", "crn": "19089" },
+      { "term": "202510", "crn": "15398" }
     ],
     "description": "Introduces various analytical and computational techniques. Course content is delivered through a series of modeling and analysis projects, design innovations and improvements, and design testing—including not only the technical performance but also commercialization potential by developing and presenting a business plan. Offers students an opportunity to design a representative model, implement the model through their design, verify and validate using analysis techniques, develop a business plan, report on the design and modelling, and suggest improvements for a revised design and model. Design projects and topics are expanded or reduced depending on class interest.",
     "coreqs": [],
@@ -319,7 +361,8 @@
     "nuPath": ["EX"],
     "sections": [
       { "term": "202430", "crn": "39787" },
-      { "term": "202410", "crn": "21265" }
+      { "term": "202410", "crn": "21265" },
+      { "term": "202510", "crn": "18676" }
     ],
     "description": "Offers students an opportunity to develop a proposal for a design project that uses engineering technologies to improve the lives of individuals with cognitive or physical disabilities. Offers student project groups an opportunity to work with end users and caregivers at local nursing homes and special education schools to assess a specific need, research potential solutions, and develop a detailed proposal for a project. Project groups are matched with product design mentors who guide groups through the design process. Lectures cover relevant topics, including surveys of specific physical and cognitive disabilities and applicable engineering technologies. The same project may not be used to satisfy both this course and EECE 4790. May be repeated once.",
     "coreqs": [],
@@ -341,27 +384,13 @@
       { "term": "202340", "crn": "40447" },
       { "term": "202330", "crn": "32118" },
       { "term": "202310", "crn": "12514" },
-      { "term": "202240", "crn": "40476" }
+      { "term": "202240", "crn": "40476" },
+      { "term": "202510", "crn": "12011" },
+      { "term": "202510", "crn": "17289" }
     ],
     "description": "Offers students an opportunity to obtain a sound scientific, technological, and economic understanding of our modern energy system and the challenge of energy sustainability. Covers principles of energy, work, and thermodynamics; technologies from supply and demand side, including extraction of primary energy, conversion into fuels and electricity, important energy end-uses, and energy losses; fossil, nuclear power plants, and renewable energy technologies (wind, solar, wave, hydro, geothermal, biofuels); transmission and distribution for electricity and fossil fuels; energy demand by buildings, transportation, and industry, emphasizing efficient technologies; sustainability concepts, including net energy/exergy analysis and life-cycle assessment, energy-related emissions, decentralized generation, smart grids, district heating, and net-zero energy facilities.",
     "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "MATH", "number": "1241" },
-      "Or",
-      { "subject": "MATH", "number": "1250" },
-      "Or",
-      { "subject": "MATH", "number": "1341" },
-      ")",
-      "And",
-      "(",
-      { "subject": "PHYS", "number": "1151" },
-      "Or",
-      { "subject": "PHYS", "number": "1161" },
-      "Or",
-      { "subject": "PHYS", "number": "1171" },
-      ")"
-    ]
+    "prereqs": []
   },
   {
     "subject": "GE",
@@ -373,7 +402,8 @@
     "sections": [
       { "term": "202430", "crn": "32414" },
       { "term": "202410", "crn": "21655" },
-      { "term": "202330", "crn": "32689" }
+      { "term": "202330", "crn": "32689" },
+      { "term": "202510", "crn": "19051" }
     ],
     "description": "Offers students an opportunity to prepare detailed engineering designs and physical prototypes of technology-based products based on real-world specifications. Projects are carried out under the umbrella of the Generate organization within the Sherman Center for Engineering Entrepreneurship Education. Project proposals are developed in collaboration with the center director, including learning outcomes, project goals, and anticipated results/products. May be repeated up to nine times.",
     "coreqs": [],
@@ -390,7 +420,8 @@
       { "term": "202430", "crn": "30203" },
       { "term": "202410", "crn": "10216" },
       { "term": "202330", "crn": "30208" },
-      { "term": "202310", "crn": "10227" }
+      { "term": "202310", "crn": "10227" },
+      { "term": "202510", "crn": "10203" }
     ],
     "description": "Provides an interactive course designed to enhance an engineering student's professional and career-related education through a series of classes taught by managers, engineers, and other professionals with industry experience. Topics include career services resources, developing skills to be an effective manager, the balance between personal and professional life, mentors, making career choices, time management vs. energy management, and others. May be repeated without limit.",
     "coreqs": [],
@@ -416,7 +447,10 @@
       { "term": "202330", "crn": "36486" },
       { "term": "202330", "crn": "38226" },
       { "term": "202310", "crn": "19090" },
-      { "term": "202240", "crn": "41409" }
+      { "term": "202240", "crn": "41409" },
+      { "term": "202510", "crn": "15399" },
+      { "term": "202510", "crn": "17290" },
+      { "term": "202510", "crn": "18133" }
     ],
     "description": "Studies the role of engineering innovation in addressing customer needs in early start-ups and the need to conceive successful innovative engineering design as part of a commercialization strategy. Emphasizes understanding how engineering innovation can meet real technical market needs and how to gather the necessary, relevant technical information early in the innovation process to produce a successful engineering design. Uses a series of practical engineering design projects to demonstrate how students can assess the technical capabilities of the start-up in producing an innovative design, how to communicate with customers in an iterative engineering design process, and how to correspondingly design and innovate to meet customer technical requirements.",
     "coreqs": [],
@@ -440,7 +474,8 @@
       { "term": "202330", "crn": "32473" },
       { "term": "202330", "crn": "36487" },
       { "term": "202310", "crn": "12858" },
-      { "term": "202240", "crn": "41410" }
+      { "term": "202240", "crn": "41410" },
+      { "term": "202510", "crn": "12263" }
     ],
     "description": "Explores the iterative product development process, with a focus on user-centered design techniques. Employs generative and evaluative user research methods to set product requirements and end-user technical specifications and inform the product development decision-making process. Expects students to develop a simple product, device, or tool in a team-based workshop environment, through a project spanning opportunity recognition, concept generation, prototyping and testing, concept selection, and engineering design, all informed by the needs of the intended user population. Includes discussions of industrial design, sketching, design thinking, prototyping and manufacturing processes, and product development consulting.",
     "coreqs": [],
@@ -461,7 +496,8 @@
       { "term": "202330", "crn": "36488" },
       { "term": "202330", "crn": "38227" },
       { "term": "202310", "crn": "19093" },
-      { "term": "202240", "crn": "40387" }
+      { "term": "202240", "crn": "40387" },
+      { "term": "202510", "crn": "15400" }
     ],
     "description": "Seeks to develop in-depth knowledge and experience in prototyping by focusing on engineering processes and instrumentation that are used in different industries. Studies the prototyping cycle, from initial process flow and sketching to prototype development to testing and analysis, with an emphasis on iteration. Analyzes how different kinds of engineering prototypes can address design and user-interface needs vs. functional needs, such as looks-like and works-like prototypes. Offers students an opportunity to obtain operating knowledge of methods including 3D printing, SolidWorks, off-the-shelf hardware-software interfaces, simulation, embedded systems, product testing, prototype analysis, and prototype iteration.",
     "coreqs": [],
@@ -493,7 +529,12 @@
       { "term": "202310", "crn": "12085" },
       { "term": "202310", "crn": "13489" },
       { "term": "202260", "crn": "61237" },
-      { "term": "202240", "crn": "41411" }
+      { "term": "202240", "crn": "41411" },
+      { "term": "202510", "crn": "11691" },
+      { "term": "202510", "crn": "12737" },
+      { "term": "202510", "crn": "17293" },
+      { "term": "202510", "crn": "18135" },
+      { "term": "202460", "crn": "61754" }
     ],
     "description": "Focuses on the main processes needed to develop a complex, high-technology product. Emphasizes the most important techniques and approaches used in a startup environment. Seeks to benefit students of all engineering disciplines including computer science and biomedical, industrial, electrical, mechanical, computer, and chemical engineering. Includes a running practical project in which a new product is designed and executed through a series of small projects for each phase of the product development process. Topics include the product life cycle, new product development processes, project planning and management, new product idea generation, the systems approach to product development, design for manufacturing, market testing and launch, and escalation to manufacturing.",
     "coreqs": [],
@@ -506,7 +547,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "40843" }],
+    "sections": [
+      { "term": "202430", "crn": "40843" },
+      { "term": "202510", "crn": "20113" }
+    ],
     "description": "Offers theoretical or experimental work under individual faculty supervision.",
     "coreqs": [],
     "prereqs": []

@@ -18,7 +18,9 @@
       { "term": "202330", "crn": "39627" },
       { "term": "202310", "crn": "12766" },
       { "term": "202310", "crn": "18070" },
-      { "term": "202240", "crn": "40382" }
+      { "term": "202240", "crn": "40382" },
+      { "term": "202510", "crn": "12199" },
+      { "term": "202510", "crn": "14999" }
     ],
     "description": "Presents an introductory studio course in the fundamental techniques of painting. Formal problems in the study of color, light, space systems, form, and composition establish the foundation for more individual creative expression. Uses critiques and slide lectures as needed.",
     "coreqs": [],
@@ -34,7 +36,8 @@
     "sections": [
       { "term": "202410", "crn": "10482" },
       { "term": "202310", "crn": "10520" },
-      { "term": "202310", "crn": "20708" }
+      { "term": "202310", "crn": "20708" },
+      { "term": "202510", "crn": "10457" }
     ],
     "description": "Focuses on developing the student's awareness of the structure of the figure as well as the emotive qualities of  “figuration.” Students draw from a model in each class. They also develop drawings based on the political and social concerns of contemporary culture and the role of gender as seen through “image.”",
     "coreqs": [],

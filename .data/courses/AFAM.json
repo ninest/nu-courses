@@ -84,7 +84,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC"],
-    "sections": [{ "term": "202410", "crn": "20387" }],
+    "sections": [
+      { "term": "202410", "crn": "20387" },
+      { "term": "202430", "crn": "42051" }
+    ],
     "description": "Traces the presence of African-descended people in North America. Emphasizes the historical and cultural links between Africa and North America that have shaped the Black experience in the United States. Explores and analyzes the institution of slavery, the role of free Black communities, the Civil War and emancipation, and Black leadership and protest during the Reconstruction era. Introduces students to the historian’s craft, theoretical debates concerning race and gender, and the persistence of the past in the present.",
     "coreqs": [],
     "prereqs": [
@@ -155,18 +158,6 @@
   },
   {
     "subject": "AFAM",
-    "number": "3270",
-    "title": "Race, Ethnicity, and Inequality",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": ["DD", "SI"],
-    "sections": [],
-    "description": "Focuses on the social construction of race and ethnicity and the nature of dominant/minority relations in the United States. Emphasizes the peculiar evolution of race relations in U.S. history, the political and economic conditions that have transformed race relations, and the nature of contemporary racial and ethnic relations in the United States. Topics include immigration, ethnic and racial identity, discrimination, and race-based policies (e.g., residential restrictive codes, Jim Crow segregation). Offers students an opportunity to develop a critical lens from which to observe and interpret contemporary debates over structural racism.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "AFAM",
     "number": "3404",
     "title": "African American Rhetorical Traditions",
     "scheduleType": "Lecture",
@@ -176,32 +167,6 @@
     "description": "Examines and organizes the ways that African Americans have historically maintained their humanity and negotiated freedom through discourse. Explores various discursive practices of African American discourse communities—such as the enslaved, abolitionists, feminists, nationalist/revolutionaries, and entertainers—to engage discussions about freedom, access to democracy, racial uplift, gender equity, and the discursive and recursive nature of racial identity. Studies historical contexts and current sociopolitical dynamics emphasizing the Black Jeremiad, civil rights rhetoric, the Black Power Movement, Black Feminist Thought, and Hip-Hop.",
     "coreqs": [],
     "prereqs": [{ "subject": "ENGW", "number": "1111" }]
-  },
-  {
-    "subject": "AFAM",
-    "number": "4526",
-    "title": "Afro-Asian Relations in the Americas",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": ["DD", "SI"],
-    "sections": [],
-    "description": "Examines the comparative racialization of Blacks and Asians in the Americas and relations between these communities. Introduces sociological theories of race/ethnicity, a chronology of Afro-Asian relations in the United States, and the impact of 1970s deindustrialization and post–1965 Asian immigration. Covers the internationalism of Black and Asian leaders (e.g., W.E.B. du Bois and Mao Tse-Tung) in the developing nations and the overlapping Civil Rights, Black Power, and Asian American movements.",
-    "coreqs": [],
-    "prereqs": [
-      { "subject": "SOCL", "number": "1101" },
-      "Or",
-      { "subject": "ANTH", "number": "1101" },
-      "Or",
-      { "subject": "CRIM", "number": "1100" },
-      "Or",
-      { "subject": "HUSV", "number": "1101" },
-      "Or",
-      { "subject": "WMNS", "number": "1103" },
-      "Or",
-      { "subject": "POLS", "number": "1140" },
-      "Or",
-      { "subject": "POLS", "number": "1160" }
-    ]
   },
   {
     "subject": "AFAM",

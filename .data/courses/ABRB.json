@@ -6,7 +6,7 @@
     "scheduleType": "Off-campus instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202510", "crn": "14735" }],
     "description": "Offers an opportunity to study in Mexico. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []

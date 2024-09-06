@@ -8,7 +8,8 @@
     "nuPath": ["ND"],
     "sections": [
       { "term": "202410", "crn": "13968" },
-      { "term": "202310", "crn": "14572" }
+      { "term": "202310", "crn": "14572" },
+      { "term": "202510", "crn": "13488" }
     ],
     "description": "Introduces students to the foundational principles of ecology and evolutionary biology. Merges traditional lectures on foundational topics in ecology and evolutionary biology (adaptation, mechanisms of evolution, community and ecosystems ecology) with explorations of local field sites and an introduction to field ecology. Students spend several weeks of the semester designing and implementing independent field research projects, through which they are exposed to the foundation of scientific inquiry, including hypothesis testing, collecting, managing, and analyzing data, and presenting their findings.",
     "coreqs": [{ "subject": "EEMB", "number": "1102" }],
@@ -23,7 +24,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13509" },
-      { "term": "202310", "crn": "13993" }
+      { "term": "202310", "crn": "13993" },
+      { "term": "202510", "crn": "13102" }
     ],
     "description": "Accompanies EEMB 1101. Covers topics from the course through various experiments.",
     "coreqs": [{ "subject": "EEMB", "number": "1101" }],
@@ -96,7 +98,9 @@
       { "term": "202410", "crn": "20332" },
       { "term": "202330", "crn": "33768" },
       { "term": "202310", "crn": "14573" },
-      { "term": "202310", "crn": "20735" }
+      { "term": "202310", "crn": "20735" },
+      { "term": "202510", "crn": "13489" },
+      { "term": "202510", "crn": "17782" }
     ],
     "description": "Offers students an opportunity to learn about the environmental and biological processes that control the distribution and abundance of species and controlling factors that operate on individuals, populations, and communities. The lecture and laboratory introduce a set of generalizable concepts that are of fundamental importance to plant and animal life on the land and in the sea and provide hands-on experiential learning that reinforce concepts covered in lecture. Offers students an opportunity to become proficient in the following: (a) understanding research results the primary literature; (b) conducting a research experiment; (c) interpreting the results of in-class research; (d) communicating results as manuscript.",
     "coreqs": [{ "subject": "EEMB", "number": "2303" }],
@@ -135,7 +139,13 @@
       { "term": "202310", "crn": "17066" },
       { "term": "202310", "crn": "19336" },
       { "term": "202310", "crn": "19337" },
-      { "term": "202310", "crn": "20736" }
+      { "term": "202310", "crn": "20736" },
+      { "term": "202510", "crn": "13491" },
+      { "term": "202510", "crn": "14669" },
+      { "term": "202510", "crn": "17465" },
+      { "term": "202510", "crn": "20696" },
+      { "term": "202510", "crn": "20697" },
+      { "term": "202510", "crn": "16274" }
     ],
     "description": "Accompanies EEMB 2302. Covers topics from the course through various experiments.",
     "coreqs": [{ "subject": "EEMB", "number": "2302" }],
@@ -154,7 +164,8 @@
       { "term": "202340", "crn": "41735" },
       { "term": "202330", "crn": "34460" },
       { "term": "202330", "crn": "39311" },
-      { "term": "202310", "crn": "12400" }
+      { "term": "202310", "crn": "12400" },
+      { "term": "202510", "crn": "11924" }
     ],
     "description": "Introduces evolutionary thinking, including contemporary examples of evolution. To understand the evolution of Charles Darwin's “endless forms most beautiful,” the course adopts an integrative approach that includes information from ecology, genetics, molecular biology, biogeography, and paleobiology. Considers mechanisms of evolutionary change—how does it happen? Examines adaptation, the process by which attributes of an organism change to enhance fitness and the evolutionary history of life on our planet—what was the first living thing, how does speciation occur, what have we learned about evolution of life in the distant past, and how did humans evolve. Includes student presentations and analysis of scientific literature.",
     "coreqs": [],
@@ -164,6 +175,28 @@
       { "subject": "BIOL", "number": "1111" },
       "Or",
       { "subject": "EEMB", "number": "1101" },
+      "Or",
+      { "subject": "ENVR", "number": "1400" }
+    ]
+  },
+  {
+    "subject": "EEMB",
+    "number": "2610",
+    "title": "Plant Biology",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20715" }],
+    "description": "Examines the biology and diversity of plants and plantlike organisms. Covers introduction to plant biology, anatomy and structure, physiology and development, evolution and classification, and ecology of plants. Emphasizes how global climate change affects the biology and ecology of plants in different ecosystems and biomes.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "BIOL", "number": "1107" },
+      "Or",
+      { "subject": "BIOL", "number": "1111" },
+      "Or",
+      { "subject": "EEMB", "number": "1101" },
+      "Or",
+      { "subject": "EEMB", "number": "1105" },
       "Or",
       { "subject": "ENVR", "number": "1400" }
     ]
@@ -229,7 +262,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD", "ND"],
-    "sections": [{ "term": "202310", "crn": "19338" }],
+    "sections": [
+      { "term": "202310", "crn": "19338" },
+      { "term": "202510", "crn": "20698" }
+    ],
     "description": "Focuses on the foundational principles of ecosystems ecology. Examines the flow of energy and materials through both the biosphere (plants, animals, and microbes) and the geosphere (soils, atmospheres, and oceans) and the role that humans are playing in altering these key fluxes. Studies elemental cycles that are critically important for human and environmental sustainability—including carbon, nitrogen, and phosphorus—and examines similarities and differences in these cycles and flows while drawing on examples from both terrestrial and marine systems. Seeks to understand how changes in ecosystem structure ultimately affect ecosystem function and how this translates into the important services ecosystems provide.",
     "coreqs": [],
     "prereqs": [
@@ -258,11 +294,24 @@
     "sections": [
       { "term": "202430", "crn": "36350" },
       { "term": "202410", "crn": "20005" },
-      { "term": "202330", "crn": "38330" }
+      { "term": "202330", "crn": "38330" },
+      { "term": "202510", "crn": "17466" }
     ],
     "description": "Explores conservation biology, an interdisciplinary science that focuses on conservation of biological diversity at multiple levels. Emphasizes the causes and consequences of biodiversity loss and demonstrates how ecological and evolutionary principles are applied to conservation problems. Covers sustainability; climate change; introduced species; conservation of threatened and endangered species; and pollution, disease, and habitat restoration using examples from marine, aquatic, and terrestrial systems. Offers students an opportunity to read, discuss, evaluate, and present data from primary research through written assignments and oral debates and to apply this knowledge to conservation issues. Emphasizes critical thinking, problem solving, and recognizing multiple perspectives.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "BIOL", "number": "1107" },
+      "Or",
+      { "subject": "BIOL", "number": "1111" },
+      "Or",
+      { "subject": "BIOL", "number": "1115" },
+      "Or",
+      { "subject": "EEMB", "number": "1101" },
+      "Or",
+      { "subject": "ENVR", "number": "1101" },
+      "Or",
+      { "subject": "ENVR", "number": "1400" }
+    ]
   },
   {
     "subject": "EEMB",
@@ -340,7 +389,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16977" },
-      { "term": "202310", "crn": "19340" }
+      { "term": "202310", "crn": "19340" },
+      { "term": "202510", "crn": "15539" }
     ],
     "description": "Covers the fundamental principles of animal behavior by focusing on the physiological, ecological, and genetic factors that promote the evolution of diverse behavioral responses in the animal kingdom. Offers students an opportunity to become critical thinkers and readers through discussion of the how and why animals evolve behaviors that appear to increase and/or decrease their fitness.",
     "coreqs": [],
@@ -386,7 +436,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202440", "crn": "41847" },
-      { "term": "202410", "crn": "21898" }
+      { "term": "202410", "crn": "21898" },
+      { "term": "202510", "crn": "19286" }
     ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
@@ -435,7 +486,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15212" },
-      { "term": "202310", "crn": "16476" }
+      { "term": "202310", "crn": "16476" },
+      { "term": "202510", "crn": "14460" }
     ],
     "description": "Covers the information and tools needed to begin pursuing career opportunities in marine biology. Encourages students to explore a variety of career paths, construct résumés, contact potential employers for their internship and permanent positions. Presents invited speakers from state and federal agencies, and from private consulting firms, to talk about their work and career track.",
     "coreqs": [],
@@ -467,7 +519,13 @@
     ],
     "description": "Covers a variety of topics including basic coral biology, the coral/algal symbioses, the mechanisms of coral bleaching, coral microbiology and disease, coral calcification and ocean acidification, and coral speciation and hybridization. Supplements lectures with readings from the primary literature. Focuses on active areas of research and hands-on learning through lab and field activities.",
     "coreqs": [{ "subject": "EEMB", "number": "5505" }],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "BIOL", "number": "2311" },
+      "Or",
+      { "subject": "EEMB", "number": "2302" },
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "EEMB",
@@ -537,7 +595,15 @@
     ],
     "description": "Studies principles of classification, anatomy, physiology, behavior, and evolution of seabirds and marine mammals. Also addresses conservation and protection of animals and essential habitat. Includes field trips to observe local species.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "BIOL", "number": "2311" },
+      "Or",
+      { "subject": "EEMB", "number": "2302" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "EEMB",
@@ -548,7 +614,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15378" },
-      { "term": "202310", "crn": "16774" }
+      { "term": "202310", "crn": "16774" },
+      { "term": "202510", "crn": "14583" }
     ],
     "description": "Investigates the major biomes in the northwest Atlantic, including their habitats—rocky intertidal, tidal estuaries, seagrass beds, kelp forest/rocky reef complex, soft sediments, salt marshes, and continental shelf. Studies the major chemical, physical, geological, and biological forces that shape each habitat. Investigates the ecological framework of each habitat, both in the field and in hands-on exercises. Examines the adaptations of plants, algae, and animals to their respective ecosystem. Offers students an opportunity to develop an appreciation for human-induced changes in each habitat and biome and the conservation and restoration efforts currently being used.",
     "coreqs": [],
@@ -637,11 +704,18 @@
     "nuPath": ["AD", "WI"],
     "sections": [
       { "term": "202410", "crn": "15213" },
-      { "term": "202310", "crn": "16477" }
+      { "term": "202310", "crn": "16477" },
+      { "term": "202510", "crn": "14461" }
     ],
     "description": "Includes introduction to and application of observational methods in three local marine habitats, experimental design, statistical analysis, R statistical computing and graphics software, and principles of marine ecology. Combines lecture, hand-on research experience, and computer laboratory and includes reading and analyzing the scientific literature and developing research projects. At the end of the semester, students are expected to demonstrate an integrative mastery of course topics by writing a scientific manuscript about a class experiment. Seeks to prepare students for practicing ecology in new environments and to provide students with the foundational knowledge necessary for pursuing more complex concepts in experimental design, statistical analysis, and marine ecology.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "BIOL", "number": "2311" },
+      "Or",
+      { "subject": "EEMB", "number": "2302" },
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "EEMB",
@@ -739,11 +813,20 @@
     "sections": [
       { "term": "202410", "crn": "17607" },
       { "term": "202330", "crn": "38336" },
-      { "term": "202310", "crn": "20015" }
+      { "term": "202310", "crn": "20015" },
+      { "term": "202510", "crn": "15874" }
     ],
     "description": "Investigates issues of marine and coastal spatial planning (MCSP) that include offshore wind power siting, fisheries and aquaculture management, natural resource extraction, marine mammal conservation, and/or living shoreline protection and mitigation. Covers the spatial planning process from question to deliverable strategy, including assessment of stakeholder needs and potential ecosystem impacts. Offers students an opportunity to acquire and assess data, apply appropriate statistical tools, and develop spatial maps using geographic information systems (GIS) and other software. Also covers how to synthesize the planning process and develop and evaluate recommendations.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "EEMB", "number": "2302" },
+      "Or",
+      { "subject": "EEMB", "number": "2700" },
+      "Or",
+      { "subject": "EEMB", "number": "3460" },
+      "Or",
+      { "subject": "EEMB", "number": "4001" }
+    ]
   },
   {
     "subject": "EEMB",
@@ -755,7 +838,8 @@
     "sections": [
       { "term": "202410", "crn": "17608" },
       { "term": "202310", "crn": "20016" },
-      { "term": "202260", "crn": "61298" }
+      { "term": "202260", "crn": "61298" },
+      { "term": "202510", "crn": "15875" }
     ],
     "description": "Explores the current issues facing management and conservation of the land-sea interface, also known as the coastal transition zone (CTZ). Evaluates the mitigation, conservation, and restoration tools that are applied to human use of the land-sea interface. Observes these tools during site visits and discusses strategies with experts in sustainability of these habitats. Synthesizes the scientific literature on CTZ tools in the northwest Atlantic and other regions with pressing sustainable land-sea use issues. Offers students an opportunity to develop skills in prioritizing and advocating for particular conservation strategies and to practice science communication skills to effectively reach a broad audience.",
     "coreqs": [],
@@ -783,7 +867,8 @@
     "sections": [
       { "term": "202410", "crn": "15214" },
       { "term": "202310", "crn": "16478" },
-      { "term": "202260", "crn": "61299" }
+      { "term": "202260", "crn": "61299" },
+      { "term": "202510", "crn": "14462" }
     ],
     "description": "Presents experimental design, sampling methodology, statistical analysis, techniques, and the use of underwater equipment to conduct subtidal research.",
     "coreqs": [],
@@ -857,6 +942,18 @@
   },
   {
     "subject": "EEMB",
+    "number": "7104",
+    "title": "Seminar in Geosciences",
+    "scheduleType": "Seminar",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20716" }],
+    "description": "Exposes graduate students pursuing a PhD in marine and environmental sciences to classical and recent high-impact papers in the fields of recent and deep earth history, landform evolution, microbes and their role in global biogeochemical cycling, nutrient stoichiometry, the global carbon cycle, geochemical proxies, evolution of ocean chemistry, oceanic acidification, the role of organisms in sediment and rock production, and geochemical paleoproxies. Examines applications of the above disciplines to mitigating the impacts of anthropogenic impacts on the Earth system. This is a guided readings course.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EEMB",
     "number": "7674",
     "title": "Marine Biology Research Project",
     "scheduleType": "Individual Instruction",
@@ -872,7 +969,9 @@
       { "term": "202350", "crn": "53407" },
       { "term": "202330", "crn": "38338" },
       { "term": "202330", "crn": "39765" },
-      { "term": "202310", "crn": "15534" }
+      { "term": "202310", "crn": "15534" },
+      { "term": "202510", "crn": "14031" },
+      { "term": "202510", "crn": "18595" }
     ],
     "description": "Offers an opportunity to design and implement a scientifically rigorous independent research project that builds upon current knowledge from the primary literature, under the supervision of a faculty advisor from the program. Students conduct research at any of the program’s locations and are then required to analyze data using rigorous statistical methods, write a journal-style research paper, and present their results in a research seminar.",
     "coreqs": [],
@@ -885,7 +984,7 @@
     "scheduleType": "Individual Instruction",
     "credits": 2,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202510", "crn": "15540" }],
     "description": "Designed to prepare PhD students with a concentration in marine sciences for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
     "prereqs": []
@@ -900,7 +999,8 @@
     "sections": [
       { "term": "202430", "crn": "36359" },
       { "term": "202330", "crn": "38340" },
-      { "term": "202310", "crn": "13872" }
+      { "term": "202310", "crn": "13872" },
+      { "term": "202510", "crn": "13001" }
     ],
     "description": "Designed to prepare PhD students with a concentration in ecology and evolutionary biology for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
@@ -915,7 +1015,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "36360" },
-      { "term": "202310", "crn": "17314" }
+      { "term": "202310", "crn": "17314" },
+      { "term": "202510", "crn": "14734" }
     ],
     "description": "Designed to prepare PhD students with a concentration in sustainability for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
@@ -932,7 +1033,8 @@
       { "term": "202430", "crn": "36361" },
       { "term": "202410", "crn": "16981" },
       { "term": "202330", "crn": "38342" },
-      { "term": "202310", "crn": "19344" }
+      { "term": "202310", "crn": "19344" },
+      { "term": "202510", "crn": "15541" }
     ],
     "description": "Designed to prepare PhD students with a concentration in geosciences for a career in their field by offering an opportunity to learn fundamental aspects of the discipline through readings. Each student works with their Northeastern committee members at their first committee meeting to identify one reading topic per committee member. Committee members provide guidance for the student’s readings around their topic. Students meet with each committee member throughout the semester to discuss the readings, ask questions, and clarify any aspects of their topics.",
     "coreqs": [],
@@ -966,7 +1068,8 @@
       { "term": "202430", "crn": "41801" },
       { "term": "202410", "crn": "11846" },
       { "term": "202330", "crn": "33023" },
-      { "term": "202310", "crn": "12071" }
+      { "term": "202310", "crn": "12071" },
+      { "term": "202510", "crn": "11678" }
     ],
     "description": "Offers students an opportunity to conduct research. May be repeated without limit.",
     "coreqs": [],
@@ -986,7 +1089,8 @@
       { "term": "202360", "crn": "61563" },
       { "term": "202350", "crn": "50354" },
       { "term": "202330", "crn": "31739" },
-      { "term": "202310", "crn": "12072" }
+      { "term": "202310", "crn": "12072" },
+      { "term": "202510", "crn": "11679" }
     ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -1002,7 +1106,8 @@
     "sections": [
       { "term": "202430", "crn": "36362" },
       { "term": "202330", "crn": "38343" },
-      { "term": "202310", "crn": "12073" }
+      { "term": "202310", "crn": "12073" },
+      { "term": "202510", "crn": "11680" }
     ],
     "description": "Offers theoretical and experimental research for the PhD degree.",
     "coreqs": [],
@@ -1018,7 +1123,8 @@
     "sections": [
       { "term": "202350", "crn": "52536" },
       { "term": "202330", "crn": "34800" },
-      { "term": "202310", "crn": "21556" }
+      { "term": "202310", "crn": "21556" },
+      { "term": "202510", "crn": "16764" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -1036,7 +1142,8 @@
       { "term": "202410", "crn": "11849" },
       { "term": "202350", "crn": "50356" },
       { "term": "202330", "crn": "31740" },
-      { "term": "202310", "crn": "12074" }
+      { "term": "202310", "crn": "12074" },
+      { "term": "202510", "crn": "11681" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],

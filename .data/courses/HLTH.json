@@ -21,7 +21,10 @@
       { "term": "202310", "crn": "18740" },
       { "term": "202310", "crn": "18742" },
       { "term": "202310", "crn": "18752" },
-      { "term": "202310", "crn": "18754" }
+      { "term": "202310", "crn": "18754" },
+      { "term": "202510", "crn": "15236" },
+      { "term": "202510", "crn": "15238" },
+      { "term": "202510", "crn": "15239" }
     ],
     "description": "Introduces undergraduate students to the basic knowledge and skills necessary to be successful in entry-level healthcare positions. Provides students with hands-on opportunities to learn skills in Basic Life Support, safe patient handling, determining vital signs, oxygen transport and safety, EKG prep and placement, and related clinical skills.",
     "coreqs": [],
@@ -42,7 +45,8 @@
       { "term": "202360", "crn": "60536" },
       { "term": "202330", "crn": "33008" },
       { "term": "202310", "crn": "13488" },
-      { "term": "202260", "crn": "60591" }
+      { "term": "202260", "crn": "60591" },
+      { "term": "202510", "crn": "18221" }
     ],
     "description": "Provides case reviews and discussion related to basic theories, principles and contemporary issues of bioethics. Secondarily, this course is an interprofessional course that covers specific ethical guidelines for various health disciplines from nursing, pharmacy, health sciences, and others. Offers students an opportunity to develop systematic strategies and analytic frameworks for identifying and examining bioethical issues and for resolving bioethical dilemmas and problems. Students have an opportunity to apply their specific discipline's ethics code and work in multidisciplinary groups to apply ethical principles from different perspectives.",
     "coreqs": [],
@@ -62,7 +66,9 @@
       { "term": "202340", "crn": "40245" },
       { "term": "202330", "crn": "32220" },
       { "term": "202310", "crn": "12699" },
-      { "term": "202240", "crn": "40259" }
+      { "term": "202240", "crn": "40259" },
+      { "term": "202510", "crn": "12136" },
+      { "term": "202460", "crn": "61771" }
     ],
     "description": "Offers students an opportunity to learn basic healthcare clinical skills and seeks to prepare students to function as emergency medical technicians (EMTs) at the basic life support level. EMTs are an essential component of prehospital emergency medical service (EMS) systems. This course seeks to establish a solid foundation in EMS, broadly including patient assessments, medical emergencies, trauma emergencies, relevant pharmacology, special populations, and EMS operations.",
     "coreqs": [],
@@ -112,7 +118,9 @@
       { "term": "202360", "crn": "60520" },
       { "term": "202330", "crn": "37742" },
       { "term": "202310", "crn": "14473" },
-      { "term": "202260", "crn": "60571" }
+      { "term": "202260", "crn": "60571" },
+      { "term": "202510", "crn": "13426" },
+      { "term": "202510", "crn": "20080" }
     ],
     "description": "Offers an opportunity to document student contributions to research projects or creative endeavors.",
     "coreqs": [],
@@ -136,7 +144,10 @@
       { "term": "202330", "crn": "35610" },
       { "term": "202310", "crn": "13628" },
       { "term": "202310", "crn": "20228" },
-      { "term": "202260", "crn": "60678" }
+      { "term": "202260", "crn": "60678" },
+      { "term": "202510", "crn": "12827" },
+      { "term": "202510", "crn": "15973" },
+      { "term": "202510", "crn": "22442" }
     ],
     "description": "Studies key aspects of theory and practical principles of mindfulness practice. Mindfulness is a particular way of paying attention to experiences that has been scientifically researched and found to decrease habitual and destructive cycles of thought and emotion. This course is highly experiential and daily homework practice consists of at least 20 minutes of mindfulness practice. Instructions for the various practices are provided throughout the course. Each class typically includes a didactic portion, a mindfulness practice, and a group discussion. The benefits of mindfulness practice include reduced stress, improved attention, reduced emotional reactivity, and greater mind-body awareness. Offers students an opportunity to develop practical skills of relational mindfulness in interactions with others and to cultivate positive emotions.",
     "coreqs": [],
@@ -165,7 +176,8 @@
       { "term": "202430", "crn": "30593" },
       { "term": "202410", "crn": "11535" },
       { "term": "202330", "crn": "30617" },
-      { "term": "202310", "crn": "11722" }
+      { "term": "202310", "crn": "11722" },
+      { "term": "202510", "crn": "11408" }
     ],
     "description": "Addresses the issues of disability relative to culture, public policy, rights, and advocacy. Focuses class discussion on the experiences of people with disabilities living in our current society as well as from a historical perspective. Explores the following topics: who is disabled, social attitudes toward people with disabilities, and images and stigma in the media. Also covers the language of disability, disability culture, and the forgotten minority. Affords students an opportunity to gain a broad understanding of the complex and dynamic issues and themes concerning people with disabilities.",
     "coreqs": [],
@@ -186,7 +198,9 @@
       { "term": "202410", "crn": "19335" },
       { "term": "202340", "crn": "41126" },
       { "term": "202330", "crn": "38063" },
-      { "term": "202240", "crn": "41486" }
+      { "term": "202240", "crn": "41486" },
+      { "term": "202510", "crn": "16176" },
+      { "term": "202510", "crn": "22386" }
     ],
     "description": "Introduces basic and intermediate concepts in research methods and quantitative analysis in health and behavioral sciences. Explores foundational considerations in research methodology and acquisition of knowledge in statistical techniques, ranging from descriptive statistics to probability and inference. Offers students an opportunity to state and test hypotheses guiding them through the analysis and interpretation of collected information and to build experience with conducting statistical analysis using common spreadsheet software (e.g., Excel).",
     "coreqs": [],
@@ -231,7 +245,8 @@
       { "term": "202430", "crn": "36144" },
       { "term": "202410", "crn": "16419" },
       { "term": "202330", "crn": "38105" },
-      { "term": "202310", "crn": "18756" }
+      { "term": "202310", "crn": "18756" },
+      { "term": "202510", "crn": "15240" }
     ],
     "description": "Introduces patient safety science, which is a growing specialty in healthcare, driven by research and reporting efforts that demonstrate unacceptable levels of patient harm in care delivery. Provides a comprehensive overview of the tools and knowledge necessary for healthcare clinicians, administrators, and leaders to create safer healthcare systems. Explores the major themes of patient safety science and the concepts utilized in designing safer healthcare systems and mechanisms for healthcare delivery. Focuses on the history of patient safety, political and regulatory drivers and their impact on patient safety, the importance of robust data capture in recognizing risks, and the inherent challenges of informatics and technology for patient safety. Applying these concepts guides design of safer healthcare.",
     "coreqs": [],
@@ -244,25 +259,37 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "16420" }],
+    "sections": [
+      { "term": "202410", "crn": "16420" },
+      { "term": "202510", "crn": "15241" }
+    ],
     "description": "Examines healthcare as a high-risk industry, where complex healthcare systems attempt to meet the complex needs of diverse patients. Introduces the many drivers that influence the design and evolution of healthcare systems, particularly patient safety, which until recently was not typically recognized as one of these design drivers. Expands on the concept of complex systems theory and introduces the concept of high reliability organizations (HROs) and how they approach safety. Examines engineering strategies from HROs by studying how healthcare systems should adapt and retrofit to create safer systems of care delivery. Compares the challenges of improving patient safety at the system vs. the microsystem level. Examines diverse error-reducing strategies.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "HLTH", "number": "5600" },
+      "Or",
+      { "subject": "HLTH", "number": "5600" }
+    ]
   },
   {
     "subject": "HLTH",
     "number": "5620",
-    "title": "Leadership, Patient Safety, and Clinical Wellness",
+    "title": "Leadership, Patient Safety, and Clinician Wellness",
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16421" },
-      { "term": "202310", "crn": "18758" }
+      { "term": "202310", "crn": "18758" },
+      { "term": "202510", "crn": "15242" }
     ],
     "description": "Examines patient-safety-focused leadership that recognizes the importance of partnering with key healthcare proponents to advance the safe delivery of care. Discusses the role of leaders in advancing a culture of safety and creating a just culture approach to adverse event reviews. Identifies the importance of psychological safety in adverse event reporting and analysis. Focuses on leadership roles in promoting robust workforce wellness initiatives to prevent clinician burnout. Prior completion of HLTH 5600 is recommended but not required.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "HLTH", "number": "5600" },
+      "Or",
+      { "subject": "HLTH", "number": "5600" }
+    ]
   },
   {
     "subject": "HLTH",
@@ -287,7 +314,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": ["SI"],
-    "sections": [{ "term": "202410", "crn": "20164" }],
+    "sections": [
+      { "term": "202410", "crn": "20164" },
+      { "term": "202510", "crn": "17620" }
+    ],
     "description": "Introduces social and structural conditions as key contributors to people’s physical and mental health. Describes unjust and avoidable socioeconomic conditions considered to be the main contributors to health inequities. Meets a growing demand for health professionals to have fundamental knowledge of the social determinants of health, including social isolation and social support; structural/ institutional racism; income inequality; and social and economic policies. Provides an opportunity to develop awareness of the role of social determinants of health in population health; knowledge of the pathways through which they impact health; awareness of the specific ways the health of different populations and demographic groups is impacted; and enhanced evaluation, diagnosis, and communication with patient and clients.",
     "coreqs": [],
     "prereqs": []
@@ -299,8 +329,23 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "39656" }],
+    "sections": [
+      { "term": "202330", "crn": "39656" },
+      { "term": "202510", "crn": "21537" }
+    ],
     "description": "This course will equip students with an in-depth understanding of the complex issues surrounding infant feeding treatment with an interdisciplinary focus.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HLTH",
+    "number": "5964",
+    "title": "Projects for Professionals",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "23010" }],
+    "description": "Offers students an applied project setting in which to apply their curricular learning. Working with a sponsor, students refine an applied research topic, perform research, develop recommendations that are shared with a partner sponsor, and create a plan for implementing their recommendations. Seeks to benefit students with a curriculum that supports the development of key business communication skills, project and client management skills, and frameworks for business analysis. Offers students an opportunity to learn from sponsor feedback, review 'lessons learned,' and incorporate suggestions from this review to improve and further develop their career development and professional plan.",
     "coreqs": [],
     "prereqs": []
   },
@@ -318,9 +363,23 @@
       { "term": "202340", "crn": "41744" },
       { "term": "202340", "crn": "41759" },
       { "term": "202330", "crn": "39407" },
-      { "term": "202310", "crn": "21873" }
+      { "term": "202310", "crn": "21873" },
+      { "term": "202510", "crn": "21496" },
+      { "term": "202440", "crn": "42091" }
     ],
     "description": "Offers an advanced-level study of contemporary issues in healthcare. Draws upon a variety of perspectives. Offers students an opportunity to expand their breadth of knowledge and to facilitate their understanding of various themes grounded in a particular area of healthcare. May be repeated up to five times for up to 6 total credits.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HLTH",
+    "number": "6961",
+    "title": "Internship",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "22446" }],
+    "description": "Offers students an opportunity for internship work. May be repeated up to three times.",
     "coreqs": [],
     "prereqs": []
   },
@@ -342,7 +401,9 @@
       { "term": "202350", "crn": "52945" },
       { "term": "202350", "crn": "53076" },
       { "term": "202350", "crn": "53082" },
-      { "term": "202240", "crn": "41914" }
+      { "term": "202240", "crn": "41914" },
+      { "term": "202510", "crn": "19139" },
+      { "term": "202440", "crn": "42142" }
     ],
     "description": "Offers supervised field experience.",
     "coreqs": [],

@@ -8,7 +8,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15843" },
-      { "term": "202310", "crn": "17740" }
+      { "term": "202310", "crn": "17740" },
+      { "term": "202510", "crn": "14904" }
     ],
     "description": "Introduces multiple aspects of the contemporary pharmaceutical sciences. Explores how these disciplines are used to solve real-world medical problems. Offers students an opportunity to learn about foundational concepts in pharmacology; drug development and translational medicine; and the nexus of biotechnology, engineering, industry, entrepreneurship, and the career landscape for scientists. Discussion-based classes that introduce fundamental concepts are followed by student-driven classes that explore the real-world application and societal context of the material. Seeks to help students interested in pharmaceutical sciences to identify and interact with like-minded students and faculty researchers.",
     "coreqs": [],
@@ -38,7 +39,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13238" },
-      { "term": "202310", "crn": "13675" }
+      { "term": "202310", "crn": "13675" },
+      { "term": "202510", "crn": "12859" }
     ],
     "description": "Offers students an opportunity to conduct laboratory research under the direct supervision of a laboratory mentor, generally a faculty member or laboratory director, gain experience in research techniques, and develop good laboratory practices as they learn about research topics under investigation in the laboratory of their choice. Students attend seminars, departmental events, and other activities relevant to the mentor’s laboratory. The time commitment is at least eight hours a week. Mentor expectations and grading criteria are decided upon between the student and the mentor prior to the start of the rotation and must be approved by the course director. Students prepare a presentation that encompasses the research performed by the student that includes description, experimental design, data generated, data interpretation, and discussion of their research project.",
     "coreqs": [],
@@ -55,7 +57,8 @@
       { "term": "202440", "crn": "41374" },
       { "term": "202410", "crn": "10354" },
       { "term": "202340", "crn": "41892" },
-      { "term": "202310", "crn": "10380" }
+      { "term": "202310", "crn": "10380" },
+      { "term": "202510", "crn": "10336" }
     ],
     "description": "Provides students with an understanding of the principles of physiology. Discusses physiological information mostly related to cardiovascular, respiratory, digestive, urinary, and endocrine systems. Focuses on the physiological mechanisms of the major organ systems. Physiological information is related to the specific areas of pharmacology.",
     "coreqs": [{ "subject": "PHSC", "number": "2302" }],
@@ -77,7 +80,10 @@
       { "term": "202310", "crn": "10379" },
       { "term": "202310", "crn": "10378" },
       { "term": "202310", "crn": "10359" },
-      { "term": "202310", "crn": "10536" }
+      { "term": "202310", "crn": "10536" },
+      { "term": "202510", "crn": "10335" },
+      { "term": "202510", "crn": "10334" },
+      { "term": "202510", "crn": "10315" }
     ],
     "description": "Accompanies PHSC 2301. Focuses on the anatomy of the major organ systems. Digital images allow each student to study the structure of each organ system in-depth.",
     "coreqs": [{ "subject": "PHSC", "number": "2301" }],
@@ -135,11 +141,28 @@
     "sections": [
       { "term": "202430", "crn": "39574" },
       { "term": "202410", "crn": "10447" },
-      { "term": "202310", "crn": "10481" }
+      { "term": "202310", "crn": "10481" },
+      { "term": "202510", "crn": "10425" }
     ],
     "description": "Introduces the structures, functions, and metabolism of amino acids, proteins, carbohydrates, lipids, and nucleic acids. Discusses the mechanisms of enzyme reactions, enzyme kinetics, vitamins, biological oxidation-reduction reactions, and bioenergetics, as well as various inborn errors of metabolism.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "PHSC", "number": "2301" },
+      "Or",
+      { "subject": "BIOL", "number": "2217" },
+      "Or",
+      { "subject": "BIOL", "number": "1117" },
+      ")",
+      "And",
+      "(",
+      { "subject": "BIOL", "number": "1113" },
+      "Or",
+      { "subject": "BIOL", "number": "1103" },
+      ")",
+      "And",
+      { "subject": "CHEM", "number": "2313" }
+    ]
   },
   {
     "subject": "PHSC",
@@ -154,7 +177,19 @@
     ],
     "description": "Provides students with an understanding of the principles, mechanisms, organs, cells, and molecules of the innate and adaptive immunity. Monoclonal antibodies, organ transplant immunity, hypersensitivity, tolerance, tumor immunity, autoimmunity, and immunodeficiencies are discussed in light of potential therapeutic interventions. Weekly journal club-style presentation of related assigned topic is required.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      "(",
+      { "subject": "PHSC", "number": "2303" },
+      "Or",
+      { "subject": "BIOL", "number": "2219" },
+      ")",
+      "And",
+      { "subject": "PHSC", "number": "2320" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "PHSC",
@@ -166,7 +201,8 @@
     "sections": [
       { "term": "202440", "crn": "41900" },
       { "term": "202410", "crn": "14410" },
-      { "term": "202310", "crn": "15152" }
+      { "term": "202310", "crn": "15152" },
+      { "term": "202510", "crn": "13846" }
     ],
     "description": "Explores various dimensions of ethical research. Introduces ethical foundations and controversies that are central to understanding and developing appropriate ethical frameworks for engaging in research. Requires students to work collaboratively to carefully develop essential skills for ethical analysis and evaluation of professional code of conduct concerns.",
     "coreqs": [],
@@ -267,7 +303,7 @@
     ],
     "description": "Formulates pharmaceutical dosage forms such as powders, capsules, solutions, suspensions, emulsions, ointments, gels, creams, lotions, and suppositories, and tests the quality of the products in the lab using approved methods of analysis. Also provides an understanding of the physical and chemical properties of drugs as they relate to formulation development through experimental observation of dissolution, stability, and effects of pH and co-solvent on solubility of drugs.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "PHSC", "number": "3411" }]
   },
   {
     "subject": "PHSC",
@@ -290,31 +326,6 @@
   },
   {
     "subject": "PHSC",
-    "number": "3510",
-    "title": "Medicinal Cannabis and Translational Cannabinoid Research",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [],
-    "description": "Introduces fundamentals of medical cannabis and cannabinoid research. Includes foundational concepts of medicinal and psychoactive ingredients of marijuana, the human endocannabinoid system (ECS), cannabinoid receptors, and endocannabinoids. Reviews the growing nationwide acceptance of cannabis; the federal and state laws/policies regulating cannabis supply chain; research and product development along with effectiveness, safety, and side effects of cannabis for various ailments; and advances in the discovery/development of ECS-targeting drugs. Promotes the preparedness for conducting research, providing patient consultation, and working with healthcare providers and policymakers in this field. Alumni and external guests are invited to share clinical and industrial insights.",
-    "coreqs": [],
-    "prereqs": [
-      "(",
-      { "subject": "CHEM", "number": "2311" },
-      "Or",
-      { "subject": "CHEM", "number": "1104" },
-      "Or",
-      ")",
-      "And",
-      "(",
-      { "subject": "BIOL", "number": "1111" },
-      "Or",
-      { "subject": "BIOL", "number": "1113" },
-      ")"
-    ]
-  },
-  {
-    "subject": "PHSC",
     "number": "3801",
     "title": "Principles of Pharmacology and Medicinal Chemistry 1",
     "scheduleType": "Lecture",
@@ -332,6 +343,18 @@
       "And",
       { "subject": "CHEM", "number": "2313" }
     ]
+  },
+  {
+    "subject": "PHSC",
+    "number": "3802",
+    "title": "Principles of Pharmacology and Medicinal Chemistry 2",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20094" }],
+    "description": "Continues PHSC 3801 and covers the principles and basic concepts of pharmacology and medicinal chemistry and the general mechanisms of drug action, including drug receptor interactions. Discusses the major functional groups and their contributions to receptor interactions, metabolism, and toxicity. Considers therapeutic uses, mechanisms of drug action, and undesirable actions, including side effects and adverse reactions.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "PHSC", "number": "3801" }]
   },
   {
     "subject": "PHSC",
@@ -378,7 +401,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "37625" },
-      { "term": "202330", "crn": "39692" }
+      { "term": "202330", "crn": "39692" },
+      { "term": "202510", "crn": "21682" }
     ],
     "description": "Offers eligible students an opportunity for practical experience. May be repeated without limit.",
     "coreqs": [],
@@ -394,7 +418,9 @@
     "sections": [
       { "term": "202410", "crn": "18751" },
       { "term": "202410", "crn": "21469" },
-      { "term": "202310", "crn": "21195" }
+      { "term": "202310", "crn": "21195" },
+      { "term": "202510", "crn": "16518" },
+      { "term": "202510", "crn": "18874" }
     ],
     "description": "Offers students an opportunity to prepare an undergraduate thesis under faculty supervision.",
     "coreqs": [],
@@ -425,7 +451,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10666" },
-      { "term": "202310", "crn": "10730" }
+      { "term": "202310", "crn": "10730" },
+      { "term": "202510", "crn": "10617" }
     ],
     "description": "Introduces new students in the Pharmaceutical Science Graduate Program to important concepts in medicinal and combinatorial chemistry as they relate to drug discovery, and a brief overview of pharmacology, drug metabolism, pharmacokinetics, and toxicology. Also introduces the major drug receptor families and their signaling pathways.",
     "coreqs": [],
@@ -440,7 +467,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13212" },
-      { "term": "202310", "crn": "13638" }
+      { "term": "202310", "crn": "13638" },
+      { "term": "202510", "crn": "12834" }
     ],
     "description": "Presents key concepts and challenges of drug design, development, and evaluation. Integrates the principles of drug design, development, and delivery in a discussion of both small-molecule formulations and biologics. Contextualizes the hallmarks along the path of preclinical drug design to clinical translation. Components of the course include Team-Based Learning (TBL) and professionalism. The TBL sessions offer students an opportunity to work on course-related team applications and include graded peer evaluations.",
     "coreqs": [],
@@ -453,7 +481,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20663" }],
+    "sections": [
+      { "term": "202410", "crn": "20663" },
+      { "term": "202510", "crn": "18097" }
+    ],
     "description": "Integrates foundational concepts of pharmacology, medicinal chemistry, pathophysiology, and pharmacotherapeutics to treat patients with hypertension, diabetes, and hyperlipidemia. Studies knowledge, skills, and attitudes pertaining to drug action, drug-receptor interactions, structure-activity relationships, dose-response relationships, drug mechanisms of action, therapeutic uses, and adverse effects. Offers students an opportunity to develop patient evaluation skills using the Pharmacists' Patient Care Process and identification of drug therapy problems. Emphasizes self-care, patient education, assessment, medication administration, management and monitoring, and preventative health and population-based health outcomes.",
     "coreqs": [],
     "prereqs": [
@@ -475,7 +506,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20662" }],
+    "sections": [
+      { "term": "202410", "crn": "20662" },
+      { "term": "202510", "crn": "18096" }
+    ],
     "description": "Examines physical and chemical properties of drugs and discusses pharmaceutical products developed in industry and compounded in pharmacies. Focuses on application of mathematical principles and problem-solving skills in pharmaceutical compounding of dosage forms including solids, liquids, parenterals, inhalation, and novel drug delivery systems. Discusses thermodynamics, colligative properties, ionic equilibriums and buffers, solubility, protein binding, and reaction kinetics.",
     "coreqs": [],
     "prereqs": [
@@ -505,11 +539,37 @@
       { "term": "202410", "crn": "20673" },
       { "term": "202410", "crn": "20674" },
       { "term": "202410", "crn": "20675" },
-      { "term": "202410", "crn": "20676" }
+      { "term": "202410", "crn": "20676" },
+      { "term": "202510", "crn": "18107" },
+      { "term": "202510", "crn": "18108" },
+      { "term": "202510", "crn": "18109" },
+      { "term": "202510", "crn": "21545" }
     ],
     "description": "Offers students an opportunity to develop and assimilate knowledge, skills, and attitudes related to the pharmaceutical care of patients to supplement and augment pharmacy curricular topics within an immersive learning experience. Includes pharmaceutics, healthcare systems, professional communication skills, research methods, drug information, jurisprudence, patient counseling, and aseptic technique/compounding. Uses innovative digital tools, environments, equipment, learning materials, and pedagogical methods that promote the development and refinement of problem-solving skills, adaptability/resilience, and a team mindset that can be applied during experiential activities (co-op/introductory pharmacy practice experience/advanced pharmacy practice experience), as well as future careers.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "PHSC",
+    "number": "5205",
+    "title": "Integrated Science and Therapeutics 3",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20095" }],
+    "description": "Integrates foundational concepts of pharmacology, medicinal chemistry, pathophysiology, immunology, and pharmacotherapeutics to treat patients with acute and chronic rheumatologic, immune-mediated, dermatologic, and oncologic diseases. Offers students an opportunity to develop knowledge, skills, and attitudes pertaining to drug action, drug-receptor interactions, structure-activity relationships, dose-response relationships, drug mechanisms of action, therapeutic uses, and adverse effects. Focuses on developing patient evaluation skills using the Pharmacists' Patient Care Process and identification of drug therapy problems. Emphasizes self-care, patient education, assessment, medication administration, management, and monitoring, as well as preventative health and population-based health outcomes.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "PHMD", "number": "5115" },
+      "And",
+      { "subject": "PHMD", "number": "5182" },
+      "And",
+      { "subject": "PHMD", "number": "5192" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "PHSC",
@@ -522,11 +582,32 @@
       { "term": "202430", "crn": "33398" },
       { "term": "202410", "crn": "13702" },
       { "term": "202330", "crn": "33880" },
-      { "term": "202310", "crn": "14220" }
+      { "term": "202310", "crn": "14220" },
+      { "term": "202510", "crn": "13268" }
     ],
     "description": "Teaches students the basics of laboratory safety, safekeeping laboratory data, and the process of writing a grant proposal. Also, case studies explore the concepts of data distortion or fabrication, conflicts of interest, confidentiality, ethical aspects of peer review, and the attribution of credit in science.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "PHSC",
+    "number": "5230",
+    "title": "Foundations of Pharmaceutical Sciences 2",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20096" }],
+    "description": "Introduces fundamental concepts and applications of biopharmaceutics and pharmacokinetics. Offers students an opportunity to integrate knowledge, skills, and concepts to clinically treat patients. Discusses pharmacokinetic analysis and modeling; one-compartment, two-compartment, and three-compartment models; multiple dosing kinetics; methods of calculation; dosage adjustment in renal impairment; and noncompartmental analysis.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "PHSC", "number": "5130" },
+      "And",
+      { "subject": "PHSC", "number": "5181" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "PHSC",
@@ -554,7 +635,8 @@
       { "term": "202430", "crn": "31619" },
       { "term": "202410", "crn": "11823" },
       { "term": "202330", "crn": "31789" },
-      { "term": "202310", "crn": "12044" }
+      { "term": "202310", "crn": "12044" },
+      { "term": "202510", "crn": "11655" }
     ],
     "description": "Introduces and examines the goals, expectations, policies, and procedures of the Masters' in Pharmaceutical Sciences internship program and professionalism in the field. Discusses the role and involvement of internship employers. Offers students an opportunity to develop job search and career management skills; assess their workplace skills, interests, and values; discuss how those qualities impact career decisions; prepare a professional resumé; and learn proper interviewing techniques. Issues of ethics and professionalism are designed to inform students of issues they will face in the pharmaceutical field. Content of this course is geared to students' participation in the internship program and overall professional development in pharmaceutical sciences.",
     "coreqs": [],
@@ -596,7 +678,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12391" },
-      { "term": "202310", "crn": "12691" }
+      { "term": "202310", "crn": "12691" },
+      { "term": "202510", "crn": "12132" }
     ],
     "description": "Studies important aspects of drug discovery and development with a focus on drug design. Covers basic organic medicinal chemistry concepts and seeks to build students' skills in lead compound discovery, structure-activity relationship studies, and lead optimization strategies. Topics include the fundamentals of pharmacology, pharmacokinetics, and pharmacodynamics of therapeutic agents relevant to the drug-structure optimization. These skills often help develop a strong foundation in the concepts that govern the multidisciplinary process of drug discovery. Uses lectures and peer-reviewed seminar presentations to help students to incrementally increase their knowledge required to identify new, marketable therapeutic agents. Requires organic or medicinal chemistry at the undergraduate level.",
     "coreqs": [],
@@ -641,7 +724,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12363" },
-      { "term": "202310", "crn": "12659" }
+      { "term": "202310", "crn": "12659" },
+      { "term": "202510", "crn": "12109" }
     ],
     "description": "Covers fundamental concepts of toxicology and technical methods in toxicology along with comprehensive analysis of both in-vitro and in-vivo toxicity in drug discovery and development. Through lectures given by experts in various fields in toxicology on several topics required for specialized work in research, industrial, and clinical settings, offers students an opportunity to become familiar with methods and analyses including in-vitro and in-vivo toxicity assessments and toxicokinetic-toxicodynamic models and analyses. Includes mechanistic basis of toxicity, methods of toxicological analysis, and case studies pertinent to topics. Requires undergraduate physiology or biochemistry.",
     "coreqs": [],
@@ -656,7 +740,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13738" },
-      { "term": "202310", "crn": "14261" }
+      { "term": "202310", "crn": "14261" },
+      { "term": "202510", "crn": "13300" }
     ],
     "description": "Studies nanotoxicity, the adverse health effects of nanoparticles. Due to their small size, nanoparticles easily cross biological barriers, entering body fluids and cells. Nanoparticles toxicity may cause chronic and acute pathologies. Offers students an opportunity to develop and understand the principles of nanotoxicity. Focuses on mechanisms of cellular and organ damage by nanoparticles. Discusses ports of nanoparticle entry and detrimental effects upon blood, CNS, lungs, and GI system. Stresses mechanisms of intracellular degradation of nanoparticles and toxic effects of nanoparticles upon human cells and major organ systems. Reviews mechanisms of cellular and organ damage including oxidative stress, inflammation, and DNA, as well as toxic effects on nonmammalian cells.",
     "coreqs": [],
@@ -674,11 +759,18 @@
       { "term": "202360", "crn": "61819" },
       { "term": "202350", "crn": "53214" },
       { "term": "202310", "crn": "13671" },
-      { "term": "202310", "crn": "21283" }
+      { "term": "202310", "crn": "21283" },
+      { "term": "202510", "crn": "22624" },
+      { "term": "202460", "crn": "61808" },
+      { "term": "202440", "crn": "42308" }
     ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "PHSC", "number": "5100" },
+      "Or",
+      { "subject": "PHSC", "number": "5100" }
+    ]
   },
   {
     "subject": "PHSC",
@@ -740,7 +832,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13686" },
-      { "term": "202310", "crn": "14204" }
+      { "term": "202310", "crn": "14204" },
+      { "term": "202510", "crn": "13254" }
     ],
     "description": "Provides an interdisciplinary introduction to substance abuse, including the medicinal chemistry and neurobiology of drugs that act through the opioid, dopamine, acetylcholine, and cannabinoid systems.  Compares and contrasts neurochemical mechanisms that are common to many addictive agents and those that are specific to individual drug classes.  Highlights the involvement of the brain dopamine system and differences and discusses similarities between the pharmacology of abused and therapeutic drugs, together with the development of medications for treating drug dependence.  Includes lectures by experts on particular topics of their own recent research.  Introduces students to key aspects of biological and chemical research as they pertain to drug abuse and its treatment.",
     "coreqs": [],
@@ -770,7 +863,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13660" },
-      { "term": "202310", "crn": "14174" }
+      { "term": "202310", "crn": "14174" },
+      { "term": "202510", "crn": "13230" }
     ],
     "description": "Integrates physics, mathematics, and neuroscience with the cutting-edge technology of magnetic resonance imaging (MRI) to address drug discovery in the treatment of CNS disorders. Students design their own experiments guided by knowledge of the literature and technical and statistical limitations. Offers students an opportunity to run a state-of-the-art 7.0 Tesla MR animal scanner housed in the Center for Translational NeuroImaging (CTNI) at Northeastern and set parameters for anatomical and functional imaging protocols. Original imaging data is collected and analyzed. This is a discovery-based research course that encourages critical thinking and transdisciplinary learning skills involving an original research project in magnetic resonance imaging related to early drug discovery.",
     "coreqs": [],
@@ -829,7 +923,10 @@
       { "term": "202330", "crn": "31130" },
       { "term": "202310", "crn": "10728" },
       { "term": "202310", "crn": "10636" },
-      { "term": "202310", "crn": "11239" }
+      { "term": "202310", "crn": "11239" },
+      { "term": "202510", "crn": "10615" },
+      { "term": "202510", "crn": "10546" },
+      { "term": "202510", "crn": "11022" }
     ],
     "description": "Teaches students to evaluate critically the scientific literature in a journal club format. Several sections may be offered each semester to accommodate different specializations or interest groups. May be repeated without limit.",
     "coreqs": [],
@@ -853,11 +950,12 @@
       { "term": "202330", "crn": "31508" },
       { "term": "202310", "crn": "10583" },
       { "term": "202260", "crn": "60163" },
-      { "term": "202240", "crn": "40130" }
+      { "term": "202240", "crn": "40130" },
+      { "term": "202510", "crn": "10515" }
     ],
     "description": "Offers an experiential component of the graduate curriculum that fosters professional development through internship in drug discovery, development, and/or regulatory affairs in a pharmaceutical or biotechnology company. Requires students to work in a company for a minimum of twenty hours per week. Offers students an opportunity to engage in pharmaceutical science research or to work in an environment outside the University but under the supervision of a faculty instructor. May be repeated up to three times.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "PHSC", "number": "5305" }]
   },
   {
     "subject": "PHSC",
@@ -882,7 +980,8 @@
       { "term": "202430", "crn": "30706" },
       { "term": "202410", "crn": "13245" },
       { "term": "202330", "crn": "30750" },
-      { "term": "202310", "crn": "13684" }
+      { "term": "202310", "crn": "13684" },
+      { "term": "202510", "crn": "12866" }
     ],
     "description": "Requires students to present one formal seminar on their research. This presentation is open to all those interested.",
     "coreqs": [],
@@ -914,7 +1013,8 @@
       { "term": "202310", "crn": "18148" },
       { "term": "202310", "crn": "18571" },
       { "term": "202310", "crn": "21047" },
-      { "term": "202310", "crn": "21491" }
+      { "term": "202310", "crn": "21491" },
+      { "term": "202510", "crn": "22620" }
     ],
     "description": "Offers research/experimental work for master's thesis. Students may register twice. May be repeated once.",
     "coreqs": [],
@@ -946,7 +1046,8 @@
       { "term": "202430", "crn": "30867" },
       { "term": "202410", "crn": "11044" },
       { "term": "202330", "crn": "30921" },
-      { "term": "202310", "crn": "11172" }
+      { "term": "202310", "crn": "11172" },
+      { "term": "202510", "crn": "10967" }
     ],
     "description": "Offers a hands-on graduate laboratory course that introduces students to the investigative approaches and laboratory methods used in contemporary pharmaceutical sciences research. Laboratory exercises have a practical relationship to essential techniques in modern drug discovery, drug targeting and delivery, and determining mechanisms of drug action. These exercises cover basic laboratory skills, the rationale for and application of standard laboratory methods, training in the use of equipment and techniques central to pharmaceutical sciences research, how to maintain a laboratory notebook, statistical analysis and interpretation of data, and how to present research results in technical laboratory reports.",
     "coreqs": [],
@@ -985,7 +1086,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10959" },
-      { "term": "202310", "crn": "11079" }
+      { "term": "202310", "crn": "11079" },
+      { "term": "202510", "crn": "10891" }
     ],
     "description": "Intended to show full-time status for pharmaceutical science PhD students in the semester in which they are taking the comprehensive exam. In addition to successfully completing the comprehensive exam, students are expected to perform research in preparation for the doctoral proposal; the grade for this course documents successful performance.",
     "coreqs": [],
@@ -1003,7 +1105,8 @@
       { "term": "202410", "crn": "21465" },
       { "term": "202350", "crn": "53428" },
       { "term": "202330", "crn": "39653" },
-      { "term": "202330", "crn": "39945" }
+      { "term": "202330", "crn": "39945" },
+      { "term": "202510", "crn": "18870" }
     ],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated up to four times.",
     "coreqs": [],
@@ -1021,7 +1124,8 @@
       { "term": "202410", "crn": "10611" },
       { "term": "202350", "crn": "50050" },
       { "term": "202330", "crn": "30749" },
-      { "term": "202310", "crn": "10667" }
+      { "term": "202310", "crn": "10667" },
+      { "term": "202510", "crn": "10567" }
     ],
     "description": "Expects student to conduct full-time research in an adviser's laboratory. May be repeated without limit.",
     "coreqs": [],
@@ -1039,7 +1143,8 @@
       { "term": "202410", "crn": "10911" },
       { "term": "202350", "crn": "50541" },
       { "term": "202330", "crn": "31770" },
-      { "term": "202310", "crn": "11031" }
+      { "term": "202310", "crn": "11031" },
+      { "term": "202510", "crn": "10843" }
     ],
     "description": "Offers preparation of PhD dissertation proposal and proposal defense before dissertation committee. Requires passing of comprehensive exam. May be repeated without limit.",
     "coreqs": [],
@@ -1057,7 +1162,8 @@
       { "term": "202410", "crn": "10663" },
       { "term": "202350", "crn": "50049" },
       { "term": "202330", "crn": "30748" },
-      { "term": "202310", "crn": "10725" }
+      { "term": "202310", "crn": "10725" },
+      { "term": "202510", "crn": "10614" }
     ],
     "description": "Offers research/experimental work for PhD thesis.",
     "coreqs": [],
@@ -1079,7 +1185,8 @@
       { "term": "202410", "crn": "14270" },
       { "term": "202350", "crn": "51337" },
       { "term": "202330", "crn": "34909" },
-      { "term": "202310", "crn": "14959" }
+      { "term": "202310", "crn": "14959" },
+      { "term": "202510", "crn": "13748" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -1097,7 +1204,8 @@
       { "term": "202410", "crn": "10662" },
       { "term": "202350", "crn": "50192" },
       { "term": "202330", "crn": "31765" },
-      { "term": "202310", "crn": "10724" }
+      { "term": "202310", "crn": "10724" },
+      { "term": "202510", "crn": "10613" }
     ],
     "description": "Offers continuation of PhD dissertation research.",
     "coreqs": [],

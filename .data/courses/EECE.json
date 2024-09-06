@@ -27,7 +27,11 @@
       { "term": "202310", "crn": "19032" },
       { "term": "202310", "crn": "19033" },
       { "term": "202260", "crn": "61232" },
-      { "term": "202240", "crn": "41034" }
+      { "term": "202240", "crn": "41034" },
+      { "term": "202510", "crn": "15369" },
+      { "term": "202510", "crn": "14404" },
+      { "term": "202510", "crn": "15370" },
+      { "term": "202510", "crn": "15371" }
     ],
     "description": "Engages students in problem solving from an engineering perspective, offering essential computer hardware and software knowledge and experience. Computational problem solving involves expressing solutions to engineering problems in a way that a computer can efficiently solve. As our world continues to become more automated and interconnected, it becomes increasingly important to be able to leverage computer software and hardware, enabling us to evaluate and solve real-world engineering challenges. Offers students an opportunity to learn engineering solution design, leveraging a high-level programming language appropriate for interfacing hardware-based systems. Stresses best practices in design. Coursework includes programming assignments, quizzes, and a final project, offering students a number of ways to demonstrate their understanding of the concepts.",
     "coreqs": [],
@@ -52,7 +56,11 @@
       { "term": "202310", "crn": "11997" },
       { "term": "202310", "crn": "11998" },
       { "term": "202310", "crn": "11999" },
-      { "term": "202310", "crn": "12372" }
+      { "term": "202310", "crn": "12372" },
+      { "term": "202510", "crn": "11612" },
+      { "term": "202510", "crn": "11613" },
+      { "term": "202510", "crn": "11614" },
+      { "term": "202510", "crn": "11901" }
     ],
     "description": "Offers an integrated lecture/lab course that covers circuit theory, signal processing, circuit building, and MATLAB programming. Introduces basic device and signal models and circuit laws used in the study of linear circuits. Analyzes resistive and complex impedance networks. Uses the ideal operational amplifier model, focusing on differential amplifiers and active filter circuits. Introduces basic concepts of linearity and time-invariance for both continuous and discrete-time systems and concepts associated with analog/digital conversion. Demonstrates discrete-time linear filter design on acquired signals in the MATLAB environment. Offers students an opportunity to explore circuits and signals in the lab and to use their knowledge of circuits, analog signals, digital signals, and biological signals to build a working analog/digital EKG system.",
     "coreqs": [],
@@ -99,7 +107,11 @@
       { "term": "202310", "crn": "12702" },
       { "term": "202310", "crn": "12001" },
       { "term": "202310", "crn": "13196" },
-      { "term": "202240", "crn": "41084" }
+      { "term": "202240", "crn": "41084" },
+      { "term": "202510", "crn": "11615" },
+      { "term": "202510", "crn": "12139" },
+      { "term": "202510", "crn": "11616" },
+      { "term": "202510", "crn": "12505" }
     ],
     "description": "Offers an integrated lecture/lab course that covers the basics of the Unix operating system, high-level programming concepts, introductory digital design, wireless networking, and Simulink design. Offers students a hands-on experience developing a remote-controlled robotic arm using an embedded systems platform.",
     "coreqs": [],
@@ -134,7 +146,9 @@
       { "term": "202330", "crn": "38778" },
       { "term": "202310", "crn": "13005" },
       { "term": "202310", "crn": "13491" },
-      { "term": "202310", "crn": "17363" }
+      { "term": "202310", "crn": "17363" },
+      { "term": "202510", "crn": "12366" },
+      { "term": "202510", "crn": "14741" }
     ],
     "description": "Introduces the basic concepts related to circuits and circuit elements; current, voltage, and power; models for resistors, capacitors, and inductors; and circuit analysis using Kirchhoff’s laws. Discusses selected topics that illustrate a variety of applications of electrical engineering, such as AC circuits and electric power, the basics of semiconductor devices with applications to transistor amplifier models, transients in circuits with energy storage, mechanical controls and mechatronics, digital signals, logic circuits, and some basic concepts of computer operations, specifically, number coding, arithmetic operations, and memory circuits.",
     "coreqs": [{ "subject": "EECE", "number": "2211" }],
@@ -165,10 +179,47 @@
       { "term": "202310", "crn": "10861" },
       { "term": "202310", "crn": "13492" },
       { "term": "202310", "crn": "10862" },
-      { "term": "202310", "crn": "20334" }
+      { "term": "202310", "crn": "20334" },
+      { "term": "202510", "crn": "10710" },
+      { "term": "202510", "crn": "12740" },
+      { "term": "202510", "crn": "10711" },
+      { "term": "202510", "crn": "16017" }
     ],
     "description": "Accompanies EECE 2210. Covers fundamental DC and AC electrical concepts as well as analog and digital electronics.",
     "coreqs": [{ "subject": "EECE", "number": "2210" }],
+    "prereqs": []
+  },
+  {
+    "subject": "EECE",
+    "number": "2310",
+    "title": "Introduction to Digital Design and Computer Architecture",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "19958" },
+      { "term": "202510", "crn": "19959" },
+      { "term": "202510", "crn": "19960" }
+    ],
+    "description": "Covers the fundamentals of digital design topics including digital data representations and operations as well as combinational and sequential circuits design. Introduces various topics of computer organization, architecture, and microarchitecture applicable to modern computer engineering systems. Discusses principles of computer memory addressing. Applies the concept of hardware and software interface through programming in assembly language.",
+    "coreqs": [{ "subject": "EECE", "number": "2311" }],
+    "prereqs": [{ "subject": "CS", "number": "1800" }]
+  },
+  {
+    "subject": "EECE",
+    "number": "2311",
+    "title": "Lab for EECE 2310",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "19961" },
+      { "term": "202510", "crn": "19962" },
+      { "term": "202510", "crn": "19963" },
+      { "term": "202510", "crn": "19964" }
+    ],
+    "description": "Accompanies EECE 2310. Offers students an opportunity to design and implement various digital circuits that are essential for building computer systems. Utilizes a hardware design platform that is built around Field Programmable Gate Array (FPGA) technology. Covers simulation and testing of designs to solve practical engineering problems.",
+    "coreqs": [{ "subject": "EECE", "number": "2310" }],
     "prereqs": []
   },
   {
@@ -202,11 +253,13 @@
       { "term": "202310", "crn": "15313" },
       { "term": "202310", "crn": "16641" },
       { "term": "202260", "crn": "60809" },
-      { "term": "202240", "crn": "41159" }
+      { "term": "202240", "crn": "41159" },
+      { "term": "202510", "crn": "10288" },
+      { "term": "202510", "crn": "10453" }
     ],
     "description": "Covers the design and evaluation of control and data structures for digital systems. Uses hardware description languages to describe and design both behavioral and register-transfer-level architectures and control units. Topics covered include number systems, data representation, a review of combinational and sequential digital logic, finite state machines, arithmetic-logic unit (ALU) design, basic computer architecture, the concepts of memory and memory addressing, digital interfacing, timing, and synchronization. Assignments include designing and simulating digital hardware models using Verilog as well as some assembly language to expose the interface between hardware and software.",
     "coreqs": [{ "subject": "EECE", "number": "2323" }],
-    "prereqs": []
+    "prereqs": [{ "subject": "EECE", "number": "2160" }]
   },
   {
     "subject": "EECE",
@@ -251,7 +304,9 @@
       { "term": "202310", "crn": "16603" },
       { "term": "202310", "crn": "17061" },
       { "term": "202260", "crn": "60810" },
-      { "term": "202240", "crn": "41160" }
+      { "term": "202240", "crn": "41160" },
+      { "term": "202510", "crn": "10431" },
+      { "term": "202510", "crn": "10432" }
     ],
     "description": "Offers students an opportunity to design and implement a simple computer system on field-programmable logic using a hardware description language. Covers simulation and testing of designs.",
     "coreqs": [{ "subject": "EECE", "number": "2322" }],
@@ -275,7 +330,9 @@
       { "term": "202330", "crn": "30847" },
       { "term": "202310", "crn": "10884" },
       { "term": "202310", "crn": "10885" },
-      { "term": "202260", "crn": "60811" }
+      { "term": "202260", "crn": "60811" },
+      { "term": "202510", "crn": "10729" },
+      { "term": "202510", "crn": "10730" }
     ],
     "description": "Reviews basic circuit analysis techniques. Briefly introduces operation of the principal semiconductor devices: diodes, field-effect transistors, and bipolar junction transistors. Covers diode circuits in detail; the coverage of transistor circuits focuses mainly on large-signal analysis, DC biasing of amplifiers, and switching behavior. Uses PSpice software to simulate circuits and large-signal models and transient simulations to characterize the behavior of transistors in amplifiers and switching circuits. Digital electronics topics include CMOS logic gates, dynamic power dissipation, gate delay, and fan-out. Amplifier circuits are introduced with the evaluation of voltage transfer characteristics and the fundamentals of small-signal analysis.",
     "coreqs": [{ "subject": "EECE", "number": "2413" }],
@@ -308,7 +365,9 @@
       { "term": "202310", "crn": "10886" },
       { "term": "202310", "crn": "10887" },
       { "term": "202310", "crn": "16602" },
-      { "term": "202260", "crn": "60812" }
+      { "term": "202260", "crn": "60812" },
+      { "term": "202510", "crn": "10731" },
+      { "term": "202510", "crn": "10732" }
     ],
     "description": "Covers experiments reinforcing basic electronics topics such as diodes, bipolar junction transistors (BJT) as a switch, BJT amplifiers, and MOSFET circuits for switching and amplification. Practical measurements include use of voltmeters, ammeters, ohm meters, and impedance meters, as well as oscilloscope measurements of frequency, gain, distortion, and upper- and lower-cutoff frequencies of amplifiers.",
     "coreqs": [{ "subject": "EECE", "number": "2412" }],
@@ -332,7 +391,9 @@
       { "term": "202330", "crn": "31903" },
       { "term": "202310", "crn": "12216" },
       { "term": "202310", "crn": "12218" },
-      { "term": "202240", "crn": "40979" }
+      { "term": "202240", "crn": "40979" },
+      { "term": "202510", "crn": "11789" },
+      { "term": "202510", "crn": "11791" }
     ],
     "description": "Develops the basic theory of continuous and discrete systems, emphasizing linear time-invariant systems. Discusses the representation of signals and systems in both the time and frequency domain. Topics include linearity, time invariance, causality, stability, convolution, system interconnection, and sinusoidal response. Develops the Fourier and Laplace transforms for the discussion of frequency-domain applications. Analyzes sampling and quantization of continuous waveforms (A/D and D/A conversion), leading to the discussion of discrete-time FIR and IIR systems, recursive analysis, and realization. The Z-transform and the discrete-time Fourier transform are developed and applied to the analysis of discrete-time signals and systems.",
     "coreqs": [],
@@ -373,11 +434,31 @@
       { "term": "202330", "crn": "31904" },
       { "term": "202330", "crn": "38535" },
       { "term": "202310", "crn": "12219" },
-      { "term": "202310", "crn": "19034" }
+      { "term": "202310", "crn": "19034" },
+      { "term": "202510", "crn": "11792" },
+      { "term": "202510", "crn": "15373" }
     ],
     "description": "Introduces electromagnetics and high-frequency applications. Topics include transmission lines: transmission line model with distributed circuit elements, transmission line equations and solutions, one-dimensional traveling and standing waves, and applications; electromagnetic field theory: Lorentz force equations, Maxwell’s equations, Poynting theorem, and application to the transmission line’s TEM waves. Also studies uniform plane wave propagation along a coordinate axis and along an arbitrary direction; equivalent transmission lines for TEM, TE, and TM waves; reflection and refraction of uniform plane waves by conducting and dielectric surfaces. Discusses applications to wave guides, resonators, optical fibers, and radiation and elementary antennas. Introduces modern techniques (computational methods) and applications (optics, bioelectromagnetics, and electromagnetic effects in high-speed digital circuits).",
     "coreqs": [{ "subject": "EECE", "number": "2531" }],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "EECE", "number": "2150" },
+      "Or",
+      { "subject": "EECE", "number": "2210" },
+      "Or",
+      { "subject": "BIOE", "number": "3210" },
+      ")",
+      "And",
+      { "subject": "MATH", "number": "2321" },
+      "And",
+      "(",
+      { "subject": "PHYS", "number": "1155" },
+      "Or",
+      { "subject": "PHYS", "number": "1165" },
+      "Or",
+      { "subject": "PHYS", "number": "1175" },
+      ")"
+    ]
   },
   {
     "subject": "EECE",
@@ -413,7 +494,14 @@
       { "term": "202310", "crn": "16346" },
       { "term": "202310", "crn": "19036" },
       { "term": "202310", "crn": "19037" },
-      { "term": "202310", "crn": "19038" }
+      { "term": "202310", "crn": "19038" },
+      { "term": "202510", "crn": "11793" },
+      { "term": "202510", "crn": "14407" },
+      { "term": "202510", "crn": "11794" },
+      { "term": "202510", "crn": "14408" },
+      { "term": "202510", "crn": "14409" },
+      { "term": "202510", "crn": "15374" },
+      { "term": "202510", "crn": "15375" }
     ],
     "description": "Accompanies EECE 2530. Supports class material related to transmission lines, wave-guiding structures, plane wave reflection and refraction, and antenna radiation. Includes experiments with microwave transmission line measurements and the determination of the properties of dielectric materials, network analyzer analysis of microwave properties of circuit elements and transmission line electrical length, analysis of effective dielectric constant and loss from microstripline resonator transmission, optical measurement of refraction and reflection leading to determination of Brewster angle and optical constants for transparent and absorbing materials, and measurement of radiation patterns from dipole antennas.",
     "coreqs": [{ "subject": "EECE", "number": "2530" }],
@@ -455,7 +543,9 @@
       { "term": "202310", "crn": "12223" },
       { "term": "202310", "crn": "12224" },
       { "term": "202310", "crn": "13376" },
-      { "term": "202240", "crn": "40757" }
+      { "term": "202240", "crn": "40757" },
+      { "term": "202510", "crn": "11795" },
+      { "term": "202510", "crn": "11796" }
     ],
     "description": "Presents an overview of modern communication networks. The concept of a layered network architecture is used as a framework for understanding the principal functions and services required to achieve reliable end-to-end communications. Topics include service interfaces and peer-to-peer protocols, a comparison of the OSI (open system interconnection) reference model to the TCP/IP (Internet) and IEEE LAN (local area network) architectures, network-layer and transport-layer issues, and important emerging technologies such as Bluetooth and ZigBee.",
     "coreqs": [],
@@ -475,11 +565,16 @@
       { "term": "202340", "crn": "41738" },
       { "term": "202330", "crn": "31906" },
       { "term": "202310", "crn": "12217" },
-      { "term": "202310", "crn": "13379" }
+      { "term": "202310", "crn": "13379" },
+      { "term": "202510", "crn": "19965" }
     ],
     "description": "Covers the design and implementation of algorithms to solve engineering problems using a high-level programming language. Reviews elementary data structures, such as arrays, stacks, queues, and lists, and introduces more advanced structures, such as trees and graphs and the use of recursion. Covers both the algorithms to manipulate these data structures as well as their use in problem solving. Introduces algorithm complexity analysis and its application to developing efficient algorithms. Emphasizes the importance of software engineering principles.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "EECE", "number": "2160" },
+      "Or",
+      { "subject": "CS", "number": "1500" }
+    ]
   },
   {
     "subject": "EECE",
@@ -491,7 +586,8 @@
     "sections": [
       { "term": "202430", "crn": "40799" },
       { "term": "202410", "crn": "21394" },
-      { "term": "202310", "crn": "12977" }
+      { "term": "202310", "crn": "12977" },
+      { "term": "202510", "crn": "18799" }
     ],
     "description": "Offers students an opportunity to develop a proposal for a design project that uses engineering technologies to improve the lives of individuals with cognitive or physical disabilities. Offers student project groups an opportunity to work with end users and caregivers at local nursing homes and special education schools to assess a specific need, research potential solutions, and develop a detailed proposal for a project. Project groups are matched with product design mentors who guide groups through the design process. Lectures cover relevant topics, including surveys of specific physical and cognitive disabilities and applicable engineering technologies. The same project may not be used to satisfy both this course and EECE 4790. May be repeated once.",
     "coreqs": [],
@@ -511,7 +607,8 @@
       { "term": "202340", "crn": "40507" },
       { "term": "202330", "crn": "30304" },
       { "term": "202310", "crn": "10346" },
-      { "term": "202240", "crn": "40548" }
+      { "term": "202240", "crn": "40548" },
+      { "term": "202510", "crn": "10308" }
     ],
     "description": "Presents a range of topics that include assembly language programming, number systems, data representations, ALU design, arithmetic, the instruction set architecture, and the hardware/software interface. Offers students an opportunity to program using assembly language and to simulate execution. Covers the architecture of modern processors, including datapath/control design, caching, memory management, pipelining, and superscalar. Discusses metrics and benchmarking techniques used for evaluating performance.",
     "coreqs": [],
@@ -550,7 +647,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "17489" }],
+    "sections": [
+      { "term": "202410", "crn": "17489" },
+      { "term": "202510", "crn": "15816" }
+    ],
     "description": "Covers the basic principles and building blocks of modern digital communication systems. These systems include the current and future generations of wireless services (e.g., 6G) and are predicted to become a multi-billion-dollar market in the next decade. Industrial giants at the forefront of related research and development include market-leading hardware and software companies, offering an increasing scope of employment opportunities. Includes the background of developments such as radio signal propagation, frequency spectrum regulation and resource division among multiple users, digital representation and compression of information, signal modulation and demodulation, information detection in the presence of noise and channel impairments, coding for improved reliability, and system performance analysis and simulation.",
     "coreqs": [],
     "prereqs": [
@@ -573,7 +673,8 @@
       { "term": "202340", "crn": "40518" },
       { "term": "202330", "crn": "30848" },
       { "term": "202310", "crn": "11102" },
-      { "term": "202240", "crn": "40561" }
+      { "term": "202240", "crn": "40561" },
+      { "term": "202510", "crn": "10910" }
     ],
     "description": "Covers advanced analog and mixed-signal circuit analysis topics. Introduces analog integrated circuits (ICs) concepts with bipolar and field effect transistor devices. Covered IC building blocks include current sources and active loads, differential stages, cascode configurations, gain stages, and output stages. The uses of the building blocks are demonstrated for the design of popular ICs, such as operational amplifiers and voltage comparators. The high-frequency circuit models of transistors are described and used to evaluate the frequency responses of amplifiers. Introduces analog-to-digital and digital-to-analog conversion concepts and the concepts of feedback and instability with applications to the design of amplifiers and oscillators. The course makes extensive use of the SPICE simulation tool for assignments and projects.",
     "coreqs": [],
@@ -594,7 +695,8 @@
       { "term": "202360", "crn": "60440" },
       { "term": "202330", "crn": "31143" },
       { "term": "202310", "crn": "12987" },
-      { "term": "202260", "crn": "60467" }
+      { "term": "202260", "crn": "60467" },
+      { "term": "202510", "crn": "12352" }
     ],
     "description": "Discusses probability, random variables, random processes, and their application to noise in electrical systems. Begins with the basic theory of discrete and continuous probabilities, then develops the concepts of random variables, random vectors, random sequences, and random processes. Continues with a discussion on the physical origins of noise and models of where it is encountered in electronic devices, signal processing, and communications. Defines the concepts of correlation, covariance, and power density spectra and uses them to analyze linear system operations in continuous time.",
     "coreqs": [],
@@ -654,7 +756,11 @@
     ],
     "description": "Focuses on the hardware and software design for devices that interface with embedded processors. Topics include assembly language; addressing modes; embedded processor organization; bus design; electrical characteristics and buffering; address decoding; asynchronous and synchronous bus protocols; troubleshooting embedded systems; I/O port design and interfacing; parallel and serial ports; communication protocols and synchronization to external devices; hardware and software handshake for serial communication protocols; timers; and exception processing and interrupt handlers such as interrupt generation, interfacing, and auto vectoring.",
     "coreqs": [{ "subject": "EECE", "number": "4535" }],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "EECE", "number": "3324" },
+      "Or",
+      { "subject": "CS", "number": "3650" }
+    ]
   },
   {
     "subject": "EECE",
@@ -684,11 +790,24 @@
       { "term": "202430", "crn": "32537" },
       { "term": "202410", "crn": "11986" },
       { "term": "202330", "crn": "32851" },
-      { "term": "202310", "crn": "12225" }
+      { "term": "202310", "crn": "12225" },
+      { "term": "202510", "crn": "11797" }
     ],
     "description": "Covers the electronics of radio receivers and transmitters. Employs a commercial radio transceiver (MFJ-9340) as a learning tool. Presents basic topics (radio spectrum and its utilization, antennae, and information processing by modulation and demodulation). Studies building block realizations for modulators and demodulators for analog (AM, FM) and digital (ASK, PSK, FSK) radio. Covers common radio receiver architectures. Presents circuit-level designs of radio building blocks (resonators; L-C RF filters; crystals and IF filters; tuned transformers and impedance matching; amplifiers and power amplifiers; RF oscillators; mixers and up/down frequency conversion; signal detectors; and automatic gain control circuits). Includes receiver noise and sensitivity; transmitter range; spurious emissions and IM distortion; antennae and propagation in the atmosphere; wireless standards; multiple-access techniques; and software-defined radio. May include additional topics at instructor’s discretion.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "EECE", "number": "2412" }]
+  },
+  {
+    "subject": "EECE",
+    "number": "4604",
+    "title": "Integrated Circuit Devices",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21421" }],
+    "description": "Offers a comprehensive introduction to the technology, theory, and applications of the most important electronic devices in today’s integrated circuits. Topics include semiconductor electronic properties, Si fabrication technologies, p-n junctions, MOS capacitors, MOSFETS, metal-semiconductor contacts, and bipolar transistors. Emphasizes MOS devices, which are currently the dominant technology in integrated circuits. Introduces recent research trends in novel device concepts. Offers students who may pursue semiconductor process engineering, IC design, biomedical electronics, or research and development of microelectromechanical systems (MEMS) or optoelectronics devices an opportunity to obtain electronic device knowledge.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "EECE", "number": "2412" }]
   },
   {
     "subject": "EECE",
@@ -750,11 +869,20 @@
       { "term": "202430", "crn": "36548" },
       { "term": "202410", "crn": "16694" },
       { "term": "202330", "crn": "38538" },
-      { "term": "202310", "crn": "19040" }
+      { "term": "202310", "crn": "19040" },
+      { "term": "202510", "crn": "15376" }
     ],
     "description": "Presents the basic optical concepts necessary for anunderstanding of current and future optical communication,remote sensing, and industrial and biomedical systems. Topicsinclude geometrical optics, polarized light, diffraction, andinterference. Studies lasers and other light sources, opticalfibers, detectors, CCD cameras, modulators, and othercomponents of optical systems. Presents applications tospecific systems such as fiber-optic communication, medicalimaging systems, fiber-optic sensors, and laser radar.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "BIOE", "number": "3210" },
+      "Or",
+      { "subject": "EECE", "number": "2150" },
+      "Or",
+      { "subject": "EECE", "number": "2210" },
+      "Or",
+      { "subject": "PHYS", "number": "1155" }
+    ]
   },
   {
     "subject": "EECE",
@@ -801,7 +929,6 @@
       { "term": "202260", "crn": "60015" },
       { "term": "202260", "crn": "60220" },
       { "term": "202260", "crn": "60643" },
-      { "term": "202240", "crn": "40042" },
       { "term": "202240", "crn": "40043" },
       { "term": "202240", "crn": "40257" },
       { "term": "202240", "crn": "40695" }
@@ -880,7 +1007,10 @@
       { "term": "202310", "crn": "12226" },
       { "term": "202310", "crn": "12227" },
       { "term": "202310", "crn": "15277" },
-      { "term": "202310", "crn": "12215" }
+      { "term": "202310", "crn": "12215" },
+      { "term": "202510", "crn": "11798" },
+      { "term": "202510", "crn": "11799" },
+      { "term": "202510", "crn": "11788" }
     ],
     "description": "Requires design and implementation of the project proposed in EECE 4790. Students are expected to apply engineering principles acquired throughout their academic and co-op experiences to the design of a system, component, or process. Each project includes the development and use of design methodology, formulation of design problem statements and specifications, construction of hardware, integration of sensors and actuators, programming microcontroller and software development, and design of subsystems, followed by testing and integration to validate the overall design. Projects include realistic constraints such as economic factors, safety, reliability, maintenance, aesthetics, ethics, and social impact. Students make oral presentations in a series of design reviews, document their final design solution in a written report, and demonstrate a functional prototype in a final presentation.",
     "coreqs": [],
@@ -923,7 +1053,8 @@
       { "term": "202410", "crn": "14459" },
       { "term": "202410", "crn": "20712" },
       { "term": "202310", "crn": "15220" },
-      { "term": "202310", "crn": "20052" }
+      { "term": "202310", "crn": "20052" },
+      { "term": "202510", "crn": "13888" }
     ],
     "description": "Covers design and modeling of architectures, communication protocols, and algorithms for wireless sensor networks and the Internet of Things. Provides instruction in general aspects of wireless sensor networking, including protocol design, modeling, and simulation at all layers of the communication stack. Studies standardization efforts, including Bluetooth, IEEE 802.15.4/Zigbee, and SigFox/LoRa, among others. Culminates with illustrations of applications of sensor networks technology to many challenging problems of our times, including mobile crowdsensing, smart cities, and cyber-physical systems.",
     "coreqs": [],
@@ -942,10 +1073,27 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19698" }],
+    "sections": [
+      { "term": "202410", "crn": "19698" },
+      { "term": "202510", "crn": "17176" }
+    ],
     "description": "Offered by the NSF Nanosystems Engineering Research Center for Translational Applications of Nanoscale Multiferroic Systems (TANMS) and co-taught by professors from UCLA, UC Berkeley, Cornell, California State University Northridge, and Northeastern University. Course lectures will be available online for remote students. Covers introduction to multiferroics, atomic structure of multiferroics (chemistry), multiferroic material science, continuum-level analysis of multiferroic materials, and multiferroic devices.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "MATH", "number": "2321" },
+      "And",
+      { "subject": "PHYS", "number": "1155" },
+      "And",
+      "(",
+      { "subject": "CHEM", "number": "1151" },
+      "Or",
+      { "subject": "CHEM", "number": "1211" },
+      ")",
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "EECE",
@@ -957,7 +1105,13 @@
     "sections": [{ "term": "202240", "crn": "40696" }],
     "description": "Introduces combinatorial optimization, an emerging field that combines techniques from applied mathematics, operations research, and computer science to solve optimization problems over discrete structures. Emphasizes problems that arise in the areas of electrical and computer engineering, including VLSI, computer-aided design, parallel computing, computer architecture, and high-performance compiling. Covers the foundations of algorithm analysis, including asymptotic notation and complexity theory, and a range of optimization techniques, including divide and conquer, local optimization, dynamic programming, branch and bound, simulated annealing, genetic algorithms, approximation algorithms, integer and linear programming, matroid theory, and greedy algorithms. Considers the efficient generation of optimal solutions, the development and evaluation of heuristics, and the computation of tight upper and lower bounds.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "EECE", "number": "2560" },
+      "Or",
+      { "subject": "CS", "number": "3000" },
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "EECE",
@@ -972,7 +1126,9 @@
       { "term": "202410", "crn": "19966" },
       { "term": "202330", "crn": "39046" },
       { "term": "202310", "crn": "14329" },
-      { "term": "202310", "crn": "20807" }
+      { "term": "202310", "crn": "20807" },
+      { "term": "202510", "crn": "13355" },
+      { "term": "202510", "crn": "17432" }
     ],
     "description": "Investigates the science and engineering of mobile robots. Topics may include kinematics, dynamics, numerical methods, state estimation, control, perception, localization and mapping, and motion planning for mobile robots. Emphasizes practical robot applications ranging from disaster response to healthcare to space exploration.",
     "coreqs": [],
@@ -997,7 +1153,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13546" },
-      { "term": "202310", "crn": "14035" }
+      { "term": "202310", "crn": "14035" },
+      { "term": "202510", "crn": "13130" }
     ],
     "description": "Investigates the what (modeling), how (design), and why (analysis) of assistive robotics through the use of model-based design process. System models are essential to four key aspects of the assistive robot design process: derivation of executable specifications, hardware and software design based on simulations, implementation by code generation, and continuous testing and verification. Topics may include modeling continuous and discrete dynamics, heterogeneous models, hybrid systems, stochastic models, models of computation, analysis and design of embedded control systems with applications in assistive robotics, system simulation, and validation and verification techniques. Course projects emphasize model-based design for control of assistive robots in smart environments.",
     "coreqs": [],
@@ -1028,7 +1185,9 @@
       { "term": "202330", "crn": "37056" },
       { "term": "202310", "crn": "19041" },
       { "term": "202310", "crn": "20685" },
-      { "term": "202310", "crn": "21269" }
+      { "term": "202310", "crn": "21269" },
+      { "term": "202510", "crn": "15377" },
+      { "term": "202510", "crn": "16250" }
     ],
     "description": "Examines the actual sensors and mathematical techniques for robotic sensing and navigation with a focus on sensors such as cameras, sonars, and laser scanners. These are used in association with techniques and algorithms for dead reckoning and visual inertial odometry in conjunction with GPS and inertial measurement units. Covers Kalman filters and particle filters as applied to the SLAM problem. A large component of the class involves programming in both the ROS and LCM environments with real field robotics sensor data sets. Labs incorporate real field sensors and platforms. Culminates with both an individual design project and a team-based final project of considerable complexity.",
     "coreqs": [],
@@ -1062,7 +1221,8 @@
       { "term": "202430", "crn": "35220" },
       { "term": "202330", "crn": "39716" },
       { "term": "202330", "crn": "34613" },
-      { "term": "202330", "crn": "36533" }
+      { "term": "202330", "crn": "36533" },
+      { "term": "202510", "crn": "19968" }
     ],
     "description": "Examines fundamental principles of wireless system design, focusing on modern techniques used in cellular systems and wireless local area networks. Covers various levels of system design, from modulation/detection to traffic analysis. Introduces basics of radio propagation and studies their effect on communication signals. Special topics include spatial frequency reuse; call blocking and cellular system capacity; power control and hand-off strategies; channel access and sharing; orthogonal frequency division multiplexing (OFDM—a modulation technique used in WLAN and the fourth-generation [4G] cellular systems) and spread spectrum modulation (third-generation WCDMA systems); diversity techniques and multi-input multi-output (MIMO) signal processing. Requires an undergraduate course in communications systems.",
     "coreqs": [],
@@ -1114,6 +1274,30 @@
   },
   {
     "subject": "EECE",
+    "number": "5608",
+    "title": "Magnetic Materials for Next-Generation Electronics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "19969" }],
+    "description": "Covers the fundamentals of magnetic materials. Focuses on the frontiers of research activities on magnetic materials for next-generation sensors and electronics. Topics include magnetic units, magnetic materials classification, origin of ferromagnetism and ferrimagnetism, magnetic anisotropies, magnetostriction, magnetic domain theory, ferromagnetic/ferrimagnetic resonance, magnetodynamics, and magnetic material characterization techniques. Explores soft and hard magnetic materials and their applications, which include magnetic sensors, antennas, hard disk drives, magnetic materials for power supplies on chips, RF and microwave magnetic materials and devices, and spintronics. Also covers magnetic characterization techniques such as vibrating sample magnetometry, B-H looper, ferromagnetic resonance spectrometry, magneto-optic Kerr effect imaging, and magnetic sensing.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      { "subject": "MATH", "number": "2321" },
+      "And",
+      "(",
+      { "subject": "PHYS", "number": "1155" },
+      "Or",
+      { "subject": "PHYS", "number": "1165" },
+      ")",
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
+  },
+  {
+    "subject": "EECE",
     "number": "5610",
     "title": "Digital Control Systems",
     "scheduleType": "Lecture",
@@ -1122,7 +1306,11 @@
     "sections": [{ "term": "202310", "crn": "13494" }],
     "description": "Covers sampling and analysis tools for linear discrete-time dynamic systems, including the design of digital control systems using transform techniques by discrete equivalent and direct design methods; root locus, Bode and Nyquist diagrams, and Nichols charts; controller implementation issues, such as digital filter realizations, nonlinear effects due to quantization, round off, dead band, and limit cycles; and selection of the sampling rate.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "EECE", "number": "5580" },
+      "Or",
+      { "subject": "EECE", "number": "5580" }
+    ]
   },
   {
     "subject": "EECE",
@@ -1139,7 +1327,21 @@
     ],
     "description": "Introduces fundamentals of statistical inference and data analysis through concepts of detection, estimation, and related signal processing algorithms. Addresses topics of hypothesis testing, Bayesian principles, multiple hypotheses and composite hypothesis testing, test power and uniformly powerful tests, likelihood functions, sufficient statistics, optimal estimation, bounds on the estimator variance, minimum variance linear estimation, prediction and regression, interval estimation, and confidence. Extraction of useful information from noisy observations and informed decision making are at the core of multiple disciplines ranging from traditional communications and sensor array processing to biomedical data analysis, pattern recognition and machine learning, security and defense, and financial engineering. Lectures are supported by illustrative examples, hands-on exercises, and numerical implementations grounded in real-world examples.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "EECE", "number": "2520" },
+      "And",
+      "(",
+      { "subject": "EECE", "number": "3468" },
+      "Or",
+      { "subject": "MATH", "number": "3081" },
+      ")",
+      "Or",
+      { "subject": "DS", "number": "5020" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "EECE",
@@ -1152,7 +1354,8 @@
       { "term": "202430", "crn": "36549" },
       { "term": "202410", "crn": "21368" },
       { "term": "202330", "crn": "38539" },
-      { "term": "202330", "crn": "38540" }
+      { "term": "202330", "crn": "38540" },
+      { "term": "202510", "crn": "21493" }
     ],
     "description": "Introduces topics such as image formation, segmentation, feature extraction, matching, shape recovery, dynamic scene analysis, and object recognition. Computer vision brings together imaging devices, computers, and sophisticated algorithms to solve problems in industrial inspection, autonomous navigation, human-computer interfaces, medicine, image retrieval from databases, realistic computer graphics rendering, document analysis, and remote sensing. The goal of computer vision is to make useful decisions about real physical objects and scenes based on sensed images. Computer vision is an exciting but disorganized field that builds on very diverse disciplines such as image processing, statistics, pattern recognition, control theory, system identification, physics, geometry, computer graphics, and learning theory. Requires good programming experience in Matlab or C++.",
     "coreqs": [],
@@ -1289,7 +1492,10 @@
       { "term": "202310", "crn": "12593" },
       { "term": "202310", "crn": "16951" },
       { "term": "202260", "crn": "60380" },
-      { "term": "202240", "crn": "41083" }
+      { "term": "202240", "crn": "41083" },
+      { "term": "202510", "crn": "14522" },
+      { "term": "202510", "crn": "12066" },
+      { "term": "202510", "crn": "14621" }
     ],
     "description": "Studies machine learning (the study and design of algorithms that enable computers/machines to learn from experience/data). Covers a range of algorithms, focusing on the underlying models between each approach. Emphasizes the foundations to prepare students for research in machine learning. Topics include Bayes decision theory, maximum likelihood parameter estimation, model selection, mixture density estimation, support vector machines, neural networks, probabilistic graphics models, and ensemble methods (boosting and bagging). Offers students an opportunity to learn where and how to apply machine learning algorithms and why they work.",
     "coreqs": [],
@@ -1324,11 +1530,34 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "19699" },
-      { "term": "202330", "crn": "38544" }
+      { "term": "202330", "crn": "38544" },
+      { "term": "202510", "crn": "17177" }
     ],
     "description": "Covers the fundamentals of parallel machine-learning algorithms, tailored specifically to learning tasks involving large data sets. Reviews methods for dealing with both large and high-dimensional data sets, emphasizing distributed implementations. Beyond covering the theory behind statistical data analysis, the course also offers a hands-on approach, using Spark as a development platform for parallel learning. Topics include, Apache Spark fundamentals, multithreaded/cluster execution, resilient distributed data structures, map-reduce operations, using key-value pairs, joins, convex optimization, gradient descent, linear regression, Gauss-Markov theorem, ridge and lasso regularization, feature selection, cross validation, variance vs. bias trade-off, classification, logistic regression, ROC curves and AUC, matrix and tensor factorization, graph-parallel algorithms and sparsity, Perceptron algorithm, and deep neural networks.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      "(",
+      { "subject": "MATH", "number": "3081" },
+      "Or",
+      { "subject": "EECE", "number": "3468" },
+      ")",
+      "And",
+      "(",
+      { "subject": "EECE", "number": "2560" },
+      "Or",
+      { "subject": "CS", "number": "3000" },
+      "Or",
+      { "subject": "CS", "number": "4800" },
+      ")",
+      ")",
+      "Or",
+      { "subject": "EECE", "number": "5644" },
+      "Or",
+      { "subject": "DS", "number": "5220" },
+      "Or",
+      { "subject": "DS", "number": "5230" }
+    ]
   },
   {
     "subject": "EECE",
@@ -1343,7 +1572,13 @@
     ],
     "description": "Introduces basic concepts and recent developments in nanophotonic materials and devices. Nanophotonics is one very important research area in nanotechnology. Discusses the fundamentals of electromagnetics (Maxwell's equations, polarization, wave propagations, etc.); quantum mechanics; and typical nanofabrication and characterization techniques. Focuses on specific topics in nanophotonics, including silicon photonics; photonic crystals; plasmonics and optical metamaterials, with their diverse applications in optical circuits; imaging; optical trapping; biomedical sensing; and energy harvesting. Offers students an opportunity to obtain a fundamental understanding of the property and manipulation of light at the nanoscale.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "EECE", "number": "3440" },
+      "Or",
+      { "subject": "EECE", "number": "2530" },
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "EECE",
@@ -1368,7 +1603,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20510" }],
+    "sections": [
+      { "term": "202410", "crn": "20510" },
+      { "term": "202510", "crn": "17950" }
+    ],
     "description": "Introduces fundamentals of photonic devices and guided-wave optoelectronics. Photonic devices play a key role in long-haul telecommunications, datacom/high-performance computing, as well as quantum communication and computation. Introduces basics of passive and active components used in these applications with coverage of electromagnetic and fiber optics, dielectric waveguides, photonic integrated circuit (PIC) technology, sources (semiconductor lasers), and photon detectors and external modulators (electro- and acousto-optic).",
     "coreqs": [],
     "prereqs": [
@@ -1413,6 +1651,40 @@
   },
   {
     "subject": "EECE",
+    "number": "5665",
+    "title": "Signal Processing for Global Navigation Satellite Systems",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "19970" }],
+    "description": "Introduces global navigation satellite systems (GNSS), covering the fundamental aspects of operation. Emphasizes receiver design, although onboard satellite aspects are also discussed, such as the different signals and GNSS constellations (focusing on GPS and Galileo). Offers students an opportunity to gain basic knowledge of the underlying principles of GNSS, while learning how to apply tools of statistical signal processing from detection, estimation, and filtering theories to a real-world engineering application. Topics include notions in GNSS history, constellations and signals, propagation channel and main impairments, RF front-end architectures, signal acquisition, signal tracking, position calculation and integrity measures, sensor hybridization and data fusion, and identification of the most challenging scenarios of operation.",
+    "coreqs": [],
+    "prereqs": [
+      "(",
+      "(",
+      { "subject": "BIOE", "number": "3210" },
+      "Or",
+      { "subject": "EECE", "number": "2150" },
+      "Or",
+      { "subject": "EECE", "number": "2210" },
+      ")",
+      "And",
+      { "subject": "EECE", "number": "2520" },
+      "And",
+      { "subject": "MATH", "number": "2341" },
+      "And",
+      "(",
+      { "subject": "EECE", "number": "3468" },
+      "Or",
+      { "subject": "MATH", "number": "3081" },
+      ")",
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
+  },
+  {
+    "subject": "EECE",
     "number": "5666",
     "title": "Digital Signal Processing",
     "scheduleType": "Lecture",
@@ -1447,7 +1719,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19700" }],
+    "sections": [
+      { "term": "202410", "crn": "19700" },
+      { "term": "202510", "crn": "17178" }
+    ],
     "description": "Examines, in this interdisciplinary course, modern energy usage, consequences, and options to support sustainable energy development from a variety of fundamental and applied perspectives. Emphasizes both (1) physical and chemical processes in materials for the conversion of energy and (2) how to design a system with renewable energy for applications such as electricity generation and transmission. Takes a systems analysis point of view. Topics include energy conservation; fossil fuels; and energy conversion methods for solar, geothermal, wind, hydro, bioenergy, electrochemical, and similar methods.",
     "coreqs": [],
     "prereqs": []
@@ -1462,7 +1737,23 @@
     "sections": [{ "term": "202330", "crn": "32507" }],
     "description": "Examines all subsystems that comprise an electric drive including electric machines, power electronic converters, mechanical system requirements, feedback controller design, and interactions with utility systems. Based on an integrative approach that requires minimal prerequisites: a junior-level course in signals and systems and some knowledge of electromagnetic field theory (possibly from physics classes), and does not require separate courses in electric machines, controls, or power electronics.",
     "coreqs": [{ "subject": "EECE", "number": "5681" }],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      "(",
+      { "subject": "EECE", "number": "3440" },
+      "Or",
+      { "subject": "EECE", "number": "2530" },
+      ")",
+      "And",
+      "(",
+      { "subject": "EECE", "number": "3464" },
+      "Or",
+      { "subject": "EECE", "number": "2520" },
+      ")",
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "EECE",
@@ -1490,7 +1781,9 @@
       { "term": "202410", "crn": "16696" },
       { "term": "202410", "crn": "16697" },
       { "term": "202310", "crn": "19042" },
-      { "term": "202310", "crn": "19043" }
+      { "term": "202310", "crn": "19043" },
+      { "term": "202510", "crn": "15378" },
+      { "term": "202510", "crn": "15379" }
     ],
     "description": "Covers fundamentals including phasors, single-phase and balanced three-phase circuits, complex power, and network equations; symmetrical components and sequence networks; power transformers, their equivalent circuits, per unit notation, and the sequence models; transmission line parameters including resistance, inductance, and capacitance for various configurations; steady-state operation of transmission lines including line loadability and reactive compensation techniques; power flow studies including Gauss-Speidel and Newton Raphson interactive schemes; symmetrical faults including formation of the bus impedance matrix; and unsymmetrical faults including line-to-ground, line-to-line, and double line-to-ground faults.",
     "coreqs": [],
@@ -1575,22 +1868,6 @@
   },
   {
     "subject": "EECE",
-    "number": "5692",
-    "title": "Antennas for Wireless Communication and Sensing",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [],
-    "description": "Introduces the fundamental physical principles for the electromagnetic radiation from antennas. Presents the most important mathematical techniques for the analysis of the radiation. Applies these principles and techniques to practical antenna systems. Starting with the fundamental parameters of the antennas, introduces the vector potentials and the theorems that are needed for the derivation of the radiation integrals from Maxwell's equations and formulates various antenna radiation characteristics. Covers the applications of practical antennas, wireless communications and networks, space antennas, bio and wearable antennas, and optical antennas, to name a few.",
-    "coreqs": [],
-    "prereqs": [
-      { "subject": "EECE", "number": "2530" },
-      "Or",
-      "Graduate Admission"
-    ]
-  },
-  {
-    "subject": "EECE",
     "number": "5693",
     "title": "Electromagnetic Devices for RF and Wireless Communications",
     "scheduleType": "Lecture",
@@ -1657,7 +1934,13 @@
       { "term": "202310", "crn": "15248" },
       { "term": "202310", "crn": "16349" },
       { "term": "202310", "crn": "16941" },
-      { "term": "202310", "crn": "17527" }
+      { "term": "202310", "crn": "17527" },
+      { "term": "202510", "crn": "14410" },
+      { "term": "202510", "crn": "17179" },
+      { "term": "202510", "crn": "17181" },
+      { "term": "202510", "crn": "21501" },
+      { "term": "202510", "crn": "17180" },
+      { "term": "202510", "crn": "20673" }
     ],
     "description": "This course will discuss how to develop code libraries and applications that can communicate with each other over a network, using C++ as a programming language. Students will learn how to implement programs in C++, starting from the basics and progressing to more complex features (like inheritance, templates, smart pointers). The final aim is to understand principles and the logic of multithreading and socket programming, namely, the core of network programming. In-class lab sessions will be organized in parallel to the lectures for hands-on experiences. This course will provide the students with solid knowledge and skills not only to theoretically understand the basic concepts of network programming, but also to practically develop the software that will run the connected society of the future.",
     "coreqs": [],
@@ -1675,7 +1958,9 @@
       { "term": "202410", "crn": "18743" },
       { "term": "202310", "crn": "19044" },
       { "term": "202310", "crn": "21187" },
-      { "term": "202240", "crn": "41384" }
+      { "term": "202240", "crn": "41384" },
+      { "term": "202510", "crn": "15380" },
+      { "term": "202510", "crn": "16513" }
     ],
     "description": "Introduces computer hardware and system security. Covers state-of-the-art hardware security and trust issues, including a hands-on lab session to implement various hardware security attacks. Topics include applied cryptography, side-channel attacks, differential power analysis, fault injection and analysis, cache side-channel attacks (Meltdown and Spectre), acoustic analysis, and hardware security primitives (physical unclonable function and random number generator).",
     "coreqs": [],
@@ -1691,6 +1976,22 @@
   },
   {
     "subject": "EECE",
+    "number": "6400",
+    "title": "Special Problems in Electrical and Computer Engineering",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "22657" },
+      { "term": "202510", "crn": "22662" },
+      { "term": "202510", "crn": "22887" }
+    ],
+    "description": "Delves deeply, in collaboration with a faculty member, into a specialized subject typically not covered extensively in the standard electrical and computer engineering curriculum. The topic may involve analysis, experimentation, computational methods, or a blend of these approaches. Potential outcomes include producing a comprehensive report, gathering experimental data, or designing and evaluating algorithms.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EECE",
     "number": "7150",
     "title": "Autonomous Field Robotics",
     "scheduleType": "Lecture",
@@ -1698,11 +1999,12 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "20493" },
-      { "term": "202410", "crn": "21241" }
+      { "term": "202410", "crn": "21241" },
+      { "term": "202510", "crn": "17933" }
     ],
     "description": "Examines the role of software and hardware in the design and use of real autonomous systems, including autonomous cars, autonomous underwater vehicles, and unmanned aerial systems. Focuses on using real large-scale robotics systems in real-world settings.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "EECE", "number": "5554" }]
   },
   {
     "subject": "EECE",
@@ -1717,7 +2019,9 @@
       { "term": "202410", "crn": "15437" },
       { "term": "202310", "crn": "16644" },
       { "term": "202310", "crn": "10590" },
-      { "term": "202310", "crn": "16953" }
+      { "term": "202310", "crn": "16953" },
+      { "term": "202510", "crn": "10518" },
+      { "term": "202510", "crn": "14622" }
     ],
     "description": "Covers fundamental algebraic concepts and algebraic structures. Topics include linear operators and their representations; matrices, algebraic equations, equivalence, and similarity transformations; introduction to the state-variable theory of continuous and discrete linear systems; standard canonical representations, the concept of state, and the representation of interconnected systems, linear spaces, the state equations, and their solution; stability; and introduction to the general control problem in terms of controllability and observability.",
     "coreqs": [],
@@ -1747,7 +2051,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11341" },
-      { "term": "202310", "crn": "11518" }
+      { "term": "202310", "crn": "11518" },
+      { "term": "202510", "crn": "11220" },
+      { "term": "202510", "crn": "14623" }
     ],
     "description": "Examines the fundamental equations, their physical meaning, principal mathematical techniques, and important engineering applications. Topics include sources of the electromagnetic field, Lorentz force equation, integral form of Maxwell's equations and point relations (differential equations and boundary conditions), electromagnetic energy and power, propagation of uniform and nonuniform plane waves in homogeneous media, reflection and refraction, scalar and vector potentials, solutions in the absence of boundaries for static and dynamic problems, solutions to boundary value problems, duality, uniqueness, images, physical theory of diffraction, and general theory of metal and dielectric wave-guides and resonators for Cartesian and cylindrical systems.",
     "coreqs": [],
@@ -1779,7 +2085,10 @@
       { "term": "202410", "crn": "15439" },
       { "term": "202310", "crn": "14316" },
       { "term": "202310", "crn": "12528" },
-      { "term": "202310", "crn": "16955" }
+      { "term": "202310", "crn": "16955" },
+      { "term": "202510", "crn": "13345" },
+      { "term": "202510", "crn": "12020" },
+      { "term": "202510", "crn": "14624" }
     ],
     "description": "Covers the fundamentals of probabilistic treatment and the concept of random processes, which are essential for many engineering disciplines and data analysis in general. Includes the basic laws of probability, random variables and their functions, probability density and cumulative distributions, statistical averages, bounds on probability, and the central limit theorem. Outlines basic principles of statistics, including estimation of probability, confidence intervals, and order statistics. Provides an overview of detection and estimation problems, including maximum likelihood and Bayesian principles, Cramer-Rao bound, linear estimators, and hypothesis testing. Studies random sequences, with notions of convergence, laws of large numbers, and examples of Markov chains. Defines random processes, along with the concepts of stationarity, ergodicity, autocorrelation and power spectral density, and filtering operations.",
     "coreqs": [],
@@ -1807,7 +2116,11 @@
       { "term": "202330", "crn": "33828" },
       { "term": "202310", "crn": "18220" },
       { "term": "202310", "crn": "13384" },
-      { "term": "202310", "crn": "16956" }
+      { "term": "202310", "crn": "16956" },
+      { "term": "202510", "crn": "19971" },
+      { "term": "202510", "crn": "21494" },
+      { "term": "202510", "crn": "15060" },
+      { "term": "202510", "crn": "14625" }
     ],
     "description": "Introduces fundamental techniques in computer engineering used throughout the graduate curriculum. Covers basic programming and analysis methods and the formulation and solution of a wide range of computer engineering problems. Also discusses the applications of algorithm analysis and complexity theory to analyzing and solving problems. Emphasizes those fundamental computational problems and related algorithms whose solution can be obtained in polynomial time. For basic computational problems such as sorting, searching, elementary graph algorithms, shortest-paths problems, as well as flow problems in networks, many different algorithms and data structures are described and analyzed, implemented, and compared both from a theoretical and from an experimental point of view.",
     "coreqs": [],
@@ -1835,7 +2148,7 @@
     "sections": [{ "term": "202410", "crn": "19705" }],
     "description": "Discusses fundamental issues of adaptive identification and control, such as stability of adaptive systems, convergence, persistent excitation, and robustness. Identification is the process of mathematically modeling a system based on measurement data that may be limited or uncertain. Adaptive control, then, is the means by which a system that is poorly modeled is controlled adequately. Enhances the underlying basic ideas that are essential for adaptive control. Emphasizes recursive approaches, such as recursive least squares algorithm, where parameter estimates are updated in real time. Covers simple adaptive systems, adaptive observers, and adaptive control. Discusses in detail two major adaptive schemes, model reference adaptive control (MRAC) and self-tuning regulators (STR).",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "EECE", "number": "7200" }]
   },
   {
     "subject": "EECE",
@@ -1866,6 +2179,21 @@
   },
   {
     "subject": "EECE",
+    "number": "7226",
+    "title": "Modeling and Simulation of Power System Transients",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "21393" },
+      { "term": "202510", "crn": "21394" }
+    ],
+    "description": "Presents computer modeling of linear and nonlinear power system components to be used in transient studies. Covers methods of digital simulation of power systems operating in the steady-state and transient conditions. Discusses use of transient simulation programs for design and analysis of power systems. Students are asked to carry out a term project and deliver a presentation about its outcome.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EECE",
     "number": "7240",
     "title": "Analog Integrated Circuit Design",
     "scheduleType": "Lecture",
@@ -1873,7 +2201,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "11378" },
-      { "term": "202310", "crn": "16958" }
+      { "term": "202310", "crn": "16958" },
+      { "term": "202510", "crn": "19972" }
     ],
     "description": "Treats the analysis and design of analog ICs, their functional performance, and applications. Focuses on the various building blocks of analog circuits, their operation, and the underlying principles and techniques, with analysis supplemented  by CAD simulation. Topics include modeling and layout of CMOS, bipolar, BiCMOS devices, and passive components;  DC building blocks, including precision current and voltage references;  performance analysis of signal gain, impedances, and frequency response and speed of basic/compound amplifier structures;  architectures of operational amplifiers, including low-voltage, OTAs, and three-stage designs; feedback and performance merits, topologies, instability, and frequency compensation of feedback amplifiers; nonlinear and analog computation IC functions; noise in ICs,  physical origins and device modeling , noise circuit analysis, SNR and NF, and techniques for the enhancement of system noise performance.",
     "coreqs": [{ "subject": "EECE", "number": "7248" }],
@@ -1890,7 +2219,8 @@
       { "term": "202410", "crn": "14240" },
       { "term": "202410", "crn": "17632" },
       { "term": "202310", "crn": "14914" },
-      { "term": "202310", "crn": "20041" }
+      { "term": "202310", "crn": "20041" },
+      { "term": "202510", "crn": "13728" }
     ],
     "description": "Introduces microelectromechanical systems, including principles of sensing and actuation, microfabrication technology for MEMS, noise concepts, and packaging techniques. Covers a wide range of disciplines, from electronics to mechanics, material properties, microfabrication technology, electromagnetics, and optics. Studies several classes of devices including inertial measurement devices, pressure sensors, rf components, and optical MEMS. Devotes the last third of the semester largely to projects involving design of MEMS devices to specifications in a realistic fabrication process.",
     "coreqs": [],
@@ -1906,7 +2236,9 @@
     "sections": [
       { "term": "202410", "crn": "11803" },
       { "term": "202410", "crn": "15442" },
-      { "term": "202310", "crn": "12024" }
+      { "term": "202310", "crn": "12024" },
+      { "term": "202510", "crn": "11636" },
+      { "term": "202510", "crn": "14626" }
     ],
     "description": "Covers planar microwave circuits and integrated circuits (MMICs) for wireless communication systems. Employs microwave CAD tools in design projects as well as in-class case-study examples. Reviews communication system basics, modulation and demodulation, architectures of receivers and transmitters, and system performance. Covers planar transmission lines and coupled lines and their application to important devices and microwave circuit functions and multiport networks using S-parameters, flow graphs, and Smith charts. Studies microwave filters, narrowband and broadband amplifiers, their gain and stability, impedance matching, and noise performance, as well as mixers and frequency-conversion techniques. Finishes with design and performance of microwave oscillators. Covers wireless standards, multiple-access techniques, and recent advances if time permits.",
     "coreqs": [],
@@ -1925,7 +2257,13 @@
     ],
     "description": "Introduces radio frequency (RF) integrated circuit analysis, design, and simulation methods with an emphasis on CMOS implementations. Covers basic RF design concepts including linearity, noise figure, sensitivity, impedance matching, and imperfections of integrated passive components (parasitics, quality factors). Discusses front-end circuit design considerations for low-noise amplifiers, mixers, oscillators, and power amplifiers.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "EECE", "number": "7240" },
+      "Or",
+      { "subject": "EECE", "number": "5649" },
+      "Or",
+      { "subject": "EECE", "number": "5649" }
+    ]
   },
   {
     "subject": "EECE",
@@ -1934,7 +2272,10 @@
     "scheduleType": "Lab",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "14034" }],
+    "sections": [
+      { "term": "202310", "crn": "14034" },
+      { "term": "202510", "crn": "19973" }
+    ],
     "description": "Accompanies EECE 7240. Covers topics from the course through various experiments.",
     "coreqs": [{ "subject": "EECE", "number": "7240" }],
     "prereqs": []
@@ -1998,6 +2339,18 @@
   },
   {
     "subject": "EECE",
+    "number": "7293",
+    "title": "Modern Imaging",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "19974" }],
+    "description": "Covers basic and advanced topics in imaging engineering. Starts with the formulation of typical forward problems in electromagnetic and acoustic wave field propagation and scattering, emphasizing biomedical and nondestructive testing applications, and continues with a survey of imaging methodologies including the so-called qualitative imaging methods. Topics covered are: obstacle scattering, inhomogeneous medium scattering, uniqueness and stability in inverse scattering, imaging with finite data, point-source method and its applications, singular sources and shape reconstruction, linear sampling methods, signal-subspace-based methods, noniterative approaches for the inverse medium problem, intensity-only imaging, estimation theory in imaging and the question of superresolution, and selected topics in compressive sensing and quantum imaging.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "EECE", "number": "7202" }]
+  },
+  {
+    "subject": "EECE",
     "number": "7296",
     "title": "Electronic Materials",
     "scheduleType": "Lecture",
@@ -2005,7 +2358,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "17456" },
-      { "term": "202310", "crn": "19862" }
+      { "term": "202310", "crn": "19862" },
+      { "term": "202510", "crn": "15786" }
     ],
     "description": "Offers a basic treatment of electronic materials from atomic, molecular, and application viewpoints. Topics include atomic structure and bonding in materials, structure of materials, and crystal defects. These topics lay a foundation for thermal and electronic conduction, which is the underlying physics of electronic devices. Examines the electronic properties of semiconductors, dielectric, magnetic, superconducting, and optical materials. The latter half of the course deals with an introduction to state-of-the-art electronic materials, including semiconductor nanoelectronics, magnetic semiconductors and Spintronics, molecular electronics, carbon nanotubes, conducting polymers, graphene and graphane, and other topics representing recent technological breakthroughs in the area of electronic materials.",
     "coreqs": [],
@@ -2035,6 +2389,18 @@
     "nuPath": [],
     "sections": [{ "term": "202410", "crn": "19709" }],
     "description": "Examines the fundamentals of two-dimensional signal processing, with emphasis on image processing. Topics include signals, systems, and transforms in two dimensions; design and analysis of FIR and IIR filters; DFT and FFT algorithms; generation of digital image from the source; image digitizers and display devices; image transforms; techniques for point-wise, local, and global image enhancement; statistical image restoration techniques including recursive estimation; image coding techniques in spatial and transform domain including coding for facsimile transmission; and feature analysis. Requires a good understanding of linear systems, transform techniques, linear algebra, and random processes.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EECE",
+    "number": "7315",
+    "title": "Digital Image Processing",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21383" }],
+    "description": "Focuses on generation of digital image from the source; image digitizers and display devices; image transforms; enhancement techniques, such as histogram, equalization, and edge sharpening; restoration by Wiener and Kalman filters; image coding using run-length coding; DPCM; transform coding; and feature analysis. Undergraduate course in digital signal processing highly recommended but not required.",
     "coreqs": [],
     "prereqs": []
   },
@@ -2093,11 +2459,29 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "19048" },
-      { "term": "202310", "crn": "19049" }
+      { "term": "202310", "crn": "19049" },
+      { "term": "202510", "crn": "19975" },
+      { "term": "202510", "crn": "19976" }
     ],
     "description": "Discusses basic properties of entropy and mutual information, Shannon's fundamental theorems on data compression and data transmission in the single-user case, binning, and covering lemmas. Topics include rate distortion theory, feedback in one-way channels, Slepian-Wolf coding of correlated information sources, source coding with side information at the receiver, multiple access channel and its capacity region, and the capacity region of the Gaussian multiple access channel. Also covers broadcast channels, superposition coding, and the capacity region of the degraded broadcast channel; performance and comparison of TDMA, FDMA, and CDMA systems from a theoretical point of view; capacity issues for time-varying channels and channels with memory; relation between information theory and statistics; Stein's lemma; and large deviation theory.",
     "coreqs": [],
     "prereqs": [{ "subject": "EECE", "number": "7204" }]
+  },
+  {
+    "subject": "EECE",
+    "number": "7345",
+    "title": "Big Data and Sparsity in Control, Machine Learning, and Optimization",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "19977" }],
+    "description": "Covers the issue of handling large data sets and sparsity priors, presenting very recently developed techniques that exploit a deep connection to semi-algebraic geometry, rank minimization, and matrix completion. Focuses on applications, including control and filter design subject to information flow constraints, subspace clustering and classification on Riemannian manifolds, and activity recognition and classification and anomaly detection from video sequences. The goal of this course is to introduce the subject to people in the systems, machine-learning, and computer vision communities faced with “big data” and scaling problems and serve as a quick reference guide, summarizing the state of the art as of today and providing a comprehensive set of references.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "EECE", "number": "5644" },
+      "Or",
+      { "subject": "EECE", "number": "7323" }
+    ]
   },
   {
     "subject": "EECE",
@@ -2123,7 +2507,9 @@
       { "term": "202430", "crn": "39823" },
       { "term": "202410", "crn": "11814" },
       { "term": "202330", "crn": "33219" },
-      { "term": "202310", "crn": "12035" }
+      { "term": "202310", "crn": "12035" },
+      { "term": "202510", "crn": "11647" },
+      { "term": "202510", "crn": "19978" }
     ],
     "description": "Presents many of the issues involved in the design and analysis of new and evolving computer architectures. Topics include all aspects of the system including the microprocessor, memory, I/O, and networking. Emphasizes the connection between architecture and the underlying software that drives it. Topics include pipelining, superscalar, out-of-order execution and completion, data flow, caching, prefetching, virtual memory, RAID, and ATM switching. Performance analysis is another fundamental theme of this course. A project is assigned that involves the creation of a trace-driven simulation model to study the performance of various hardware or software architectural features. Also provides a survey of the current state of the art in processor architectures and provides additional readings from recent research in the field. Requires a working knowledge of C programming language.",
     "coreqs": [],
@@ -2140,7 +2526,8 @@
       { "term": "202430", "crn": "30553" },
       { "term": "202430", "crn": "30554" },
       { "term": "202330", "crn": "30571" },
-      { "term": "202330", "crn": "30572" }
+      { "term": "202330", "crn": "30572" },
+      { "term": "202510", "crn": "21943" }
     ],
     "description": "Covers all aspects of VLSI design and engineering including VLSI design methodology; MOS transistors and circuits; CAD tools to create, extract, simulate, and evaluate physical layouts; CMOS fabrication process; evaluation and optimization of circuit area, power consumption, and propagation delay; CAD tools to design CMOS systems with standard cells; system clocking design and evaluation; the characteristics and limitations of CAD tools, such as simulation, placement, and routing; VLSI testing, fault models, test vector generation, and design for testability; design projects going through a complete VLSI design cycle; and a research project targeting a specific area of VLSI engineering. Requires a knowledge of electronics and digital systems design.",
     "coreqs": [],
@@ -2170,7 +2557,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16704" },
-      { "term": "202310", "crn": "19050" }
+      { "term": "202310", "crn": "19050" },
+      { "term": "202510", "crn": "15382" }
     ],
     "description": "Presents state-of-the-art methods, tools, and techniques for system-level design and modeling of complete multiprocessor systems from specification down to implementation across hardware-software boundaries. Recognizes that system complexities are growing exponentially, driven by ever-increasing application demands and technological advances that allow one to put complete multiprocessor systems on a chip (MPSoCs). System-level design that jointly covers hardware and software is one approach to address the associated complexities in the design process and the market pressures. Using system-level design languages (e.g., SpecC, SystemC), offers students an opportunity to specify, simulate, analyze, model, and design hardware-software systems based on examples of typical embedded applications. Requires working knowledge of C/C++, algorithms, and data structures.",
     "coreqs": [],
@@ -2185,7 +2573,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16705" },
-      { "term": "202310", "crn": "19051" }
+      { "term": "202310", "crn": "19051" },
+      { "term": "202510", "crn": "15383" },
+      { "term": "202510", "crn": "21495" }
     ],
     "description": "Offers students an opportunity to obtain practical knowledge in computer vision and to develop skills for being a successful researcher in this field. The goal of the field of computer vision is to make useful decisions about real physical objects and scenes based on sensed images. Achieving this goal requires obtaining and using descriptions (models) of the sensors and the world. Computer vision is an exciting field that builds on very diverse disciplines such as image processing, statistics, pattern recognition, control theory and system identification, physics, geometry, computer graphics, and machine learning. Course material includes state-of-the-art in the field, current research trends, and algorithms and their applications, with an emphasis on the mathematical methods used.",
     "coreqs": [],
@@ -2204,7 +2594,8 @@
       { "term": "202410", "crn": "16706" },
       { "term": "202330", "crn": "32854" },
       { "term": "202330", "crn": "33836" },
-      { "term": "202310", "crn": "19052" }
+      { "term": "202310", "crn": "19052" },
+      { "term": "202510", "crn": "15384" }
     ],
     "description": "Presents an overview of modern communication networks using the internet as a primary case study. Uses the concept of layered network architecture as a framework for understanding the principal functions and services required for achieving reliable end-to-end communications. Topics include networking application design and network programming (socket programming), service interfaces and peer-to-peer protocols, the reference model for TCP/IP (internet), transport layer and network layer issues, data link layer and LANs (local area networks) architectures, and important emerging technologies, including software-defined networking (SDN). Covers the basics of wireless and mobile networking (principles and practice) and standardization and policy issues concerning communications and networks.",
     "coreqs": [],
@@ -2223,7 +2614,13 @@
     ],
     "description": "Covers fundamentals of operating systems (OS) design, including theoretical, OS-generic design considerations as well as the practical, implementation-specific challenges in the development of a real OS. Requires proficiency in the C programming language, the GNU tool set for C programming, and debugging in Unix operating systems.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "CS", "number": "3000" },
+      "Or",
+      { "subject": "EECE", "number": "2560" },
+      "Or",
+      { "subject": "EECE", "number": "7205" }
+    ]
   },
   {
     "subject": "EECE",
@@ -2300,7 +2697,17 @@
       { "term": "202310", "crn": "16645" },
       { "term": "202310", "crn": "19054" },
       { "term": "202310", "crn": "14177" },
-      { "term": "202310", "crn": "16962" }
+      { "term": "202310", "crn": "16962" },
+      { "term": "202510", "crn": "14524" },
+      { "term": "202510", "crn": "14665" },
+      { "term": "202510", "crn": "17187" },
+      { "term": "202510", "crn": "19981" },
+      { "term": "202510", "crn": "20014" },
+      { "term": "202510", "crn": "20857" },
+      { "term": "202510", "crn": "22083" },
+      { "term": "202510", "crn": "22522" },
+      { "term": "202510", "crn": "18435" },
+      { "term": "202510", "crn": "20917" }
     ],
     "description": "Following the successful commercial deployment of 5G networks, future 6G networks are already being conceived. Currently, both academia and industry (e.g., Apple, Qualcomm, Samsung, Huawei) unanimously agree on the critical role that the terahertz band (i.e., the frequencies between 100 GHz and 10 THz) will play in 6G. In this course, you will learn the fundamentals of terahertz communication networks for 6G, by following a holistic bottom-up approach from RF devices and wireless propagation, to ultrabroadband communications and ultradirectional networks.",
     "coreqs": [],
@@ -2363,7 +2770,26 @@
       { "term": "202310", "crn": "21825" },
       { "term": "202260", "crn": "61396" },
       { "term": "202260", "crn": "60936" },
-      { "term": "202260", "crn": "61194" }
+      { "term": "202260", "crn": "61194" },
+      { "term": "202510", "crn": "22518" },
+      { "term": "202510", "crn": "18817" },
+      { "term": "202510", "crn": "22902" },
+      { "term": "202510", "crn": "22917" },
+      { "term": "202510", "crn": "18850" },
+      { "term": "202510", "crn": "19506" },
+      { "term": "202510", "crn": "16808" },
+      { "term": "202510", "crn": "16844" },
+      { "term": "202510", "crn": "19543" },
+      { "term": "202510", "crn": "19669" },
+      { "term": "202510", "crn": "19838" },
+      { "term": "202510", "crn": "19935" },
+      { "term": "202510", "crn": "22544" },
+      { "term": "202510", "crn": "22626" },
+      { "term": "202510", "crn": "22979" },
+      { "term": "202460", "crn": "61768" },
+      { "term": "202460", "crn": "62020" },
+      { "term": "202440", "crn": "42168" },
+      { "term": "202440", "crn": "42322" }
     ],
     "description": "Offers theoretical or experimental work under individual faculty supervision.",
     "coreqs": [],
@@ -2376,7 +2802,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "17438" }],
+    "sections": [
+      { "term": "202310", "crn": "17438" },
+      { "term": "202510", "crn": "21662" }
+    ],
     "description": "Offers students an opportunity to develop and present a plan for the demonstration of a marketable technology product or prototype with an electrical engineering focus. Constitutes the first half of a thesis-scale project in technology commercialization. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact, while enhancing the student’s technological and engineering depth and fostering the student’s leadership development.",
     "coreqs": [],
     "prereqs": []
@@ -2435,6 +2864,31 @@
   },
   {
     "subject": "EECE",
+    "number": "7945",
+    "title": "Master’s Project",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "21727" },
+      { "term": "202510", "crn": "21738" },
+      { "term": "202510", "crn": "22220" },
+      { "term": "202510", "crn": "22787" },
+      { "term": "202510", "crn": "22792" },
+      { "term": "202510", "crn": "22805" },
+      { "term": "202510", "crn": "22810" },
+      { "term": "202510", "crn": "22904" },
+      { "term": "202510", "crn": "22922" },
+      { "term": "202510", "crn": "22923" },
+      { "term": "202510", "crn": "22963" },
+      { "term": "202510", "crn": "22972" }
+    ],
+    "description": "Offers analytical and/or experimental work leading to a written report and a final short presentation by the end of the semester.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EECE",
     "number": "7986",
     "title": "Research",
     "scheduleType": "Individual Instruction",
@@ -2450,7 +2904,9 @@
       { "term": "202350", "crn": "53281" },
       { "term": "202350", "crn": "53358" },
       { "term": "202330", "crn": "40884" },
-      { "term": "202260", "crn": "61549" }
+      { "term": "202260", "crn": "61549" },
+      { "term": "202510", "crn": "19469" },
+      { "term": "202510", "crn": "19584" }
     ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision.",
     "coreqs": [],
@@ -2526,7 +2982,29 @@
       { "term": "202310", "crn": "18345" },
       { "term": "202310", "crn": "18515" },
       { "term": "202260", "crn": "61078" },
-      { "term": "202260", "crn": "61590" }
+      { "term": "202260", "crn": "61590" },
+      { "term": "202510", "crn": "18201" },
+      { "term": "202510", "crn": "18210" },
+      { "term": "202510", "crn": "13890" },
+      { "term": "202510", "crn": "18211" },
+      { "term": "202510", "crn": "18805" },
+      { "term": "202510", "crn": "15012" },
+      { "term": "202510", "crn": "19210" },
+      { "term": "202510", "crn": "19523" },
+      { "term": "202510", "crn": "19541" },
+      { "term": "202510", "crn": "19578" },
+      { "term": "202510", "crn": "15053" },
+      { "term": "202510", "crn": "19579" },
+      { "term": "202510", "crn": "15141" },
+      { "term": "202510", "crn": "19007" },
+      { "term": "202510", "crn": "19763" },
+      { "term": "202510", "crn": "21676" },
+      { "term": "202510", "crn": "21688" },
+      { "term": "202510", "crn": "22109" },
+      { "term": "202510", "crn": "22606" },
+      { "term": "202510", "crn": "22724" },
+      { "term": "202510", "crn": "22987" },
+      { "term": "202430", "crn": "42036" }
     ],
     "description": "Offers analytical and/or experimental work conducted under the auspices of the department. May be repeated once.",
     "coreqs": [],
@@ -2545,7 +3023,13 @@
       { "term": "202350", "crn": "52879" },
       { "term": "202330", "crn": "40017" },
       { "term": "202330", "crn": "40656" },
-      { "term": "202330", "crn": "40660" }
+      { "term": "202330", "crn": "40660" },
+      { "term": "202510", "crn": "19586" },
+      { "term": "202510", "crn": "21939" },
+      { "term": "202510", "crn": "21946" },
+      { "term": "202510", "crn": "22468" },
+      { "term": "202510", "crn": "22607" },
+      { "term": "202510", "crn": "22994" }
     ],
     "description": "Offers analytical and/or experimental work conducted under the auspices of the department.",
     "coreqs": [],
@@ -2562,7 +3046,11 @@
       { "term": "202430", "crn": "41739" },
       { "term": "202410", "crn": "19287" },
       { "term": "202330", "crn": "40843" },
-      { "term": "202310", "crn": "21740" }
+      { "term": "202310", "crn": "21740" },
+      { "term": "202510", "crn": "21941" },
+      { "term": "202510", "crn": "16869" },
+      { "term": "202510", "crn": "21813" },
+      { "term": "202430", "crn": "42020" }
     ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -2771,7 +3259,64 @@
       { "term": "202260", "crn": "61625" },
       { "term": "202260", "crn": "61653" },
       { "term": "202260", "crn": "61654" },
-      { "term": "202240", "crn": "41979" }
+      { "term": "202240", "crn": "41979" },
+      { "term": "202510", "crn": "14155" },
+      { "term": "202510", "crn": "16000" },
+      { "term": "202510", "crn": "14136" },
+      { "term": "202510", "crn": "13398" },
+      { "term": "202510", "crn": "18337" },
+      { "term": "202510", "crn": "18996" },
+      { "term": "202510", "crn": "19030" },
+      { "term": "202510", "crn": "13422" },
+      { "term": "202510", "crn": "16106" },
+      { "term": "202510", "crn": "16226" },
+      { "term": "202510", "crn": "22492" },
+      { "term": "202510", "crn": "19389" },
+      { "term": "202510", "crn": "16627" },
+      { "term": "202510", "crn": "14181" },
+      { "term": "202510", "crn": "15058" },
+      { "term": "202510", "crn": "15129" },
+      { "term": "202510", "crn": "15138" },
+      { "term": "202510", "crn": "15158" },
+      { "term": "202510", "crn": "15165" },
+      { "term": "202510", "crn": "16704" },
+      { "term": "202510", "crn": "16726" },
+      { "term": "202510", "crn": "16830" },
+      { "term": "202510", "crn": "16903" },
+      { "term": "202510", "crn": "19401" },
+      { "term": "202510", "crn": "16908" },
+      { "term": "202510", "crn": "16942" },
+      { "term": "202510", "crn": "19446" },
+      { "term": "202510", "crn": "19542" },
+      { "term": "202510", "crn": "19836" },
+      { "term": "202510", "crn": "19888" },
+      { "term": "202510", "crn": "19901" },
+      { "term": "202510", "crn": "12311" },
+      { "term": "202510", "crn": "16417" },
+      { "term": "202510", "crn": "19362" },
+      { "term": "202510", "crn": "19481" },
+      { "term": "202510", "crn": "19519" },
+      { "term": "202510", "crn": "21623" },
+      { "term": "202510", "crn": "21628" },
+      { "term": "202510", "crn": "21639" },
+      { "term": "202510", "crn": "21640" },
+      { "term": "202510", "crn": "22042" },
+      { "term": "202510", "crn": "22146" },
+      { "term": "202510", "crn": "22280" },
+      { "term": "202510", "crn": "22291" },
+      { "term": "202510", "crn": "22658" },
+      { "term": "202510", "crn": "22726" },
+      { "term": "202510", "crn": "22973" },
+      { "term": "202510", "crn": "22978" },
+      { "term": "202460", "crn": "61850" },
+      { "term": "202460", "crn": "61910" },
+      { "term": "202460", "crn": "61915" },
+      { "term": "202460", "crn": "61930" },
+      { "term": "202460", "crn": "61947" },
+      { "term": "202460", "crn": "61965" },
+      { "term": "202460", "crn": "61968" },
+      { "term": "202440", "crn": "42304" },
+      { "term": "202440", "crn": "42375" }
     ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -2869,7 +3414,32 @@
       { "term": "202310", "crn": "21349" },
       { "term": "202310", "crn": "18330" },
       { "term": "202310", "crn": "14416" },
-      { "term": "202310", "crn": "18450" }
+      { "term": "202310", "crn": "18450" },
+      { "term": "202510", "crn": "18424" },
+      { "term": "202510", "crn": "18557" },
+      { "term": "202510", "crn": "19394" },
+      { "term": "202510", "crn": "19399" },
+      { "term": "202510", "crn": "19588" },
+      { "term": "202510", "crn": "19599" },
+      { "term": "202510", "crn": "15093" },
+      { "term": "202510", "crn": "18206" },
+      { "term": "202510", "crn": "18889" },
+      { "term": "202510", "crn": "19032" },
+      { "term": "202510", "crn": "19053" },
+      { "term": "202510", "crn": "19546" },
+      { "term": "202510", "crn": "19620" },
+      { "term": "202510", "crn": "19891" },
+      { "term": "202510", "crn": "21624" },
+      { "term": "202510", "crn": "21820" },
+      { "term": "202510", "crn": "21836" },
+      { "term": "202510", "crn": "21837" },
+      { "term": "202510", "crn": "21866" },
+      { "term": "202510", "crn": "21884" },
+      { "term": "202510", "crn": "22038" },
+      { "term": "202510", "crn": "22039" },
+      { "term": "202510", "crn": "22343" },
+      { "term": "202430", "crn": "42018" },
+      { "term": "202430", "crn": "42042" }
     ],
     "description": "Offers theoretical and/or experimental work conducted under the auspices of the department. Includes attendance at Distinguished Lecture Series (DLS).",
     "coreqs": [],
@@ -2943,7 +3513,30 @@
       { "term": "202330", "crn": "36879" },
       { "term": "202330", "crn": "36882" },
       { "term": "202310", "crn": "20226" },
-      { "term": "202260", "crn": "61612" }
+      { "term": "202260", "crn": "61612" },
+      { "term": "202510", "crn": "18758" },
+      { "term": "202510", "crn": "19008" },
+      { "term": "202510", "crn": "19029" },
+      { "term": "202510", "crn": "19124" },
+      { "term": "202510", "crn": "19125" },
+      { "term": "202510", "crn": "19390" },
+      { "term": "202510", "crn": "19393" },
+      { "term": "202510", "crn": "19400" },
+      { "term": "202510", "crn": "19475" },
+      { "term": "202510", "crn": "19527" },
+      { "term": "202510", "crn": "19540" },
+      { "term": "202510", "crn": "19596" },
+      { "term": "202510", "crn": "21832" },
+      { "term": "202510", "crn": "21860" },
+      { "term": "202510", "crn": "21867" },
+      { "term": "202510", "crn": "21868" },
+      { "term": "202510", "crn": "22140" },
+      { "term": "202510", "crn": "22276" },
+      { "term": "202510", "crn": "22310" },
+      { "term": "202510", "crn": "22313" },
+      { "term": "202510", "crn": "22338" },
+      { "term": "202510", "crn": "22627" },
+      { "term": "202510", "crn": "22806" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -3247,7 +3840,68 @@
       { "term": "202310", "crn": "20457" },
       { "term": "202310", "crn": "21509" },
       { "term": "202240", "crn": "41891" },
-      { "term": "202240", "crn": "41915" }
+      { "term": "202240", "crn": "41915" },
+      { "term": "202510", "crn": "10808" },
+      { "term": "202510", "crn": "12830" },
+      { "term": "202510", "crn": "16682" },
+      { "term": "202510", "crn": "13882" },
+      { "term": "202510", "crn": "10837" },
+      { "term": "202510", "crn": "10844" },
+      { "term": "202510", "crn": "13292" },
+      { "term": "202510", "crn": "12840" },
+      { "term": "202510", "crn": "10809" },
+      { "term": "202510", "crn": "10838" },
+      { "term": "202510", "crn": "10810" },
+      { "term": "202510", "crn": "10811" },
+      { "term": "202510", "crn": "10812" },
+      { "term": "202510", "crn": "14096" },
+      { "term": "202510", "crn": "10813" },
+      { "term": "202510", "crn": "14004" },
+      { "term": "202510", "crn": "11905" },
+      { "term": "202510", "crn": "10815" },
+      { "term": "202510", "crn": "10816" },
+      { "term": "202510", "crn": "10814" },
+      { "term": "202510", "crn": "10817" },
+      { "term": "202510", "crn": "11419" },
+      { "term": "202510", "crn": "10818" },
+      { "term": "202510", "crn": "13372" },
+      { "term": "202510", "crn": "11420" },
+      { "term": "202510", "crn": "13403" },
+      { "term": "202510", "crn": "11171" },
+      { "term": "202510", "crn": "13413" },
+      { "term": "202510", "crn": "11172" },
+      { "term": "202510", "crn": "12978" },
+      { "term": "202510", "crn": "11282" },
+      { "term": "202510", "crn": "12979" },
+      { "term": "202510", "crn": "16749" },
+      { "term": "202510", "crn": "13418" },
+      { "term": "202510", "crn": "12032" },
+      { "term": "202510", "crn": "13428" },
+      { "term": "202510", "crn": "15003" },
+      { "term": "202510", "crn": "15018" },
+      { "term": "202510", "crn": "15022" },
+      { "term": "202510", "crn": "15028" },
+      { "term": "202510", "crn": "15080" },
+      { "term": "202510", "crn": "15092" },
+      { "term": "202510", "crn": "16016" },
+      { "term": "202510", "crn": "16102" },
+      { "term": "202510", "crn": "18029" },
+      { "term": "202510", "crn": "18030" },
+      { "term": "202510", "crn": "18031" },
+      { "term": "202510", "crn": "18033" },
+      { "term": "202510", "crn": "18034" },
+      { "term": "202510", "crn": "19750" },
+      { "term": "202510", "crn": "21728" },
+      { "term": "202510", "crn": "21983" },
+      { "term": "202510", "crn": "22269" },
+      { "term": "202510", "crn": "22471" },
+      { "term": "202510", "crn": "22808" },
+      { "term": "202510", "crn": "22893" },
+      { "term": "202510", "crn": "22905" },
+      { "term": "202460", "crn": "61920" },
+      { "term": "202440", "crn": "42278" },
+      { "term": "202440", "crn": "42305" },
+      { "term": "202440", "crn": "42374" }
     ],
     "description": "Offers continued dissertation work conducted under the supervision of a departmental faculty member. Includes attendance at Distinguished Lecture Series (DLS).",
     "coreqs": [],

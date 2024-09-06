@@ -26,7 +26,11 @@
       { "term": "202310", "crn": "11298" },
       { "term": "202310", "crn": "10261" },
       { "term": "202240", "crn": "40220" },
-      { "term": "202240", "crn": "41807" }
+      { "term": "202240", "crn": "41807" },
+      { "term": "202510", "crn": "10054" },
+      { "term": "202510", "crn": "10053" },
+      { "term": "202510", "crn": "11066" },
+      { "term": "202510", "crn": "10231" }
     ],
     "description": "Introduces basic grammar, sentence patterns, and vocabulary of Japanese with emphasis on spoken Japanese. Includes an introduction to the hiragana and katakana syllabaries in the written component. Designed for students with no previous knowledge of Japanese.",
     "coreqs": [],
@@ -50,7 +54,9 @@
       { "term": "202330", "crn": "31051" },
       { "term": "202310", "crn": "12032" },
       { "term": "202310", "crn": "15986" },
-      { "term": "202240", "crn": "40221" }
+      { "term": "202240", "crn": "40221" },
+      { "term": "202510", "crn": "11644" },
+      { "term": "202510", "crn": "14234" }
     ],
     "description": "Continues JPNS 1101. Emphasizes the development of oral skills; secondary emphasis is on reading. Offers students the opportunity to learn basic grammatical patterns, expand vocabulary, and improve communication skills in modern Japanese. Includes the introduction to kanji characters in the written component.",
     "coreqs": [],
@@ -71,11 +77,16 @@
       { "term": "202430", "crn": "30061" },
       { "term": "202410", "crn": "10054" },
       { "term": "202330", "crn": "30064" },
-      { "term": "202310", "crn": "10058" }
+      { "term": "202310", "crn": "10058" },
+      { "term": "202510", "crn": "10052" }
     ],
     "description": "Emphasizes further vocabulary building. Offers students an opportunity to master the fine points of grammar through written composition, prepared oral reports, and reading and discussion from contemporary Japanese materials.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "JPNS", "number": "1102" },
+      "Or",
+      { "subject": "JPNS", "number": "1302" }
+    ]
   },
   {
     "subject": "JPNS",
@@ -88,7 +99,8 @@
       { "term": "202430", "crn": "31325" },
       { "term": "202410", "crn": "10038" },
       { "term": "202330", "crn": "31450" },
-      { "term": "202310", "crn": "10040" }
+      { "term": "202310", "crn": "10040" },
+      { "term": "202510", "crn": "10036" }
     ],
     "description": "Builds on JPNS 2101 and focuses on further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through written composition, prepared oral reports, and reading and discussion from contemporary Japanese materials.",
     "coreqs": [],
@@ -109,7 +121,8 @@
       { "term": "202430", "crn": "32587" },
       { "term": "202410", "crn": "11596" },
       { "term": "202330", "crn": "32912" },
-      { "term": "202310", "crn": "11793" }
+      { "term": "202310", "crn": "11793" },
+      { "term": "202510", "crn": "11458" }
     ],
     "description": "Continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
     "coreqs": [],
@@ -147,7 +160,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "14388" },
-      { "term": "202310", "crn": "15127" }
+      { "term": "202310", "crn": "15127" },
+      { "term": "202510", "crn": "13826" }
     ],
     "description": "Focuses on a unique aspect of the Japanese language. The specific topics are chosen to reflect current developments in the language and expressed student interests. Focuses on the use of the language for specific purposes or its use in specialized settings (e.g., media, business, health).",
     "coreqs": [],
@@ -160,7 +174,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "41062" }],
+    "sections": [
+      { "term": "202430", "crn": "41062" },
+      { "term": "202440", "crn": "42314" }
+    ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []

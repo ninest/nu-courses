@@ -25,6 +25,27 @@
   },
   {
     "subject": "EXED",
+    "number": "5945",
+    "title": "Experiential Integration Seminar",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "22416" },
+      { "term": "202510", "crn": "22417" },
+      { "term": "202510", "crn": "22418" },
+      { "term": "202510", "crn": "22419" },
+      { "term": "202510", "crn": "22420" },
+      { "term": "202510", "crn": "22421" },
+      { "term": "202510", "crn": "22422" },
+      { "term": "202510", "crn": "22423" }
+    ],
+    "description": "Guides students in connecting experiential learning to key concepts and skills for the student’s degree program. May be repeated twice.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EXED",
     "number": "6945",
     "title": "Experiential Integration Seminar",
     "scheduleType": "Seminar",
@@ -46,7 +67,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "41517" }],
+    "sections": [
+      { "term": "202430", "crn": "41517" },
+      { "term": "202510", "crn": "22281" }
+    ],
     "description": "Offers a guided learning opportunity to graduate students to accompany their cooperative education work experience. Under faculty supervision and assessment, students engage in one or more projects related to, but distinct from, their work assignments, or explore topics related to their work experience to enhance their experiential learning. May be repeated twice.",
     "coreqs": [],
     "prereqs": []

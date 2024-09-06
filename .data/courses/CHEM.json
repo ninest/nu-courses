@@ -9,7 +9,8 @@
     "sections": [
       { "term": "202430", "crn": "36342" },
       { "term": "202410", "crn": "19779" },
-      { "term": "202330", "crn": "38322" }
+      { "term": "202330", "crn": "38322" },
+      { "term": "202510", "crn": "17255" }
     ],
     "description": "Intended for freshmen in the College of Science. Introduces students to liberal arts; familiarizes them with their major; develops the academic skills necessary to succeed (analytical ability and critical thinking); provides grounding in the culture and values of the University community; and helps to develop interpersonal skills—in short, familiarizes students with all skills needed to become a successful university student.",
     "coreqs": [],
@@ -25,7 +26,8 @@
     "sections": [
       { "term": "202410", "crn": "15571" },
       { "term": "202310", "crn": "10325" },
-      { "term": "202310", "crn": "17220" }
+      { "term": "202310", "crn": "17220" },
+      { "term": "202510", "crn": "14711" }
     ],
     "description": "Provides a one-semester introduction to general chemistry for the health sciences. Covers the fundamentals of elements and atoms; ionic and molecular structure; chemical reactions and their stoichiometry, energetics, rates, and equilibriums; and the properties of matter as gases, liquids, solids, and solutions. Other topics include acids and bases, and nuclear chemistry. Applications to the health sciences are included throughout.",
     "coreqs": [
@@ -53,7 +55,11 @@
       { "term": "202310", "crn": "13291" },
       { "term": "202310", "crn": "13293" },
       { "term": "202310", "crn": "17452" },
-      { "term": "202310", "crn": "17453" }
+      { "term": "202310", "crn": "17453" },
+      { "term": "202510", "crn": "10020" },
+      { "term": "202510", "crn": "11152" },
+      { "term": "202510", "crn": "14766" },
+      { "term": "202510", "crn": "22564" }
     ],
     "description": "Accompanies CHEM 1101. Covers a range of topics from the course, such as qualitative and quantitative analysis and the characteristics of chemical and physical processes. Includes measurements of heat transfer, rate and equilibrium constants, and the effects of temperature and catalysts. Emphasis is on aqueous acid-base reactions and the properties and uses of buffer systems.",
     "coreqs": [
@@ -75,7 +81,10 @@
       { "term": "202410", "crn": "15737" },
       { "term": "202310", "crn": "10219" },
       { "term": "202310", "crn": "10242" },
-      { "term": "202310", "crn": "17565" }
+      { "term": "202310", "crn": "17565" },
+      { "term": "202510", "crn": "10196" },
+      { "term": "202510", "crn": "10216" },
+      { "term": "202510", "crn": "14814" }
     ],
     "description": "Accompanies CHEM 1101. Covers various topics from the course.",
     "coreqs": [
@@ -108,7 +117,13 @@
       { "term": "202310", "crn": "12676" },
       { "term": "202310", "crn": "13213" },
       { "term": "202310", "crn": "11847" },
-      { "term": "202240", "crn": "40261" }
+      { "term": "202240", "crn": "40261" },
+      { "term": "202510", "crn": "10496" },
+      { "term": "202510", "crn": "12119" },
+      { "term": "202510", "crn": "10214" },
+      { "term": "202510", "crn": "12120" },
+      { "term": "202510", "crn": "12518" },
+      { "term": "202510", "crn": "11503" }
     ],
     "description": "Students registering for this lecture must register for one of the following sections of the recitation CHEM 1153: 10215 (section 5), 10233 (section 14), and 10232 (section 15)",
     "coreqs": [{ "subject": "CHEM", "number": "1153" }],
@@ -158,7 +173,20 @@
       { "term": "202310", "crn": "10950" },
       { "term": "202310", "crn": "10951" },
       { "term": "202310", "crn": "11352" },
-      { "term": "202240", "crn": "40262" }
+      { "term": "202240", "crn": "40262" },
+      { "term": "202510", "crn": "10195" },
+      { "term": "202510", "crn": "12121" },
+      { "term": "202510", "crn": "12122" },
+      { "term": "202510", "crn": "10193" },
+      { "term": "202510", "crn": "10192" },
+      { "term": "202510", "crn": "12893" },
+      { "term": "202510", "crn": "12894" },
+      { "term": "202510", "crn": "10190" },
+      { "term": "202510", "crn": "10208" },
+      { "term": "202510", "crn": "10474" },
+      { "term": "202510", "crn": "10790" },
+      { "term": "202510", "crn": "10791" },
+      { "term": "202510", "crn": "11092" }
     ],
     "description": "Students registering for this recitation must register for one of the following lecture sections of CHEM 1151: 13213 (section 5)",
     "coreqs": [{ "subject": "CHEM", "number": "1151" }],
@@ -203,7 +231,16 @@
       { "term": "202310", "crn": "18994" },
       { "term": "202310", "crn": "20406" },
       { "term": "202310", "crn": "20658" },
-      { "term": "202240", "crn": "41145" }
+      { "term": "202240", "crn": "41145" },
+      { "term": "202510", "crn": "12734" },
+      { "term": "202510", "crn": "12735" },
+      { "term": "202510", "crn": "13049" },
+      { "term": "202510", "crn": "13921" },
+      { "term": "202510", "crn": "14783" },
+      { "term": "202510", "crn": "15353" },
+      { "term": "202510", "crn": "16067" },
+      { "term": "202510", "crn": "18535" },
+      { "term": "202510", "crn": "18594" }
     ],
     "description": "Students registering for this lecture must register for one of the following sections of the recitation CHEM 1163: 13931 (section 1), 13469 (section 7), 15325, (section 10) and 15326 (section 11)",
     "coreqs": [
@@ -337,7 +374,33 @@
       { "term": "202310", "crn": "17462" },
       { "term": "202310", "crn": "17463" },
       { "term": "202310", "crn": "17464" },
-      { "term": "202240", "crn": "41146" }
+      { "term": "202240", "crn": "41146" },
+      { "term": "202510", "crn": "12700" },
+      { "term": "202510", "crn": "12703" },
+      { "term": "202510", "crn": "12705" },
+      { "term": "202510", "crn": "12707" },
+      { "term": "202510", "crn": "12709" },
+      { "term": "202510", "crn": "12711" },
+      { "term": "202510", "crn": "12713" },
+      { "term": "202510", "crn": "13329" },
+      { "term": "202510", "crn": "16220" },
+      { "term": "202510", "crn": "16221" },
+      { "term": "202510", "crn": "16068" },
+      { "term": "202510", "crn": "16219" },
+      { "term": "202510", "crn": "16248" },
+      { "term": "202510", "crn": "16249" },
+      { "term": "202510", "crn": "18537" },
+      { "term": "202510", "crn": "18538" },
+      { "term": "202510", "crn": "22288" },
+      { "term": "202510", "crn": "22289" },
+      { "term": "202510", "crn": "13932" },
+      { "term": "202510", "crn": "13934" },
+      { "term": "202510", "crn": "13935" },
+      { "term": "202510", "crn": "17961" },
+      { "term": "202510", "crn": "14768" },
+      { "term": "202510", "crn": "14770" },
+      { "term": "202510", "crn": "14772" },
+      { "term": "202440", "crn": "42130" }
     ],
     "description": "Accompanies CHEM 1161. Introduces basic laboratory techniques. Covers a range of topics including qualitative and quantitative analysis and the characteristics of chemical and physical processes.",
     "coreqs": [
@@ -421,7 +484,31 @@
       { "term": "202310", "crn": "20408" },
       { "term": "202310", "crn": "20633" },
       { "term": "202310", "crn": "20682" },
-      { "term": "202240", "crn": "41147" }
+      { "term": "202240", "crn": "41147" },
+      { "term": "202510", "crn": "13050" },
+      { "term": "202510", "crn": "12715" },
+      { "term": "202510", "crn": "12716" },
+      { "term": "202510", "crn": "12717" },
+      { "term": "202510", "crn": "12718" },
+      { "term": "202510", "crn": "13051" },
+      { "term": "202510", "crn": "12719" },
+      { "term": "202510", "crn": "13261" },
+      { "term": "202510", "crn": "13260" },
+      { "term": "202510", "crn": "13952" },
+      { "term": "202510", "crn": "13953" },
+      { "term": "202510", "crn": "14809" },
+      { "term": "202510", "crn": "14815" },
+      { "term": "202510", "crn": "14933" },
+      { "term": "202510", "crn": "14992" },
+      { "term": "202510", "crn": "15059" },
+      { "term": "202510", "crn": "15354" },
+      { "term": "202510", "crn": "16069" },
+      { "term": "202510", "crn": "16222" },
+      { "term": "202510", "crn": "16247" },
+      { "term": "202510", "crn": "18536" },
+      { "term": "202510", "crn": "18657" },
+      { "term": "202510", "crn": "18659" },
+      { "term": "202440", "crn": "42282" }
     ],
     "description": "Students registering for this recitation must register for one of the following lecture sections of CHEM 1161: 13485 (section1)",
     "coreqs": [
@@ -441,7 +528,8 @@
       { "term": "202430", "crn": "30232" },
       { "term": "202410", "crn": "10198" },
       { "term": "202330", "crn": "30238" },
-      { "term": "202310", "crn": "10208" }
+      { "term": "202310", "crn": "10208" },
+      { "term": "202510", "crn": "10189" }
     ],
     "description": "Introduces the principles of chemistry, focusing on the states and structure of matter and chemical stoichiometry. Presents basic concepts and definitions, moles, gas laws, atomic structure, periodic properties and chemical bonding, all within a contextual framework.",
     "coreqs": [
@@ -478,7 +566,11 @@
       { "term": "202310", "crn": "11223" },
       { "term": "202310", "crn": "11224" },
       { "term": "202310", "crn": "13297" },
-      { "term": "202310", "crn": "13302" }
+      { "term": "202310", "crn": "13302" },
+      { "term": "202510", "crn": "10188" },
+      { "term": "202510", "crn": "17963" },
+      { "term": "202510", "crn": "10019" },
+      { "term": "202510", "crn": "11011" }
     ],
     "description": "Accompanies CHEM 1211. Covers a range of topics from the course including qualitative and quantitative analysis and the characteristics of chemical and physical processes.",
     "coreqs": [
@@ -501,10 +593,12 @@
       { "term": "202410", "crn": "10007" },
       { "term": "202410", "crn": "10225" },
       { "term": "202330", "crn": "32225" },
-      { "term": "202330", "crn": "31992" },
       { "term": "202310", "crn": "10299" },
       { "term": "202310", "crn": "10008" },
-      { "term": "202310", "crn": "10238" }
+      { "term": "202310", "crn": "10238" },
+      { "term": "202510", "crn": "10266" },
+      { "term": "202510", "crn": "10006" },
+      { "term": "202510", "crn": "20027" }
     ],
     "description": "Accompanies CHEM 1211. Covers various topics from the course.",
     "coreqs": [
@@ -524,7 +618,8 @@
       { "term": "202430", "crn": "30492" },
       { "term": "202410", "crn": "10492" },
       { "term": "202330", "crn": "30507" },
-      { "term": "202310", "crn": "10530" }
+      { "term": "202310", "crn": "10530" },
+      { "term": "202510", "crn": "10467" }
     ],
     "description": "Continues CHEM 1211. Introduces the principles of chemical equilibrium, the rates and mechanisms of chemical reactions, and energy considerations in chemical transformations. Covers solutions, chemical kinetics, chemical equilibria, chemical thermodynamics, electrochemistry, and chemistry of the representative elements. Such contextual themes as energy resources, smog formation, and acid rain illustrate the principles discussed.",
     "coreqs": [
@@ -549,7 +644,9 @@
       { "term": "202330", "crn": "31264" },
       { "term": "202310", "crn": "10532" },
       { "term": "202310", "crn": "10533" },
-      { "term": "202310", "crn": "13304" }
+      { "term": "202310", "crn": "13304" },
+      { "term": "202510", "crn": "10469" },
+      { "term": "202510", "crn": "10470" }
     ],
     "description": "Accompanies CHEM 1214. Covers a range of topics from the course, such as measurements of heat transfer, rate and equilibrium constants, and the effects of temperature and catalysts. Particular attention is paid to aqueous acid-base reactions and to the properties and uses of buffer systems. Quantitative analysis of chemical and physical systems is emphasized throughout.",
     "coreqs": [
@@ -572,10 +669,10 @@
       { "term": "202410", "crn": "10003" },
       { "term": "202410", "crn": "10497" },
       { "term": "202330", "crn": "30216" },
-      { "term": "202330", "crn": "30002" },
       { "term": "202310", "crn": "10534" },
-      { "term": "202310", "crn": "10003" },
-      { "term": "202310", "crn": "10535" }
+      { "term": "202310", "crn": "10535" },
+      { "term": "202510", "crn": "10471" },
+      { "term": "202510", "crn": "10002" }
     ],
     "description": "Accompanies CHEM 1214. Covers various topics from the course.",
     "coreqs": [
@@ -594,7 +691,8 @@
     "sections": [
       { "term": "202430", "crn": "39238" },
       { "term": "202410", "crn": "13458" },
-      { "term": "202310", "crn": "13936" }
+      { "term": "202310", "crn": "13936" },
+      { "term": "202510", "crn": "13055" }
     ],
     "description": "Explores basic concepts of thermodynamics; electrochemistry; and nuclear, supramolecular, and solid-state chemistry in the context of modern materials. Emphasizes connecting the particulate nature of matter to the properties of substances and patterns of chemical reactivity.",
     "coreqs": [
@@ -616,7 +714,9 @@
       { "term": "202410", "crn": "13459" },
       { "term": "202410", "crn": "17930" },
       { "term": "202310", "crn": "13937" },
-      { "term": "202310", "crn": "20357" }
+      { "term": "202310", "crn": "20357" },
+      { "term": "202510", "crn": "13056" },
+      { "term": "202510", "crn": "22290" }
     ],
     "description": "Accompanies CHEM 2161. Offers hands-on exploration of the basic concepts of electrochemistry and of nuclear, supramolecular, and solid-state chemistry.",
     "coreqs": [
@@ -635,7 +735,8 @@
     "sections": [
       { "term": "202430", "crn": "39241" },
       { "term": "202410", "crn": "13460" },
-      { "term": "202310", "crn": "13938" }
+      { "term": "202310", "crn": "13938" },
+      { "term": "202510", "crn": "13057" }
     ],
     "description": "Accompanies CHEM 2161. Covers various topics from the course. Offers students an opportunity to work interactively with instructors and other students to learn and apply the knowledge acquired in lecture.",
     "coreqs": [
@@ -674,7 +775,14 @@
       { "term": "202310", "crn": "10199" },
       { "term": "202310", "crn": "20554" },
       { "term": "202310", "crn": "10529" },
-      { "term": "202310", "crn": "11403" }
+      { "term": "202310", "crn": "11403" },
+      { "term": "202510", "crn": "10182" },
+      { "term": "202510", "crn": "16159" },
+      { "term": "202510", "crn": "10466" },
+      { "term": "202510", "crn": "11134" },
+      { "term": "202510", "crn": "20028" },
+      { "term": "202510", "crn": "20029" },
+      { "term": "202510", "crn": "20030" }
     ],
     "description": "Introduces nomenclature, preparation, properties, stereochemistry, and reactions of common organic compounds. Presents correlations between the structure of organic compounds and their physical and chemical properties, and mechanistic interpretation of organic reactions. Includes chemistry of hydrocarbons and their functional derivatives.",
     "coreqs": [{ "subject": "CHEM", "number": "2312" }],
@@ -814,12 +922,9 @@
       { "term": "202310", "crn": "10931" },
       { "term": "202310", "crn": "10191" },
       { "term": "202310", "crn": "10932" },
-      { "term": "202310", "crn": "10189" },
       { "term": "202310", "crn": "10188" },
-      { "term": "202310", "crn": "10187" },
       { "term": "202310", "crn": "10933" },
       { "term": "202310", "crn": "10934" },
-      { "term": "202310", "crn": "10186" },
       { "term": "202310", "crn": "10935" },
       { "term": "202310", "crn": "10173" },
       { "term": "202310", "crn": "10526" },
@@ -859,7 +964,31 @@
       { "term": "202310", "crn": "14213" },
       { "term": "202310", "crn": "20284" },
       { "term": "202310", "crn": "20285" },
-      { "term": "202310", "crn": "20286" }
+      { "term": "202310", "crn": "20286" },
+      { "term": "202510", "crn": "13258" },
+      { "term": "202510", "crn": "10175" },
+      { "term": "202510", "crn": "10512" },
+      { "term": "202510", "crn": "10775" },
+      { "term": "202510", "crn": "10174" },
+      { "term": "202510", "crn": "10171" },
+      { "term": "202510", "crn": "10170" },
+      { "term": "202510", "crn": "10777" },
+      { "term": "202510", "crn": "10778" },
+      { "term": "202510", "crn": "10169" },
+      { "term": "202510", "crn": "10463" },
+      { "term": "202510", "crn": "10465" },
+      { "term": "202510", "crn": "10012" },
+      { "term": "202510", "crn": "10780" },
+      { "term": "202510", "crn": "12869" },
+      { "term": "202510", "crn": "10826" },
+      { "term": "202510", "crn": "11274" },
+      { "term": "202510", "crn": "13259" },
+      { "term": "202510", "crn": "10827" },
+      { "term": "202510", "crn": "12593" },
+      { "term": "202510", "crn": "11896" },
+      { "term": "202510", "crn": "12606" },
+      { "term": "202510", "crn": "12651" },
+      { "term": "202510", "crn": "16311" }
     ],
     "description": "Accompanies CHEM 2311. Introduces basic laboratory techniques, such as distillation, crystallization, extraction, chromatography, characterization by physical methods, and measurement of optical rotation. These techniques serve as the foundation for the synthesis, purification, and characterization of products from microscale syntheses integrated with CHEM 2311.",
     "coreqs": [{ "subject": "CHEM", "number": "2311" }],
@@ -892,11 +1021,20 @@
       { "term": "202310", "crn": "13933" },
       { "term": "202310", "crn": "20692" },
       { "term": "202260", "crn": "60016" },
-      { "term": "202240", "crn": "40569" }
+      { "term": "202240", "crn": "40569" },
+      { "term": "202510", "crn": "10168" },
+      { "term": "202510", "crn": "11918" },
+      { "term": "202510", "crn": "13052" },
+      { "term": "202510", "crn": "20031" },
+      { "term": "202510", "crn": "21726" }
     ],
     "description": "Continues CHEM 2311. Focuses on additional functional group chemistry including alcohols, ethers, carbonyl compounds, and amines, and also examines chemistry relevant to molecules of nature. Introduces spectroscopic methods for structural identification.",
     "coreqs": [{ "subject": "CHEM", "number": "2314" }],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "CHEM", "number": "2311" },
+      "Or",
+      { "subject": "CHEM", "number": "2315" }
+    ]
   },
   {
     "subject": "CHEM",
@@ -1056,7 +1194,6 @@
       { "term": "202310", "crn": "20834" },
       { "term": "202310", "crn": "20835" },
       { "term": "202260", "crn": "60019" },
-      { "term": "202260", "crn": "60017" },
       { "term": "202260", "crn": "60112" },
       { "term": "202260", "crn": "60371" },
       { "term": "202240", "crn": "40570" },
@@ -1064,7 +1201,30 @@
       { "term": "202240", "crn": "40725" },
       { "term": "202240", "crn": "41114" },
       { "term": "202240", "crn": "41120" },
-      { "term": "202240", "crn": "41825" }
+      { "term": "202240", "crn": "41825" },
+      { "term": "202510", "crn": "10828" },
+      { "term": "202510", "crn": "10215" },
+      { "term": "202510", "crn": "11087" },
+      { "term": "202510", "crn": "13065" },
+      { "term": "202510", "crn": "11237" },
+      { "term": "202510", "crn": "11885" },
+      { "term": "202510", "crn": "13067" },
+      { "term": "202510", "crn": "11886" },
+      { "term": "202510", "crn": "12205" },
+      { "term": "202510", "crn": "12601" },
+      { "term": "202510", "crn": "13070" },
+      { "term": "202510", "crn": "13071" },
+      { "term": "202510", "crn": "13073" },
+      { "term": "202510", "crn": "13075" },
+      { "term": "202510", "crn": "13077" },
+      { "term": "202510", "crn": "13877" },
+      { "term": "202510", "crn": "14040" },
+      { "term": "202510", "crn": "14042" },
+      { "term": "202510", "crn": "16316" },
+      { "term": "202510", "crn": "16318" },
+      { "term": "202510", "crn": "16320" },
+      { "term": "202510", "crn": "16321" },
+      { "term": "202510", "crn": "21595" }
     ],
     "description": "Accompanies CHEM 2313. Basic laboratory techniques from CHEM 2312 are applied to chemical reactions of alcohols, ethers, carbonyl compounds, carbohydrates, and amines. Introduces basic laboratory techniques including infrared (IR) spectroscopy and nuclear magnetic resonance (NMR) spectronomy as analytical methods for characterization of organic molecules.",
     "coreqs": [{ "subject": "CHEM", "number": "2313" }],
@@ -1123,7 +1283,8 @@
     "nuPath": ["EI"],
     "sections": [
       { "term": "202410", "crn": "13977" },
-      { "term": "202310", "crn": "14588" }
+      { "term": "202310", "crn": "14588" },
+      { "term": "202510", "crn": "13497" }
     ],
     "description": "Continues CHEM 2315. Extends the study of functional groups commonly found in organic compounds, further emphasizing conceptual mastery of the relationship between structure and reactivity. Introduces structural identification of organic compounds using contemporary spectroscopic methods such as IR, MS, and NMR. Other topics include structure and reactivity of conjugated and aromatic systems, the chemistry of ethers and epoxides, and the chemistry of carbonyl-containing compounds including aldehydes, ketones, carboxylic acids, and carboxylic acid derivatives. Offers students an opportunity to develop skills in planning multistep syntheses using the retrosynthesis approach and proposing mechanisms for chemical transformations.",
     "coreqs": [
@@ -1146,7 +1307,8 @@
     "sections": [
       { "term": "202410", "crn": "13978" },
       { "term": "202310", "crn": "14589" },
-      { "term": "202310", "crn": "14590" }
+      { "term": "202310", "crn": "14590" },
+      { "term": "202510", "crn": "13498" }
     ],
     "description": "Accompanies CHEM 2317. Introduces basic laboratory techniques including infrared (IR) spectroscopy and nuclear magnetic resonance (NMR) spectronomy as analytical methods for characterization of organic molecules. These methods serve as the basis for characterization of products from microscale syntheses.",
     "coreqs": [
@@ -1169,7 +1331,8 @@
       { "term": "202340", "crn": "41107" },
       { "term": "202330", "crn": "33607" },
       { "term": "202310", "crn": "13947" },
-      { "term": "202240", "crn": "41467" }
+      { "term": "202240", "crn": "41467" },
+      { "term": "202510", "crn": "13064" }
     ],
     "description": "The Chemistry major's restriction will be lifted at the conclusion of time ticketed registration.",
     "coreqs": [
@@ -1213,7 +1376,9 @@
       { "term": "202330", "crn": "39871" },
       { "term": "202310", "crn": "15413" },
       { "term": "202310", "crn": "14127" },
-      { "term": "202240", "crn": "41468" }
+      { "term": "202240", "crn": "41468" },
+      { "term": "202510", "crn": "13978" },
+      { "term": "202510", "crn": "13199" }
     ],
     "description": "Accompanies CHEM 2321. Lab experiments provide hands-on experience in the analytical methods introduced in CHEM 2321, specifically, silver chloride gravimetry, complexometric titrations, acid-base titrations, UV-vis spectroscopy, cyclic voltammetry, Karl Fischer coulometry, and modern chromatrographic methods.",
     "coreqs": [
@@ -1236,7 +1401,8 @@
       { "term": "202340", "crn": "41109" },
       { "term": "202330", "crn": "34237" },
       { "term": "202310", "crn": "14591" },
-      { "term": "202240", "crn": "41469" }
+      { "term": "202240", "crn": "41469" },
+      { "term": "202510", "crn": "13500" }
     ],
     "description": "Accompanies CHEM 2321 and CHEM 2322. Covers various topics from the course. Offers students an opportunity to work interactively with instructors and other students to learn and apply the knowledge acquired in lecture and lab.",
     "coreqs": [
@@ -1272,7 +1438,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13981" },
-      { "term": "202310", "crn": "14592" }
+      { "term": "202310", "crn": "14592" },
+      { "term": "202510", "crn": "13501" }
     ],
     "description": "Accompanies CHEM 2317 and CHEM 2318. Offers students an opportunity to work interactively with instructors and other students to learn and apply the knowledge acquired in lab and lecture.",
     "coreqs": [
@@ -1292,11 +1459,48 @@
       { "term": "202430", "crn": "34743" },
       { "term": "202410", "crn": "14996" },
       { "term": "202330", "crn": "35719" },
-      { "term": "202310", "crn": "16123" }
+      { "term": "202310", "crn": "16123" },
+      { "term": "202510", "crn": "14281" }
     ],
     "description": "Offers students an opportunity to obtain a broad familiarity with bioanalytical chemistry at the undergraduate level. After reviewing basic principles of analytical chemistry, the course covers biomolecular analysis by modern methods, including chromatography, electrophoresis, mass spectrometry, and immunohistochemistry. Studies genomics, proteomics, biosensors, bioassays, and protein/DNA sequencing. Exposes students to technical literature and modern applications in biochemistry, molecular biology, and chemistry.",
     "coreqs": [{ "subject": "CHEM", "number": "3332" }],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "CHEM", "number": "1151" },
+      "Or",
+      { "subject": "CHEM", "number": "1161" },
+      "Or",
+      { "subject": "CHEM", "number": "1214" },
+      "Or",
+      { "subject": "CHEM", "number": "1220" },
+      ")",
+      "And",
+      "(",
+      { "subject": "CHEM", "number": "2313" },
+      "Or",
+      { "subject": "CHEM", "number": "2317" },
+      ")",
+      "And",
+      "(",
+      { "subject": "CHEM", "number": "2321" },
+      "Or",
+      { "subject": "BIOL", "number": "3611" },
+      ")",
+      "And",
+      "(",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" },
+      ")"
+    ]
   },
   {
     "subject": "CHEM",
@@ -1313,7 +1517,10 @@
       { "term": "202330", "crn": "35720" },
       { "term": "202330", "crn": "35721" },
       { "term": "202310", "crn": "16124" },
-      { "term": "202310", "crn": "16125" }
+      { "term": "202310", "crn": "16125" },
+      { "term": "202510", "crn": "14282" },
+      { "term": "202510", "crn": "14283" },
+      { "term": "202510", "crn": "21796" }
     ],
     "description": "Accompanies CHEM 3331. Offers students an opportunity to apply modern analytical instrumentation to a selection of relevant applications as they relate to research and development labs in the biotechnology and pharmaceutical industry.",
     "coreqs": [{ "subject": "CHEM", "number": "3331" }],
@@ -1330,7 +1537,8 @@
       { "term": "202430", "crn": "33177" },
       { "term": "202410", "crn": "13456" },
       { "term": "202330", "crn": "33609" },
-      { "term": "202310", "crn": "13934" }
+      { "term": "202310", "crn": "13934" },
+      { "term": "202510", "crn": "13053" }
     ],
     "description": "Traces the development of chemical thermodynamics through the three major laws of thermodymamics. These are applied to thermochemistry, chemical reaction and phase equilibria, and the physical behavior of multicomponent systems. Emphasizes quantitative interpretation of physical measurements.",
     "coreqs": [{ "subject": "CHEM", "number": "3402" }],
@@ -1368,7 +1576,8 @@
       { "term": "202430", "crn": "41011" },
       { "term": "202410", "crn": "13457" },
       { "term": "202330", "crn": "33610" },
-      { "term": "202310", "crn": "13935" }
+      { "term": "202310", "crn": "13935" },
+      { "term": "202510", "crn": "13054" }
     ],
     "description": "Accompanies CHEM 3401. Demonstrates the measurement of selected physical chemical phenomena presented in CHEM 3401, introducing experimental protocol and methods of data analysis. Experiments include investigations of gas nonideality and critical phenomena, electrochemical measurement of equilibrium, construction of phase diagrams, and bomb and differential scanning calorimetry.",
     "coreqs": [{ "subject": "CHEM", "number": "3401" }],
@@ -1385,11 +1594,30 @@
       { "term": "202430", "crn": "30989" },
       { "term": "202410", "crn": "12768" },
       { "term": "202330", "crn": "31062" },
-      { "term": "202310", "crn": "13130" }
+      { "term": "202310", "crn": "13130" },
+      { "term": "202510", "crn": "12461" }
     ],
     "description": "Studies the theory of quantum chemistry with applications to spectroscopy. Presents some simple quantum mechanical (QM) models, including the particle in a box, rigid rotor, and harmonic oscillator, followed by treatments of electrons in atoms and molecules. Microwave, infrared, Raman, NMR, ESR, atomic absorption, atomic emission, and UV-Vis spectroscopy are discussed in detail.",
     "coreqs": [{ "subject": "CHEM", "number": "3404" }],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "CHEM", "number": "3401" },
+      "Or",
+      { "subject": "CHEM", "number": "3421" },
+      "Or",
+      { "subject": "CHEM", "number": "3431" },
+      "Or",
+      { "subject": "CHME", "number": "3322" },
+      ")",
+      "And",
+      { "subject": "MATH", "number": "1342" },
+      "And",
+      "(",
+      { "subject": "PHYS", "number": "1155" },
+      "Or",
+      { "subject": "PHYS", "number": "1165" },
+      ")"
+    ]
   },
   {
     "subject": "CHEM",
@@ -1406,7 +1634,9 @@
       { "term": "202330", "crn": "30031" },
       { "term": "202330", "crn": "32002" },
       { "term": "202310", "crn": "12700" },
-      { "term": "202310", "crn": "12701" }
+      { "term": "202310", "crn": "12701" },
+      { "term": "202510", "crn": "12137" },
+      { "term": "202510", "crn": "12138" }
     ],
     "description": "Accompanies CHEM 3403. Explores the principles covered in CHEM 3403 by laboratory experimentation. Experiments include measurement of reaction kinetics, such as excited state dynamics, measurement of gas transport properties, atomic and molecular absorption and emission spectroscopy, infrared spectroscopy of molecular vibrations, and selected applications of fluorimetry.",
     "coreqs": [{ "subject": "CHEM", "number": "3403" }],
@@ -1421,7 +1651,8 @@
     "nuPath": ["AD", "ND"],
     "sections": [
       { "term": "202410", "crn": "17756" },
-      { "term": "202310", "crn": "20166" }
+      { "term": "202310", "crn": "20166" },
+      { "term": "202510", "crn": "15960" }
     ],
     "description": "Offers students who wish to work in the geosciences or environmental science and engineering fields, including on the land, in freshwater, or the oceans, an opportunity to understand the geochemical principles that shape the natural and managed environment. Seeks to provide a context for understanding the natural elemental cycles and environmental problems through studies in atmospheric, terrestrial, freshwater, and marine geochemistry. Topics include fundamental geochemical principles; environmental mineralogy; organic and isotope geochemistry; the global carbon, nitrogen, and phosphorous cycles; atmospheric pollution; environmental photochemistry; and human-natural climate change feedbacks. ENVR 3410 and CHEM 3410 are cross-listed.",
     "coreqs": [],
@@ -1447,7 +1678,8 @@
       { "term": "202340", "crn": "40591" },
       { "term": "202330", "crn": "31915" },
       { "term": "202310", "crn": "12163" },
-      { "term": "202240", "crn": "40650" }
+      { "term": "202240", "crn": "40650" },
+      { "term": "202510", "crn": "11756" }
     ],
     "description": "Offers an in-depth survey of physical chemistry. Emphasizes applications in modern research, including examples from biochemistry. Topics include the laws of thermodynamics and their molecular interpretation; equilibrium in chemical and biochemical systems; molecular transport; kinetics, including complex enzyme mechanisms; and an introduction to spectroscopy and the underlying concepts of quantum chemistry.",
     "coreqs": [{ "subject": "CHEM", "number": "3432" }],
@@ -1509,7 +1741,11 @@
       { "term": "202310", "crn": "12165" },
       { "term": "202310", "crn": "15169" },
       { "term": "202310", "crn": "16657" },
-      { "term": "202240", "crn": "40651" }
+      { "term": "202240", "crn": "40651" },
+      { "term": "202510", "crn": "11757" },
+      { "term": "202510", "crn": "11758" },
+      { "term": "202510", "crn": "13854" },
+      { "term": "202510", "crn": "14531" }
     ],
     "description": "Accompanies CHEM 3431. Covers practical skills in physical chemistry with an emphasis on current practice in chemistry, biochemistry, and pharmaceutical science. Introduces both ab initio and biological molecular modeling, differential scanning calorimetry, polymer characterization, protein unfolding and protein/ligand binding, electronic absorption spectroscopy, and synthesis of nanoparticles or quantum dots.",
     "coreqs": [{ "subject": "CHEM", "number": "3431" }],
@@ -1592,14 +1828,29 @@
     "nuPath": ["WI"],
     "sections": [
       { "term": "202330", "crn": "38323" },
-      { "term": "202310", "crn": "12927" }
+      { "term": "202310", "crn": "12927" },
+      { "term": "202510", "crn": "20032" }
     ],
     "description": "Explores basic concepts of molecular topologies, coordination compounds, coordination chemistry, isomerism, electron-transfer reactions, substitution reactions, molecular rearrangements, and reactions at ligands in the context of metal-based drugs, imaging agents, and metalloenzymes.",
     "coreqs": [
       { "subject": "CHEM", "number": "3506" },
       { "subject": "CHEM", "number": "3507" }
     ],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "CHEM", "number": "2313" },
+      "Or",
+      { "subject": "CHEM", "number": "2317" },
+      ")",
+      "And",
+      "(",
+      { "subject": "CHEM", "number": "2321" },
+      "Or",
+      { "subject": "CHEM", "number": "2331" },
+      "Or",
+      { "subject": "CHEM", "number": "3331" },
+      ")"
+    ]
   },
   {
     "subject": "CHEM",
@@ -1610,7 +1861,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "38324" },
-      { "term": "202310", "crn": "12928" }
+      { "term": "202310", "crn": "12928" },
+      { "term": "202510", "crn": "20033" }
     ],
     "description": "Offers a laboratory course in inorganic chemistry with experiments and projects that track with the topics discussed in CHEM 3505. Designed for students who have mastered basic laboratory techniques in general and organic chemistry. Introduces new synthetic techniques and applies modern analytical characterization tools not previously used in other laboratory courses (such as CHEM 3522 and CHEM 3532).",
     "coreqs": [
@@ -1628,7 +1880,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "38325" },
-      { "term": "202310", "crn": "13146" }
+      { "term": "202310", "crn": "13146" },
+      { "term": "202510", "crn": "20034" }
     ],
     "description": "Offers students additional opportunities to work interactively with instructors and other students to learn and apply the concepts presented in CHEM 3505.",
     "coreqs": [
@@ -1651,7 +1904,8 @@
       { "term": "202340", "crn": "40593" },
       { "term": "202330", "crn": "31918" },
       { "term": "202310", "crn": "12193" },
-      { "term": "202240", "crn": "40652" }
+      { "term": "202240", "crn": "40652" },
+      { "term": "202510", "crn": "11776" }
     ],
     "description": "Studies how to apply principles of organic chemistry, and related areas of chemistry, to the design, preparation, and use of biologically active organic compounds. Explores translational chemical science in the discovery, design, and development of biologically active compounds for medical purposes, using techniques gained in organic reaction mechanisms and synthesis. Evaluates methods to incorporate specific chemical features into organic compounds to meet specific biological and biomedical criteria. Offers students an opportunity to develop problem-solving skills that extend beyond synthetic organic chemistry to a wide range of chemical disciplines.",
     "coreqs": [],
@@ -1675,7 +1929,8 @@
       { "term": "202340", "crn": "40594" },
       { "term": "202330", "crn": "31919" },
       { "term": "202310", "crn": "12194" },
-      { "term": "202240", "crn": "40653" }
+      { "term": "202240", "crn": "40653" },
+      { "term": "202510", "crn": "11777" }
     ],
     "description": "Accompanies CHEM 4456. Integrates elements of experimental design, organic synthesis, isolation and characterization of organic compounds, and interpretation of experimental observations. Students, working in small groups, evaluate a multistep synthesis of a compound developed for clinical trials as an anticancer agent, conducting the synthetic sequence, completing each reaction, characterizing the products, and interpreting and reporting the results. A final report in the form of an American Chemical Society (ACS) manuscript summarizes each group’s efforts.",
     "coreqs": [{ "subject": "CHEM", "number": "4456" }],
@@ -1713,7 +1968,8 @@
       { "term": "202430", "crn": "30490" },
       { "term": "202410", "crn": "10083" },
       { "term": "202330", "crn": "30505" },
-      { "term": "202310", "crn": "10089" }
+      { "term": "202310", "crn": "10089" },
+      { "term": "202510", "crn": "10081" }
     ],
     "description": "Introduces the use of the nuclear magnetic resonance (NMR) spectrometer and basic NMR experiments. Determines the identity of unknown organic compounds by the use of mass spectrometry, infrared spectroscopy, and 1D and 2D nuclear magnetic resonance spectroscopy.",
     "coreqs": [{ "subject": "CHEM", "number": "4628" }],
@@ -1740,11 +1996,16 @@
       { "term": "202330", "crn": "30227" },
       { "term": "202310", "crn": "13591" },
       { "term": "202260", "crn": "60035" },
-      { "term": "202240", "crn": "40033" }
+      { "term": "202240", "crn": "40033" },
+      { "term": "202510", "crn": "12798" }
     ],
     "description": "Conducts original experimental work under the direction of members of the department on a project. Introduces experimental design based on literature and a variety of techniques depending upon the individual project.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "CHEM", "number": "2313" },
+      "Or",
+      { "subject": "CHEM", "number": "2317" }
+    ]
   },
   {
     "subject": "CHEM",
@@ -1760,7 +2021,8 @@
       { "term": "202330", "crn": "30220" },
       { "term": "202310", "crn": "10041" },
       { "term": "202260", "crn": "60366" },
-      { "term": "202240", "crn": "40032" }
+      { "term": "202240", "crn": "40032" },
+      { "term": "202510", "crn": "10037" }
     ],
     "description": "Conducts original research under the direction of members of the department. May be repeated without limit.",
     "coreqs": [],
@@ -1779,7 +2041,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 4,
     "nuPath": ["CE"],
-    "sections": [{ "term": "202430", "crn": "41320" }],
+    "sections": [
+      { "term": "202430", "crn": "41320" },
+      { "term": "202510", "crn": "21641" }
+    ],
     "description": "Focuses on in-depth project in which a student conducts research or produces a product related to the student's major field. Combined with Junior/Senior Project 2 or college-defined equivalent for 8 credit honors project. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1798,7 +2063,8 @@
       { "term": "202340", "crn": "40595" },
       { "term": "202330", "crn": "33611" },
       { "term": "202310", "crn": "14268" },
-      { "term": "202240", "crn": "40654" }
+      { "term": "202240", "crn": "40654" },
+      { "term": "202510", "crn": "13307" }
     ],
     "description": "Covers the material needed to complete successfully all the online safety training that is required for our graduate students, best practices for the safe execution of common chemical laboratory procedures, advanced procedures, as well as incidents from the recent literature. Includes discussions of case studies on topics relevant for the safe and effective use of chemicals and other materials in a research laboratory environment. Undergraduates may enroll with permission of the instructor.",
     "coreqs": [],
@@ -1817,7 +2083,9 @@
       { "term": "202410", "crn": "12385" },
       { "term": "202410", "crn": "19925" },
       { "term": "202310", "crn": "12056" },
-      { "term": "202310", "crn": "12685" }
+      { "term": "202310", "crn": "12685" },
+      { "term": "202510", "crn": "11666" },
+      { "term": "202510", "crn": "12126" }
     ],
     "description": "Covers the background and methods used for glycoprotein characterization. Offers students an opportunity to obtain the background needed to assess the analytical steps necessary for development of glycoprotein drugs. Analyzes regulatory issues behind glycoprotein drug development. Covers recent developments in analytical and regulatory sciences.",
     "coreqs": [],
@@ -1834,7 +2102,8 @@
       { "term": "202430", "crn": "32512" },
       { "term": "202410", "crn": "13004" },
       { "term": "202330", "crn": "32823" },
-      { "term": "202310", "crn": "13391" }
+      { "term": "202310", "crn": "13391" },
+      { "term": "202510", "crn": "12662" }
     ],
     "description": "Seeks to prepare students for success in CHEM 5600 and in CHEM 7730. May be repeated once. Must be taken in consecutive semesters before registration into CHEM 5600 and CHEM 7730.",
     "coreqs": [],
@@ -1859,7 +2128,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19781" }],
+    "sections": [
+      { "term": "202410", "crn": "19781" },
+      { "term": "202510", "crn": "17257" }
+    ],
     "description": "Discusses the synthesis and analysis of polymer materials. Covers mechanisms and kinetics of condensation/chain-growth polymerization reactions and strategies leading to well-defined polymer architectures and compositions, including living polymerizations (free radical, cationic, anionic), catalytic approaches, and postpolymerization functionalization. Discusses correlation of chemical composition and structure to physical properties and applications.",
     "coreqs": [],
     "prereqs": [
@@ -1906,7 +2178,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15454" },
-      { "term": "202310", "crn": "16984" }
+      { "term": "202310", "crn": "16984" },
+      { "term": "202510", "crn": "14633" }
     ],
     "description": "Describes the theory and practice of ion separation in electrostatic and magnetic fields and their subsequent detection. Topics include basic principles of ion trajectories in electrostatic and magnetic fields, design and operation of inlet systems and electron impact ionization, and mass spectra of organic compounds.",
     "coreqs": [],
@@ -1921,7 +2194,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "14464" },
-      { "term": "202310", "crn": "15227" }
+      { "term": "202310", "crn": "15227" },
+      { "term": "202510", "crn": "13891" }
     ],
     "description": "Describes the theory of electrode processes and modern electroanalytical experiments. Topics include the nature of the electrode-solution interface (double layer models), mass transfer (diffusion, migration, and convection), types of electrodes, reference electrodes, junction potentials, kinetics of electrode reactions, controlled potential methods (cyclic voltammetry, chronoamperometry), chronocoulometry and square wave voltammetry, and controlled current methods (chronopotentiometry).",
     "coreqs": [],
@@ -1936,7 +2210,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15317" },
-      { "term": "202310", "crn": "16654" }
+      { "term": "202310", "crn": "16654" },
+      { "term": "202510", "crn": "22520" }
     ],
     "description": "Offers students an opportunity to develop an appreciation of the appropriate choice of mass spectrometer for a particular application.",
     "coreqs": [],
@@ -1970,7 +2245,10 @@
       { "term": "202310", "crn": "13939" },
       { "term": "202310", "crn": "13940" },
       { "term": "202310", "crn": "20191" },
-      { "term": "202240", "crn": "40655" }
+      { "term": "202240", "crn": "40655" },
+      { "term": "202510", "crn": "11251" },
+      { "term": "202510", "crn": "15965" },
+      { "term": "202510", "crn": "22049" }
     ],
     "description": "Describes proteins (what they are, where they come from, and how they work) in the context of analytical analysis and molecular medicine. Discusses the chemical properties of proteins, protein synthesis, and the genetic origins of globular proteins in solution, membrane proteins, and fibrous proteins. Covers the physical intra- and intermolecular interactions that proteins undergo along with descriptions of protein conformation and methods of structural determination. Explores protein folding as well as protein degradation and enzymatic activity. Highlights protein purification and biophysical characterization in relation to protein analysis, drug design, and optimization.",
     "coreqs": [],
@@ -1979,7 +2257,7 @@
   {
     "subject": "CHEM",
     "number": "5621",
-    "title": "Principles of Chemical Biology for Chemists",
+    "title": "Principles of Chemical Biology",
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
@@ -1987,7 +2265,8 @@
       { "term": "202430", "crn": "30577" },
       { "term": "202410", "crn": "10727" },
       { "term": "202330", "crn": "30598" },
-      { "term": "202310", "crn": "10813" }
+      { "term": "202310", "crn": "10813" },
+      { "term": "202510", "crn": "10674" }
     ],
     "description": "Explores the use of natural and unnatural small-molecule chemical tools to probe macromolecules, including affinity labeling and click chemistry. Covers nucleic acid sequencing technologies and solid-phase synthesis of nucleic acids and peptides. Discusses in-vitro selection techniques, aptamers, and quantitative issues in library construction. Uses molecular visualization software tools to investigate structures of macromolecules. Intended for graduate and advanced undergraduate students.",
     "coreqs": [],
@@ -2030,7 +2309,8 @@
       { "term": "202430", "crn": "31591" },
       { "term": "202410", "crn": "12269" },
       { "term": "202330", "crn": "31758" },
-      { "term": "202310", "crn": "12541" }
+      { "term": "202310", "crn": "12541" },
+      { "term": "202510", "crn": "12029" }
     ],
     "description": "Accompanies CHEM 5621. Complements and reinforces the concepts from CHEM 5621 with emphasis on fundamental techniques. Offers an opportunity to complete independent projects in modern chemical biology research.",
     "coreqs": [],
@@ -2083,7 +2363,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "20165" }],
+    "sections": [
+      { "term": "202310", "crn": "20165" },
+      { "term": "202510", "crn": "21546" }
+    ],
     "description": "Covers the chemical transformations and protein engineering approaches to protein pharmaceuticals. Describes protein posttranslational modifications, such as oxidation, glycosylation, formation of isoaspartic acid, and disulfide. Then discusses bioconjugate chemistry, including those involved in antibody-drug conjugate and PEGylation. Finally, explores various protein engineering approaches, such as quality by design (QbD), to optimize the stability, immunogenicity, activity, and production of protein pharmaceuticals. Discusses the underlying chemical principles and enzymatic mechanisms as well.",
     "coreqs": [],
     "prereqs": [
@@ -2115,7 +2398,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10672" },
-      { "term": "202310", "crn": "10742" }
+      { "term": "202310", "crn": "10742" },
+      { "term": "202510", "crn": "10623" }
     ],
     "description": "Surveys types of organic reactions including stereochemistry, influence of structure and medium, mechanistic aspects, and synthetic applications.",
     "coreqs": [],
@@ -2130,7 +2414,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10587" },
-      { "term": "202310", "crn": "10638" }
+      { "term": "202310", "crn": "10638" },
+      { "term": "202510", "crn": "10548" }
     ],
     "description": "Surveys foundational concepts of physical organic chemistry, including thermodynamics, kinetics, and solvent and isotope effects. Treats structure/reactivity relationships in the context of how they can be used in understanding and predicting organic chemistry mechanisms. Topics include conformational analysis, molecular orbital theory, aromaticity, orbital symmetry, and how they are applied to understanding organic and organometallic reactions such as aldol, pericyclic, and other stereoselective reactions. Discusses reaction mechanisms that involve intermediates, including anions, cations, radicals, and carbenes.",
     "coreqs": [],
@@ -2145,11 +2430,18 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12182" },
-      { "term": "202310", "crn": "12451" }
+      { "term": "202310", "crn": "12451" },
+      { "term": "202510", "crn": "11948" }
     ],
     "description": "Studies how to determine organic structure based on proton and carbon nuclear magnetic resonance spectra, with additional information from mass and infrared spectra and elemental analysis. Presents descriptive theory of nuclear magnetic resonance experiments and applications of advanced techniques to structure determination. Includes relaxation, nuclear Overhauser effect, polarization transfer, and correlation in various one- and two- dimensional experiments. Requires graduate students to have one year of organic chemistry or equivalent.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "CHEM", "number": "2313" },
+      "Or",
+      { "subject": "CHEM", "number": "2317" },
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "CHEM",
@@ -2160,7 +2452,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "14438" },
-      { "term": "202310", "crn": "15189" }
+      { "term": "202310", "crn": "15189" },
+      { "term": "202510", "crn": "13868" }
     ],
     "description": "Offers a broadband introduction to the field of nucleic acid chemistry. Nucleic acids are vital for biology, but their roles have been greatly expanded beyond storage of genetic information. The breadth of utility of nucleic acids stems from a precise understanding of their structures, modern means to synthesize and modify them, and the ability for nucleic acids to engage with varieties of enzymes/proteins and other synthetic/biological systems. Foundational topics include nucleic acid structure, physicochemical properties, syntheses of nucleosides/nucleotides/oligonucleotides, chemical modification of nucleic acids, methods to manipulate and analyze nucleic acids (e.g., PCR, sequencing, and electrophoresis). Advanced topics include nucleic acid therapeutics (e.g., siRNA, antisense technology, CRISPR, and aptamers); DNA damage and repair; and DNA for materials science (e.g., DNA nanotechnology).",
     "coreqs": [],
@@ -2175,7 +2468,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12888" },
-      { "term": "202310", "crn": "13264" }
+      { "term": "202310", "crn": "13264" },
+      { "term": "202510", "crn": "12563" }
     ],
     "description": "Briefly reviews classical thermodynamics before undertaking detailed coverage of statistical thermodynamics, including probability theory, the Boltzmann distribution, partition functions, ensembles, and statistically derived thermodynamic functions. Reconsiders the basic concepts of statistical thermodynamics from the modern viewpoint of information theory. Presents practical applications of the theory to problems of contemporary interest, including polymers and biopolymers, nanoscale systems, molecular modeling, and bioinformatics.",
     "coreqs": [],
@@ -2225,7 +2519,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15642" },
-      { "term": "202310", "crn": "17416" }
+      { "term": "202310", "crn": "17416" },
+      { "term": "202510", "crn": "14759" }
     ],
     "description": "Introduces basic concepts, methods, techniques, and recent advances in computational chemistry and their relevance to experimental characterizations such as spectroscopy. Topics include electronic structure theory (wave function theory and density functional theory), principles of molecular dynamics simulations, multiscale modeling, machine learning, and quantum computing relevant to computational chemistry. Builds a theoretical foundation for students to properly choose computational methods to solve common research problems in chemistry, biochemistry, and materials science. Also introduces the field of research in computational chemistry. Suitable for advanced undergraduate students and graduate students who plan to conduct research in the field of computational chemistry or plan to utilize computational techniques to complement experimental research in the molecular sciences.",
     "coreqs": [],
@@ -2275,7 +2570,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "36346" },
-      { "term": "202330", "crn": "38326" }
+      { "term": "202330", "crn": "38326" },
+      { "term": "202510", "crn": "21594" }
     ],
     "description": "Studies renewable energy in terms of photovoltaics, photoelectrochemistry, fuel cells, batteries, and capacitors. Focuses on the aspects of each component and their relationships to one another.",
     "coreqs": [],
@@ -2291,6 +2587,26 @@
       ")",
       "Or",
       "Graduate Admission"
+    ]
+  },
+  {
+    "subject": "CHEM",
+    "number": "5653",
+    "title": "Electrochemistry of Renewable Energy Devices",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21632" }],
+    "description": "Presents the electrochemistry of renewable energy, an extremely interdisciplinary science encompassing sensors, surface technology, materials science, microsystems technology, nanotechnology, energy storage, and conversion. Offers hands-on experience with characterization of energy storage and conversion devices. Emphasizes photovoltaics and batteries.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "CHEM", "number": "5614" },
+      "Or",
+      { "subject": "CHEM", "number": "5614" },
+      "Or",
+      { "subject": "CHEM", "number": "5651" },
+      "Or",
+      { "subject": "CHEM", "number": "5651" }
     ]
   },
   {
@@ -2398,7 +2714,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39249" },
-      { "term": "202410", "crn": "11262" }
+      { "term": "202410", "crn": "11262" },
+      { "term": "202510", "crn": "11150" }
     ],
     "description": "Focuses on oral reports by master of science and PlusOne participants on current research topics in chemistry and chemical biology. May be repeated up to two times.",
     "coreqs": [],
@@ -2413,7 +2730,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "35376" },
-      { "term": "202340", "crn": "41854" }
+      { "term": "202340", "crn": "41854" },
+      { "term": "202510", "crn": "21608" }
     ],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated up to three times for up to 6 total credits.",
     "coreqs": [],
@@ -2428,7 +2746,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13744" },
-      { "term": "202310", "crn": "14267" }
+      { "term": "202310", "crn": "14267" },
+      { "term": "202510", "crn": "13306" }
     ],
     "description": "Offers an opportunity for students to gain exposure to research laboratories in the department to help them choose a thesis advisor and project.",
     "coreqs": [],
@@ -2443,7 +2762,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12984" },
-      { "term": "202310", "crn": "13368" }
+      { "term": "202310", "crn": "13368" },
+      { "term": "202510", "crn": "12645" }
     ],
     "description": "Designed to provide skills necessary to lead advanced problem-solving case studies. Faculty mentors in one of three thematic areas chosen from organic and medicinal chemistry, physical and materials chemistry, or analytical and biological chemistry assign casework to students for presentation and analysis in group sessions. Students are required to provide rational solutions to complex problems derived from the contemporary literature and engage in dialogue with faculty mentors to justify their analysis. The faculty mentors assign grades to reflect intellectual maturity and ability of the students to display creative, independent thinking. Full-time PhD students who have successfully completed qualifying examinations only.",
     "coreqs": [],
@@ -2474,7 +2794,9 @@
       { "term": "202410", "crn": "11250" },
       { "term": "202330", "crn": "30814" },
       { "term": "202310", "crn": "10826" },
-      { "term": "202310", "crn": "11412" }
+      { "term": "202310", "crn": "11412" },
+      { "term": "202510", "crn": "10685" },
+      { "term": "202510", "crn": "11140" }
     ],
     "description": "Focuses on oral reports by the participants on current research topics in chemistry and chemical biology. May be repeated without limit.",
     "coreqs": [],
@@ -2505,7 +2827,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12996" },
-      { "term": "202310", "crn": "13380" }
+      { "term": "202310", "crn": "13380" },
+      { "term": "202510", "crn": "12655" },
+      { "term": "202460", "crn": "62012" }
     ],
     "description": "Offers the chance to conduct original research, written thesis thereon, or to the establishment of doctoral candidacy. May be repeated without limit.",
     "coreqs": [],
@@ -2523,7 +2847,8 @@
       { "term": "202410", "crn": "12584" },
       { "term": "202360", "crn": "61582" },
       { "term": "202330", "crn": "32705" },
-      { "term": "202310", "crn": "12905" }
+      { "term": "202310", "crn": "12905" },
+      { "term": "202510", "crn": "12300" }
     ],
     "description": "Offers the student the opportunity to conduct full-time research for the PhD. May be repeated without limit.",
     "coreqs": [],
@@ -2551,7 +2876,12 @@
       { "term": "202350", "crn": "52558" },
       { "term": "202350", "crn": "52559" },
       { "term": "202310", "crn": "14134" },
-      { "term": "202310", "crn": "17802" }
+      { "term": "202310", "crn": "17802" },
+      { "term": "202510", "crn": "13200" },
+      { "term": "202510", "crn": "20036" },
+      { "term": "202510", "crn": "20037" },
+      { "term": "202510", "crn": "20038" },
+      { "term": "202510", "crn": "21849" }
     ],
     "description": "Offers the student the opportunity to conduct theoretical and experimental research for the PhD degree. Open to chemical biology students.",
     "coreqs": [],
@@ -2588,7 +2918,24 @@
       { "term": "202310", "crn": "15045" },
       { "term": "202310", "crn": "15054" },
       { "term": "202310", "crn": "21001" },
-      { "term": "202310", "crn": "21324" }
+      { "term": "202310", "crn": "21324" },
+      { "term": "202510", "crn": "13779" },
+      { "term": "202510", "crn": "13780" },
+      { "term": "202510", "crn": "13781" },
+      { "term": "202510", "crn": "13782" },
+      { "term": "202510", "crn": "13783" },
+      { "term": "202510", "crn": "13784" },
+      { "term": "202510", "crn": "13785" },
+      { "term": "202510", "crn": "13786" },
+      { "term": "202510", "crn": "13787" },
+      { "term": "202510", "crn": "16611" },
+      { "term": "202510", "crn": "17258" },
+      { "term": "202510", "crn": "19352" },
+      { "term": "202510", "crn": "20039" },
+      { "term": "202510", "crn": "20040" },
+      { "term": "202510", "crn": "20041" },
+      { "term": "202510", "crn": "20042" },
+      { "term": "202510", "crn": "20043" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -2696,10 +3043,37 @@
       { "term": "202310", "crn": "17511" },
       { "term": "202310", "crn": "18157" },
       { "term": "202310", "crn": "20262" },
-      { "term": "202310", "crn": "20335" }
+      { "term": "202310", "crn": "20335" },
+      { "term": "202510", "crn": "12720" },
+      { "term": "202510", "crn": "12721" },
+      { "term": "202510", "crn": "12722" },
+      { "term": "202510", "crn": "12723" },
+      { "term": "202510", "crn": "12724" },
+      { "term": "202510", "crn": "12725" },
+      { "term": "202510", "crn": "12726" },
+      { "term": "202510", "crn": "12727" },
+      { "term": "202510", "crn": "12728" },
+      { "term": "202510", "crn": "12729" },
+      { "term": "202510", "crn": "12730" },
+      { "term": "202510", "crn": "12731" },
+      { "term": "202510", "crn": "12732" },
+      { "term": "202510", "crn": "14284" },
+      { "term": "202510", "crn": "14791" },
+      { "term": "202510", "crn": "15034" },
+      { "term": "202510", "crn": "15987" },
+      { "term": "202510", "crn": "16018" },
+      { "term": "202510", "crn": "18541" },
+      { "term": "202510", "crn": "19239" },
+      { "term": "202510", "crn": "20044" },
+      { "term": "202510", "crn": "20045" },
+      { "term": "202510", "crn": "21652" }
     ],
     "description": "Offers dissertation supervision by members of the department. Open to chemical biology students.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "CHEM", "number": "9991" },
+      "Or",
+      "Dissertation Check"
+    ]
   }
 ]

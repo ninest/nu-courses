@@ -1,6 +1,30 @@
 [
   {
     "subject": "AFCS",
+    "number": "1101",
+    "title": "Introduction to African American and Africana Studies",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202510", "crn": "21731" }],
+    "description": "Explores the broad interdisciplinary spectrum of African American and Africana studies. Provides an introductory overview of the field and offers an opportunity to identify areas for more specific focus.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "AFCS",
+    "number": "1225",
+    "title": "Gender, Race, and Medicine",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD"],
+    "sections": [{ "term": "202510", "crn": "21741" }],
+    "description": "Examines the basic tenets of “scientific objectivity” and foundational scientific ideas about race, sex, and gender and what these have meant for marginalized groups in society, particularly when they seek medical care. Introduces feminist science theories and contemporary as well as historical examples to trace the evolution of “scientific truth” and its impact on the U.S. cultural landscape. Offers students the opportunity to question assumptions about science and view the scientific process as a site for critical analysis.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "AFCS",
     "number": "1261",
     "title": "Global Caribbean",
     "scheduleType": "Lecture",
@@ -13,15 +37,94 @@
   },
   {
     "subject": "AFCS",
+    "number": "2270",
+    "title": "Race, Ethnicity, and Inequality",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202510", "crn": "21870" }],
+    "description": "Focuses on the social construction of race and ethnicity and the nature of dominant/minority relations in the United States. Emphasizes the peculiar evolution of race relations in U.S. history, the political and economic conditions that have transformed race relations, and the nature of contemporary racial and ethnic relations in the United States. Topics include immigration, ethnic and racial identity, discrimination, and race-based policies (e.g., residential restrictive codes, Jim Crow segregation). Offers students an opportunity to develop a critical lens from which to observe and interpret contemporary debates over structural racism.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "AFCS",
+    "number": "2296",
+    "title": "Early African-American Literature",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "IC"],
+    "sections": [{ "term": "202510", "crn": "20633" }],
+    "description": "Surveys the development and range of black American writers, emphasizing poetry and prose from early colonial times to the Civil War. ENGL 2296 and AFM 2296 are cross-listed.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
+  },
+  {
+    "subject": "AFCS",
+    "number": "2325",
+    "title": "Black Feminist Studies",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202510", "crn": "20634" }],
+    "description": "Invites students to study the history and contemporary landscape of Black feminist scholarship. Covers a range of disciplines and historical periods to introduce students to important texts and theoretical developments in this vast and interdisciplinary field.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
+  },
+  {
+    "subject": "AFCS",
     "number": "2330",
     "title": "Afro-Latin American Studies",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202410", "crn": "20472" }],
+    "sections": [
+      { "term": "202410", "crn": "20472" },
+      { "term": "202510", "crn": "17912" }
+    ],
     "description": "Introduces the history of Afro-Latin America and of Black identities particular to this region. Frameworks such as transnational migration and diaspora provide an entry to the specific histories of African-descended people in the countries in the region known as Latin America and contemporary interpretations and revisions of that history. Covers topics including the history of slavery in the Americas; the Haitian Revolution; debates about \"racial democracy\"; and the relationship between gender, race, and empire. Explores the relationship between scholarship and struggle, social analysis, and social transformation.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "AFCS",
+    "number": "2355",
+    "title": "Race, Identity, Social Change, and Empowerment",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD"],
+    "sections": [{ "term": "202510", "crn": "21506" }],
+    "description": "Examines racism, racial identity, and theories of social change and racial empowerment primarily within the U.S. context. Highlights different ways in which racism and racial privilege have been experienced by different racial communities, more specifically at the micro-, meso-, and macro-levels. Offers students an opportunity to learn ways to promote racial empowerment and equity. Using theory from primarily psychology and sociology, the course investigates the impact of social systems and institutions on individual-level and group experiences of racism. Investigates students’ own racial identities, a deeper understanding of institutional inequalities and intersectionality, and practical skills in leadership and community building that can promote positive social change and racial equality.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
   },
   {
     "subject": "AFCS",
@@ -30,7 +133,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD"],
-    "sections": [],
+    "sections": [{ "term": "202510", "crn": "20636" }],
     "description": "Focuses on how the Black family functions, both interpersonally and as a social unit within a carceral state. Introduces the diverse institutional, cultural, and historical issues relating to past and present circumstances from the effects of slavery and colonization on the Black family structure. Explores policies and practices within carceral institutions dealing with childhood, motherhood, and fatherhood. Assesses the social and psychological harms of incarceration on Black children and their families.",
     "coreqs": [],
     "prereqs": [

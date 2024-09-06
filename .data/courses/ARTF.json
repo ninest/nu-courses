@@ -11,7 +11,8 @@
       { "term": "202410", "crn": "15184" },
       { "term": "202330", "crn": "31690" },
       { "term": "202310", "crn": "13717" },
-      { "term": "202310", "crn": "16428" }
+      { "term": "202310", "crn": "16428" },
+      { "term": "202510", "crn": "22043" }
     ],
     "description": "Introduces students to the intellectual and extracurricular opportunities within the Department of Art + Design and the College of Arts, Media and Design. Exposes students to the cultural vibrancy of Boston with the goal of building networks that facilitate a supportive learning community. Familiarizes students with their major and introduces them to the resources at the university and across the city to help them succeed academically. Provides grounding in the culture and values of the university community and seeks to help students develop interpersonal skills.",
     "coreqs": [],
@@ -206,7 +207,7 @@
     ],
     "description": "Introduces skills and software, such as Adobe Photoshop and Illustrator, used in creating and manipulating pixel- and vector-based images, in a technology workshop format.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "ARTF", "number": "1122" }]
   },
   {
     "subject": "ARTF",
@@ -281,6 +282,196 @@
     ],
     "description": "Introduces skills and software used in creating 3D forms with the computer. Explores basics of 3D modeling, surfacing, lighting, and rendering in this technology workshop.",
     "coreqs": [{ "subject": "ARTF", "number": "1124" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTF",
+    "number": "1200",
+    "title": "Representational Drawing",
+    "scheduleType": "Studio",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "21334" },
+      { "term": "202510", "crn": "21335" },
+      { "term": "202510", "crn": "21336" },
+      { "term": "202510", "crn": "21337" },
+      { "term": "202510", "crn": "21338" },
+      { "term": "202510", "crn": "21871" },
+      { "term": "202510", "crn": "21872" }
+    ],
+    "description": "Introduces the fundamental tools and techniques of representational drawing as a means of rendering 3D objects and spaces in the physical environment onto a 2D surface. Structured exercises offer students an opportunity to practice the act of seeing and drawing utilizing the techniques of positive and negative space, formal one- and two-point perspective, observed perspective, organizational lines, sighting, and value.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTF",
+    "number": "1210",
+    "title": "Abstract Drawing",
+    "scheduleType": "Studio",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "21345" },
+      { "term": "202510", "crn": "21341" },
+      { "term": "202510", "crn": "21346" }
+    ],
+    "description": "Introduces the fundamental tools and techniques of conceptual drawing to represent abstract concepts and information. Applies contemporary art and design practices to explore physical mark making and to better understand the relationship between form and content.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTF",
+    "number": "1220",
+    "title": "Elements of Visual Composition",
+    "scheduleType": "Studio",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "21370" },
+      { "term": "202510", "crn": "21371" },
+      { "term": "202510", "crn": "21384" },
+      { "term": "202510", "crn": "21385" },
+      { "term": "202510", "crn": "21347" },
+      { "term": "202510", "crn": "21348" },
+      { "term": "202510", "crn": "21359" },
+      { "term": "202510", "crn": "21360" },
+      { "term": "202510", "crn": "21361" },
+      { "term": "202510", "crn": "21873" },
+      { "term": "202510", "crn": "21874" },
+      { "term": "202510", "crn": "21875" }
+    ],
+    "description": "Introduces the fundamental principles and materials of 2D art and design. Emphasizes visual concepts of balance, rhythm, pattern, emphasis, contrast, unity, movement, line, shape/form, space, value, color, and texture. Studio experimentation offers students an opportunity to practice composition and color theory as it applies to 2D art and design.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTF",
+    "number": "1221",
+    "title": "Elements of Visual Composition Tools",
+    "scheduleType": "Lab",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "21375" },
+      { "term": "202510", "crn": "21376" },
+      { "term": "202510", "crn": "21377" },
+      { "term": "202510", "crn": "21378" }
+    ],
+    "description": "Introduces 2D art and design software including Adobe Photoshop, Adobe Illustrator, and Adobe InDesign.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "ARTF", "number": "1220" }]
+  },
+  {
+    "subject": "ARTF",
+    "number": "1230",
+    "title": "Making with Form and Materials",
+    "scheduleType": "Studio",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "21349" },
+      { "term": "202510", "crn": "21350" },
+      { "term": "202510", "crn": "21351" },
+      { "term": "202510", "crn": "21352" },
+      { "term": "202510", "crn": "21353" },
+      { "term": "202510", "crn": "21354" },
+      { "term": "202510", "crn": "21876" },
+      { "term": "202510", "crn": "21877" }
+    ],
+    "description": "Introduces concepts, processes, and studio practice in 3D making. Examines the elements and principles of 3D making, including mass, volume, line, plane, and texture. Hands-on experimentation offers students an opportunity to develop skills to define 3D form, express ideas through it, and solve visual problems. Students experiment with additive, subtractive, and substitutive material processes while leveraging both traditional craft techniques and digital fabrication. Focuses on developing a practical understanding of the relationship between material, form, function, aesthetic and context, and a vocabulary to successfully articulate concepts and insights during discussions and critiques.",
+    "coreqs": [{ "subject": "ARTF", "number": "1231" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTF",
+    "number": "1231",
+    "title": "Making with Form and Materials Tools",
+    "scheduleType": "Lab",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "21355" },
+      { "term": "202510", "crn": "21356" },
+      { "term": "202510", "crn": "21357" },
+      { "term": "202510", "crn": "21358" },
+      { "term": "202510", "crn": "21362" },
+      { "term": "202510", "crn": "21363" }
+    ],
+    "description": "Introduces a range of tools and industry-standard software for creating 3D forms and making. Offers students an opportunity to learn about file setup and safe operation of basic wood shop tools, CNC laser cutters, and 3D printers. Focuses on the unique affordance of each tool to enable students to creatively experiment with these processes. Covers the basics of 3D modeling and vector drawing and making.",
+    "coreqs": [{ "subject": "ARTF", "number": "1230" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTF",
+    "number": "1240",
+    "title": "Making with Video, Sound, and Animation",
+    "scheduleType": "Studio",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "21364" },
+      { "term": "202510", "crn": "21365" },
+      { "term": "202510", "crn": "21379" },
+      { "term": "202510", "crn": "21382" },
+      { "term": "202510", "crn": "21380" },
+      { "term": "202510", "crn": "21366" },
+      { "term": "202510", "crn": "21367" }
+    ],
+    "description": "Introduces the fundamental tools and techniques of lens-based and time-based art and design principles and materials. Applies visual principles of movement, point of view, time, repetition, sequencing, sound, and space to create video and film compositions.",
+    "coreqs": [{ "subject": "ARTF", "number": "1241" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTF",
+    "number": "1241",
+    "title": "Making with Video, Sound, and Animation Tools",
+    "scheduleType": "Lab",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "21403" },
+      { "term": "202510", "crn": "21402" },
+      { "term": "202510", "crn": "21401" }
+    ],
+    "description": "Focuses on developing an understanding of, and dexterity with, movement- and time-based media and software—including After Effects—to create motion graphics, short animations, video, and montage-style films.",
+    "coreqs": [{ "subject": "ARTF", "number": "1240" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTF",
+    "number": "1250",
+    "title": "Designing Interactive Experiences",
+    "scheduleType": "Studio",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "21408" },
+      { "term": "202510", "crn": "21410" },
+      { "term": "202510", "crn": "21645" },
+      { "term": "202510", "crn": "21646" },
+      { "term": "202510", "crn": "21411" },
+      { "term": "202510", "crn": "21412" },
+      { "term": "202510", "crn": "21409" }
+    ],
+    "description": "Introduces the language, concepts, and processes of interactive experience as a compelling medium to communicate meaning. Examines how variables within the environment can change how we inhabit an experience physically, conceptually, and emotionally and affect or provoke responses. Hands-on experimentation offers students an opportunity to learn using one or more forms of rapid prototyping. Studies historical and contemporary examples of art and design projects designed as exchanges or experiences. Incorporates visual and nonvisual mapping techniques as a means to understand the present.",
+    "coreqs": [{ "subject": "ARTF", "number": "1251" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ARTF",
+    "number": "1251",
+    "title": "Designing Interactive Experiences Tools",
+    "scheduleType": "Lab",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "21404" },
+      { "term": "202510", "crn": "21405" },
+      { "term": "202510", "crn": "21406" }
+    ],
+    "description": "Introduces wireframing and industry-standard tools and software for creating basic web-based content using HTML and CSS. Offers students an opportunity to create a portfolio website for showcasing projects created in ARTF 1250.",
+    "coreqs": [{ "subject": "ARTF", "number": "1250" }],
     "prereqs": []
   },
   {

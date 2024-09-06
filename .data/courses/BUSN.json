@@ -34,8 +34,6 @@
       { "term": "202410", "crn": "16044" },
       { "term": "202360", "crn": "60679" },
       { "term": "202340", "crn": "41352" },
-      { "term": "202330", "crn": "31011" },
-      { "term": "202330", "crn": "31012" },
       { "term": "202330", "crn": "31045" },
       { "term": "202330", "crn": "31046" },
       { "term": "202330", "crn": "31086" },
@@ -66,7 +64,22 @@
       { "term": "202310", "crn": "17550" },
       { "term": "202310", "crn": "18152" },
       { "term": "202260", "crn": "60910" },
-      { "term": "202240", "crn": "41715" }
+      { "term": "202240", "crn": "41715" },
+      { "term": "202510", "crn": "10225" },
+      { "term": "202510", "crn": "10224" },
+      { "term": "202510", "crn": "10223" },
+      { "term": "202510", "crn": "10222" },
+      { "term": "202510", "crn": "10221" },
+      { "term": "202510", "crn": "10220" },
+      { "term": "202510", "crn": "10022" },
+      { "term": "202510", "crn": "10021" },
+      { "term": "202510", "crn": "10027" },
+      { "term": "202510", "crn": "10078" },
+      { "term": "202510", "crn": "10926" },
+      { "term": "202510", "crn": "10927" },
+      { "term": "202510", "crn": "14800" },
+      { "term": "202510", "crn": "15033" },
+      { "term": "202440", "crn": "40971" }
     ],
     "description": "Blends theoretical principles with real-life application. Introduces the fundamentals of launching, growing, and managing a business venture in today’s dynamic and increasingly global environment. Examines concepts within multiple academic disciplines and from multiple perspectives—including marketing, technology, finance, accounting, information systems, people, and culture—and then applies them to new ventures within varied types of organizations. Offers students an opportunity to develop an entrepreneurial skill set and mind-set through the development of the critical thinking, innovative decision making, problem solving, and team building needed for any business, large or small.",
     "coreqs": [],
@@ -144,7 +157,26 @@
       { "term": "202310", "crn": "19851" },
       { "term": "202310", "crn": "19852" },
       { "term": "202310", "crn": "20983" },
-      { "term": "202310", "crn": "20984" }
+      { "term": "202310", "crn": "20984" },
+      { "term": "202510", "crn": "11093" },
+      { "term": "202510", "crn": "11094" },
+      { "term": "202510", "crn": "11095" },
+      { "term": "202510", "crn": "11096" },
+      { "term": "202510", "crn": "11097" },
+      { "term": "202510", "crn": "14706" },
+      { "term": "202510", "crn": "14612" },
+      { "term": "202510", "crn": "14707" },
+      { "term": "202510", "crn": "14708" },
+      { "term": "202510", "crn": "14818" },
+      { "term": "202510", "crn": "14819" },
+      { "term": "202510", "crn": "15777" },
+      { "term": "202510", "crn": "15778" },
+      { "term": "202510", "crn": "15779" },
+      { "term": "202510", "crn": "15780" },
+      { "term": "202510", "crn": "15781" },
+      { "term": "202510", "crn": "15782" },
+      { "term": "202510", "crn": "16403" },
+      { "term": "202510", "crn": "19086" }
     ],
     "description": "Offers first-year students in the D'Amore-McKim School of Business (DMSB) an opportunity to achieve a better understanding of themselves as students and as future professionals. Explores self-analysis, leadership traits and styles, diversity and cultural awareness, professionalism, emotional intelligence, and ethics. Encourages students to draw connections among classroom education, extracurricular activities, and practical experiences and to identify how each component fits into the pursuit of their individual goals.",
     "coreqs": [],
@@ -217,7 +249,25 @@
       { "term": "202310", "crn": "19299" },
       { "term": "202310", "crn": "19300" },
       { "term": "202310", "crn": "19302" },
-      { "term": "202310", "crn": "19304" }
+      { "term": "202310", "crn": "19304" },
+      { "term": "202510", "crn": "13676" },
+      { "term": "202510", "crn": "13678" },
+      { "term": "202510", "crn": "13679" },
+      { "term": "202510", "crn": "13684" },
+      { "term": "202510", "crn": "13685" },
+      { "term": "202510", "crn": "13677" },
+      { "term": "202510", "crn": "13746" },
+      { "term": "202510", "crn": "13747" },
+      { "term": "202510", "crn": "14466" },
+      { "term": "202510", "crn": "15505" },
+      { "term": "202510", "crn": "15506" },
+      { "term": "202510", "crn": "15510" },
+      { "term": "202510", "crn": "15512" },
+      { "term": "202510", "crn": "17853" },
+      { "term": "202510", "crn": "20692" },
+      { "term": "202510", "crn": "20693" },
+      { "term": "202510", "crn": "20694" },
+      { "term": "202510", "crn": "20695" }
     ],
     "description": "Enrollment in this section is limited to D'Amore-McKim students with concentrations in ACCOUNTING.",
     "coreqs": [],
@@ -232,11 +282,30 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13528" },
-      { "term": "202310", "crn": "14013" }
+      { "term": "202310", "crn": "14013" },
+      { "term": "202510", "crn": "13118" }
     ],
     "description": "Seeks to provide students with a framework and the fundamentals that allow them to understand the field of consulting in addition to a way of thinking for jobs in the consulting and other highly competitive careers. Focuses on the analysis of complex business situations using caselets and cases and provides frameworks as the basis for analysis and critical thinking in pressure situations. In addition, various articles, white papers, business case studies, and other consulting practices are shared with the students enrolled in the course as well as professionals with industry experience providing insights as visiting guest speakers.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "BUSN",
+    "number": "3501",
+    "title": "Impact of AI on Business",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["ND"],
+    "sections": [{ "term": "202510", "crn": "21822" }],
+    "description": "Examines the impact of artificial intelligence on the core pillars of business—finance, sales, marketing, operations, engineering, and entrepreneurship. Offers students an opportunity to obtain a holistic understanding of how AI is reshaping these critical business domains and fostering the next wave of innovation. Discusses new business models, changes in go-to-market strategies for businesses, and the impact of AI-driven predictive analytics on finance. Explores new business possibilities enabled by AI and new approaches for using AI to complete traditional business activities.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "FINA", "number": "2201" },
+      "Or",
+      { "subject": "INNO", "number": "2301" },
+      "Or",
+      { "subject": "MKTG", "number": "2201" }
+    ]
   },
   {
     "subject": "BUSN",
@@ -247,6 +316,18 @@
     "nuPath": [],
     "sections": [{ "term": "202330", "crn": "39704" }],
     "description": "This course will familiarize students with financial literacy, and financial literacy leadership to address social wealth-building capital inequity.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BUSN",
+    "number": "5964",
+    "title": "Projects for Professionals",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21823" }],
+    "description": "Offers students an applied project setting in which to apply their curricular learning. Working with a sponsor, students refine an applied research topic, perform research, develop recommendations that are shared with a partner sponsor, and create a plan for implementing their recommendations. Seeks to benefit students with a curriculum that supports the development of key business communication skills, project and client management skills, and frameworks for business analysis. Offers students an opportunity to learn from sponsor feedback, review 'lessons learned,' and incorporate suggestions from this review to improve and further develop their career development and professional plan.",
     "coreqs": [],
     "prereqs": []
   },
@@ -288,7 +369,12 @@
       { "term": "202310", "crn": "18136" },
       { "term": "202310", "crn": "18165" },
       { "term": "202310", "crn": "21705" },
-      { "term": "202310", "crn": "11126" }
+      { "term": "202310", "crn": "11126" },
+      { "term": "202510", "crn": "11531" },
+      { "term": "202510", "crn": "14159" },
+      { "term": "202510", "crn": "15026" },
+      { "term": "202510", "crn": "15040" },
+      { "term": "202510", "crn": "10930" }
     ],
     "description": "Required for the Co-op MBA program. Begins with an introduction to the career planning process and to the services of the MBA Career Center. Topics include résumé writing, videotaped practice interviewing, job search strategies, interview preparation, salary negotiation, marketing communication, and visa issues for international students seeking employment in the United States. May include additional topics depending on student interest. Requires admission to co-op MBA program. May be repeated once.",
     "coreqs": [],
@@ -320,17 +406,6 @@
   },
   {
     "subject": "BUSN",
-    "number": "6298",
-    "title": "Supply Chain Impact on Reaching Net Zero",
-    "scheduleType": "Lecture",
-    "credits": 1,
-    "nuPath": [],
-    "sections": [],
-    "description": "Unable to find description.",
-    "coreqs": []
-  },
-  {
-    "subject": "BUSN",
     "number": "6299",
     "title": "Building Profitable and Sustainable Online Experiences",
     "scheduleType": "Lecture",
@@ -348,7 +423,10 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "21086" }],
+    "sections": [
+      { "term": "202310", "crn": "21086" },
+      { "term": "202510", "crn": "21840" }
+    ],
     "description": "Presents the concepts of correlation and simple linear regression analysis as well as multiple regression analysis. Offers students an opportunity to build multiple regression models and use them in forecasting and analyzing data. Exposes students to nonlinear regression models, reading and analyzing output tables, and using statistical software tools.",
     "coreqs": [],
     "prereqs": []
@@ -394,7 +472,10 @@
       { "term": "202330", "crn": "33465" },
       { "term": "202310", "crn": "21816" },
       { "term": "202310", "crn": "21817" },
-      { "term": "202310", "crn": "21818" }
+      { "term": "202310", "crn": "21818" },
+      { "term": "202510", "crn": "16904" },
+      { "term": "202510", "crn": "16905" },
+      { "term": "202510", "crn": "16906" }
     ],
     "description": "Consists of various experiential learning opportunities that are approved by the faculty of the D'Amore-McKim School of Business for full-time MBA students.",
     "coreqs": [],
@@ -411,7 +492,9 @@
       { "term": "202410", "crn": "13324" },
       { "term": "202410", "crn": "13325" },
       { "term": "202310", "crn": "13777" },
-      { "term": "202310", "crn": "13778" }
+      { "term": "202310", "crn": "13778" },
+      { "term": "202510", "crn": "12938" },
+      { "term": "202510", "crn": "12939" }
     ],
     "description": "Explores how business practices affect society and how society affects business practices. Addresses topics such as social impact investing, sustainable supply chains, corporate social responsibility, social entrepreneurship, and global perspectives on corporate citizenship. Business and society have never been more intertwined. Executives are increasingly called upon to consider the larger societal impacts of their decisions and at the same time find themselves subject to demands from multiple societal stakeholders that include customers, suppliers, employees, governments, and interest groups, among others.",
     "coreqs": [],
@@ -443,7 +526,10 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38110" }],
+    "sections": [
+      { "term": "202330", "crn": "38110" },
+      { "term": "202510", "crn": "21841" }
+    ],
     "description": "Introduces key concepts in strategic corporate governance. Offers students an opportunity to use these concepts to understand the different economic, social, and political contexts across advanced industrial and emerging economies. Describes key aspects of corporate governance systems in a number of different countries and analyzes the strengths and weaknesses of these systems in comparison. Examines the importance of social and political factors in shaping different models of firm organization across countries and how new governance practices and institutional norms develop in response to changes in the real world of business management.",
     "coreqs": [],
     "prereqs": []
@@ -512,7 +598,10 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "21349" }],
+    "sections": [
+      { "term": "202410", "crn": "21349" },
+      { "term": "202510", "crn": "21856" }
+    ],
     "description": "Examines the development, growth strategies, and stewardship of entrepreneurial ecosystems and “startup communities.” Defines and measures ecosystems. Studies the ways that governments, corporations, and community groups attempt to shape ecosystem development. Surveys leading authorities in the field and looks at real-world examples of success and partial success from several different perspectives.",
     "coreqs": [],
     "prereqs": []
@@ -562,7 +651,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "22249" },
-      { "term": "202340", "crn": "41897" }
+      { "term": "202340", "crn": "41897" },
+      { "term": "202510", "crn": "21844" }
     ],
     "description": "Examines the application of strategy frameworks and practices for crafting individual professional strategies. Applies concepts of mindfulness and strategic thinking to formulate strategic actions to create a pathway toward personal vision within a professional world. Offers students an opportunity to define and identify their personal vision, match their vision to external and internal environments, and formulate their personal strategy for a market entry.",
     "coreqs": [],
@@ -577,6 +667,18 @@
     "nuPath": [],
     "sections": [{ "term": "202430", "crn": "41049" }],
     "description": "Explores the complex challenges of becoming leaders and managing people. Studies 10 essential smart (not soft) skills that are vital for personal and professional development. Fosters insight in how to develop and apply these skills in various aspects of life, how to self-correct, and how to help others adjust their behaviors to become better professionals.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "BUSN",
+    "number": "6390",
+    "title": "Overview of Blockchain, Cryptocurrencies, NFTs, and Decentralized Finance",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202440", "crn": "42104" }],
+    "description": "Presents an overview of blockchain technology; cryptocurrencies; nonfungible tokens; and decentralized finance, or DeFi. Explores the fundamentals of blockchain technology including its history, underlying principles, and use cases. Covers various cryptocurrencies, such as bitcoin and ethereum, and their functions, such as digital transactions, smart contracts, and tokenization. Delves into the world of NFTs including their creation, ownership, and marketplaces. Concludes with an overview of DeFi and its impact on traditional finance, lending and borrowing, and decentralized exchanges.",
     "coreqs": [],
     "prereqs": []
   },
@@ -608,7 +710,8 @@
       { "term": "202410", "crn": "11694" },
       { "term": "202350", "crn": "50800" },
       { "term": "202330", "crn": "31125" },
-      { "term": "202310", "crn": "11907" }
+      { "term": "202310", "crn": "11907" },
+      { "term": "202510", "crn": "11553" }
     ],
     "description": "Offers a weeklong educational residency in Washington, D.C., where students meet with members of Congress, current and former executive branch officials, senior civil servants, business executives, lobbyists, representatives of the media, and special-interest groups. Offers students an opportunity to understand how Washington works, how legislative and regulatory changes impact their business futures, and what new business opportunities may evolve as the result of federal policy priorities and decisions. The residency seeks to offer unparalleled insight into the process of government, with the goal of enabling top business leaders to contribute ethically and effectively to the policy debate, influence policy outcomes, and leverage their understanding of policy trends to developing new business opportunities.",
     "coreqs": [],
@@ -623,7 +726,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11220" },
-      { "term": "202310", "crn": "11376" }
+      { "term": "202310", "crn": "11376" },
+      { "term": "202510", "crn": "11112" }
     ],
     "description": "Continues the full-time MBA orientation program. Offers students an opportunity to develop the management skills necessary to become effective managers, including communication skills, qualitative and quantitative business analysis, and ethics and values.",
     "coreqs": [],
@@ -648,7 +752,9 @@
       { "term": "202310", "crn": "17060" },
       { "term": "202310", "crn": "18593" },
       { "term": "202260", "crn": "60994" },
-      { "term": "202240", "crn": "41297" }
+      { "term": "202240", "crn": "41297" },
+      { "term": "202510", "crn": "14663" },
+      { "term": "202510", "crn": "15161" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
@@ -667,7 +773,9 @@
       { "term": "202410", "crn": "19369" },
       { "term": "202330", "crn": "37064" },
       { "term": "202330", "crn": "37967" },
-      { "term": "202310", "crn": "21823" }
+      { "term": "202310", "crn": "21823" },
+      { "term": "202510", "crn": "16909" },
+      { "term": "202510", "crn": "22801" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated up to five times.",
     "coreqs": [],

@@ -11,7 +11,9 @@
       { "term": "202410", "crn": "13006" },
       { "term": "202410", "crn": "13899" },
       { "term": "202310", "crn": "11133" },
-      { "term": "202310", "crn": "13393" }
+      { "term": "202310", "crn": "13393" },
+      { "term": "202510", "crn": "12664" },
+      { "term": "202510", "crn": "13438" }
     ],
     "description": "Introduces cadets to the Army and the Profession of Arms. Examines the Army profession and what it means to be a professional in the U.S. Army. Offers students an opportunity to develop basic knowledge and comprehension of the Army Leadership Requirements Model while gaining a complete understanding of the Reserve Officers' Training Corps (ROTC) program, its purpose in the Army, and its advantages for the student. Cadets also have an opportunity to learn how resiliency and fitness support their development as an Army leader. Includes a leadership laboratory where cadets conduct practical applications of their military science curriculum.",
     "coreqs": [],
@@ -37,18 +39,6 @@
   },
   {
     "subject": "ARMY",
-    "number": "1112",
-    "title": "Introduction to the Profession of Arms Lab",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "nuPath": [],
-    "sections": [],
-    "description": "Accompanies ARMY 1102. Introduces basic soldier skills and introduces squad-level tactical operations in Leadership Lab. Students also participate in physical fitness training three days per week.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "ARMY",
     "number": "2201",
     "title": "Leadership and Decision Making",
     "scheduleType": "Lecture",
@@ -57,7 +47,8 @@
     "sections": [
       { "term": "202410", "crn": "13008" },
       { "term": "202410", "crn": "19967" },
-      { "term": "202310", "crn": "13400" }
+      { "term": "202310", "crn": "13400" },
+      { "term": "202510", "crn": "12666" }
     ],
     "description": "Focuses on leadership and decision making. Seeks to add depth to the cadets’ understanding of the Adaptability Army Learning Area. Outcomes are demonstrated through critical and creative thinking and the ability to apply troop leading procedures (TLP) to apply innovative solutions to problems. The Army profession is also stressed through leadership forums and a leadership self-assessment. Requires students to apply their knowledge outside the classroom in a hands-on performance-oriented environment during leadership labs and other field activities (team-building exercises, leadership development exercises).",
     "coreqs": [],
@@ -73,7 +64,9 @@
     "sections": [
       { "term": "202430", "crn": "35618" },
       { "term": "202360", "crn": "61307" },
-      { "term": "202330", "crn": "31504" }
+      { "term": "202330", "crn": "31504" },
+      { "term": "202460", "crn": "61820" },
+      { "term": "202440", "crn": "42329" }
     ],
     "description": "Focuses on Army doctrine and team development. Begins the journey to understand and demonstrate competencies as they relate to Army doctrine, Army values, teamwork, and warrior ethos. Stresses their relationship to the law of land warfare and philosophy of military service. Covers the ability to lead and follow through team-building exercises in small units up to squad level. Requires students to apply their knowledge outside the classroom in a hands-on performance-oriented environment during leadership labs and other field activities (team-building exercises, leadership development exercises).",
     "coreqs": [],
@@ -86,7 +79,7 @@
     "scheduleType": "Lab",
     "credits": 0,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202510", "crn": "11400" }],
     "description": "Accompanies ARMY 2202. Introduces basic soldier skills and squad-level tactical operations in leadership lab. Includes participation in physical fitness training.",
     "coreqs": [],
     "prereqs": []
@@ -101,7 +94,8 @@
     "sections": [
       { "term": "202430", "crn": "34368" },
       { "term": "202340", "crn": "42156" },
-      { "term": "202330", "crn": "35151" }
+      { "term": "202330", "crn": "35151" },
+      { "term": "202510", "crn": "10267" }
     ],
     "description": "Focuses on training management and the warfighting functions. Constitutes an academically challenging course where the cadet is required to study, practice, and apply the fundamentals of training management and how the Army operates through the warfighting functions. At the conclusion of this course, the successful cadet should be capable of planning, preparing, and executing training for a squad conducting small-unit tactics. Requires students to apply their knowledge and leadership competencies outside the classroom in a hands-on performance-oriented environment during leadership labs and other field activities (team-building exercises, leadership development exercises). Requires prior completion of ARMY 1101, ARMY 1102, ARMY 2201, and ARMY 2202 or equivalent military experience.",
     "coreqs": [],
@@ -121,24 +115,12 @@
   },
   {
     "subject": "ARMY",
-    "number": "3312",
-    "title": "Applied Leadership in Small Unit Operations Lab",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "nuPath": [],
-    "sections": [],
-    "description": "Accompanies ARMY 3302. Introduces basic soldier skills and introduces squad-level tactical operations in leadership lab. Includes participation in physical fitness training.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "ARMY",
     "number": "3513",
     "title": "American Military History Lab",
     "scheduleType": "Lab",
     "credits": 0,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202510", "crn": "11401" }],
     "description": "Offers a leadership lab introducing basic soldier skills and squad-level tactical operations.",
     "coreqs": [],
     "prereqs": []
@@ -153,7 +135,8 @@
     "sections": [
       { "term": "202440", "crn": "41477" },
       { "term": "202310", "crn": "12204" },
-      { "term": "202240", "crn": "41994" }
+      { "term": "202240", "crn": "41994" },
+      { "term": "202510", "crn": "11781" }
     ],
     "description": "Focuses on development of the Army officer. Constitutes an academically challenging course where the cadet has an opportunity to develop knowledge, skills, and abilities to plan resources and assess training at the small-unit level and to learn about Army programs that support counseling subordinates and evaluating performance, values, and ethics; career planning; and legal responsibilities. At the conclusion of this course, the successful cadet should be familiar with how to plan, prepare, execute, and continuously assess the conduct of training at the company or field-grade officer level. Requires students to apply and refine their leadership competencies as they develop and plan outside the classroom in hands-on performance-oriented environments during leadership labs and other field activities (team-building exercises, leadership development exercises).",
     "coreqs": [],
@@ -182,19 +165,7 @@
     "scheduleType": "Lab",
     "credits": 0,
     "nuPath": [],
-    "sections": [],
-    "description": "Introduces basic soldier skills and squad-level tactical operations in leadership lab. Includes participation in physical fitness training.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "ARMY",
-    "number": "4412",
-    "title": "Mission Command and the Company Grade Officer Lab",
-    "scheduleType": "Lab",
-    "credits": 0,
-    "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202510", "crn": "11402" }],
     "description": "Introduces basic soldier skills and squad-level tactical operations in leadership lab. Includes participation in physical fitness training.",
     "coreqs": [],
     "prereqs": []

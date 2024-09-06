@@ -14,7 +14,9 @@
       { "term": "202330", "crn": "31420" },
       { "term": "202330", "crn": "38735" },
       { "term": "202310", "crn": "11336" },
-      { "term": "202310", "crn": "20660" }
+      { "term": "202310", "crn": "20660" },
+      { "term": "202510", "crn": "11077" },
+      { "term": "202510", "crn": "16237" }
     ],
     "description": "Examines the role of law and society from a regulatory, constitutional, and judicial perspective, noting the role each of these has played in shaping the current legal framework in the United States. Introduces students to the relationship between law, societal organizations (both nongovernmental organizations and not-for-profit organizations), the private sector, and the separate branches of government (the judiciary, congressional, and executive branches). Provides students with the opportunity to learn to legally analyze judicial opinions,  prepare legal memoranda, and present an oral argument before a “judge.”",
     "coreqs": [],
@@ -36,7 +38,8 @@
       { "term": "202340", "crn": "41950" },
       { "term": "202330", "crn": "30176" },
       { "term": "202310", "crn": "10542" },
-      { "term": "202310", "crn": "21021" }
+      { "term": "202310", "crn": "21021" },
+      { "term": "202510", "crn": "20850" }
     ],
     "description": "Examines the relationship of society to its laws: how society creates changes in law or policy via societal pressure and social movements (such as the environmental, women's rights, and corporate accountability movements); how law and policy affect individual rights and behavior; whether a society needs laws in order to function; the relationship between some branches of our government in effectuating social change; and some of the fundamental differences between societies governed by seemingly similar but pragmatically different laws, such as the right to a jury trial.",
     "coreqs": [],
@@ -99,7 +102,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13500" },
-      { "term": "202310", "crn": "13984" }
+      { "term": "202310", "crn": "13984" },
+      { "term": "202510", "crn": "21658" }
     ],
     "description": "Examines key legal structures, court decisions, and social research to consider the ability of cities to make and implement public policies that directly affect the everyday lives of millions of people. American cities and their residents are frequently faced with similar legal and political questions. Topics include federalism, land-use planning and development, business regulation, gun control, school choice, public health, and climate adaptation initiatives.",
     "coreqs": [],
@@ -116,7 +120,9 @@
       { "term": "202430", "crn": "30565" },
       { "term": "202410", "crn": "14206" },
       { "term": "202330", "crn": "30585" },
-      { "term": "202310", "crn": "14847" }
+      { "term": "202310", "crn": "14847" },
+      { "term": "202510", "crn": "13700" },
+      { "term": "202510", "crn": "21790" }
     ],
     "description": "Provides a practical overview to crafting effective strategies for advancing public policy changes at the federal, state, and local level using a range of legislative, litigation, and other policy tools.  Uses a series of case studies on a wide range of policy topics to understand and evaluate how different policy strategies evolve in the interplay between branches and levels of government.  Takes an interbranch perspective on how policy is made and places particular emphasis on the role litigation and the courts play in policy making, an aspect of public policy formulation that is often downplayed or overlooked.",
     "coreqs": [],

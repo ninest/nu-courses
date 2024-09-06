@@ -18,7 +18,10 @@
       { "term": "202330", "crn": "37123" },
       { "term": "202310", "crn": "11134" },
       { "term": "202310", "crn": "14845" },
-      { "term": "202240", "crn": "41424" }
+      { "term": "202240", "crn": "41424" },
+      { "term": "202510", "crn": "10938" },
+      { "term": "202510", "crn": "13698" },
+      { "term": "202510", "crn": "18605" }
     ],
     "description": "Designed for students who have very little or no prior knowledge of Chinese. Provides a lively introduction to basic oral expression, listening comprehension, and elementary reading and writing. Each lesson incorporates helpful information about daily life in China and the varied cultures within the world of Chinese speakers. Laboratory practice complements class work, enables students to work aloud at their own speed, reinforces their acquisition of essential structures, and acquaints them with a vast library of audio-visual resources. Focuses on Mandarin Chinese; students who wish to speak another dialect of Chinese should consult instructor for proper placement.",
     "coreqs": [],
@@ -39,7 +42,8 @@
       { "term": "202330", "crn": "33287" },
       { "term": "202330", "crn": "38259" },
       { "term": "202310", "crn": "15983" },
-      { "term": "202310", "crn": "19817" }
+      { "term": "202310", "crn": "19817" },
+      { "term": "202510", "crn": "15758" }
     ],
     "description": "Continues CHNS 1101. Reviews and continues the study of grammar and basic language skills. Offers progressively more intensive practice in oral and written communication. Laboratory practice complements class work, enables students to work aloud at their own speed, reinforces their acquisition of essential structures, and acquaints them with a vast library of audio-visual resources.",
     "coreqs": [],
@@ -60,7 +64,8 @@
       { "term": "202430", "crn": "31005" },
       { "term": "202410", "crn": "10041" },
       { "term": "202330", "crn": "31080" },
-      { "term": "202310", "crn": "10044" }
+      { "term": "202310", "crn": "10044" },
+      { "term": "202510", "crn": "10039" }
     ],
     "description": "Seeks to consolidate the foundation built in elementary Chinese courses. Offers students an opportunity to develop higher oral proficiency, as well as reading and writing skills. Requires students to perform various tasks, such as describing, comparing, and narrating, in culturally appropriate ways.",
     "coreqs": [],
@@ -81,7 +86,8 @@
       { "term": "202430", "crn": "32552" },
       { "term": "202410", "crn": "11559" },
       { "term": "202330", "crn": "32867" },
-      { "term": "202310", "crn": "11753" }
+      { "term": "202310", "crn": "11753" },
+      { "term": "202510", "crn": "21188" }
     ],
     "description": "Emphasizes vocabulary building and mastery of fine points of grammar through written compositions, prepared oral reports, and reading and discussions of material from everyday life to situate language learning in authentic contexts.",
     "coreqs": [],
@@ -120,7 +126,8 @@
       { "term": "202430", "crn": "30016" },
       { "term": "202410", "crn": "12481" },
       { "term": "202330", "crn": "30018" },
-      { "term": "202310", "crn": "12793" }
+      { "term": "202310", "crn": "12793" },
+      { "term": "202510", "crn": "12216" }
     ],
     "description": "Stresses the fundamentals of Chinese to promote effective self-expression through speaking and writing and to explore the idiomatic aspects of the language. Through progressive class discussions and oral and written commentaries, students analyze a contemporary Chinese novel or a Chinese cultural reader, screenplay, or collection of short stories. The course strives, first, to help students read and comprehend modern Chinese writing with confidence and to be able to talk and write about it in good Chinese; and second, to provide preparation for advanced courses.",
     "coreqs": [],
@@ -141,7 +148,8 @@
       { "term": "202430", "crn": "32952" },
       { "term": "202410", "crn": "13722" },
       { "term": "202330", "crn": "33340" },
-      { "term": "202310", "crn": "14242" }
+      { "term": "202310", "crn": "14242" },
+      { "term": "202510", "crn": "13286" }
     ],
     "description": "Continues CHNS 3101. Designed to enhance and reinforce the practical language and communication skills that students employ when they are abroad. Offers students an opportunity to participate in service-learning experiences.",
     "coreqs": [],
@@ -177,7 +185,8 @@
     "nuPath": ["EX"],
     "sections": [
       { "term": "202430", "crn": "39639" },
-      { "term": "202330", "crn": "34750" }
+      { "term": "202330", "crn": "34750" },
+      { "term": "202510", "crn": "21432" }
     ],
     "description": "Focuses on a unique aspect of the Chinese language. The specific topics are chosen to reflect current developments in the language and expressed student interests. Topics focus on the use of the language for specific purposes or its use in specialized settings (e.g., media, business, health). Requires at least an advanced level of skill in the language. May be repeated up to four times.",
     "coreqs": [],
@@ -193,7 +202,8 @@
     "sections": [
       { "term": "202410", "crn": "22315" },
       { "term": "202330", "crn": "40709" },
-      { "term": "202310", "crn": "21529" }
+      { "term": "202310", "crn": "21529" },
+      { "term": "202510", "crn": "22991" }
     ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],

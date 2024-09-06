@@ -18,7 +18,10 @@
       { "term": "202330", "crn": "32423" },
       { "term": "202310", "crn": "10908" },
       { "term": "202310", "crn": "11752" },
-      { "term": "202310", "crn": "12319" }
+      { "term": "202310", "crn": "12319" },
+      { "term": "202510", "crn": "10753" },
+      { "term": "202510", "crn": "11426" },
+      { "term": "202510", "crn": "11865" }
     ],
     "description": "Introduces the materials science field, which emphasizes the structure-processing property-performance relationships for various classes of materials including metals, ceramics, polymers, electronic materials, and magnetic materials. Topics include crystallography, structure of solids, imperfections in crystals, mechanical properties, dislocation theory, slip, strengthening mechanisms, phase equilibrium, phase transformations, diffusion, thermal and optical physical properties, and electrical and magnetic properties. Issues associated with materials selection, including economic and environmental consequences of materials choices, are also addressed. Laboratory experiments, with written memo and report submissions, are required. Includes individual and team-based projects.",
     "coreqs": [{ "subject": "ME", "number": "2341" }],
@@ -88,7 +91,17 @@
       { "term": "202310", "crn": "15212" },
       { "term": "202310", "crn": "15320" },
       { "term": "202310", "crn": "15321" },
-      { "term": "202310", "crn": "15322" }
+      { "term": "202310", "crn": "15322" },
+      { "term": "202510", "crn": "10434" },
+      { "term": "202510", "crn": "10435" },
+      { "term": "202510", "crn": "10119" },
+      { "term": "202510", "crn": "10076" },
+      { "term": "202510", "crn": "11276" },
+      { "term": "202510", "crn": "11683" },
+      { "term": "202510", "crn": "13883" },
+      { "term": "202510", "crn": "13947" },
+      { "term": "202510", "crn": "13948" },
+      { "term": "202510", "crn": "18290" }
     ],
     "description": "Accompanies ME 2340. Covers topics from the course through various activities.",
     "coreqs": [{ "subject": "ME", "number": "2340" }],
@@ -120,7 +133,11 @@
       { "term": "202310", "crn": "13369" },
       { "term": "202310", "crn": "20301" },
       { "term": "202240", "crn": "40247" },
-      { "term": "202240", "crn": "40744" }
+      { "term": "202240", "crn": "40744" },
+      { "term": "202510", "crn": "11834" },
+      { "term": "202510", "crn": "10311" },
+      { "term": "202510", "crn": "12646" },
+      { "term": "202510", "crn": "16004" }
     ],
     "description": "Introduces the vector representation of force and moment, the equivalent force systems, free body diagrams, and equations of equilibrium. Discusses centroids and center of gravity of rigid bodies. Examines applications to beams, trusses, and pin-connected frames and elementary concepts of friction. Discusses variation of internal forces and moments for beams and cable systems. Theory of dry friction is implemented in simple machine elements. Introduces the concepts of virtual work and potential energy. Includes a design project that demonstrates the fundamental concepts of equilibrium.",
     "coreqs": [],
@@ -158,7 +175,11 @@
       { "term": "202310", "crn": "10348" },
       { "term": "202310", "crn": "11113" },
       { "term": "202310", "crn": "12273" },
-      { "term": "202310", "crn": "15197" }
+      { "term": "202310", "crn": "15197" },
+      { "term": "202510", "crn": "10310" },
+      { "term": "202510", "crn": "10920" },
+      { "term": "202510", "crn": "11835" },
+      { "term": "202510", "crn": "13873" }
     ],
     "description": "Discusses concepts of stress and strain; transformation of stress and strain at a point; stress-strain relations material properties; second moments of cross-sectional areas; stresses and deformations in simple structural members due to axial torsional, and flexural loading for statically determinate and indeterminate cases; design of beams under combined loading; and stability of structures and buckling of columns with various supports. Laboratory experiments and written reports are required.",
     "coreqs": [{ "subject": "ME", "number": "2356" }],
@@ -216,7 +237,20 @@
       { "term": "202310", "crn": "15199" },
       { "term": "202310", "crn": "15200" },
       { "term": "202310", "crn": "15323" },
-      { "term": "202310", "crn": "15324" }
+      { "term": "202310", "crn": "15324" },
+      { "term": "202510", "crn": "10307" },
+      { "term": "202510", "crn": "10118" },
+      { "term": "202510", "crn": "10075" },
+      { "term": "202510", "crn": "10921" },
+      { "term": "202510", "crn": "11137" },
+      { "term": "202510", "crn": "11889" },
+      { "term": "202510", "crn": "12495" },
+      { "term": "202510", "crn": "13874" },
+      { "term": "202510", "crn": "13875" },
+      { "term": "202510", "crn": "13876" },
+      { "term": "202510", "crn": "13950" },
+      { "term": "202510", "crn": "13951" },
+      { "term": "202510", "crn": "21722" }
     ],
     "description": "Accompanies ME 2355. Covers topics from the course through various activities.",
     "coreqs": [{ "subject": "ME", "number": "2355" }],
@@ -249,7 +283,11 @@
       { "term": "202310", "crn": "14221" },
       { "term": "202310", "crn": "13180" },
       { "term": "202260", "crn": "60818" },
-      { "term": "202240", "crn": "40411" }
+      { "term": "202240", "crn": "40411" },
+      { "term": "202510", "crn": "10077" },
+      { "term": "202510", "crn": "11876" },
+      { "term": "202510", "crn": "13269" },
+      { "term": "202510", "crn": "12500" }
     ],
     "description": "Defines and calculates thermodynamic properties such as energy, entropy, temperature, and pressure. Work and heat interactions are defined. The first and second laws of thermodynamics and concepts of thermodynamic equilibrium are introduced. Conservation of energy and mass and the entropy balance relation are discussed for open and closed systems. Irreversibility, energy, and the energy balance relation are introduced and applied in analyzing thermodynamic systems. Fundamentals of thermodynamics are used to model power generation and refrigeration systems. Covers thermodynamics of nonreacting gas mixtures with applications to air-water vapor mixtures for air-conditioning systems.",
     "coreqs": [{ "subject": "ME", "number": "2381" }],
@@ -280,7 +318,8 @@
       { "term": "202330", "crn": "34397" },
       { "term": "202310", "crn": "15233" },
       { "term": "202260", "crn": "60924" },
-      { "term": "202240", "crn": "41103" }
+      { "term": "202240", "crn": "41103" },
+      { "term": "202510", "crn": "13892" }
     ],
     "description": "Accompanies ME 2380. Offers demonstrations and and opportunities for problem solving.",
     "coreqs": [{ "subject": "ME", "number": "2380" }],
@@ -305,7 +344,10 @@
       { "term": "202330", "crn": "31395" },
       { "term": "202310", "crn": "11115" },
       { "term": "202310", "crn": "10243" },
-      { "term": "202310", "crn": "12274" }
+      { "term": "202310", "crn": "12274" },
+      { "term": "202510", "crn": "10922" },
+      { "term": "202510", "crn": "10217" },
+      { "term": "202510", "crn": "11836" }
     ],
     "description": "Treats the kinematics and kinetics of particles by using force, mass and acceleration, and energy and momentum methods. Investigates kinematics of rigid bodies in general plane motion. Introduces mass moment of inertia; kinetics of rigid bodies by using force-mass-acceleration, work and energy, and impulse and momentum methods; and free and forced vibration of undamped and damped one-degree-of-freedom systems.",
     "coreqs": [{ "subject": "ME", "number": "3456" }],
@@ -358,13 +400,21 @@
       { "term": "202310", "crn": "10928" },
       { "term": "202310", "crn": "10042" },
       { "term": "202310", "crn": "10019" },
-      { "term": "202310", "crn": "10004" },
       { "term": "202310", "crn": "10014" },
       { "term": "202310", "crn": "10077" },
       { "term": "202310", "crn": "11410" },
       { "term": "202310", "crn": "12355" },
       { "term": "202310", "crn": "13620" },
-      { "term": "202310", "crn": "19108" }
+      { "term": "202310", "crn": "19108" },
+      { "term": "202510", "crn": "10772" },
+      { "term": "202510", "crn": "10038" },
+      { "term": "202510", "crn": "10016" },
+      { "term": "202510", "crn": "10003" },
+      { "term": "202510", "crn": "10011" },
+      { "term": "202510", "crn": "10070" },
+      { "term": "202510", "crn": "11891" },
+      { "term": "202510", "crn": "12821" },
+      { "term": "202510", "crn": "15409" }
     ],
     "description": "Accompanies ME 3455. Covers topics from the course through various activities.",
     "coreqs": [{ "subject": "ME", "number": "3455" }],
@@ -384,7 +434,13 @@
     ],
     "description": "Covers fundamental components and mechanisms of robotic systems and their multidisciplinary nature. Introduces the robot’s kinematics, dynamics, and control. Presents a quick overview of forward and inverse kinematics, robot dynamics, as well as path planning and control techniques. Topics also include dynamic modeling and analysis of mechanically, electrically, and magnetically driven hydraulic and pneumatic drives; kinematics and motion analysis of linkages; as well as sensing technologies (e.g., position, linear and angular displacements, velocity and acceleration, force and torque sensors) used in robotic systems. Presents kinematics and control of automatic machinery and manufacturing processes, automatic assembly, and inspection robotic systems as representative examples.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "CS", "number": "3650" },
+      "Or",
+      { "subject": "MATH", "number": "2331" },
+      "Or",
+      { "subject": "MATH", "number": "2341" }
+    ]
   },
   {
     "subject": "ME",
@@ -399,7 +455,8 @@
       { "term": "202360", "crn": "61408" },
       { "term": "202340", "crn": "41234" },
       { "term": "202330", "crn": "38700" },
-      { "term": "202240", "crn": "41594" }
+      { "term": "202240", "crn": "41594" },
+      { "term": "202510", "crn": "18137" }
     ],
     "description": "This course takes place in Seattle during Summer 1 2022 term. There is an additional cost of $3,300 associated with this course that includes housing, meal plan, and program fee, that will be posted to your student account at the time of registration. Students must register for the program through the application page and pay a $100 deposit.\nFee: $3,300 ($100 deposit done separately through program form).",
     "coreqs": [],
@@ -431,7 +488,7 @@
     ],
     "description": "Introduces basics for the analysis and design of aircraft engines and reviews the history of gas turbine engines. Introduces general conservation laws of mass, energy, and momentum for compressible flows and application to quasi-one-dimensional internal flows and shock waves in external flows. Reviews thrust and thermodynamic performance of the engines. Discusses designing parameters of the inlets in detail. Uses the principles of chemical equilibrium to calculate the composition of combustion products in a chemical reaction to find flame temperature and energy release, which drive the design of combustors and afterburners. Introduces physics and aerodynamics of compressors and turbines, and reviews basics of gas turbine blades cooling.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "ME", "number": "2380" }]
   },
   {
     "subject": "ME",
@@ -464,11 +521,17 @@
       { "term": "202260", "crn": "60184" },
       { "term": "202240", "crn": "40040" },
       { "term": "202240", "crn": "40106" },
-      { "term": "202240", "crn": "41596" }
+      { "term": "202240", "crn": "41596" },
+      { "term": "202510", "crn": "12861" },
+      { "term": "202510", "crn": "13342" }
     ],
     "description": "Studies fundamental principles in fluid mechanics. Topics include hydrostatics (pressure distribution, forces on submerged surfaces and buoyancy); Newton's law of viscosity; dimensional analysis; integral forms of basic laws (conservation of mass, momentum, and energy); pipe flow analysis; differential formulation of basic laws including Navier-Stokes equations; and the concept of boundary layer and drag coefficient. Includes a team-based independent project.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "MATH", "number": "2321" },
+      "And",
+      { "subject": "ME", "number": "2380" }
+    ]
   },
   {
     "subject": "ME",
@@ -489,7 +552,10 @@
       { "term": "202330", "crn": "38701" },
       { "term": "202310", "crn": "10493" },
       { "term": "202310", "crn": "11116" },
-      { "term": "202310", "crn": "19111" }
+      { "term": "202310", "crn": "19111" },
+      { "term": "202510", "crn": "10436" },
+      { "term": "202510", "crn": "10923" },
+      { "term": "202510", "crn": "15410" }
     ],
     "description": "Introduces basic measurements and data analysis techniques. Offers students an opportunity to become familiar with various types of measurement systems and to set up and perform experiments according to a given procedure. Covers basic measurement methods of rotational frequency; temperature, pressure, and power; and analog-to-digital conversion techniques and data acquisition. Data analysis topics include statistical analysis of data, probability and inherent uncertainty, basic measurement techniques, primary and secondary standards, system response characteristics, and computerized data acquisition methods. Includes experiments in thermodynamics, fluid mechanics, and heat transfer. Topics include cycle performance, flow discharge coefficient and heat transfer coefficient measurements, and psychometric applications in the air-conditioning field.",
     "coreqs": [{ "subject": "ME", "number": "4506" }],
@@ -542,7 +608,18 @@
       { "term": "202310", "crn": "11979" },
       { "term": "202310", "crn": "11980" },
       { "term": "202310", "crn": "12637" },
-      { "term": "202310", "crn": "12638" }
+      { "term": "202310", "crn": "12638" },
+      { "term": "202510", "crn": "10437" },
+      { "term": "202510", "crn": "10438" },
+      { "term": "202510", "crn": "10439" },
+      { "term": "202510", "crn": "10490" },
+      { "term": "202510", "crn": "10489" },
+      { "term": "202510", "crn": "10727" },
+      { "term": "202510", "crn": "11606" },
+      { "term": "202510", "crn": "11607" },
+      { "term": "202510", "crn": "12093" },
+      { "term": "202510", "crn": "12094" },
+      { "term": "202510", "crn": "12822" }
     ],
     "description": "Accompanies ME 4505. Covers topics from the course through various activities.",
     "coreqs": [{ "subject": "ME", "number": "4505" }],
@@ -567,7 +644,10 @@
       { "term": "202330", "crn": "31658" },
       { "term": "202310", "crn": "10126" },
       { "term": "202310", "crn": "13622" },
-      { "term": "202310", "crn": "13623" }
+      { "term": "202310", "crn": "13623" },
+      { "term": "202510", "crn": "10115" },
+      { "term": "202510", "crn": "12823" },
+      { "term": "202510", "crn": "12824" }
     ],
     "description": "Highlights the role of finite element analysis in product development. Introduces the theory of finite elements in elastic/plastic, static, and transient problems. Emphasis is on solid modeling in design using available commercial finite element software. Also covers other numerical techniques such as finite difference schemes in the solution of systems of partial differential equations, and numerical solution to systems of linear and nonlinear equations.",
     "coreqs": [],
@@ -620,17 +700,14 @@
       { "term": "202440", "crn": "40457" },
       { "term": "202430", "crn": "34117" },
       { "term": "202410", "crn": "14039" },
-      { "term": "202360", "crn": "60002" },
       { "term": "202360", "crn": "60113" },
-      { "term": "202340", "crn": "40001" },
       { "term": "202340", "crn": "40106" },
       { "term": "202330", "crn": "34795" },
       { "term": "202310", "crn": "14665" },
-      { "term": "202260", "crn": "60002" },
       { "term": "202260", "crn": "60119" },
-      { "term": "202240", "crn": "40001" },
       { "term": "202240", "crn": "40112" },
-      { "term": "202240", "crn": "40550" }
+      { "term": "202240", "crn": "40550" },
+      { "term": "202510", "crn": "13551" }
     ],
     "description": "Explores development of the mechanical design process and its open-ended nature. Reviews fundamentals of stress and theories of failure including fatigue considerations in the analysis of various machine components. Treatment is given to shafts, springs, screws, connections, lubrications, bearings, gears, and tolerances. Includes team-based design projects that involve modeling and the design process.",
     "coreqs": [],
@@ -654,7 +731,9 @@
       { "term": "202330", "crn": "33323" },
       { "term": "202330", "crn": "37133" },
       { "term": "202310", "crn": "13541" },
-      { "term": "202310", "crn": "12275" }
+      { "term": "202310", "crn": "12275" },
+      { "term": "202510", "crn": "12765" },
+      { "term": "202510", "crn": "11052" }
     ],
     "description": "Presents the theoretical backgrounds for the analysis and design of simple feedback control systems, differential equations, and Laplace transforms. Treats system modeling, linear approximations, transfer functions, and block diagrams; and transient and frequency response and stability-frequency domain and root locus methods. Other topics may include linear systems with time lag and relay servomechanisms with small nonlinearities.",
     "coreqs": [],
@@ -679,11 +758,26 @@
       { "term": "202430", "crn": "33788" },
       { "term": "202410", "crn": "13640" },
       { "term": "202330", "crn": "34398" },
-      { "term": "202310", "crn": "14151" }
+      { "term": "202310", "crn": "14151" },
+      { "term": "202510", "crn": "13210" }
     ],
     "description": "Introduces numerical methods applied to solve fluid flow problems. Includes basic mathematics and physics related to computational fluid dynamics (CFD), together with practical assignments that use commercial CFD packages. Emphasizes finite difference and finite volume methods. Other topics include mathematical properties of partial differential equations, accuracy and stability analysis of numerical solution, CFD verification and validation, application to variety of fluid dynamics problems, grid generation, and turbulence modeling.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "ME", "number": "3475" },
+      "Or",
+      { "subject": "ME", "number": "3480" },
+      "Or",
+      { "subject": "BIOE", "number": "3310" },
+      ")",
+      "And",
+      "(",
+      { "subject": "MATH", "number": "2341" },
+      "Or",
+      { "subject": "GE", "number": "2361" },
+      ")"
+    ]
   },
   {
     "subject": "ME",
@@ -704,7 +798,9 @@
       { "term": "202330", "crn": "31659" },
       { "term": "202310", "crn": "10128" },
       { "term": "202310", "crn": "11118" },
-      { "term": "202310", "crn": "12276" }
+      { "term": "202310", "crn": "12276" },
+      { "term": "202510", "crn": "10117" },
+      { "term": "202510", "crn": "11838" }
     ],
     "description": "Introduces theories of thermal energy transport, including conduction, convection, and thermal radiation, and the design of thermal systems. Solution methods are developed for steady-state and transient conduction problems including thermal circuit analogies, internal energy sources and extended surfaces. Convective heat transfer mechanisms are introduced and correlations to evaluate the heat transfer coefficient are discussed. Methodologies for calculating the thermal radiation heat transfer between surfaces are introduced. These theories are integrated with thermodynamics and fluid mechanics in the design of thermal systems, including heat exchangers. Includes an open-ended design project and students are expected to use computational methods throughout the course.",
     "coreqs": [],
@@ -756,30 +852,6 @@
   },
   {
     "subject": "ME",
-    "number": "4699",
-    "title": "ST: Modeling Methods for Optim",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [],
-    "description": "Focuses on an advanced mechanical engineering project agreed upon between the student and instructor. May be repeated without limit.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "ME",
-    "number": "4991",
-    "title": "Research",
-    "scheduleType": "Individual Instruction",
-    "credits": 4,
-    "nuPath": ["EX"],
-    "sections": [],
-    "description": "Offers an opportunity to conduct research under faculty supervision.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "ME",
     "number": "4992",
     "title": "Directed Study",
     "scheduleType": "Individual Instruction",
@@ -806,7 +878,9 @@
       { "term": "202330", "crn": "32584" },
       { "term": "202330", "crn": "32585" },
       { "term": "202310", "crn": "12792" },
-      { "term": "202310", "crn": "15707" }
+      { "term": "202310", "crn": "15707" },
+      { "term": "202510", "crn": "12215" },
+      { "term": "202510", "crn": "14123" }
     ],
     "description": "Covers basic aspects of computer graphics and CAD/CAM. Topics include hardware and software concepts, generic structure of CAD/CAM software and its modules, and CAD/CAM database structure. Also covers the parametric representations of curves, surfaces, solids, and features that are widely used in existing commercial CAD/CAM systems. Discusses geometrical transformations, CAD/CAM data exchange formats, prototyping techniques, and PDM. Presents applications such as mass properties calculations, assemblies, mechanical tolerancing, simulation, finite element mesh generation, process planning and CAPP, CNC part programming, and Web-based CAD/CAM.",
     "coreqs": [],
@@ -831,7 +905,9 @@
       { "term": "202430", "crn": "41035" },
       { "term": "202330", "crn": "36762" },
       { "term": "202330", "crn": "39575" },
-      { "term": "202310", "crn": "16499" }
+      { "term": "202310", "crn": "16499" },
+      { "term": "202510", "crn": "20446" },
+      { "term": "202510", "crn": "22034" }
     ],
     "description": "Previously captured",
     "coreqs": [],
@@ -861,7 +937,10 @@
       { "term": "202330", "crn": "33393" },
       { "term": "202310", "crn": "17643" },
       { "term": "202310", "crn": "17031" },
-      { "term": "202310", "crn": "15746" }
+      { "term": "202310", "crn": "15746" },
+      { "term": "202510", "crn": "14865" },
+      { "term": "202510", "crn": "14651" },
+      { "term": "202510", "crn": "14140" }
     ],
     "description": "Covers kinematics and dynamics of robot manipulators, including the development of kinematics equations of manipulators, the inverse kinematics problem, and motion trajectories. Employs Lagrangian mechanics to cover dynamics of manipulators for the purpose of control. Covers control and programming of robots, steady state errors, calculations of servoparameters, robot vision systems and algorithms, as well as imaging techniques and the concept of mobile robots.",
     "coreqs": [],
@@ -888,7 +967,8 @@
       { "term": "202430", "crn": "40509" },
       { "term": "202410", "crn": "19854" },
       { "term": "202330", "crn": "39416" },
-      { "term": "202310", "crn": "19114" }
+      { "term": "202310", "crn": "19114" },
+      { "term": "202510", "crn": "17328" }
     ],
     "description": "Offers topics of current interest in mechanical engineering.",
     "coreqs": [],
@@ -957,7 +1037,8 @@
       { "term": "202410", "crn": "16765" },
       { "term": "202340", "crn": "41120" },
       { "term": "202310", "crn": "19115" },
-      { "term": "202240", "crn": "41480" }
+      { "term": "202240", "crn": "41480" },
+      { "term": "202510", "crn": "15411" }
     ],
     "description": "Covers the fundamentals and usage of processes and techniques for bulk, thick film, thin film, and patterned structures. Covers techniques for improvement of mechanical or functional properties, for reliability, or for operation in harsh environments. Includes case studies for which processes are selected based on efficacy, material input, and cost. Systems studied include biocompatible implants and materials for the telecommunication, semiconductor, energy, and aerospace industries.",
     "coreqs": [],
@@ -970,10 +1051,17 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "16627" }],
+    "sections": [
+      { "term": "202310", "crn": "16627" },
+      { "term": "202510", "crn": "20447" }
+    ],
     "description": "Offers a deep dive into the interdisciplinary field of materials science that addresses the discovery, design, and prediction of new materials, with an emphasis on solids. Offers students an opportunity to gain knowledge and practice in issues of materials science. Consists of fundamentals, properties (emphasis on electronic properties), applications, and advanced topics. Provides specific readings from the literature assigned to support the in-class lectures. Offers a variety of opportunities to practice and demonstrate comprehension and learning.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ME", "number": "2340" },
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "ME",
@@ -982,7 +1070,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "21283" }],
+    "sections": [
+      { "term": "202410", "crn": "21283" },
+      { "term": "202510", "crn": "18693" }
+    ],
     "description": "Introduces students to nano- and microscale manufacturing of applications in electronics, energy, materials, and life sciences. Offers students an opportunity to understand conventional fabrication approaches to making today’s consumer electronics (top-down). Presents new and emerging bottom-up manufacturing approaches, including additive manufacturing for making electronics and other applications.",
     "coreqs": [],
     "prereqs": []
@@ -999,18 +1090,6 @@
       { "term": "202330", "crn": "36112" }
     ],
     "description": "Discusses fundamentals, process characteristics, and practical applications of various additive manufacturing (AM) processes. Covers digital workflow for AM, implications of AM on design, material for AM and material properties, energy sources and interaction with materials, AM processes, process characteristics and capabilities, process models, design of experiments and Taguchi methods for AM process parameter optimization, postprocessing of AM parts, process defects, and the Ansys AM module.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "ME",
-    "number": "5645",
-    "title": "Environmental Issues in Manufacturing and Product Use",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [],
-    "description": "Explores environmental and economic aspects of different materials used in products throughout the product life cycle. Introduces concepts of industrial ecology, life cycle analysis, and sustainable development. Students work in teams to analyze case studies of specific products fabricated using metals, ceramics, polymers, or paper. These case studies compare cost, energy, and resources used and emissions generated through the mining, refining, manufacture, use, and disposal stages of the product life cycle. Debates issues in legislation (extended product responsibility, recycling mandates, and ecolabeling) and in disposal strategies (landfill, incineration, reuse, and recycling). Discusses difficulties associated with environmental impact assessments and the development of decision analysis tools to weigh the tradeoffs in technical, economic, and environmental performance, and analyzes specific case studies.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1083,7 +1162,9 @@
       { "term": "202340", "crn": "40152" },
       { "term": "202310", "crn": "10708" },
       { "term": "202310", "crn": "16711" },
-      { "term": "202240", "crn": "40159" }
+      { "term": "202240", "crn": "40159" },
+      { "term": "202510", "crn": "10598" },
+      { "term": "202510", "crn": "14566" }
     ],
     "description": "Covers dynamic response of discrete and continuous media. Topics include work and energy, impulse and momentum, Lagrangian dynamics, free and forced response to periodic and transient excitations, vibration absorber, free and forced response of multiple degree-of-freedom systems with and without damping, method of modal analysis, vibrations of continuous media such as extensional, torsional, and bending vibrations of bars, and approximate methods of analysis. Permission of instructor required for undergraduate students.",
     "coreqs": [],
@@ -1115,7 +1196,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "17634" },
-      { "term": "202310", "crn": "20043" }
+      { "term": "202310", "crn": "20043" },
+      { "term": "202510", "crn": "15885" }
     ],
     "description": "Covers the stresses, strains, and displacements in general continuous media. Topics include vector and tensor calculus; definitions of stress, strain, and deformation; kinematics of a continuous medium; material derivatives; rate of deformation tensor, finite strain, and deformation; Eulerian and Lagrangian formulations; geometric measures of strain; relative deformation gradient, rotation, and stretch tensors; compatibility conditions; general principles; conservation of mass; momentum principles; energy balance; constitutive theories of materials (i.e., heat conduction, fluid mechanics, elastic solids, nonlinear elasticity, inelastic deformation of solids); variational principles; introduction to the nonlinear finite element formulations for solids, such as nonlinearities in solid mechanics, governing equations (strong form and weak form), finite element approximation, Newton-Raphson method, Lagrangian finite elements (total and updated Lagrangian approaches), and solution procedure.",
     "coreqs": [],
@@ -1139,7 +1221,9 @@
       { "term": "202340", "crn": "40522" },
       { "term": "202310", "crn": "19118" },
       { "term": "202310", "crn": "20891" },
-      { "term": "202240", "crn": "40566" }
+      { "term": "202240", "crn": "40566" },
+      { "term": "202510", "crn": "15414" },
+      { "term": "202510", "crn": "21739" }
     ],
     "description": "Covers concepts in design and control of dynamical systems. Topics include review of continuous-time system modeling and dynamic response; principles of feedback, classical and modern control analyses, and design techniques such as root locus, frequency response (e.g., Bode plots and Nyquist Criteria), and state-space feedback; dynamic analysis, design, and control of electromechanical systems; block diagram algebra or signal-flow graphs, effects of poles and zeros on system response characteristics; principles of controllability, observability, observer designs, and pole placement techniques; introduction to adaptive and learning control and digital implementation of control algorithms.",
     "coreqs": [],
@@ -1202,7 +1286,11 @@
     ],
     "description": "Offers students an opportunity to obtain an understanding of the basic physical, chemical, and aerodynamic processes associated with combustion in gas turbine engines and their relevance to combustor design and performance in applications ranging from aeronautical to power generation. Topics include the history and evolution of gas turbine engines, thermodynamic cycles, conventional and alternative aviation fuels, combustion fundamentals, fuel injection and atomization, advanced wall cooling techniques, mechanisms of combustion noise and approaches to noise control, and design and performance for ultra-low emissions.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ME", "number": "4570" },
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "ME",
@@ -1215,9 +1303,41 @@
       { "term": "202410", "crn": "20587" },
       { "term": "202410", "crn": "20841" },
       { "term": "202330", "crn": "31819" },
-      { "term": "202330", "crn": "34809" }
+      { "term": "202330", "crn": "34809" },
+      { "term": "202510", "crn": "21886" },
+      { "term": "202510", "crn": "21885" }
     ],
     "description": "Focuses on topics of practical importance in applications of fluid mechanics to external flows over bodies. Covers compressible flow analysis in order to use the concepts of sound speed and Mach number and to design subsonic and supersonic nozzles, diffusers, and airfoils. Introduces normal and oblique shock waves and the Prandtl-Meyer expansion applied to supersonic flows over bodies and surfaces. Discusses Rayleigh and Fanno flows. Studies and applies the Bernoulli equation and potential flow theory to external flow analyses and the theory of lift generation on airfoils.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ME",
+    "number": "5700",
+    "title": "Multiphase Transport",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21438" }],
+    "description": "Introduces multiphase flow and heat transfer. Presents insights of multiphase transport systems, tools to analyze the system in different scenarios, and exposes students to research frontiers and real-world applications. Topics include the fundamental principles governing the multiphase systems, capillary effect involving drops and bubbles, the dynamics of particles dispersed in fluid, phase change and heat transfer, and applications of multiphase systems. Discusses research topics at the frontier in this area.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ME", "number": "4570" },
+      "Or",
+      { "subject": "CHME", "number": "3312" },
+      "Or",
+      "Graduate Admission"
+    ]
+  },
+  {
+    "subject": "ME",
+    "number": "5976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "22072" }],
+    "description": "Offers students an opportunity to conduct theoretical or experimental work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated up to 11 times for a maximum of 12 semester hours.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1278,9 +1398,24 @@
       { "term": "202310", "crn": "11171" },
       { "term": "202310", "crn": "11806" },
       { "term": "202260", "crn": "60335" },
-      { "term": "202240", "crn": "40575" }
+      { "term": "202240", "crn": "40575" },
+      { "term": "202510", "crn": "10835" },
+      { "term": "202510", "crn": "10966" },
+      { "term": "202510", "crn": "11470" }
     ],
     "description": "Focuses on linear algebra, vector analysis, ordinary, and partial differential equations with mechanical engineering applications. Topics include linear algebra, linear vector spaces, matrices, and eigenvectors; vector field theory, curvilinear coordinates, and integral theorems; power series methods for second order linear ODEs, special functions, Sturm-Liouville theory, and orthogonal function expansions including Fourier series; second order linear PDEs including the Laplace, diffusion, and wave equations and solution techniques such as separation of variables and orthogonal function decomposition.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ME",
+    "number": "6250",
+    "title": "Wearable Robotics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20450" }],
+    "description": "Presents the design, control, and evaluation of prosthetics and exoskeletons based on core concepts in human movement, with special focus on assisting and rehabilitating pathological gait. Introduces the biological systems that enable human movement, biomechanical modeling and simulation, actuation design, control architectures, and key considerations for interfacing mechanical systems with the human body. Culminates with group projects in which teams either design, control, and analyze a wearable robotic system or write a perspective on a subtopic within the field of wearable robotics.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1293,7 +1428,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202310", "crn": "19119" },
-      { "term": "202310", "crn": "19120" }
+      { "term": "202310", "crn": "19120" },
+      { "term": "202510", "crn": "20451" },
+      { "term": "202510", "crn": "20452" }
     ],
     "description": "Provides an introduction to microelectromechanical systems including principles of sensing and actuation, microfabrication technology for MEMS, noise concepts, and packaging techniques. Covers a wide range of disciplines, from electronics to mechanics, material properties, microfabrication technology, electromagnetics, and optics. Studies several classes of devices including inertial measurement devices, pressure sensors, rf components, and optical MEMS. Devotes the last third of the semester largely to design projects, involving design of MEMS devices to specifications in a realistic fabrication process.",
     "coreqs": [],
@@ -1309,7 +1446,7 @@
     "sections": [{ "term": "202410", "crn": "19857" }],
     "description": "Covers the fundamental continuum mechanics theory of finite elastic deformation in soft materials formed by crosslinked polymer networks such as gels and elastomers, as well as the coupling effects from other physical fields (chemical, electrical, thermal, etc.) that enable novel functionalities. Emphasizes continuum mechanics, interfacing statistical mechanics, polymer physics, thermodynamics, and other chemical and physical disciplines. Lectures incorporate state-of-the-art research in mechanics of soft materials to offer students a broad and contemporary overview of the field.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "ME", "number": "6200" }]
   },
   {
     "subject": "ME",
@@ -1318,7 +1455,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "20042" }],
+    "sections": [
+      { "term": "202310", "crn": "20042" },
+      { "term": "202510", "crn": "20453" }
+    ],
     "description": "Offered for graduate students who are interested in mechanics in emerging engineering frontiers including mechanical metamaterials, bio-inspired engineering, additive manufacturing, and smart and functional materials. Provides an overview of the new interdisciplinary fields and the application of mechanics in these fields. Also examines advanced theories in mechanics and their applications in new engineering frontiers. Mechanics together with modern engineering technologies including computer aided design, computer simulations, and 3D/4D printing serve as tools to explore engineering solutions. Students practice how to apply physical principles to engineering innovations.",
     "coreqs": [],
     "prereqs": [
@@ -1335,24 +1475,8 @@
   },
   {
     "subject": "ME",
-    "number": "7232",
-    "title": "Theory of Plates and Shells",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [],
-    "description": "Covers the mechanics of plates using classical theory (cylindrical bending, rectangular plates, and circular plates) and plate theory with shear deformation. Includes combined effects of bending and in-plane forces, buckling of plates, moderately large deflections, membrane theory of shells, analysis of thin cylindrical shells of revolution, and general theory of thin elastic shells.",
-    "coreqs": [],
-    "prereqs": [
-      { "subject": "ME", "number": "6200" },
-      "And",
-      { "subject": "ME", "number": "6201" }
-    ]
-  },
-  {
-    "subject": "ME",
     "number": "7238",
-    "title": "Advanced Finite Element Method",
+    "title": "Finite Element Method 2",
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
@@ -1386,7 +1510,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11315" },
-      { "term": "202310", "crn": "11488" }
+      { "term": "202310", "crn": "11488" },
+      { "term": "202510", "crn": "11197" },
+      { "term": "202510", "crn": "12168" }
     ],
     "description": "Examines fundamentals of equilibrium thermodynamics. Topics include work, energy, heat, temperature, available energy, entropy, first and second law of thermodynamics, simple systems, closed and open systems, availability loss and irreversibility, heat engines, multicomponent systems, mixtures of gases, chemical reactions, and chemical equilibrium.",
     "coreqs": [],
@@ -1416,11 +1542,12 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12775" },
-      { "term": "202310", "crn": "13139" }
+      { "term": "202310", "crn": "13139" },
+      { "term": "202510", "crn": "12468" }
     ],
     "description": "Emphasizes analytical techniques in conduction and radiative transfer. Topics include formulation of steady- and unsteady-state one-dimensional and multidimensional heat conduction problems, solution techniques for linear problems including the method of separation of variables, Laplace transforms and integral transforms, approximate analytical methods, phase change problems, and nonlinear problems. Offers an introduction to thermal radiation heat transfer including the electromagnetic background of radiation, nature of thermal radiation, radiation intensity, black body intensity, and radiation through nonparticipating media. Discusses the fundamentals of radiation in absorbing, emitting, and scattering media including the equation of radiative transfer with methods of solution, pure radiative transfer in participating media, and interaction of radiation with conduction and/or convection. Requires undergraduate heat transfer course.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "ME", "number": "6200" }]
   },
   {
     "subject": "ME",
@@ -1458,7 +1585,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13579" },
-      { "term": "202310", "crn": "14077" }
+      { "term": "202310", "crn": "14077" },
+      { "term": "202510", "crn": "13160" }
     ],
     "description": "Deals with the formation of pollutants during combustion processes and their subsequent transformations in the atmosphere. Emphasis is on the effects of design and operating parameters of combustion devices on the nature and composition of exhaust gases, improvements, postcombustion treatment of effluent gases, atmospheric chemistry, and atmospheric transport of pollutants, smog formation, acid rain, ozone formation, and destruction.",
     "coreqs": [],
@@ -1488,7 +1616,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "37276" },
-      { "term": "202330", "crn": "39309" }
+      { "term": "202330", "crn": "39309" },
+      { "term": "202510", "crn": "20455" }
     ],
     "description": "Offers topics of interest to the staff member conducting this class for advanced study. May be repeated without limit.",
     "coreqs": [],
@@ -1503,7 +1632,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11252" },
-      { "term": "202310", "crn": "11415" }
+      { "term": "202310", "crn": "11415" },
+      { "term": "202510", "crn": "11142" }
     ],
     "description": "Offers students an opportunity to develop and present a plan for the demonstration of a marketable technology product or prototype with a mechanical engineering focus. Constitutes the first half of a thesis-scale project in technology commercialization. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student's technological and engineering depth and fostering the student's leadership development.",
     "coreqs": [],
@@ -1522,7 +1652,7 @@
     ],
     "description": "Continues ME 7440, a thesis-scale project in technology commercialization. Offers students an opportunity to demonstrate their development of a marketable technology product or prototype with a mechanical engineering focus and to produce a written documentary report on the project to the satisfaction of an advising committee. Requires work/training with a sponsoring organization or employer to improve a process or develop a project that is of significant value to the organization and demonstrates a quantifiable market impact while enhancing the student's technological and engineering depth and fostering the student's leadership development.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "ME", "number": "7440" }]
   },
   {
     "subject": "ME",
@@ -1555,9 +1685,33 @@
       { "term": "202310", "crn": "21457" },
       { "term": "202310", "crn": "21522" },
       { "term": "202310", "crn": "21874" },
-      { "term": "202310", "crn": "20433" }
+      { "term": "202310", "crn": "20433" },
+      { "term": "202510", "crn": "16702" },
+      { "term": "202510", "crn": "12299" },
+      { "term": "202510", "crn": "16746" },
+      { "term": "202510", "crn": "14996" },
+      { "term": "202510", "crn": "16939" },
+      { "term": "202510", "crn": "18828" },
+      { "term": "202510", "crn": "18994" },
+      { "term": "202510", "crn": "15146" },
+      { "term": "202510", "crn": "16085" },
+      { "term": "202510", "crn": "22888" },
+      { "term": "202510", "crn": "22932" },
+      { "term": "202510", "crn": "22996" }
     ],
     "description": "Offers theoretical or experimental work under individual faculty supervision.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "ME",
+    "number": "7976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "22901" }],
+    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated up to eight times for a maximum of 8 semester hours.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1575,7 +1729,8 @@
       { "term": "202410", "crn": "19006" },
       { "term": "202410", "crn": "19301" },
       { "term": "202310", "crn": "21453" },
-      { "term": "202310", "crn": "21755" }
+      { "term": "202310", "crn": "21755" },
+      { "term": "202430", "crn": "42038" }
     ],
     "description": "Offers theoretical or experimental work under individual faculty supervision. An independent study must be petitioned and approved by the academic advisor. The petition must clearly state the reason for taking the course; a brief description of goals; as well as the expected outcomes, deliverables, and grading scheme. Master’s degree students in thesis or project options are not eligible to take independent study.",
     "coreqs": [],
@@ -1594,7 +1749,11 @@
       { "term": "202340", "crn": "41623" },
       { "term": "202330", "crn": "40753" },
       { "term": "202310", "crn": "21576" },
-      { "term": "202240", "crn": "41991" }
+      { "term": "202240", "crn": "41991" },
+      { "term": "202510", "crn": "16773" },
+      { "term": "202510", "crn": "19215" },
+      { "term": "202460", "crn": "62034" },
+      { "term": "202440", "crn": "42391" }
     ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision.",
     "coreqs": [],
@@ -1660,7 +1819,29 @@
       { "term": "202310", "crn": "21883" },
       { "term": "202310", "crn": "18088" },
       { "term": "202310", "crn": "21595" },
-      { "term": "202260", "crn": "60955" }
+      { "term": "202260", "crn": "60955" },
+      { "term": "202510", "crn": "11024" },
+      { "term": "202510", "crn": "10842" },
+      { "term": "202510", "crn": "16606" },
+      { "term": "202510", "crn": "14106" },
+      { "term": "202510", "crn": "16660" },
+      { "term": "202510", "crn": "10987" },
+      { "term": "202510", "crn": "16772" },
+      { "term": "202510", "crn": "14121" },
+      { "term": "202510", "crn": "16944" },
+      { "term": "202510", "crn": "18212" },
+      { "term": "202510", "crn": "18213" },
+      { "term": "202510", "crn": "14678" },
+      { "term": "202510", "crn": "15002" },
+      { "term": "202510", "crn": "15147" },
+      { "term": "202510", "crn": "15151" },
+      { "term": "202510", "crn": "16789" },
+      { "term": "202510", "crn": "18821" },
+      { "term": "202510", "crn": "19933" },
+      { "term": "202510", "crn": "19940" },
+      { "term": "202510", "crn": "22731" },
+      { "term": "202430", "crn": "41596" },
+      { "term": "202430", "crn": "42030" }
     ],
     "description": "Offers analytical and/or experimental work conducted under the direction of the faculty in fulfillment of the requirements for the degree. Requires first-year students to attend a graduate seminar program that introduces the students to the methods of choosing a research topic, conducting research, and preparing a thesis. Requires successful completion of the seminar program. May be repeated without limit.",
     "coreqs": [],
@@ -1683,7 +1864,11 @@
       { "term": "202350", "crn": "53169" },
       { "term": "202330", "crn": "40708" },
       { "term": "202260", "crn": "61644" },
-      { "term": "202240", "crn": "41962" }
+      { "term": "202240", "crn": "41962" },
+      { "term": "202510", "crn": "22664" },
+      { "term": "202510", "crn": "22929" },
+      { "term": "202460", "crn": "61969" },
+      { "term": "202440", "crn": "42335" }
     ],
     "description": "Continues thesis work conducted under the supervision of a departmental faculty member.",
     "coreqs": [],
@@ -1717,7 +1902,20 @@
       { "term": "202310", "crn": "21769" },
       { "term": "202310", "crn": "15897" },
       { "term": "202310", "crn": "12725" },
-      { "term": "202310", "crn": "15535" }
+      { "term": "202310", "crn": "15535" },
+      { "term": "202510", "crn": "13400" },
+      { "term": "202510", "crn": "16877" },
+      { "term": "202510", "crn": "19319" },
+      { "term": "202510", "crn": "19464" },
+      { "term": "202510", "crn": "14005" },
+      { "term": "202510", "crn": "19468" },
+      { "term": "202510", "crn": "14107" },
+      { "term": "202510", "crn": "22515" },
+      { "term": "202510", "crn": "14194" },
+      { "term": "202510", "crn": "14195" },
+      { "term": "202510", "crn": "14196" },
+      { "term": "202510", "crn": "12161" },
+      { "term": "202510", "crn": "14032" }
     ],
     "description": "Offers students an opportunity to prepare for the PhD qualifying exam under faculty supervision. Intended for students who have completed all required PhD course work and have not yet achieved PhD candidacy; students who have not completed all required PhD course work are not allowed to register for this course. May be repeated once.",
     "coreqs": [],
@@ -1739,7 +1937,10 @@
       { "term": "202330", "crn": "40788" },
       { "term": "202310", "crn": "21483" },
       { "term": "202310", "crn": "18332" },
-      { "term": "202240", "crn": "41955" }
+      { "term": "202240", "crn": "41955" },
+      { "term": "202510", "crn": "16718" },
+      { "term": "202510", "crn": "14201" },
+      { "term": "202510", "crn": "15094" }
     ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -1836,7 +2037,36 @@
       { "term": "202260", "crn": "61167" },
       { "term": "202260", "crn": "61184" },
       { "term": "202260", "crn": "61187" },
-      { "term": "202240", "crn": "41983" }
+      { "term": "202240", "crn": "41983" },
+      { "term": "202510", "crn": "16628" },
+      { "term": "202510", "crn": "14038" },
+      { "term": "202510", "crn": "15086" },
+      { "term": "202510", "crn": "16840" },
+      { "term": "202510", "crn": "15102" },
+      { "term": "202510", "crn": "13427" },
+      { "term": "202510", "crn": "16843" },
+      { "term": "202510", "crn": "15126" },
+      { "term": "202510", "crn": "15159" },
+      { "term": "202510", "crn": "16943" },
+      { "term": "202510", "crn": "19322" },
+      { "term": "202510", "crn": "19405" },
+      { "term": "202510", "crn": "19581" },
+      { "term": "202510", "crn": "19716" },
+      { "term": "202510", "crn": "19751" },
+      { "term": "202510", "crn": "19784" },
+      { "term": "202510", "crn": "22188" },
+      { "term": "202510", "crn": "22315" },
+      { "term": "202510", "crn": "22543" },
+      { "term": "202510", "crn": "22546" },
+      { "term": "202510", "crn": "22563" },
+      { "term": "202510", "crn": "22732" },
+      { "term": "202510", "crn": "22789" },
+      { "term": "202510", "crn": "22903" },
+      { "term": "202460", "crn": "61939" },
+      { "term": "202440", "crn": "42389" },
+      { "term": "202430", "crn": "42039" },
+      { "term": "202430", "crn": "42050" },
+      { "term": "202410", "crn": "22406" }
     ],
     "description": "Offers students an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -1864,11 +2094,48 @@
       { "term": "202310", "crn": "20131" },
       { "term": "202310", "crn": "20136" },
       { "term": "202310", "crn": "20318" },
-      { "term": "202310", "crn": "21632" }
+      { "term": "202310", "crn": "21632" },
+      { "term": "202510", "crn": "15882" },
+      { "term": "202510", "crn": "15918" },
+      { "term": "202510", "crn": "15919" },
+      { "term": "202510", "crn": "15920" },
+      { "term": "202510", "crn": "15921" },
+      { "term": "202510", "crn": "15922" },
+      { "term": "202510", "crn": "15923" },
+      { "term": "202510", "crn": "15924" },
+      { "term": "202510", "crn": "15925" },
+      { "term": "202510", "crn": "15926" },
+      { "term": "202510", "crn": "15927" },
+      { "term": "202510", "crn": "15928" },
+      { "term": "202510", "crn": "15929" },
+      { "term": "202510", "crn": "15930" },
+      { "term": "202510", "crn": "15931" },
+      { "term": "202510", "crn": "15932" },
+      { "term": "202510", "crn": "15933" },
+      { "term": "202510", "crn": "15934" },
+      { "term": "202510", "crn": "15935" },
+      { "term": "202510", "crn": "15936" },
+      { "term": "202510", "crn": "15937" },
+      { "term": "202510", "crn": "15938" },
+      { "term": "202510", "crn": "15939" },
+      { "term": "202510", "crn": "15940" },
+      { "term": "202510", "crn": "15941" },
+      { "term": "202510", "crn": "15942" },
+      { "term": "202510", "crn": "15943" },
+      { "term": "202510", "crn": "15944" },
+      { "term": "202510", "crn": "15945" },
+      { "term": "202510", "crn": "15946" },
+      { "term": "202510", "crn": "15947" },
+      { "term": "202510", "crn": "15948" },
+      { "term": "202510", "crn": "15949" },
+      { "term": "202510", "crn": "15950" },
+      { "term": "202510", "crn": "15951" },
+      { "term": "202510", "crn": "16010" },
+      { "term": "202510", "crn": "16816" }
     ],
     "description": "Offers dissertation supervision under individual faculty supervision.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "ME", "number": "9000" }]
   },
   {
     "subject": "ME",
@@ -1894,7 +2161,21 @@
       { "term": "202310", "crn": "21314" },
       { "term": "202310", "crn": "21364" },
       { "term": "202310", "crn": "21454" },
-      { "term": "202310", "crn": "21512" }
+      { "term": "202310", "crn": "21512" },
+      { "term": "202510", "crn": "15883" },
+      { "term": "202510", "crn": "15952" },
+      { "term": "202510", "crn": "15953" },
+      { "term": "202510", "crn": "15954" },
+      { "term": "202510", "crn": "16605" },
+      { "term": "202510", "crn": "16635" },
+      { "term": "202510", "crn": "16699" },
+      { "term": "202510", "crn": "16741" },
+      { "term": "202510", "crn": "18584" },
+      { "term": "202510", "crn": "19526" },
+      { "term": "202510", "crn": "22306" },
+      { "term": "202510", "crn": "22319" },
+      { "term": "202510", "crn": "22528" },
+      { "term": "202510", "crn": "22812" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -2042,7 +2323,49 @@
       { "term": "202260", "crn": "61598" },
       { "term": "202260", "crn": "61640" },
       { "term": "202240", "crn": "41907" },
-      { "term": "202240", "crn": "41924" }
+      { "term": "202240", "crn": "41924" },
+      { "term": "202510", "crn": "13864" },
+      { "term": "202510", "crn": "10841" },
+      { "term": "202510", "crn": "14097" },
+      { "term": "202510", "crn": "16637" },
+      { "term": "202510", "crn": "14114" },
+      { "term": "202510", "crn": "16683" },
+      { "term": "202510", "crn": "14163" },
+      { "term": "202510", "crn": "13303" },
+      { "term": "202510", "crn": "12984" },
+      { "term": "202510", "crn": "13411" },
+      { "term": "202510", "crn": "13415" },
+      { "term": "202510", "crn": "16638" },
+      { "term": "202510", "crn": "16703" },
+      { "term": "202510", "crn": "12990" },
+      { "term": "202510", "crn": "16815" },
+      { "term": "202510", "crn": "13421" },
+      { "term": "202510", "crn": "14105" },
+      { "term": "202510", "crn": "14132" },
+      { "term": "202510", "crn": "14179" },
+      { "term": "202510", "crn": "15011" },
+      { "term": "202510", "crn": "15019" },
+      { "term": "202510", "crn": "15113" },
+      { "term": "202510", "crn": "15155" },
+      { "term": "202510", "crn": "16722" },
+      { "term": "202510", "crn": "16748" },
+      { "term": "202510", "crn": "16762" },
+      { "term": "202510", "crn": "16807" },
+      { "term": "202510", "crn": "16864" },
+      { "term": "202510", "crn": "16914" },
+      { "term": "202510", "crn": "10565" },
+      { "term": "202510", "crn": "11027" },
+      { "term": "202510", "crn": "11775" },
+      { "term": "202510", "crn": "13909" },
+      { "term": "202510", "crn": "18001" },
+      { "term": "202510", "crn": "18002" },
+      { "term": "202510", "crn": "18003" },
+      { "term": "202510", "crn": "18004" },
+      { "term": "202510", "crn": "18005" },
+      { "term": "202510", "crn": "18006" },
+      { "term": "202510", "crn": "18007" },
+      { "term": "202510", "crn": "18585" },
+      { "term": "202510", "crn": "18586" }
     ],
     "description": "Offers continuing dissertation supervision under individual faculty supervision.",
     "coreqs": [],

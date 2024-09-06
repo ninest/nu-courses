@@ -15,7 +15,8 @@
       { "term": "202330", "crn": "36093" },
       { "term": "202310", "crn": "13370" },
       { "term": "202240", "crn": "40464" },
-      { "term": "202240", "crn": "41478" }
+      { "term": "202240", "crn": "41478" },
+      { "term": "202510", "crn": "12647" }
     ],
     "description": "Examines the applications of fundamental laws of mass and energy conservation to chemical and physical processes. Emphasizes material and energy balances on chemical processes. Offers students an opportunity to develop skills in applying chemistry, physics, and mathematics to identify and solve chemical engineering problems.",
     "coreqs": [],
@@ -41,7 +42,9 @@
       { "term": "202330", "crn": "30119" },
       { "term": "202310", "crn": "10168" },
       { "term": "202310", "crn": "11772" },
-      { "term": "202310", "crn": "18919" }
+      { "term": "202310", "crn": "18919" },
+      { "term": "202510", "crn": "11443" },
+      { "term": "202510", "crn": "15338" }
     ],
     "description": "Covers the fundamentals of transport of incompressible and compressible fluids (fluid flow) along with energy transport. Concepts are continued in CHME 3312 with emphasis on heat transport. The methods taught are relevant to the analysis of engineering processes in a number of industries, including chemical, pharmaceutical, food, energy, biotechnology, and materials.",
     "coreqs": [],
@@ -70,7 +73,8 @@
       { "term": "202310", "crn": "12033" },
       { "term": "202310", "crn": "18920" },
       { "term": "202310", "crn": "16630" },
-      { "term": "202260", "crn": "60021" }
+      { "term": "202260", "crn": "60021" },
+      { "term": "202510", "crn": "15339" }
     ],
     "description": "Covers the first and second laws of thermodynamics and their application to batch and flow systems, heat effects in chemicals, and physical properties/real fluids. Applies basic principles and mathematical relations to the analysis and solution of engineering problems.",
     "coreqs": [],
@@ -82,13 +86,44 @@
   },
   {
     "subject": "CHME",
-    "number": "2991",
-    "title": "Research in Chemical Engineering",
+    "number": "2992",
+    "title": "Research",
     "scheduleType": "Individual Instruction",
-    "credits": 1,
+    "credits": 0,
     "nuPath": [],
-    "sections": [],
-    "description": "Offers an opportunity to conduct introductory-level research or creative endeavors under faculty supervision.",
+    "sections": [
+      { "term": "202510", "crn": "22840" },
+      { "term": "202510", "crn": "22841" },
+      { "term": "202510", "crn": "22842" },
+      { "term": "202510", "crn": "22843" },
+      { "term": "202510", "crn": "22844" },
+      { "term": "202510", "crn": "22845" },
+      { "term": "202510", "crn": "22846" },
+      { "term": "202510", "crn": "22847" },
+      { "term": "202510", "crn": "22848" },
+      { "term": "202510", "crn": "22849" },
+      { "term": "202510", "crn": "22850" },
+      { "term": "202510", "crn": "22852" },
+      { "term": "202510", "crn": "22851" },
+      { "term": "202510", "crn": "22853" },
+      { "term": "202510", "crn": "22854" },
+      { "term": "202510", "crn": "22855" },
+      { "term": "202510", "crn": "22856" },
+      { "term": "202510", "crn": "22857" },
+      { "term": "202510", "crn": "22858" },
+      { "term": "202510", "crn": "22859" },
+      { "term": "202510", "crn": "22860" },
+      { "term": "202510", "crn": "22861" },
+      { "term": "202510", "crn": "22862" },
+      { "term": "202510", "crn": "22863" },
+      { "term": "202510", "crn": "22864" },
+      { "term": "202510", "crn": "22865" },
+      { "term": "202510", "crn": "22866" },
+      { "term": "202510", "crn": "22867" },
+      { "term": "202510", "crn": "22868" },
+      { "term": "202510", "crn": "22869" }
+    ],
+    "description": "Offers an opportunity to document student contributions to research projects or creative endeavors.May be repeated up to nine times.",
     "coreqs": [],
     "prereqs": []
   },
@@ -106,11 +141,24 @@
       { "term": "202430", "crn": "39384" },
       { "term": "202410", "crn": "19791" },
       { "term": "202410", "crn": "19792" },
-      { "term": "202410", "crn": "19794" }
+      { "term": "202410", "crn": "19794" },
+      { "term": "202510", "crn": "17266" },
+      { "term": "202510", "crn": "17267" },
+      { "term": "202510", "crn": "17269" }
     ],
     "description": "Offers students an opportunity to obtain hands-on laboratory experience and to develop safety, teamwork, problem-solving, organizational, technical writing, and oral presentation skills. Focuses on the discovery of fundamental momentum, heat, and mass transport principles. Those fundamentals are used to develop and design engineering solutions through experiments in the context of the current fields of chemical engineering. Emphasizes the hazards associated with these chemical engineering experiments and the materials handled during laboratory.",
     "coreqs": [{ "subject": "CHME", "number": "3306" }],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "CHME", "number": "2310" },
+      "And",
+      { "subject": "CHME", "number": "2320" },
+      "And",
+      "(",
+      { "subject": "ENGW", "number": "3302" },
+      "Or",
+      { "subject": "ENGW", "number": "3315" },
+      ")"
+    ]
   },
   {
     "subject": "CHME",
@@ -121,7 +169,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39385" },
-      { "term": "202410", "crn": "19795" }
+      { "term": "202410", "crn": "19795" },
+      { "term": "202510", "crn": "17270" }
     ],
     "description": "Accompanies CHME 3305. Discusses laboratory safety, experimental design and design of experiments (DOE), data analysis, data presentation, and report-writing strategies.",
     "coreqs": [{ "subject": "CHME", "number": "3305" }],
@@ -142,7 +191,8 @@
       { "term": "202330", "crn": "31047" },
       { "term": "202330", "crn": "34975" },
       { "term": "202310", "crn": "11773" },
-      { "term": "202310", "crn": "12583" }
+      { "term": "202310", "crn": "12583" },
+      { "term": "202510", "crn": "12058" }
     ],
     "description": "Continues CHME 2310. Presents the fundamentals and applications of energy transport, mass transport, and simultaneous energy/mass transport. The methods taught are relevant to the analysis of engineering processes in a number of industries, including chemical, pharmaceutical, food, energy, biotechnology, and materials.",
     "coreqs": [],
@@ -203,7 +253,8 @@
       { "term": "202330", "crn": "31542" },
       { "term": "202330", "crn": "32676" },
       { "term": "202310", "crn": "10543" },
-      { "term": "202310", "crn": "11798" }
+      { "term": "202310", "crn": "11798" },
+      { "term": "202510", "crn": "11462" }
     ],
     "description": "Continues CHME 2320. Covers thermodynamic properties of mixtures; fugacity and the fugacity coefficients from equations of state for gaseous mixtures; liquid phase fugacities and activity coefficients for liquid mixtures; phase equilibriums; the equilibrium constant for homogeneous gas-phase reactions; and extension of theory to handle simultaneous, heterogeneous, and solution reactions.",
     "coreqs": [],
@@ -233,7 +284,27 @@
     ],
     "description": "Offers students an opportunity to obtain hands-on laboratory experience and to develop safety, teamwork, problem-solving, organizational, technical writing, and oral presentation skills. Focuses on the discovery of fundamental heat and mass transport principles. Those fundamentals are used to develop and design engineering solutions through experiments in the context of the current fields of chemical engineering. Focuses on the hazards associated with these chemical engineering experiments and the materials handled during laboratory.",
     "coreqs": [{ "subject": "CHME", "number": "4316" }],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "CHME", "number": "3312" },
+      "And",
+      "(",
+      { "subject": "CHME", "number": "3315" },
+      "Or",
+      { "subject": "CS", "number": "2510" },
+      ")",
+      ")",
+      "And",
+      "(",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1101" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      ")"
+    ]
   },
   {
     "subject": "CHME",
@@ -266,7 +337,9 @@
       { "term": "202330", "crn": "30043" },
       { "term": "202330", "crn": "38832" },
       { "term": "202330", "crn": "38833" },
-      { "term": "202310", "crn": "13687" }
+      { "term": "202310", "crn": "13687" },
+      { "term": "202510", "crn": "12868" },
+      { "term": "202510", "crn": "17272" }
     ],
     "description": "Covers fundamental theories of the rate of chemical change in homogeneous reacting systems, integral and differential analysis of kinetic data; design of batch and continuous-flow chemical reactors; and an introduction to heterogeneous reactions and reactor design.",
     "coreqs": [],
@@ -288,7 +361,8 @@
       { "term": "202410", "crn": "11405" },
       { "term": "202330", "crn": "30437" },
       { "term": "202330", "crn": "38834" },
-      { "term": "202310", "crn": "11586" }
+      { "term": "202310", "crn": "11586" },
+      { "term": "202510", "crn": "11278" }
     ],
     "description": "Covers Laplace transform and its use in solving ordinary differential equations; modeling liquid-level, temperature, and composition dynamics; linearization of nonlinear systems; first- and second-order system transfer functions; and PID control; computer simulation of open- and closed-loop systems; control system stability; and feed-forward and cascade control.",
     "coreqs": [],
@@ -312,7 +386,8 @@
       { "term": "202330", "crn": "32899" },
       { "term": "202330", "crn": "38835" },
       { "term": "202310", "crn": "10544" },
-      { "term": "202310", "crn": "16092" }
+      { "term": "202310", "crn": "16092" },
+      { "term": "202510", "crn": "10481" }
     ],
     "description": "Focuses on the design of a chemical process with a particular emphasis on separation technologies. Topics include computer simulation of steady-state processing conditions, selecting process operations, reactor design, preparing flow sheets and stream tables, and evaluating the economics of a chemical process design.",
     "coreqs": [],
@@ -339,7 +414,8 @@
       { "term": "202330", "crn": "30435" },
       { "term": "202330", "crn": "33282" },
       { "term": "202330", "crn": "33568" },
-      { "term": "202310", "crn": "11587" }
+      { "term": "202310", "crn": "11587" },
+      { "term": "202510", "crn": "11279" }
     ],
     "description": "Offers students an opportunity to participate in an open-ended, project-based design course where teams design innovative solutions of a comprehensive chemical process. Considers public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors. Students apply engineering knowledge from their undergraduate academic studies to design a chemical process that handles mass and energy balances. Requires proof of concept data from prototypes, experiments, or simulations of the process to show the design is feasible and that use of the data improves the design. Team presentations, in multiple formats, are shared with the chemical engineering community for feedback and evaluation. Requires multiple progress reports, submitted by the team, which results in the final design report at the end of the semester.",
     "coreqs": [{ "subject": "CHME", "number": "4705" }],
@@ -364,7 +440,8 @@
       { "term": "202430", "crn": "33367" },
       { "term": "202410", "crn": "14060" },
       { "term": "202330", "crn": "33839" },
-      { "term": "202310", "crn": "14692" }
+      { "term": "202310", "crn": "14692" },
+      { "term": "202510", "crn": "13567" }
     ],
     "description": "Accompanies CHME 4703. Provides a common meeting platform for all students in individual sections of CHME 4703 to meet on a weekly basis. Guest speakers and common lectures will be delivered during this recitation.",
     "coreqs": [{ "subject": "CHME", "number": "4703" }],
@@ -388,18 +465,6 @@
   },
   {
     "subject": "CHME",
-    "number": "4992",
-    "title": "Directed Study",
-    "scheduleType": "Individual Instruction",
-    "credits": 1,
-    "nuPath": [],
-    "sections": [],
-    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
-    "coreqs": [],
-    "prereqs": [{ "subject": "CHME", "number": "2311" }]
-  },
-  {
-    "subject": "CHME",
     "number": "5101",
     "title": "Fundamentals of Chemical Engineering Analysis",
     "scheduleType": "Lecture",
@@ -407,7 +472,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12998" },
-      { "term": "202310", "crn": "13382" }
+      { "term": "202310", "crn": "13382" },
+      { "term": "202510", "crn": "12657" }
     ],
     "description": "Offers graduate students from undergraduate studies outside of traditional chemical engineering an opportunity to obtain a practical understanding of the core principles behind the chemical engineering discipline. Topics include vector and tensor calculus, continuum mechanics and thermodynamics, macroscopic and microscopic analyses of mass, momentum, and energy conservation; the fundamental principles of processes in which mass, energy, and momentum are transported; consequences of the Second Law of Thermodynamics, the principles governing phase and chemical reaction equilibrium; the fundamental theories of chemical reaction kinetics and reactor design; and the mathematical formulation and solution of the underlying equations involved in all these topics.",
     "coreqs": [],
@@ -453,6 +519,18 @@
   },
   {
     "subject": "CHME",
+    "number": "5160",
+    "title": "Drug Delivery: Engineering Analysis",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20358" }],
+    "description": "Focuses on engineering analysis of drug delivery systems, demonstrating the application of classic engineering principles to a nontraditional field for chemical engineers. Presents quantitative analysis of transport of a drug through the body and its control by physical and chemical drug and drug delivery device properties. Emphasizes the influence of biological tissue composition and structure on these processes.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CHME",
     "number": "5179",
     "title": "Complex Fluids and Everyday Materials",
     "scheduleType": "Lecture",
@@ -492,6 +570,18 @@
   },
   {
     "subject": "CHME",
+    "number": "5515",
+    "title": "Process Safety Engineering for Biotechnology and Pharmaceutical Industries",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20359" }],
+    "description": "Examines process safety engineering considerations for the biotechnology and pharmaceutical industries. Considers clean-in-place methods, the handling of flammables within the production area, the keeping of material in pipes and vessels, basic ventilation requirements, how to handle flammable and reactive chemicals, the process safety involved in spray dryers, and how to assess hazards by hazard analysis techniques.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CHME",
     "number": "5520",
     "title": "Process Safety Engineering&#8212;Chemical Reactivity, Reliefs, and Hazards Analysis",
     "scheduleType": "Lecture",
@@ -511,7 +601,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16583" },
-      { "term": "202310", "crn": "18922" }
+      { "term": "202310", "crn": "18922" },
+      { "term": "202510", "crn": "15341" }
     ],
     "description": "Introduces fundamental concepts of electrochemical thermodynamics, kinetics, and mass transport and places them in context for applications such as batteries, fuel cells, and electrochemical sensors. Additional topics include porous electrode theory, cyclic voltammetry, Pourbaix diagrams, and the structure of the electrochemical double layer.",
     "coreqs": [],
@@ -560,7 +651,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12615" },
-      { "term": "202310", "crn": "12943" }
+      { "term": "202310", "crn": "12943" },
+      { "term": "202510", "crn": "12326" }
     ],
     "description": "Offers a broad overview of the field of biomaterials (materials used in medical devices that interact with living tissues). Begins with introductory lectures on biomaterials and their translation from the laboratory to the medical marketplace and progresses to discussions of important biomaterials terminology and concepts. Basic materials science lectures then emphasize material structure-property-function-testing relationships. Concludes with introductions to topics in the field such as biomaterials-tissue interactions, tissue engineering, regulatory requirements, etc. Considers principles of device design as related to the selection and application of biomaterials throughout this course.",
     "coreqs": [],
@@ -625,9 +717,24 @@
       { "term": "202410", "crn": "14604" },
       { "term": "202340", "crn": "41970" },
       { "term": "202310", "crn": "15472" },
-      { "term": "202310", "crn": "21756" }
+      { "term": "202310", "crn": "21756" },
+      { "term": "202510", "crn": "14000" },
+      { "term": "202430", "crn": "42044" },
+      { "term": "202410", "crn": "19302" }
     ],
     "description": "Focuses on topics related to chemical engineering to be selected by the instructor. May be repeated up to two times.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CHME",
+    "number": "5976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21448" }],
+    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated up to three times for a maximum of 4 total semester hours.",
     "coreqs": [],
     "prereqs": []
   },
@@ -638,8 +745,47 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "22302" }],
+    "sections": [
+      { "term": "202410", "crn": "22302" },
+      { "term": "202510", "crn": "19683" }
+    ],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CHME",
+    "number": "6310",
+    "title": "Python for Chemical Engineers",
+    "scheduleType": "Lecture",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20360" }],
+    "description": "Introduces chemical engineers to the Python programming language and how it can be applied to solve disciplinary problems, including those from material and energy balances, thermodynamics, transport, and kinetics. Covers linear algebra, calculus, differential equations, working with datasets, data visualization, and regression.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CHME",
+    "number": "6320",
+    "title": "Numerical and Statistical Methods for Chemical Engineering",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20361" }],
+    "description": "Focuses on the numerical and statistical mathematical methods often utilized by chemical engineers for solving problems and working with data. Includes methods to solve linear, non-linear, and sets of linear ordinary differential equations; solve partial differential equations; create graphs of data and apply appropriate statistical tests; and perform curve regression and evaluate fit. Introduces advanced mathematical techniques including vector calculus, Monte Carlo simulations, optimization methods, and machine learning.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CHME",
+    "number": "6390",
+    "title": "Professional Development and Communication Essentials",
+    "scheduleType": "Seminar",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "22314" }],
+    "description": "Explores topics related to building advanced careers in chemical engineering. Focuses on strategies for academic success, communication, and networking. Offers students an opportunity to build a sense of cohort community and to learn about ongoing research projects in the Department of Chemical Engineering, professional workplace behaviors, and ethical conduct in a research environment.",
     "coreqs": [],
     "prereqs": []
   },
@@ -652,7 +798,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10590" },
-      { "term": "202310", "crn": "10641" }
+      { "term": "202310", "crn": "10641" },
+      { "term": "202510", "crn": "10551" }
     ],
     "description": "Focuses on the formulation and solutions of problems involving advanced calculus as they arise in chemical engineering systems. Covers ordinary differential equations, series solutions, and complex variables. Also studies applications involving Laplace transforms, partial differential equations, matrix operations, vectors and tensors, and optimization methods. Emphasis is on methods for formulating the problems.",
     "coreqs": [],
@@ -677,7 +824,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12987" },
-      { "term": "202310", "crn": "13371" }
+      { "term": "202310", "crn": "13371" },
+      { "term": "202510", "crn": "12648" }
     ],
     "description": "Offers a graduate-level introduction to the fundamental principles relating molecular structure and bulk material properties. Begins with classical thermodynamics laws that govern macroscopic conservation, equilibrium stability, and irreversible processes, including open processes, multicomponent phase equilibrium, and reaction equilibrium. Introduces relationships between microscopic states and macroscopic properties, applied to understand systems such as non ideal fluids, crystalline solids, polymers, and electrolytes. Statistical thermodynamics concepts may also be applied through the use of analytical theory and computational molecular modeling.",
     "coreqs": [],
@@ -708,7 +856,17 @@
     ],
     "description": "Covers fundamental theories of the rate of chemical change in homogeneous reacting systems, integral and differential analysis of kinetic data. Examines the theoretical foundations for the analysis of elementary chemical reaction rates. Comprises analysis and modeling of batch and ideal flow reactors, axial and radial dispersion in flow tubular reactors, and design principles of gas solid catalytic reactors. Builds on undergraduate chemical engineering kinetics concepts. Requires proficiency in calculus and differential equations.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "CHME", "number": "4510" },
+      "Or",
+      { "subject": "CHME", "number": "5101" },
+      "Or",
+      { "subject": "CHME", "number": "5101" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "CHME",
@@ -747,7 +905,8 @@
       { "term": "202430", "crn": "30654" },
       { "term": "202410", "crn": "10652" },
       { "term": "202330", "crn": "30681" },
-      { "term": "202310", "crn": "10714" }
+      { "term": "202310", "crn": "10714" },
+      { "term": "202510", "crn": "10603" }
     ],
     "description": "Presents topics of an advanced nature by staff, outside speakers, and students in the graduate program. All seminars by outside speakers must be attended by all full-time graduate students; all other seminars must be attended when required by the instructor. May be repeated without limit.",
     "coreqs": [],
@@ -762,7 +921,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13718" },
-      { "term": "202310", "crn": "14238" }
+      { "term": "202310", "crn": "14238" },
+      { "term": "202510", "crn": "13283" }
     ],
     "description": "Focuses on communication and integrates tightly with the graduate seminar series (CHME 7390). Offers students an opportunity to learn how to articulate scientific accomplishments to the scientific community, write high-quality manuscript outlines, develop proposals for graduate fellowships, give high-quality short and long seminar presentations, and critique and peer-review research manuscripts and proposals. Students also have an opportunity to learn about ongoing research projects in the Department of Chemical Engineering, professional workplace behaviors, and ethical conduct in a research environment. This is the first of four required courses (CHME 7392, 7393, and 7394).",
     "coreqs": [],
@@ -792,7 +952,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13719" },
-      { "term": "202310", "crn": "14239" }
+      { "term": "202310", "crn": "14239" },
+      { "term": "202510", "crn": "13284" }
     ],
     "description": "Focuses on communication and integrates tightly with the graduate seminar series (CHME 7390). Offers students an opportunity to write and submit high-quality graduate fellowship proposals, develop high-quality outlines of research proposals related to their dissertation proposal, critique and peer-review publications and proposals, and learn about the latest development in ongoing research in the Department of Chemical Engineering.",
     "coreqs": [],
@@ -820,7 +981,7 @@
     "scheduleType": "Seminar",
     "credits": 1,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202510", "crn": "13285" }],
     "description": "Offers graduate students an opportunity to connect theoretical concepts learned in the classroom to real-life innovations, identify the conceptual framework of existing technological innovations, identify the conceptual aspects of their own research activities, propose innovative strategies to connect them to real-life applications, and to learn the basics of mentoring to be able to transfer their knowledge and expertise to their peers or to undergraduate students. Students may attend workshops on effective teaching and mentoring and mentor undergraduate students under the supervision of experienced academic and/or industrial mentors.",
     "coreqs": [],
     "prereqs": []
@@ -832,7 +993,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19799" }],
+    "sections": [
+      { "term": "202410", "crn": "19799" },
+      { "term": "202510", "crn": "17274" }
+    ],
     "description": "Introduces the fundamental principles of chemical engineering as applied to biopharmaceutical manufacturing. Emphasizes quantitative problem solving. Covers conservation principles (mass and energy balances), kinetics (enzyme kinetics and cell growth kinetics), and heat transfer (sterilization, reactor heat management). Focuses on bioprocess economics and upstream unit operations, principally bioreactor design. The application of computer programming and numerical methods to solve these problems is interwoven throughout the course.This is the first of a two-semester course series.",
     "coreqs": [],
     "prereqs": []
@@ -851,6 +1015,30 @@
   },
   {
     "subject": "CHME",
+    "number": "7602",
+    "title": "Pharmaceutical Engineering Laboratory",
+    "scheduleType": "Lab",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "17275" }],
+    "description": "Offers students an opportunity to apply and reinforce the theory they have learned in their pharmaceutical engineering coursework in a hands-on laboratory setting by producing and purifying a recombinant protein from cell culture. In a series of lab modules, teams of students set up, operate, and analyze bioreactors for bacterial and mammalian cell culture, as well as harvest and lyse cells, and finally purify and analyze protein using state-of-the-art filtration and chromatography processes. Requires submission of interim laboratory reports, documentation of experimental work, and a final report and presentation with a detailed proposal for how to improve upon the results obtained.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "CHME", "number": "7601" }]
+  },
+  {
+    "subject": "CHME",
+    "number": "7945",
+    "title": "Master's Project",
+    "scheduleType": "Individual Instruction",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "22921" }],
+    "description": "Offers students an opportunity for individual effort consisting of laboratory and/or computational investigation, analysis of results, and preparation of a definitive report as part of an advanced research project in an area of chemical engineering determined by the student and their advisor.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CHME",
     "number": "7973",
     "title": "Special Topics in Chemical Engineering",
     "scheduleType": "Lecture",
@@ -858,9 +1046,22 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "41425" },
-      { "term": "202410", "crn": "22245" }
+      { "term": "202410", "crn": "22245" },
+      { "term": "202430", "crn": "42046" }
     ],
     "description": "Focuses on topics related to chemical engineering to be selected by the instructor. May be repeated up to seven times for a maximum of thirty two semester hours.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "CHME",
+    "number": "7976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20362" }],
+    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated up to three times for a maximum of 4 semester hours.",
     "coreqs": [],
     "prereqs": []
   },
@@ -914,7 +1115,11 @@
       { "term": "202310", "crn": "18924" },
       { "term": "202310", "crn": "12663" },
       { "term": "202260", "crn": "60614" },
-      { "term": "202240", "crn": "41919" }
+      { "term": "202240", "crn": "41919" },
+      { "term": "202510", "crn": "18567" },
+      { "term": "202510", "crn": "18827" },
+      { "term": "202510", "crn": "19937" },
+      { "term": "202510", "crn": "20363" }
     ],
     "description": "Offers analytical and/or experimental work conducted under the direction of the faculty in fulfillment of the requirements for the degree. First-year students must attend a graduate seminar program that introduces the students to the methods of choosing a research topic, conducting research, and preparing a thesis. Successful completion of the seminar program is required. May be repeated without limit.",
     "coreqs": [],
@@ -927,7 +1132,15 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "30611" }],
+    "sections": [
+      { "term": "202330", "crn": "30611" },
+      { "term": "202510", "crn": "20364" },
+      { "term": "202510", "crn": "20365" },
+      { "term": "202510", "crn": "20366" },
+      { "term": "202510", "crn": "20367" },
+      { "term": "202510", "crn": "20368" },
+      { "term": "202510", "crn": "20369" }
+    ],
     "description": "Continues thesis work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
     "prereqs": []
@@ -955,7 +1168,29 @@
       { "term": "202350", "crn": "51131" },
       { "term": "202350", "crn": "51354" },
       { "term": "202330", "crn": "31543" },
-      { "term": "202310", "crn": "12667" }
+      { "term": "202310", "crn": "12667" },
+      { "term": "202510", "crn": "22780" },
+      { "term": "202510", "crn": "19338" },
+      { "term": "202510", "crn": "19395" },
+      { "term": "202510", "crn": "19539" },
+      { "term": "202510", "crn": "11609" },
+      { "term": "202510", "crn": "11610" },
+      { "term": "202510", "crn": "12114" },
+      { "term": "202510", "crn": "20370" },
+      { "term": "202510", "crn": "20371" },
+      { "term": "202510", "crn": "20372" },
+      { "term": "202510", "crn": "20373" },
+      { "term": "202510", "crn": "20374" },
+      { "term": "202510", "crn": "20375" },
+      { "term": "202510", "crn": "20376" },
+      { "term": "202510", "crn": "20377" },
+      { "term": "202510", "crn": "20378" },
+      { "term": "202510", "crn": "20379" },
+      { "term": "202510", "crn": "20380" },
+      { "term": "202510", "crn": "20381" },
+      { "term": "202510", "crn": "20382" },
+      { "term": "202510", "crn": "20383" },
+      { "term": "202510", "crn": "20384" }
     ],
     "description": "Offers students an opportunity to prepare for the PhD qualifying exam under faculty supervision. Intended for students who have completed all required PhD course work and have not yet achieved PhD candidacy; students who have not completed all required PhD course work are not allowed to register for this course. May be repeated once.",
     "coreqs": [],
@@ -984,7 +1219,13 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "16173" }],
+    "sections": [
+      { "term": "202410", "crn": "16173" },
+      { "term": "202510", "crn": "15109" },
+      { "term": "202510", "crn": "20385" },
+      { "term": "202510", "crn": "20386" },
+      { "term": "202510", "crn": "20387" }
+    ],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -1019,7 +1260,23 @@
       { "term": "202310", "crn": "18403" },
       { "term": "202310", "crn": "18423" },
       { "term": "202310", "crn": "18488" },
-      { "term": "202240", "crn": "41903" }
+      { "term": "202240", "crn": "41903" },
+      { "term": "202510", "crn": "12934" },
+      { "term": "202510", "crn": "15051" },
+      { "term": "202510", "crn": "22347" },
+      { "term": "202510", "crn": "15115" },
+      { "term": "202510", "crn": "15121" },
+      { "term": "202510", "crn": "15135" },
+      { "term": "202510", "crn": "19448" },
+      { "term": "202510", "crn": "19946" },
+      { "term": "202510", "crn": "20388" },
+      { "term": "202510", "crn": "20389" },
+      { "term": "202510", "crn": "20390" },
+      { "term": "202510", "crn": "20391" },
+      { "term": "202510", "crn": "22610" },
+      { "term": "202510", "crn": "22622" },
+      { "term": "202510", "crn": "22782" },
+      { "term": "202510", "crn": "22836" }
     ],
     "description": "Offers an opportunity to conduct research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -1136,7 +1393,39 @@
       { "term": "202260", "crn": "61006" },
       { "term": "202260", "crn": "61064" },
       { "term": "202260", "crn": "61139" },
-      { "term": "202260", "crn": "61665" }
+      { "term": "202260", "crn": "61665" },
+      { "term": "202510", "crn": "18208" },
+      { "term": "202510", "crn": "15004" },
+      { "term": "202510", "crn": "15024" },
+      { "term": "202510", "crn": "19126" },
+      { "term": "202510", "crn": "19317" },
+      { "term": "202510", "crn": "15054" },
+      { "term": "202510", "crn": "15055" },
+      { "term": "202510", "crn": "19337" },
+      { "term": "202510", "crn": "15081" },
+      { "term": "202510", "crn": "15116" },
+      { "term": "202510", "crn": "19358" },
+      { "term": "202510", "crn": "15343" },
+      { "term": "202510", "crn": "19861" },
+      { "term": "202510", "crn": "15344" },
+      { "term": "202510", "crn": "15345" },
+      { "term": "202510", "crn": "22260" },
+      { "term": "202510", "crn": "15346" },
+      { "term": "202510", "crn": "15347" },
+      { "term": "202510", "crn": "15348" },
+      { "term": "202510", "crn": "15349" },
+      { "term": "202510", "crn": "16876" },
+      { "term": "202510", "crn": "16916" },
+      { "term": "202510", "crn": "19046" },
+      { "term": "202510", "crn": "19089" },
+      { "term": "202510", "crn": "19627" },
+      { "term": "202510", "crn": "19902" },
+      { "term": "202510", "crn": "20392" },
+      { "term": "202510", "crn": "20393" },
+      { "term": "202510", "crn": "20394" },
+      { "term": "202510", "crn": "20395" },
+      { "term": "202510", "crn": "22611" },
+      { "term": "202440", "crn": "42390" }
     ],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -1168,7 +1457,23 @@
       { "term": "202310", "crn": "12819" },
       { "term": "202310", "crn": "12821" },
       { "term": "202310", "crn": "21890" },
-      { "term": "202310", "crn": "10598" }
+      { "term": "202310", "crn": "10598" },
+      { "term": "202510", "crn": "15110" },
+      { "term": "202510", "crn": "19034" },
+      { "term": "202510", "crn": "11238" },
+      { "term": "202510", "crn": "11239" },
+      { "term": "202510", "crn": "12229" },
+      { "term": "202510", "crn": "12230" },
+      { "term": "202510", "crn": "10521" },
+      { "term": "202510", "crn": "20396" },
+      { "term": "202510", "crn": "20397" },
+      { "term": "202510", "crn": "20398" },
+      { "term": "202510", "crn": "20399" },
+      { "term": "202510", "crn": "20400" },
+      { "term": "202510", "crn": "20401" },
+      { "term": "202510", "crn": "20402" },
+      { "term": "202510", "crn": "20403" },
+      { "term": "202510", "crn": "22612" }
     ],
     "description": "Offers theoretical and experimental work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
@@ -1201,7 +1506,21 @@
       { "term": "202330", "crn": "36956" },
       { "term": "202310", "crn": "15101" },
       { "term": "202310", "crn": "15105" },
-      { "term": "202310", "crn": "18986" }
+      { "term": "202310", "crn": "18986" },
+      { "term": "202510", "crn": "19028" },
+      { "term": "202510", "crn": "19403" },
+      { "term": "202510", "crn": "19536" },
+      { "term": "202510", "crn": "13810" },
+      { "term": "202510", "crn": "13811" },
+      { "term": "202510", "crn": "15350" },
+      { "term": "202510", "crn": "20404" },
+      { "term": "202510", "crn": "20405" },
+      { "term": "202510", "crn": "20406" },
+      { "term": "202510", "crn": "20407" },
+      { "term": "202510", "crn": "20408" },
+      { "term": "202510", "crn": "20409" },
+      { "term": "202510", "crn": "20410" },
+      { "term": "202510", "crn": "22613" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -1296,10 +1615,37 @@
       { "term": "202260", "crn": "61207" },
       { "term": "202260", "crn": "61561" },
       { "term": "202240", "crn": "40803" },
-      { "term": "202240", "crn": "40847" }
+      { "term": "202240", "crn": "40847" },
+      { "term": "202510", "crn": "12131" },
+      { "term": "202510", "crn": "19466" },
+      { "term": "202510", "crn": "11240" },
+      { "term": "202510", "crn": "12231" },
+      { "term": "202510", "crn": "15351" },
+      { "term": "202510", "crn": "15352" },
+      { "term": "202510", "crn": "16900" },
+      { "term": "202510", "crn": "10541" },
+      { "term": "202510", "crn": "10686" },
+      { "term": "202510", "crn": "11608" },
+      { "term": "202510", "crn": "11833" },
+      { "term": "202510", "crn": "18046" },
+      { "term": "202510", "crn": "18047" },
+      { "term": "202510", "crn": "18048" },
+      { "term": "202510", "crn": "18057" },
+      { "term": "202510", "crn": "18058" },
+      { "term": "202510", "crn": "18059" },
+      { "term": "202510", "crn": "20411" },
+      { "term": "202510", "crn": "20412" },
+      { "term": "202510", "crn": "20413" },
+      { "term": "202510", "crn": "20414" },
+      { "term": "202510", "crn": "20415" },
+      { "term": "202440", "crn": "42184" }
     ],
     "description": "Continues thesis work conducted under the supervision of a departmental faculty.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "CHME", "number": "9990" },
+      "Or",
+      "Dissertation Check"
+    ]
   }
 ]

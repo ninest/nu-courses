@@ -6,7 +6,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "41448" }],
+    "sections": [
+      { "term": "202430", "crn": "41448" },
+      { "term": "202440", "crn": "42313" }
+    ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated twice.",
     "coreqs": [],
     "prereqs": []
@@ -36,7 +39,14 @@
       { "term": "202310", "crn": "12577" },
       { "term": "202310", "crn": "12578" },
       { "term": "202310", "crn": "14649" },
-      { "term": "202310", "crn": "18896" }
+      { "term": "202310", "crn": "18896" },
+      { "term": "202510", "crn": "12052" },
+      { "term": "202510", "crn": "12053" },
+      { "term": "202510", "crn": "13541" },
+      { "term": "202510", "crn": "15327" },
+      { "term": "202510", "crn": "20730" },
+      { "term": "202510", "crn": "20731" },
+      { "term": "202510", "crn": "17435" }
     ],
     "description": "Focuses on the fundamental programming skills required in the bioinformatics industry. Focuses on Python and R as the main programming language used. Topics include string operations, file manipulation, regular expressions, object-oriented programming, data structures, testing, program design, and implementation. Includes substantial out-of-classroom assignments.",
     "coreqs": [],
@@ -56,6 +66,25 @@
     "description": "Introduces RNA-Seq, a commonly used method for analyzing gene expression. Offers students an opportunity to obtain hands-on experience processing and analyzing high-throughput sequencing data, as well as exposure to NGS and RNA-Seq processes, applications, and terminology.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "BINF",
+    "number": "6250",
+    "title": "Algorithmic Foundations in Bioinformatics",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "20733" },
+      { "term": "202510", "crn": "20734" }
+    ],
+    "description": "Explores algorithmic principles in the context of bioinformatics. Through a dynamic and comprehensive journey encompassing sequence alignment, genome assembly, phylogenetics, hidden Markov models, and predictive analyses in protein and RNA structures, delves into the core techniques essential for deciphering biological data. Uses lectures, hands-on sessions, and case studies to offer students an opportunity to obtain a rich understanding of how algorithms drive insights into evolutionary relationships, genetic patterns, and molecular structures.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "BINF", "number": "6200" },
+      "Or",
+      { "subject": "BINF", "number": "6200" }
+    ]
   },
   {
     "subject": "BINF",
@@ -97,7 +126,13 @@
     ],
     "description": "Designed to build upon the core topics covered in BINF 6308, i.e., use of the computer as a tool for bioinformatics research. Builds upon the Python language fundamentals covered during the first semester but requires students to apply these fundamentals to a semester-long project. The project includes protein family analysis, multiple sequence analysis, phylogeny, and protein structure analysis. Additionally, students have an opportunity to learn to build, load, connect, and query custom MySQL databases, and parse command line flags.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "BINF", "number": "6308" },
+      "Or",
+      { "subject": "BINF", "number": "6308" },
+      "Or",
+      { "subject": "BIOL", "number": "6308" }
+    ]
   },
   {
     "subject": "BINF",
@@ -120,7 +155,14 @@
       { "term": "202410", "crn": "20953" },
       { "term": "202410", "crn": "20963" },
       { "term": "202410", "crn": "20955" },
-      { "term": "202410", "crn": "20964" }
+      { "term": "202410", "crn": "20964" },
+      { "term": "202510", "crn": "18386" },
+      { "term": "202510", "crn": "18377" },
+      { "term": "202510", "crn": "18387" },
+      { "term": "202510", "crn": "18378" },
+      { "term": "202510", "crn": "18388" },
+      { "term": "202510", "crn": "18379" },
+      { "term": "202510", "crn": "20735" }
     ],
     "description": "BINF 6310 replaces BINF 6308. If you are a new (incoming) student, please register for BINF 6310.",
     "coreqs": [],
@@ -142,11 +184,43 @@
       { "term": "202430", "crn": "39530" },
       { "term": "202410", "crn": "14028" },
       { "term": "202330", "crn": "39038" },
-      { "term": "202310", "crn": "14650" }
+      { "term": "202310", "crn": "14650" },
+      { "term": "202510", "crn": "13542" },
+      { "term": "202510", "crn": "18023" },
+      { "term": "202510", "crn": "20737" },
+      { "term": "202510", "crn": "20738" }
     ],
     "description": "Introduces the field of genomics. With the completion of the Human Genome Project several years ago, there has been an explosion of genetic data collected. Focuses on the bioinformatics tools necessary to analyze large-scale genomic data. Covers topics such as phylogenetic trees, molecular evolution, gene expression profiling, heterogeneous genomic data, as well as next-generation sequencing (NGS) data.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      "(",
+      { "subject": "BINF", "number": "6200" },
+      "Or",
+      { "subject": "BINF", "number": "6200" },
+      ")",
+      "And",
+      "(",
+      { "subject": "BINF", "number": "6310" },
+      "Or",
+      { "subject": "BINF", "number": "6310" },
+      ")",
+      ")",
+      "Or",
+      "(",
+      "(",
+      { "subject": "BINF", "number": "6308" },
+      "Or",
+      { "subject": "BINF", "number": "6308" },
+      ")",
+      "And",
+      "(",
+      { "subject": "BINF", "number": "6309" },
+      "Or",
+      { "subject": "BINF", "number": "6309" },
+      ")",
+      ")"
+    ]
   },
   {
     "subject": "BINF",
@@ -158,7 +232,9 @@
     "sections": [
       { "term": "202430", "crn": "39532" },
       { "term": "202410", "crn": "19981" },
-      { "term": "202330", "crn": "39866" }
+      { "term": "202330", "crn": "39866" },
+      { "term": "202510", "crn": "17442" },
+      { "term": "202510", "crn": "21723" }
     ],
     "description": "Focuses on some of the omics, other than genomics and proteomics, in relation to the bioinformatic tools that exist to analyze data. Provides a brief background on each field of study and then focuses on the current bioinformatics tools used. Topics include transcriptomics (transcription and gene expression), metabolomics (metabolism), glycomics (carbohydrates), lipomics (lipids), and phenomics (phenotypic data). Does not cover genomics and proteomics.",
     "coreqs": [],
@@ -201,7 +277,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "20966" },
-      { "term": "202410", "crn": "20993" }
+      { "term": "202410", "crn": "20993" },
+      { "term": "202510", "crn": "18418" },
+      { "term": "202510", "crn": "20739" }
     ],
     "description": "Introduces the study of the complete RNA transcriptome, otherwise known as “transcriptomics.” Covers the molecular genetics that underlie RNA and its various sequencing protocols (e.g., RNA-seq, ATAC-seq, and scRNA-seq), data preprocessing, transcriptome assembly, differential gene expression, and gene set enrichment analysis. Throughout the course and in collaboration with our academic partners, students take part in experiential learning by processing and analyzing various real-world RNA-seq datasets, including bulk RNA and single-cell sequencing.",
     "coreqs": [],
@@ -259,7 +337,9 @@
       { "term": "202330", "crn": "39054" },
       { "term": "202330", "crn": "39083" },
       { "term": "202310", "crn": "14652" },
-      { "term": "202310", "crn": "14653" }
+      { "term": "202310", "crn": "14653" },
+      { "term": "202510", "crn": "13543" },
+      { "term": "202510", "crn": "13544" }
     ],
     "description": "Introduces the cooperative education program. Offers students an opportunity to develop job-search and career-management skills; to assess their workplace skills, interests, and values and to discuss how they impact personal career choices; to prepare a professional resumé; and to learn proper interviewing techniques. Explores career paths, choices, professional behaviors, work culture, and career decision making.",
     "coreqs": [],
@@ -333,7 +413,13 @@
       { "term": "202310", "crn": "13210" },
       { "term": "202260", "crn": "61092" },
       { "term": "202260", "crn": "61513" },
-      { "term": "202240", "crn": "40448" }
+      { "term": "202240", "crn": "40448" },
+      { "term": "202510", "crn": "20741" },
+      { "term": "202510", "crn": "12515" },
+      { "term": "202510", "crn": "17443" },
+      { "term": "202510", "crn": "17444" },
+      { "term": "202440", "crn": "42299" },
+      { "term": "202440", "crn": "42300" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
@@ -353,7 +439,9 @@
       { "term": "202350", "crn": "53336" },
       { "term": "202330", "crn": "33061" },
       { "term": "202310", "crn": "13807" },
-      { "term": "202260", "crn": "61284" }
+      { "term": "202260", "crn": "61284" },
+      { "term": "202510", "crn": "12960" },
+      { "term": "202460", "crn": "61986" }
     ],
     "description": "Offers eligible students an opportunity for work experience abroad. May be repeated without limit.",
     "coreqs": [],

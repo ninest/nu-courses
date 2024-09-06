@@ -10,7 +10,8 @@
       { "term": "202430", "crn": "30327" },
       { "term": "202410", "crn": "14213" },
       { "term": "202330", "crn": "30339" },
-      { "term": "202310", "crn": "14866" }
+      { "term": "202310", "crn": "14866" },
+      { "term": "202510", "crn": "13705" }
     ],
     "description": "Seeks to provide an understanding of the constituent characteristics that originally linked East Asia as a region and the nature of the transformations that have occurred in the region over the last two thousand years. Concentrates on China and Japan, and addresses Korea and Vietnam where possible. Also seeks to provide students with effective interdisciplinary analytical skills as well as historical, ethical, cultural diversity, and aesthetic perspectives. ASNS 1150 and HIST 1150 are cross-listed.",
     "coreqs": [],
@@ -34,10 +35,11 @@
     "title": "The Asian-American Experience",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["DD", "IC"],
     "sections": [
       { "term": "202410", "crn": "17148" },
-      { "term": "202310", "crn": "19514" }
+      { "term": "202310", "crn": "19514" },
+      { "term": "202510", "crn": "15619" }
     ],
     "description": "Examines the impact of Asian immigrant communities on U.S. political, economic, social, and cultural life and their encounters with racial, political, and economic discrimination from the nineteenth century to the present.",
     "coreqs": [],
@@ -50,7 +52,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "EX", "IC"],
-    "sections": [{ "term": "202410", "crn": "20121" }],
+    "sections": [
+      { "term": "202410", "crn": "20121" },
+      { "term": "202510", "crn": "17579" }
+    ],
     "description": "Introduces the multiple and complex histories of Asian American cinema, from its genesis as radical independent filmmaking to its development across commercial industries and new digital media. Concentrates on a range of creative productions, from documentary and narrative features to experimental, avant-garde, and short video. Offers students an opportunity to obtain the skills to analyze the institutional processes and historical contexts of Asian American cinema and the genres, techniques, and aesthetics of Asian American filmmakers.",
     "coreqs": [],
     "prereqs": [
@@ -105,5 +110,17 @@
       "Or",
       { "subject": "WMNS", "number": "1103" }
     ]
+  },
+  {
+    "subject": "ASNS",
+    "number": "4900",
+    "title": "Asian Studies Capstone Directed Study",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["CE", "WI"],
+    "sections": [{ "term": "202510", "crn": "23006" }],
+    "description": "Offers independent intensive reading and writing on key interdisciplinary issues in Asian studies under the direction of faculty members in Asian studies on a topic chosen in consultation with the instructor.",
+    "coreqs": [],
+    "prereqs": []
   }
 ]

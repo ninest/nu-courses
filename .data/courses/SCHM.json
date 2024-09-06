@@ -77,7 +77,21 @@
       { "term": "202260", "crn": "60193" },
       { "term": "202260", "crn": "60849" },
       { "term": "202240", "crn": "40176" },
-      { "term": "202240", "crn": "40177" }
+      { "term": "202240", "crn": "40177" },
+      { "term": "202510", "crn": "11431" },
+      { "term": "202510", "crn": "11432" },
+      { "term": "202510", "crn": "11433" },
+      { "term": "202510", "crn": "11434" },
+      { "term": "202510", "crn": "11435" },
+      { "term": "202510", "crn": "11436" },
+      { "term": "202510", "crn": "11437" },
+      { "term": "202510", "crn": "11438" },
+      { "term": "202510", "crn": "11439" },
+      { "term": "202510", "crn": "11440" },
+      { "term": "202510", "crn": "11441" },
+      { "term": "202510", "crn": "11551" },
+      { "term": "202510", "crn": "11849" },
+      { "term": "202510", "crn": "14511" }
     ],
     "description": "Focuses on the integrative management of business activities intrinsic to the smooth flow of goods or services, information, and financial transactions across firms from raw materials to the end customer. This collaborative approach creates competitive advantages for all members of a supply chain. Emphasizes the responsibilities of managers regarding decisions concerning the design, operation, and control of supply chains and operations. Considers customers, globalization, corporate strategy, resources, sustainability, ethics, and diversity. Topics covered include customer-centric management; supply chain and operations strategies; process structure and control; and supply, inventory, and quality management. Emphasizes the key role of information technology, logistics network design, supply chain relationships, and process evolution.",
     "coreqs": [],
@@ -98,7 +112,8 @@
       { "term": "202330", "crn": "30353" },
       { "term": "202330", "crn": "36839" },
       { "term": "202310", "crn": "10361" },
-      { "term": "202310", "crn": "15591" }
+      { "term": "202310", "crn": "15591" },
+      { "term": "202510", "crn": "10317" }
     ],
     "description": "Focuses on the managerial activities of those involved in supply chain management operations and planning for companies doing international commerce. Analyzes contemporary issues that affect the design of international supply chain systems, including sourcing, logistics, transactions, risk, sustainability, and ethical considerations. Examines the current status and future prospects of the modes of international transportation as well as international trade and development issues, not only from the corporate perspective but also in terms of government policy.",
     "coreqs": [],
@@ -115,11 +130,12 @@
       { "term": "202430", "crn": "31657" },
       { "term": "202410", "crn": "11804" },
       { "term": "202330", "crn": "31831" },
-      { "term": "202310", "crn": "12025" }
+      { "term": "202310", "crn": "12025" },
+      { "term": "202510", "crn": "11637" }
     ],
     "description": "Addresses the strategic and operational role of sourcing and procurement and its impact on the supply chain as it relates to the entire organization. The selection, contracting, development and monitoring/managing of the right supplier in the right location is more often a source of competitive advantage and a major contributor to a company's bottom line. The course focuses on a variety of aspects of this function—strategy development, organization, procedures, supplier selection, negotiations, buyer-supplier relationship management, quantity, quality, timeliness, and cost/price considerations for the purchase of goods and services.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "SCHM", "number": "2301" }]
   },
   {
     "subject": "SCHM",
@@ -132,7 +148,8 @@
       { "term": "202430", "crn": "36161" },
       { "term": "202410", "crn": "15298" },
       { "term": "202330", "crn": "38128" },
-      { "term": "202310", "crn": "16625" }
+      { "term": "202310", "crn": "16625" },
+      { "term": "202510", "crn": "14515" }
     ],
     "description": "Examines state-of-the-art in analytics capabilities and how they drive supply chains, from marketing to sourcing. Examines how organizations use analytics to meet their strategic objectives, provide value to the business, and make decisions. Offers students an opportunity to develop strategic supply chain decision-making skills using the latest analytics capabilities as an enabler. Focuses heavily on industry best practices, including looking at some of the leading companies.",
     "coreqs": [],
@@ -155,7 +172,8 @@
       { "term": "202430", "crn": "30340" },
       { "term": "202410", "crn": "10334" },
       { "term": "202330", "crn": "30352" },
-      { "term": "202310", "crn": "10360" }
+      { "term": "202310", "crn": "10360" },
+      { "term": "202510", "crn": "10316" }
     ],
     "description": "Examines the logistics and transportation operations, including the structure, challenges, and potential of the major modes of domestic transportation. Focuses on the interaction between logistics providers and shippers in the marketplace. Explores the major dynamics of the logistics marketplace and their impact on supply chain management. Seeks to provide students with a managerial perspective on controlling what is typically the most expensive component of supply chain management, transportation expenditures.",
     "coreqs": [],
@@ -172,7 +190,8 @@
       { "term": "202430", "crn": "33233" },
       { "term": "202410", "crn": "14356" },
       { "term": "202330", "crn": "33673" },
-      { "term": "202310", "crn": "15087" }
+      { "term": "202310", "crn": "15087" },
+      { "term": "202510", "crn": "13804" }
     ],
     "description": "Focuses on concepts and topics related to the design and management of healthcare sector operations and supply chain. Offers students an opportunity to learn about practices and strategies for effective management of operations and supply chain in healthcare organizations, including management of inventory, operations processes, capacity, procurement, logistics, IT systems, and attendant relationships, as well as various optimization tools and techniques.",
     "coreqs": [],
@@ -205,7 +224,9 @@
       { "term": "202310", "crn": "13189" },
       { "term": "202310", "crn": "13190" },
       { "term": "202310", "crn": "19704" },
-      { "term": "202240", "crn": "40449" }
+      { "term": "202240", "crn": "40449" },
+      { "term": "202510", "crn": "12484" },
+      { "term": "202510", "crn": "12485" }
     ],
     "description": "Focuses on the integrative management of processes and activities involved in transformation and delivery of goods and services. Offers students an opportunity to obtain foundational knowledge on operations and supply chain management concepts, techniques, and functions. Topics covered include sourcing and procurement, manufacturing and service operations, process design and control, quality management, capacity planning, demand planning and forecasting, inventory management, transportation and distribution management, interfirm relationship management, and attendant information flows.",
     "coreqs": [],
@@ -223,11 +244,24 @@
       { "term": "202410", "crn": "12339" },
       { "term": "202350", "crn": "52457" },
       { "term": "202330", "crn": "30759" },
-      { "term": "202310", "crn": "12630" }
+      { "term": "202310", "crn": "12630" },
+      { "term": "202510", "crn": "12087" }
     ],
     "description": "Examines the logistics and transportation operations, including the structure, challenges, and potential of the major modes of domestic transportation. Focuses on the interaction between logistics providers and shippers in the marketplace. Explores the major dynamics of the logistics marketplace and their impact on supply chain management. Offers students a managerial perspective on controlling what is typically the most expensive component of supply chain management, transportation expenditures.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "SCHM", "number": "6201" },
+      "Or",
+      { "subject": "SCHM", "number": "6208" },
+      "Or",
+      { "subject": "SCHM", "number": "6210" },
+      "Or",
+      { "subject": "SCHM", "number": "6200" },
+      "Or",
+      { "subject": "IE", "number": "7200" },
+      "Or",
+      { "subject": "SCHM", "number": "6318" }
+    ]
   },
   {
     "subject": "SCHM",
@@ -244,7 +278,8 @@
       { "term": "202350", "crn": "52463" },
       { "term": "202330", "crn": "30940" },
       { "term": "202330", "crn": "33153" },
-      { "term": "202310", "crn": "10695" }
+      { "term": "202310", "crn": "10695" },
+      { "term": "202510", "crn": "10588" }
     ],
     "description": "Focuses on the managerial activities of those involved in supply chain management operations and planning for companies involved in international commerce. Analyzes contemporary issues that affect the design of international supply chain systems and strategies, including sourcing, logistics, transactions, risk, and ethical considerations. Examines the current status and future prospects of the modes of international logistics operations as well as international trade and development issues, not only from the corporate perspective but also in terms of government policy.",
     "coreqs": [],
@@ -278,7 +313,8 @@
       { "term": "202310", "crn": "12543" },
       { "term": "202310", "crn": "12544" },
       { "term": "202310", "crn": "12631" },
-      { "term": "202310", "crn": "19705" }
+      { "term": "202310", "crn": "19705" },
+      { "term": "202510", "crn": "18358" }
     ],
     "description": "Addresses the strategic and operational role of sourcing and procurement and its impact on the supply chain as it relates to the entire organization. The selection, contracting, development, and monitoring/managing of the right supplier in the right location is more often a source of competitive advantage and a major contributor to a company's bottom line. Focuses on a variety of aspects of this function—strategy development, organization, procedures, supplier selection, negotiations, buyer-supplier relationship management, quantity, quality, timeliness, and cost/price considerations for the purchase of goods and services. Emphasizes the perspective of the sourcing and procurement manager. The key questions addressed in this course are: What does the manager need to know to be effective? How do they apply key concepts?",
     "coreqs": [],
@@ -308,11 +344,25 @@
       { "term": "202410", "crn": "13667" },
       { "term": "202410", "crn": "20933" },
       { "term": "202330", "crn": "36622" },
-      { "term": "202310", "crn": "14183" }
+      { "term": "202310", "crn": "14183" },
+      { "term": "202510", "crn": "13236" },
+      { "term": "202510", "crn": "18359" }
     ],
     "description": "Designed to develop strategic decision-making skills using the latest analytics capabilities and enabler. Examines the state of the art in analytics capabilities and how these drive supply chains, from marketing to sourcing. Also examines how organizations use analytics to meet their strategic objectives, provide value to the business, and make decisions. Focuses on industry best practices, including studying some of the leading companies.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "IE", "number": "7200" },
+      "Or",
+      { "subject": "SCHM", "number": "6200" },
+      "Or",
+      { "subject": "SCHM", "number": "6201" },
+      "Or",
+      { "subject": "SCHM", "number": "6208" },
+      "Or",
+      { "subject": "SCHM", "number": "6210" },
+      "Or",
+      { "subject": "SCHM", "number": "6318" }
+    ]
   },
   {
     "subject": "SCHM",
@@ -371,7 +421,19 @@
     ],
     "description": "Offers a practical introduction to demand (sales) forecasting for business students. Focuses on the organizational processes in generating a forecast, regression analysis, exponential smoothing, time-series analysis, judgmental forecasting methods, and evaluation of forecast quality. Uses real-life data and various software packages to illustrate basic concepts.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "SCHM", "number": "6201" },
+      "Or",
+      { "subject": "SCHM", "number": "6208" },
+      "Or",
+      { "subject": "SCHM", "number": "6210" },
+      "Or",
+      { "subject": "SCHM", "number": "6200" },
+      "Or",
+      { "subject": "IE", "number": "7200" },
+      "Or",
+      { "subject": "SCHM", "number": "6318" }
+    ]
   },
   {
     "subject": "SCHM",
@@ -388,7 +450,9 @@
       { "term": "202330", "crn": "34250" },
       { "term": "202330", "crn": "39811" },
       { "term": "202310", "crn": "13776" },
-      { "term": "202310", "crn": "13775" }
+      { "term": "202310", "crn": "13775" },
+      { "term": "202510", "crn": "12937" },
+      { "term": "202510", "crn": "12936" }
     ],
     "description": "Focuses on the integrative management of processes and activities involved in transformation and delivery of goods and services. Emphasizes foundational knowledge on supply chain and operations management concepts, techniques, and functions. Topics covered include sourcing and procurement, manufacturing and service operations, logistics management, process design and control, inventory management, interfirm relationship management, and attendant information flows.",
     "coreqs": [],

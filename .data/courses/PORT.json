@@ -10,8 +10,8 @@
       { "term": "202440", "crn": "42005" },
       { "term": "202430", "crn": "30005" },
       { "term": "202410", "crn": "11276" },
-      { "term": "202330", "crn": "30005" },
-      { "term": "202310", "crn": "11439" }
+      { "term": "202310", "crn": "11439" },
+      { "term": "202510", "crn": "11164" }
     ],
     "description": "Begins the integrated development of elementary language skills through cultural exploration. Includes class discussion and project-based learning. Offers students an opportunity to gain a deeper understanding of daily life, social norms, and family structure in Portuguese-speaking countries.Designed for students with very little or no prior knowledge of Portuguese.",
     "coreqs": [],
@@ -27,7 +27,8 @@
     "sections": [
       { "term": "202410", "crn": "11560" },
       { "term": "202330", "crn": "30022" },
-      { "term": "202310", "crn": "11754" }
+      { "term": "202310", "crn": "11754" },
+      { "term": "202510", "crn": "11428" }
     ],
     "description": "Builds on PORT 1101 and continues the integrated development of elementary language skills through cultural exploration. Includes class discussion and project-based learning. Offers students an opportunity to gain a deeper understanding of the linguistic, cultural, and geographic diversity of the Portuguese-speaking world.",
     "coreqs": [],
@@ -47,7 +48,8 @@
     "sections": [
       { "term": "202430", "crn": "36139" },
       { "term": "202410", "crn": "19664" },
-      { "term": "202330", "crn": "38100" }
+      { "term": "202330", "crn": "38100" },
+      { "term": "202510", "crn": "17144" }
     ],
     "description": "Introduces Portuguese to native/heritage speakers of Spanish, beginner-level heritage speakers of Portuguese, and students who have completed at least two levels of intermediate Spanish. Focuses on fundamental communication skills—speaking, aural comprehension, reading, and writing. Also explores cultural elements of the Portuguese-speaking countries. Students who do not have the preparation described may seek permission of instructor. This course is the equivalent of completing two semesters of elementary Portuguese.",
     "coreqs": [],
@@ -83,7 +85,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202310", "crn": "20244" }],
+    "sections": [
+      { "term": "202310", "crn": "20244" },
+      { "term": "202510", "crn": "21627" }
+    ],
     "description": "Builds on PORT 2101 and focuses on further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through written composition, prepared oral reports, and reading and discussion from contemporary Portuguese materials.",
     "coreqs": [],
     "prereqs": [
@@ -102,22 +107,6 @@
       "Or",
       { "subject": "ENGW", "number": "1102" },
       ")"
-    ]
-  },
-  {
-    "subject": "PORT",
-    "number": "3101",
-    "title": "Advanced Portuguese 1",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [],
-    "description": "Continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
-    "coreqs": [],
-    "prereqs": [
-      { "subject": "PORT", "number": "2102" },
-      "Or",
-      { "subject": "PORT", "number": "2302" }
     ]
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "subject": "PREL",
+    "number": "1425",
+    "title": "Public Relations Principles",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20025" }],
+    "description": "Presents the principles, history, and methods of public relations; processes of influencing public opinion; responsibilities of the public relations practitioner; and analyses of public relations programs. Through case studies and class discussions, offers students an opportunity to confront real-life ethical dilemmas and learn to apply ethical frameworks to evaluate and resolve them.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PREL",
+    "number": "3625",
+    "title": "Public Relations Practice",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20026" }],
+    "description": "Demonstrates practices and techniques employed in the field including organization of events and functions. Studies campaign planning, research, and media relationships.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "JRNL", "number": "3425" }]
+  }
+]

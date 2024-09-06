@@ -13,7 +13,9 @@
       { "term": "202330", "crn": "33716" },
       { "term": "202310", "crn": "10499" },
       { "term": "202310", "crn": "11861" },
-      { "term": "202310", "crn": "10837" }
+      { "term": "202310", "crn": "10837" },
+      { "term": "202510", "crn": "10442" },
+      { "term": "202510", "crn": "10690" }
     ],
     "description": "Designed to provide a unique opportunity to engage faculty, professional staff, and peer mentors in small group discussions. Introduces students to the College of Arts, Media and Design. Offers students an opportunity to learn about the communication studies major and to explore the different areas of emphasis offered by the department. As part of the course, students are expected to prepare a detailed plan of study and are introduced to the co-op program and meet their academic co-op advisor.",
     "coreqs": [],
@@ -41,7 +43,10 @@
       { "term": "202310", "crn": "20508" },
       { "term": "202260", "crn": "60887" },
       { "term": "202240", "crn": "40235" },
-      { "term": "202240", "crn": "41709" }
+      { "term": "202240", "crn": "41709" },
+      { "term": "202510", "crn": "10219" },
+      { "term": "202510", "crn": "16133" },
+      { "term": "202460", "crn": "61747" }
     ],
     "description": "Surveys the field of communication studies. Covers major theories and methodological approaches in communication studies and situates communication within larger social, political, and economic institutions. Exposes students to ways of ethical reasoning across communication contexts, including organizational communication, social media, intercultural communication, mass media, and interpersonal communication.",
     "coreqs": [],
@@ -132,7 +137,22 @@
       { "term": "202240", "crn": "40197" },
       { "term": "202240", "crn": "40971" },
       { "term": "202240", "crn": "41771" },
-      { "term": "202240", "crn": "41788" }
+      { "term": "202240", "crn": "41788" },
+      { "term": "202510", "crn": "10304" },
+      { "term": "202510", "crn": "10303" },
+      { "term": "202510", "crn": "15644" },
+      { "term": "202510", "crn": "11067" },
+      { "term": "202510", "crn": "11872" },
+      { "term": "202510", "crn": "12509" },
+      { "term": "202510", "crn": "13534" },
+      { "term": "202510", "crn": "13535" },
+      { "term": "202510", "crn": "13808" },
+      { "term": "202510", "crn": "13964" },
+      { "term": "202510", "crn": "13966" },
+      { "term": "202510", "crn": "17698" },
+      { "term": "202440", "crn": "42167" },
+      { "term": "202440", "crn": "42175" },
+      { "term": "202440", "crn": "42312" }
     ],
     "description": "Develops skills in public communication. Topics include choosing and researching a topic, organizing and delivering a speech, handling speech anxiety, listening critically, and adapting language to an audience. Offers the opportunity for students to present a series of speeches and receive advice and criticism from an audience.",
     "coreqs": [],
@@ -184,7 +204,12 @@
       { "term": "202260", "crn": "60904" },
       { "term": "202260", "crn": "61420" },
       { "term": "202240", "crn": "40461" },
-      { "term": "202240", "crn": "40972" }
+      { "term": "202240", "crn": "40972" },
+      { "term": "202510", "crn": "11867" },
+      { "term": "202510", "crn": "15645" },
+      { "term": "202510", "crn": "12511" },
+      { "term": "202510", "crn": "17050" },
+      { "term": "202460", "crn": "61845" }
     ],
     "description": "Designed to assist students in developing advanced public speaking and presentational skills for professional and leadership positions. Covers fundamentals such as audience, speech objectives and structure, and effective delivery. Emphasizes the production and successful interaction with electronic and traditional supportive media. Offers students an opportunity to develop their presentational skills in a variety of settings and realistic business tasks.",
     "coreqs": [],
@@ -202,7 +227,8 @@
       { "term": "202410", "crn": "17207" },
       { "term": "202410", "crn": "21210" },
       { "term": "202330", "crn": "38488" },
-      { "term": "202330", "crn": "40176" }
+      { "term": "202330", "crn": "40176" },
+      { "term": "202510", "crn": "18624" }
     ],
     "description": "Considers how the theories and techniques of argumentation can be used to understand and promote differing points of view, explore ideas and alternatives, and convince others of the need to change or act. Starts with the principles of formal logic and introduces students to truth tables and diagramming techniques. Continues to discuss informal logic and modern argumentation theory, including argumentative reconstruction, argument structures, argument schemes and critical questions, as well as informal fallacies. Concludes with a discussion of the effective use of reasoning in society from a logical, dialectical, and rhetorical point of view.",
     "coreqs": [],
@@ -227,7 +253,10 @@
       { "term": "202310", "crn": "11944" },
       { "term": "202310", "crn": "20710" },
       { "term": "202260", "crn": "60225" },
-      { "term": "202240", "crn": "40236" }
+      { "term": "202240", "crn": "40236" },
+      { "term": "202510", "crn": "11579" },
+      { "term": "202460", "crn": "61846" },
+      { "term": "202440", "crn": "42220" }
     ],
     "description": "Focuses on communication within the context of close relationships. Topics covered include the role of communication in interpersonal attraction, relationship development, relationship maintenance, and relationship dissolution. Examines how communication impacts relationship quality and commitment. Offers students an opportunity to apply what they learn in the course to their personal and professional lives.",
     "coreqs": [],
@@ -249,7 +278,8 @@
       { "term": "202330", "crn": "32052" },
       { "term": "202310", "crn": "11480" },
       { "term": "202310", "crn": "12331" },
-      { "term": "202240", "crn": "40462" }
+      { "term": "202240", "crn": "40462" },
+      { "term": "202510", "crn": "11873" }
     ],
     "description": "Seeks to teach students to be more astute receivers and producers of persuasive messages by learning how to dissect them. Examines both classical and contemporary theories of persuasion, after which students consider “persuasion in action”—how persuasion is used in everyday language, nonverbal communication, sales techniques, politics, and propaganda. Ethical issues in persuasion are addressed throughout the course.",
     "coreqs": [],
@@ -275,7 +305,8 @@
       { "term": "202310", "crn": "11945" },
       { "term": "202310", "crn": "20711" },
       { "term": "202260", "crn": "60546" },
-      { "term": "202240", "crn": "40669" }
+      { "term": "202240", "crn": "40669" },
+      { "term": "202510", "crn": "11580" }
     ],
     "description": "Explores communicative and cultural practice from a wide variety of theoretical perspectives. Considers a wide range of cultural practices, texts, and artifacts, including popular culture (television shows, movies, and video games); social media and online content; as well as organizational communication (press releases) and interpersonal interactions (conversations between romantic partners). Communication theory is based on two premises: Our cultural assumptions inform and shape our ability to communicate; and communication is the process through which culture is created, modified, and challenged.",
     "coreqs": [],
@@ -299,7 +330,10 @@
       { "term": "202340", "crn": "40374" },
       { "term": "202330", "crn": "32525" },
       { "term": "202260", "crn": "60376" },
-      { "term": "202240", "crn": "40394" }
+      { "term": "202240", "crn": "40394" },
+      { "term": "202510", "crn": "17052" },
+      { "term": "202510", "crn": "17053" },
+      { "term": "202440", "crn": "42166" }
     ],
     "description": "Surveys the communication process in complex organizations. Topics include the evolution of organizational communication, communication networks, information management, and communication climate. Analyzes case studies and teaches how to improve the quality of communication in an organization.",
     "coreqs": [],
@@ -352,7 +386,9 @@
       { "term": "202330", "crn": "34345" },
       { "term": "202330", "crn": "33718" },
       { "term": "202310", "crn": "11430" },
-      { "term": "202310", "crn": "14642" }
+      { "term": "202310", "crn": "14642" },
+      { "term": "202510", "crn": "11155" },
+      { "term": "202510", "crn": "13536" }
     ],
     "description": "Examines the communication strategies (including rhetorical messaging, public advocacy, grassroots organizing, fund-raising, and media outreach) of historical and contemporary social movement and activist organizations. Social movements considered may include immigration protests, AIDS activism, environmental advocacy, disability movements, racial justice, and feminism.",
     "coreqs": [],
@@ -390,7 +426,9 @@
       { "term": "202410", "crn": "11729" },
       { "term": "202410", "crn": "12294" },
       { "term": "202310", "crn": "11946" },
-      { "term": "202310", "crn": "12574" }
+      { "term": "202310", "crn": "12574" },
+      { "term": "202510", "crn": "11581" },
+      { "term": "202510", "crn": "12050" }
     ],
     "description": "Engages students in the discovery of varied and culturally diverse texts in the literary genres of poetry, prose, and drama. Students focus on analyzing an author's meaning and communicating that meaning to an audience through interpretive performance.",
     "coreqs": [],
@@ -403,7 +441,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["ER"],
-    "sections": [{ "term": "202330", "crn": "38596" }],
+    "sections": [
+      { "term": "202330", "crn": "38596" },
+      { "term": "202510", "crn": "17054" }
+    ],
     "description": "Focuses on ethical principles, issues, and dilemmas in communication. Covers professional codes as well as personal, interpersonal, small group, organizational, and societal factors affecting ethical mediated communication. Designed to stimulate the moral imagination, reveal ethical issues inherent in communication, and provide resources for making and defending choices on ethical grounds.",
     "coreqs": [],
     "prereqs": []
@@ -434,7 +475,8 @@
       { "term": "202430", "crn": "39044" },
       { "term": "202430", "crn": "39045" },
       { "term": "202410", "crn": "13551" },
-      { "term": "202310", "crn": "14040" }
+      { "term": "202310", "crn": "14040" },
+      { "term": "202510", "crn": "13135" }
     ],
     "description": "Applies network science theories and methods to understand the connectivity and complexity in the world around us on different scales, ranging from small groups to whole societies. Applies network theories, data collection methods, and visual-analytic analyses to map, measure, understand, and influence a wide range of online and offline social phenomena, including friendships and romantic relationships, professional networks, social media, social influence and marketing, diffusion and viral media, recommender systems, and collective action. Offers students an opportunity to learn to use computational tools to gather and analyze network data, derive data-supported insights, and develop effective network interventions.",
     "coreqs": [],
@@ -467,7 +509,10 @@
       { "term": "202310", "crn": "13432" },
       { "term": "202310", "crn": "15483" },
       { "term": "202310", "crn": "15484" },
-      { "term": "202240", "crn": "40973" }
+      { "term": "202240", "crn": "40973" },
+      { "term": "202510", "crn": "14006" },
+      { "term": "202510", "crn": "14007" },
+      { "term": "202440", "crn": "42170" }
     ],
     "description": "Addresses the interdependent links between sports and communication. Sports communication is an emerging area within communication studies and journalism programs. Examines the symbiotic relationship between sports and media, as well as how communication affects team culture, player-coach dynamics, crises in sport, race and gender issues, international relationships, and fandom. Requires students to analyze cases and address both pragmatic and ethical factors related to these cases.",
     "coreqs": [],
@@ -486,7 +531,8 @@
       { "term": "202360", "crn": "60327" },
       { "term": "202340", "crn": "40410" },
       { "term": "202260", "crn": "60347" },
-      { "term": "202240", "crn": "40432" }
+      { "term": "202240", "crn": "40432" },
+      { "term": "202440", "crn": "42171" }
     ],
     "description": "Offers students an opportunity to learn about some of the communicative challenges people face in starting, maintaining, and terminating close relationships. The “dark side” is a metaphor used to describe areas of interpersonal and relational communication that are underexplored or “lying in the shadows”; destructive or dysfunctional; and/or poorly understood or often misinterpreted. The dark side perspective acknowledges that while relationships are often a source of joy and satisfaction, they can also elicit feelings of uncertainty, frustration, and pain. Studies the ways in which communication can influence (and possibly resolve) turmoil in close relationships.",
     "coreqs": [],
@@ -526,7 +572,9 @@
       { "term": "202330", "crn": "38489" },
       { "term": "202310", "crn": "14042" },
       { "term": "202260", "crn": "60547" },
-      { "term": "202240", "crn": "40670" }
+      { "term": "202240", "crn": "40670" },
+      { "term": "202510", "crn": "13136" },
+      { "term": "202510", "crn": "17057" }
     ],
     "description": "Analyzes the ways that visual materials impact our daily lives using readings, examples, and discussion. Visual material floods our daily lives, whether we are actively consuming it or it is thrust upon us. As consumers of these images, and especially as communication scholars, we need to think critically about these visual materials and how they shape our perceptions of ourselves and the world around us. Focuses on several methods for critically researching visuals and applies these methods to examine and discuss several kinds of visuals, including photography, film/television, advertisements, arts, and urban spaces. Designed to improve students' critical understanding of the visual, in its various forms, for communication.",
     "coreqs": [],
@@ -558,7 +606,11 @@
       { "term": "202310", "crn": "11173" },
       { "term": "202310", "crn": "20713" },
       { "term": "202260", "crn": "60235" },
-      { "term": "202240", "crn": "40227" }
+      { "term": "202240", "crn": "40227" },
+      { "term": "202510", "crn": "12141" },
+      { "term": "202510", "crn": "10900" },
+      { "term": "202510", "crn": "10968" },
+      { "term": "202460", "crn": "61847" }
     ],
     "description": "Offers an overview of the concepts, methods, tools, and ethics of communication research. Introduces students to the basic statistical concepts used by communication researchers. Designed to help students become knowledgeable consumers and limited producers of communication research. Offers students an opportunity to learn to read, interpret, and critically evaluate research reports. Exposes students to basic social science concepts and research designs and the fundamentals of conducting and analyzing research using surveys, experiments, and content analyses. Students conduct their own empirical research study as a final project, which entails research design, data collection, data analysis, and a written presentation.",
     "coreqs": [],
@@ -588,7 +640,11 @@
       { "term": "202310", "crn": "11429" },
       { "term": "202310", "crn": "12929" },
       { "term": "202260", "crn": "60328" },
-      { "term": "202240", "crn": "40281" }
+      { "term": "202240", "crn": "40281" },
+      { "term": "202510", "crn": "12051" },
+      { "term": "202510", "crn": "11154" },
+      { "term": "202510", "crn": "12317" },
+      { "term": "202510", "crn": "20460" }
     ],
     "description": "Focuses on theories of and approaches to the study of intercultural communication. Emphasizes the importance of being able to negotiate cultural differences and of understanding intercultural contact in societies and institutions. Stresses the benefits and complexities of cultural diversity in global, local, and organizational contexts.",
     "coreqs": [],
@@ -624,7 +680,10 @@
       { "term": "202310", "crn": "13433" },
       { "term": "202310", "crn": "14644" },
       { "term": "202260", "crn": "60375" },
-      { "term": "202240", "crn": "40198" }
+      { "term": "202240", "crn": "40198" },
+      { "term": "202510", "crn": "11302" },
+      { "term": "202510", "crn": "11303" },
+      { "term": "202510", "crn": "12689" }
     ],
     "description": "Presents a theoretical and practical examination of the ways in which communication is gendered in a variety of contexts. Integrates into this analysis how different institutions and interpersonal situations affect our understanding of gender roles. COMM 2304 and WMNS 2304 are cross-listed.",
     "coreqs": [],
@@ -648,7 +707,9 @@
       { "term": "202330", "crn": "31685" },
       { "term": "202310", "crn": "11092" },
       { "term": "202310", "crn": "11093" },
-      { "term": "202240", "crn": "40102" }
+      { "term": "202240", "crn": "40102" },
+      { "term": "202510", "crn": "10901" },
+      { "term": "202510", "crn": "10902" }
     ],
     "description": "Investigates the role of the producer in the production of content for traditional and new media venues. Explores a variety of distribution systems, including online channels, mobile video, terrestrial/satellite radio, documentary film, and independent films, among other platforms. Examines the producer's role in story conceptualization, budget planning, preproduction, and marketing. Through a series of discussions, screenings, homework writing assignments, and in-class writing workshops, offers students an opportunity to gain the skills to produce commercially viable content.",
     "coreqs": [],
@@ -664,7 +725,8 @@
     "sections": [
       { "term": "202410", "crn": "17457" },
       { "term": "202330", "crn": "38492" },
-      { "term": "202310", "crn": "19863" }
+      { "term": "202310", "crn": "19863" },
+      { "term": "202510", "crn": "15787" }
     ],
     "description": "Considers aspects of talk, such as turn taking, sequence organization, and repair for handling breakdowns, in speaking or understanding. Studies the full range of things people do, such as making requests, blaming others, apologizing, complaining, etc. Having conversations with others is among the things that humans do most. Since talk is a locus of sociality and a site for examining language in use, offers students an opportunity to learn how to make discoveries about the orderliness of social life. By the end of the course, successful students recognize what people are doing with their talk, how to identify communication breakdowns, and learn methods for increasing communication efficiency in everyday and organizational encounters.",
     "coreqs": [],
@@ -680,7 +742,8 @@
     "sections": [
       { "term": "202410", "crn": "17208" },
       { "term": "202330", "crn": "38493" },
-      { "term": "202310", "crn": "19580" }
+      { "term": "202310", "crn": "19580" },
+      { "term": "202510", "crn": "15647" }
     ],
     "description": "Introduces the fundamental principles of communication law and ethics. Explores the complex interplay between law (the First Amendment) and ethics (personal and professional responsibilities). Topics covered include blasphemy, commercial speech, copyright, defamation, fighting words, free press/fair trial, hate speech, heresy, incitement, obscenity, political speech, pornography, prior restraint, public forums, special settings (such as schools, prisons, and the military), symbolic speech, threats, and time-place-manner restrictions. Emphasizes ethical issues involving privacy, accuracy, property, and accessibility. The transcendent question in communication law and ethics is whether it is right to exercise the rights granted communication professionals under the First Amendment.",
     "coreqs": [],
@@ -734,7 +797,9 @@
       { "term": "202330", "crn": "34350" },
       { "term": "202310", "crn": "14158" },
       { "term": "202310", "crn": "16396" },
-      { "term": "202240", "crn": "41551" }
+      { "term": "202240", "crn": "41551" },
+      { "term": "202510", "crn": "13216" },
+      { "term": "202510", "crn": "14431" }
     ],
     "description": "Offers advanced training in video production techniques, emphasizing remote location shooting. Includes location scouting, production budgets, writing techniques, equipment location, postproduction editing, and content analysis. Covers the fundamentals of single-camera field production and the nonlinear editing process. Offers students an opportunity to work in teams to produce and direct television using remote video equipment.",
     "coreqs": [],
@@ -750,7 +815,8 @@
     "sections": [
       { "term": "202410", "crn": "17210" },
       { "term": "202330", "crn": "38496" },
-      { "term": "202310", "crn": "19582" }
+      { "term": "202310", "crn": "19582" },
+      { "term": "202510", "crn": "15649" }
     ],
     "description": "Examines the intersection of law, policy, and new (or relatively new) information and communication technologies. New technologies offer the possibility of new forms of creativity, political engagement, and social life; they also, however, offer very real opportunities to cause serious reputational harm, promote damaging malicious speech, create new controls on creativity, and violate privacy. Uses readings and in-class activities to consider how values and principles that have historically been deemed important apply to the world of new information and communication technologies. Examines how law and policy shape the development and use of new technologies and, at the same time, investigates how new technologies challenge, undermine, and reconfigure existing law and policy.",
     "coreqs": [],
@@ -758,13 +824,13 @@
   },
   {
     "subject": "COMM",
-    "number": "2625",
-    "title": "Communication, Technology, and Society",
+    "number": "2555",
+    "title": "Games for Change",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": ["SI"],
-    "sections": [],
-    "description": "Surveys core concepts, histories, and controversies in the design, use, and critical study of communication technologies that both shape and are shaped by social relationships and social institutions (such as work, education, religion, and the family). Offers students an opportunity to learn about different definitions of communication, technology, and society; examine the values and assumptions of social actors who build communication technologies across various cultures and countries; and gain insights into how communication technologies are interpreted, resisted, and remade through ever-shifting institutional and interpersonal social dynamics. Through canonical works and contemporary case studies, students examine communication, technology, and society in the context of relationships, design, identity, mobility, value, labor, ethics, community, and belonging.",
+    "nuPath": ["EI"],
+    "sections": [{ "term": "202510", "crn": "20461" }],
+    "description": "Offers students sound introduction to the psychological and behavioral theories of entertainment media with the goal of implementing these theories to the future design and evaluation of games for change. Focuses more on the psychological, behavioral, and social aspects of video games than on pure technical aspects. Organized around a collection of selected readings and real-world games and discussions. The final project is based on reflective thinking, critical evaluation, and creative application. COMM 2555 and GAME 2555 are cross-listed.",
     "coreqs": [],
     "prereqs": []
   },
@@ -780,7 +846,8 @@
       { "term": "202410", "crn": "11972" },
       { "term": "202340", "crn": "40496" },
       { "term": "202310", "crn": "12210" },
-      { "term": "202240", "crn": "40534" }
+      { "term": "202240", "crn": "40534" },
+      { "term": "202510", "crn": "11785" }
     ],
     "description": "Examines business issues associated with the entertainment industry. One dozen award-winning media industry guest speakers deliver lectures on the vital topics reshaping the entertainment landscape. Through lectures and case studies, introduces students to financing contracts, intellectual property issues, licensing, product placement, marketing and publicity, ratings, the impact of piracy, understanding and leveraging new technologies, and distribution. Offers students an opportunity to master these concepts by organizing into teams and developing an original entertainment industry business product or services. Requires each team to develop a formal business plan that includes a market analysis, a budget, and a marketing plan.",
     "coreqs": [],
@@ -798,7 +865,8 @@
       { "term": "202410", "crn": "15174" },
       { "term": "202410", "crn": "19561" },
       { "term": "202330", "crn": "36085" },
-      { "term": "202310", "crn": "16397" }
+      { "term": "202310", "crn": "16397" },
+      { "term": "202510", "crn": "14432" }
     ],
     "description": "Introduces the process of planning, preparing, producing, and evaluating studio productions. Exposes students to the elements and terminology of studio production using multiple cameras, live switching, audio mixing, and studio lighting. Through a series of discussions, screenings, homework, and in-class exercises, offers students an opportunity to obtain skills in the basics of directing creative and technical talent and the skills needed to produce successful television studio productions.",
     "coreqs": [],
@@ -814,7 +882,8 @@
     "sections": [
       { "term": "202430", "crn": "32748" },
       { "term": "202410", "crn": "19562" },
-      { "term": "202330", "crn": "33095" }
+      { "term": "202330", "crn": "33095" },
+      { "term": "202510", "crn": "17059" }
     ],
     "description": "Develops frameworks and conceptual tools for understanding the world of sports marketing and promotion in an increasingly global and interconnected world. Drawing on examples from domestic and international sports promotional campaigns and academic literature, explores the promotion of sports at the professional, collegiate, and special event level. Focuses on the role marketing plays in attracting fans and sponsors and communicating effectively with the public. Emphasizes quantitative and qualitative approaches to research as part of a comprehensive approach to the development of an on-campus sports promotional campaign. Covers brand marketing and positioning, sports marketing research, event sponsorship and promotion, social media, public relations and community outreach, and controversial issues in sports.",
     "coreqs": [],
@@ -829,7 +898,8 @@
     "nuPath": ["IC"],
     "sections": [
       { "term": "202460", "crn": "61502" },
-      { "term": "202340", "crn": "41636" }
+      { "term": "202340", "crn": "41636" },
+      { "term": "202510", "crn": "17060" }
     ],
     "description": "Offers students an opportunity to engage with a specific genre, using historical and critical methods, to better understand this reciprocal relationship between a people and their moment. Successful completion of this course enables one to recall, compare, and give examples of key concepts and theories in popular communication; understand how the popular shapes and is shaped by its people; understand the historical context of a popular genre; critically analyze a genre with respect to social, economic, and political values and events; and demonstrate proficiency in communicating one's analyses. Genres of popular communication—be they self-help books, speculative fiction, or fashion blogs—reflect the aspirations and fears of a people at their moment in history. Simultaneously, popular communication shapes people’s sense of identity, purpose, and worth.",
     "coreqs": [],
@@ -863,7 +933,8 @@
       { "term": "202360", "crn": "60453" },
       { "term": "202340", "crn": "40538" },
       { "term": "202260", "crn": "60489" },
-      { "term": "202240", "crn": "40587" }
+      { "term": "202240", "crn": "40587" },
+      { "term": "202440", "crn": "42172" }
     ],
     "description": "Introduces students to the lens of performance studies, the world of sports, and the intersection of the two in the field of communication studies. Addresses performance as a cultural and communicative process that enables us to constitute our identities and our lives. Explores how our lives and identities are performed in space and time, while applying those same concepts to athletes and athletic competition. Offers students an opportunity to understand key concepts in performance studies such as ritual, play, performativity, performing, and performance processes.",
     "coreqs": [],
@@ -883,6 +954,18 @@
   },
   {
     "subject": "COMM",
+    "number": "2912",
+    "title": "ST: What Makes a YouTube Star?",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21440" }],
+    "description": "What makes a YouTube star a star? In this applied research course, students will conduct a semester-long inquiry into YouTube stars based on original survey data collected by the professor. What topics do these stars create videos about? Who are their audiences, and how do their fans identify with these stars? Students will identify relevant prior research, develop analysis plans, carry out qualitative and quantitative research into the YouTube star data, and write up a scientific paper presenting their findings.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "COMM",
     "number": "3200",
     "title": "Mobile Communication",
     "scheduleType": "Lecture",
@@ -890,11 +973,20 @@
     "nuPath": ["SI", "WI"],
     "sections": [
       { "term": "202330", "crn": "36086" },
-      { "term": "202310", "crn": "19586" }
+      { "term": "202310", "crn": "19586" },
+      { "term": "202510", "crn": "20462" }
     ],
     "description": "Introduces students to the landscape of mobile communication technologies. Takes a broad view of what “mobile,” “communication,” and “technology” mean in the past, present, and future, encompassing a range of digital and nondigital objects as well as technological and communicative practices. Covers core concepts and theories in mobile communication, focusing on the impact that mobile hardware and software have on society, culture, and politics.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
   },
   {
     "subject": "COMM",
@@ -915,11 +1007,22 @@
       { "term": "202330", "crn": "32761" },
       { "term": "202310", "crn": "16399" },
       { "term": "202310", "crn": "11947" },
-      { "term": "202240", "crn": "40974" }
+      { "term": "202240", "crn": "40974" },
+      { "term": "202510", "crn": "14433" },
+      { "term": "202510", "crn": "11582" },
+      { "term": "202510", "crn": "20463" }
     ],
     "description": "Explores various topics as they relate to health communication including interpersonal aspects, cultural issues, and political complexities of health. Subject matter includes patient-provider communication, organizational systems, advertising in the health industry, and the role of media in the formation of expectations about health and the use of media to promote social change.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
   },
   {
     "subject": "COMM",
@@ -955,7 +1058,12 @@
       { "term": "202260", "crn": "60409" },
       { "term": "202260", "crn": "61429" },
       { "term": "202240", "crn": "40152" },
-      { "term": "202240", "crn": "41753" }
+      { "term": "202240", "crn": "41753" },
+      { "term": "202510", "crn": "15650" },
+      { "term": "202510", "crn": "12690" },
+      { "term": "202510", "crn": "17061" },
+      { "term": "202460", "crn": "61848" },
+      { "term": "202440", "crn": "42173" }
     ],
     "description": "Offers an overview of the theory and practice of interpersonal communication with the goal of developing the knowledge and skills to create dialogue in conversation, work through conflict, adapt to change, and establish/maintain relationships. Topics include definitions of the communication process, identity, self-disclosure, verbal and nonverbal language, listening, management of interpersonal conflict, and relational and dialogic communication.",
     "coreqs": [],
@@ -984,7 +1092,9 @@
       { "term": "202410", "crn": "20672" },
       { "term": "202410", "crn": "19565" },
       { "term": "202330", "crn": "33722" },
-      { "term": "202310", "crn": "14043" }
+      { "term": "202310", "crn": "14043" },
+      { "term": "202510", "crn": "18106" },
+      { "term": "202510", "crn": "17062" }
     ],
     "description": "Explores the relationships between communication, social identity, and social inclusion. Focuses on how communication shapes perceptions and positions of social identity categories and how individuals and groups resist and transform identity and promote inclusion through communication. Examines communication and inclusion in the contexts of gender, race, sexual identity, social class, ability, and age. Course topics cover a range of theoretical and practical issues, including diversity in organizational settings and the social construction of identity. COMM 3304 and WMNS 3304 are cross-listed.",
     "coreqs": [],
@@ -1013,7 +1123,9 @@
       { "term": "202410", "crn": "18281" },
       { "term": "202330", "crn": "39547" },
       { "term": "202310", "crn": "16401" },
-      { "term": "202310", "crn": "20714" }
+      { "term": "202310", "crn": "20714" },
+      { "term": "202510", "crn": "17063" },
+      { "term": "202510", "crn": "14434" }
     ],
     "description": "Reviews the construction and influence of rhetoric in political campaigns, particularly contemporary presidential campaigns. Also studies the impact of mass communication on the outcome of elections. Offers students an opportunity to analyze artifacts from recent political campaigns such as stump speeches, campaign debates, campaign advertising, and formal campaign speeches such as nomination acceptance addresses, concession and victory speeches, and inaugural addresses.",
     "coreqs": [],
@@ -1048,7 +1160,9 @@
       { "term": "202310", "crn": "16940" },
       { "term": "202260", "crn": "60461" },
       { "term": "202240", "crn": "40413" },
-      { "term": "202240", "crn": "41772" }
+      { "term": "202240", "crn": "41772" },
+      { "term": "202510", "crn": "12691" },
+      { "term": "202510", "crn": "14619" }
     ],
     "description": "Offers an Advanced Writing in the Disciplines (AWD) course. Dedicated to teaching students to write scholarly arguments in the discipline of public advocacy and rhetoric and to translate that work for a general audience. Features both an academic approach to writing in the field of rhetoric and a practical approach to writing persuasively for general audiences.",
     "coreqs": [],
@@ -1138,7 +1252,8 @@
     "sections": [
       { "term": "202430", "crn": "39055" },
       { "term": "202410", "crn": "11973" },
-      { "term": "202310", "crn": "12211" }
+      { "term": "202310", "crn": "12211" },
+      { "term": "202510", "crn": "11786" }
     ],
     "description": "Introduces voice-over acting techniques for TV commercials, radio, multimedia, and various styles of presentation for both audio and video projects. Offers students an opportunity to uncover and develop their vocal range as narrator, announcer, character, and spokesperson with effectiveness and emotional authenticity. Covers both the “business” and the technical aspects of being a voice talent. Includes the use of microphones, headphones, and recording equipment while in our audio lab. Studies the essentials of vocal techniques, studio etiquette, and working with direction during a studio session.",
     "coreqs": [],
@@ -1155,7 +1270,10 @@
       { "term": "202430", "crn": "39056" },
       { "term": "202430", "crn": "39057" },
       { "term": "202410", "crn": "19567" },
-      { "term": "202410", "crn": "19568" }
+      { "term": "202410", "crn": "19568" },
+      { "term": "202510", "crn": "17064" },
+      { "term": "202510", "crn": "17065" },
+      { "term": "202510", "crn": "20926" }
     ],
     "description": "Examines the development, procedures, economic functions, and responsibilities of advertising. Explores planning, research, production, and other elements that go into successful advertising. Covers the preparation of advertising for print and broadcast media, including campaign planning, space and time buying, and scheduling.",
     "coreqs": [],
@@ -1172,7 +1290,8 @@
       { "term": "202430", "crn": "33358" },
       { "term": "202410", "crn": "15177" },
       { "term": "202330", "crn": "33821" },
-      { "term": "202310", "crn": "16403" }
+      { "term": "202310", "crn": "16403" },
+      { "term": "202510", "crn": "14435" }
     ],
     "description": "Analyzes major debates over the environment, climate change, and related technologies such as nuclear energy, wind power, natural gas “fracking,” and food biotechnology. Studies the relevant scientific, political, and ethical dimensions of each case; the generalizable theories, frameworks, and methods that scholars use to analyze them; and the implications for effective public communication, policymaker engagement, and personal decision making. Offers students an opportunity to gain an integrated understanding of their different roles as professionals, advocates, and consumers and to improve their ability to find and use expert sources of information; assess competing media claims and narratives; write persuasive essays, analyses, and commentaries; and author evidence-based research papers.",
     "coreqs": [],
@@ -1200,7 +1319,15 @@
     ],
     "description": "Provides students with an opportunity to better understand freedom and limits to freedom, particularly in the realm of speech and expression. Materials covered range from the philosophy of freedom to historical legal cases about free speech and the press to political correctness and the repression of dissent.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
   },
   {
     "subject": "COMM",
@@ -1238,7 +1365,15 @@
     "sections": [{ "term": "202330", "crn": "34351" }],
     "description": "Explores both theories of conflict and potential strategies for more effectively managing conflict in a variety of contexts, that is, interpersonal relationships, organizational settings, and broader societal contexts. Offers students the opportunity to participate in the process of conflict assessment and to explore various negotiation strategies as well as discuss the role of forgiveness in conflict situations.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" }
+    ]
   },
   {
     "subject": "COMM",
@@ -1287,7 +1422,8 @@
       { "term": "202440", "crn": "41134" },
       { "term": "202430", "crn": "31844" },
       { "term": "202410", "crn": "19570" },
-      { "term": "202340", "crn": "41639" }
+      { "term": "202340", "crn": "41639" },
+      { "term": "202510", "crn": "17067" }
     ],
     "description": "Explores a variety of approaches to making special effects for film, video, and the World Wide Web. Offers students an opportunity to utilize cutting-edge technology and to apply state-of-the-art techniques to design and produce innovative special effects. Explores historical, technical, and theoretical aspects of special effects. Topics covered include compositing, matte painting, multiplane animation, explosions, smoke, three-dimensional lighting, particle emitters, chroma keying, motion graphics, video tracking, and more.",
     "coreqs": [],
@@ -1302,7 +1438,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39058" },
-      { "term": "202330", "crn": "39246" }
+      { "term": "202330", "crn": "39246" },
+      { "term": "202510", "crn": "20464" }
     ],
     "description": "Immerses students in a real-life television newsroom experience. Exposes students to all aspects of TV news production: from news gathering, producing, and being in front of the camera to the behind-the-scenes work of operating multiple cameras, live switching, audio mixing, and studio lighting. Allows students to be an integral part of a newsroom team, working as reporters, anchors, videographers, and editors to gather content and work in the studio to produce a Northeastern newscast covering news on campus and beyond. Involves hands-on reporting and production where the stories are real and so are the deadlines.",
     "coreqs": [],
@@ -1318,7 +1455,8 @@
     "sections": [
       { "term": "202410", "crn": "14024" },
       { "term": "202330", "crn": "38500" },
-      { "term": "202310", "crn": "14645" }
+      { "term": "202310", "crn": "14645" },
+      { "term": "202510", "crn": "13539" }
     ],
     "description": "Offers an in-depth look at how persuasive health campaigns are designed and executed. Discusses how campaigns are designed to intentionally influence awareness, knowledge gain, and attitude/behavior change. Offers students an opportunity to obtain skills to design and evaluate campaigns through the completion of their own campaign projects and to learn about visual and verbal arguments and the unique ethical and other considerations of health campaigns.",
     "coreqs": [],
@@ -1365,18 +1503,6 @@
   },
   {
     "subject": "COMM",
-    "number": "4602",
-    "title": "Contemporary Rhetorical Theory",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": ["CE", "IC"],
-    "sections": [],
-    "description": "Exposes students to contemporary perspectives on rhetorical theory and its use in society. 'Contemporary' refers to the models and  theorists from the second halves  of the 20th and the 21st centuries.  'Rhetoric' refers to strategic communication employed to reach the persuasive goal of an agent. 'Theory' is used in the holistic sense as the interested observation and careful scrutiny of an object. As a capstone course, the course also provides a transition for students from the role of receptive learners to independent researchers who can identify, answer, and defend research questions at the intersection of rhetorical theory and its neighbors (theories of argumentation, humor, style, politeness, courtship, and the like).",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "COMM",
     "number": "4605",
     "title": "Youth and Communication Technology",
     "scheduleType": "Lecture",
@@ -1384,7 +1510,9 @@
     "nuPath": ["DD", "SI", "WI"],
     "sections": [
       { "term": "202330", "crn": "36304" },
-      { "term": "202310", "crn": "19589" }
+      { "term": "202310", "crn": "19589" },
+      { "term": "202510", "crn": "20465" },
+      { "term": "202510", "crn": "20466" }
     ],
     "description": "Examines how meanings of “youth” and “communication technology” shift in relation to one another and to broader changes in society, culture, politics, and the economy over time. Analyzes how communication technologies (and the content they deliver) positively and negatively affect the social, emotional, and cognitive development of young people and how these changes are influenced by the particular family, school, community, and institutional contexts in which children grow up. Examines how young people differ individually across the life span as well as collectively by class, race, ethnicity, nationality, gender, sexuality, and disability. Requires a final paper at the end of the term in which students articulate and defend positions about youth and communication technology.",
     "coreqs": [],
@@ -1408,7 +1536,8 @@
     "sections": [
       { "term": "202430", "crn": "31845" },
       { "term": "202410", "crn": "20677" },
-      { "term": "202330", "crn": "32055" }
+      { "term": "202330", "crn": "32055" },
+      { "term": "202510", "crn": "18111" }
     ],
     "description": "Offers students an opportunity to complete a semester-long, intensive research and writing capstone project related to the field of strategic communication. Research topics can span business, politics, advocacy, entertainment, public health, the environment, and other societal sectors. Building on previous course work, students have an opportunity to gain a deeper scholarly and professional understanding of strategic communication; cultivate professional and academic contacts; and demonstrate mastery of relevant theoretical concepts, professional principles, research methods, and writing approaches. Encourages students to share and translate their findings for relevant academic and professional communities.",
     "coreqs": [],
@@ -1437,7 +1566,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["WI"],
-    "sections": [{ "term": "202410", "crn": "19574" }],
+    "sections": [
+      { "term": "202410", "crn": "19574" },
+      { "term": "202510", "crn": "17068" }
+    ],
     "description": "Examines theories, models, and strategies related to crisis communication and establishes ethical principles regarding what, how, and when essential elements must be employed for effective and ethical crisis communication. Offers students an opportunity to learn how to distinguish between an incident and crisis; to analyze communication practices and methods applied during a crisis; to apply social scientific theory to explain how and why a crisis occurred; and to draw upon theory to develop effective crisis communication plans. Assesses responses to crises using ethical principles such as transparency, two-way symmetrical communication, and timing. Designed to prepare communication professionals who appreciate the need for responsible advocacy when responding to crises.",
     "coreqs": [],
     "prereqs": [
@@ -1462,7 +1594,8 @@
       { "term": "202410", "crn": "15402" },
       { "term": "202330", "crn": "36089" },
       { "term": "202330", "crn": "37387" },
-      { "term": "202310", "crn": "16894" }
+      { "term": "202310", "crn": "16894" },
+      { "term": "202510", "crn": "14600" }
     ],
     "description": "Offers advanced training in video production techniques, allowing students an opportunity to develop a deeper theoretical understanding of cohesive marketing strategies. Through case study assessments and hands-on exercises, explores the process of marketing video techniques from designing, building, and executing marketing ideas to evaluating effectiveness and exploring online corporate identities. Offers students an opportunity to hone their skills in all aspects of the production process by incorporating the knowledge they have acquired from previous production courses—from the preproduction process of intensive research and development of story ideas and scriptwriting; producing; to the technical aspects of filming, lighting, green screen, sound recording, digital editing, and graphics.",
     "coreqs": [],
@@ -1495,7 +1628,8 @@
       { "term": "202410", "crn": "18976" },
       { "term": "202330", "crn": "39987" },
       { "term": "202310", "crn": "21423" },
-      { "term": "202260", "crn": "61637" }
+      { "term": "202260", "crn": "61637" },
+      { "term": "202510", "crn": "16680" }
     ],
     "description": "Offers students the opportunity to gain hands-on experience in the communications industry. Further internship details are available in the department office. May be repeated without limit.",
     "coreqs": [],
@@ -1510,7 +1644,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "38501" },
-      { "term": "202310", "crn": "15108" }
+      { "term": "202310", "crn": "15108" },
+      { "term": "202510", "crn": "13813" }
     ],
     "description": "Offers an in-depth look at how persuasive health campaigns are designed and executed. Discusses how campaigns are intentionally designed to influence awareness, knowledge gain, and attitude/behavior change. Offers students an opportunity to obtain skills to design and evaluate campaigns through the completion of their own campaign projects and to learn about visual and verbal arguments and the unique ethical and other considerations of health campaigns.",
     "coreqs": [],
@@ -1527,7 +1662,8 @@
       { "term": "202430", "crn": "34144" },
       { "term": "202410", "crn": "19575" },
       { "term": "202410", "crn": "19576" },
-      { "term": "202330", "crn": "34830" }
+      { "term": "202330", "crn": "34830" },
+      { "term": "202510", "crn": "17070" }
     ],
     "description": "Explores the relationships between communication, social identity, and social inclusion. Focuses on how communication shapes perceptions and positions of social identity categories and how individuals and groups resist and transform identity and promote inclusion through communication. Examines communication and inclusion in the contexts of gender, race, sexual identity, social class, ability, and age. Course topics cover a range of theoretical and practical issues, including diversity in organizational settings and the social construction of identity.",
     "coreqs": [],
@@ -1542,7 +1678,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39062" },
-      { "term": "202330", "crn": "39548" }
+      { "term": "202330", "crn": "39548" },
+      { "term": "202510", "crn": "14627" }
     ],
     "description": "Covers the major theories about the role of communication in U.S. politics, public opinion, and public policy. Discusses how to formulate and evaluate your own theory-based hypotheses on the influence of media in American democracy. Emphasizes the role and place of the media in a democratic system devoted to the proposition that the government should be responsive to the \"will of the people.\" The course is organized around five subjects that are central to the study of political communication: communication systems and practices; communication effects: media, politics, and society; the politics of entertainment and the changing political information environment; elections, accountability, and the mass media; and media and political institutions.",
     "coreqs": [],
@@ -1558,21 +1695,10 @@
     "sections": [
       { "term": "202430", "crn": "33362" },
       { "term": "202410", "crn": "15179" },
-      { "term": "202330", "crn": "33831" }
+      { "term": "202330", "crn": "33831" },
+      { "term": "202510", "crn": "14437" }
     ],
     "description": "Analyzes major debates over the environment, climate change, and related technologies such as nuclear energy, wind power, natural gas “fracking,” and food biotechnology. Studies the relevant scientific, political, and ethical dimensions of each case; the generalizable theories, frameworks, and methods that scholars use to analyze them; and the implications for effective public communication, policymaker engagement, and personal decision making. Offers students an opportunity to gain an integrated understanding of their different roles as professionals, advocates, and consumers and to improve their ability to find and use expert sources of information; assess competing media claims and narratives; write persuasive essays, analyses, and commentaries; and author evidence-based research papers.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "COMM",
-    "number": "6501",
-    "title": "Free Speech: Law and Practice",
-    "scheduleType": "Seminar",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [],
-    "description": "Offers students an opportunity to better understand freedom and limits to freedom, particularly in the realm of speech and expression. Topics covered range from the philosophy of freedom to historical legal cases about free speech and the press to political correctness and the repression of dissent.",
     "coreqs": [],
     "prereqs": []
   },
@@ -1583,7 +1709,11 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "19591" }],
+    "sections": [
+      { "term": "202310", "crn": "19591" },
+      { "term": "202510", "crn": "20468" },
+      { "term": "202510", "crn": "20469" }
+    ],
     "description": "Examines how meanings of “youth” and “communication technology” shift in relation to one another and to broader changes in society, culture, politics, and the economy over time. Analyzes how communication technologies (and the content they deliver) positively and negatively affect the social, emotional, and cognitive development of young people and how these changes are influenced by the particular family, school, community, and institutional contexts in which children grow up. Examines how young people differ individually across the life span as well as collectively by class, race, ethnicity, nationality, gender, sexuality, and disability. Requires a final paper at the end of the term in which students articulate and defend positions about youth and communication technology.",
     "coreqs": [],
     "prereqs": []
@@ -1597,7 +1727,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "20678" },
-      { "term": "202330", "crn": "36859" }
+      { "term": "202330", "crn": "36859" },
+      { "term": "202510", "crn": "18112" }
     ],
     "description": "Offers students an opportunity to complete a semester-long, intensive research and writing capstone project related to the field of strategic communication. Research topics can span business, politics, advocacy, entertainment, public health, the environment, and other societal sectors. Building on previous course work, students have an opportunity to gain a deeper scholarly and professional understanding of strategic communication; cultivate professional and academic contacts; and demonstrate mastery of relevant theoretical concepts, professional principles, research methods, and writing approaches. Encourages students to share and translate their findings for relevant academic and professional communities.",
     "coreqs": [],
@@ -1610,7 +1741,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19577" }],
+    "sections": [
+      { "term": "202410", "crn": "19577" },
+      { "term": "202510", "crn": "17071" }
+    ],
     "description": "Examines literature related to crisis communication—including theories, models, and strategies—and establishes ethical principles in terms of what, how, and when essential elements must be employed for effective and ethical crisis communication. Offers students an opportunity to learn how to distinguish between an incident and a crisis; to analyze communication practices and methods applied during a crisis; to apply social scientific theory to explain how and why a crisis occurred; and to draw upon theory to develop effective crisis communication plans. Assesses responses to crises using ethical principles such as transparency (the what element), two-way symmetrical communication (the how element), and timing (the when element). Designed to prepare communication professionals who appreciate the need for responsible advocacy when responding to crises.",
     "coreqs": [],
     "prereqs": []

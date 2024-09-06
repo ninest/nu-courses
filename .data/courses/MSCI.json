@@ -30,7 +30,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "41158" }],
+    "sections": [
+      { "term": "202430", "crn": "41158" },
+      { "term": "202510", "crn": "19956" }
+    ],
     "description": "Explores the principles and concepts of the provision of humanitarian aid. Reviews the context of humanitarian crises, using a case-based approach. Covers international organizational structures and NGOs, as well as methods of deployment, communication, and longitudinal follow-through. Explores safety issues and the ethics of humanitarian and disaster response.",
     "coreqs": [],
     "prereqs": []
@@ -49,6 +52,42 @@
   },
   {
     "subject": "MSCI",
+    "number": "5400",
+    "title": "Experiential Reflections: Bridging Theory and Experience",
+    "scheduleType": "Lecture",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21863" }],
+    "description": "Delves into contemporary training in austere medicine to explore its fundamental principles. Investigates the latest evidence-based practices and supports self-reflection on prior or current practical experiences in extreme conditions. Suggested for individuals currently enrolled in or who have successfully finished an extreme medicine experience.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MSCI",
+    "number": "5403",
+    "title": "Expedition and Wilderness Medicine Experience",
+    "scheduleType": "Off-campus instruction",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "19957" }],
+    "description": "Provides a comprehensive, experiential opportunity led by a multidisciplinary team. Employs hands-on practical skills training essential to all medical or allied health professionals. Covers dentistry (the first aid management of dental abscess and fractured, intruded, or avulsed teeth in the austere or wilderness environment), tropical medicine, environmental heat and cold exposure, mental health, and expedition planning.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MSCI",
+    "number": "5405",
+    "title": "Humanitarian Medicine Experience",
+    "scheduleType": "Off-campus instruction",
+    "credits": 2,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "22925" }],
+    "description": "Provides a comprehensive and impactful introduction to the broad sector of humanitarian medicine including theory, essential skills, and key medical aspects of health intervention. Offers students an opportunity to enhance skills to adapt a professional practice to a new setting and provide real-world impact on human welfare locally and globally. Participants must be medical or allied health professionals or in their last two years of study in a medical or allied health professional program.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MSCI",
     "number": "6001",
     "title": "Principles of Healthcare Advocacy",
     "scheduleType": "Lecture",
@@ -56,7 +95,11 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18639" },
-      { "term": "202310", "crn": "21077" }
+      { "term": "202310", "crn": "21077" },
+      { "term": "202510", "crn": "16457" },
+      { "term": "202510", "crn": "19948" },
+      { "term": "202510", "crn": "22284" },
+      { "term": "202510", "crn": "22426" }
     ],
     "description": "Seeks to prepare healthcare leaders in legislative advocacy and self-advocacy. Legislative advocacy examines relevant health policy research and analysis. Explores self-advocacy aspects within an organization, including communication, interpersonal relationships, and project leadership. Offers students an opportunity to successfully engage in political discussion and advocate for ideas as leaders.",
     "coreqs": [],
@@ -88,7 +131,11 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18645" },
-      { "term": "202310", "crn": "21083" }
+      { "term": "202310", "crn": "21083" },
+      { "term": "202510", "crn": "16458" },
+      { "term": "202510", "crn": "19949" },
+      { "term": "202510", "crn": "22285" },
+      { "term": "202510", "crn": "22425" }
     ],
     "description": "Surveys general leadership theory, knowledge, and skills to gain insight into differing leadership theories. Emphasizes knowledge and skill in essential healthcare leadership practices such as vision, planning, decision making, communication, interpersonal skills, conflict resolution, motivating and developing others, mentorship, ethical practice, and culture change.",
     "coreqs": [],
@@ -103,9 +150,24 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18652" },
-      { "term": "202310", "crn": "21090" }
+      { "term": "202310", "crn": "21090" },
+      { "term": "202510", "crn": "16459" },
+      { "term": "202510", "crn": "19950" },
+      { "term": "202510", "crn": "22286" }
     ],
     "description": "Surveys the principles essential to conduct ethical research in medical sciences. Explores and critically evaluates the concepts, methods, and applications of research and research methods. Offers students an opportunity to propose and develop a research project to inform an important healthcare issue influencing the practice, administration, or policies of healthcare.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MSCI",
+    "number": "7976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "22706" }],
+    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated.",
     "coreqs": [],
     "prereqs": []
   },
@@ -119,7 +181,7 @@
     "sections": [{ "term": "202360", "crn": "61529" }],
     "description": "Offers students an opportunity to successfully develop and complete the Doctor of Medical Science thesis. The thesis project focuses on healthcare-related research, leadership issues, policy development, management, service delivery, or evaluation.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "MSCI", "number": "6900" }]
   },
   {
     "subject": "MSCI",
@@ -128,7 +190,11 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "40938" }],
+    "sections": [
+      { "term": "202430", "crn": "40938" },
+      { "term": "202510", "crn": "21596" },
+      { "term": "202510", "crn": "22593" }
+    ],
     "description": "Offers continuing thesis supervision by members of the department.",
     "coreqs": [],
     "prereqs": [{ "subject": "MSCI", "number": "7990" }]

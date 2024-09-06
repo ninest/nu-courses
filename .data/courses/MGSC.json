@@ -119,7 +119,31 @@
       { "term": "202310", "crn": "20642" },
       { "term": "202260", "crn": "60144" },
       { "term": "202240", "crn": "40212" },
-      { "term": "202240", "crn": "40255" }
+      { "term": "202240", "crn": "40255" },
+      { "term": "202510", "crn": "11178" },
+      { "term": "202510", "crn": "11179" },
+      { "term": "202510", "crn": "11180" },
+      { "term": "202510", "crn": "11181" },
+      { "term": "202510", "crn": "11182" },
+      { "term": "202510", "crn": "11183" },
+      { "term": "202510", "crn": "11184" },
+      { "term": "202510", "crn": "11185" },
+      { "term": "202510", "crn": "11186" },
+      { "term": "202510", "crn": "11187" },
+      { "term": "202510", "crn": "11477" },
+      { "term": "202510", "crn": "11478" },
+      { "term": "202510", "crn": "11479" },
+      { "term": "202510", "crn": "11480" },
+      { "term": "202510", "crn": "11540" },
+      { "term": "202510", "crn": "11539" },
+      { "term": "202510", "crn": "11538" },
+      { "term": "202510", "crn": "11537" },
+      { "term": "202510", "crn": "13983" },
+      { "term": "202510", "crn": "20489" },
+      { "term": "202510", "crn": "22048" },
+      { "term": "202510", "crn": "22084" },
+      { "term": "202510", "crn": "16122" },
+      { "term": "202510", "crn": "18796" }
     ],
     "description": "Offers students an opportunity to obtain the necessary skills to collect, summarize, analyze, and interpret business-related data. Covers descriptive statistics, sampling and sampling distributions, statistical inference, relationships between variables, formulating and testing hypotheses, and regression analysis in the context of business. Use of the SPSS statistical programming package is an integral part of the course.",
     "coreqs": [],
@@ -173,7 +197,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10635" },
-      { "term": "202310", "crn": "10696" }
+      { "term": "202310", "crn": "10696" },
+      { "term": "202510", "crn": "10589" },
+      { "term": "202510", "crn": "22490" }
     ],
     "description": "Provides students with a fundamental understanding of the impact of technology on the organization and its financial systems. In particular, students are exposed to the new business models that technology enables and the control issues that these business models create. Discusses emerging technologies, digital business, supply chain, customer relationship management, and other technology subjects. Requires admission to MS/MBA program.",
     "coreqs": [],
@@ -232,7 +258,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202340", "crn": "41954" },
-      { "term": "202240", "crn": "40532" }
+      { "term": "202240", "crn": "40532" },
+      { "term": "202510", "crn": "20490" }
     ],
     "description": "Examines innovation in services and the internal management of business processes. Uses a framework of service/process redesign. Emphasizes strategic initiatives and key organizational change elements critical for improving services to customers; increasing profitability; and building long-term customer loyalty across multiple industry sectors, including information technology, healthcare, financial services, and government. Introduces the various strategic aspects of process improvement in the delivery of services, including managing change and the resulting impact on the organization, supply-chain management in the service industry, process improvement, overcoming organizational resistance, customer involvement, empowerment, and the role of leadership in managing operations. Through guided project work, offers students an opportunity to apply these concepts to services and internal business processes at their own organizations.",
     "coreqs": [],

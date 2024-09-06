@@ -1,0 +1,26 @@
+[
+  {
+    "subject": "EDUT",
+    "number": "6200",
+    "title": "Cultivating Critical Consciousness in Practice",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20889" }],
+    "description": "Engages students to explore their motivations, intentions, and commitments to social justice in their practice. Requires students to reflect, engage, and cultivate empathy for themselves and others to effectively practice; examine the systems and context in which their practice will and does occur; consider their positionality in their practice; and, finally, articulate where critical consciousness lives in their practice. Seeks to help students hone reflective skills and enable them to move into professional settings as agents for equity and advocacy, while building fulfilling and sustainable career practices.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "EDUT",
+    "number": "6202",
+    "title": "Children with Special Needs: Infants and Young Children",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20891" }],
+    "description": "Focuses on special education issues that arise in teaching infants and young children. Examines the identification process of special needs and the evidence-based practices available to support infants and young children with special needs in their natural settings. Offers students an opportunity to obtain knowledge of developmental and behavioral characteristics of infants and young children, birth to five years, who have disabilities or are at risk for developmental delay. Discusses related topics such as prenatal risk factors, assessment, individual family service plans (IFSP), individualized education programs (IEP), early intervention, preschool special education, and laws protecting individuals with disabilities.",
+    "coreqs": [],
+    "prereqs": []
+  }
+]

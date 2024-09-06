@@ -10,7 +10,8 @@
       { "term": "202430", "crn": "34250" },
       { "term": "202410", "crn": "10418" },
       { "term": "202330", "crn": "34995" },
-      { "term": "202310", "crn": "10445" }
+      { "term": "202310", "crn": "10445" },
+      { "term": "202510", "crn": "10399" }
     ],
     "description": "Intended for freshmen in the College of Arts, Media and Design. Introduces freshmen to the liberal arts in general. Offers students an opportunity to become familiar with their major; to develop the academic skills necessary to succeed (analytical ability and critical thinking); grounding in the culture and values of the university community; and to develop interpersonal skills—in short, to become familiar with all skills needed to become a successful university student.",
     "coreqs": [],
@@ -36,7 +37,10 @@
       { "term": "202310", "crn": "20500" },
       { "term": "202310", "crn": "20552" },
       { "term": "202260", "crn": "60826" },
-      { "term": "202240", "crn": "41722" }
+      { "term": "202240", "crn": "41722" },
+      { "term": "202510", "crn": "16157" },
+      { "term": "202510", "crn": "20491" },
+      { "term": "202510", "crn": "20492" }
     ],
     "description": "Dedicated to exploring, expanding, and exploding traditional meanings of what music is; of what it means to be a composer, performer, and audience member; and of what it means to listen. The overarching goal is to provide students with the tools and opportunities necessary for determining for themselves what place music holds in everyday life.",
     "coreqs": [],
@@ -55,7 +59,8 @@
       { "term": "202430", "crn": "36986" },
       { "term": "202340", "crn": "41740" },
       { "term": "202330", "crn": "38998" },
-      { "term": "202310", "crn": "20346" }
+      { "term": "202310", "crn": "20346" },
+      { "term": "202510", "crn": "16025" }
     ],
     "description": "Prepares students to gain fluency reading and writing standard Western music notation and gain facility with singing and performing rhythms and melodies in various meters, keys, and styles.",
     "coreqs": [],
@@ -85,7 +90,8 @@
     "nuPath": ["DD", "IC"],
     "sections": [
       { "term": "202410", "crn": "11317" },
-      { "term": "202310", "crn": "11490" }
+      { "term": "202310", "crn": "11490" },
+      { "term": "202510", "crn": "11199" }
     ],
     "description": "Examines the evolution of the creative improvisational musical styles commonly called jazz, from its African-American roots to its status as one of America's classical musics and an internationally valued art form. Explores the contributions of African and European musical traditions and African-American spirituals, work songs, and blues. Examines major contributors and stylistic development and change through selected audio and audio-visual presentations. Also considers the sociocultural dynamics that have affected musical evolution and acceptance.",
     "coreqs": [],
@@ -100,7 +106,8 @@
     "nuPath": ["EI", "IC"],
     "sections": [
       { "term": "202410", "crn": "20124" },
-      { "term": "202330", "crn": "38999" }
+      { "term": "202330", "crn": "38999" },
+      { "term": "202510", "crn": "17582" }
     ],
     "description": "Emphasizes the various ways that music is used in film, including music depicted on-screen and musical scores. Music is a crucial element of meaning in film, yet its presence is easy to ignore. Offers students an opportunity to learn basic approaches to the analysis of music and sound in film, to develop the ability to think critically about film, and to become knowledgeable about key historical developments in film music and sound. No musical background is necessary.",
     "coreqs": [],
@@ -115,7 +122,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "20125" },
-      { "term": "202330", "crn": "39000" }
+      { "term": "202330", "crn": "39000" },
+      { "term": "202510", "crn": "17583" }
     ],
     "description": "Examines the application of music as a therapeutic vehicle to release suppressed emotions, to encourage self-expression in psychiatric patients, and to treat a wide variety of disorders. Examines music therapy, in a modern approach to health services, as a supplement to other treatments.",
     "coreqs": [],
@@ -144,21 +152,12 @@
       { "term": "202310", "crn": "19633" },
       { "term": "202310", "crn": "20512" },
       { "term": "202260", "crn": "60622" },
-      { "term": "202240", "crn": "40537" }
+      { "term": "202240", "crn": "40537" },
+      { "term": "202510", "crn": "13702" },
+      { "term": "202510", "crn": "15669" },
+      { "term": "202510", "crn": "17917" }
     ],
     "description": "Introduces students with little or no musical experience to all the major and minor key signatures and the following scales: major, natural minor, harmonic minor, and melodic minor. Topics include how to read music in treble clef, bass clef, and various C-clefs; how to identify and construct intervals, triads, and seventh chords; how melody and harmony work together to create a piece of music; roman numeral analyses; and various small forms. Short excerpts are analyzed, and students are required to write musical compositions.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "MUSC",
-    "number": "1129",
-    "title": "Music of the Middle East",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": ["DD", "IC"],
-    "sections": [],
-    "description": "Introduces the music of selected Near Eastern and Arab cultures (such as Persian in the East and Ethiopic and Berber in Africa), as well as the cantillation styles and practices of various chants of the Hebrew, Christian, and Islamic traditions.",
     "coreqs": [],
     "prereqs": []
   },
@@ -183,7 +182,9 @@
       { "term": "202310", "crn": "10420" },
       { "term": "202310", "crn": "11509" },
       { "term": "202260", "crn": "60333" },
-      { "term": "202240", "crn": "40181" }
+      { "term": "202240", "crn": "40181" },
+      { "term": "202510", "crn": "10375" },
+      { "term": "202510", "crn": "11215" }
     ],
     "description": "Provides an introduction to the fundamentals of classical guitar playing for those with or without prior knowledge of the guitar. Covers music reading and theory. Requires students to perform alone and in ensemble with other members of the class. Augments the syllabus by live performances from outside professional and student classical guitarists. Bases final grades on several written examinations and student performance.",
     "coreqs": [],
@@ -199,7 +200,8 @@
     "sections": [
       { "term": "202410", "crn": "17494" },
       { "term": "202330", "crn": "39004" },
-      { "term": "202310", "crn": "19900" }
+      { "term": "202310", "crn": "19900" },
+      { "term": "202510", "crn": "15821" }
     ],
     "description": "Offers students an opportunity to attend several performances of the Boston Symphony Orchestra (BSO) at Symphony Hall. Discusses each piece of music from a variety of perspectives, including the history of a given composer and his or her relationship to music history and the history of a given composition and its relevance to the symphonic repertoire. Analyzes program pieces in order to provide a deeper appreciation for their musical construction; however, no musical background is required to participate in this course—it is designed for nonmusic majors and music majors alike. Requires students to purchase BSO College Cards (for a nominal fee) for the current BSO concert season.",
     "coreqs": [],
@@ -212,7 +214,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC"],
-    "sections": [{ "term": "202430", "crn": "39343" }],
+    "sections": [
+      { "term": "202430", "crn": "39343" },
+      { "term": "202510", "crn": "20493" }
+    ],
     "description": "Explores the use of electronics in music of various styles and genres from a historical perspective, beginning in the early twentieth century and moving to the present. Examines the methods and means of electronic sound production. Throughout history, technological innovations have influenced music. Starting in the early twentieth century, electricity and, later, electronics, became a key motivating force in music, both in composing and performing and even in listening. Covers the social and cultural conditions under which electric sound was able to evolve.",
     "coreqs": [],
     "prereqs": []
@@ -228,7 +233,8 @@
       { "term": "202430", "crn": "36993" },
       { "term": "202410", "crn": "17256" },
       { "term": "202330", "crn": "39005" },
-      { "term": "202310", "crn": "19634" }
+      { "term": "202310", "crn": "19634" },
+      { "term": "202510", "crn": "15670" }
     ],
     "description": "Focuses on singing techniques used in pop, rock, and jazz. Techniques taught, discussed, and applied in class include breathing, tone and vowel production, singing with power without strain, developing range, improvising, and creating one's own style. Offers students an opportunity to apply these techniques in class, learning through vocal demonstrations in class and through the study of recordings. Singers/songwriters are encouraged to enroll. All levels of singers are welcome; students who enroll should already have the ability to sing generally in tune.",
     "coreqs": [],
@@ -240,7 +246,7 @@
     "title": "Music Theory 1",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["EI"],
     "sections": [
       { "term": "202430", "crn": "32119" },
       { "term": "202430", "crn": "34383" },
@@ -251,11 +257,13 @@
       { "term": "202330", "crn": "39276" },
       { "term": "202310", "crn": "10414" },
       { "term": "202310", "crn": "19635" },
-      { "term": "202310", "crn": "19636" }
+      { "term": "202310", "crn": "19636" },
+      { "term": "202510", "crn": "10369" },
+      { "term": "202510", "crn": "15672" }
     ],
     "description": "Introduces melodic and harmonic practices in tonal music with additional work in chord and melody construction. Develops ear training and sight-singing skills.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "MUSC", "number": "1119" }]
   },
   {
     "subject": "MUSC",
@@ -268,7 +276,8 @@
       { "term": "202430", "crn": "34113" },
       { "term": "202410", "crn": "17259" },
       { "term": "202330", "crn": "34791" },
-      { "term": "202310", "crn": "19637" }
+      { "term": "202310", "crn": "19637" },
+      { "term": "202510", "crn": "15673" }
     ],
     "description": "Continues MUSC 1201. Focuses on harmonic practices in tonal music. Examines the role and function of harmony through analysis of musical examples and composition of four-voice chorales. Introduces study of advanced harmony. Further develops ear training and sight-singing skills.",
     "coreqs": [],
@@ -285,7 +294,8 @@
       { "term": "202430", "crn": "32611" },
       { "term": "202410", "crn": "18465" },
       { "term": "202330", "crn": "32939" },
-      { "term": "202310", "crn": "20900" }
+      { "term": "202310", "crn": "20900" },
+      { "term": "202510", "crn": "16361" }
     ],
     "description": "Provides introductory-level study of piano designed for students with or without previous experience. Combines skills in reading music with improvisation and functional piano. Introduces some basic theory to help clarify the structure of class repertoire. Allows students to progress at their own pace. Determines grades by the amount of repertoire mastered during the semester.",
     "coreqs": [],
@@ -308,7 +318,8 @@
       { "term": "202330", "crn": "30281" },
       { "term": "202310", "crn": "13043" },
       { "term": "202260", "crn": "60014" },
-      { "term": "202240", "crn": "40014" }
+      { "term": "202240", "crn": "40014" },
+      { "term": "202510", "crn": "17948" }
     ],
     "description": "Offers private instruction in voice or in an instrument. Arranges weekly lessons on a half-hour basis. Contact the music department for arrangements. Requires lab fee. May be repeated without limit.",
     "coreqs": [],
@@ -331,7 +342,8 @@
       { "term": "202330", "crn": "30280" },
       { "term": "202310", "crn": "13044" },
       { "term": "202260", "crn": "60012" },
-      { "term": "202240", "crn": "40013" }
+      { "term": "202240", "crn": "40013" },
+      { "term": "202510", "crn": "17949" }
     ],
     "description": "Offers private instruction in voice or in an instrument. Arranges weekly lessons on a half-hour basis. Contact the music department for arrangements. Requires lab fee. May be repeated without limit.",
     "coreqs": [],
@@ -344,7 +356,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34826" }],
+    "sections": [
+      { "term": "202330", "crn": "34826" },
+      { "term": "202510", "crn": "22251" }
+    ],
     "description": "Offers private instruction in music composition. Contact the music department for arrangements. Requires lab fee. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -360,7 +375,8 @@
       { "term": "202430", "crn": "30272" },
       { "term": "202410", "crn": "12703" },
       { "term": "202330", "crn": "30279" },
-      { "term": "202310", "crn": "13045" }
+      { "term": "202310", "crn": "13045" },
+      { "term": "202510", "crn": "12402" }
     ],
     "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. Prereq: Audition or permission of instructor. May be repeated without limit.",
     "coreqs": [],
@@ -377,7 +393,8 @@
       { "term": "202430", "crn": "35224" },
       { "term": "202410", "crn": "14918" },
       { "term": "202330", "crn": "36546" },
-      { "term": "202310", "crn": "15996" }
+      { "term": "202310", "crn": "15996" },
+      { "term": "202510", "crn": "14239" }
     ],
     "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. May be repeated without limit.",
     "coreqs": [],
@@ -394,7 +411,8 @@
       { "term": "202430", "crn": "30271" },
       { "term": "202410", "crn": "12704" },
       { "term": "202330", "crn": "30278" },
-      { "term": "202310", "crn": "13046" }
+      { "term": "202310", "crn": "13046" },
+      { "term": "202510", "crn": "12403" }
     ],
     "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. Prereq: Audition or permission of instructor. May be repeated without limit.",
     "coreqs": [],
@@ -410,8 +428,8 @@
     "sections": [
       { "term": "202430", "crn": "30004" },
       { "term": "202410", "crn": "12705" },
-      { "term": "202330", "crn": "30004" },
-      { "term": "202310", "crn": "13047" }
+      { "term": "202310", "crn": "13047" },
+      { "term": "202510", "crn": "12404" }
     ],
     "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. Prereq: Audition or permission of instructor. May be repeated without limit.",
     "coreqs": [],
@@ -428,7 +446,8 @@
       { "term": "202430", "crn": "30270" },
       { "term": "202410", "crn": "10245" },
       { "term": "202330", "crn": "30277" },
-      { "term": "202310", "crn": "10262" }
+      { "term": "202310", "crn": "10262" },
+      { "term": "202510", "crn": "10232" }
     ],
     "description": "Designed to serve both music majors and nonmajors, this is a performance/theory/history offering of the varied styles and techniques of performance in the jazz tradition of African-American music. Students are drawn from all segments of the University. Repertory is taken from the standard jazz literature as well as investigations of new works. Improvisational and interpretational technique are the core content of the course. Both the NU Jazz Ensemble and the NU Jazz Combo are represented together in this course. Prereq: Audition or permission of instructor. May be repeated without limit.",
     "coreqs": [],
@@ -445,7 +464,8 @@
       { "term": "202430", "crn": "30269" },
       { "term": "202410", "crn": "12706" },
       { "term": "202330", "crn": "30276" },
-      { "term": "202310", "crn": "13048" }
+      { "term": "202310", "crn": "13048" },
+      { "term": "202510", "crn": "12405" }
     ],
     "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. May be repeated without limit.",
     "coreqs": [],
@@ -462,7 +482,8 @@
       { "term": "202430", "crn": "30041" },
       { "term": "202410", "crn": "12769" },
       { "term": "202330", "crn": "30044" },
-      { "term": "202310", "crn": "13133" }
+      { "term": "202310", "crn": "13133" },
+      { "term": "202510", "crn": "12462" }
     ],
     "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. Prereq: Audition or permission of instructor. May be repeated without limit.",
     "coreqs": [],
@@ -479,7 +500,10 @@
       { "term": "202430", "crn": "30268" },
       { "term": "202410", "crn": "12707" },
       { "term": "202330", "crn": "30275" },
-      { "term": "202310", "crn": "13049" }
+      { "term": "202310", "crn": "13049" },
+      { "term": "202510", "crn": "12406" },
+      { "term": "202460", "crn": "61728" },
+      { "term": "202440", "crn": "42105" }
     ],
     "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. May be repeated without limit.",
     "coreqs": [],
@@ -508,7 +532,12 @@
       { "term": "202310", "crn": "13870" },
       { "term": "202310", "crn": "14856" },
       { "term": "202310", "crn": "19638" },
-      { "term": "202310", "crn": "21185" }
+      { "term": "202310", "crn": "21185" },
+      { "term": "202510", "crn": "13000" },
+      { "term": "202510", "crn": "13703" },
+      { "term": "202510", "crn": "15674" },
+      { "term": "202510", "crn": "19365" },
+      { "term": "202510", "crn": "20672" }
     ],
     "description": "Allows students to participate as performers in one or more ensembles under the direction of a faculty conductor. Prereq: Audition or permission of instructor. May be repeated without limit.",
     "coreqs": [],
@@ -525,7 +554,8 @@
       { "term": "202430", "crn": "30511" },
       { "term": "202410", "crn": "12709" },
       { "term": "202330", "crn": "30528" },
-      { "term": "202310", "crn": "13051" }
+      { "term": "202310", "crn": "13051" },
+      { "term": "202510", "crn": "12408" }
     ],
     "description": "Designed to give students who sing jazz and blues the opportunity to rehearse and perform in a small vocal group. Offers students an opportunity to work on singing in harmony and be featured in solos. The group is also accompanied by a student jazz combo. Members of the combo may register for the course for credit. Requires audition. May be repeated without limit.",
     "coreqs": [],
@@ -543,7 +573,8 @@
       { "term": "202410", "crn": "13153" },
       { "term": "202330", "crn": "33288" },
       { "term": "202310", "crn": "13566" },
-      { "term": "202310", "crn": "21186" }
+      { "term": "202310", "crn": "21186" },
+      { "term": "202510", "crn": "12782" }
     ],
     "description": "Explores music-making traditions from selected world cultures through performance on percussion, voice, and other instruments. No previous music-making experience required. May be repeated up to eight times.",
     "coreqs": [],
@@ -560,7 +591,8 @@
       { "term": "202430", "crn": "30967" },
       { "term": "202410", "crn": "12710" },
       { "term": "202330", "crn": "31038" },
-      { "term": "202310", "crn": "13052" }
+      { "term": "202310", "crn": "13052" },
+      { "term": "202510", "crn": "12409" }
     ],
     "description": "Offers students an opportunity to participate as performers in one or more ensembles under the direction of a faculty conductor. Focuses on instrumental rock, blues, funk, and jazz repertoire. Prereq: Audition or permission of instructor. May be repeated up to eight times.",
     "coreqs": [],
@@ -577,7 +609,8 @@
       { "term": "202430", "crn": "35228" },
       { "term": "202410", "crn": "12712" },
       { "term": "202330", "crn": "36550" },
-      { "term": "202310", "crn": "13054" }
+      { "term": "202310", "crn": "13054" },
+      { "term": "202510", "crn": "12411" }
     ],
     "description": "Offers students an opportunity to participate as performers in one or more ensembles under the direction of a faculty supervisor. The pep band performs at sporting events and other university functions. May be repeated up to eight times.",
     "coreqs": [],
@@ -611,11 +644,20 @@
     "nuPath": ["EI", "IC", "WI"],
     "sections": [
       { "term": "202430", "crn": "39344" },
-      { "term": "202310", "crn": "19640" }
+      { "term": "202310", "crn": "19640" },
+      { "term": "202510", "crn": "20494" }
     ],
     "description": "Explores the history of the genre of song through a set of examples that have had enormous impact and influence, songs that have “made history.” Using songs selected by the faculty based on their expertise, this course aims to identify the social, cultural, musical, and poetic threads that have woven their way through song repertories, influencing song composition from its origins to the present day. Establishes commonalities and trends in order to understand how “song” has taken on an important cultural status that is unique to a specific time and place and is widespread, linking various songs together.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
   },
   {
     "subject": "MUSC",
@@ -642,7 +684,8 @@
     "sections": [
       { "term": "202430", "crn": "39345" },
       { "term": "202310", "crn": "19641" },
-      { "term": "202310", "crn": "20715" }
+      { "term": "202310", "crn": "20715" },
+      { "term": "202510", "crn": "20495" }
     ],
     "description": "Explores how great musicals are constructed and what tools are needed, focusing on how effective lyrics are built; how songs function in musicals; and how book writers, lyricists, and composers create new works and adapt existing works from other media to the musical theater stage. Offers students an opportunity to transform analytical techniques and discoveries into creative strategies, building short musicals in collaborative teams. Students need not be musicians to participate in this class. Aspiring actors, composers, lyricists, authors of all styles, technical theater artists and designers, and all those with a curiosity about the history of musicals and how musicals are made are strongly encouraged to enroll.",
     "coreqs": [],
@@ -690,7 +733,9 @@
       { "term": "202330", "crn": "36655" },
       { "term": "202330", "crn": "39007" },
       { "term": "202310", "crn": "19644" },
-      { "term": "202240", "crn": "40538" }
+      { "term": "202240", "crn": "40538" },
+      { "term": "202510", "crn": "15676" },
+      { "term": "202510", "crn": "17586" }
     ],
     "description": "Offers an opportunity to learn to construct songs with forward motion and memorable “hooks.”Topics include time-proven song forms, melody writing, harmonic tools, lyric writing, collaboration, and production techniques. Emphasizes the craft of writing songs for use in film and television.",
     "coreqs": [],
@@ -758,7 +803,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC", "WI"],
-    "sections": [{ "term": "202410", "crn": "20131" }],
+    "sections": [
+      { "term": "202410", "crn": "20131" },
+      { "term": "202510", "crn": "17589" }
+    ],
     "description": "Explores a selection of musical traditions in order to gain an appreciation of musical diversity in terms of aesthetics and meanings. Interrogates the concept of “world music”/\"global music\" as a way of sustaining binaries between the West and “the rest.” Studies the historical, political, economic, social, and aesthetic contexts of varied musical practices to offer students an opportunity to learn how music both reflects and shapes its cultural setting. Through varied pedagogical techniques, presents an informed and critical understanding of music as a meaningful form of human expression.",
     "coreqs": [],
     "prereqs": [
@@ -769,6 +817,26 @@
       { "subject": "ENGW", "number": "1111" },
       "Or",
       { "subject": "ENGW", "number": "1102" }
+    ]
+  },
+  {
+    "subject": "MUSC",
+    "number": "2317",
+    "title": "Punk Rock",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["SI", "WI"],
+    "sections": [{ "term": "202510", "crn": "20498" }],
+    "description": "Explores punk rock as a music genre and a lifestyle, an attitude and a philosophy, a political orientation and a commodified fashion. Everyone's perspective on punk is different, but it also has rules and boundaries. Although it emerged in the 1970s as a reaction against very specific social, cultural, and musical moments in the United States and the United Kingdom, punk has become larger than itself in the intervening decades, spawning sub-subcultures and subgenres that would be unrecognizable to its originators. Addresses punk's long narrative: protopunk genres including garage rock and glam rock; punk's origins in New York City and London; its transformation into postpunk, hardcore, anarcho-punk, and straightedge; and its legacy outside the United States/United Kingdom nexus and in genres such as riot grrrl, grunge, and pop-punk.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
     ]
   },
   {
@@ -838,7 +906,15 @@
     ],
     "description": "Examines the significance of gender to the experience of and access to participation in music making, listening, the music industries, and cultural recognition. Surveys how gender differences have been constructed, enacted, and contested in historical and contemporary musical cultures and develops critical lenses for analyzing musical representations of gender difference and their social impact. Considers how gender intersects with racial and sexual identities in music and its institutional structures. Uses case studies drawn from a variety of contexts, such as classical (Bizet's “Carmen”), popular (Beyoncé), film (“Star Wars”), and avant-garde (Yoko Ono).",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
   },
   {
     "subject": "MUSC",
@@ -852,7 +928,8 @@
       { "term": "202410", "crn": "17267" },
       { "term": "202330", "crn": "32703" },
       { "term": "202330", "crn": "39318" },
-      { "term": "202310", "crn": "19646" }
+      { "term": "202310", "crn": "19646" },
+      { "term": "202510", "crn": "15677" }
     ],
     "description": "Introduces students from a variety of disciplines to the fundamentals of sonic production, transmission, and reception. Topics include impedance, refraction and diffraction, wave mechanics, frequency spectrum, and resonance. Applies core concepts to the understanding of the acoustics of musical instruments and loudspeakers. Explores basic auditory psychophysics. Offers students an opportunity to investigate real-life applications in the domains of music, sonic art, sound design, instrumental design, and recording.",
     "coreqs": [],
@@ -865,7 +942,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI", "IC"],
-    "sections": [{ "term": "202430", "crn": "39348" }],
+    "sections": [
+      { "term": "202430", "crn": "39348" },
+      { "term": "202510", "crn": "20499" }
+    ],
     "description": "Examines the function of music and sound design in contemporary visual media: how they are used in relation to images, and how they work with images to generate meaning and shape experience. Topics include film, television, video games, and the internet; and intermedial forms such as title sequences, trailers, music videos, and commercials.",
     "coreqs": [],
     "prereqs": []
@@ -891,6 +971,18 @@
     "nuPath": [],
     "sections": [{ "term": "202430", "crn": "40420" }],
     "description": "This course provides musicians and non-musicians alike an overview of the multimodal dimensions and applications of rhythm for performative, communicative, therapeutic, spiritual and social purposes.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MUSC",
+    "number": "2973",
+    "title": "Music & Audio for Video Games",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21416" }],
+    "description": "Focuses on various topics related to music. May be repeated twice for a maximum of 12 semester hours.",
     "coreqs": [],
     "prereqs": []
   },
@@ -953,7 +1045,8 @@
       { "term": "202410", "crn": "17269" },
       { "term": "202330", "crn": "37296" },
       { "term": "202310", "crn": "19664" },
-      { "term": "202240", "crn": "41949" }
+      { "term": "202240", "crn": "41949" },
+      { "term": "202510", "crn": "15678" }
     ],
     "description": "Offers preparation for and performance of a minirecital (twenty to thirty minutes of music) under the guidance of the student's primary instrumental or vocal instructor. Minirecitals are usually shared by more than one student. Students take MUSC 3410 in place of MUSC 4992.",
     "coreqs": [],
@@ -1000,11 +1093,12 @@
       { "term": "202430", "crn": "35662" },
       { "term": "202410", "crn": "17271" },
       { "term": "202330", "crn": "37297" },
-      { "term": "202310", "crn": "19666" }
+      { "term": "202310", "crn": "19666" },
+      { "term": "202510", "crn": "15679" }
     ],
     "description": "Offers preparation for and performance of a senior recital (forty to sixty minutes of music) under the guidance of the student's primary instrumental or vocal instructor.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "MUSC", "number": "3410" }]
   },
   {
     "subject": "MUSC",

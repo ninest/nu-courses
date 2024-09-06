@@ -10,7 +10,8 @@
       { "term": "202430", "crn": "35444" },
       { "term": "202410", "crn": "15512" },
       { "term": "202330", "crn": "36903" },
-      { "term": "202310", "crn": "17104" }
+      { "term": "202310", "crn": "17104" },
+      { "term": "202510", "crn": "14680" }
     ],
     "description": "Introduces the university, college, and the speech-language pathology and audiology major. Seeks to enhance students’ understanding of self and the decisions they make personally, academically, and professionally as members of the university’s diverse community. Designed to help students gain knowledge and experiences that will ease the transition to Northeastern University and assist in developing strategies for success in college and in life beyond. Group activities, individual assignments, and active participation in a learning community are designed to help students adjust to life on an urban campus; develop a better understanding of the learning process; acquire essential academic and co-curricular skills; and make connections with faculty, students, and across majors in Bouvé College.",
     "coreqs": [],
@@ -58,7 +59,8 @@
       { "term": "202460", "crn": "61497" },
       { "term": "202410", "crn": "14474" },
       { "term": "202310", "crn": "15241" },
-      { "term": "202310", "crn": "20875" }
+      { "term": "202310", "crn": "20875" },
+      { "term": "202510", "crn": "13899" }
     ],
     "description": "Offers an in-depth study of the static structure, musculature, and physiology of the speech and hearing mechanism. Emphasizes current research in speech and hearing physiology.",
     "coreqs": [],
@@ -91,7 +93,8 @@
       { "term": "202440", "crn": "41810" },
       { "term": "202410", "crn": "14479" },
       { "term": "202310", "crn": "15249" },
-      { "term": "202310", "crn": "20518" }
+      { "term": "202310", "crn": "20518" },
+      { "term": "202510", "crn": "13903" }
     ],
     "description": "Offers the opportunity to gain knowledge of the physics of sound and the anatomy/physiology of the human hearing mechanism, and how these two areas are interrelated. Familiarizes students with some of the diagnostic tests performed by the audiologist in order to assess the integrity of the hearing mechanism. Concludes with a brief overview of amplification and the rehabilitation process for hearing-impaired individuals.",
     "coreqs": [],
@@ -125,7 +128,8 @@
       { "term": "202410", "crn": "11836" },
       { "term": "202410", "crn": "19592" },
       { "term": "202330", "crn": "37019" },
-      { "term": "202310", "crn": "12058" }
+      { "term": "202310", "crn": "12058" },
+      { "term": "202510", "crn": "11668" }
     ],
     "description": "Seeks to increase student understanding of communication disorders through film. By watching Oscar-awarded, Oscar-nominated, and other Hollywood movies, students are offered an opportunity to develop a heightened sensitivity for how society views specific communication disorders. Through related lectures, discussion, structured activities, and assignments, studies the etiology and diagnosis of a variety of communication disorders and how individuals with these disorders may be helped.",
     "coreqs": [],
@@ -142,7 +146,8 @@
       { "term": "202430", "crn": "35569" },
       { "term": "202410", "crn": "15611" },
       { "term": "202330", "crn": "37119" },
-      { "term": "202310", "crn": "17342" }
+      { "term": "202310", "crn": "17342" },
+      { "term": "202510", "crn": "14739" }
     ],
     "description": "Designed to prepare students for all aspects of the cooperative education component of their curriculum by comparing the goals and expectations of the co-op employer, co-op faculty, and students themselves. Offers students an opportunity to obtain an understanding of the policies and procedures of the Department of Cooperative Education through professional goal exploration. Examines the spectrum of clinical settings for speech, language, and hearing professionals, as well as current trends in the job market. Focuses on job search strategies through developing resumés, preparing for interviews, and making informed choices. Examines on-the-job scenarios involving problem solving, ethical issues, and confidentiality and discusses appropriate ways to handle difficult workplace situations.",
     "coreqs": [],
@@ -155,7 +160,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20819" }],
+    "sections": [
+      { "term": "202410", "crn": "20819" },
+      { "term": "202510", "crn": "18249" }
+    ],
     "description": "Offers an opportunity to examine language and its relation to other domains of science that have historically been studied in isolation, including memory, emotion, sensory processing, decision making, and motivation. Provides an overview of several areas of language, as well as what modern neuroscience teaches about how the brain processes language.",
     "coreqs": [],
     "prereqs": []
@@ -167,7 +175,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19593" }],
+    "sections": [
+      { "term": "202410", "crn": "19593" },
+      { "term": "202510", "crn": "17086" }
+    ],
     "description": "Offers students an opportunity to obtain the foundation needed to work with children and adults with frequently referred language disorders that are typical consequences of congenital and acquired central and peripheral nervous-system impairments. Emphasizes the anatomy/etiology/neurology/physiology of common disorders, characteristics of these disorders, and intervention approaches (diagnostic and therapeutic). Addresses prevention, outcome, efficacy, and service-delivery considerations.",
     "coreqs": [],
     "prereqs": [{ "subject": "SLPA", "number": "1102" }]
@@ -185,7 +196,11 @@
     ],
     "description": "Offers students an opportunity to obtain the foundation needed to work with adults and children who demonstrate delays and disorders of speech production across the life span. Discusses articulation and phonological development and disorders, phonological differences, disorders of fluency of speech, and disorders of resonance and voice. Presents formal and informal diagnostic and therapeutic intervention for each disorder/difference and discusses the impact of these communication problems in relation to the individual and family.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "SLPA", "number": "1103" },
+      "And",
+      { "subject": "SLPA", "number": "1200" }
+    ]
   },
   {
     "subject": "SLPA",
@@ -194,7 +209,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19595" }],
+    "sections": [
+      { "term": "202410", "crn": "19595" },
+      { "term": "202510", "crn": "22056" }
+    ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -210,7 +228,11 @@
       { "term": "202410", "crn": "11330" },
       { "term": "202410", "crn": "19596" },
       { "term": "202410", "crn": "19597" },
-      { "term": "202310", "crn": "11503" }
+      { "term": "202310", "crn": "11503" },
+      { "term": "202510", "crn": "11209" },
+      { "term": "202510", "crn": "21564" },
+      { "term": "202510", "crn": "20047" },
+      { "term": "202510", "crn": "20046" }
     ],
     "description": "Reviews principles and procedures of the functional analysis of behavior and focuses on the application of behavioral theory and research to speech, language, and hearing training. Emphasizes clinical investigation in the experimental analysis of the behavior of communication disorders and experiences in the application of experimental procedures in assessment and treatment programs.",
     "coreqs": [],
@@ -225,7 +247,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10655" },
-      { "term": "202310", "crn": "10717" }
+      { "term": "202310", "crn": "10717" },
+      { "term": "202510", "crn": "10606" },
+      { "term": "202510", "crn": "17091" }
     ],
     "description": "Provides students with the opportunity to acquire a basic understanding of human neuroanatomy and neurophysiology as related to normal aspects of speech, hearing, and language. Reviews central and peripheral nervous system anatomy and physiology developmentally from embryologic through the life span perspectives. Neurology of common speech-language pathologies are similarly addressed.",
     "coreqs": [],
@@ -271,7 +295,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13661" },
-      { "term": "202310", "crn": "14176" }
+      { "term": "202310", "crn": "14176" },
+      { "term": "202510", "crn": "13231" }
     ],
     "description": "Provides students from school psychology, special education, speech-language pathology and audiology, physical therapy, nursing, and related fields with supervised field work experience in team-oriented interventions for infants and toddlers with disabilities or at risk for developmental delays and their families from linguistically and culturally diverse backgrounds. The practicum class sessions are conceptualized as the linchpin training experience between what the theory addresses in didactic courses and the student’s fieldwork. Students are expected to master early intervention and team participation core competencies to work effectively with infants and toddlers and their families, interdisciplinary team members, and administrative personnel.",
     "coreqs": [],
@@ -303,7 +328,9 @@
       { "term": "202430", "crn": "35256" },
       { "term": "202410", "crn": "11091" },
       { "term": "202330", "crn": "36607" },
-      { "term": "202310", "crn": "11225" }
+      { "term": "202310", "crn": "11225" },
+      { "term": "202510", "crn": "11013" },
+      { "term": "202510", "crn": "20048" }
     ],
     "description": "Offers students an opportunity to review diagnostic tests and test manuals in the field of speech-language pathology and to practice their administration. Discusses information about test content, reliability, and validity. Principles of standardized testing, norm referencing, and test scoring are reviewed and practiced.",
     "coreqs": [],
@@ -359,7 +386,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20693" }],
+    "sections": [
+      { "term": "202410", "crn": "20693" },
+      { "term": "202510", "crn": "18126" }
+    ],
     "description": "Focuses on the basics of acoustics and its relationship with speech production and speech perception. Highlights the relationship between physiological aspects of speech production and their influence on the resulting acoustics of speech. Considers both normative and disordered speech production and perception. Discusses acoustic analysis and clinical approaches to remediation.",
     "coreqs": [],
     "prereqs": []
@@ -405,7 +435,8 @@
     "sections": [
       { "term": "202410", "crn": "14003" },
       { "term": "202310", "crn": "14615" },
-      { "term": "202310", "crn": "19231" }
+      { "term": "202310", "crn": "19231" },
+      { "term": "202510", "crn": "13519" }
     ],
     "description": "Provides an overview of augmentative and alternative communication (AAC) approaches for individuals with severe communication impairments. Helps students gain the foundation knowledge and skills for further independent study, continuing education, further course work, and practicum experience. For student who seek additional study or experience in AAC, the course should provide an enabling foundation for providing direct services in AAC or to serve as a consultant to meet the needs of individuals with severe communication impairments. For those who will not seek additional study in AAC, the course should provide the basic knowledge for appropriate referral and collaboration.",
     "coreqs": [],
@@ -420,7 +451,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10656" },
-      { "term": "202310", "crn": "10718" }
+      { "term": "202310", "crn": "10718" },
+      { "term": "202510", "crn": "10607" },
+      { "term": "202510", "crn": "14456" }
     ],
     "description": "Familiarizes students with theoretical, empirical, and practical views of the etiology, assessment, and treatment of disorders of the speech sound system. Focuses on disorders that are developmental in nature (as opposed to emerging after normal speech sound development has occurred). Includes a review of articulatory phonetics, discussion of relevant linguistic principles, and study of theory and data relevant to the course of normal speech sound system development.",
     "coreqs": [],
@@ -436,7 +469,8 @@
     "sections": [
       { "term": "202410", "crn": "10654" },
       { "term": "202310", "crn": "10716" },
-      { "term": "202310", "crn": "19232" }
+      { "term": "202310", "crn": "19232" },
+      { "term": "202510", "crn": "10605" }
     ],
     "description": "Examines voice disorders, which are prevalent across the life span in both professional and lay voice users. Evaluation and treatment of organic and/or functional vocal pathologies are key focuses of speech-language pathologists across clinical settings (educational and medical). Provides students with the information base needed to work with these interesting and rewarding populations. Emphasis is on anatomy and physiology of normal and impaired voice production, instrumental and noninstrumental assessment, and treatment techniques for remediation. Emphasizes prevention, outcome, and efficacy considerations.",
     "coreqs": [],
@@ -611,7 +645,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "38800" },
-      { "term": "202410", "crn": "20807" }
+      { "term": "202410", "crn": "20807" },
+      { "term": "202510", "crn": "18238" }
     ],
     "description": "Focuses on early literacy skill acquisition in the field of speech-language pathology. Introduces the historical framework of learning to read, elements of reading, reading assessment and intervention, and the integration of theoretical knowledge and clinical experience in school-based therapy settings. Offers students an opportunity for hands-on delivery of language-based early literacy services to young school-age children who may be at risk for delayed language and/or early reading difficulties.",
     "coreqs": [],
@@ -626,7 +661,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "13799" },
-      { "term": "202310", "crn": "17638" }
+      { "term": "202310", "crn": "17638" },
+      { "term": "202510", "crn": "13357" },
+      { "term": "202510", "crn": "14862" }
     ],
     "description": "Explores communication disorders from infancy through the preschool period. Considers at-risk populations, as well as those with known etiologies. Addresses information on incidence, characteristics, principles and methods of assessment and intervention, multicultural issues, service delivery models, and current issues in the research literature. Examines theoretical issues and their implication for language intervention.",
     "coreqs": [],
@@ -676,11 +713,16 @@
     "sections": [
       { "term": "202410", "crn": "14004" },
       { "term": "202310", "crn": "14616" },
-      { "term": "202310", "crn": "19233" }
+      { "term": "202310", "crn": "19233" },
+      { "term": "202510", "crn": "13520" }
     ],
     "description": "Offers students an opportunity to obtain foundational skills needed to work with frequently referred adults with acquired neurologic cognitive-communicative impairments across clinical settings. Speech, language, and cognitive-communication disorders are typical consequences of acquired central and peripheral nervous system adult impairments. Emphasizes the anatomy, etiology, neurology, and physiology of different types of cognitive-communicative impairments, characteristics of these, and intervention approaches (diagnostic and therapeutic). Addresses prevention, outcome, efficacy, and service-delivery considerations.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "SLPA", "number": "5109" },
+      "Or",
+      { "subject": "SLPA", "number": "5109" }
+    ]
   },
   {
     "subject": "SLPA",
@@ -705,7 +747,9 @@
       { "term": "202430", "crn": "30701" },
       { "term": "202410", "crn": "11399" },
       { "term": "202330", "crn": "30745" },
-      { "term": "202310", "crn": "11578" }
+      { "term": "202310", "crn": "11578" },
+      { "term": "202510", "crn": "11272" },
+      { "term": "202510", "crn": "20050" }
     ],
     "description": "Offers supervised clinical experience in speech pathology for beginning graduate students. Includes practicum sites at the Northeastern University on-campus clinical site, satellite clinics, and/or educational settings. Requires student to be available a minimum of twenty hours per week during the academic year. Requires attendance at on-campus seminar meetings held weekly. May be repeated without limit.",
     "coreqs": [],
@@ -726,7 +770,11 @@
     ],
     "description": "Offers supervised clinical experience in speech pathology at the Northeastern University Hearing, Language, and Speech Center, medical settings, educational settings, and rehabilitation centers. Uses practical experience to emphasize advanced diagnostic and management techniques, stressing the application of theory to practice. Requires student to be available a minimum of twenty hours per week during the academic year. May be repeated without limit.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "SLPA", "number": "6415" },
+      "Or",
+      { "subject": "SLPA", "number": "6415" }
+    ]
   },
   {
     "subject": "SLPA",
@@ -739,7 +787,8 @@
       { "term": "202410", "crn": "11703" },
       { "term": "202350", "crn": "51699" },
       { "term": "202330", "crn": "38592" },
-      { "term": "202310", "crn": "11918" }
+      { "term": "202310", "crn": "11918" },
+      { "term": "202510", "crn": "11561" }
     ],
     "description": "Offers supervised clinical experience in speech-language pathology for advanced graduate students, placing them in settings such as the Northeastern University Speech, Language, and Hearing Center, medical settings, educational settings, and rehabilitation centers. Uses practical experience to emphasize problem-solving techniques relevant to case management and continues to integrate theory and practice. Requires students to be available a minimum of twenty hours per week during the academic year. May be repeated without limit.",
     "coreqs": [],
@@ -758,7 +807,8 @@
       { "term": "202350", "crn": "50548" },
       { "term": "202330", "crn": "30743" },
       { "term": "202330", "crn": "38593" },
-      { "term": "202310", "crn": "11103" }
+      { "term": "202310", "crn": "11103" },
+      { "term": "202510", "crn": "10911" }
     ],
     "description": "Offers supervised clinical experience in speech-language management pathology for advanced graduate students, placing them in settings such as the Northeastern University Speech, Language, and Hearing Center, medical settings, educational settings, and rehabilitation centers. Uses practical experience to emphasize problem-solving techniques relevant to case management and continues to integrate theory and practice. Requires students to be available a minimum of twenty hours per week during the academic year. May be repeated without limit.",
     "coreqs": [],
@@ -830,7 +880,12 @@
       { "term": "202310", "crn": "10715" },
       { "term": "202310", "crn": "18183" },
       { "term": "202310", "crn": "20873" },
-      { "term": "202310", "crn": "21679" }
+      { "term": "202310", "crn": "21679" },
+      { "term": "202510", "crn": "10604" },
+      { "term": "202510", "crn": "21527" },
+      { "term": "202510", "crn": "21621" },
+      { "term": "202510", "crn": "22618" },
+      { "term": "202440", "crn": "42242" }
     ],
     "description": "Offers a research activity that is the first of a two-course thesis sequence with the recommendation of the adviser. May be repeated without limit.",
     "coreqs": [],

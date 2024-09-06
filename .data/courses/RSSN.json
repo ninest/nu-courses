@@ -10,7 +10,8 @@
       { "term": "202430", "crn": "32288" },
       { "term": "202410", "crn": "10053" },
       { "term": "202330", "crn": "32540" },
-      { "term": "202310", "crn": "10057" }
+      { "term": "202310", "crn": "10057" },
+      { "term": "202510", "crn": "10051" }
     ],
     "description": "Explores the essentials of grammar, practice in pronunciation, acquisition of basic vocabulary, and idiomatic expressions of everyday Russian.",
     "coreqs": [],
@@ -27,7 +28,8 @@
       { "term": "202430", "crn": "34089" },
       { "term": "202410", "crn": "10052" },
       { "term": "202330", "crn": "34759" },
-      { "term": "202310", "crn": "10056" }
+      { "term": "202310", "crn": "10056" },
+      { "term": "202510", "crn": "10050" }
     ],
     "description": "Continues RSSN 1101. Studies grammar and spoken and written forms of the language. Covers more advanced features of the language.",
     "coreqs": [],
@@ -47,7 +49,8 @@
     "sections": [
       { "term": "202430", "crn": "37361" },
       { "term": "202330", "crn": "39396" },
-      { "term": "202310", "crn": "12692" }
+      { "term": "202310", "crn": "12692" },
+      { "term": "202510", "crn": "12133" }
     ],
     "description": "Emphasizes further vocabulary building. Offers students an opportunity to master the fine points of grammar through written composition, prepared oral reports, and reading and discussion from contemporary Russian materials.",
     "coreqs": [],
@@ -84,7 +87,8 @@
     "nuPath": ["EX"],
     "sections": [
       { "term": "202410", "crn": "18484" },
-      { "term": "202310", "crn": "20920" }
+      { "term": "202310", "crn": "20920" },
+      { "term": "202510", "crn": "16375" }
     ],
     "description": "Builds on RSSN 2102. Continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
     "coreqs": [],
@@ -107,6 +111,10 @@
     ],
     "description": "Builds on RSSN 3101 and continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "RSSN", "number": "3101" },
+      "Or",
+      { "subject": "RSSN", "number": "3301" }
+    ]
   }
 ]

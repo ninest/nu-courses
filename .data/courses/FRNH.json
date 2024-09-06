@@ -12,12 +12,13 @@
       { "term": "202410", "crn": "10068" },
       { "term": "202410", "crn": "10067" },
       { "term": "202340", "crn": "40892" },
-      { "term": "202330", "crn": "30007" },
       { "term": "202330", "crn": "30073" },
       { "term": "202310", "crn": "10072" },
       { "term": "202310", "crn": "10071" },
       { "term": "202310", "crn": "20584" },
-      { "term": "202240", "crn": "41094" }
+      { "term": "202240", "crn": "41094" },
+      { "term": "202510", "crn": "10066" },
+      { "term": "202510", "crn": "10065" }
     ],
     "description": "Designed for students with very little or no prior knowledge of French. Provides a lively introduction to basic oral expression, listening comprehension, and elementary reading and writing. Each lesson incorporates helpful information about daily life in France and the varied cultures within the world of French speakers. Laboratory practice complements class work, enables students to work aloud at their own speed, reinforces their acquisition of essential structures, and acquaints them with a vast library of audio-visual resources.",
     "coreqs": [],
@@ -37,7 +38,9 @@
       { "term": "202410", "crn": "19661" },
       { "term": "202330", "crn": "30072" },
       { "term": "202330", "crn": "34753" },
-      { "term": "202310", "crn": "10070" }
+      { "term": "202310", "crn": "10070" },
+      { "term": "202510", "crn": "10064" },
+      { "term": "202510", "crn": "17141" }
     ],
     "description": "Continues FRNH 1101. Reviews and continues the study of grammar and basic language skills. Offers progressively more intensive practice in oral and written communication. Laboratory practice complements class work, enables students to work aloud at their own speed, reinforces their acquisition of essential structures, and acquaints them with a vast library of audio-visual resources.",
     "coreqs": [],
@@ -46,6 +49,21 @@
       "Or",
       { "subject": "FRNH", "number": "1301" }
     ]
+  },
+  {
+    "subject": "FRNH",
+    "number": "1280",
+    "title": "French Film and Culture",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["IC"],
+    "sections": [
+      { "term": "202510", "crn": "21763" },
+      { "term": "202510", "crn": "21764" }
+    ],
+    "description": "Class conducted in English.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "FRNH",
@@ -61,7 +79,8 @@
       { "term": "202330", "crn": "30071" },
       { "term": "202310", "crn": "10069" },
       { "term": "202310", "crn": "11182" },
-      { "term": "202310", "crn": "20585" }
+      { "term": "202310", "crn": "20585" },
+      { "term": "202510", "crn": "10063" }
     ],
     "description": "Emphasizes further vocabulary building and mastery of fine points of grammar through written composition, prepared oral reports, and reading and discussion from current French periodicals.",
     "coreqs": [],
@@ -84,7 +103,8 @@
       { "term": "202410", "crn": "10064" },
       { "term": "202330", "crn": "30070" },
       { "term": "202330", "crn": "30023" },
-      { "term": "202310", "crn": "10068" }
+      { "term": "202310", "crn": "10068" },
+      { "term": "202510", "crn": "10062" }
     ],
     "description": "Continues FRNH 2101. Stresses the fundamentals of French to promote effective self-expression through speaking and writing and to explore the idiomatic aspects of the language. Through progressive class discussions and oral and written commentaries, students analyze a contemporary French novel or a French cultural reader, screenplay, or collection of short stories. Strives to help students read and comprehend modern French writing with confidence, and to be able to talk and write about it in good French. Provides preparation for advanced courses.",
     "coreqs": [],
@@ -106,11 +126,18 @@
       { "term": "202410", "crn": "11050" },
       { "term": "202330", "crn": "30844" },
       { "term": "202310", "crn": "11180" },
-      { "term": "202310", "crn": "20586" }
+      { "term": "202310", "crn": "20586" },
+      { "term": "202510", "crn": "10973" }
     ],
     "description": "Continues further development of vocabulary. Offers students an opportunity to continue to master grammar and conversation through advanced reading, composition, grammar review, and listening skills. Whenever possible, offers students an opportunity to engage in local community activities to enhance communication skills and cultural knowledge.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "FRNH", "number": "2102" },
+      "Or",
+      { "subject": "FRNH", "number": "2302" },
+      "Or",
+      "French Placement Test"
+    ]
   },
   {
     "subject": "FRNH",
@@ -134,18 +161,6 @@
   },
   {
     "subject": "FRNH",
-    "number": "3800",
-    "title": "Exploring Spoken French",
-    "scheduleType": "Lecture",
-    "credits": 1,
-    "nuPath": [],
-    "sections": [],
-    "description": "Focuses on a unique aspect of the French language. Specific topics reflect current developments in the language and expressed student interests. Focuses on the use of the language for specific purposes or its use in specialized contexts (e.g., media, business, health).",
-    "coreqs": [],
-    "prereqs": [{ "subject": "FRNH", "number": "2102" }]
-  },
-  {
-    "subject": "FRNH",
     "number": "4800",
     "title": "ST: Contemp. French Cult & Soc",
     "scheduleType": "Lecture",
@@ -155,7 +170,8 @@
       { "term": "202430", "crn": "32902" },
       { "term": "202410", "crn": "13201" },
       { "term": "202330", "crn": "33280" },
-      { "term": "202310", "crn": "13627" }
+      { "term": "202310", "crn": "13627" },
+      { "term": "202510", "crn": "12826" }
     ],
     "description": "Focuses on a unique aspect of the French language. The specific topics are chosen to reflect current developments in the language and expressed student interests. Focuses on the use of the language for specific purposes or its use in specialized settings (e.g., media, business, health). Requires att least an advanced level of skill in the language. May be repeated up to four times.",
     "coreqs": [],

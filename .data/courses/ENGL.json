@@ -10,7 +10,8 @@
       { "term": "202430", "crn": "32948" },
       { "term": "202410", "crn": "12419" },
       { "term": "202330", "crn": "33334" },
-      { "term": "202310", "crn": "12723" }
+      { "term": "202310", "crn": "12723" },
+      { "term": "202510", "crn": "12160" }
     ],
     "description": "Intended for first-year students in the College of Social Sciences and Humanities. Introduces first-year students to the liberal arts in general; familiarizes them with their major; helps them develop the academic skills necessary to succeed (analytical ability and critical thinking); provides grounding in the culture and values of the University community; and helps them develop interpersonal skills—in short, familiarizes students with all skills needed to become a successful university student.",
     "coreqs": [],
@@ -51,7 +52,8 @@
       { "term": "202430", "crn": "40697" },
       { "term": "202410", "crn": "11272" },
       { "term": "202330", "crn": "35947" },
-      { "term": "202310", "crn": "11435" }
+      { "term": "202310", "crn": "11435" },
+      { "term": "202510", "crn": "11160" }
     ],
     "description": "Introduces major concepts, traditions, and issues in rhetorical studies. Explores topics such as the range of ways that people persuade others to change their minds or take action; the relationship among language, truth, knowledge, and power; the role of language in shaping identity, communities, and cultures; and the use of rhetoric for activism and advocacy. Focuses on rhetoricians and rhetorics from diverse traditions, emphasizing contemporary and interdisciplinary approaches to investigating a wide range of rhetorical artifacts.",
     "coreqs": [],
@@ -79,7 +81,8 @@
     "sections": [
       { "term": "202410", "crn": "17240" },
       { "term": "202330", "crn": "38797" },
-      { "term": "202310", "crn": "19615" }
+      { "term": "202310", "crn": "19615" },
+      { "term": "202510", "crn": "15665" }
     ],
     "description": "Explores the ways in which narrative and other forms of creative and cultural expression help shape conceptions of illness, healing, and the body. Offers students opportunities to consider the health and humanities through a variety of interdisciplinary perspectives and genres. Includes small-group and classwide experiential field outings. Culminates in the composition of reflective responses, a medical ethics/medical journalism piece, and a team-based experiential e-portfolio project. Course objectives include differentiating between healing and curing; knowing how to elicit, listen to, and analyze stories to determine how participants in the healthcare system experience illness and healing; being able to articulate the ways health is a cultural construct; and using this analysis to identify an empathic response as a future professional.",
     "coreqs": [],
@@ -99,7 +102,9 @@
       { "term": "202330", "crn": "32947" },
       { "term": "202310", "crn": "11293" },
       { "term": "202310", "crn": "12765" },
-      { "term": "202310", "crn": "20789" }
+      { "term": "202310", "crn": "20789" },
+      { "term": "202510", "crn": "18542" },
+      { "term": "202510", "crn": "12198" }
     ],
     "description": "Introduces the diverse fields that comprise literary studies for English majors and minors. Surveys the methods and topics of English literary and textual studies, including a wide range of media (e.g., images, film, and graphic narrative). Explores strategies for reading, interpreting, and theorizing about texts, including how race, gender, sexuality, class, and colonialism are represented in literary texts, other media, and scholarship. Focuses on developing skills in thinking analytically, writing clearly about complex ideas, and conducting research.",
     "coreqs": [],
@@ -126,7 +131,8 @@
     "nuPath": ["WI"],
     "sections": [
       { "term": "202430", "crn": "31726" },
-      { "term": "202330", "crn": "31907" }
+      { "term": "202330", "crn": "31907" },
+      { "term": "202510", "crn": "20607" }
     ],
     "description": "Introduces students to research about the histories, theories, and practices informing how people learn to write and how writing is used in home, school, work, and civic contexts. Explores writing and writing instruction in the United States and in international contexts, including the social and political significance of writing in particular cultural contexts with an emphasis on diversity, equity, and inclusion. Class projects emphasize methods such as archival research, case study research, multimodal composing, and community-based writing that invite students to think about their own experiences and practices of other groups.",
     "coreqs": [],
@@ -159,7 +165,15 @@
     ],
     "description": "Grapples with the long and sometimes tumultuous relationship between texts and new media technologies. Offers students opportunities to historicize and engage the social and intellectual upheavals of our own technological moment through reading, discussion, writing projects, and practicums that seek to develop skills for analyzing the data and metadata of texts through both qualitative and quantitative methods.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
   },
   {
     "subject": "ENGL",
@@ -171,7 +185,15 @@
     "sections": [{ "term": "202330", "crn": "35948" }],
     "description": "Surveys the major American writers and major literary forms from the colonial period to the Civil War. Includes works by such writers as Bradstreet, Taylor, Wheatley, Cooper, Poe, Hawthorne, Douglass, Stowe, Melville, and Emerson.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" }
+    ]
   },
   {
     "subject": "ENGL",
@@ -234,7 +256,8 @@
     "sections": [
       { "term": "202430", "crn": "40698" },
       { "term": "202410", "crn": "20205" },
-      { "term": "202330", "crn": "38799" }
+      { "term": "202330", "crn": "38799" },
+      { "term": "202510", "crn": "17660" }
     ],
     "description": "Introduces students to selected global literary works from the 16th century to the present. May include works from Africa (A. Igoni Barrett’s Blackass from Nigeria); the Americas (Leslie Marmon Silko’s Ceremony from the Laguna people, Popol Vuh from the Mayan peoples, and Isabel Allende's The House of the Spirits from Chile); Asia (Anita Desai, Clear Light of Day from India and Kyung-sook Shin’s Please Look After Mom from South Korea); Europe (Evliya Çelebi’s Book of Travels: The City of Boudonitza from Turkey, Miguel de Cervantes’ Don Quixote from Spain, and François Rabelais’ Gargantua and Pantagruel from France). Works in translation where necessary.",
     "coreqs": [],
@@ -261,7 +284,8 @@
     "nuPath": ["DD", "IC"],
     "sections": [
       { "term": "202410", "crn": "16718" },
-      { "term": "202310", "crn": "19064" }
+      { "term": "202310", "crn": "19064" },
+      { "term": "202510", "crn": "21397" }
     ],
     "description": "Surveys the development and range of black American writers, emphasizing poetry and prose from early colonial times to the Civil War.  This course is cross-listed with AFAM 2296, CRN 19056. If there are no seats available in this section, please check the cross-listed section as well.",
     "coreqs": [],
@@ -305,7 +329,15 @@
     "sections": [{ "term": "202310", "crn": "16708" }],
     "description": "Studies developments in British and (especially) American poetry since 1945. Includes such writers as Bishop, Lowell, Ginsberg, Ashbery, Walcott, Heaney, Kunitz, Jorie Graham, Frank Bidart, Rita Dove, and Kevin Young.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
   },
   {
     "subject": "ENGL",
@@ -317,7 +349,15 @@
     "sections": [{ "term": "202310", "crn": "19569" }],
     "description": "Examines British and American writers from 1945 to the present, including such figures as Lessing, Burgess, Pynchon, Morrison, Kingston, and Erdrich.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
   },
   {
     "subject": "ENGL",
@@ -420,7 +460,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["IC"],
-    "sections": [{ "term": "202330", "crn": "34361" }],
+    "sections": [
+      { "term": "202330", "crn": "34361" },
+      { "term": "202510", "crn": "20608" }
+    ],
     "description": "Traces the development of various science fiction themes, conventions, and approaches (human vs. machine, human/machine hybrids, alien encounters, colonizing other worlds, dystopian and postapocalyptic futures). Examines how science fiction explores what it means to be human and how self- and group identities are formed when measured against the idea of the non- or other-than-human.",
     "coreqs": [],
     "prereqs": [
@@ -440,7 +483,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EX", "IC"],
-    "sections": [{ "term": "202410", "crn": "19954" }],
+    "sections": [
+      { "term": "202410", "crn": "19954" },
+      { "term": "202510", "crn": "17420" }
+    ],
     "description": "Focuses on a variety of texts (imaginative literature, memoir, scientific writing, creative nonfiction, and popular journalism) that take nature, ecology, and the environment as their subject. Examines paintings, photography, and other visual representations (such as computer simulations) of the natural world. Taught in Boston or in the United Kingdom.",
     "coreqs": [],
     "prereqs": [
@@ -479,11 +525,16 @@
       { "term": "202460", "crn": "60483" },
       { "term": "202410", "crn": "19955" },
       { "term": "202360", "crn": "60528" },
-      { "term": "202260", "crn": "60579" }
+      { "term": "202260", "crn": "60579" },
+      { "term": "202510", "crn": "20609" }
     ],
     "description": "Focuses on travel writing and place-based writing. Examines the history, global cultural contexts, conventions of, and theories about the genres through reading exemplary texts and studying photographs and films. Offers students an opportunity to produce examples of travel writing and place-based writing as well as short videos and photo-collages.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" }
+    ]
   },
   {
     "subject": "ENGL",
@@ -506,7 +557,10 @@
       { "term": "202260", "crn": "60463" },
       { "term": "202260", "crn": "61252" },
       { "term": "202240", "crn": "40412" },
-      { "term": "202240", "crn": "41451" }
+      { "term": "202240", "crn": "41451" },
+      { "term": "202510", "crn": "17422" },
+      { "term": "202510", "crn": "20610" },
+      { "term": "202440", "crn": "42283" }
     ],
     "description": "Gives the developing writer an opportunity to practice writing various forms of both poetry and prose. Features in-class discussion of student work.",
     "coreqs": [],
@@ -563,7 +617,15 @@
     "sections": [{ "term": "202330", "crn": "38801" }],
     "description": "Explores the ways in which composing processes and meaning are impacted when writing moves from material media (e.g., print, images, voice, and performance) to digital media (e.g., hypertexts, digital stories, and videos). Readings cover aspects of digital writing as semiotic (e.g., domains of meaning, mode, materiality, delivery, ensembles of meaning) and draw on theories of multimodality to explore digital remediations of writing. Culminates in an electronic portfolio and collective exhibit.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" }
+    ]
   },
   {
     "subject": "ENGL",
@@ -572,7 +634,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "IC", "WI"],
-    "sections": [{ "term": "202310", "crn": "14865" }],
+    "sections": [
+      { "term": "202310", "crn": "14865" },
+      { "term": "202510", "crn": "20611" }
+    ],
     "description": "Explores the various ways that linguistic diversity shapes our everyday, academic, and professional lives. Offers students an opportunity to learn about language policy, the changing place of World English in globalization, and what contemporary theories of linguistic diversity, such as translingualism, mean for writing. Invites students to explore their own multilingual communities or histories through empirical or archival research.",
     "coreqs": [],
     "prereqs": [
@@ -716,7 +781,15 @@
     "sections": [{ "term": "202330", "crn": "39323" }],
     "description": "Focuses on a particular topic in 19th-century British or American literature, such as lyric poetry or popular print culture.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" }
+    ]
   },
   {
     "subject": "ENGL",
@@ -728,7 +801,39 @@
     "sections": [{ "term": "202310", "crn": "19571" }],
     "description": "Crime and Comedy in Irish literature will look at these intertwining themes in modern Irish literature and culture. Starting with the great comic novel, Flann O’Brien’s The Third Policeman and ending with contemporary crime drama of Tara French, the course will\nexplore the connections between the hilarious and the horrific, between the uncanny and the caper, between murder and the joke. Students will explore critical and philosophical interrogations of these themes and will also do creative writing assignments in which they try out these exciting genres. By exploring the funny and the frightening students will discover how the normative aspects of social discourse are both framed and challenged. Students will leave with a more nuanced appreciation of these genres and with a richer sense both as readers and creative writers themselves.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" }
+    ]
+  },
+  {
+    "subject": "ENGL",
+    "number": "3190",
+    "title": "Topics in 19th-Century American Literature",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20713" }],
+    "description": "Focuses on a group of authors (e.g., the Fireside Poets, Transcendentalists, regional/local color writers); specific theme (e.g., Manifest Destiny, American romanticism, regionalism, sentimentalism, slavery, democracy, public vs. private); or genre (e.g., the slave narrative, the novel, lyric poetry) in nineteenth-century American literature. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
   },
   {
     "subject": "ENGL",
@@ -766,7 +871,8 @@
     "nuPath": ["AD", "EI", "EX"],
     "sections": [
       { "term": "202430", "crn": "39082" },
-      { "term": "202310", "crn": "19572" }
+      { "term": "202310", "crn": "19572" },
+      { "term": "202510", "crn": "20612" }
     ],
     "description": "Examines innovations that have reshaped how humans share information, e.g., the alphabet, the book, the printing press, the postal system, the computer. Focuses on debates over privacy, memory, intellectual property, and textual authority that have historically accompanied the rise of new media forms and genres. Offers students an opportunity to gain skills for working with texts using the rapidly changing tools of the present, e.g., geographic information systems, data mining, textual analysis.",
     "coreqs": [],
@@ -847,7 +953,19 @@
     ],
     "description": "Explores how writers apply narrative strategies and techniques to factual material. Offers students an opportunity to read and write a variety of nonfiction forms (e.g., narrative essays and narrative journalism, travel and science writing, memoir, editorials, protest and political essays), as well as cross-genre and hybrid forms (e.g., nonfiction prose mixed with poetry, audio and graphic nonfiction). The topics for narrative nonfiction writing apply to a wide array of disciplines, including the humanities, the sciences, and journalism.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
   },
   {
     "subject": "ENGL",
@@ -860,11 +978,24 @@
       { "term": "202430", "crn": "37252" },
       { "term": "202410", "crn": "19957" },
       { "term": "202330", "crn": "38804" },
-      { "term": "202330", "crn": "39283" }
+      { "term": "202330", "crn": "39283" },
+      { "term": "202510", "crn": "17423" }
     ],
     "description": "Offers an advanced workshop in writing and reading original poetry. Students experiment in established poetic forms. Features in-class discussion of student work.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
   },
   {
     "subject": "ENGL",
@@ -922,9 +1053,30 @@
     "nuPath": ["EX", "WI"],
     "sections": [
       { "term": "202410", "crn": "17428" },
-      { "term": "202310", "crn": "19831" }
+      { "term": "202310", "crn": "19831" },
+      { "term": "202510", "crn": "15765" }
     ],
     "description": "Focuses on the teaching of writing by studying the professional literature of writing theory as well as a teaching practicum. Students work as a writing tutor or shadow experienced teachers. Offers students an opportunity to prepare for future teaching of writing and to obtain deeper insight into their own writing processes.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" }
+    ]
+  },
+  {
+    "subject": "ENGL",
+    "number": "3382",
+    "title": "Publishing in the 21st Century",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["EI", "EX", "WI"],
+    "sections": [{ "term": "202510", "crn": "20714" }],
+    "description": "Explores modes and processes of publication in an era of technological and economic change. Investigates the roles of writers, editors, and publishers in this shifting landscape. Offers students an opportunity to attend readings, lectures, and other community literacy events and work with community partners on publication projects.",
     "coreqs": [],
     "prereqs": [
       { "subject": "ENGL", "number": "1102" },
@@ -945,7 +1097,9 @@
     "nuPath": ["EX", "IC", "WI"],
     "sections": [
       { "term": "202430", "crn": "36802" },
-      { "term": "202330", "crn": "38805" }
+      { "term": "202330", "crn": "38805" },
+      { "term": "202510", "crn": "20613" },
+      { "term": "202510", "crn": "20942" }
     ],
     "description": "Introduces students to the rich archival holdings in the greater Boston area, as well as to online archives. Offers students an opportunity to obtain training in the materials and methods of primary source research. Primary materials include a wide range of resources, including books, manuscripts, letters, pamphlets, broadsides, journals, maps, illustrations, and photographs. May focus on Shakespeare’s archive, archives for social justice, literary uses of archives, queer archives, people of color in the archive, or other themes.",
     "coreqs": [],
@@ -1009,6 +1163,26 @@
   },
   {
     "subject": "ENGL",
+    "number": "3678",
+    "title": "Bedrooms and Battlefields: Hebrew Bible and the Origins of Sex, Gender, and Ethnicity",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["IC"],
+    "sections": [{ "term": "202510", "crn": "21203" }],
+    "description": "Considers stories from Hebrew Scripture in English translation, beginning with the Garden of Eden through the Book of Ruth, asking how these foundational narratives establish the categories that have come to define our humanity. Analyzes how the Bible’s patterns of representation construct sexual and ethnic identities and naturalize ideas about such social institutions as “the family.”",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" }
+    ]
+  },
+  {
+    "subject": "ENGL",
     "number": "3700",
     "title": "Narrative Medicine",
     "scheduleType": "Lecture",
@@ -1029,26 +1203,6 @@
       { "subject": "ENGW", "number": "1113" },
       "Or",
       { "subject": "ENGW", "number": "1114" }
-    ]
-  },
-  {
-    "subject": "ENGL",
-    "number": "3730",
-    "title": "20th/21stC MajFig: James Joyce",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [],
-    "description": "Examines in detail the work and critical reception of a major writer of the twentieth or twenty-first century. May be repeated up to four times.",
-    "coreqs": [],
-    "prereqs": [
-      { "subject": "ENGW", "number": "1111" },
-      "Or",
-      { "subject": "ENGW", "number": "1102" },
-      "Or",
-      { "subject": "ENGL", "number": "1111" },
-      "Or",
-      { "subject": "ENGL", "number": "1102" }
     ]
   },
   {
@@ -1097,7 +1251,8 @@
       { "term": "202410", "crn": "10288" },
       { "term": "202330", "crn": "33460" },
       { "term": "202330", "crn": "36914" },
-      { "term": "202310", "crn": "20965" }
+      { "term": "202310", "crn": "20965" },
+      { "term": "202510", "crn": "10274" }
     ],
     "description": "Offers an advanced senior seminar organized around an important critical question in the discipline. This writing-intensive course is designed to be a summative experience for English majors, offering in-depth study of the theories, methods, and practices of critical work on a particular topic while providing students opportunities for reflecting on the connections between their capstone and other work they have done as majors. Offers students an opportunity to produce significant research projects on the critical issues raised by the seminar. May be repeated without limit.",
     "coreqs": [],
@@ -1194,7 +1349,15 @@
     "sections": [{ "term": "202340", "crn": "42327" }],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" }
+    ]
   },
   {
     "subject": "ENGL",
@@ -1205,7 +1368,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10986" },
-      { "term": "202310", "crn": "11108" }
+      { "term": "202310", "crn": "11108" },
+      { "term": "202510", "crn": "10916" }
     ],
     "description": "Introduces the history and current scholarly practices of English studies. Surveys theoretical, methodological, and institutional issues in the development of the discipline; introduces students to the research of the English department's graduate faculty; and offers opportunities for the practice of key components of scholarly production, including formulating research questions, using databases, conducting literature reviews, and writing and presenting scholarship in common formats other than the long research paper, such as conference proposals, oral presentations, and book reviews.",
     "coreqs": [],
@@ -1247,10 +1411,23 @@
       { "term": "202360", "crn": "61151" },
       { "term": "202310", "crn": "21243" },
       { "term": "202260", "crn": "61517" },
-      { "term": "202240", "crn": "40798" }
+      { "term": "202240", "crn": "40798" },
+      { "term": "202510", "crn": "16558" }
     ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [{ "subject": "INSH", "number": "6864" }],
+    "prereqs": []
+  },
+  {
+    "subject": "ENGL",
+    "number": "7211",
+    "title": "ST: Feminism & Visual Culture",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21603" }],
+    "description": "What does the visual accomplish for differently-conceived feminisms?  This interdisciplinary course engages a range of creative forms, including but not limited to: comics and graphic novels, film, painting, performance art, theater, photography, propaganda, television, digital projects, videos.  Explores key concepts driving feminist cultural production, and in debates about visual culture, including around issues such as embodiment, subjectivity, spectatorship, and desire. Focuses on historically important works of theory and criticism alongside additional feminist and visual theory.  Examines varieties of feminist cultural production that exist in the realm of visual culture—and also that themselves shape what “visual culture” means.",
+    "coreqs": [],
     "prereqs": []
   },
   {
@@ -1359,7 +1536,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15277" },
-      { "term": "202310", "crn": "16592" }
+      { "term": "202310", "crn": "16592" },
+      { "term": "202510", "crn": "14501" }
     ],
     "description": "Justice-Oriented Writing Assessment: Antiracist, Decolonial, and Anti-Ableist Approaches to Evaluating Writing: In the U.S., writing assessment is woven through our lives. In pre-schools, children’s’ development is, in part, traced through their recognition of letters and their pre-literacy abilities. In the K-12 educational system, high-stakes writing assessments are mandated by federal and state governments and are one metric to track school if schools are meeting grade-level learning standards. In colleges, writing assessment is used to track students and measure the “effectiveness” of programs. Teachers and writing center tutors also use writing assessment methods, such as response and self-assessment, to help writers meet their goals. Within workplaces and professional programs, writing assessment is a means to determine qualifications of candidates and determine licensure. Finally, writing assessment has played a role in U.S. immigration policies and colonialism. In short, the assessment of writing is ubiquitous in U.S. culture. While there has long been attention to the injustices of testing, today there is a renewed urgency to challenging and changing unjust writing assessment practices. In this course, we will learn key theoretical ideas about evaluation and learning, explore the histories of use and misuse of writing testing in the U.S., and wrestle with emerging antiracist, decolonial, and anti-ableist approaches to writing assessment. Such justice-oriented frameworks and methods can be applied to the teaching and assessment of writing in any context. Students will be given options for different kinds of projects to fulfill the course requirements. All evaluation in this course will be shared evaluation methods.",
     "coreqs": [],
@@ -1374,7 +1552,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15696" },
-      { "term": "202310", "crn": "17503" }
+      { "term": "202310", "crn": "17503" },
+      { "term": "202510", "crn": "14787" }
     ],
     "description": "Offers a critical orientation to the tools, methods, and intellectual history of the digital humanities (DH). Explores key questions such as what debates are (re)shaping DH in this moment; what central theories lead humanities scholars to experiment with computational, geospatial, and network methodologies; how visualization can illuminate literature, history, writing, and other humanities subjects; and how new modes of research and publication might influence our teaching. Balances theory and praxis: Successful students come away with a well-grounded understanding of the DH field and a set of foundational skills to support their future research. No prior technical expertise is required to take the course, but students should be willing to experiment with new skills.",
     "coreqs": [],
@@ -1387,7 +1566,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "34366" }],
+    "sections": [
+      { "term": "202330", "crn": "34366" },
+      { "term": "202510", "crn": "20615" }
+    ],
     "description": "Explores specific analytical techniques such as mapping, computational text analysis, or network analysis; a particular methodological tradition such as digital scholarly editing; the history of a particular debate, research problem, or theoretical orientation such as intersectional feminism; or the intersection of digital humanities and another domain such as writing studies. Offers students an opportunity to develop more specialized skills and methods that support advanced research and teaching in digital humanities.",
     "coreqs": [],
     "prereqs": []
@@ -1461,7 +1643,10 @@
       { "term": "202330", "crn": "40514" },
       { "term": "202310", "crn": "19990" },
       { "term": "202310", "crn": "20372" },
-      { "term": "202310", "crn": "20386" }
+      { "term": "202310", "crn": "20386" },
+      { "term": "202510", "crn": "16041" },
+      { "term": "202510", "crn": "21935" },
+      { "term": "202430", "crn": "42048" }
     ],
     "description": "Contact the graduate program administrator for registration approval",
     "coreqs": [],
@@ -1493,7 +1678,9 @@
     "sections": [
       { "term": "202430", "crn": "41600" },
       { "term": "202410", "crn": "20994" },
-      { "term": "202410", "crn": "21861" }
+      { "term": "202410", "crn": "21861" },
+      { "term": "202510", "crn": "18419" },
+      { "term": "202510", "crn": "19251" }
     ],
     "description": "Gives students the opportunity to observe a senior faculty member teaching an undergraduate course in American or British literature, literary studies, rhetoric, composition studies, or linguistics. Students meet regularly with the faculty member to discuss teaching practices and other pedagogical issues and submit a term project discussing the experience in the context of the scholarship of teaching. May be repeated without limit.",
     "coreqs": [],
@@ -1511,7 +1698,8 @@
       { "term": "202410", "crn": "10691" },
       { "term": "202350", "crn": "50815" },
       { "term": "202330", "crn": "34043" },
-      { "term": "202310", "crn": "10768" }
+      { "term": "202310", "crn": "10768" },
+      { "term": "202510", "crn": "10642" }
     ],
     "description": "Offers the student the opportunity to prepare for the PhD qualifying exam under faculty supervision.",
     "coreqs": [],
@@ -1547,7 +1735,10 @@
       { "term": "202330", "crn": "40246" },
       { "term": "202310", "crn": "17377" },
       { "term": "202310", "crn": "14944" },
-      { "term": "202310", "crn": "19735" }
+      { "term": "202310", "crn": "19735" },
+      { "term": "202510", "crn": "14746" },
+      { "term": "202510", "crn": "18767" },
+      { "term": "202510", "crn": "22173" }
     ],
     "description": "Contact the graduate program administrator for registration approval",
     "coreqs": [],
@@ -1567,7 +1758,10 @@
       { "term": "202350", "crn": "53308" },
       { "term": "202330", "crn": "38870" },
       { "term": "202310", "crn": "19738" },
-      { "term": "202310", "crn": "19739" }
+      { "term": "202310", "crn": "19739" },
+      { "term": "202510", "crn": "22162" },
+      { "term": "202510", "crn": "22164" },
+      { "term": "202510", "crn": "22165" }
     ],
     "description": "Contact the graduate program administrator for registration approval",
     "coreqs": [],
@@ -1585,11 +1779,14 @@
       { "term": "202410", "crn": "21449" },
       { "term": "202350", "crn": "52383" },
       { "term": "202330", "crn": "38809" },
-      { "term": "202330", "crn": "40456" }
+      { "term": "202330", "crn": "40456" },
+      { "term": "202510", "crn": "18853" },
+      { "term": "202510", "crn": "18854" },
+      { "term": "202510", "crn": "22166" }
     ],
     "description": "Contact the graduate program administrator for registration approval",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "ENGL", "number": "9990" }]
   },
   {
     "subject": "ENGL",
@@ -1628,7 +1825,12 @@
       { "term": "202310", "crn": "17376" },
       { "term": "202310", "crn": "19734" },
       { "term": "202310", "crn": "17373" },
-      { "term": "202310", "crn": "19737" }
+      { "term": "202310", "crn": "19737" },
+      { "term": "202510", "crn": "13824" },
+      { "term": "202510", "crn": "11545" },
+      { "term": "202510", "crn": "18768" },
+      { "term": "202510", "crn": "22167" },
+      { "term": "202510", "crn": "22168" }
     ],
     "description": "Contact the graduate program administrator for registration approval",
     "coreqs": [],

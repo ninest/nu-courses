@@ -50,7 +50,18 @@
       { "term": "202310", "crn": "20847" },
       { "term": "202310", "crn": "15073" },
       { "term": "202310", "crn": "21095" },
-      { "term": "202240", "crn": "41481" }
+      { "term": "202240", "crn": "41481" },
+      { "term": "202510", "crn": "11114" },
+      { "term": "202510", "crn": "12204" },
+      { "term": "202510", "crn": "12013" },
+      { "term": "202510", "crn": "11676" },
+      { "term": "202510", "crn": "11915" },
+      { "term": "202510", "crn": "14823" },
+      { "term": "202510", "crn": "13794" },
+      { "term": "202510", "crn": "21581" },
+      { "term": "202510", "crn": "21668" },
+      { "term": "202510", "crn": "12293" },
+      { "term": "202510", "crn": "13795" }
     ],
     "description": "Introduces the theory, computation, and application of deterministic models to represent industrial operations. Includes linear programming formulation and solution using spreadsheet and algebraic languages software; simplex, big-M, two-phase, revised simplex, and dual simplex algorithms for solving linear programs; introduction to the theory of simplex, fundamental insight, duality, and sensitivity analysis; transportation, assignment, and transshipment problems; shortest path, minimum spanning tree, maximum flow, minimum cost network flow problems and project networks; and discrete-state and continuous-state dynamic programming models and applications. Requires knowledge of linear algebra.",
     "coreqs": [],
@@ -102,21 +113,10 @@
     "sections": [
       { "term": "202430", "crn": "31636" },
       { "term": "202330", "crn": "31809" },
-      { "term": "202310", "crn": "13572" }
+      { "term": "202310", "crn": "13572" },
+      { "term": "202510", "crn": "12787" }
     ],
     "description": "Previously captured",
-    "coreqs": [],
-    "prereqs": [{ "subject": "OR", "number": "6205" }]
-  },
-  {
-    "subject": "OR",
-    "number": "7270",
-    "title": "Convex Optimization and Applications",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [],
-    "description": "Studies convex optimization, a branch of optimization techniques that deals with convex problems. Convex optimization problems appear in many real-world applications and at the same time are theoretically very interesting. Offers students an opportunity to obtain the skills required for solving convex problems and using techniques of convex analysis in solving nonconvex problems. Covers convex analysis, convex optimization problems, second-order cone programming, semidefinite programming, optimality conditions and duality theory, convex geometric problems, theory of computational complexity and convergence rate of algorithms, interior point methods, and relaxations and approximation algorithms. Applications include convex optimization, nonconvex quadratic optimization, combinatorial and network optimization problems, and optimal control problems.",
     "coreqs": [],
     "prereqs": [{ "subject": "OR", "number": "6205" }]
   },
@@ -132,7 +132,9 @@
       { "term": "202410", "crn": "11845" },
       { "term": "202330", "crn": "31052" },
       { "term": "202310", "crn": "12070" },
-      { "term": "202310", "crn": "16707" }
+      { "term": "202310", "crn": "16707" },
+      { "term": "202510", "crn": "11677" },
+      { "term": "202510", "crn": "14564" }
     ],
     "description": "Explores the determination of needs and requirements for logistics within large-scale manufacturing and business environments. Examines warehousing and scheduling in the context of a business logistics system. Introduces managerial, mathematical, and software tools and techniques for modeling and optimizing various aspects of the business supply chain. Considers approaches to examining warehousing operations and the associated algorithms.",
     "coreqs": [],
@@ -148,13 +150,13 @@
   },
   {
     "subject": "OR",
-    "number": "7374",
-    "title": "ST:Pricing & Revenue Managemnt",
-    "scheduleType": "Lecture",
-    "credits": 4,
+    "number": "7986",
+    "title": "Research",
+    "scheduleType": "Individual Instruction",
+    "credits": 0,
     "nuPath": [],
-    "sections": [],
-    "description": "Offers topics of interest to the staff member conducting this class for advanced study. May be repeated without limit.",
+    "sections": [{ "term": "202430", "crn": "42043" }],
+    "description": "Offers students an opportunity to conduct full-time research under faculty supervision.",
     "coreqs": [],
     "prereqs": []
   },
@@ -169,7 +171,9 @@
       { "term": "202430", "crn": "40948" },
       { "term": "202410", "crn": "21249" },
       { "term": "202410", "crn": "21561" },
-      { "term": "202330", "crn": "40044" }
+      { "term": "202330", "crn": "40044" },
+      { "term": "202510", "crn": "18661" },
+      { "term": "202510", "crn": "18962" }
     ],
     "description": "Offers analytical and/or experimental work conducted under the direction of the faculty in fulfillment of the requirements for the degree. Requires first-year students to attend a graduate seminar program that introduces the students to the methods of choosing a research topic, conducting research, and preparing a thesis. Requires successful completion of the seminar program. May be repeated without limit.",
     "coreqs": [],

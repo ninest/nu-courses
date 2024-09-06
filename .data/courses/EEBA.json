@@ -51,7 +51,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "40849" }],
+    "sections": [
+      { "term": "202430", "crn": "40849" },
+      { "term": "202510", "crn": "20476" }
+    ],
     "description": "Offers students a hands-on opportunity to research and compare environmental, social, governance, and non–ESG portfolios while hearing from industry experts along the way. Exposes students to how and why investors engage in ESG investing and how to analyze the performance and risk of such investing. Covers what rating firms are, what global financial resources are committed to ESG investing, the regulatory landscape, and the ongoing challenges that ESG investing poses. Emphasizes the tenets of this type of investing from multiple perspectives, including portfolio managers, institutional investors, retail investors, trade groups, regulators, and political factions.",
     "coreqs": [],
     "prereqs": []
@@ -75,7 +78,10 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "40848" }],
+    "sections": [
+      { "term": "202430", "crn": "40848" },
+      { "term": "202510", "crn": "20477" }
+    ],
     "description": "Studies the current and ever-changing healthcare environment and potential disruptions to healthcare organizations. Covers skills needed for problem identification, problem solving, and operational execution within the organization. Offers students an opportunity to leverage skills and thinking through a highly experiential, immersive experience; develop observations and reflections of complex situations or challenges; frame the challenges, drawing on concepts, observed patterns, and experiences; synthesize insights into a creative solution; and apply the learnings to new situations.",
     "coreqs": [],
     "prereqs": []
@@ -87,7 +93,10 @@
     "scheduleType": "Lecture",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202440", "crn": "42083" }],
+    "sections": [
+      { "term": "202440", "crn": "42083" },
+      { "term": "202510", "crn": "20478" }
+    ],
     "description": "Explores the landscape of brand building amid ever-evolving marketing communication platforms. Utilizes inquiry-based research practices and experiential study culminating in a project to delve into the art of brand development and advertising. Offers students an opportunity to apply key concepts such as positioning, targeting, creativity, media mix, and integrated brand promotion strategies. Emphasizes responding to the challenges and opportunities presented by modern marketing trends.",
     "coreqs": [],
     "prereqs": []

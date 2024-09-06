@@ -104,7 +104,38 @@
       { "term": "202260", "crn": "61484" },
       { "term": "202260", "crn": "60967" },
       { "term": "202240", "crn": "40030" },
-      { "term": "202240", "crn": "40029" }
+      { "term": "202510", "crn": "10385" },
+      { "term": "202510", "crn": "10384" },
+      { "term": "202510", "crn": "11841" },
+      { "term": "202510", "crn": "10450" },
+      { "term": "202510", "crn": "10383" },
+      { "term": "202510", "crn": "10382" },
+      { "term": "202510", "crn": "10762" },
+      { "term": "202510", "crn": "11115" },
+      { "term": "202510", "crn": "11175" },
+      { "term": "202510", "crn": "11176" },
+      { "term": "202510", "crn": "11583" },
+      { "term": "202510", "crn": "11842" },
+      { "term": "202510", "crn": "12223" },
+      { "term": "202510", "crn": "12609" },
+      { "term": "202510", "crn": "12940" },
+      { "term": "202510", "crn": "13487" },
+      { "term": "202510", "crn": "13973" },
+      { "term": "202510", "crn": "13974" },
+      { "term": "202510", "crn": "13981" },
+      { "term": "202510", "crn": "16423" },
+      { "term": "202510", "crn": "16424" },
+      { "term": "202510", "crn": "16609" },
+      { "term": "202510", "crn": "22047" },
+      { "term": "202510", "crn": "16302" },
+      { "term": "202510", "crn": "18479" },
+      { "term": "202510", "crn": "18480" },
+      { "term": "202510", "crn": "18481" },
+      { "term": "202510", "crn": "20670" },
+      { "term": "202510", "crn": "20671" },
+      { "term": "202460", "crn": "60603" },
+      { "term": "202460", "crn": "61835" },
+      { "term": "202440", "crn": "42102" }
     ],
     "description": "Covers the basic concepts underlying financial statements and the accounting principles followed in the preparation of the balance sheet, the income statement, and the statement of cash flows. Offers students an opportunity to become familiar with accounting terminology and methods designed to enable them to interpret, analyze, and evaluate published corporate financial reports. Wherever appropriate, the course relates current economic, business, and global events to accounting issues. Analyzes how financial reporting concepts affect the behavior of investors, creditors, and other external users. Emphasizes the importance of ethics in financial reporting.",
     "coreqs": [],
@@ -168,7 +199,12 @@
       { "term": "202240", "crn": "40150" },
       { "term": "202240", "crn": "40151" },
       { "term": "202240", "crn": "41774" },
-      { "term": "202240", "crn": "41821" }
+      { "term": "202240", "crn": "41821" },
+      { "term": "202510", "crn": "10744" },
+      { "term": "202510", "crn": "11017" },
+      { "term": "202510", "crn": "11018" },
+      { "term": "202510", "crn": "11019" },
+      { "term": "202510", "crn": "16048" }
     ],
     "description": "Does not count as credit for business majors. Counts as ACCT 1201 for business minors only. Requires second-semester-freshman standing or above.",
     "coreqs": [],
@@ -180,7 +216,7 @@
     "title": "Managerial Accounting",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["ND"],
     "sections": [
       { "term": "202460", "crn": "60027" },
       { "term": "202460", "crn": "60026" },
@@ -268,7 +304,24 @@
       { "term": "202260", "crn": "60681" },
       { "term": "202240", "crn": "40028" },
       { "term": "202240", "crn": "40118" },
-      { "term": "202240", "crn": "40286" }
+      { "term": "202240", "crn": "40286" },
+      { "term": "202510", "crn": "10380" },
+      { "term": "202510", "crn": "10379" },
+      { "term": "202510", "crn": "10426" },
+      { "term": "202510", "crn": "10427" },
+      { "term": "202510", "crn": "10428" },
+      { "term": "202510", "crn": "10429" },
+      { "term": "202510", "crn": "10430" },
+      { "term": "202510", "crn": "10804" },
+      { "term": "202510", "crn": "10932" },
+      { "term": "202510", "crn": "10933" },
+      { "term": "202510", "crn": "11543" },
+      { "term": "202510", "crn": "11709" },
+      { "term": "202510", "crn": "11843" },
+      { "term": "202510", "crn": "13117" },
+      { "term": "202510", "crn": "15522" },
+      { "term": "202510", "crn": "15977" },
+      { "term": "202510", "crn": "16425" }
     ],
     "description": "Focuses on the development and use of information—especially financial information—for managerial decisions within the firm. Introduces managerial accounting concepts, analyses, and practices that support business decisions through class discussions, exercises, and case analysis. Topics include budgeting, cost management and behavior, cost-volume-profit analysis, relevant costs for decision making, cost allocation issues, and performance evaluation. Emphasizes the importance of ethics.",
     "coreqs": [],
@@ -291,11 +344,16 @@
       { "term": "202430", "crn": "30779" },
       { "term": "202410", "crn": "10812" },
       { "term": "202330", "crn": "30830" },
-      { "term": "202310", "crn": "10911" }
+      { "term": "202310", "crn": "10911" },
+      { "term": "202510", "crn": "10756" }
     ],
     "description": "Covers business law, professional code of conduct, and the importance of ethical behavior in today's business environment. Examines legal aspects of commercial transactions and business relationships. Specifically, laws relating to contracts and sale of goods under the Uniform Commercial Code, agency law, and product liability law are discussed. May not be used as an accounting concentration elective.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ACCT", "number": "2301" },
+      "Or",
+      { "subject": "ACCT", "number": "2302" }
+    ]
   },
   {
     "subject": "ACCT",
@@ -316,7 +374,10 @@
       { "term": "202310", "crn": "10423" },
       { "term": "202310", "crn": "10422" },
       { "term": "202310", "crn": "11267" },
-      { "term": "202240", "crn": "40210" }
+      { "term": "202240", "crn": "40210" },
+      { "term": "202510", "crn": "10378" },
+      { "term": "202510", "crn": "10377" },
+      { "term": "202510", "crn": "11043" }
     ],
     "description": "Examines financial reporting concepts, emphasizing the link between them and financial statements. Focuses on both the preparation and interpretation of financial statements, with students also being introduced to basic tools in financial statement analysis, such as ratio and accounting analysis. Gives students the opportunity to understand how management decisions can influence reported income, asset, and liability values, and the importance of ethics when making accounting choices. Offers students the tools necessary to analyze the impact of alternative reporting decisions on financial statements. In addition to accounting majors, this course is ideal for students who wish to pursue careers in corporate finance, investment banking, investment management, or consulting.",
     "coreqs": [],
@@ -359,7 +420,8 @@
       { "term": "202410", "crn": "10394" },
       { "term": "202340", "crn": "41862" },
       { "term": "202330", "crn": "34655" },
-      { "term": "202310", "crn": "10421" }
+      { "term": "202310", "crn": "10421" },
+      { "term": "202510", "crn": "10376" }
     ],
     "description": "Provides an understanding of accounting information systems, with an emphasis on the role of technology and risk analysis. Information is critical for the effective and efficient management of any organization. Addresses concepts and applications relating to the design, analysis, and implementation of accounting systems. Examines the role of e-commerce and Internet-based technologies, including their implications for ethics and privacy, throughout the course.",
     "coreqs": [],
@@ -381,7 +443,8 @@
       { "term": "202410", "crn": "10392" },
       { "term": "202330", "crn": "30410" },
       { "term": "202310", "crn": "10419" },
-      { "term": "202240", "crn": "41676" }
+      { "term": "202240", "crn": "41676" },
+      { "term": "202510", "crn": "10374" }
     ],
     "description": "Develops understanding of the critical role of cost measurement and management in business decisions and in managing a firm’s profitability. Focuses on the strategic use of cost information for planning and control, as well as costing products, services, and customers. Emphasizes the role of management accountants as integral members of decision-making teams and as consultants to senior management. Studies alternate ways of measuring costs to meet different management objectives, the role of budgeting as a planning and management tool, the use of cost analysis as a control tool to help management meet short- and long-term profit objectives, and the importance of ethics in achieving all of these objectives. In addition to accounting majors, this course is ideal for students who wish to pursue a career in finance, general management, operations management, supply chain management, or entrepreneurship.",
     "coreqs": [],
@@ -399,7 +462,8 @@
       { "term": "202410", "crn": "11883" },
       { "term": "202330", "crn": "30199" },
       { "term": "202310", "crn": "12111" },
-      { "term": "202310", "crn": "12598" }
+      { "term": "202310", "crn": "12598" },
+      { "term": "202510", "crn": "11711" }
     ],
     "description": "Focuses on issues relevant to the public accounting profession and to internal auditors and managers in private or governmental organizations. Topics include legal liability and ethics, business and audit risk assessment, fraud detection and prevention procedures, planning of audit engagements, audit reports, other assurance services and reports, and the effect of information technology on the audit process. Offers students the opportunity to think critically about issues facing the auditing profession.",
     "coreqs": [],
@@ -420,7 +484,8 @@
       { "term": "202330", "crn": "30411" },
       { "term": "202330", "crn": "31262" },
       { "term": "202310", "crn": "10883" },
-      { "term": "202260", "crn": "60459" }
+      { "term": "202260", "crn": "60459" },
+      { "term": "202510", "crn": "10728" }
     ],
     "description": "Provides a basic understanding of the structure of the federal income tax system. Taxes can have a significant impact on the viability of a number of personal finance and business decisions. Focuses on the individual taxpayer but also considers the implications for other entities. Tax return projects, research cases, and planning projects help demonstrate the potential impact of taxes on decision making.",
     "coreqs": [],
@@ -440,11 +505,13 @@
       { "term": "202410", "crn": "10390" },
       { "term": "202330", "crn": "30498" },
       { "term": "202310", "crn": "10418" },
-      { "term": "202310", "crn": "10417" }
+      { "term": "202310", "crn": "10417" },
+      { "term": "202510", "crn": "10373" },
+      { "term": "202510", "crn": "10372" }
     ],
     "description": "Continues ACCT 3401 with a more extensive study of financial statements and the financial reporting rules underlying them. Advanced topics include bonds, pensions, leases, earnings per share, and earnings management. Introduces more advanced financial statement analysis tools. Offers students an opportunity to continue to gain the ethical awareness and the knowledge necessary to analyze the impact of alternative reporting decisions on financial statements.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "ACCT", "number": "3401" }]
   },
   {
     "subject": "ACCT",
@@ -453,10 +520,19 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20405" }],
+    "sections": [
+      { "term": "202410", "crn": "20405" },
+      { "term": "202510", "crn": "17849" }
+    ],
     "description": "Covers how data analytics is used to address business problems in the advisory services field. Examines how to master, test, analyze, and present data using Excel, Tableau, and SQL, among other data analytics tools. Emphasizes how to apply data analytics skills to managerial analytics, financial statement analytics, and tax analytics through advisory-type projects and labs.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ACCT", "number": "2301" },
+      "Or",
+      { "subject": "ACCT", "number": "2302" },
+      "Or",
+      { "subject": "ACCT", "number": "6207" }
+    ]
   },
   {
     "subject": "ACCT",
@@ -500,7 +576,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "12872" },
-      { "term": "202310", "crn": "13246" }
+      { "term": "202310", "crn": "13246" },
+      { "term": "202510", "crn": "12548" }
     ],
     "description": "Offers an overview of occupational fraud and the methodology of fraud examination (i.e., obtaining documentary evidence, interviewing witnesses and potential suspects, writing investigative reports, testifying to findings, and forensic document examination). Offers students an opportunity to learn how to detect the most common types of occupational fraud, determining how each type of fraud is committed, and implementing prevention strategies. Students who do not meet course prerequisites or restrictions may seek permission of instructor.",
     "coreqs": [],
@@ -551,7 +628,9 @@
       { "term": "202330", "crn": "31923" },
       { "term": "202310", "crn": "10710" },
       { "term": "202310", "crn": "10766" },
-      { "term": "202240", "crn": "40171" }
+      { "term": "202240", "crn": "40171" },
+      { "term": "202510", "crn": "10599" },
+      { "term": "202510", "crn": "10640" }
     ],
     "description": "Offers the first of a two-course sequence that focuses on the acquisition, measurement, and management of firm resources. Business managers make strategic decisions about the acquisition and use of a variety of firm resources. Helps enable students to understand and utilize critical information in corporate financial reports to improve business decision making. Offers students the opportunity to learn contemporary methods of financial reporting and analysis used by internal decision makers and external capital providers. Required course for co-op MBA/part-time MBA.",
     "coreqs": [],
@@ -574,7 +653,7 @@
     ],
     "description": "Continues ACCT 6200, offering the second of a two-course sequence that focuses on the acquisition, measurement, and management of firm resources. Critical to the effective planning, implementation, and management of successful business strategies is the ability to measure and manage the commitment and utilization of entity resources. Focuses on contemporary methods and frameworks used in the process of measuring, analyzing, and allocating firm resources to achieve strategic and operating objectives. Required course for co-op MBA/part-time MBA.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "ACCT", "number": "6200" }]
   },
   {
     "subject": "ACCT",
@@ -605,7 +684,8 @@
       { "term": "202410", "crn": "11068" },
       { "term": "202360", "crn": "60096" },
       { "term": "202310", "crn": "11200" },
-      { "term": "202260", "crn": "60099" }
+      { "term": "202260", "crn": "60099" },
+      { "term": "202510", "crn": "10990" }
     ],
     "description": "Presents and discusses financial reporting practices for diversified, international business entities. In today's global business environment, many corporations operate diverse economic activities and often conduct those activities across geographic boundaries. Examines accounting and disclosure standards in the United States that are relevant to presenting consolidated financial statements. Also analyzes accounting and disclosure standards in other countries and those developed by international bodies with respect to their effects on reporting entities and the financial markets.",
     "coreqs": [],
@@ -656,7 +736,8 @@
       { "term": "202410", "crn": "11067" },
       { "term": "202360", "crn": "60106" },
       { "term": "202310", "crn": "11199" },
-      { "term": "202260", "crn": "60109" }
+      { "term": "202260", "crn": "60109" },
+      { "term": "202510", "crn": "10989" }
     ],
     "description": "Covers business issues and financial reporting standards for state and local governments within the United States, as well as for nonprofit organizations. These organizations make up a large and growing share of the economy, and so it is important to consider whether the funds entrusted to them by taxpayers and donors are being used effectively. These entities have unique ways of reporting their financial results, based on their specific business purposes and the needs of their constituents. The course discusses these reporting methods and the use of the resulting financial reports in evaluating performance within the government and nonprofit contexts.",
     "coreqs": [],
@@ -675,7 +756,8 @@
       { "term": "202340", "crn": "40906" },
       { "term": "202310", "crn": "17863" },
       { "term": "202240", "crn": "41119" },
-      { "term": "202240", "crn": "41442" }
+      { "term": "202240", "crn": "41442" },
+      { "term": "202510", "crn": "14924" }
     ],
     "description": "Deals with issues related to corporate governance and audit committee mechanisms in preventing financial reporting disasters and in providing high-quality financial reports to global capital markets. Emphasizes the role of the board of directors and its committees, management, shareholders, external auditors, and internal auditors in developing sound ethical practices and a good corporate governance culture. Examines efforts by legislative and regulatory bodies and the accounting profession in improving financial reporting transparency and auditor independence.",
     "coreqs": [],
@@ -692,7 +774,8 @@
       { "term": "202440", "crn": "40081" },
       { "term": "202340", "crn": "40086" },
       { "term": "202240", "crn": "40091" },
-      { "term": "202240", "crn": "41443" }
+      { "term": "202240", "crn": "41443" },
+      { "term": "202440", "crn": "42249" }
     ],
     "description": "Examines the development of financial reports including their underlying concepts and measurement theories. Corporate financial reporting is a dynamic process in which information is provided to internal and external decision makers to assist them in the effective allocation of economic resources. Examines the legal, economic, and political processes that influence the financial reporting process.",
     "coreqs": [],
@@ -709,11 +792,12 @@
       { "term": "202460", "crn": "60668" },
       { "term": "202360", "crn": "60762" },
       { "term": "202260", "crn": "60104" },
-      { "term": "202260", "crn": "61055" }
+      { "term": "202260", "crn": "61055" },
+      { "term": "202460", "crn": "61788" }
     ],
     "description": "Continues ACCT 6220. Examines corporate financial reporting in the decision-making process. Emphasis is on the economic consequences of alternative financial reporting practices. Provides students with the ability to understand and utilize critical information contained in corporate financial reports to improve business decision making.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "ACCT", "number": "6220" }]
   },
   {
     "subject": "ACCT",
@@ -724,11 +808,13 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10645" },
-      { "term": "202310", "crn": "10706" }
+      { "term": "202310", "crn": "10706" },
+      { "term": "202510", "crn": "10597" },
+      { "term": "202510", "crn": "22487" }
     ],
     "description": "Continues the study of corporate financial reporting, covering specialized topics that assume knowledge of the accounting principles covered in the first two courses. Topics include corporate reporting as equity instruments, executive compensation, reporting of fund flows, and reporting and disclosures for corporations engaged in diverse economic activities and those operating across geographic boundaries. Examines accounting and disclosure standards in the United States and in other countries, as well as standards developed by international bodies. Covers financial reporting models used by governmental and nonprofit entities.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "ACCT", "number": "6221" }]
   },
   {
     "subject": "ACCT",
@@ -739,7 +825,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16016" },
-      { "term": "202310", "crn": "18109" }
+      { "term": "202310", "crn": "18109" },
+      { "term": "202510", "crn": "15016" },
+      { "term": "202510", "crn": "22488" }
     ],
     "description": "Introduces the attest function and its application to financial statement opinion audits and other assurance services common in today's professional environment. Emphasizes a risk-based approach to audit planning, the internal control structure, and the control environment; the design of test of controls, substantive tests, and the resultant audit report. Topics include audit sampling, audit evidence, audit procedures, workpaper preparation, the impact of information technology on the audit process, and the auditor's responsibility to detect fraud. A primary focus is the auditor's legal and ethical responsibilities. Emphasis is also on operational audits, compliance audits, reviews, compilation, and other attestation services.",
     "coreqs": [],
@@ -754,7 +842,9 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "16949" },
-      { "term": "202310", "crn": "19312" }
+      { "term": "202310", "crn": "19312" },
+      { "term": "202510", "crn": "15523" },
+      { "term": "202510", "crn": "22489" }
     ],
     "description": "Introduces the principles of taxation including income and expenses, tax accounting methods, and the tax implications of property transactions (including the calculation of basis as well as gains and losses). Emphasizes tax compliance, planning, and research as they impact the decision-making process for individuals, corporations, and flow-through entities.",
     "coreqs": [],
@@ -841,7 +931,13 @@
     ],
     "description": "Provides an in-depth study of the tax issues related to the corporate form and the corresponding tax implications for its shareholders. Given the importance of corporations in the federal income tax system, an understanding of the tax issues related to this type of business is essential for tax professionals. Topics include capital formation and structure, the operations of the corporation, distributions, dividends and redemptions, sales and liquidations, and taxable and tax-free reorganizations.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ACCT", "number": "6230" },
+      "Or",
+      { "subject": "ACCT", "number": "5230" },
+      "Or",
+      { "subject": "ACCT", "number": "5230" }
+    ]
   },
   {
     "subject": "ACCT",
@@ -858,7 +954,13 @@
     ],
     "description": "Provides an in-depth study of the tax issues related to one of the central flow-through entities, the partnership. The increasing popularity of flow-through entities as an organizational form has made an understanding of the tax issues related to this type of entity an important area of study for tax professionals. Topics include capital formation, operations, transactions between the partner and the partnership, distributions, sales of partnership interests, and liquidation of the partnership.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ACCT", "number": "6230" },
+      "Or",
+      { "subject": "ACCT", "number": "5230" },
+      "Or",
+      { "subject": "ACCT", "number": "5230" }
+    ]
   },
   {
     "subject": "ACCT",
@@ -927,7 +1029,8 @@
     "sections": [
       { "term": "202410", "crn": "14547" },
       { "term": "202350", "crn": "52451" },
-      { "term": "202310", "crn": "15336" }
+      { "term": "202310", "crn": "15336" },
+      { "term": "202510", "crn": "21768" }
     ],
     "description": "Offers an in-depth look at the tax consequences of businesses formed as flow-through entities (including partnerships, S corporations, and LLCs). Discusses allocation rules, liability sharing rules, disguised sales rules, partnership debt workouts, the S corporation election, and tax treatment of shareholders in an S corporation.",
     "coreqs": [],
@@ -973,7 +1076,8 @@
       { "term": "202410", "crn": "12119" },
       { "term": "202360", "crn": "60217" },
       { "term": "202310", "crn": "12383" },
-      { "term": "202260", "crn": "60228" }
+      { "term": "202260", "crn": "60228" },
+      { "term": "202510", "crn": "11911" }
     ],
     "description": "Focuses on the roles and ethical responsibilities in the accounting, auditing, and tax professions. Also covers ethical behavior by management as well as the legal guidelines that apply in a business setting.",
     "coreqs": [],
@@ -1045,7 +1149,8 @@
     "sections": [
       { "term": "202410", "crn": "18893" },
       { "term": "202310", "crn": "15469" },
-      { "term": "202310", "crn": "21340" }
+      { "term": "202310", "crn": "21340" },
+      { "term": "202510", "crn": "16620" }
     ],
     "description": "Offers students an opportunity to develop and refine their tax research skills through practical exercises. Covers the creation of various sources of tax authority. Exposes students to the procedures used in dealing with the Internal Revenue Service (IRS), with an emphasis on practitioner responsibilities. Reviews the organization of the IRS, filing requirements, appeal procedures, civil/criminal statutes, assessments, and protests. Includes a study of the value and moral judgments inherent in the field of taxation, including client confidentiality, disclosure of false or misleading information, and advice counter to the law or public good.",
     "coreqs": [],
@@ -1064,7 +1169,10 @@
       { "term": "202410", "crn": "19890" },
       { "term": "202330", "crn": "39809" },
       { "term": "202310", "crn": "13693" },
-      { "term": "202310", "crn": "13694" }
+      { "term": "202310", "crn": "13694" },
+      { "term": "202510", "crn": "12873" },
+      { "term": "202510", "crn": "12874" },
+      { "term": "202510", "crn": "17363" }
     ],
     "description": "Highlights managerial decisions affecting a company’s performance in generating revenues, controlling costs, and producing profits. Begins with a brief review of financial accounting, then focuses on the development and use of information, especially financial information, for managerial decisions related to the firm’s planning—operations—control cycle.",
     "coreqs": [],
@@ -1079,7 +1187,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202360", "crn": "61715" },
-      { "term": "202360", "crn": "61830" }
+      { "term": "202360", "crn": "61830" },
+      { "term": "202460", "crn": "61925" }
     ],
     "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],

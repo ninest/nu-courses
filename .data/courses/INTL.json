@@ -10,7 +10,8 @@
       { "term": "202430", "crn": "34792" },
       { "term": "202410", "crn": "11620" },
       { "term": "202330", "crn": "35807" },
-      { "term": "202310", "crn": "11822" }
+      { "term": "202310", "crn": "11822" },
+      { "term": "202510", "crn": "11482" }
     ],
     "description": "For INTL, HCL, and CSGS majors",
     "coreqs": [],
@@ -42,7 +43,11 @@
       { "term": "202310", "crn": "12206" },
       { "term": "202310", "crn": "16075" },
       { "term": "202310", "crn": "20511" },
-      { "term": "202240", "crn": "40120" }
+      { "term": "202240", "crn": "40120" },
+      { "term": "202510", "crn": "10794" },
+      { "term": "202510", "crn": "20479" },
+      { "term": "202510", "crn": "20480" },
+      { "term": "202510", "crn": "16135" }
     ],
     "description": "Offers an interdisciplinary approach to analyzing global/international affairs. Examines the politics, economics, culture, and history of current international issues through lectures, guest lectures, film, case studies, and readings across the disciplines.",
     "coreqs": [],
@@ -67,7 +72,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI"],
-    "sections": [{ "term": "202310", "crn": "18660" }],
+    "sections": [
+      { "term": "202310", "crn": "18660" },
+      { "term": "202510", "crn": "20481" }
+    ],
     "description": "Concentrates on the history, politics, cultures, and economics of the Middle East and North Africa (MENA) countries in the 20th and 21st centuries. Explores topics such as empire, colonialism, revolutions, state-building, development, and social movements. Offers students an opportunity to obtain interdisciplinary skills to analyze dynamics of gender, class, race/ethnicity, and religion in MENA countries.",
     "coreqs": [],
     "prereqs": []
@@ -94,7 +102,8 @@
     "sections": [
       { "term": "202410", "crn": "16332" },
       { "term": "202330", "crn": "39239" },
-      { "term": "202310", "crn": "18661" }
+      { "term": "202310", "crn": "18661" },
+      { "term": "202510", "crn": "15187" }
     ],
     "description": "Focuses on U.S. engagement with the Middle East, primarily with Muslim societies, and with the Christian and Jewish communities across the region. Emphasizes Egypt, Syria, Iran, Iraq, Turkey, Israel/Palestine, and Lebanon. From America's first proselytizing adventure to the Ottoman Empire in 1820 to the embrace of Saudi Arabia in the 1940s to the overthrow of the democratically elected prime minister in Iran in 1953 to the attacks of September 11, 2001, to the invasion and occupation of Iraq in 2003 to America's response to the “Arab Awakening” in 2011 and beyond, the course covers history, politics, oil, war, and peacemaking within the framework of U.S. involvement in the Middle East.",
     "coreqs": [],
@@ -109,7 +118,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [
       { "term": "202410", "crn": "19909" },
-      { "term": "202310", "crn": "18662" }
+      { "term": "202310", "crn": "18662" },
+      { "term": "202510", "crn": "17381" }
     ],
     "description": "Introduces a variety of issues facing women across the globe. Focuses on the gender dynamics of key issues in international affairs. These could include economic policy, conflict and war, human rights/women's rights, political power, and collective action. Draws on examples from various world regions since the twentieth century to analyze similarities and differences across cases around the globe. INTL 2480 and WMNS 2480 are cross-listed.",
     "coreqs": [],
@@ -124,7 +134,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [
       { "term": "202430", "crn": "39264" },
-      { "term": "202310", "crn": "16733" }
+      { "term": "202310", "crn": "16733" },
+      { "term": "202510", "crn": "20482" }
     ],
     "description": "Examines the relationship between race and the movement of people around the globe. Offers students an opportunity to acquire a concrete understanding of how race and ethnicity (as social constructions) have developed as people have migrated (under free will or forced circumstances) within and across geopolitical territories (i.e., colonies, countries) in the past (1400s) and through the present. Ethnoracial-related conflicts connected to migration (i.e., rebellions by the enslaved during the Atlantic slave trade, Rwandan genocide, Syrian civil war) may also be explored.",
     "coreqs": [],
@@ -141,7 +152,8 @@
       { "term": "202430", "crn": "33654" },
       { "term": "202410", "crn": "13502" },
       { "term": "202330", "crn": "34225" },
-      { "term": "202310", "crn": "13986" }
+      { "term": "202310", "crn": "13986" },
+      { "term": "202510", "crn": "13096" }
     ],
     "description": "Introduces a range of research methods employed in the study of international affairs. Offers students an opportunity to develop competency in the most commonly used quantitative and qualitative research tools in the social sciences and related humanities. Topics include empirical and normative research traditions, generalizability, historical analyses, hypothesis testing, literature reviews, qualitative and quantitative approaches, research ethics, survey research, units of analysis, and more.",
     "coreqs": [],
@@ -170,7 +182,8 @@
       { "term": "202430", "crn": "39266" },
       { "term": "202410", "crn": "16334" },
       { "term": "202330", "crn": "38210" },
-      { "term": "202310", "crn": "18663" }
+      { "term": "202310", "crn": "18663" },
+      { "term": "202510", "crn": "20484" }
     ],
     "description": "Examines the roots of the urbanization process, major ways of thinking about it, and the development of world cities and megacities. The twenty-first century will be a century in which urbanism is a central problem and opportunity. Considers the economic, political, cultural, and environmental dimensions of urbanism across the globe. Includes specific case studies from around the world. Encourages students to develop a knowledge of particular cities in order to examine the key themes of the course. INTL 3200, ANTH 3200, and SOCL 3200 are cross-listed.",
     "coreqs": [],
@@ -193,6 +206,18 @@
   },
   {
     "subject": "INTL",
+    "number": "3350",
+    "title": "Borders and Racial Security",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20485" }],
+    "description": "Presents a comprehensive overview of governance of borders across the world. Addresses the disconnect and tension between the concept of a world without borders and the post–September 11 realities of increased border securitization. Explores the link between securitized borders and racism by unpacking the concept of racial security. Critically examines how borders are used to treat various groups and people differently, and introduces an intersectional analysis of race, ethnicity, gender, and class. Explores the geopolitics of securitized borders, border cities, and bordering practices beyond material border zones. Analyzes cross-border activities, transnational human rights activism, and freedom of mobility.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INTL",
     "number": "3400",
     "title": "International Conflict and Negotiation",
     "scheduleType": "Lecture",
@@ -206,7 +231,9 @@
       { "term": "202330", "crn": "30347" },
       { "term": "202330", "crn": "36962" },
       { "term": "202310", "crn": "10392" },
-      { "term": "202310", "crn": "14184" }
+      { "term": "202310", "crn": "14184" },
+      { "term": "202510", "crn": "10348" },
+      { "term": "202510", "crn": "13237" }
     ],
     "description": "Offers an interdisciplinary approach to analyzing international conflict and negotiations: how conflicts evolve, are managed, and/or resolved. In dealing with different types of regional and international conflicts, students focus on historical, ethnic, religious, geographic, and political aspects of a variety of conflicts and the consequences these conflicts hold for regional and international actors.",
     "coreqs": [],
@@ -241,7 +268,8 @@
       { "term": "202430", "crn": "36272" },
       { "term": "202410", "crn": "17795" },
       { "term": "202330", "crn": "38250" },
-      { "term": "202310", "crn": "20215" }
+      { "term": "202310", "crn": "20215" },
+      { "term": "202510", "crn": "20486" }
     ],
     "description": "Introduces international law and how it redefines and shapes world politics. Offers students an opportunity to learn about the cornerstones of this area of the law: the state, organizations and their legal personality, diplomatic relations, treaties, extraterritorial jurisdiction, extradition, human rights and humanitarian law, the law of the sea trade/economic law, and international criminal law with a focus on the world courts. Considers the degree to which international law is pervasive in the life of individuals and states alike.",
     "coreqs": [],
@@ -260,7 +288,37 @@
     ],
     "description": "Explores various types of conflict settlements and their implications for peace and reconciliation. Why do civil wars break out in some places but not others? What does it take to start a revolution? Why do some conflicts last decades, and what can be done to mitigate their costs? Examines why civil conflicts begin, how they are fought, and how they end. Substantive topics include strategies of insurgency and counterinsurgency; the role of ethnicity, religion, and gender; and the relationship between economic factors and conflict. Students leverage fundamental concepts and theories in comparative politics to analyze civil conflicts in a wide range of country contexts. Course Attributes:\nNUpath Societies/Institutions, NUpath Writing Intensive",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "POLS", "number": "1160" }]
+  },
+  {
+    "subject": "INTL",
+    "number": "3450",
+    "title": "Security, Culture, Power",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["SI"],
+    "sections": [{ "term": "202510", "crn": "20487" }],
+    "description": "Offers a critical and interdisciplinary approach to the study of security. Analyzes the politics, culture, geography, and history of security as a major force shaping the contemporary world. Aims to develop a critical analysis of how power operates in and through security by examining questions of how security shapes cities, states, space, and society from the cultural and psychological terrain of fear to the international terrain of war, capitalism, migration, and transnational conflicts.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "INTL", "number": "1101" },
+      "And",
+      { "subject": "POLS", "number": "1160" },
+      "And",
+      "(",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" },
+      ")"
+    ]
   },
   {
     "subject": "INTL",
@@ -288,7 +346,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20465" }],
+    "sections": [
+      { "term": "202410", "crn": "20465" },
+      { "term": "202510", "crn": "17906" }
+    ],
     "description": "Explores the history and politics of the Arab-Israeli conflict, examining the origins of the conflict, its development over time, the key events that have shaped it, and the different narratives and perceptions of these events. Offers students an opportunity to learn about the conflict from the emergence of Zionism and Arab nationalism up to present day. Emphasizes the Israeli-Palestinian dimension of the conflict.",
     "coreqs": [],
     "prereqs": [
@@ -407,7 +468,7 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": ["IC", "WI"],
-    "sections": [],
+    "sections": [{ "term": "202510", "crn": "20911" }],
     "description": "Explores Africa’s changing place in the world. Studies the history of Africa and explores the role of ethnography in the making of colonial Africa and the cultural transformations and continuities produced by the emergence of African cities during and after colonialism. Studies postcolonial Africa to critically and comparatively engage with contemporary issues facing African societies. Considers the efflorescence of new cultural forms of music, art, film, and literature, in conjunction with new sources of identity such as nationality, religion, ethnicity, consumption, and migration. \nANTH 4510 and INTL 4510 are cross-listed.",
     "coreqs": [],
     "prereqs": [
@@ -437,6 +498,10 @@
       { "subject": "ENGL", "number": "1111" },
       "Or",
       { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" },
       ")"
     ]
   },
@@ -450,7 +515,19 @@
     "sections": [{ "term": "202310", "crn": "20331" }],
     "description": "Introduces students to changes in society and economy in contemporary China. Examines changes in family, gender relations, rural life, work, and international relations. Draws on literature from a range of disciplines including sociology, political science, anthropology, and economics. Cross-listed with ANTH 4520.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ANTH", "number": "1101" },
+      "Or",
+      { "subject": "INTL", "number": "1101" },
+      "Or",
+      { "subject": "POLS", "number": "1140" },
+      "Or",
+      { "subject": "POLS", "number": "1160" },
+      "Or",
+      { "subject": "SOCL", "number": "1101" },
+      "Or",
+      { "subject": "WMNS", "number": "1101" }
+    ]
   },
   {
     "subject": "INTL",
@@ -469,7 +546,9 @@
       { "term": "202330", "crn": "31449" },
       { "term": "202330", "crn": "31757" },
       { "term": "202310", "crn": "15173" },
-      { "term": "202310", "crn": "18665" }
+      { "term": "202310", "crn": "18665" },
+      { "term": "202510", "crn": "15189" },
+      { "term": "202510", "crn": "13857" }
     ],
     "description": "Offers a senior research and writing seminar that integrates and assesses the knowledge and skills developed by students participating in the international affairs curriculum, including both experiential (co-op, Dialogue of Civilizations, study abroad, internship, or other approved international experience) and classroom-based components. Requires student self-reflection as well as new research, analysis, and writing, which culminate in a final paper and presentation. Topics include contemporary global issues and draw on relevant literature in the disciplines relating to international affairs.",
     "coreqs": [],
@@ -494,7 +573,10 @@
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "40227" }],
+    "sections": [
+      { "term": "202430", "crn": "40227" },
+      { "term": "202510", "crn": "20488" }
+    ],
     "description": "Examines the law, politics, policy, and advocacy practices of international human rights. Focuses on the dilemmas that ensue and the political, policy, and philosophical implications of human rights. Explores the role of international and domestic law in enacting and enforcing human rights claims, the institutions of international human rights law, and the relationships between different types of rights. Places human rights in the context of colonialism, racism, and economic inequality. Analyzes how and when human rights law and practice can adequately address global challenges as well as when they fall short.",
     "coreqs": [],
     "prereqs": []
@@ -525,7 +607,8 @@
       { "term": "202430", "crn": "37468" },
       { "term": "202410", "crn": "20111" },
       { "term": "202330", "crn": "39508" },
-      { "term": "202310", "crn": "19714" }
+      { "term": "202310", "crn": "19714" },
+      { "term": "202510", "crn": "17569" }
     ],
     "description": "Explores key environmental challenges and policy solutions from an international perspective. Emphasizes the complexity of human-natural systems for policy design, provides a history of international environmental politics, and discusses contemporary policy issues. Presents key paradigms for understanding environmental challenges and the analytical tools to look critically at important debates, understand the role of different actors, identify equity and justice considerations, and assess policy options from multiple perspectives. Focuses on global environmental governance and sustainable development diplomacy, natural resource management, and climate change policy. Addresses the role of science in policymaking, tensions between environment and development, the scale and complexity of international environmental governance, and equity and justice.",
     "coreqs": [],

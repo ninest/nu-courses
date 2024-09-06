@@ -13,7 +13,8 @@
       { "term": "202340", "crn": "40097" },
       { "term": "202330", "crn": "30273" },
       { "term": "202310", "crn": "10296" },
-      { "term": "202240", "crn": "40103" }
+      { "term": "202240", "crn": "40103" },
+      { "term": "202510", "crn": "10263" }
     ],
     "description": "Introduces modern astronomical ideas designed for nonscience majors. Topics include an introduction to the cosmos, Earth and its relation to the universe, our solar system (planets, moons, asteroids, and comets), the sun and how it works, stars and their classification, and the life and death of stars. Introduces various tools of the astronomer (the nature of light and radiation, telescopes, the types of spectra, and what they tell us).",
     "coreqs": [],
@@ -33,7 +34,8 @@
       { "term": "202340", "crn": "40446" },
       { "term": "202330", "crn": "32765" },
       { "term": "202310", "crn": "13142" },
-      { "term": "202240", "crn": "40475" }
+      { "term": "202240", "crn": "40475" },
+      { "term": "202510", "crn": "12471" }
     ],
     "description": "Offers an intellectual voyage into matter, life, and mind—the three pillars of modern science. It is a mosaic of different themes that offer a concise overview of science's greatest minds, ideas, questions, discoveries, theories, and methods while placing all of them within their historical contexts. Emphasizes the profound scientific revolutions of the 20th century—quantum mechanics, biogenetics, and artificial intelligence—that unlocked the secrets of the atom, unraveled the molecule of life, and created the electronic computer. Recognizes significant trends across a wide range of subjects, including medicine, biotechnology, computing and communicating, artificial intelligence and artificial life, and robotics. Discusses the synergism of science, technology, and business on future scientific development.",
     "coreqs": [],
@@ -48,7 +50,8 @@
     "nuPath": ["ND", "SI"],
     "sections": [
       { "term": "202410", "crn": "14995" },
-      { "term": "202310", "crn": "16121" }
+      { "term": "202310", "crn": "16121" },
+      { "term": "202510", "crn": "14280" }
     ],
     "description": "Introduces network science as a way to understand complex patterns of connections and relationships in increasingly complex social, infrastructure, transportation, information, and biological networks, as well as business and consumer networks. Describes basic conceptual and computational tools to model networks and discusses applications of those tools through a wide range of examples from the World Wide Web to protein and gene networks to massive social networks such as Twitter and Facebook. Discusses both network structures and dynamical phenomena on networks, such as spreading of information, rumors, gossip, and epidemics.",
     "coreqs": [],
@@ -92,7 +95,8 @@
       { "term": "202430", "crn": "30265" },
       { "term": "202410", "crn": "10276" },
       { "term": "202330", "crn": "30272" },
-      { "term": "202310", "crn": "10295" }
+      { "term": "202310", "crn": "10295" },
+      { "term": "202510", "crn": "10262" }
     ],
     "description": "Covers mechanics, fluids, and vibrations and waves. Emphasizes the application of physics to a variety of problems in structural engineering. Mechanics topics include one-dimensional motion, forces, vectors, Newton's laws, equilibrium, work, energy, and power. Fluids topics include density, pressure, buoyancy, and fluids in motion. Vibrations and waves topics include mechanical vibrations and sound. Requires knowledge of algebra.",
     "coreqs": [],
@@ -122,7 +126,10 @@
       { "term": "202310", "crn": "10293" },
       { "term": "202310", "crn": "11747" },
       { "term": "202310", "crn": "20546" },
-      { "term": "202240", "crn": "41470" }
+      { "term": "202240", "crn": "41470" },
+      { "term": "202510", "crn": "10261" },
+      { "term": "202510", "crn": "10260" },
+      { "term": "202510", "crn": "11421" }
     ],
     "description": "Covers mechanics, fluids, and temperature and kinetic theory. The application of physics to a variety of problems in the life and health sciences is emphasized. Mechanics topics include one-dimensional motion, forces, vectors, Newton's laws, equilibrium, work, energy, and power. Fluids topics include density, pressure, buoyancy, fluids in motion, viscosity, and surface tension. Temperature and kinetic theory topics include temperature, thermal equilibrium, gas laws, ideal gas law, kinetic theory, vapor pressure, and diffusion. A laboratory is included.",
     "coreqs": [{ "subject": "PHYS", "number": "1146" }],
@@ -235,13 +242,6 @@
       { "term": "202330", "crn": "30156" },
       { "term": "202330", "crn": "30155" },
       { "term": "202330", "crn": "30154" },
-      { "term": "202330", "crn": "30153" },
-      { "term": "202330", "crn": "30152" },
-      { "term": "202330", "crn": "30151" },
-      { "term": "202330", "crn": "30150" },
-      { "term": "202330", "crn": "30149" },
-      { "term": "202330", "crn": "30148" },
-      { "term": "202330", "crn": "30147" },
       { "term": "202330", "crn": "30958" },
       { "term": "202330", "crn": "31452" },
       { "term": "202330", "crn": "31456" },
@@ -261,25 +261,14 @@
       { "term": "202310", "crn": "10114" },
       { "term": "202310", "crn": "14230" },
       { "term": "202310", "crn": "10239" },
-      { "term": "202310", "crn": "10107" },
-      { "term": "202310", "crn": "10106" },
-      { "term": "202310", "crn": "10105" },
-      { "term": "202310", "crn": "10104" },
-      { "term": "202310", "crn": "10103" },
-      { "term": "202310", "crn": "10102" },
       { "term": "202310", "crn": "13614" },
       { "term": "202310", "crn": "13615" },
       { "term": "202310", "crn": "13725" },
       { "term": "202310", "crn": "10113" },
       { "term": "202310", "crn": "10112" },
       { "term": "202310", "crn": "10111" },
-      { "term": "202310", "crn": "10110" },
-      { "term": "202310", "crn": "10109" },
-      { "term": "202310", "crn": "10108" },
       { "term": "202310", "crn": "14613" },
       { "term": "202310", "crn": "14614" },
-      { "term": "202310", "crn": "10101" },
-      { "term": "202310", "crn": "10100" },
       { "term": "202310", "crn": "10137" },
       { "term": "202310", "crn": "13618" },
       { "term": "202310", "crn": "12349" },
@@ -309,7 +298,34 @@
       { "term": "202240", "crn": "41768" },
       { "term": "202240", "crn": "41769" },
       { "term": "202240", "crn": "41770" },
-      { "term": "202240", "crn": "41795" }
+      { "term": "202240", "crn": "41795" },
+      { "term": "202510", "crn": "13276" },
+      { "term": "202510", "crn": "10213" },
+      { "term": "202510", "crn": "10095" },
+      { "term": "202510", "crn": "10094" },
+      { "term": "202510", "crn": "12815" },
+      { "term": "202510", "crn": "12816" },
+      { "term": "202510", "crn": "13517" },
+      { "term": "202510", "crn": "10092" },
+      { "term": "202510", "crn": "10126" },
+      { "term": "202510", "crn": "12819" },
+      { "term": "202510", "crn": "11887" },
+      { "term": "202510", "crn": "11914" },
+      { "term": "202510", "crn": "12156" },
+      { "term": "202510", "crn": "12157" },
+      { "term": "202510", "crn": "12817" },
+      { "term": "202510", "crn": "12818" },
+      { "term": "202510", "crn": "12820" },
+      { "term": "202510", "crn": "14653" },
+      { "term": "202510", "crn": "14654" },
+      { "term": "202510", "crn": "14655" },
+      { "term": "202510", "crn": "16143" },
+      { "term": "202510", "crn": "16145" },
+      { "term": "202510", "crn": "16146" },
+      { "term": "202510", "crn": "16148" },
+      { "term": "202510", "crn": "16158" },
+      { "term": "202440", "crn": "42134" },
+      { "term": "202440", "crn": "42135" }
     ],
     "description": "Accompanies PHYS 1145. Covers topics from the course through various experiments.",
     "coreqs": [{ "subject": "PHYS", "number": "1145" }],
@@ -339,7 +355,9 @@
       { "term": "202310", "crn": "10292" },
       { "term": "202310", "crn": "15234" },
       { "term": "202310", "crn": "20547" },
-      { "term": "202260", "crn": "60018" }
+      { "term": "202260", "crn": "60018" },
+      { "term": "202510", "crn": "10259" },
+      { "term": "202510", "crn": "13893" }
     ],
     "description": "Continues PHYS 1145. Covers heat, electricity, vibrations and waves, sound, geometrical optics, and nuclear physics and radioactivity. The application of physics to a variety of problems in the life and health sciences is emphasized. Electricity topics include electrostatics, capacitance, resistivity, direct-current circuits, and RC circuits. Vibrations and waves topics include simple harmonic motion and wave motion. Sound topics include wave characteristics, the ear, Doppler effect, shock waves, and ultrasound. Optics topics include reflection, mirrors, refraction, total internal reflection, fiber optics, lenses, the eye, telescopes, and microscopes. Nuclear physics and radioactivity topics include atomic nucleus, radioactivity, half-life, radioactive dating, detectors, nuclear reaction, fission, fusion, radiation damage, radiation therapy, PET, and MRI. A laboratory is included.",
     "coreqs": [{ "subject": "PHYS", "number": "1148" }],
@@ -443,10 +461,7 @@
       { "term": "202410", "crn": "20908" },
       { "term": "202360", "crn": "60166" },
       { "term": "202360", "crn": "60007" },
-      { "term": "202360", "crn": "60006" },
       { "term": "202360", "crn": "60539" },
-      { "term": "202360", "crn": "60005" },
-      { "term": "202360", "crn": "60004" },
       { "term": "202360", "crn": "60548" },
       { "term": "202360", "crn": "60554" },
       { "term": "202340", "crn": "41666" },
@@ -462,11 +477,6 @@
       { "term": "202330", "crn": "30167" },
       { "term": "202330", "crn": "30166" },
       { "term": "202330", "crn": "30165" },
-      { "term": "202330", "crn": "30164" },
-      { "term": "202330", "crn": "30163" },
-      { "term": "202330", "crn": "30162" },
-      { "term": "202330", "crn": "30161" },
-      { "term": "202330", "crn": "30160" },
       { "term": "202330", "crn": "30157" },
       { "term": "202330", "crn": "30107" },
       { "term": "202330", "crn": "36713" },
@@ -516,11 +526,35 @@
       { "term": "202310", "crn": "20540" },
       { "term": "202310", "crn": "20541" },
       { "term": "202260", "crn": "60175" },
-      { "term": "202260", "crn": "60007" },
-      { "term": "202260", "crn": "60006" },
       { "term": "202260", "crn": "60595" },
-      { "term": "202260", "crn": "60005" },
-      { "term": "202260", "crn": "60004" }
+      { "term": "202510", "crn": "10258" },
+      { "term": "202510", "crn": "10133" },
+      { "term": "202510", "crn": "10132" },
+      { "term": "202510", "crn": "10131" },
+      { "term": "202510", "crn": "10688" },
+      { "term": "202510", "crn": "10774" },
+      { "term": "202510", "crn": "10057" },
+      { "term": "202510", "crn": "12158" },
+      { "term": "202510", "crn": "10035" },
+      { "term": "202510", "crn": "10960" },
+      { "term": "202510", "crn": "13900" },
+      { "term": "202510", "crn": "11690" },
+      { "term": "202510", "crn": "13257" },
+      { "term": "202510", "crn": "12488" },
+      { "term": "202510", "crn": "13863" },
+      { "term": "202510", "crn": "13898" },
+      { "term": "202510", "crn": "13901" },
+      { "term": "202510", "crn": "16151" },
+      { "term": "202510", "crn": "16152" },
+      { "term": "202510", "crn": "16153" },
+      { "term": "202510", "crn": "16155" },
+      { "term": "202510", "crn": "18198" },
+      { "term": "202510", "crn": "18199" },
+      { "term": "202510", "crn": "18216" },
+      { "term": "202510", "crn": "18333" },
+      { "term": "202510", "crn": "18334" },
+      { "term": "202460", "crn": "61750" },
+      { "term": "202440", "crn": "42137" }
     ],
     "description": "Accompanies PHYS 1147. Covers topics from the course through various experiments.",
     "coreqs": [{ "subject": "PHYS", "number": "1147" }],
@@ -585,11 +619,25 @@
       { "term": "202310", "crn": "10289" },
       { "term": "202310", "crn": "20419" },
       { "term": "202260", "crn": "60040" },
-      { "term": "202240", "crn": "40182" }
+      { "term": "202240", "crn": "40182" },
+      { "term": "202510", "crn": "10256" },
+      { "term": "202510", "crn": "16075" }
     ],
     "description": "Students registered for PHYS 1151 must also be registered for PHYS 1152 and PHYS 1153.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "MATH", "number": "1241" },
+      "Or",
+      { "subject": "MATH", "number": "1251" },
+      "Or",
+      { "subject": "MATH", "number": "1340" },
+      "Or",
+      { "subject": "MATH", "number": "1341" },
+      "Or",
+      { "subject": "MATH", "number": "1342" },
+      "Or",
+      { "subject": "MATH", "number": "2321" }
+    ]
   },
   {
     "subject": "PHYS",
@@ -688,31 +736,11 @@
       { "term": "202330", "crn": "30146" },
       { "term": "202330", "crn": "30145" },
       { "term": "202330", "crn": "30144" },
-      { "term": "202330", "crn": "30143" },
-      { "term": "202330", "crn": "30142" },
       { "term": "202330", "crn": "37110" },
       { "term": "202330", "crn": "37183" },
-      { "term": "202330", "crn": "30140" },
-      { "term": "202330", "crn": "30139" },
-      { "term": "202330", "crn": "30138" },
-      { "term": "202330", "crn": "30136" },
-      { "term": "202330", "crn": "30135" },
-      { "term": "202330", "crn": "30133" },
-      { "term": "202330", "crn": "30132" },
       { "term": "202330", "crn": "37308" },
-      { "term": "202330", "crn": "30131" },
       { "term": "202330", "crn": "39153" },
-      { "term": "202330", "crn": "30130" },
       { "term": "202330", "crn": "30129" },
-      { "term": "202330", "crn": "30128" },
-      { "term": "202330", "crn": "30127" },
-      { "term": "202330", "crn": "30126" },
-      { "term": "202330", "crn": "30125" },
-      { "term": "202330", "crn": "30124" },
-      { "term": "202330", "crn": "30123" },
-      { "term": "202330", "crn": "30122" },
-      { "term": "202330", "crn": "30121" },
-      { "term": "202330", "crn": "30120" },
       { "term": "202330", "crn": "37130" },
       { "term": "202330", "crn": "37131" },
       { "term": "202330", "crn": "37111" },
@@ -748,7 +776,21 @@
       { "term": "202240", "crn": "40234" },
       { "term": "202240", "crn": "40277" },
       { "term": "202240", "crn": "40724" },
-      { "term": "202240", "crn": "41951" }
+      { "term": "202240", "crn": "41951" },
+      { "term": "202510", "crn": "10255" },
+      { "term": "202510", "crn": "10091" },
+      { "term": "202510", "crn": "11416" },
+      { "term": "202510", "crn": "10503" },
+      { "term": "202510", "crn": "10509" },
+      { "term": "202510", "crn": "12219" },
+      { "term": "202510", "crn": "12220" },
+      { "term": "202510", "crn": "12569" },
+      { "term": "202510", "crn": "12639" },
+      { "term": "202510", "crn": "16671" },
+      { "term": "202510", "crn": "14962" },
+      { "term": "202510", "crn": "16476" },
+      { "term": "202510", "crn": "22872" },
+      { "term": "202510", "crn": "16076" }
     ],
     "description": "Accompanies PHYS 1151. Covers topics from the course through various experiments. Requires concurrent registration in PHYS 1151 and PHYS 1153.",
     "coreqs": [],
@@ -795,7 +837,6 @@
       { "term": "202330", "crn": "30257" },
       { "term": "202330", "crn": "30256" },
       { "term": "202330", "crn": "30255" },
-      { "term": "202330", "crn": "30254" },
       { "term": "202330", "crn": "37132" },
       { "term": "202330", "crn": "30490" },
       { "term": "202330", "crn": "31184" },
@@ -811,7 +852,12 @@
       { "term": "202310", "crn": "12799" },
       { "term": "202310", "crn": "20421" },
       { "term": "202260", "crn": "60135" },
-      { "term": "202240", "crn": "40185" }
+      { "term": "202240", "crn": "40185" },
+      { "term": "202510", "crn": "10254" },
+      { "term": "202510", "crn": "11141" },
+      { "term": "202510", "crn": "12221" },
+      { "term": "202510", "crn": "16077" },
+      { "term": "202510", "crn": "22928" }
     ],
     "description": "Students registered for PHYS 1153 must also be registered for PHYS 1151 and PHYS 1152.",
     "coreqs": [],
@@ -842,7 +888,10 @@
       { "term": "202310", "crn": "10097" },
       { "term": "202310", "crn": "11094" },
       { "term": "202240", "crn": "40009" },
-      { "term": "202240", "crn": "40397" }
+      { "term": "202240", "crn": "40397" },
+      { "term": "202510", "crn": "10253" },
+      { "term": "202510", "crn": "10090" },
+      { "term": "202510", "crn": "10089" }
     ],
     "description": "Students registered for PHYS 1155 must also be registered for PHYS 1156 and PHYS 1157.",
     "coreqs": [{ "subject": "PHYS", "number": "1157" }],
@@ -942,8 +991,6 @@
       { "term": "202410", "crn": "10974" },
       { "term": "202410", "crn": "16377" },
       { "term": "202340", "crn": "40007" },
-      { "term": "202340", "crn": "40006" },
-      { "term": "202340", "crn": "40005" },
       { "term": "202340", "crn": "40155" },
       { "term": "202340", "crn": "40156" },
       { "term": "202340", "crn": "40182" },
@@ -963,7 +1010,6 @@
       { "term": "202330", "crn": "30171" },
       { "term": "202330", "crn": "30170" },
       { "term": "202330", "crn": "30169" },
-      { "term": "202330", "crn": "30168" },
       { "term": "202330", "crn": "30952" },
       { "term": "202330", "crn": "30959" },
       { "term": "202330", "crn": "30960" },
@@ -989,21 +1035,12 @@
       { "term": "202310", "crn": "10159" },
       { "term": "202310", "crn": "10158" },
       { "term": "202310", "crn": "10157" },
-      { "term": "202310", "crn": "10156" },
-      { "term": "202310", "crn": "10155" },
-      { "term": "202310", "crn": "10154" },
       { "term": "202310", "crn": "10153" },
-      { "term": "202310", "crn": "10152" },
-      { "term": "202310", "crn": "10151" },
-      { "term": "202310", "crn": "10150" },
       { "term": "202310", "crn": "18700" },
-      { "term": "202310", "crn": "10149" },
       { "term": "202310", "crn": "18701" },
       { "term": "202310", "crn": "10580" },
       { "term": "202310", "crn": "10521" },
       { "term": "202310", "crn": "10311" },
-      { "term": "202310", "crn": "10148" },
-      { "term": "202310", "crn": "10147" },
       { "term": "202310", "crn": "18702" },
       { "term": "202310", "crn": "18703" },
       { "term": "202310", "crn": "18704" },
@@ -1016,20 +1053,42 @@
       { "term": "202310", "crn": "18712" },
       { "term": "202310", "crn": "18713" },
       { "term": "202240", "crn": "40008" },
-      { "term": "202240", "crn": "40007" },
-      { "term": "202240", "crn": "40006" },
       { "term": "202240", "crn": "40162" },
       { "term": "202240", "crn": "40163" },
       { "term": "202240", "crn": "40191" },
       { "term": "202240", "crn": "40226" },
-      { "term": "202240", "crn": "40233" },
       { "term": "202240", "crn": "40269" },
       { "term": "202240", "crn": "40270" },
       { "term": "202240", "crn": "40273" },
       { "term": "202240", "crn": "40278" },
       { "term": "202240", "crn": "40306" },
       { "term": "202240", "crn": "40307" },
-      { "term": "202240", "crn": "40800" }
+      { "term": "202240", "crn": "40800" },
+      { "term": "202510", "crn": "10252" },
+      { "term": "202510", "crn": "10085" },
+      { "term": "202510", "crn": "10084" },
+      { "term": "202510", "crn": "15203" },
+      { "term": "202510", "crn": "15204" },
+      { "term": "202510", "crn": "11124" },
+      { "term": "202510", "crn": "11088" },
+      { "term": "202510", "crn": "10139" },
+      { "term": "202510", "crn": "15207" },
+      { "term": "202510", "crn": "10513" },
+      { "term": "202510", "crn": "10458" },
+      { "term": "202510", "crn": "10278" },
+      { "term": "202510", "crn": "10137" },
+      { "term": "202510", "crn": "10136" },
+      { "term": "202510", "crn": "15209" },
+      { "term": "202510", "crn": "15210" },
+      { "term": "202510", "crn": "15211" },
+      { "term": "202510", "crn": "15212" },
+      { "term": "202510", "crn": "15213" },
+      { "term": "202510", "crn": "15214" },
+      { "term": "202510", "crn": "11684" },
+      { "term": "202510", "crn": "10034" },
+      { "term": "202510", "crn": "15215" },
+      { "term": "202510", "crn": "10904" },
+      { "term": "202510", "crn": "15219" }
     ],
     "description": "Accompanies PHYS 1155. Covers topics from the course through various experiments. Requires concurrent registration in PHYS 1155 and PHYS 1157.",
     "coreqs": [],
@@ -1084,7 +1143,18 @@
       { "term": "202310", "crn": "18714" },
       { "term": "202310", "crn": "10504" },
       { "term": "202240", "crn": "40145" },
-      { "term": "202240", "crn": "40398" }
+      { "term": "202240", "crn": "40398" },
+      { "term": "202510", "crn": "10251" },
+      { "term": "202510", "crn": "10249" },
+      { "term": "202510", "crn": "10443" },
+      { "term": "202510", "crn": "10905" },
+      { "term": "202510", "crn": "10444" },
+      { "term": "202510", "crn": "10445" },
+      { "term": "202510", "crn": "10123" },
+      { "term": "202510", "crn": "10250" },
+      { "term": "202510", "crn": "10689" },
+      { "term": "202510", "crn": "10906" },
+      { "term": "202510", "crn": "10446" }
     ],
     "description": "Students registered for PHYS 1157 must also be registered for PHYS 1155 and PHYS 1156.",
     "coreqs": [{ "subject": "PHYS", "number": "1155" }],
@@ -1099,7 +1169,8 @@
     "nuPath": ["ND"],
     "sections": [
       { "term": "202410", "crn": "10224" },
-      { "term": "202310", "crn": "10237" }
+      { "term": "202310", "crn": "10237" },
+      { "term": "202510", "crn": "10211" }
     ],
     "description": "Covers calculus-based physics. Offers the first semester of a two-semester integrated lecture and laboratory sequence intended primarily for science students. Covers Newtonian mechanics and fluids. Emphasizes the underlying concepts and principles. Takes applications from a wide variety of fields, such as life sciences and medicine, astro- and planetary physics, and so on. Includes topics such as forces, torque and static equilibrium, one-dimensional and three-dimensional motion, Newton's laws, dynamics friction, drag, work, energy and power, momentum and collisions, rotational dynamics, oscillations, pressure, fluids, and gravity.",
     "coreqs": [
@@ -1136,7 +1207,12 @@
       { "term": "202310", "crn": "10145" },
       { "term": "202310", "crn": "17493" },
       { "term": "202310", "crn": "12769" },
-      { "term": "202310", "crn": "15290" }
+      { "term": "202310", "crn": "15290" },
+      { "term": "202510", "crn": "12776" },
+      { "term": "202510", "crn": "10135" },
+      { "term": "202510", "crn": "10134" },
+      { "term": "202510", "crn": "14782" },
+      { "term": "202510", "crn": "12202" }
     ],
     "description": "Accompanies PHYS 1161. Covers topics from the course through various experiments.",
     "coreqs": [
@@ -1154,7 +1230,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11149" },
-      { "term": "202310", "crn": "11294" }
+      { "term": "202310", "crn": "11294" },
+      { "term": "202510", "crn": "11063" }
     ],
     "description": "Accompanies PHYS 1161. Offers an opportunity for interactive problem solving.",
     "coreqs": [
@@ -1311,7 +1388,8 @@
     "nuPath": ["ND"],
     "sections": [
       { "term": "202410", "crn": "11993" },
-      { "term": "202310", "crn": "12232" }
+      { "term": "202310", "crn": "12232" },
+      { "term": "202510", "crn": "11804" }
     ],
     "description": "Students registered for PHYS 1175 must also be registered for PHYS 1176 and PHYS 1177.",
     "coreqs": [],
@@ -1353,7 +1431,13 @@
       { "term": "202310", "crn": "12236" },
       { "term": "202310", "crn": "13170" },
       { "term": "202310", "crn": "14222" },
-      { "term": "202310", "crn": "12350" }
+      { "term": "202310", "crn": "12350" },
+      { "term": "202510", "crn": "11805" },
+      { "term": "202510", "crn": "11806" },
+      { "term": "202510", "crn": "11807" },
+      { "term": "202510", "crn": "11808" },
+      { "term": "202510", "crn": "12490" },
+      { "term": "202510", "crn": "11888" }
     ],
     "description": "Accompanies PHYS 1175. Experiments include standing waves, electric charge/field, DC circuits, gel electrophoresis, geometric optics, light spectroscopy, and radioactive decay. Requires concurrent registration in PHYS 1175 and PHYS 1177.",
     "coreqs": [],
@@ -1370,10 +1454,72 @@
       { "term": "202410", "crn": "11998" },
       { "term": "202410", "crn": "11999" },
       { "term": "202310", "crn": "12237" },
-      { "term": "202310", "crn": "12238" }
+      { "term": "202310", "crn": "12238" },
+      { "term": "202510", "crn": "11809" },
+      { "term": "202510", "crn": "11810" }
     ],
     "description": "Students registered for PHYS 1177 must also be registered for PHYS 1175 and PHYS 1176.",
     "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHYS",
+    "number": "1191",
+    "title": "Foundations of Theoretical Physics",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["FQ", "ND"],
+    "sections": [{ "term": "202510", "crn": "20082" }],
+    "description": "Students registered for PHYS 1191 must also be registered for PHYS 1192 and PHYS 1193.",
+    "coreqs": [
+      { "subject": "PHYS", "number": "1192" },
+      { "subject": "PHYS", "number": "1193" }
+    ],
+    "prereqs": [
+      "(",
+      { "subject": "MATH", "number": "1241" },
+      "Or",
+      { "subject": "MATH", "number": "1242" },
+      "Or",
+      { "subject": "MATH", "number": "1341" },
+      "Or",
+      { "subject": "MATH", "number": "1342" },
+      "Or",
+      { "subject": "MATH", "number": "2321" },
+      ")"
+    ]
+  },
+  {
+    "subject": "PHYS",
+    "number": "1192",
+    "title": "Lab for PHYS 1191",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": ["AD"],
+    "sections": [
+      { "term": "202510", "crn": "20091" },
+      { "term": "202510", "crn": "20093" }
+    ],
+    "description": "Accompanies PHYS 1191. Covers topics from the course through various experiments.",
+    "coreqs": [
+      { "subject": "PHYS", "number": "1191" },
+      { "subject": "PHYS", "number": "1193" }
+    ],
+    "prereqs": []
+  },
+  {
+    "subject": "PHYS",
+    "number": "1193",
+    "title": "Recitation for PHYS 1191",
+    "scheduleType": "Recitation/Discussion",
+    "credits": 0,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "20083" }],
+    "description": "Accompanies PHYS 1191. Offers an opportunity for interactive problem solving.",
+    "coreqs": [
+      { "subject": "PHYS", "number": "1191" },
+      { "subject": "PHYS", "number": "1192" }
+    ],
     "prereqs": []
   },
   {
@@ -1385,7 +1531,8 @@
     "nuPath": ["AD", "ND"],
     "sections": [
       { "term": "202430", "crn": "32444" },
-      { "term": "202330", "crn": "32723" }
+      { "term": "202330", "crn": "32723" },
+      { "term": "202510", "crn": "20084" }
     ],
     "description": "Introduces students to computational problem-solving techniques with common computer languages used in the physical sciences. Begins with programming basics of data handling, visualization tools, random number generators, functions, and control statements and expands to more advanced topics of interpolation, numeric integration, numeric derivatives, ordinary differential equations, and some Monte Carlo techniques. Explores topics contextually using physical models and problems.",
     "coreqs": [],
@@ -1419,7 +1566,8 @@
       { "term": "202360", "crn": "60530" },
       { "term": "202330", "crn": "31309" },
       { "term": "202310", "crn": "11252" },
-      { "term": "202260", "crn": "60581" }
+      { "term": "202260", "crn": "60581" },
+      { "term": "202510", "crn": "11031" }
     ],
     "description": "Reviews experiments demonstrating the atomic nature of matter, the properties of the electron, the nuclear atom, the wave-particle duality, spin, and the properties of elementary particles. Discusses, mostly on a phenomenological level, such subjects as atomic and nuclear structure, properties of the solid state, and elementary particles. Introduces the special theory of relativity.",
     "coreqs": [],
@@ -1444,7 +1592,8 @@
     "nuPath": ["ND"],
     "sections": [
       { "term": "202410", "crn": "12716" },
-      { "term": "202310", "crn": "13058" }
+      { "term": "202310", "crn": "13058" },
+      { "term": "202510", "crn": "12415" }
     ],
     "description": "Covers the physics underlying computers and our modern electronic world. Focuses on principles of semiconductor devices (diodes, transistors, integrated circuits, LEDs, photovoltaics); analog techniques (amplification, AC circuits, resonance); digital techniques (binary numbers, NANDs, logic gates, and circuits); electronic subsystems (operational amplifiers, magnetoelectronics, optoelectronics); and understanding commercial electronic equipment. Lab experiments are designed to investigate the properties of discrete and integrated devices and use them to design and build circuits.",
     "coreqs": [{ "subject": "PHYS", "number": "2372" }],
@@ -1475,7 +1624,13 @@
       { "term": "202310", "crn": "13172" },
       { "term": "202310", "crn": "13238" },
       { "term": "202310", "crn": "13239" },
-      { "term": "202310", "crn": "13240" }
+      { "term": "202310", "crn": "13240" },
+      { "term": "202510", "crn": "10248" },
+      { "term": "202510", "crn": "11257" },
+      { "term": "202510", "crn": "12492" },
+      { "term": "202510", "crn": "12541" },
+      { "term": "202510", "crn": "12542" },
+      { "term": "202510", "crn": "12543" }
     ],
     "description": "Accompanies PHYS 2371. Illustrates topics from the lecture course through various hands-on experimental projects. Covers the process of electronics design from a goal-oriented perspective. Students are expected to consider their own electronics design project and build a prototype device that accomplishes a specific purpose.",
     "coreqs": [{ "subject": "PHYS", "number": "2371" }],
@@ -1552,11 +1707,26 @@
       { "term": "202430", "crn": "35012" },
       { "term": "202410", "crn": "16381" },
       { "term": "202330", "crn": "36141" },
-      { "term": "202310", "crn": "18716" }
+      { "term": "202310", "crn": "18716" },
+      { "term": "202510", "crn": "15223" }
     ],
     "description": "Covers advanced topics in classical mechanics including vector kinematics, harmonic oscillator and resonance, generalized coordinates, Lagrange's equations, central forces and the Kepler problem, rigid body motion, and mathematical methods in physics.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "PHYS", "number": "1155" },
+      "Or",
+      { "subject": "PHYS", "number": "1165" },
+      "Or",
+      { "subject": "PHYS", "number": "1175" },
+      ")",
+      "And",
+      "(",
+      { "subject": "MATH", "number": "2341" },
+      "Or",
+      { "subject": "MATH", "number": "2351" },
+      ")"
+    ]
   },
   {
     "subject": "PHYS",
@@ -1569,7 +1739,8 @@
       { "term": "202430", "crn": "30243" },
       { "term": "202410", "crn": "11542" },
       { "term": "202330", "crn": "30250" },
-      { "term": "202310", "crn": "11730" }
+      { "term": "202310", "crn": "11730" },
+      { "term": "202510", "crn": "11415" }
     ],
     "description": "First course of a two-course sequence in electricity, magnetism, and electromagnetic theory. Covers electrostatics and dielectric materials, magnetostatics and magnetic materials, currents in conductors, induction, displacement currents, computer solutions of EM problems, and Maxwell’s equations.",
     "coreqs": [],
@@ -1601,7 +1772,8 @@
     "sections": [
       { "term": "202430", "crn": "39185" },
       { "term": "202340", "crn": "41661" },
-      { "term": "202310", "crn": "18717" }
+      { "term": "202310", "crn": "18717" },
+      { "term": "202510", "crn": "20085" }
     ],
     "description": "Continues PHYS 3602. Focuses on electromagnetic waves in vacua and matter, electrodynamics and radiation, and computer visualization of electromagnetic fields. Also considers special relativity.",
     "coreqs": [],
@@ -1616,7 +1788,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "36484" },
-      { "term": "202330", "crn": "38471" }
+      { "term": "202330", "crn": "38471" },
+      { "term": "202510", "crn": "20086" }
     ],
     "description": "Investigates the variety of astrophysical signals produced by galactic and extragalactic sources, in connection with and independently from the electromagnetic wave (EM) signals. Introduces the basic theory behind the production, transmission, and detection of astrophysical neutrinos, cosmic rays, dark matter, and gravitational waves. Topical in nature, the course offers a solid introduction to the newest discoveries in astrophysics.",
     "coreqs": [],
@@ -1633,7 +1806,8 @@
       { "term": "202430", "crn": "33694" },
       { "term": "202410", "crn": "14359" },
       { "term": "202330", "crn": "34278" },
-      { "term": "202310", "crn": "15090" }
+      { "term": "202310", "crn": "15090" },
+      { "term": "202510", "crn": "13807" }
     ],
     "description": "Focuses on observations of macroscopic and microscopic bodies. Covers the uncertainty principle and wave-particle duality; probability amplitudes; Schrödinger wave theory and one-dimensional problems, Schrödinger equation in three dimensions; and angular momentum and the hydrogen atom.",
     "coreqs": [],
@@ -1651,11 +1825,24 @@
       { "term": "202430", "crn": "33695" },
       { "term": "202410", "crn": "19549" },
       { "term": "202330", "crn": "34279" },
-      { "term": "202260", "crn": "61302" }
+      { "term": "202260", "crn": "61302" },
+      { "term": "202510", "crn": "17046" }
     ],
     "description": "Focuses on first and second laws of thermodynamics, entropy and equilibrium, thermodynamic potentials, elementary kinetic theory, statistical mechanics, and the statistical interpretation of entropy. Utilizes the principles of quantum mechanics to describe the behavior of thermodynamic/statistically-large systems such as quantum gases.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "PHYS", "number": "1155" },
+      "Or",
+      { "subject": "PHYS", "number": "1165" },
+      "Or",
+      { "subject": "PHYS", "number": "1175" },
+      ")",
+      "And",
+      { "subject": "MATH", "number": "2321" },
+      "And",
+      { "subject": "PHYS", "number": "2303" }
+    ]
   },
   {
     "subject": "PHYS",
@@ -1691,11 +1878,12 @@
     "nuPath": ["ND"],
     "sections": [
       { "term": "202330", "crn": "38473" },
-      { "term": "202310", "crn": "18718" }
+      { "term": "202310", "crn": "18718" },
+      { "term": "202510", "crn": "20087" }
     ],
     "description": "Offers an introduction to biophysics focusing on development and implementation of physical models for various biophysical processes that occur in living organisms and in living cells. Topics covered, some of which are explored through computational examples, include thermodynamics of solutions and cells, randomness, diffusion, entropy, membranes, electrostatics, and electricity in cells.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "PHYS", "number": "2303" }]
   },
   {
     "subject": "PHYS",
@@ -1707,7 +1895,8 @@
     "sections": [
       { "term": "202440", "crn": "41835" },
       { "term": "202310", "crn": "18719" },
-      { "term": "202240", "crn": "41475" }
+      { "term": "202240", "crn": "41475" },
+      { "term": "202510", "crn": "20088" }
     ],
     "description": "Introduces the physical principles and basic mathematical methods underlying the various modalities of medical imaging. These include computed tomography (CT), magnetic resonance (MRI), positron emission tomography (PET), single-photon emission tomography (SPECT), and ultrasound. Covers nuclear physics and the interaction of radiation with biological matter with application to radiation therapy.",
     "coreqs": [],
@@ -1776,7 +1965,23 @@
     "sections": [{ "term": "202330", "crn": "38506" }],
     "description": "Introduces students to the quantum materials, the nature and origins of their unique behaviors, and how these systems can be used to enable new quantum technologies. Beginning with a description of the electronic structure of solids, describes how interactions between electrons and spins can manifest electrical and magnetic properties that cannot be explained with a classical description and how isolated defects in solids can be utilized for quantum technologies.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "PHYS", "number": "2303" },
+      "And",
+      { "subject": "PHYS", "number": "3602" },
+      "And",
+      "(",
+      { "subject": "PHYS", "number": "2305" },
+      "Or",
+      { "subject": "PHYS", "number": "4305" },
+      ")",
+      "And",
+      { "subject": "PHYS", "number": "4115" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "PHYS",
@@ -1787,7 +1992,8 @@
     "nuPath": ["ND"],
     "sections": [
       { "term": "202410", "crn": "12717" },
-      { "term": "202310", "crn": "13059" }
+      { "term": "202310", "crn": "13059" },
+      { "term": "202510", "crn": "12416" }
     ],
     "description": "Introduces network science and the set of analytical, numerical, and modeling tools used to understand complex networks emerging in nature and technology. Focuses on the empirical study of real networks, with examples coming from biology (metabolic, protein interaction networks), computer science (World Wide Web, Internet), or social systems (e-mail, friendship networks). Shows the organizing principles that govern the emergence of networks and the set of tools necessary to characterize and model them. Covers elements of graph theory, statistical physics, biology, and social science as they pertain to the understanding of complex systems.",
     "coreqs": [],
@@ -1828,7 +2034,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "39186" }],
+    "sections": [
+      { "term": "202430", "crn": "39186" },
+      { "term": "202510", "crn": "20089" }
+    ],
     "description": "Introduces basic concepts in the general theory of relativity, including Riemannian geometry and Einstein's field equations. These concepts are applied in studying the standard model of cosmology. Topics include thermodynamics in an expanding universe, dark matter and dark energy, and modern theories of cosmology.",
     "coreqs": [],
     "prereqs": [
@@ -1854,11 +2063,16 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39187" },
-      { "term": "202310", "crn": "18721" }
+      { "term": "202310", "crn": "18721" },
+      { "term": "202510", "crn": "20090" }
     ],
     "description": "Introduces time-independent and time-dependent perturbation theory. Covers hydrogen fine structure, Zeeman effect, helium splitting, variational principle, adiabatic approximation, scattering theory, second quantization, and modern topics such as theory of quantum entanglement, quantum computing, and quantum biology.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "PHYS", "number": "4115" },
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "PHYS",
@@ -1946,7 +2160,8 @@
       { "term": "202430", "crn": "30573" },
       { "term": "202410", "crn": "11991" },
       { "term": "202330", "crn": "30594" },
-      { "term": "202310", "crn": "12230" }
+      { "term": "202310", "crn": "12230" },
+      { "term": "202510", "crn": "11802" }
     ],
     "description": "Offers a weekly seminar to introduce first- and second-year physics graduate students to research being done in the Physics department by advanced physics graduate students and faculty. May be repeated without limit.",
     "coreqs": [],
@@ -1963,7 +2178,9 @@
       { "term": "202410", "crn": "13644" },
       { "term": "202410", "crn": "15712" },
       { "term": "202310", "crn": "14155" },
-      { "term": "202310", "crn": "17530" }
+      { "term": "202310", "crn": "17530" },
+      { "term": "202510", "crn": "13214" },
+      { "term": "202510", "crn": "14797" }
     ],
     "description": "Introduces first-year physics graduate students to the role of teaching assistant (TA) in the laboratory. Designed to prepare TAs for the experiments they are required to teach undergraduate students. Focuses on improving their teaching and grading effectiveness.",
     "coreqs": [],
@@ -1984,7 +2201,7 @@
     ],
     "description": "Continues PHYS 7220, offered to first-year graduate physics teaching assistants. Designed to prepare TAs for the experiments they teach to undergraduate students. Offers students an opportunity to improve their teaching and grading effectiveness.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "PHYS", "number": "7220" }]
   },
   {
     "subject": "PHYS",
@@ -1995,7 +2212,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11992" },
-      { "term": "202310", "crn": "12231" }
+      { "term": "202310", "crn": "12231" },
+      { "term": "202510", "crn": "11803" }
     ],
     "description": "Covers mathematical methods of physics and classical mechanics. Topics include differential equations, boundary value problems, functions of a complex variable, linear vector spaces, Green's functions, Lagrangian and Hamiltonian mechanics, linear oscillators, and scattering. May include additional topics as time permits.",
     "coreqs": [],
@@ -2010,7 +2228,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10686" },
-      { "term": "202310", "crn": "10763" }
+      { "term": "202310", "crn": "10763" },
+      { "term": "202510", "crn": "10637" }
     ],
     "description": "Analyzes Maxwell's equations in vacuum and special relativity. Topics include electric and magnetic fields due to known sources with boundary conditions, radiation fields, bremsstrahlung, synchrotron radiation, the energy-momentum tensor for the electromagnetic field, fields in material media, boundary conditions at the interface between two media, and scattering of radiation. May include additional topics as time permits.",
     "coreqs": [],
@@ -2040,7 +2259,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10661" },
-      { "term": "202310", "crn": "10723" }
+      { "term": "202310", "crn": "10723" },
+      { "term": "202510", "crn": "10612" }
     ],
     "description": "Explores the experimental basis of quantum theory, the Schr÷dinger equation, and probability interpretation of wave mechanics. Topics include the uncertainty principle, application to one-dimensional problems, the harmonic oscillator, orbital angular momentum, and the central force problem.",
     "coreqs": [],
@@ -2059,7 +2279,7 @@
     ],
     "description": "Continues PHYS 7315. Topics include quantum theory of scattering; Born approximation; phase-shift analysis; introduction to S-matrix theory; general formulation quantum mechanics in Hilbert space; spin; identical particles and symmetrization principle; time-independent and time-dependent perturbation theory; semiclassical theory of radiation and atomic spectra; addition of angular momentum; Wigner-Eckart theorem; quantum theory of radiation; and absorption, emission, and scattering of photons. Also introduces free particle Dirac equation.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "PHYS", "number": "7315" }]
   },
   {
     "subject": "PHYS",
@@ -2070,7 +2290,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10660" },
-      { "term": "202310", "crn": "10722" }
+      { "term": "202310", "crn": "10722" },
+      { "term": "202510", "crn": "10611" }
     ],
     "description": "Covers basic numerical methods for differentiation, integration, and matrix operations used in linear algebra problems, discrete Fourier transforms, and standard and stochastic ordinary and partial differential equations. Specific applications of these methods may include classical chaos, computation of eigenstates of simple quantum systems, classical phase transitions, boundary value problems, pattern formation, and molecular dynamics and classical/quantum Monte Carlo methods to simulate the equilibrium and nonequilibrium properties of condensed phases.",
     "coreqs": [],
@@ -2085,7 +2306,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15002" },
-      { "term": "202310", "crn": "16129" }
+      { "term": "202310", "crn": "16129" },
+      { "term": "202510", "crn": "14285" }
     ],
     "description": "Covers selected topics in nonequilibrium statistical mechanics and nonlinear physics to be selected by the instructor, with emphasis on classical theories of solids, fluids, and other more complex phases of matter. Topics may include Brownian motion, including Langevin and Fokker-Planck equations; linear response theory and transport phenomena; nonequilibrium phase transitions, including nucleation and phase-ordering kinetics; elasticity theory and fluid mechanics; and nonlinear dynamics and pattern formation.",
     "coreqs": [],
@@ -2100,7 +2322,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10659" },
-      { "term": "202310", "crn": "10721" }
+      { "term": "202310", "crn": "10721" },
+      { "term": "202510", "crn": "10610" }
     ],
     "description": "Presents a survey of the present state of elementary particle physics, suitable for all graduate students. Topics include overview of strong interactions and their connection to nuclear physics; nonrelativistic quark structure of strongly interacting particles (hadrons); color and the SU(3) Yang-Mills theory of strong interactions; coupling constant renormalization and asymptotic freedom; and the parton model of scattering. Covers weak interactions including phenomenology of the Fermi V-A theory; universality; and neutrino scattering. Studies the Glashow-Weinberg-Salam theory including unification of weak and electromagnetic interaction, neutral currents, the Higgs mechanism, quark masses and mixing, neutrino masses, and neutrino oscillation. Offers experimental support for the standard model. Also examines supersymmetry including the hierarchy problem and broken supersymmetry; role of supersymmetry in cosmology.",
     "coreqs": [],
@@ -2115,7 +2338,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10594" },
-      { "term": "202310", "crn": "10645" }
+      { "term": "202310", "crn": "10645" },
+      { "term": "202510", "crn": "10554" }
     ],
     "description": "Explores condensed matter physics. Topics include Drude and Sommerfield models of electrons in metals, crystal structure, one-electron states in crystal lattices, Bloch's theorem, semiclassical theory of conduction, semiconductors and semiconducting devices, effects of electron-electron interactions, lattice vibrations and the classical and quantum theories of specific heat, optical properties of solids, investigation of crystal structure and excited states of crystals by x-ray and neutron scattering, simple transport theory based on the Boltzmann equation, and magnetic properties of solids.",
     "coreqs": [],
@@ -2130,11 +2354,28 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "15003" },
-      { "term": "202310", "crn": "16130" }
+      { "term": "202310", "crn": "16130" },
+      { "term": "202510", "crn": "14286" }
     ],
     "description": "Introduces the principles of quantum field theory. Topics include canonical quantization of scalar and spinor fields, functional integral methods, perturbation theory, regularization and renormalization, and symmetry breaking. Emphasizes applications to particle physics and condensed matter phenomena.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "PHYS",
+    "number": "7332",
+    "title": "Network Science Data 2",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "22348" }],
+    "description": "This course will meet at 177 Huntington Ave, 10th floor Conference Room (1005)",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "PHYS", "number": "5116" },
+      "And",
+      { "subject": "PHYS", "number": "7331" }
+    ]
   },
   {
     "subject": "PHYS",
@@ -2164,7 +2405,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "10722" },
-      { "term": "202310", "crn": "10805" }
+      { "term": "202310", "crn": "10805" },
+      { "term": "202510", "crn": "10672" }
     ],
     "description": "Introduces the major classes of biological macromolecules and the physics underlying their structure, interaction, and biological function. Emphasis is on physical techniques for characterizing the structure and dynamics of proteins. Students are required to present a written and oral report on a focused research topic in molecular biophysics, based on a critical review of current scientific literature. Topics may include introduction to biomolecular structure, aqueous solution physics and hydrophobic interactions, chemical thermodynamics and reaction dynamics, spectroscopic techniques, molecular force measurements, and protein dynamics.",
     "coreqs": [],
@@ -2198,7 +2440,7 @@
     ],
     "description": "Covers selected advanced topics in the theory of solids to be chosen each time by the interested students and instructor. Topics may include theory of normal metals, Hartree-Fock and random phase approximations, optical and transport properties, solid-state plasmas, Raman spectroscopy, quasiparticles and collective excitations, quantum solids, and amorphous solids. May be repeated without limit.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "PHYS", "number": "7324" }]
   },
   {
     "subject": "PHYS",
@@ -2223,7 +2465,11 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "22254" }],
+    "sections": [
+      { "term": "202410", "crn": "22254" },
+      { "term": "202510", "crn": "19635" },
+      { "term": "202510", "crn": "22783" }
+    ],
     "description": "Offers independent work under the direction of a member of the department on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []
@@ -2289,7 +2535,18 @@
       { "term": "202330", "crn": "40505" },
       { "term": "202310", "crn": "21368" },
       { "term": "202310", "crn": "18305" },
-      { "term": "202310", "crn": "21431" }
+      { "term": "202310", "crn": "21431" },
+      { "term": "202510", "crn": "21864" },
+      { "term": "202510", "crn": "19096" },
+      { "term": "202510", "crn": "16687" },
+      { "term": "202510", "crn": "19670" },
+      { "term": "202510", "crn": "22511" },
+      { "term": "202510", "crn": "22790" },
+      { "term": "202510", "crn": "22823" },
+      { "term": "202510", "crn": "22824" },
+      { "term": "202510", "crn": "22870" },
+      { "term": "202510", "crn": "23008" },
+      { "term": "202440", "crn": "42364" }
     ],
     "description": "Provides an opportunity for advanced students to work with an individual instructor on a topic related to current research. The instructor and student negotiate a written agreement as to what topic(s) are covered and what written or laboratory work forms the basis for the grade. Viewed as a lead-in to thesis research. May be repeated without limit.",
     "coreqs": [],
@@ -2343,7 +2600,6 @@
       { "term": "202340", "crn": "41533" },
       { "term": "202260", "crn": "60494" },
       { "term": "202260", "crn": "61140" },
-      { "term": "202260", "crn": "61605" },
       { "term": "202260", "crn": "61621" },
       { "term": "202260", "crn": "60661" },
       { "term": "202260", "crn": "61622" },
@@ -2358,7 +2614,16 @@
       { "term": "202240", "crn": "41897" },
       { "term": "202240", "crn": "41898" },
       { "term": "202240", "crn": "41899" },
-      { "term": "202240", "crn": "41900" }
+      { "term": "202240", "crn": "41900" },
+      { "term": "202460", "crn": "61993" },
+      { "term": "202440", "crn": "42120" },
+      { "term": "202440", "crn": "42288" },
+      { "term": "202440", "crn": "42289" },
+      { "term": "202440", "crn": "42290" },
+      { "term": "202440", "crn": "42291" },
+      { "term": "202440", "crn": "42292" },
+      { "term": "202440", "crn": "42293" },
+      { "term": "202440", "crn": "42294" }
     ],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -2384,7 +2649,9 @@
       { "term": "202350", "crn": "53203" },
       { "term": "202350", "crn": "52161" },
       { "term": "202330", "crn": "40112" },
-      { "term": "202310", "crn": "21541" }
+      { "term": "202310", "crn": "21541" },
+      { "term": "202510", "crn": "21758" },
+      { "term": "202510", "crn": "22926" }
     ],
     "description": "Offers experimental and theoretical work for PhD candidates. Requires written thesis and final oral exam.",
     "coreqs": [],
@@ -2419,7 +2686,28 @@
       { "term": "202310", "crn": "17021" },
       { "term": "202310", "crn": "21415" },
       { "term": "202310", "crn": "21421" },
-      { "term": "202310", "crn": "15162" }
+      { "term": "202310", "crn": "15162" },
+      { "term": "202510", "crn": "18222" },
+      { "term": "202510", "crn": "18223" },
+      { "term": "202510", "crn": "18224" },
+      { "term": "202510", "crn": "21683" },
+      { "term": "202510", "crn": "21690" },
+      { "term": "202510", "crn": "18225" },
+      { "term": "202510", "crn": "21691" },
+      { "term": "202510", "crn": "21692" },
+      { "term": "202510", "crn": "21693" },
+      { "term": "202510", "crn": "21694" },
+      { "term": "202510", "crn": "21695" },
+      { "term": "202510", "crn": "18226" },
+      { "term": "202510", "crn": "18227" },
+      { "term": "202510", "crn": "18228" },
+      { "term": "202510", "crn": "21696" },
+      { "term": "202510", "crn": "18229" },
+      { "term": "202510", "crn": "18230" },
+      { "term": "202510", "crn": "21697" },
+      { "term": "202510", "crn": "18330" },
+      { "term": "202510", "crn": "21698" },
+      { "term": "202510", "crn": "21699" }
     ],
     "description": "Offers dissertation supervision by members of the department.",
     "coreqs": [],
@@ -2520,7 +2808,6 @@
       { "term": "202330", "crn": "31490" },
       { "term": "202330", "crn": "39623" },
       { "term": "202330", "crn": "31111" },
-      { "term": "202330", "crn": "32000" },
       { "term": "202330", "crn": "39717" },
       { "term": "202330", "crn": "39742" },
       { "term": "202330", "crn": "31750" },
@@ -2556,7 +2843,38 @@
       { "term": "202310", "crn": "17064" },
       { "term": "202310", "crn": "13073" },
       { "term": "202310", "crn": "13074" },
-      { "term": "202310", "crn": "13075" }
+      { "term": "202310", "crn": "13075" },
+      { "term": "202510", "crn": "12839" },
+      { "term": "202510", "crn": "19287" },
+      { "term": "202510", "crn": "12480" },
+      { "term": "202510", "crn": "12422" },
+      { "term": "202510", "crn": "12847" },
+      { "term": "202510", "crn": "12423" },
+      { "term": "202510", "crn": "14642" },
+      { "term": "202510", "crn": "16060" },
+      { "term": "202510", "crn": "21700" },
+      { "term": "202510", "crn": "13410" },
+      { "term": "202510", "crn": "12425" },
+      { "term": "202510", "crn": "12846" },
+      { "term": "202510", "crn": "13850" },
+      { "term": "202510", "crn": "21729" },
+      { "term": "202510", "crn": "16615" },
+      { "term": "202510", "crn": "12958" },
+      { "term": "202510", "crn": "12427" },
+      { "term": "202510", "crn": "16679" },
+      { "term": "202510", "crn": "12428" },
+      { "term": "202510", "crn": "14645" },
+      { "term": "202510", "crn": "18285" },
+      { "term": "202510", "crn": "14667" },
+      { "term": "202510", "crn": "12429" },
+      { "term": "202510", "crn": "18327" },
+      { "term": "202510", "crn": "19355" },
+      { "term": "202510", "crn": "21769" },
+      { "term": "202510", "crn": "21821" },
+      { "term": "202510", "crn": "12430" },
+      { "term": "202510", "crn": "12431" },
+      { "term": "202510", "crn": "21755" },
+      { "term": "202430", "crn": "31032" }
     ],
     "description": "Offers experimental and theoretical work for PhD candidates. Requires written thesis and final oral exam.",
     "coreqs": [],

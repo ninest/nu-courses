@@ -32,7 +32,11 @@
       { "term": "202310", "crn": "18909" },
       { "term": "202310", "crn": "20415" },
       { "term": "202260", "crn": "60243" },
-      { "term": "202240", "crn": "41538" }
+      { "term": "202240", "crn": "41538" },
+      { "term": "202510", "crn": "15333" },
+      { "term": "202510", "crn": "15335" },
+      { "term": "202510", "crn": "15334" },
+      { "term": "202510", "crn": "20785" }
     ],
     "description": "Explores linguistics, the scientific study of language. Major topics include phonetics (production of speech sounds), phonology (sound systems in languages), morphology (structure of words), syntax (grammatical relationships between words and sentences), and semantics (meaning of words and sentences). Other topics may be surveyed such as the relationship between language and culture, language use within speech communities, languages in contact, the study of language change, language and brain, animal communication, and first language acquisition.",
     "coreqs": [],
@@ -64,11 +68,16 @@
       { "term": "202430", "crn": "30850" },
       { "term": "202410", "crn": "16572" },
       { "term": "202330", "crn": "30903" },
-      { "term": "202310", "crn": "18911" }
+      { "term": "202310", "crn": "18911" },
+      { "term": "202510", "crn": "15336" }
     ],
     "description": "Builds on the foundations of linguistic analysis developed in LING 1150. Offers students an opportunity to obtain a foundational basis for future study by focusing on four core areas of linguistics: phonetics, phonology, morphology, and syntax. Students hone their analytic abilities as they work with increasingly complex datasets. Adopting a descriptive, nontheoretical approach, students conduct linguistic research through a semester-long analysis of a world language.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "LING", "number": "1449" },
+      "Or",
+      { "subject": "LING", "number": "1150" }
+    ]
   },
   {
     "subject": "LING",
@@ -80,7 +89,11 @@
     "sections": [{ "term": "202430", "crn": "39560" }],
     "description": "Introduces approaches to the analysis of interpersonal and institutional discourse and offers multiple opportunities to carry out small-scale analyses of talk-in-interaction. Major topics include conversational involvement and inference, conversation analysis, intertextuality, linguistic politeness, conversational style, framing, positioning, identity construction, epistemics, and conversations within institutional contexts.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "LING", "number": "1150" },
+      "Or",
+      { "subject": "LING", "number": "1449" }
+    ]
   },
   {
     "subject": "LING",
@@ -93,7 +106,8 @@
       { "term": "202440", "crn": "41172" },
       { "term": "202430", "crn": "39561" },
       { "term": "202340", "crn": "41678" },
-      { "term": "202310", "crn": "18912" }
+      { "term": "202310", "crn": "18912" },
+      { "term": "202510", "crn": "20786" }
     ],
     "description": "Explores the complex, often inexplicit relationship between language and culture, using a variety of methods drawn from the fields of anthropological linguistics and sociolinguistics. Questions may include: How do language and thought interact? How is language used to create and maintain social institutions and individual personae? How is language used differently by and across gender, ethnicity, and social class?",
     "coreqs": [],
@@ -124,7 +138,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["AD"],
-    "sections": [{ "term": "202330", "crn": "38654" }],
+    "sections": [
+      { "term": "202330", "crn": "38654" },
+      { "term": "202510", "crn": "20787" }
+    ],
     "description": "Surveys phonetics, the study of speech sounds, including articulatory, acoustic, and auditory phonetics. Articulatory phonetics topics include anatomy and physiology; cross-linguistic consonant and vowel articulation; aerodynamics of speech production; coarticulation phenomena; and phonetics of supersegmentals such as syllables, stress, tone, and pitch accent. Acoustic phonetics topics include the physics of sound waves, reading spectrograms, and performing acoustic analyses. Auditory phonetics topics include audition and speech perception.",
     "coreqs": [],
     "prereqs": [{ "subject": "LING", "number": "2350" }]
@@ -166,7 +183,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202330", "crn": "38655" }],
+    "sections": [
+      { "term": "202330", "crn": "38655" },
+      { "term": "202510", "crn": "21543" }
+    ],
     "description": "Examines the milestones and developmental patterns of typical first language acquisition across the linguistic system. Details the patterns and expected norms for the acquisition and development of speech perception and production, semantics, morphosyntax, pragmatics, and the lexicon. Considers biological, environmental, linguistic, and other factors that contribute to the processes of language acquisition, as well as major theories in the field. Students gain hands-on experience transcribing, analyzing, and evaluating child language data throughout the semester.",
     "coreqs": [],
     "prereqs": [
@@ -182,7 +202,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["DD", "SI", "WI"],
-    "sections": [{ "term": "202330", "crn": "38656" }],
+    "sections": [
+      { "term": "202330", "crn": "38656" },
+      { "term": "202510", "crn": "20789" }
+    ],
     "description": "Focuses on why people choose to say things in different ways in different situations. Examines language behavior in its social context and outlines the linguistic constructs that allow conversation to occur, the types of variation that can occur in registers and dialects, and the possible reasons for choosing different linguistic varieties. Also explores linguistic variation in relation to social context, gender, socioeconomic class, race, and ethnicity.",
     "coreqs": [],
     "prereqs": [
@@ -215,11 +238,12 @@
     "sections": [
       { "term": "202410", "crn": "16576" },
       { "term": "202330", "crn": "33150" },
-      { "term": "202310", "crn": "18915" }
+      { "term": "202310", "crn": "18915" },
+      { "term": "202510", "crn": "15337" }
     ],
     "description": "Introduces syntax, the theory of sentence structure. Explores how to do syntactic analysis using linguistic evidence and argumentation. Focuses primarily on English, with some discussion on the syntax of other languages. Other topics include syntactic universals and the relation between syntax and semantics.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "LING", "number": "2350" }]
   },
   {
     "subject": "LING",
@@ -262,22 +286,22 @@
     "sections": [{ "term": "202410", "crn": "19997" }],
     "description": "Investigates the relationship between language and gender. Topics include how men and women talk; the significant differences and similarities in how they talk, why men and women talk in these ways, and social biases in the structure of language itself.",
     "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "LING",
-    "number": "3458",
-    "title": "Topics in Linguistics",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [],
-    "description": "Focuses on one of a range of topics from the perspective of current linguistics, such as American dialectics, contemporary syntactic theory, language and law, women's and men's language, words and word structures, or issues in linguistics and literature. May be repeated without limit.",
-    "coreqs": [],
     "prereqs": [
+      "(",
       { "subject": "LING", "number": "1449" },
       "Or",
-      { "subject": "LING", "number": "1150" }
+      { "subject": "LING", "number": "1150" },
+      ")",
+      "And",
+      "(",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" },
+      ")"
     ]
   },
   {
@@ -290,7 +314,7 @@
     "sections": [{ "term": "202410", "crn": "19999" }],
     "description": "Introduces diachronic linguistics, the study of language change over time. Surveys common changes in the areas of sound systems, word and sentence structure, and semantic meaning. Introduces methodologies to access earlier stages of language, including the comparative method and internal reconstruction. Other topics include linguistic borrowing, analogical change, linguistic paleontology, and areal diffusion.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "LING", "number": "2350" }]
   },
   {
     "subject": "LING",
@@ -313,7 +337,8 @@
     "nuPath": ["CE", "WI"],
     "sections": [
       { "term": "202430", "crn": "34114" },
-      { "term": "202330", "crn": "34792" }
+      { "term": "202330", "crn": "34792" },
+      { "term": "202510", "crn": "20790" }
     ],
     "description": "Explores a topic in current linguistics research. Requires prior completion of either two 3000-level LING courses or one 3000-level LING course and permission of instructor. May be repeated without limit.",
     "coreqs": [],

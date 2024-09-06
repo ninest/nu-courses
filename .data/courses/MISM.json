@@ -5,7 +5,7 @@
     "title": "Management Information Systems",
     "scheduleType": "Lecture",
     "credits": 4,
-    "nuPath": [],
+    "nuPath": ["AD", "ER"],
     "sections": [
       { "term": "202460", "crn": "60020" },
       { "term": "202460", "crn": "60019" },
@@ -79,8 +79,22 @@
       { "term": "202260", "crn": "60026" },
       { "term": "202260", "crn": "60025" },
       { "term": "202240", "crn": "40022" },
-      { "term": "202240", "crn": "40021" },
-      { "term": "202240", "crn": "40256" }
+      { "term": "202240", "crn": "40256" },
+      { "term": "202510", "crn": "10726" },
+      { "term": "202510", "crn": "10281" },
+      { "term": "202510", "crn": "10282" },
+      { "term": "202510", "crn": "10283" },
+      { "term": "202510", "crn": "12354" },
+      { "term": "202510", "crn": "10284" },
+      { "term": "202510", "crn": "10285" },
+      { "term": "202510", "crn": "10286" },
+      { "term": "202510", "crn": "10919" },
+      { "term": "202510", "crn": "11188" },
+      { "term": "202510", "crn": "11586" },
+      { "term": "202510", "crn": "11749" },
+      { "term": "202510", "crn": "21414" },
+      { "term": "202510", "crn": "22208" },
+      { "term": "202510", "crn": "20297" }
     ],
     "description": "Explores how a wide range of enterprises around the world use information and information technology to create better-managed, more innovative, and successful organizations. The twenty-first-century enterprise runs on information, and every part of the business has been transformed by the use of information technology. Today’s business leaders, therefore, must have ready access to timely, accurate, and relevant information to manage effectively in the global economy.",
     "coreqs": [],
@@ -105,7 +119,10 @@
       { "term": "202330", "crn": "38148" },
       { "term": "202310", "crn": "12808" },
       { "term": "202310", "crn": "16609" },
-      { "term": "202310", "crn": "19783" }
+      { "term": "202310", "crn": "19783" },
+      { "term": "202510", "crn": "12228" },
+      { "term": "202510", "crn": "14509" },
+      { "term": "202510", "crn": "15741" }
     ],
     "description": "Focuses on information analytics concepts and techniques needed by educated information analysts, designers, and consumers to lead organizations in the contemporary information age. Includes concepts, techniques, methods, and strategies for the entire information life cycle—collection, organization, exploration, analysis, manipulation, visualization, interpretation, and presentation of information for business. Each of these topics is introduced with real-world examples and data sets, grounded in relevant theory and principles, and is reinforced using various user-friendly software tools to gain the necessary analytical skills and knowledge.",
     "coreqs": [],
@@ -122,7 +139,8 @@
       { "term": "202430", "crn": "30354" },
       { "term": "202410", "crn": "10520" },
       { "term": "202330", "crn": "30366" },
-      { "term": "202310", "crn": "10558" }
+      { "term": "202310", "crn": "10558" },
+      { "term": "202510", "crn": "10494" }
     ],
     "description": "Offers students an introduction to and overview of the methodological frameworks and tool sets for the design, development, and implementation of data-management solutions. Today, almost no aspect of business operates without a strong reliance on the flow of information. Even small enterprises track huge volumes of data, from sales transactions and supply chain activities to Web site traffic. Knowledge workers and managers at all levels within the organization require an understanding of data management, database design and operations, and associated decision-support and data-analysis tools and systems to complete even day-to-day tasks. Offers students an opportunity to work hands-on, applying these methods and tools to solve actual business problems.",
     "coreqs": [],
@@ -158,7 +176,8 @@
       { "term": "202410", "crn": "13708" },
       { "term": "202330", "crn": "32857" },
       { "term": "202330", "crn": "35620" },
-      { "term": "202310", "crn": "14228" }
+      { "term": "202310", "crn": "14228" },
+      { "term": "202510", "crn": "13274" }
     ],
     "description": "Introduces the use of design, interaction, and visualization techniques and strategies to support the effective presentation and manipulation of business information. Based on principles from art, design, psychology, and information science, offers students opportunities to learn how to successfully choose appropriate methods of representing various kinds of business data to support analysis, decision making, and communication to organizational stakeholders.",
     "coreqs": [],
@@ -174,7 +193,8 @@
     "sections": [
       { "term": "202410", "crn": "12576" },
       { "term": "202310", "crn": "12894" },
-      { "term": "202240", "crn": "41105" }
+      { "term": "202240", "crn": "41105" },
+      { "term": "202510", "crn": "12294" }
     ],
     "description": "Covers key concepts, techniques, methods, and applications of data mining in the context of business. Offers students opportunities to learn how to distill key insights from a large amount of unknown data, which techniques to choose from, how to apply the techniques and methods to get the answer and insights from the data, and how to interpret the results from the analysis. Example predictive analysis techniques include market basket analysis and principle component analysis. Covers all techniques using business examples and user-friendly tools.",
     "coreqs": [],
@@ -204,7 +224,23 @@
     ],
     "description": "Focuses on modern decision models in business analytics with applications to business process design, revenue management, pricing, inventory control, business network planning, and other topics. Introduces concepts including optimization, dynamic programming, cluster analysis, and consumer choice models. Emphasizes data-driven, real-world applications of the mathematical decision tools and concepts presented in the course.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "COMM", "number": "2301" },
+      "Or",
+      { "subject": "ECON", "number": "2350" },
+      "Or",
+      { "subject": "MATH", "number": "2280" },
+      "Or",
+      { "subject": "MATH", "number": "3081" },
+      "Or",
+      { "subject": "MGSC", "number": "2301" },
+      "Or",
+      { "subject": "PHTH", "number": "2210" },
+      "Or",
+      { "subject": "POLS", "number": "2400" },
+      "Or",
+      { "subject": "PSYC", "number": "2320" }
+    ]
   },
   {
     "subject": "MISM",
@@ -246,7 +282,11 @@
       { "term": "202310", "crn": "15610" },
       { "term": "202310", "crn": "15611" },
       { "term": "202310", "crn": "18375" },
-      { "term": "202310", "crn": "19306" }
+      { "term": "202310", "crn": "19306" },
+      { "term": "202510", "crn": "12637" },
+      { "term": "202510", "crn": "14088" },
+      { "term": "202510", "crn": "15106" },
+      { "term": "202510", "crn": "15518" }
     ],
     "description": "Provides a comprehensive approach to understanding how business analytics enable companies to become more competitive. Offers students an opportunity to learn how to apply value chain analysis and other strategic perspectives to determine how business analytics can be integrated effectively into a firm's operations. Interactive activities such as simulations and case studies allow students to explore how insights from data can improve business decisions. Examines real-world examples of how companies have used business analytics perspectives and tools to enhance different types of business processes, such as inventory prediction, customer service quality, and resolution of ethical dilemmas.",
     "coreqs": [],
@@ -267,7 +307,11 @@
       { "term": "202410", "crn": "21642" },
       { "term": "202340", "crn": "41743" },
       { "term": "202310", "crn": "19880" },
-      { "term": "202310", "crn": "21585" }
+      { "term": "202310", "crn": "21585" },
+      { "term": "202510", "crn": "15803" },
+      { "term": "202510", "crn": "16780" },
+      { "term": "202510", "crn": "19038" },
+      { "term": "202510", "crn": "20298" }
     ],
     "description": "Introduces the methodological frameworks and tool sets for the design, development, and implementation of data management solutions for business. Offers students an opportunity to work hands-on, applying these methods and tools to solve actual business problems. Almost no aspect of business operates without a strong reliance on the flow of data. Even small enterprises track huge volumes of data, from sales transactions and supply chain activities to website traffic. Knowledge workers and managers at all levels within the organization require an understanding of data management, database design and operations, and associated decision-support and data analysis tools and systems to complete even day-to-day tasks.",
     "coreqs": [],
@@ -292,7 +336,11 @@
       { "term": "202310", "crn": "15612" },
       { "term": "202310", "crn": "15613" },
       { "term": "202310", "crn": "18377" },
-      { "term": "202310", "crn": "19307" }
+      { "term": "202310", "crn": "19307" },
+      { "term": "202510", "crn": "12638" },
+      { "term": "202510", "crn": "14089" },
+      { "term": "202510", "crn": "14090" },
+      { "term": "202510", "crn": "15107" }
     ],
     "description": "Covers basic principles and techniques of descriptive and predictive analytics. What are the essential data analysis concepts underlying business analytics? Topics include descriptive statistics, data visualization, probability and modeling uncertainty, sampling, estimation and confidence intervals, hypothesis testing, analysis of variance, simple and multiple regression analysis, time-series analysis, and forecasting. Emphasizes an understanding of how these tools can support decision making and analytics initiatives in a business context with real-world examples and case studies. Uses various software packages for analyzing data sets and creating visualizations.",
     "coreqs": [],
@@ -315,7 +363,10 @@
       { "term": "202310", "crn": "19842" },
       { "term": "202310", "crn": "19843" },
       { "term": "202310", "crn": "19844" },
-      { "term": "202310", "crn": "19845" }
+      { "term": "202310", "crn": "19845" },
+      { "term": "202510", "crn": "15773" },
+      { "term": "202510", "crn": "15774" },
+      { "term": "202510", "crn": "15776" }
     ],
     "description": "Covers data wrangling principles and techniques for business. Key topics include data extraction, profiling, cleansing, integration, aggregation, transformation, and automating data processes for business purposes. Applies principles and techniques using data transformation tools, programming languages, and data process automation tools. Emphasizes embedding appropriate communication mechanisms for collaboration for identifying, solving, and resolving challenges revealed in datasets and business processes. Offers students an opportunity to learn data wrangling techniques to identify, solve, and resolve real-world data challenges, creating business value in today’s disparate computing and dynamic business environment.",
     "coreqs": [],
@@ -332,7 +383,8 @@
       { "term": "202430", "crn": "36183" },
       { "term": "202430", "crn": "39340" },
       { "term": "202430", "crn": "41526" },
-      { "term": "202330", "crn": "38150" }
+      { "term": "202330", "crn": "38150" },
+      { "term": "202510", "crn": "20299" }
     ],
     "description": "Focuses on modern decision models in business analytics, with applications to business process design, revenue management, pricing, inventory control, business network planning, and other topics. Includes optimization, simulation, and selected data mining techniques. Emphasizes data-driven, real-world applications of mathematical decision tools and concepts.",
     "coreqs": [],
@@ -362,7 +414,9 @@
       { "term": "202330", "crn": "38151" },
       { "term": "202310", "crn": "14586" },
       { "term": "202240", "crn": "40490" },
-      { "term": "202240", "crn": "41894" }
+      { "term": "202240", "crn": "41894" },
+      { "term": "202510", "crn": "13496" },
+      { "term": "202510", "crn": "22491" }
     ],
     "description": "Introduces design principles for creating meaningful displays of information to support effective business decision making. Studies how to collect and process data; create interactive visualizations; and use them to demonstrate or provide insight into a problem, situation, or phenomenon. Introduces methods to critique visualizations along with ways to identify design principles that make good visualizations effective. Discusses the challenges of making data understandable across a wide range of audiences. Provides an overview of data visualization, key design principles and techniques for visualizing data, and the fundamentals of communication that are required for effective data presentation. Other topics may include ethical uses of information displays, storytelling, infographics, immersive visualizations, and information dashboard design. Offers students an opportunity to use one or more software tools.",
     "coreqs": [],
@@ -392,7 +446,8 @@
       { "term": "202330", "crn": "37753" },
       { "term": "202310", "crn": "13691" },
       { "term": "202240", "crn": "41095" },
-      { "term": "202240", "crn": "41477" }
+      { "term": "202240", "crn": "41477" },
+      { "term": "202510", "crn": "12871" }
     ],
     "description": "Examines data mining perspectives and methods in a business context. Introduces the theoretical foundations for major data mining methods and studies how to select and use the appropriate data mining method and the major advantages for each. Students use contemporary data mining software applications and practice basic programming skills. Focuses on solving real-world problems, which require data cleaning, data transformation, and data modeling.",
     "coreqs": [],
@@ -420,7 +475,11 @@
     ],
     "description": "Covers the leading data practices from early adopters, focusing on innovative information design, data quality, data sharing, and data integration perspectives and methods for managing data and business analytics. Explores how data analytics and management can be strategically implemented to transform a company. Discusses theories and contemporary industry practice, and real-world data and cases are used for discussion and projects. Offers students an opportunity to prepare for problem identification and solution perspectives of data-related projects, gearing up for MISM 6214.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "MISM", "number": "6201" },
+      "Or",
+      { "subject": "MISM", "number": "6205" }
+    ]
   },
   {
     "subject": "MISM",
@@ -440,9 +499,24 @@
       { "term": "202310", "crn": "18259" },
       { "term": "202310", "crn": "18260" },
       { "term": "202310", "crn": "20013" },
-      { "term": "202240", "crn": "41547" }
+      { "term": "202240", "crn": "41547" },
+      { "term": "202510", "crn": "15071" },
+      { "term": "202510", "crn": "15072" },
+      { "term": "202510", "crn": "15872" }
     ],
     "description": "Offers students an opportunity to engage in a real-world project that engages all concepts and methods covered over the course of the business analytics program. Students apply the business analytics knowledge they have gained to collect, visualize, analyze, and manage data from a real company (or companies). Based on their results, students present a proposal for strategic actions to be taken by the company with a viable scope. The project is reviewed by peers, faculty, and external judges from industry.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "MISM",
+    "number": "6250",
+    "title": "Strategic AI for Business",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "22264" }],
+    "description": "Explores how artificial intelligence integrates with business strategy and empowers businesses to enhance competitiveness. Focuses on leveraging machine learning techniques like unsupervised, supervised, and reinforcement learning for data-driven insights. Analyzes the intersection of managerial practices and AI capabilities through real-world case studies. Offers students an opportunity to gain practical insights into implementation and ethical considerations, recommend business solutions through the integration of AI capabilities, and navigate the dynamic landscape of AI-driven business transformations.",
     "coreqs": [],
     "prereqs": []
   }

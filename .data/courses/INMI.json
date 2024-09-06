@@ -1,6 +1,18 @@
 [
   {
     "subject": "INMI",
+    "number": "1877",
+    "title": "Race, Policy, and Storytelling",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["DD", "SI"],
+    "sections": [{ "term": "202510", "crn": "20860" }],
+    "description": "Explores the interrelated topics on race, policy, and storytelling. Investigates how narratives inform policymaking, racial implications within social problem conditions, and connections to public policy outcomes. Examines the role of storytelling for analyzing and presenting these topics. Offers students an opportunity to explore and generate diverse and creative policy solutions through their deep reflection and analysis of race relations and conditions, policymaking, and storytelling practices.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "INMI",
     "number": "2183",
     "title": "Spice and Culture",
     "scheduleType": "Seminar",
@@ -10,7 +22,11 @@
       { "term": "202430", "crn": "41641" },
       { "term": "202430", "crn": "41643" },
       { "term": "202430", "crn": "41644" },
-      { "term": "202430", "crn": "41645" }
+      { "term": "202430", "crn": "41645" },
+      { "term": "202510", "crn": "22175" },
+      { "term": "202510", "crn": "22176" },
+      { "term": "202510", "crn": "22177" },
+      { "term": "202510", "crn": "22178" }
     ],
     "description": "\"This course overviews a number of paradoxical physical events and assesses their scientific viability and limitations according to current empirical investigations. We will analyze the societal, moral, and religious implications of their use in a number of popular culture venues such as film, novels, and comics.Students will analyze scientific paradoxes such as time-travel, living in computer simulations, the puzzle of the compatibility between free-will and physical determinism, the conundrums of artificial\nintelligence (AI), and the possibility and causes of human extinction (the Doomsday argument). The course centers on both the scientific explanation of these events and the deep impact that popular and theoretical approaches had, have, and will continuously have on our current notions of rationality.\"",
     "coreqs": [],
@@ -25,7 +41,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [
       { "term": "202430", "crn": "40671" },
-      { "term": "202430", "crn": "40888" }
+      { "term": "202430", "crn": "40888" },
+      { "term": "202510", "crn": "20861" }
     ],
     "description": "Examines the key sectors of California’s economy and discusses their positionality within the global landscape. Presents conceptual foundations and frameworks drawing on strategic management, disruptive innovation, and political economy literatures. Provides students with in-depth sectoral knowledge and exposure to innovation diffusion trends relevant to California’s economy and the world. Offers students an opportunity to learn about business and industry clusters specific to California and to develop an understanding of how California fits into and affects the world economy. Emphasizes the interactions of workforce diversity, radical innovation, and human resource management. Also discusses concepts relating to global talent flows, platform economies, network economies, and go-to-market strategies.",
     "coreqs": [],
@@ -34,5 +51,20 @@
       "Or",
       { "subject": "ECON", "number": "1116" }
     ]
+  },
+  {
+    "subject": "INMI",
+    "number": "2700",
+    "title": "Transformative Justice Through Computing Technology",
+    "scheduleType": "Seminar",
+    "credits": 4,
+    "nuPath": ["DD"],
+    "sections": [
+      { "term": "202510", "crn": "21423" },
+      { "term": "202510", "crn": "21812" }
+    ],
+    "description": "Explores social impact through the intersection of transformative justice and computer science. Examines how technology can be leveraged to confront issues related to justice, community empowerment, and social transformation. Actively engages students in applying transformative justice approaches to addressing institutionalized disparities suffered by previously incarcerated women and nonbinary individuals of color. Provides hands-on support through development and deployment of technology-based solutions such as extended reality to aid these individuals in successfully acclimating to life outside of prison and gaining equitable access to technology learning.",
+    "coreqs": [],
+    "prereqs": []
   }
 ]

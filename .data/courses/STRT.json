@@ -107,22 +107,20 @@
       { "term": "202240", "crn": "40023" },
       { "term": "202240", "crn": "40011" },
       { "term": "202240", "crn": "40584" },
-      { "term": "202240", "crn": "40272" },
-      { "term": "202240", "crn": "40287" }
+      { "term": "202240", "crn": "40287" },
+      { "term": "202510", "crn": "10733" },
+      { "term": "202510", "crn": "10734" },
+      { "term": "202510", "crn": "10735" },
+      { "term": "202510", "crn": "10736" },
+      { "term": "202510", "crn": "11442" },
+      { "term": "202510", "crn": "11707" },
+      { "term": "202510", "crn": "11850" },
+      { "term": "202510", "crn": "11912" },
+      { "term": "202510", "crn": "14747" },
+      { "term": "202510", "crn": "15966" },
+      { "term": "202510", "crn": "22802" }
     ],
     "description": "Provides for the integration and application of administrative theory, knowledge, skills, and experiences for effective strategic performance in an organization. Offers students an opportunity to acquire a better understanding of the relevance and limitations of business and management concepts and techniques when making and implementing strategic decisions.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "STRT",
-    "number": "4509",
-    "title": "Strategic Management",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": [],
-    "sections": [],
-    "description": "Presents a general management perspective on business strategy, the \"big picture.\" Illustrates how a well-thought-out strategy can lead to sustained, superior performance by firms in a dynamic business environment. Offers students an opportunity to obtain a broad understanding of the importance and complexity of strategic decisions from a practical and problem-oriented approach. Applies concepts, analytic frameworks, and intuition to the strategic issues that real-world companies face.",
     "coreqs": [],
     "prereqs": []
   },
@@ -155,7 +153,9 @@
       { "term": "202310", "crn": "12302" },
       { "term": "202310", "crn": "12303" },
       { "term": "202310", "crn": "19706" },
-      { "term": "202310", "crn": "19707" }
+      { "term": "202310", "crn": "19707" },
+      { "term": "202510", "crn": "10912" },
+      { "term": "202510", "crn": "10913" }
     ],
     "description": "Focuses on strategy development and implementation for a line of business and for the corporation as a whole by adopting a top management perspective. Beginning with developing a mission statement and goals for the firm, focuses on environmental scanning, incorporating economic, technological, sociopolitical, and legal trends in conducting industry analysis, thus assessing opportunities and threats and the firm's capabilities before formulating strategy that represents a fit between the environment and the firm. Discusses how to develop competitive advantage and assess competitive positioning, and studies how organizational structure and systems contribute to implementing strategy. Stresses the role of leadership and motivation before moving on to feedback mechanisms to assess success in strategy implementation, leading to revision of strategic plans as needed.",
     "coreqs": [],
@@ -186,7 +186,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "31988" },
-      { "term": "202330", "crn": "32219" }
+      { "term": "202330", "crn": "32219" },
+      { "term": "202510", "crn": "20458" }
     ],
     "description": "Offers students an opportunity to understand general business strategy concepts as they relate to the healthcare industry. Explores how to analyze market opportunities and challenges as they apply to various healthcare organizations, such as hospitals, physician organizations, and nursing homes. Presents and discusses analytical frameworks for making strategic decisions, drawing on different disciplines, including economics, management, and psychology. Strategic issues include mergers and acquisitions, vertical integration, joint ventures and alliances, performance-control systems, and organizational design.",
     "coreqs": [],
@@ -199,7 +200,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20532" }],
+    "sections": [
+      { "term": "202410", "crn": "20532" },
+      { "term": "202510", "crn": "17972" }
+    ],
     "description": "Examines the role of multinational companies and their business leaders in addressing the sustainability challenges of our time as well as the nature of these challenges. Analyzes the changing role of corporations in society and their potential for multistakeholder collaborations to bring about positive societal change. Explores best management practices for addressing sustainability issues in a global context and how different national rules, norms, and beliefs shape multinational companies’ ability and willingness to take on the role of positive change agents in society.",
     "coreqs": [],
     "prereqs": []
@@ -221,7 +225,9 @@
       { "term": "202310", "crn": "13817" },
       { "term": "202310", "crn": "13814" },
       { "term": "202260", "crn": "60851" },
-      { "term": "202260", "crn": "61254" }
+      { "term": "202260", "crn": "61254" },
+      { "term": "202510", "crn": "12968" },
+      { "term": "202510", "crn": "12965" }
     ],
     "description": "Provides the fundamental concepts for understanding and managing strategy in a competitive context. Focuses on analysis, critical thinking, and making strategic decisions. Discusses the analytical tools to understand the industry and firm context. Explores the design and execution of strategies to compete successfully. Investigates the strategic changes involved as firms grow and expand into new businesses and geographic markets.",
     "coreqs": [],
@@ -238,7 +244,8 @@
       { "term": "202340", "crn": "42137" },
       { "term": "202260", "crn": "61471" },
       { "term": "202240", "crn": "41799" },
-      { "term": "202240", "crn": "41801" }
+      { "term": "202240", "crn": "41801" },
+      { "term": "202460", "crn": "61773" }
     ],
     "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated once.",
     "coreqs": [],

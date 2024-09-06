@@ -31,7 +31,12 @@
       { "term": "202310", "crn": "21226" },
       { "term": "202310", "crn": "21635" },
       { "term": "202310", "crn": "21470" },
-      { "term": "202310", "crn": "21637" }
+      { "term": "202310", "crn": "21637" },
+      { "term": "202510", "crn": "18971" },
+      { "term": "202510", "crn": "18972" },
+      { "term": "202510", "crn": "19623" },
+      { "term": "202510", "crn": "19735" },
+      { "term": "202510", "crn": "19736" }
     ],
     "description": "Provides students with an opportunity for work experience abroad. Requires sophomore standing or above. May be repeated up to five times.",
     "coreqs": [],
@@ -47,7 +52,9 @@
     "sections": [
       { "term": "202410", "crn": "12203" },
       { "term": "202410", "crn": "13399" },
-      { "term": "202310", "crn": "13873" }
+      { "term": "202310", "crn": "13873" },
+      { "term": "202510", "crn": "11969" },
+      { "term": "202510", "crn": "13002" }
     ],
     "description": "Provides students with an opportunity for work experience abroad. Requires sophomore standing or above. May be repeated up to five times.",
     "coreqs": [],

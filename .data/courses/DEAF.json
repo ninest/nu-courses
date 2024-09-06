@@ -10,7 +10,8 @@
       { "term": "202430", "crn": "33987" },
       { "term": "202410", "crn": "10311" },
       { "term": "202330", "crn": "34627" },
-      { "term": "202310", "crn": "10330" }
+      { "term": "202310", "crn": "10330" },
+      { "term": "202510", "crn": "10296" }
     ],
     "description": "Focuses on Deaf communities as linguistic and cultural minorities. Topics include perspectives on Deaf communities; attitudes toward Deaf people and sign languages, technology, and communication; the contributions of Deaf people to society; professional and social organizations of and for Deaf people; Deaf clubs as a locus of Deaf culture; communication issues; perspectives on legislation affecting the Deaf Community; legislative and political concerns of the Deaf Community; and the impact of educational options for Deaf children. Also covers the diverse intersectional identities comprising the American Deaf Community due to language use (multilingual), race, gender, class, and multicultural experiences. Discusses the impact of audism, racism, and many other -isms.",
     "coreqs": [],
@@ -25,7 +26,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "17343" },
-      { "term": "202310", "crn": "19743" }
+      { "term": "202310", "crn": "19743" },
+      { "term": "202510", "crn": "15714" }
     ],
     "description": "Designed for students with prior ASL learning",
     "coreqs": [],

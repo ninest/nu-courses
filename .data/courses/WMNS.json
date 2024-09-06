@@ -9,7 +9,9 @@
     "sections": [
       { "term": "202410", "crn": "17155" },
       { "term": "202410", "crn": "21275" },
-      { "term": "202310", "crn": "19522" }
+      { "term": "202310", "crn": "19522" },
+      { "term": "202510", "crn": "21425" },
+      { "term": "202510", "crn": "21436" }
     ],
     "description": "This course is cross-listed with SOCL 1102.",
     "coreqs": [],
@@ -29,7 +31,9 @@
       { "term": "202340", "crn": "40845" },
       { "term": "202330", "crn": "32244" },
       { "term": "202310", "crn": "11938" },
-      { "term": "202240", "crn": "41017" }
+      { "term": "202240", "crn": "41017" },
+      { "term": "202510", "crn": "11573" },
+      { "term": "202440", "crn": "42141" }
     ],
     "description": "Offers an interdisciplinary course introducing key themes in gender and sexuality studies. Offers students an opportunity to learn core concepts that inform our understanding of how gender and sexuality are socially constructed and are experienced in everyday life. Drawing on women's studies, queer studies, masculinity studies, and allied areas, the course analyzes gender, sexuality, and other dimensions of identity; explores critical issues of gender, sex, and power; and studies gendered/sexed identities in both national and transnational contexts. Topics include the gendered conceptions of love, sexuality, and violence; biological arguments about gender and sexuality; the social construction of sexuality and gender; intersections of gender, race, class, and sexuality; masculinities and femininities; theories of sexual difference; gender and the state; and gender and popular culture.",
     "coreqs": [],
@@ -57,7 +61,8 @@
     "sections": [
       { "term": "202430", "crn": "34953" },
       { "term": "202330", "crn": "36041" },
-      { "term": "202310", "crn": "19065" }
+      { "term": "202310", "crn": "19065" },
+      { "term": "202510", "crn": "21201" }
     ],
     "description": "This class is crosslisted with AFAM and HIST 1225.",
     "coreqs": [],
@@ -72,7 +77,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [
       { "term": "202410", "crn": "15096" },
-      { "term": "202310", "crn": "16288" }
+      { "term": "202310", "crn": "16288" },
+      { "term": "202510", "crn": "14372" }
     ],
     "description": "This course is crosslisted with SOCL 1260.",
     "coreqs": [],
@@ -118,7 +124,11 @@
     "sections": [{ "term": "202330", "crn": "38251" }],
     "description": "This course is crosslisted with ANTH 2302.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ANTH", "number": "1101" },
+      "Or",
+      { "subject": "SOCL", "number": "1101" }
+    ]
   },
   {
     "subject": "WMNS",
@@ -129,7 +139,8 @@
     "nuPath": ["DD", "SI"],
     "sections": [
       { "term": "202410", "crn": "19902" },
-      { "term": "202330", "crn": "38253" }
+      { "term": "202330", "crn": "38253" },
+      { "term": "202510", "crn": "17374" }
     ],
     "description": "This course is crosslisted with HIST 2303 and SOCL 2303.",
     "coreqs": [],
@@ -157,7 +168,10 @@
       { "term": "202310", "crn": "16394" },
       { "term": "202310", "crn": "19604" },
       { "term": "202310", "crn": "19603" },
-      { "term": "202310", "crn": "20193" }
+      { "term": "202310", "crn": "20193" },
+      { "term": "202510", "crn": "14428" },
+      { "term": "202510", "crn": "14429" },
+      { "term": "202510", "crn": "15660" }
     ],
     "description": "This course is crosslised with COMM 2304.",
     "coreqs": [],
@@ -173,7 +187,8 @@
     "sections": [
       { "term": "202410", "crn": "16715" },
       { "term": "202330", "crn": "38098" },
-      { "term": "202310", "crn": "19061" }
+      { "term": "202310", "crn": "19061" },
+      { "term": "202510", "crn": "15385" }
     ],
     "description": "This course is cross-listed with AFRS 2325.",
     "coreqs": [],
@@ -239,7 +254,19 @@
     "sections": [{ "term": "202430", "crn": "39372" }],
     "description": "This course is crosslisted with ENGL 2455 and AFAM 2455.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
   },
   {
     "subject": "WMNS",
@@ -250,23 +277,12 @@
     "nuPath": ["DD", "SI"],
     "sections": [
       { "term": "202410", "crn": "16337" },
-      { "term": "202310", "crn": "18666" }
+      { "term": "202310", "crn": "18666" },
+      { "term": "202510", "crn": "15190" }
     ],
     "description": "This course is crosslisted with INTL 2480.",
     "coreqs": [],
     "prereqs": [{ "subject": "INTL", "number": "1101" }]
-  },
-  {
-    "subject": "WMNS",
-    "number": "2501",
-    "title": "Breaking the Glass Ceiling: Women in Theatre",
-    "scheduleType": "Lecture",
-    "credits": 4,
-    "nuPath": ["DD", "IC"],
-    "sections": [],
-    "description": "This course is crosslisted with THTR 2500.",
-    "coreqs": [],
-    "prereqs": []
   },
   {
     "subject": "WMNS",
@@ -277,7 +293,8 @@
     "nuPath": ["EI", "IC", "WI"],
     "sections": [
       { "term": "202410", "crn": "19903" },
-      { "term": "202330", "crn": "38758" }
+      { "term": "202330", "crn": "38758" },
+      { "term": "202510", "crn": "17375" }
     ],
     "description": "This course is crosslisted with MSCR 2505.",
     "coreqs": [],
@@ -294,7 +311,8 @@
       { "term": "202430", "crn": "33651" },
       { "term": "202410", "crn": "12601" },
       { "term": "202330", "crn": "34219" },
-      { "term": "202310", "crn": "12925" }
+      { "term": "202310", "crn": "12925" },
+      { "term": "202510", "crn": "12315" }
     ],
     "description": "Crosslisted with HUSV 2800.",
     "coreqs": [],
@@ -310,7 +328,8 @@
     "sections": [
       { "term": "202430", "crn": "39373" },
       { "term": "202410", "crn": "14220" },
-      { "term": "202310", "crn": "14878" }
+      { "term": "202310", "crn": "14878" },
+      { "term": "202510", "crn": "13711" }
     ],
     "description": "This course is cross-listed with ANTH 3100 and POLS 3100.",
     "coreqs": [],
@@ -367,7 +386,8 @@
       { "term": "202430", "crn": "34072" },
       { "term": "202410", "crn": "18087" },
       { "term": "202330", "crn": "34734" },
-      { "term": "202310", "crn": "20519" }
+      { "term": "202310", "crn": "20519" },
+      { "term": "202510", "crn": "16141" }
     ],
     "description": "This course is crosslisted with MSCR 3392.",
     "coreqs": [],
@@ -387,6 +407,30 @@
     "description": "This course is crosslisted with POLS 3500 and PHIL 3500.",
     "coreqs": [],
     "prereqs": []
+  },
+  {
+    "subject": "WMNS",
+    "number": "3678",
+    "title": "Bedrooms and Battlefields: Hebrew Bible and the Origins of Sex, Gender, and Ethnicity",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["IC"],
+    "sections": [{ "term": "202510", "crn": "21204" }],
+    "description": "Considers stories from Hebrew Scripture in English translation, beginning with the Garden of Eden through the Book of Ruth, asking how these foundational narratives establish the categories that have come to define our humanity. Analyzes how the Bible's patterns of representation construct sexual and ethnic identities and naturalize ideas about such social institutions as &#8220;the family.&#8221; ENGL 3678, JWSS 3678, and WMNS 3678 are cross-listed.",
+    "coreqs": [],
+    "prereqs": [
+      { "subject": "ENGL", "number": "1102" },
+      "Or",
+      { "subject": "ENGL", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
   },
   {
     "subject": "WMNS",
@@ -494,7 +538,9 @@
       { "term": "202330", "crn": "38760" },
       { "term": "202310", "crn": "16972" },
       { "term": "202260", "crn": "61431" },
-      { "term": "202240", "crn": "41828" }
+      { "term": "202240", "crn": "41828" },
+      { "term": "202510", "crn": "18184" },
+      { "term": "202510", "crn": "21431" }
     ],
     "description": "This course is taught on MIT's campus at the GCWS and follows MIT's schedule (meets Sept 8 - Dec 8). Dr. Eleanor Craig (Harvard) and Dr. Dana Miranda (UMass Boston) will be the instructors.",
     "coreqs": [],
@@ -509,7 +555,10 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "22331" },
-      { "term": "202350", "crn": "53364" }
+      { "term": "202350", "crn": "53364" },
+      { "term": "202510", "crn": "22920" },
+      { "term": "202510", "crn": "21202" },
+      { "term": "202460", "crn": "61916" }
     ],
     "description": "Offers independent work under the direction of members of the department on chosen topics. May be repeated without limit.",
     "coreqs": [],

@@ -6,7 +6,7 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202510", "crn": "17826" }],
     "description": "Begins the integrated development of elementary language skills through cultural exploration. Includes class discussion and project-based learning. Offers students an opportunity to gain a deeper understanding of daily life, social norms, and family structure in Korea. Designed for students with little or no knowledge of Korean.",
     "coreqs": [],
     "prereqs": []

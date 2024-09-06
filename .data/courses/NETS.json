@@ -8,7 +8,8 @@
     "nuPath": ["ND"],
     "sections": [
       { "term": "202410", "crn": "17674" },
-      { "term": "202310", "crn": "20083" }
+      { "term": "202310", "crn": "20083" },
+      { "term": "202510", "crn": "15896" }
     ],
     "description": "Introduces network science and the set of analytical, numerical, and modeling tools used to understand complex networks emerging in nature and technology. Focuses on the empirical study of real networks, with examples coming from biology (metabolic, protein interaction networks), computer science (World Wide Web, Internet), or social systems (e-mail, friendship networks). Shows the organizing principles that govern the emergence of networks and the set of tools necessary to characterize and model them. Covers elements of graph theory, statistical physics, biology, and social science as they pertain to the understanding of complex systems.",
     "coreqs": [],
@@ -44,10 +45,13 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19900" }],
+    "sections": [
+      { "term": "202410", "crn": "19900" },
+      { "term": "202510", "crn": "17372" }
+    ],
     "description": "The course will meet at 177 Huntington Ave, 2nd floor Conference Room (207).",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "PHYS", "number": "5116" }]
   },
   {
     "subject": "NETS",
@@ -102,7 +106,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "19901" }],
+    "sections": [
+      { "term": "202410", "crn": "19901" },
+      { "term": "202510", "crn": "17373" }
+    ],
     "description": "The course will meet at 177 Huntington Ave, 2nd floor Conference Room (207).",
     "coreqs": [],
     "prereqs": []
@@ -134,7 +141,10 @@
       { "term": "202310", "crn": "18555" },
       { "term": "202310", "crn": "21270" },
       { "term": "202310", "crn": "21593" },
-      { "term": "202310", "crn": "21712" }
+      { "term": "202310", "crn": "21712" },
+      { "term": "202510", "crn": "22493" },
+      { "term": "202510", "crn": "22560" },
+      { "term": "202430", "crn": "42011" }
     ],
     "description": "Offers independent work under the direction of a member of the program on a chosen topic. Course content depends on instructor. May be repeated without limit.",
     "coreqs": [],
@@ -176,7 +186,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "22536" },
-      { "term": "202330", "crn": "40242" }
+      { "term": "202330", "crn": "40242" },
+      { "term": "202430", "crn": "42014" }
     ],
     "description": "Offers advanced students an opportunity to work with an individual instructor on a topic related to current research. Instructor and student negotiate a written agreement as to what topic(s) are covered and what written or laboratory work forms the basis for the grade. Viewed as a lead-in to dissertation research. May be repeated without limit.",
     "coreqs": [],
@@ -217,7 +228,18 @@
       { "term": "202310", "crn": "19912" },
       { "term": "202310", "crn": "19913" },
       { "term": "202310", "crn": "19914" },
-      { "term": "202310", "crn": "21445" }
+      { "term": "202310", "crn": "21445" },
+      { "term": "202510", "crn": "15828" },
+      { "term": "202510", "crn": "15829" },
+      { "term": "202510", "crn": "15830" },
+      { "term": "202510", "crn": "22307" },
+      { "term": "202510", "crn": "15832" },
+      { "term": "202510", "crn": "22451" },
+      { "term": "202510", "crn": "22483" },
+      { "term": "202510", "crn": "16695" },
+      { "term": "202510", "crn": "18967" },
+      { "term": "202510", "crn": "19859" },
+      { "term": "202510", "crn": "22785" }
     ],
     "description": "Offers an opportunity to conduct full-time research under faculty supervision. May be repeated without limit.",
     "coreqs": [],
@@ -230,7 +252,11 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [],
+    "sections": [
+      { "term": "202510", "crn": "22340" },
+      { "term": "202510", "crn": "22971" },
+      { "term": "202510", "crn": "22970" }
+    ],
     "description": "Offers experimental and theoretical work for PhD candidates. Requires written dissertation and final oral exam.",
     "coreqs": [],
     "prereqs": [{ "subject": "NETS", "number": "9000" }]
@@ -265,7 +291,11 @@
       { "term": "202310", "crn": "18188" },
       { "term": "202310", "crn": "18209" },
       { "term": "202260", "crn": "61629" },
-      { "term": "202240", "crn": "41970" }
+      { "term": "202240", "crn": "41970" },
+      { "term": "202510", "crn": "14631" },
+      { "term": "202510", "crn": "14918" },
+      { "term": "202510", "crn": "14970" },
+      { "term": "202510", "crn": "15045" }
     ],
     "description": "Offers experimental and theoretical work for PhD candidates. Requires written dissertation and final oral exam.",
     "coreqs": [],

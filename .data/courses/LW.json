@@ -18,7 +18,10 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "41918" }],
+    "sections": [
+      { "term": "202430", "crn": "41918" },
+      { "term": "202510", "crn": "22149" }
+    ],
     "description": "This course builds on LW 6101 with its emphasis on common law by introducing students to statutes and regulations. The setting involves federal administrative agencies governing employment, consumer protection, environment, labor, cyberlaw, intellectual property, and international trade. Exercises and discussions require finding, summarizing, applying and arguing about the applicability of statutes and regulations in concrete situations. The capstone of the course allows students to create a project to illustrate the lessons learned in the course.",
     "coreqs": [],
     "prereqs": []
@@ -32,11 +35,18 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "41566" },
-      { "term": "202330", "crn": "39767" }
+      { "term": "202330", "crn": "39767" },
+      { "term": "202510", "crn": "22150" }
     ],
     "description": "Introduces students to the implications and impact of law on strategy, with attention to applying legal knowledge and resources to strategic planning and strategy implementation. Uses several examples of readily understood strategies to provide opportunities for students to identify the legal environment, consider the legal rights and requirements implicated by relevant law or regulation (e.g., intellectual property, contracts, administrative law) and their potential impact on management, incorporating law as a resource on the resource based view of the firm. Range of examples include considering law and strategy implementation in multiple contexts. Focuses on developing an appreciation of the legal environment and making effective use of legal resources and lawyers as advisors in strategic management aimed at attaining sustainable competitive advantage over rivals.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "LW", "number": "6400" },
+      "Or",
+      { "subject": "LW", "number": "6101" },
+      "Or",
+      { "subject": "LW", "number": "6102" }
+    ]
   },
   {
     "subject": "LW",
@@ -47,7 +57,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202330", "crn": "39768" },
-      { "term": "202310", "crn": "21383" }
+      { "term": "202310", "crn": "21383" },
+      { "term": "202510", "crn": "22151" }
     ],
     "description": "Class meets from October 24 thru December 17.",
     "coreqs": [],
@@ -62,7 +73,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "41568" },
-      { "term": "202330", "crn": "39769" }
+      { "term": "202330", "crn": "39769" },
+      { "term": "202510", "crn": "22152" }
     ],
     "description": "Covers the challenges facing organizations in building programs that ensure adherence with legal obligations, especially regarding data. Institutions increasingly face a host of regulatory compliance issues. Explores statutes covering a broad range of areas, especially when it involves data protection and privacy.",
     "coreqs": [],
@@ -76,6 +88,21 @@
   },
   {
     "subject": "LW",
+    "number": "6150",
+    "title": "Law and Organizational Management",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "22153" },
+      { "term": "202510", "crn": "22154" }
+    ],
+    "description": "Students will learn the rules governing organizations, including corporations, partnerships, governmental organizations, and non-profits. The focus will include relationships within the organizations and powers of members of organizations. In addition, the course will cover employment issues relevant to relationships in organizations. Topics will include rights of workers to be free of discrimination in the workplace, the importance of workplace rules, and policies governing the workplace.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "LW",
     "number": "6155",
     "title": "Legal Foundations of Public Policy",
     "scheduleType": "Lecture",
@@ -84,11 +111,18 @@
     "sections": [
       { "term": "202410", "crn": "18941" },
       { "term": "202330", "crn": "39770" },
-      { "term": "202310", "crn": "21388" }
+      { "term": "202310", "crn": "21388" },
+      { "term": "202510", "crn": "22155" }
     ],
     "description": "Class meets from September 6 - thru October 22.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "LW", "number": "6101" },
+      "Or",
+      { "subject": "LW", "number": "6102" },
+      "Or",
+      { "subject": "LW", "number": "6400" }
+    ]
   },
   {
     "subject": "LW",
@@ -97,7 +131,7 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202510", "crn": "22156" }],
     "description": "Examines legal regulations governing the provision of healthcare services. Topics include access to health insurance and healthcare, healthcare financing, the organization and responsibility of healthcare institutions (especially hospitals), healthcare cost containment policies, public and private insurance programs, and the formulation of health policy. Provides an introductory overview of the major statutes, regulations, and case law related to health law, including an introduction to the Patient Protection and Affordable Care Act, otherwise known as Obamacare.",
     "coreqs": [],
     "prereqs": [
@@ -150,7 +184,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18658" },
-      { "term": "202310", "crn": "21096" }
+      { "term": "202310", "crn": "21096" },
+      { "term": "202510", "crn": "22271" }
     ],
     "description": "This course explores the legal levers that drive policy change.  Advocates often intend to alter public policy in support of an organization or a cause.  But influencing policy requires understanding who sets policy in the first instance.  Is the issue governed by federal, state or local law?  Are key decision makers elected or appointed?  Who is it most important to persuade and what sorts of arguments are likely to convince the key audience?  This course will introduce students to the mechanisms of government that drive key policy debates across a wide range of issues, which may include health care, market regulation, environmental policy,  housing, education, the internet, privacy, and social policy.  Emphasis will be placed on tailoring arguments to different constituencies.",
     "coreqs": [],
@@ -165,7 +200,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18922" },
-      { "term": "202310", "crn": "21369" }
+      { "term": "202310", "crn": "21369" },
+      { "term": "202510", "crn": "22399" }
     ],
     "description": "This course focuses on federal and state environmental laws. Topics include pollution control, waste management, and cleanup of contaminated land and water. The course explores legislative policy and regulatory decisions as well as enforcement issues. We will give attention to questions of environmental justice and to the strategic use of legal tools in working to ensure safe and healthy surroundings for diverse groups of people.",
     "coreqs": [],
@@ -180,7 +216,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18923" },
-      { "term": "202350", "crn": "52933" }
+      { "term": "202350", "crn": "52933" },
+      { "term": "202510", "crn": "22400" }
     ],
     "description": "This course examines the legal regulation of the provision of healthcare services. Much of the focus is on the relationship between law and healthcare policy. Topics include access to health insurance and healthcare, healthcare financing, malpractice liability, the organization and responsibility of healthcare institutions, especially hospitals, the regulation of the quality of care and the formulation of health policy. This course is highly recommended for all students enrolled in the JD/MPH dual degree program, but is open to others as well.",
     "coreqs": [],
@@ -193,22 +230,13 @@
     "scheduleType": "Lecture",
     "credits": 3,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "18924" }],
+    "sections": [
+      { "term": "202410", "crn": "18924" },
+      { "term": "202510", "crn": "22401" }
+    ],
     "description": "In our modern day information economy, the law of intellectual property has taken on enormous importance to both creators and users of intellectual creations. Introduces students to the classic principles of copyright, patent, trademark, and trade secret law and explores the ways in which those principles are shifting and adapting in response to new technology.",
     "coreqs": [],
     "prereqs": [{ "subject": "LW", "number": "6400" }]
-  },
-  {
-    "subject": "LW",
-    "number": "7469",
-    "title": "Disability Law",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "nuPath": [],
-    "sections": [],
-    "description": "This course explores how the law treats individuals with disabilities. We will analyze what is meant by the term “disability” and consider constitutional review of state actions discriminating against individuals with disabilities. Particular attention will be given to the the rights and obligations created by the Rehabilitation Act, the Americans with Disabilities Act and the Individuals with Disabilities Education Act. The rights of individuals with disabilities to be educated, work, receive healthcare, and enjoy public accommodations will be considered in depth. This course is designed for students wishing to represent individuals with disabilities as well as students who may represent employers and public accommodations.",
-    "coreqs": [],
-    "prereqs": []
   },
   {
     "subject": "LW",
@@ -239,18 +267,6 @@
   },
   {
     "subject": "LW",
-    "number": "7491",
-    "title": "Human Rights & Global Economy",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "nuPath": [],
-    "sections": [],
-    "description": "This course surveys the international human rights legal system. It includes the promotion and protection of economic, social, and cultural rights (such as rights to health, food, water, and education) and civil and political rights (such as equality and non-discrimination, the right to human security, the prohibition on torture, and rights to religious and cultural expression). We begin by examining the history and theoretical origins of human rights law. We then engage the legal framework under international and regional human rights treaties and interpretations of them by international, regional and domestic courts and other actors. We examine international, regional and domestic mechanisms for monitoring compliance. Finally, we grapple with tensions among cultural and religious imperatives and traditional human rights.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "LW",
     "number": "7494",
     "title": "Bioethics and the Law",
     "scheduleType": "Lecture",
@@ -266,18 +282,6 @@
   },
   {
     "subject": "LW",
-    "number": "7514",
-    "title": "Natural Resources Law",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "nuPath": [],
-    "sections": [],
-    "description": "This course addresses legal requirements and institutions dealing with animal and plant species, biological resources, habitats, and ecosystems. Major themes include biological diversity, endangered and threatened species, public and private rights in migratory resources, public trust doctrine, the allocation of power among federal, state, and local governments, and the roles of administrative agencies in ecosystem management. The course provides opportunities to explore specific topics of interest such as environmental ethics, wetlands protection, fisheries law, Native American hunting rights and fishing rights, and management of national parks, forests, and grazing lands.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "LW",
     "number": "7525",
     "title": "Law and Economic Development",
     "scheduleType": "Lecture",
@@ -285,21 +289,10 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18926" },
-      { "term": "202330", "crn": "39958" }
+      { "term": "202330", "crn": "39958" },
+      { "term": "202510", "crn": "22402" }
     ],
     "description": "Examines the prevailing economic theories of and strategies for economic development since World War II and the legal and institutional frameworks devised to implement these strategies. Questions we will explore will include: What kinds of legal and institutional arrangements best facilitate economic growth? How does law structure and shape markets? What is development; and how can it best be measured? Can legal instruments be used effectively to address underdevelopment in a structural way? While the focus is on development in the so-called “developing world”; we will also explore some strategies for addressing development in a local community context. Course concludes by applying what we have learned to address several development case studies posing particular problems in particular regions and contexts.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "LW",
-    "number": "7526",
-    "title": "Juvenile Courts",
-    "scheduleType": "Lecture",
-    "credits": 3,
-    "nuPath": [],
-    "sections": [],
-    "description": "Examines the evolution of the juvenile court system and issues related to juvenile justice and child welfare. Includes the study of procedural and substantive principles related to court subject matter, including delinquency, youthful offender, status offense, and abuse and neglect jurisdiction. In attempting to focus on connecting theory to practice, the class employs a contextual lens by considering the larger communities and systems that affect children, families, and public safety. This entails consideration of the consequences of decisions and policies in and out of courtrooms. Related topics include adolescent development; racial, ethnic, and gender equity; access to educational and mental health services; and public health.",
     "coreqs": [],
     "prereqs": []
   },
@@ -325,7 +318,19 @@
     "sections": [{ "term": "202430", "crn": "40877" }],
     "description": "This course surveys legal and policy issues concerning job security, focusing primarily on law governing the termination of private sector employment. Students develop an understanding of the history and scope of the underlying employment-at-will doctrine and the primary ways in which the at-will doctrine has been modified through common law and statute.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "LW", "number": "6400" }]
+  },
+  {
+    "subject": "LW",
+    "number": "7550",
+    "title": "Refugee and Asylum Law",
+    "scheduleType": "Lecture",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "22403" }],
+    "description": "This course will explore the law of asylum and refugees. The primary focus will be on U.S. law as it has evolved since passage of the Refugee Act of 1980. This will include legislation and case law&#8212;both administrative and federal court cases. It will also look at relevant international law and standards utilized in other countries by way of comparison with U.S. Law. We will also examine the process of asylum adjudications to analyze issues of due process, credibility, cross cultural communication and integrity of the various legal procedures. We will explore new and emerging theories of asylum eligibility and policy developments which impact asylum seekers in the United States.",
+    "coreqs": [],
+    "prereqs": [{ "subject": "LW", "number": "6400" }]
   },
   {
     "subject": "LW",
@@ -352,7 +357,7 @@
     "sections": [{ "term": "202330", "crn": "40484" }],
     "description": "The field of Drug Law is vast, spanning the discovery, manufacture, distribution, and consumption of chemical agents designed to alter the human condition. This course focuses on three domains of the broader subject: the evolution and current state of the Federal Food, Drug, and Cosmetic Act; the architecture of the drug regulation system in the U.S., including the distinct space occupied by the Food and Drug Administration, the Department of Agriculture, and the Drug Enforcement Agency; and the role of regulation and tort litigation in harmonizing drug policy with science. Designed around legal and policy case studies, this course is intended for students expecting to become involved in clinical practice involving pharmaceuticals as well those generally interested in the interplay of law and public health.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "LW", "number": "6400" }]
   },
   {
     "subject": "LW",
@@ -361,15 +366,27 @@
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [],
+    "sections": [{ "term": "202510", "crn": "22404" }],
     "description": "The emergence of DNA testing has not only assisted law enforcement in solving crimes, but it has also helped to expose a problem that many observers of the criminal justice system have long suspected: that a number of actually innocent prisoners have been convicted in the United States. Given that biological evidence suitable for post-conviction DNA testing is available in only a smattering of cases, the exonerations generated by DNA represent only the tip of the innocence iceberg, so to speak. This class will explore (1) the primary factors that contribute to the phenomenon of wrongful convictions, (2) the state and federal procedures through which post-conviction claims are litigated and (3) potential reforms to protect against the conviction of the innocent.",
     "coreqs": [],
     "prereqs": [{ "subject": "LW", "number": "6400" }]
   },
   {
     "subject": "LW",
+    "number": "7620",
+    "title": "Human Behavior, Legal Doctrine, and Policy Design",
+    "scheduleType": "Seminar",
+    "credits": 3,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "22405" }],
+    "description": "This course will compare accounts of human behavior, including the Utilitarian/Law and Economics view of man as a rational calculator of his self-interest, with classical and contemporary alternatives to that description, including Behavioral Economics. We will evaluate the reasons for doubting or crediting these competing accounts, and will then consider their implications for determining appropriate legal doctrines and regulatory approaches. For example, we may consider whether the views of human behavior which shape consumer protection case law and the Supreme Court's commercial speech doctrine are justified, and whether &#8211; and in what circumstances&#8212;regulations are appropriate which seek to help people by prescribing, proscribing, or &#8220;nudging&#8221; their behavior. Students are expected to participate in class and write a research paper which may satisfy the writing requirement.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "LW",
     "number": "7635",
-    "title": "Appli & Critical Legal Design",
+    "title": "Laboratory Seminar in Applied and Critical Legal Design",
     "scheduleType": "Seminar",
     "credits": 4,
     "nuPath": [],
@@ -380,13 +397,13 @@
   },
   {
     "subject": "LW",
-    "number": "7660",
-    "title": "Cradle-to-Prison Pipeline",
+    "number": "7651",
+    "title": "Human Rights in the United States",
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [],
-    "description": "Examines how we construct the cradle/school-to-prison pipeline while focusing on several pivotal points that channel largely poor Black and Brown students into it. With an eye toward practical application, offers students an opportunity to learn about, critique, problem-solve, and create pipeline-disrupting solutions looking to restorative justice as a time-honored justice paradigm alternative to our Western constructions.",
+    "sections": [{ "term": "202510", "crn": "22406" }],
+    "description": "Explores the role of international human rights frameworks and strategies in social justice lawyering in the United States. On a range of issues, lawyers are bringing human rights home. They are using human rights mechanisms of the United Nations and Inter-American Human Rights system, drawing on international human rights and comparative foreign law in litigation before U.S. courts, and engaging in other human rights-based advocacy such as documentation, organizing, and human rights education. Advocates find that a human rights approach provides important strategic leverage and highlights the interdependence of economic, social, cultural, civil, and political rights. Uses skills exercises, assignments and real-world problems to develop practical skills to address policies on local, state and national levels, and to support social movements.",
     "coreqs": [],
     "prereqs": []
   },
@@ -414,7 +431,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "18659" },
-      { "term": "202310", "crn": "21097" }
+      { "term": "202310", "crn": "21097" },
+      { "term": "202510", "crn": "22272" }
     ],
     "description": "What limits are there on actions aimed at influencing public officials or public opinion?  What limits should there be?  Clearly, it is unlawful to offer a bribe to a public official to produce a desirable outcome.  But what constitutes a bribe?  Can a lobbyist send a wedding gift to a favorite legislator?  Are the rules different when advocacy efforts reach beyond United States borders?  Are there limits on what an advocate can say to promote a product or service?  Where is the line between conduct that is legally permissible and conduct that is not?  To what extent are legal boundaries and ethical boundaries aligned?  This course will explore the ethical and legal issues that arise in connection with advocacy.",
     "coreqs": [],
@@ -434,13 +452,25 @@
   },
   {
     "subject": "LW",
-    "number": "7688",
-    "title": "Social Policy and the Tax Code",
+    "number": "7697",
+    "title": "Issues in Human Rights and Humanitarian Law",
     "scheduleType": "Seminar",
     "credits": 3,
     "nuPath": [],
-    "sections": [],
-    "description": "Offers students an opportunity to obtain an understanding of how tax laws shape and are a major driver of social policy. Emphasizes the redistributive qualities and potentials of such policies and examines their design, implementation, and administration. Draws on legal methodologies as well as those from allied social sciences. May include such topics as healthcare, housing, and income support.",
+    "sections": [{ "term": "202510", "crn": "22408" }],
+    "description": "Examines cutting-edge issues in human rights and humanitarian law through presentations by leading scholars in the field and in-depth seminar discussions. Emphasizes both core concepts and sophisticated critiques of human rights in a range of areas including conflict and war, accountability and justice, race and racism, and colonialism and inequality.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "LW",
+    "number": "7976",
+    "title": "Directed Study",
+    "scheduleType": "Individual Instruction",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "22586" }],
+    "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated two times for a maximum of six semester hours.",
     "coreqs": [],
     "prereqs": []
   }

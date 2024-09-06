@@ -22,7 +22,10 @@
       { "term": "202330", "crn": "40337" },
       { "term": "202310", "crn": "19680" },
       { "term": "202310", "crn": "19681" },
-      { "term": "202310", "crn": "19682" }
+      { "term": "202310", "crn": "19682" },
+      { "term": "202510", "crn": "15684" },
+      { "term": "202510", "crn": "15685" },
+      { "term": "202510", "crn": "15686" }
     ],
     "description": "Provides students with instruction in the use of a computer for composing original music. Topics include MIDI sequencing, digital audio processing, and sound synthesis. Students use music hardware and software to complete a variety of projects.",
     "coreqs": [],
@@ -52,7 +55,8 @@
     "nuPath": ["EI"],
     "sections": [
       { "term": "202430", "crn": "39362" },
-      { "term": "202310", "crn": "19683" }
+      { "term": "202310", "crn": "19683" },
+      { "term": "202510", "crn": "20509" }
     ],
     "description": "Instructs students in the art of producing and designing musical accompaniments for a variety of media including film, TV commercials, industrial video, animation, games, theatre, and radio drama. Focuses on abstract thinking regarding sound theory and practice and includes hands-on skills. Restricted to music majors and combined majors; all other students require permission of instructor.",
     "coreqs": [],
@@ -71,7 +75,9 @@
       { "term": "202410", "crn": "18436" },
       { "term": "202330", "crn": "34648" },
       { "term": "202310", "crn": "13150" },
-      { "term": "202310", "crn": "20871" }
+      { "term": "202310", "crn": "20871" },
+      { "term": "202510", "crn": "12476" },
+      { "term": "202510", "crn": "16340" }
     ],
     "description": "Focuses on the creation and implementation of standard time-domain audio synthesis routines and effects, as well as standard frequency-domain processing routines. MaxMSP is the principal programming environment used in the course. Begins with programming protocols, as well as data structures and storage, and list processing in the MaxMSP environment before moving on to standard synthesis and audio processing routines. Examines how the techniques learned in the course can be applied using a variety of synthesis and spectral processing software applications that are standard in the field.",
     "coreqs": [],
@@ -102,7 +108,7 @@
     ],
     "description": "Introduces students to digital signal processing as it relates to offline or non-real-time audio processing. Covers fundamental engineering concepts and mathematics. Examines implementation details of common digital audio processing routines using the C programming language, the industry standard for audio software engineering.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "MUST", "number": "2431" }]
   },
   {
     "subject": "MUST",
@@ -111,7 +117,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": ["EI", "ND"],
-    "sections": [{ "term": "202310", "crn": "19686" }],
+    "sections": [
+      { "term": "202310", "crn": "19686" },
+      { "term": "202510", "crn": "20510" }
+    ],
     "description": "Introduces analog electronics in the context of audio synthesis and control. Topics include the basics of electronics and analog audio signals; passive components, transistors, operational amplifiers, and sensors; analog audio synthesis, filters, amplification, and modulation; and the basics of hacking and circuit bending. In-class activities center on designing, building, analyzing, and testing sound-emitting circuits.",
     "coreqs": [],
     "prereqs": [{ "subject": "MUST", "number": "2431" }]
@@ -137,11 +146,12 @@
     "nuPath": ["EI", "IC"],
     "sections": [
       { "term": "202410", "crn": "14919" },
-      { "term": "202310", "crn": "16008" }
+      { "term": "202310", "crn": "16008" },
+      { "term": "202510", "crn": "14240" }
     ],
     "description": "Instructs students in the composition of original music for electronic and computer-based instrumentation. Students create music to accompany video, animation, and film, and study suitable methods for creating original music for the Internet. Also surveys examples of music written for similar contexts.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "MUST", "number": "2431" }]
   },
   {
     "subject": "MUST",
@@ -156,6 +166,12 @@
     ],
     "description": "Instructs students in the preparation and presentation of their senior recital. Fulfills the college’s experiential education requirement for music technology concentrators.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "MUST", "number": "3540" },
+      "Or",
+      { "subject": "MUST", "number": "4520" },
+      "Or",
+      { "subject": "MUST", "number": "4610" }
+    ]
   }
 ]

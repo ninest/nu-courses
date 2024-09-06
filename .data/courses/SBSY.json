@@ -8,7 +8,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11756" },
-      { "term": "202310", "crn": "11975" }
+      { "term": "202310", "crn": "11975" },
+      { "term": "202510", "crn": "11603" }
     ],
     "description": "Covers theory of sustainability and green building procedures; sustainable design and construction practices; use of appropriate materials and systems with low environmental impact for creating energy-efficient buildings; green construction practices, including reducing pollution, emissions, and construction waste; and U.S. Green Building Council's LEED rating system. May be helpful to students preparing for the LEED Green Associate examination.",
     "coreqs": [],
@@ -41,7 +42,9 @@
     "sections": [
       { "term": "202410", "crn": "16732" },
       { "term": "202410", "crn": "19813" },
-      { "term": "202310", "crn": "19078" }
+      { "term": "202310", "crn": "19078" },
+      { "term": "202510", "crn": "15388" },
+      { "term": "202510", "crn": "17288" }
     ],
     "description": "Studies principles of building performance simulations and the application of these tools to improve the design and operation of buildings. Covers the basic principles of simulation and uses a spectrum of available tools for early stage modeling, daylight estimation, analysis of comfort, and whole building validation. Introduces interpretation and validation of results and code-mandated protocols.",
     "coreqs": [],
@@ -57,7 +60,9 @@
     "sections": [
       { "term": "202430", "crn": "41853" },
       { "term": "202430", "crn": "38883" },
-      { "term": "202430", "crn": "38884" }
+      { "term": "202430", "crn": "38884" },
+      { "term": "202510", "crn": "20437" },
+      { "term": "202510", "crn": "20438" }
     ],
     "description": "Focuses on new software systems for increasing efficiency of project delivery and facilitating design and construction integration through the use of BIM (Building Information Modeling) and related technologies. Exposes students to various software systems, including hands-on cases of BIM use, 4D (construction drawings linked to schedule) modeling, and 5D models (4D + cost). Covers the impact of new technology on project delivery, including owner's perspective, advantages, and disadvantages. Also covers use and background of common industry systems to apply BIM concepts to construction projects.",
     "coreqs": [],
@@ -74,7 +79,8 @@
       { "term": "202430", "crn": "36233" },
       { "term": "202410", "crn": "12273" },
       { "term": "202330", "crn": "38209" },
-      { "term": "202310", "crn": "12546" }
+      { "term": "202310", "crn": "12546" },
+      { "term": "202510", "crn": "12031" }
     ],
     "description": "Features prominent speakers from the sustainable building design and construction industry to showcase new building technologies, tools, and projects and to discuss national and international trends in the industry. Offers students an opportunity to meet innovators and key players advancing the field of sustainable building systems. May be repeated without limit.",
     "coreqs": [],
@@ -91,7 +97,9 @@
       { "term": "202430", "crn": "38610" },
       { "term": "202350", "crn": "53252" },
       { "term": "202330", "crn": "40723" },
-      { "term": "202310", "crn": "20952" }
+      { "term": "202310", "crn": "20952" },
+      { "term": "202510", "crn": "16387" },
+      { "term": "202510", "crn": "18362" }
     ],
     "description": "Offers analytical and/or experimental research conducted by arrangement with and under the supervision of the department. May be repeated up to a maximum of 8 SH.",
     "coreqs": [],
@@ -106,7 +114,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "22521" },
-      { "term": "202330", "crn": "40161" }
+      { "term": "202330", "crn": "40161" },
+      { "term": "202510", "crn": "19893" }
     ],
     "description": "Offers continued thesis work conducted under the supervision of a departmental faculty member.",
     "coreqs": [],

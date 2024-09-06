@@ -14,7 +14,8 @@
       { "term": "202330", "crn": "32555" },
       { "term": "202310", "crn": "10893" },
       { "term": "202310", "crn": "10894" },
-      { "term": "202310", "crn": "10895" }
+      { "term": "202310", "crn": "10895" },
+      { "term": "202510", "crn": "10738" }
     ],
     "description": "Introduces the University, college, and health professions to enhance students' understanding of self and the decisions they make academically and socially as members of the University's diverse, multicultural community. Offers students an opportunity to engage in group activities and individual assignments along with active participation in a learning community to help them adjust to life on an urban campus, develop a better understanding of the learning process, acquire essential academic skills, and make connections with the faculty and students in the college.",
     "coreqs": [],
@@ -178,18 +179,6 @@
   },
   {
     "subject": "PHMD",
-    "number": "3600",
-    "title": "Leadership/Advocacy Hlth Prof",
-    "scheduleType": "Lecture",
-    "credits": 2,
-    "nuPath": [],
-    "sections": [],
-    "description": "Designed to help facilitate successful careers of young healthcare professionals and expand students' knowledge of their leadership potential. Consists primarily of topic discussions that include a variety of issues related to professional development, focusing on leadership, organizational and relational skills, and advocacy. Covers global issues in leadership and advocacy. Encourages students to recognize the need for leadership in health professions and the ability of practitioners to influence change regardless of whether they have a title or position of authority. Seeks to be valuable to students with interests in administrative positions in various settings, including in high-level clinical positions, and to students who plan to pursue postgraduate training.",
-    "coreqs": [],
-    "prereqs": []
-  },
-  {
-    "subject": "PHMD",
     "number": "4350",
     "title": "Exploring Academic Careers",
     "scheduleType": "Lecture",
@@ -197,7 +186,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11189" },
-      { "term": "202310", "crn": "11342" }
+      { "term": "202310", "crn": "11342" },
+      { "term": "202510", "crn": "11083" }
     ],
     "description": "Designed to prepare students to become more confident and effective as educators for many audiences, including peers, colleagues, clients, and patients. Offers students an opportunity to increase their awareness of teaching and learning principles and related roles and responsibilities as they apply to academic careers and faculty in the classroom, in experiential settings, and in university units. Discusses and explores knowledge, skills, and attitudes that are applicable across professions.",
     "coreqs": [],
@@ -212,11 +202,16 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "14542" },
-      { "term": "202310", "crn": "15328" }
+      { "term": "202310", "crn": "15328" },
+      { "term": "202510", "crn": "13954" }
     ],
     "description": "Exposes students to research skills and methods used by health system pharmacists when planning and conducting research. Builds on content from prior courses. Designed for students planning to pursue a career in a health system or the pharmaceutical industry. Focuses on discussion and application; taught by healthcare-system-based pharmacists actively involved in clinical research. Emphasizes the process used to generate robust research questions and research plans throughout. Uses practice statements/guidelines, published studies, patient databases, and faculty's current research projects to illustrate course topics.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "PHMD", "number": "3450" },
+      "Or",
+      { "subject": "PHMD", "number": "3450" }
+    ]
   },
   {
     "subject": "PHMD",
@@ -231,7 +226,13 @@
     ],
     "description": "Covers foundational concepts of pharmacy practice, including patient evaluation; identification of drug-related problems; pathophysiology; and clinical management of diseases of the respiratory, cardiovascular, and endocrine systems. Specifically covers asthma and COPD, hypertension, hyperlipidemia, diabetes, fluids/electrolytes, and renal disorders. Reviews, system-by-system, the mechanisms of these diseases and their evidence-based prevention and treatment strategies. Offers students an opportunity to apply scientific knowledge and principles of medicinal chemistry, pharmacology, pharmaceutics, and pharmacokinetics to the design of rational, evidence-based therapeutic strategies to provide care to patients in inpatient, ambulatory, and community settings. Emphasizes pathophysiology, self-care, patient education, assessment, medication administration, management, monitoring, and preventative health and population-based health outcomes.",
     "coreqs": [{ "subject": "PHMD", "number": "4612" }],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "PHSC", "number": "4502" },
+      "And",
+      { "subject": "PHSC", "number": "3412" },
+      "And",
+      { "subject": "PHMD", "number": "2350" }
+    ]
   },
   {
     "subject": "PHMD",
@@ -330,7 +331,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202410", "crn": "11741" },
-      { "term": "202310", "crn": "11960" }
+      { "term": "202310", "crn": "11960" },
+      { "term": "202510", "crn": "11593" }
     ],
     "description": "Covers the pathophysiology and clinical management of infectious diseases, solid organ transplant, dermatology, and otic/ophthalmic disorders. Reinforces foundational concepts of pharmacy practice and diseases covered in PHMD 4611 and PHMD 4612, while completing a system-by-system review of the mechanisms of infectious diseases and their evidence-based prevention and treatment strategies. Offers students an opportunity to design rational therapeutic strategies to provide care to patients with these disease states in inpatient, ambulatory, and community settings. Emphasizes pathophysiology, self-care, patient education, assessment, medication administration, management, monitoring, and preventative health and population-based health outcomes.",
     "coreqs": [
@@ -359,7 +361,13 @@
       { "term": "202310", "crn": "11970" },
       { "term": "202310", "crn": "11971" },
       { "term": "202310", "crn": "11972" },
-      { "term": "202310", "crn": "13160" }
+      { "term": "202310", "crn": "13160" },
+      { "term": "202510", "crn": "11595" },
+      { "term": "202510", "crn": "11596" },
+      { "term": "202510", "crn": "11597" },
+      { "term": "202510", "crn": "11598" },
+      { "term": "202510", "crn": "11599" },
+      { "term": "202510", "crn": "11600" }
     ],
     "description": "Designed to provide students with opportunities to apply concepts from PHMD 4631 to patient cases, special projects, and other medication-related issues focusing on foundational aspects of pharmacy practice, identification of drug-related problems, and management of the infectious diseases and dermatologic and oral/otic disorders. Accompanies PHMD 4631 and seeks to facilitate accomplishment of course objectives using an active-learning format. While completing seminar work, students are expected to review, discuss, integrate, and apply information presented in comprehensive disease management lectures and readings as well as previous and concurrent course work. Activities in seminar are reinforced by laboratory skill-building exercises in PHMD 4633.",
     "coreqs": [
@@ -385,7 +393,11 @@
       { "term": "202310", "crn": "12029" },
       { "term": "202310", "crn": "12030" },
       { "term": "202310", "crn": "15252" },
-      { "term": "202310", "crn": "19323" }
+      { "term": "202310", "crn": "19323" },
+      { "term": "202510", "crn": "11640" },
+      { "term": "202510", "crn": "11641" },
+      { "term": "202510", "crn": "11642" },
+      { "term": "202510", "crn": "13905" }
     ],
     "description": "Teaches and assesses various skills, including interpretation, processing, and verification of medication orders; detection and resolution of drug-related problems; use of current pharmacy software programs; and patient education and counseling in the community pharmacy setting. Uses discussions, videos, podcasts, simulations, and hands-on learning activities in the lab. While completing laboratory work, students are expected to review, discuss, integrate, and apply information presented in the closely aligned PHMD 4631 and PHMD 4632 as well as previous and concurrent course work.",
     "coreqs": [
@@ -471,7 +483,10 @@
     "scheduleType": "Lecture",
     "credits": 2,
     "nuPath": [],
-    "sections": [{ "term": "202310", "crn": "12926" }],
+    "sections": [
+      { "term": "202310", "crn": "12926" },
+      { "term": "202510", "crn": "12316" }
+    ],
     "description": "Focuses on the physiological and practical aspects of medication use in the elderly; healthcare delivery systems; the role of healthcare professionals in providing geriatric care; and the management of geriatric syndromes. Caring for the aging population requires a patient-centered approach that encompasses the patient’s health goals, a complex psychosocial landscape, as well as the physiologic changes associated with aging. It is imperative for healthcare professionals to understand the interplay of these factors in order to appropriately assess, treat, and improve outcomes for the older adult population. Offers students an opportunity to utilize problem-based learning (PBL), where students work in groups to analyze patient cases, identify problems, and develop action plans to resolve problems.",
     "coreqs": [],
     "prereqs": [
@@ -502,7 +517,17 @@
     "sections": [{ "term": "202460", "crn": "61489" }],
     "description": "Integrates foundational concepts of pharmacology, medicinal chemistry, pathophysiology, and pharmacotherapeutics to treat patients with acute and chronic cardiovascular, renal, and gastrointestinal diseases. Studies knowledge, skills, and attitudes pertaining to drug action, drug-receptor interactions, structure-activity relationships, dose-response relationships, drug mechanisms of action, therapeutic uses, and adverse effects. Offers students an opportunity to develop patient evaluation skills using the Pharmacists' Patient Care Process and identification of drug therapy problems. Emphasizes self-care, patient education, assessment, medication administration, management and monitoring, and preventative health and population-based health outcomes.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      "(",
+      { "subject": "PHSC", "number": "5110" },
+      "And",
+      { "subject": "PHSC", "number": "5181" },
+      "And",
+      { "subject": "PHMD", "number": "5191" },
+      ")",
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "PHMD",
@@ -511,7 +536,10 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20660" }],
+    "sections": [
+      { "term": "202410", "crn": "20660" },
+      { "term": "202510", "crn": "18094" }
+    ],
     "description": "Introduces policies, procedures, and expectations of the experiential program. Offers students an opportunity to prepare for their first introductory pharmacy practice experience by developing knowledge, attitudes, and communications skills needed to be successful in all components of the experiential program. Exposes students to various IPPE/co-op opportunities, as well as potential career paths, within pharmacy. Covers workplace issues including diversity, sexual harassment, ethics, and confidence of information; resumé preparation; and interviewing techniques. Introduces technical knowledge and skills required for IPPE/co-op in community and institutional settings and drug information resources.",
     "coreqs": [],
     "prereqs": []
@@ -523,10 +551,17 @@
     "scheduleType": "Lecture",
     "credits": 4,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20661" }],
+    "sections": [
+      { "term": "202410", "crn": "20661" },
+      { "term": "202510", "crn": "18095" }
+    ],
     "description": "Explores foundational concepts in social and administrative sciences, examining the organization and function of American healthcare systems. Assesses the impacts of system-level actions on individual patients. Offers students an opportunity to build skills in understanding specific drug information needs and finding and conveying this information. Compares and contrasts approaches for successful verbal and nonverbal communication among pharmacists, patients, and other health professionals across diverse situations. Evaluates American legal frameworks that establish standards for pharmacy practice today.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "3306" },
+      "Or",
+      "Graduate Admission"
+    ]
   },
   {
     "subject": "PHMD",
@@ -557,7 +592,12 @@
       { "term": "202410", "crn": "20666" },
       { "term": "202410", "crn": "20667" },
       { "term": "202410", "crn": "20668" },
-      { "term": "202410", "crn": "20669" }
+      { "term": "202410", "crn": "20669" },
+      { "term": "202510", "crn": "18098" },
+      { "term": "202510", "crn": "18099" },
+      { "term": "202510", "crn": "18100" },
+      { "term": "202510", "crn": "18101" },
+      { "term": "202510", "crn": "18102" }
     ],
     "description": "Applies concepts through activities designed to develop knowledge, skills, and attitudes focused on foundational aspects of pharmacy practice. Covers identification of drug-related problems, problem solving, and disease state management. Focuses on patient assessment and common cardiovascular diseases. Reviews, discusses, synthesizes, and applies information from current and previous coursework and experiential activities in an active-learning format.",
     "coreqs": [],
@@ -582,40 +622,24 @@
   },
   {
     "subject": "PHMD",
-    "number": "5223",
-    "title": "Evidence-Based Medicine",
+    "number": "5240",
+    "title": "Integrated Social and Administrative Sciences 2",
     "scheduleType": "Lecture",
-    "credits": 2,
-    "nuPath": ["WI"],
-    "sections": [],
-    "description": "Studies the principles of evidence-based medicine and how to apply them to patient-centered care. Offers students an opportunity to develop skills in critical appraisal of the scientific literature and practical application of the evidence to clinical decision making. Consists of didactic instruction, in-class group projects, and a group-based written assignment. Applies principles of research methodology, biostatistics, and professional writing.",
+    "credits": 4,
+    "nuPath": ["ER", "ND"],
+    "sections": [{ "term": "202510", "crn": "20098" }],
+    "description": "Provides a foundation in research methodology, drug information skills, and evidence-based medicine in an interactive format. Emphasizes research designs used in experimental and observational studies, hypothesis testing, and basic biostatistics, along with the critical examination of articles to analyze research questions and methods related to validity, generalizability, and ethical issues in design and conduct. Uses clinical trials, observational studies, and problem sets to illustrate principles of research design, conduct, data analysis, and evaluation. Emphasizes development of applied drug information skills in formulary support, health informatics, medication error and adverse event reporting, and quality assurance, as well as writing for a variety of audiences (pharmacists, healthcare providers, and the lay public) and use of peer review.",
     "coreqs": [],
     "prereqs": [
       "(",
-      { "subject": "ENGW", "number": "3306" },
-      "Or",
-      "Graduate Admission",
-      ")",
+      { "subject": "PHMD", "number": "5140" },
       "And",
-      "(",
-      { "subject": "PHMD", "number": "3450" },
+      { "subject": "PHMD", "number": "5182" },
+      "And",
+      { "subject": "PHMD", "number": "5192" },
+      ")",
       "Or",
-      { "subject": "PHMD", "number": "3450" },
-      "Or",
-      { "subject": "NRSG", "number": "5120" },
-      "Or",
-      { "subject": "NRSG", "number": "5120" },
-      "Or",
-      { "subject": "NRSG", "number": "5120" },
-      "Or",
-      { "subject": "PHTH", "number": "4202" },
-      "Or",
-      { "subject": "HLTH", "number": "5450" },
-      "Or",
-      { "subject": "HLTH", "number": "5450" },
-      "Or",
-      { "subject": "HLTH", "number": "5450" },
-      ")"
+      "Graduate Admission"
     ]
   },
   {
@@ -658,6 +682,39 @@
       { "subject": "PHMD", "number": "4632" },
       ")"
     ]
+  },
+  {
+    "subject": "PHMD",
+    "number": "5283",
+    "title": "Integrated Learning Lab 3",
+    "scheduleType": "Lab",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "20099" },
+      { "term": "202510", "crn": "20100" },
+      { "term": "202510", "crn": "20101" }
+    ],
+    "description": "Offers students an opportunity to develop and assimilate knowledge, skills, and attitudes related to the pharmaceutical care of patients to supplement and augment pharmacy curricular topics within an immersive learning experience. Includes pharmacokinetics; professional communication skills; drug information; jurisprudence; research methods; patient counseling; and pharmacology, immunology, medicinal chemistry, pathophysiology, and therapeutics of chronic rheumatologic, immune-mediated, dermatologic, and oncologic diseases. Uses innovative digital tools, environments, equipment, learning materials, and pedagogical methods that promote development and refinement of problem-solving skills, adaptability/resilience, and a team mindset that can be applied during experiential activities (co-op/introductory pharmacy practice experience/advanced pharmacy practice experience), as well as future careers.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHMD",
+    "number": "5293",
+    "title": "Concepts in Practice 3",
+    "scheduleType": "Seminar",
+    "credits": 1,
+    "nuPath": [],
+    "sections": [
+      { "term": "202510", "crn": "20103" },
+      { "term": "202510", "crn": "20104" },
+      { "term": "202510", "crn": "20105" },
+      { "term": "202510", "crn": "20106" }
+    ],
+    "description": "Applies concepts through activities designed to develop knowledge, skills, and attitudes focused on foundational aspects of pharmacy practice. Covers identification of drug-related problems, problem solving, and disease state management related to the pharmaceutical care of patients with a focus on pharmacokinetics and chronic rheumatologic, immune-mediated, dermatologic, and oncologic diseases. Reviews, discusses, synthesizes, and applies information from current and previous coursework and experiential activities in an active learning format.",
+    "coreqs": [],
+    "prereqs": []
   },
   {
     "subject": "PHMD",
@@ -709,7 +766,10 @@
       { "term": "202310", "crn": "15247" },
       { "term": "202310", "crn": "16996" },
       { "term": "202310", "crn": "16997" },
-      { "term": "202310", "crn": "18151" }
+      { "term": "202310", "crn": "18151" },
+      { "term": "202510", "crn": "13902" },
+      { "term": "202510", "crn": "14639" },
+      { "term": "202510", "crn": "15032" }
     ],
     "description": "Offers students an opportunity to obtain the skills necessary to become effective providers of drug information. An effective provider assesses drug information needs and evaluates, applies, and communicates data from the published literature and other sources to optimize patient care. Designed to help students develop applied drug information skills important to the pharmacist in areas of formulary support, health informatics, medication error and adverse event reporting, and quality assurance. Students complete a variety of active learning exercises, including multiple evidence-based written drug information responses and a current events analysis. Emphasizes writing for a variety of audiences, including pharmacists, other healthcare providers, and the lay public, as well as use of peer review.",
     "coreqs": [],
@@ -787,7 +847,23 @@
       { "term": "202310", "crn": "21282" },
       { "term": "202310", "crn": "21271" },
       { "term": "202310", "crn": "21272" },
-      { "term": "202310", "crn": "21279" }
+      { "term": "202310", "crn": "21279" },
+      { "term": "202510", "crn": "12291" },
+      { "term": "202510", "crn": "12635" },
+      { "term": "202510", "crn": "13399" },
+      { "term": "202510", "crn": "14822" },
+      { "term": "202510", "crn": "16061" },
+      { "term": "202510", "crn": "16581" },
+      { "term": "202510", "crn": "16582" },
+      { "term": "202510", "crn": "18153" },
+      { "term": "202510", "crn": "18555" },
+      { "term": "202510", "crn": "18663" },
+      { "term": "202510", "crn": "18665" },
+      { "term": "202510", "crn": "18712" },
+      { "term": "202510", "crn": "18869" },
+      { "term": "202510", "crn": "22532" },
+      { "term": "202510", "crn": "22531" },
+      { "term": "202510", "crn": "22530" }
     ],
     "description": "Acts as a final integrator of the major, general education, and experiential aspects of the student's education. Expects students to demonstrate motivation and initiative and to work cooperatively with their faculty mentor, community partners, and fellow students (where applicable) in order to complete a comprehensive, high-quality scholarly work (e.g., a research project, educational project, administrative project, business plan, case report, or community-service learning project or professional manuscript) appropriate for dissemination to the university and professional community. The timeline for completion is set by the faculty mentor and agreed to by the individual or all members of the student group. May be repeated once.",
     "coreqs": [],
@@ -800,7 +876,10 @@
     "scheduleType": "Individual Instruction",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202430", "crn": "40078" }],
+    "sections": [
+      { "term": "202430", "crn": "40078" },
+      { "term": "202510", "crn": "22965" }
+    ],
     "description": "Offers independent work under the direction of members of the department on a chosen topic. Course content depends on instructor. May be repeated for up to 4 total credits.",
     "coreqs": [],
     "prereqs": []
@@ -823,7 +902,9 @@
       { "term": "202330", "crn": "30638" },
       { "term": "202330", "crn": "30857" },
       { "term": "202310", "crn": "10661" },
-      { "term": "202310", "crn": "10995" }
+      { "term": "202310", "crn": "10995" },
+      { "term": "202510", "crn": "10564" },
+      { "term": "202510", "crn": "10823" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in the hospital setting. In collaboration with other members of the healthcare team, and under the supervision of a clinical preceptor, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients.",
     "coreqs": [],
@@ -847,7 +928,9 @@
       { "term": "202330", "crn": "30637" },
       { "term": "202330", "crn": "33295" },
       { "term": "202310", "crn": "10660" },
-      { "term": "202310", "crn": "13599" }
+      { "term": "202310", "crn": "13599" },
+      { "term": "202510", "crn": "10563" },
+      { "term": "202510", "crn": "12803" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients. In collaboration with other members of the healthcare team, and under the supervision of a clinical preceptor, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients.",
     "coreqs": [],
@@ -871,7 +954,9 @@
       { "term": "202330", "crn": "30636" },
       { "term": "202330", "crn": "30858" },
       { "term": "202310", "crn": "10659" },
-      { "term": "202310", "crn": "10996" }
+      { "term": "202310", "crn": "10996" },
+      { "term": "202510", "crn": "10562" },
+      { "term": "202510", "crn": "10824" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in an ambulatory clinic environment. In collaboration with other members of the healthcare team, and under the supervision of a clinical preceptor, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients.",
     "coreqs": [],
@@ -895,7 +980,9 @@
       { "term": "202330", "crn": "30635" },
       { "term": "202330", "crn": "30859" },
       { "term": "202310", "crn": "10658" },
-      { "term": "202310", "crn": "10997" }
+      { "term": "202310", "crn": "10997" },
+      { "term": "202510", "crn": "10561" },
+      { "term": "202510", "crn": "10825" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in a community setting. In collaboration with other members of the healthcare team, and under the supervision of a clinical preceptor, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients.",
     "coreqs": [],
@@ -911,7 +998,8 @@
     "sections": [
       { "term": "202410", "crn": "17957" },
       { "term": "202350", "crn": "51371" },
-      { "term": "202310", "crn": "20385" }
+      { "term": "202310", "crn": "20385" },
+      { "term": "202510", "crn": "16051" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in the hospital setting. In collaboration with other members of the healthcare team, and under the supervision of a clinical preceptor, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients.",
     "coreqs": [],
@@ -929,7 +1017,9 @@
       { "term": "202430", "crn": "39260" },
       { "term": "202410", "crn": "20918" },
       { "term": "202350", "crn": "52087" },
-      { "term": "202330", "crn": "40704" }
+      { "term": "202330", "crn": "40704" },
+      { "term": "202510", "crn": "18344" },
+      { "term": "202510", "crn": "21795" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in an ambulatory clinic environment. In collaboration with other members of the healthcare team, and under the supervision of a clinical preceptor, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated without limit.",
     "coreqs": [],
@@ -952,7 +1042,9 @@
       { "term": "202330", "crn": "33296" },
       { "term": "202330", "crn": "35565" },
       { "term": "202310", "crn": "14219" },
-      { "term": "202310", "crn": "13600" }
+      { "term": "202310", "crn": "13600" },
+      { "term": "202510", "crn": "13267" },
+      { "term": "202510", "crn": "12804" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients under psychiatric care. In collaboration with other members of the healthcare team, and under the supervision of a clinical preceptor, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated without limit.",
     "coreqs": [],
@@ -972,9 +1064,22 @@
       { "term": "202350", "crn": "52893" },
       { "term": "202350", "crn": "52894" },
       { "term": "202330", "crn": "33297" },
-      { "term": "202310", "crn": "13711" }
+      { "term": "202310", "crn": "13711" },
+      { "term": "202510", "crn": "12881" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in a community setting. In collaboration with other members of the healthcare team, and under the supervision of a clinical preceptor, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated without limit.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "PHMD",
+    "number": "6448",
+    "title": "Long-Term Care Advanced Pharmacy Practice Experience",
+    "scheduleType": "Off-campus instruction",
+    "credits": 6,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21797" }],
+    "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in a nursing home or rehabilitation center. Under the supervision of a clinical preceptor and, when appropriate, in conjunction with other members of the healthcare team, identifies appropriate drug therapy and monitoring requirements for common pathophysiologic processes and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated up to nine times.",
     "coreqs": [],
     "prereqs": []
   },
@@ -996,7 +1101,9 @@
       { "term": "202330", "crn": "30652" },
       { "term": "202330", "crn": "33298" },
       { "term": "202310", "crn": "10825" },
-      { "term": "202310", "crn": "13601" }
+      { "term": "202310", "crn": "13601" },
+      { "term": "202510", "crn": "10684" },
+      { "term": "202510", "crn": "12805" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in a geriatric practice setting. Under the supervision of a clinical preceptor, and, when appropriate, in conjunction with other members of the healthcare team, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated without limit.",
     "coreqs": [],
@@ -1015,7 +1122,9 @@
       { "term": "202410", "crn": "20919" },
       { "term": "202350", "crn": "50088" },
       { "term": "202330", "crn": "30651" },
-      { "term": "202310", "crn": "10656" }
+      { "term": "202310", "crn": "10656" },
+      { "term": "202510", "crn": "10560" },
+      { "term": "202510", "crn": "18345" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in a pediatric practice setting. Under the supervision of a clinical preceptor, and, when appropriate, in conjunction with other members of the healthcare team, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated without limit.",
     "coreqs": [],
@@ -1033,7 +1142,8 @@
       { "term": "202410", "crn": "13179" },
       { "term": "202350", "crn": "50786" },
       { "term": "202330", "crn": "30650" },
-      { "term": "202310", "crn": "13603" }
+      { "term": "202310", "crn": "13603" },
+      { "term": "202510", "crn": "12806" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in a neonatal practice setting. Under the supervision of a clinical preceptor, and, when appropriate, in conjunction with other members of the healthcare team, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated without limit.",
     "coreqs": [],
@@ -1055,7 +1165,8 @@
       { "term": "202330", "crn": "30649" },
       { "term": "202330", "crn": "33300" },
       { "term": "202310", "crn": "13604" },
-      { "term": "202310", "crn": "15264" }
+      { "term": "202310", "crn": "15264" },
+      { "term": "202510", "crn": "12807" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in a critical-care practice setting. Under the supervision of a clinical preceptor, and, when appropriate, in conjunction with other members of the healthcare team, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated without limit.",
     "coreqs": [],
@@ -1073,7 +1184,8 @@
       { "term": "202430", "crn": "40949" },
       { "term": "202350", "crn": "50499" },
       { "term": "202350", "crn": "52895" },
-      { "term": "202310", "crn": "10654" }
+      { "term": "202310", "crn": "10654" },
+      { "term": "202510", "crn": "21800" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in a surgical practice setting. Under the supervision of a clinical preceptor, and, when appropriate, in conjunction with other members of the healthcare team, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated without limit.",
     "coreqs": [],
@@ -1096,7 +1208,9 @@
       { "term": "202330", "crn": "30647" },
       { "term": "202330", "crn": "33301" },
       { "term": "202310", "crn": "10653" },
-      { "term": "202310", "crn": "13605" }
+      { "term": "202310", "crn": "13605" },
+      { "term": "202510", "crn": "10558" },
+      { "term": "202510", "crn": "12808" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in a cardiology practice setting. Under the supervision of a clinical preceptor, and, when appropriate, in conjunction with other members of the healthcare team, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated without limit.",
     "coreqs": [],
@@ -1119,7 +1233,9 @@
       { "term": "202330", "crn": "30646" },
       { "term": "202330", "crn": "39832" },
       { "term": "202310", "crn": "14217" },
-      { "term": "202310", "crn": "20454" }
+      { "term": "202310", "crn": "20454" },
+      { "term": "202510", "crn": "13265" },
+      { "term": "202510", "crn": "16100" }
     ],
     "description": "Applies drug information skills to site-specific drug information requests under the supervision of a clinical preceptor, and, when appropriate, in conjunction with other members of the site team. Using appropriate sources, the student analyzes drug information findings, such as dosing, monitoring, indications, efficacy, and adverse drug reactions. May be repeated without limit.",
     "coreqs": [],
@@ -1143,7 +1259,9 @@
       { "term": "202330", "crn": "30645" },
       { "term": "202330", "crn": "33303" },
       { "term": "202310", "crn": "10792" },
-      { "term": "202310", "crn": "13606" }
+      { "term": "202310", "crn": "13606" },
+      { "term": "202510", "crn": "10666" },
+      { "term": "202510", "crn": "12809" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in an oncology practice setting. Under the supervision of a clinical preceptor, and, when appropriate, in conjunction with other members of the healthcare team, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated without limit.",
     "coreqs": [],
@@ -1166,7 +1284,9 @@
       { "term": "202330", "crn": "32952" },
       { "term": "202330", "crn": "33305" },
       { "term": "202310", "crn": "10651" },
-      { "term": "202310", "crn": "13607" }
+      { "term": "202310", "crn": "13607" },
+      { "term": "202510", "crn": "12810" },
+      { "term": "202510", "crn": "21801" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients on an infectious disease consult service. Under the supervision of a clinical preceptor, and, when appropriate, in conjunction with other members of the healthcare team, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated without limit.",
     "coreqs": [],
@@ -1190,7 +1310,9 @@
       { "term": "202330", "crn": "30644" },
       { "term": "202330", "crn": "33306" },
       { "term": "202310", "crn": "10824" },
-      { "term": "202310", "crn": "14218" }
+      { "term": "202310", "crn": "14218" },
+      { "term": "202510", "crn": "10683" },
+      { "term": "202510", "crn": "13266" }
     ],
     "description": "Focuses on the application of regulatory affairs and healthcare principles in the pharmaceutical industry. Under the supervision of a preceptor, and, when appropriate, in conjunction with other members of the site team, participates in appropriate activities, such as drug research and development, marketing, medical affairs, regulatory affairs, and information service. May be repeated without limit.",
     "coreqs": [],
@@ -1211,7 +1333,9 @@
       { "term": "202350", "crn": "50080" },
       { "term": "202350", "crn": "50519" },
       { "term": "202330", "crn": "39985" },
-      { "term": "202310", "crn": "10650" }
+      { "term": "202310", "crn": "10650" },
+      { "term": "202510", "crn": "10556" },
+      { "term": "202510", "crn": "18346" }
     ],
     "description": "Applies healthcare and management principles, with emphasis on pharmacy administration, under the supervision of a preceptor, and, when appropriate, in conjunction with other members of the site team. May be repeated without limit.",
     "coreqs": [],
@@ -1229,7 +1353,9 @@
       { "term": "202410", "crn": "20921" },
       { "term": "202410", "crn": "20922" },
       { "term": "202350", "crn": "52897" },
-      { "term": "202350", "crn": "52898" }
+      { "term": "202350", "crn": "52898" },
+      { "term": "202510", "crn": "18347" },
+      { "term": "202510", "crn": "18348" }
     ],
     "description": "Participates in appropriate activities including but not limited to principles of and compliance with pharmacy law and review of regulations governing the FDA's mandatory reporting of adverse drug reactions under the supervision of a preceptor, and, when appropriate, in conjunction with other members of the site team. In addition, students may have the opportunity to be given a step-by-step introduction to public record laws, Board Regulations at 247 CMR, and pharmacy statutes at Massachusetts General Laws, Chapter 112, 24(A)–42(A). May be repeated without limit.",
     "coreqs": [],
@@ -1251,7 +1377,9 @@
       { "term": "202350", "crn": "52899" },
       { "term": "202330", "crn": "33750" },
       { "term": "202310", "crn": "13609" },
-      { "term": "202310", "crn": "17364" }
+      { "term": "202310", "crn": "17364" },
+      { "term": "202510", "crn": "12811" },
+      { "term": "202510", "crn": "14742" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in a managed-care practice setting. Under the supervision of a clinical preceptor, and, when appropriate, in conjunction with other members of the healthcare team, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated without limit.",
     "coreqs": [],
@@ -1274,7 +1402,9 @@
       { "term": "202330", "crn": "30643" },
       { "term": "202330", "crn": "33309" },
       { "term": "202310", "crn": "10823" },
-      { "term": "202310", "crn": "13610" }
+      { "term": "202310", "crn": "13610" },
+      { "term": "202510", "crn": "10682" },
+      { "term": "202510", "crn": "12812" }
     ],
     "description": "Applies principles of pathophysiology, therapeutics, and communication to the pharmacy-care management of individual patients in a transplantation unit. Under the supervision of a clinical preceptor, and, when appropriate, in conjunction with other members of the healthcare team, offers identification of appropriate drug therapy and monitoring requirements for common pathophysiologic processes, and, when indicated, modification of population-based treatment strategies based on the unique characteristics of individual patients. May be repeated without limit.",
     "coreqs": [],
@@ -1297,7 +1427,9 @@
       { "term": "202330", "crn": "30642" },
       { "term": "202330", "crn": "33310" },
       { "term": "202310", "crn": "10791" },
-      { "term": "202310", "crn": "13611" }
+      { "term": "202310", "crn": "13611" },
+      { "term": "202510", "crn": "10665" },
+      { "term": "202510", "crn": "12813" }
     ],
     "description": "Offers nontraditional experience with an approved preceptor at an appropriate site. Based on availability. May be repeated without limit.",
     "coreqs": [],
@@ -1326,7 +1458,8 @@
       { "term": "202430", "crn": "30807" },
       { "term": "202350", "crn": "50645" },
       { "term": "202330", "crn": "30860" },
-      { "term": "202330", "crn": "33453" }
+      { "term": "202330", "crn": "33453" },
+      { "term": "202510", "crn": "21778" }
     ],
     "description": "Offers students an opportunity to teach in the pharmacy curriculum under the supervision of a faculty member. Students have an opportunity to examine how teachers use experience-based and problem-based approaches to engage the range of student learners (third- through fifth-year pharmacy students) to attain their learning goals. May be repeated up to two times.",
     "coreqs": [],
@@ -1348,7 +1481,10 @@
       { "term": "202330", "crn": "39834" },
       { "term": "202330", "crn": "39836" },
       { "term": "202310", "crn": "13613" },
-      { "term": "202310", "crn": "20392" }
+      { "term": "202310", "crn": "20392" },
+      { "term": "202510", "crn": "12814" },
+      { "term": "202510", "crn": "21807" },
+      { "term": "202510", "crn": "21808" }
     ],
     "description": "Offers students interested in gaining basic or clinical research experience an opportunity to work under the direction of an experienced researcher at an appropriate site. Students can elect either a basic science (lab-based) preceptor or a clinical (patient-based) preceptor. Students can expect to be an active participant in a variety of different research activities and experiences that are deemed appropriate by the preceptor. The research efforts of the student may result in a peer-reviewed research abstract and/or presentation. May be repeated up to two times.",
     "coreqs": [],
@@ -1361,7 +1497,11 @@
     "scheduleType": "Individual Instruction",
     "credits": 0,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "21926" }],
+    "sections": [
+      { "term": "202410", "crn": "21926" },
+      { "term": "202510", "crn": "19314" },
+      { "term": "202440", "crn": "42245" }
+    ],
     "description": "Provides eligible students with an opportunity for work experience. May be repeated without limit.",
     "coreqs": [],
     "prereqs": []

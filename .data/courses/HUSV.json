@@ -10,7 +10,8 @@
       { "term": "202430", "crn": "34261" },
       { "term": "202410", "crn": "10174" },
       { "term": "202330", "crn": "35008" },
-      { "term": "202310", "crn": "10182" }
+      { "term": "202310", "crn": "10182" },
+      { "term": "202510", "crn": "10165" }
     ],
     "description": "Intended for first-year students in the College of Social Sciences and Humanities. Introduces students to liberal arts; familiarizes them with their major; develops the academic skills necessary to succeed (analytical ability and critical thinking); provides grounding in the culture and values of the University community; and helps to develop interpersonal skills—in short, familiarizes students with all skills needed to become a successful university student.",
     "coreqs": [],
@@ -32,7 +33,9 @@
       { "term": "202330", "crn": "33082" },
       { "term": "202310", "crn": "10181" },
       { "term": "202310", "crn": "10937" },
-      { "term": "202310", "crn": "20497" }
+      { "term": "202310", "crn": "20497" },
+      { "term": "202510", "crn": "10164" },
+      { "term": "202510", "crn": "10781" }
     ],
     "description": "Offers students an opportunity to obtain a foundation for understanding social inequality and for practicing in the human services field. Introduces students to a range of specializations in the area of human services through lectures, service-learning, group work, individual projects, papers, debates, and presentations. Analyzes and applies ethical frames for practice using case studies and service-learning experiences. Additionally, students are expected to develop an understanding of the history of nonprofit and government responses to inequality and the social, political, and economic forces that influence social professionals.",
     "coreqs": [],
@@ -45,7 +48,10 @@
     "scheduleType": "Seminar",
     "credits": 1,
     "nuPath": [],
-    "sections": [{ "term": "202410", "crn": "20388" }],
+    "sections": [
+      { "term": "202410", "crn": "20388" },
+      { "term": "202510", "crn": "17832" }
+    ],
     "description": "Class Location:\nWednesday, September 6th: 310R Renaissance Park\nWednesday, September 13th: 310R Renaissance Park\nSaturday, September 16th: 124 Ryder \nWednesday, September 20th: 310R Renaissance Park\nWednesday, September 27th: 310R Renaissance Park",
     "coreqs": [],
     "prereqs": []
@@ -67,7 +73,9 @@
       { "term": "202330", "crn": "34731" },
       { "term": "202310", "crn": "10180" },
       { "term": "202310", "crn": "16444" },
-      { "term": "202310", "crn": "20797" }
+      { "term": "202310", "crn": "20797" },
+      { "term": "202510", "crn": "10163" },
+      { "term": "202510", "crn": "17369" }
     ],
     "description": "Presents an overview of the major theoretical approaches to counseling and therapeutic interventions. Focuses on developing clinical skills and competency in intentional interviewing. Combines systemic group exercises and experiential activities to practice interviewing techniques. Cross-cultural issues in counseling are integrated throughout the course.",
     "coreqs": [],
@@ -99,7 +107,7 @@
     ],
     "description": "Provides in-depth understanding of clinical practice with individuals, groups, and families. Focuses on developing practice skills through presentations, case studies, and self-reflection journals. Examines the role of spirituality within one's clinical practice. Explores theoretical techniques and their applications in a variety of settings, with particular attention to populations at risk.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [{ "subject": "HUSV", "number": "2300" }]
   },
   {
     "subject": "HUSV",
@@ -111,7 +119,8 @@
     "sections": [
       { "term": "202410", "crn": "14217" },
       { "term": "202330", "crn": "38743" },
-      { "term": "202310", "crn": "14871" }
+      { "term": "202310", "crn": "14871" },
+      { "term": "202510", "crn": "13708" }
     ],
     "description": "Explores mindfulness and its relationship to human services. Mindfulness is practiced in myriad human services settings, including schools, mental health facilities, medical settings, and prisons. Traces the development of mindfulness from its origins in Buddhism, to early adoption and integration with Western mental health ideologies, to the ways it is currently being integrated in social service organizations. Explores the inherent tensions in adopting a practice embedded in ancient non-Western cultures to Western thinking, healing, and psychotherapy. Examines the ways culture, identity, and power have shaped the presentation and proliferation of mindfulness.",
     "coreqs": [],
@@ -129,11 +138,21 @@
       { "term": "202410", "crn": "19520" },
       { "term": "202330", "crn": "35149" },
       { "term": "202330", "crn": "39291" },
-      { "term": "202310", "crn": "16445" }
+      { "term": "202310", "crn": "16445" },
+      { "term": "202510", "crn": "17027" },
+      { "term": "202510", "crn": "21194" }
     ],
     "description": "Cross-listed with SOCL & AFAM 2355.",
     "coreqs": [],
-    "prereqs": []
+    "prereqs": [
+      { "subject": "ENGW", "number": "1102" },
+      "Or",
+      { "subject": "ENGW", "number": "1111" },
+      "Or",
+      { "subject": "ENGW", "number": "1113" },
+      "Or",
+      { "subject": "ENGW", "number": "1114" }
+    ]
   },
   {
     "subject": "HUSV",
@@ -145,7 +164,8 @@
     "sections": [
       { "term": "202430", "crn": "40506" },
       { "term": "202410", "crn": "16664" },
-      { "term": "202310", "crn": "19005" }
+      { "term": "202310", "crn": "19005" },
+      { "term": "202510", "crn": "15359" }
     ],
     "description": "Explores the roots of restorative justice and locates contemporary examples of its application in various settings in the United States and the world. Examines its utility in addressing the mass incarceration crisis and the current penal system and mode of punishment in the United States. Students practice and apply critical race and systems theories to use a systems lens to examine the impact of racism, sexism, gender discrimination, and other systems of oppression on behavior and the justice system.",
     "coreqs": [],
@@ -169,6 +189,18 @@
   },
   {
     "subject": "HUSV",
+    "number": "2440",
+    "title": "Expressive Therapy",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": ["EI"],
+    "sections": [{ "term": "202510", "crn": "21497" }],
+    "description": "Examines foundational practices and theory in expressive therapies. Considers the ways that expressive therapies are used in clinical and community-based settings as a tool to improve well-being and mental health. Explores expressive modalities such as the visual arts, performing arts, movement, music, and creative writing. Special attention is given to contemporary topics including trauma, human development, and social and economic inequalities. Considers the application of expressive therapies in different settings, such as schools, hospitals, residential programs, and prisons.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HUSV",
     "number": "2800",
     "title": "Sexual Orientation and Gender Expression",
     "scheduleType": "Lecture",
@@ -178,7 +210,8 @@
       { "term": "202430", "crn": "33650" },
       { "term": "202410", "crn": "12590" },
       { "term": "202330", "crn": "34218" },
-      { "term": "202310", "crn": "12912" }
+      { "term": "202310", "crn": "12912" },
+      { "term": "202510", "crn": "12304" }
     ],
     "description": "Introduces students to efforts among social and nonprofit organizations working to reduce heterosexism, homophobia, and transphobia in institutions, communities, and the society as a whole. Discusses practice across the life span for social professionals (social workers, counselors, advocates, and educators) in varied settings such as criminal justice, mental health, adoption, adult day health, and residential programs. Applying theories and current scholarship on LGBTQQ identity development, social movements, media, and advocacy, offers students an opportunity to evaluate contemporary issues of controversy for institutions, social practitioners, and policy. HUSV 2800 and WMNS 2800 are cross-listed.",
     "coreqs": [],
@@ -195,7 +228,8 @@
       { "term": "202430", "crn": "33184" },
       { "term": "202410", "crn": "15196" },
       { "term": "202330", "crn": "33616" },
-      { "term": "202310", "crn": "16447" }
+      { "term": "202310", "crn": "16447" },
+      { "term": "202510", "crn": "14450" }
     ],
     "description": "Compares and contrasts primary, secondary, and tertiary levels of intervention as they pertain to child welfare systems. Examines specifically the effectiveness and efficiency of home-visiting-based interventions, school-based interventions, child welfare interventions, and programs and practices targeted to reduce and eliminate juvenile delinquency. Considers the availability, distribution, and effectiveness of these prevention, intervention, and treatment programs as they apply to children and their families. Hands-on service learning in the field of child intervention is designed to link the course work on research and theory to human service practice.",
     "coreqs": [],
@@ -210,7 +244,8 @@
     "nuPath": [],
     "sections": [
       { "term": "202430", "crn": "39366" },
-      { "term": "202410", "crn": "20254" }
+      { "term": "202410", "crn": "20254" },
+      { "term": "202510", "crn": "17705" }
     ],
     "description": "This course if cross-listed with CRIM 3540.",
     "coreqs": [],
@@ -228,9 +263,22 @@
       { "term": "202410", "crn": "10120" },
       { "term": "202330", "crn": "30041" },
       { "term": "202310", "crn": "10127" },
-      { "term": "202310", "crn": "20798" }
+      { "term": "202310", "crn": "20798" },
+      { "term": "202510", "crn": "10116" }
     ],
     "description": "Offers students an opportunity to explore the nonprofit sector's multifaceted role in U.S. society and its relationship to democracy and social change. Introduces theoretical and practical frameworks for examining contemporary models of nonprofit and philanthropic practice and examines the ethical implications of engaging in and funding activities designed to effect social change. Offers students an opportunity to apply these concepts by mapping the complex systems within which social challenges emerge and by making real dollar grants to local nonprofit organizations.",
+    "coreqs": [],
+    "prereqs": []
+  },
+  {
+    "subject": "HUSV",
+    "number": "3580",
+    "title": "Sexual Violence: Counseling, Programs, and Policy",
+    "scheduleType": "Lecture",
+    "credits": 4,
+    "nuPath": [],
+    "sections": [{ "term": "202510", "crn": "21195" }],
+    "description": "Offers an in-depth examination of sexual violence, its effects, and the resources available to assist survivors. Presents an overview of the criminal justice, medical, legal, and counseling systems and the impact these interweaving systems have on survivors. Offers students an opportunity to develop crisis counseling competency through group exercises and experiential activities. HUSV 3580 and WMNS 3580 are cross-listed.",
     "coreqs": [],
     "prereqs": []
   },
@@ -263,7 +311,8 @@
       { "term": "202410", "crn": "13864" },
       { "term": "202330", "crn": "30349" },
       { "term": "202330", "crn": "39329" },
-      { "term": "202310", "crn": "14420" }
+      { "term": "202310", "crn": "14420" },
+      { "term": "202510", "crn": "13414" }
     ],
     "description": "Examines emerging roles and career options within the human services field. Focuses on self-examination of attitudes and values affecting delivery of services, exploration of ethical issues and dilemmas relevant to human services, grant and funding issues, staff supervision and development within human services agencies, and refinement of group leadership skills.",
     "coreqs": [],
@@ -280,7 +329,8 @@
       { "term": "202410", "crn": "12347" },
       { "term": "202330", "crn": "31246" },
       { "term": "202330", "crn": "39330" },
-      { "term": "202310", "crn": "12639" }
+      { "term": "202310", "crn": "12639" },
+      { "term": "202510", "crn": "12095" }
     ],
     "description": "Requires students to fulfill one internship placement during the last two years of the program. Consists of required field site hours and varies according to the students’ interests. Examples of placement sites include community centers, nursing homes, vocational workshops, state and federal agencies for children, and recreational facilities. Experiences are supervised by internship supervisor to maximize the student’s learning opportunities. Fulfills the experiential education requirement. May be repeated without limit.",
     "coreqs": [],
